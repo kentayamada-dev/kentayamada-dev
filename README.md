@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dced8670165986a111ec646e90bf35c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4f792807ed8c1c196f671b978d3cd51.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
+      <a href=https://news.yahoo.co.jp/articles/0676d45d85feaa9ec3e0a8aa40dfb2e0684e2934>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-21904555-atv-000-2-thumb.jpg?exp=10800&fmt=webp> 漁師のなかには水揚げ量が「例年の1割」とする人も　ホタテ大量死　「陸奥湾ホタテ」の落札価格は3回連続で過去最高値を更新「前回も考えられない値段だったけれども…」募る危機感　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc8644aba36cea3ae508eaeefcc13c57f91b0802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000081-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 鳥羽水族館のラッコ「メイ」が21歳に　特製ケーキでお祝い　三重
+      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538261>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 愛知の住宅で夫婦死亡 体に切り傷
+      <a href=https://news.yahoo.co.jp/pickup/6538264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7df094b45151a78c0a6cc5e08100d6f67a615b68859a8b653a5d7733b128a7fb.jpg> ローマ教皇の就任式 麻生氏派遣へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/150cb10457974696e8917b2dd8200b38f69226d88110579e6a5331f280793bd6.jpg> あずきバー増産へ アイス工場新設
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/c84dffe023b81ff6644349e7f9d665381fdaede06d9a4ad5e638e33157b4746f.jpg> 珍事 スライディングして打球直撃
+      <a href=https://news.yahoo.co.jp/pickup/6538263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/12d8f06f3c2326e8e09c7501d7825b4163fdf6f1d4e93f9fec2e8b7bbff94c09.jpg> ラッコのメイ誕生日 人間なら90歳
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 21:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 21:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
