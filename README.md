@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/623b3cd48fa8f4cbb67067941e6a96c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/597b9140f318049e5396159bd6a43488.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25ccc295b6f9cc90b67f569e3ac0ec3923a7ec16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000266-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=950&ch=950&exp=10800&fmt=webp> バンザイ返し？大谷翔平の決勝3ランポーズ「真似ている」5回に満塁弾放ったグリエルと酷似と話題に
+      <a href=https://news.yahoo.co.jp/articles/10ada62bb8c5c3752434a46d70762f0d9140dfc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000035-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 打った瞬間確信…劇的な勝ち越しホームラン！ドジャース大谷翔平3安打4打点の大活躍！
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34e903ddf9c2902359b5344145c78e73f12f9bd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000036-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 盗難で韓国に渡った仏像、長崎・対馬の寺に返還　日韓関係に一時摩擦
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000036-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 盗難で韓国に渡った仏像、長崎・対馬の寺に返還　日韓関係に一時摩擦
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3325718c5ac9636f19215faa2597f8502f7dea6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インドに反撃、核兵器会合開催　軍事施設標的で緊張激化　パキスタン
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000054-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=821&ch=821&exp=10800&fmt=webp> インドに反撃、核兵器会合開催　軍事施設標的で緊張激化　パキスタン
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f1712ce8802ceae25375455be4ec8deaabe5b50964144b52976a629bb3447de3.jpg> 黄砂が飛来 5月いっぱいは注意
+      <a href=https://news.yahoo.co.jp/pickup/6538330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/77d05bc94e6d22c8a1a6b5d01ec08936a218137e9e3d78c9fb8d7d50b14703a7.jpg> 学校で空襲 撃たれた炊事班の18歳
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/198b2d47547382e96c4dc4bb12d2e8c23f4092142e0d5322714bf510f932cda0.jpg> 中小企業 食費補助で実質的賃上げ
+      <a href=https://news.yahoo.co.jp/pickup/6538337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/316d8d710b5229e7acc5f295de250ee39e6922f30047166e0c527ffec81f61b7.jpg> ドローンで偶然発見 漂流3人救助
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 17:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 17:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
