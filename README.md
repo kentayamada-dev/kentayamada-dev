@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51c8a5e4effa2a3380fbebfaf11fb8df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0ce2472b528eeacf79ae56e0991b0bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d58b511d6fb1df47849ee76cc02ddc054a52269>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米、航空機部品にも関税検討　商務省が調査　日本企業に打撃か
+      <a href=https://news.yahoo.co.jp/articles/03e3dd67f503496c0e6b261b9fb650480d2bee2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000027-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 大谷翔平、“本塁打級”飛球の二塁打で先制口火　打球速度173キロ超でフェンス直撃　飛距離128・9メートルは前日11号の距離に肉薄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/181002ddc57293098b0c12479cfc0800c7b310b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000022-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希、プロ初の中5日で先発、大谷翔平の12号援護弾は出るか…同地区のダイヤモンドバックス戦、屋根開放試合で厄介な気候との戦いも
+      <a href=https://news.yahoo.co.jp/articles/b29fce50eddaa33124fe34bdc399d66e7ffc06d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050046-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権が航空機やエンジンにも追加関税へ、調査始める…日本メーカーにも影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7be2774efa340ff569d467dd01c06dd33527e22d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、対中関税引き下げ示唆「80％が妥当」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93e5bb02e9cc6644114363723b2ddcc9e0c88131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000242-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> DeNA・林琢真が決めた！泣いた！自身初のサヨナラ打　途中出場で大仕事、天国のおじいちゃんのためにも今季は「絶対にやってやろうと」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/e767add13e3d3830da4aaa29c461a2df43ea55cb6d44b01b45566b5f4b2fb2f1.jpg> パキスタン軍 印へ反撃開始を表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/40c440df4b44e6771772cab96cbe89410a0b370577eff0f99a321c3e9b4ce150.jpg> パキスタン軍 印へ反撃開始を表明
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a66b711569f469b89d342331916c69de01101053a46b4eabf195470da966c232.jpg> マンションに女性2遺体 男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/50108901639f621901115f3f314cd22933ff60039488b30a3447f70e99752c26.jpg> 小学校侵入 保護者から不安の声
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538297>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 母68歳 もう一度「中学生」に
+      <a href=https://news.yahoo.co.jp/pickup/6538286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/9bcf342564117ab076ce6462f7c9e9a3ec2a933854ec544c147ae20165f0f325.jpg> 闇バイト 逮捕と保護を分けた行動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/5878242b412b43fcc3d01c0be02294ef247df6eb6fcbe98acd825e8948c1cce5.jpg> 大阪市で水道管破裂 道路が冠水
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 10:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 11:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
