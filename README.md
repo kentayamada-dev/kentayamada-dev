@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7487d10410e1ff39cc37bd78289b0eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28cab3f53e6f5e6808d20bbd32282744.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0addc6ed26d603a01729853f7da0b03796016e33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-35101542-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=965&ch=965&exp=10800&fmt=webp> ドジャース佐々木朗希「真っすぐの強さがなかった」…初の中５日登板も５回途中５失点と課題残す
+      <a href=https://news.yahoo.co.jp/articles/80af294684d7710fed43e867981555abaec479a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01751086-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵地実況が大谷翔平に「グッバーイ」　勝負を決めた一撃に呆然「悪夢は続きます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/932c752b4f95f19a63efa39fc183ffd0b6b0fb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534568-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷12号で“映画級の1枚”が撮影される　「永遠に語り継がれる」「とてつもない」米ファン感嘆
+      <a href=https://news.yahoo.co.jp/articles/72d46a6c5f90aea9ee122ed7be4b8d613f70b3fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050137-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=358&ch=358&exp=10800&fmt=webp> トランプ政権、航空機や部品の追加関税導入も調査…三菱重工など日本メーカーに影響の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c8331419be69aaef2b644649113462793d91fb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050118-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 関税巡る米中協議、スイスで始まる…合成麻薬フェンタニルも議題か・習近平氏側近の公安相派遣
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab2ce9ce50ff6a96a167cb031680bcc6be37e6d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235781-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 激しい対立が続くなか、貿易摩擦をめぐるアメリカと中国の初の直接協議始まる　
+      <a href=https://news.yahoo.co.jp/articles/e85eed1a5c0f46e0b25e0b4b03dbda257dc3ffaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010042-nishispo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 球団4年ぶりのグランドスラム！　西武・ネビンが左翼席に突き刺した　好投の今井達也を助ける一発
       </a>
     </td>
   </tr>
@@ -394,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9d5b8cdee1c1b1cbf526ca31c1a4c9b3b2d04d51238f5aa7d2018d661164df4.jpg> 孤立死2万人 問われる最期の準備
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538346>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d0e9c7dd37ad673e1b183de8434dd2fc140b3c912fd46c080668c5e19c4eb0ee.jpg> 米が印・パキスタンに沈静化要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/00554bd7e1bf1438f262284053b000fff752ce5ff95f4223ee86691c0740ebd5.jpg> メトロ切りつけ 駅選んだ理由供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/98ecb59763e0514277ef5a594cffea9dd4c3bfdc50d401f661f314e766e3e77a.jpg> アメリカの人気車種 関税影響か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/2100da782642e74e62fde254b64823ae609b5279c9abc2d70dc00331c68df3a1.jpg> 逆子治す手術で子に障害 母の思い
+      <a href=https://news.yahoo.co.jp/pickup/6538343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/98ecb59763e0514277ef5a594cffea9dd4c3bfdc50d401f661f314e766e3e77a.jpg> アメリカの人気車種 関税影響か
       </a>
     </td>
   </tr>
@@ -456,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/99e310c26c38cdaee015bea8de8e04466efcec12a5edcda3f192a71067849642.jpg> 珍事 パで1日に3本の満塁本塁打
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 20:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 21:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
