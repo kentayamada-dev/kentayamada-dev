@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8adbc4922a8324574964a06dd68d7d2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c84ae7837fcebc80c7ab6d452c8fd7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cde69ab79689f6bf00f1346cd87c48f8147d2822>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010049-nishispo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 西武が今季3度目の3連勝　4番ネビンがチーム4年ぶりのグランドスラム　エース今井達也は22回連続無失点＆2戦連続2桁奪三振
+      <a href=https://news.yahoo.co.jp/articles/98987d952642a16d9f60f83e16c81285fa4044f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000147-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1478&ch=1478&exp=10800&fmt=webp> 交戦拡大から一転、印パが停戦　「完全即時」とトランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80af294684d7710fed43e867981555abaec479a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01751086-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵地実況が大谷翔平に「グッバーイ」　勝負を決めた一撃に呆然「悪夢は続きます」
+      <a href=https://news.yahoo.co.jp/articles/ebaab6fab28303f92775ec4fd366f5c1dbc3882e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00344087-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】ネビン　チーム４年ぶり満塁弾に興奮「アメリカにヒーローインタビューはないので…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71b1baf7bff5fd680d108adc04840a993c9ab4b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中関税めぐる初の協議　スイスで始まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b965c16c6a0d714275e7f70a26084de576b20a0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01751079-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 劇的弾で“大谷さん以外”の表情が「たまらん」　ド軍同僚の神リアクションに「尊い」
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72d46a6c5f90aea9ee122ed7be4b8d613f70b3fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050137-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=358&ch=358&exp=10800&fmt=webp> トランプ政権、航空機や部品の追加関税導入も調査…三菱重工など日本メーカーに影響の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c617159a78198fcd9e368aa40852ec8b6d8e5f0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> カシミールの衝突激化 パキスタン「自制の用意」 インドは正当性強調
       </a>
     </td>
   </tr>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9d5b8cdee1c1b1cbf526ca31c1a4c9b3b2d04d51238f5aa7d2018d661164df4.jpg> 孤立死2万人 問われる最期の準備
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/278c5cd8955d0f32093025e9b7319f15b0b9c145c592c9ad7e316f0060b09953.jpg> 脱線事故 婚約者失い絶望と憎しみ
+      <a href=https://news.yahoo.co.jp/pickup/6538358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a56c130fc95824a6accb1ad944fcfd6de2476af4d128f5dc77ba01f3c8dcf266.jpg> タイの倒壊ビル捜索終了 死者89人
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538339>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02198646/title-1746505528272.jpeg?exp=10800> ゲーム映画ヒット連発 業界の変化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538354>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/2bdd1cfda435a6637c93c6a92af7be0b33df0f1c512f51722eb460af0fd59c52.jpg> 処方薬とシナモン相互作用か 研究
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/4b5570e971c2f4b6c109c237b0cc77b268519cf78d971b7702eca05cb8ffc352.jpg> コメ高騰 せめぎ合い続く学食
+      <a href=https://news.yahoo.co.jp/pickup/6538364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/23a2708d84c337383f228c542b8dcff8fbb5d6ce6af5fb5dfbff560b31302359.jpg> 3軍からの下克上 巨人・浅野がHR
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 21:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 22:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
