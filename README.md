@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d852dfc919b6c736ecff94e19e015f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7550540622b4861467a18cc1e3d0c61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95439949a47ef2dda8bea65cc13e626f2a120ebd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000019-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 英独仏ポーランド首脳、ウクライナ訪問へ　「30日停戦」に向け協議
+      <a href=https://news.yahoo.co.jp/articles/0181f0b7e4d83a9d5f17c14f4bb7470ae778c4ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000055-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1715&ch=1715&exp=10800&fmt=webp> 米、航空機と部品の追加関税検討　輸入が安全保障に与える影響調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d60895137a6c7aafbb4fc92965153f48805b975>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏独ポーランドの首脳、ウクライナで有志国会合　露に30日間の停戦受諾要求へ
       </a>
     </td>
   </tr>
@@ -395,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/604d56ccd393529dd4ef7dd297b3352144f75bff336ac454f0e78aa09ac0672e.jpg> インドが軍基地攻撃とパキスタン
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/1c2ff01a01aa9be3f17143bf3341f3ac902b90363f78bd7ceb3635f5a6d9f90e.jpg> インドが軍基地攻撃とパキスタン
       </a>
     </td>
   </tr>
@@ -404,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538290>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/87adb21eb86f66495414ca3a2c16c76dde4c0ae3c5de71fa2676f3f572e290e9.jpg> 元交際相手がストーカーに 対応策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/1fc50bdfc5ed436fe450768d8396711ba925cb7b3e6da3638305fb292bbd4730.jpg> 三井住友FG 印の大手銀に出資へ
       </a>
     </td>
   </tr>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538287>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7060ec66e9c134b2fb191d95ab00b20f92a90b58fff2110e2b5b32e4e1b71188.jpg> 過去最長の黒潮大蛇行 終息の兆し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f77d7e830d00cc0bc4c10a7c4553fb836cfa1684118bbdc53956d40f6c010837.jpg> 70代夫婦死亡 祖父殺害疑い孫逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 09:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 10:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
