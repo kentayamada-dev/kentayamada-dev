@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b09b7e57801b904a0c198960529e34d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3638a1ad1ebf1a95634a09f632808b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e84e53b516479a296dd1a01fcbfdcdf8a798f73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235745-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 攻撃の応酬はカシミール以外にも拡大　インドとパキスタンの軍事衝突
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4271e4a51a3cf949e14739efbd8cb5a8e5645572>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05158267-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 住宅で高齢夫婦が死亡、同居の16歳孫を祖父殺害疑いで逮捕　愛知・田原市
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d49f73f4cfdf42a32c50e5f437ad1ecc6bd5c387>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b97253976f1bef032f02e2d5711d81744de5021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パキスタン、印が空軍基地攻撃と発表　ミサイル保管施設標的に反撃か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7be2774efa340ff569d467dd01c06dd33527e22d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、対中関税引き下げ示唆「80％が妥当」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf14c279e5e4eb58aca64bd0e5df176dd8aca572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90040298-tokaiv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 祖父に対する殺人容疑で孫の16歳男子高校生を逮捕 70代夫婦が自宅で血を流し死亡していた事件 祖母も殺害か
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/40c440df4b44e6771772cab96cbe89410a0b370577eff0f99a321c3e9b4ce150.jpg> パキスタン軍 印へ反撃開始を表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/87311bc527d535135f2f9331449e98646b0e9937f6dce9f6e9acb69abef0373a.jpg> パキスタン軍 印へ反撃開始を表明
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d9de114d9f23992223e21f6355df32c76ec8cca5bc607c82af15cb0ead8b3262.jpg> 乙坂智 マリナーズとマイナー契約
+      <a href=https://news.yahoo.co.jp/pickup/6538308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/710842fe6a7d8bc94d2f7282e1d401f823a99af41f7c83ce6088fc93be922170.jpg> 元AKB48・武藤十夢 歩む異例の道
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 11:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 12:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
