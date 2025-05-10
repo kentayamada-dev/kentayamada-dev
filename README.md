@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d031a05dc297f6ffdf49d0ca9d2c8004.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d85cf719ebd3c7f696130aa837a9ef5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f7ed5b60dbe746874b32873dcf06e186ec6c3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235798-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン停戦合意も交戦継続か…　インド政府“パキスタンが合意違反”「責任ある対応を」
+      <a href=https://news.yahoo.co.jp/articles/88cf14d0601c02706b6faef0b8baa88e183210eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-05101381-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 日本ハムの“しんじょうに悪いパート２”は２５歳主砲の満塁弾返しで逆転
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88cf14d0601c02706b6faef0b8baa88e183210eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-05101381-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 日本ハムの“しんじょうに悪いパート２”は２５歳主砲の満塁弾返しで逆転
+      <a href=https://news.yahoo.co.jp/articles/833778985b82d166ec04bafb5e7ef334ae16f24e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 印パ、互いに停戦違反主張　合意発表直後、履行に暗雲も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f82a524d0e414fa3e657c76221c84778e3116eff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35101971-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 浜田雅功、青の着物姿でステージに登場！息子とも共演「おかえり！」出演者たちは復帰を祝福
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cb425fff81afa518bc7f8be4762fe0e900a3c509310fc819ef9a26273fd6e483.jpg> 金儲けに利用「選挙ハック」実態
+      <a href=https://news.yahoo.co.jp/pickup/6538383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/25853b48cd34233b69db5648d0608e957960de91a9c84dc52de494aea449e7a9.jpg> 電磁加速砲の発射実験へ 防衛省
       </a>
     </td>
   </tr>
@@ -418,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b0b1e3bfa1c2c4fc613cbe3254aafcd6dca3410dd725f604dd8fee4f1bb7606f.jpg> 駐車場で車にはねられ 5歳児死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/09e867281018271c55ab443471b417d4c7877fe5ae65e28e8c833c0c9cfc6d5c.jpg> 6歳女児はねられ死亡 運転手逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/115d332c2a68976b4cbe43e6ed4f51ddb8d2a639751fe4458bdff8350508a860.jpg> 万博の出遅れ海外館 来場者絶えず
+      <a href=https://news.yahoo.co.jp/pickup/6538387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/946ace7ecbce0f45ce1450558d8bafce792831fad0257c8786cb03dc9f329028.jpg> 大沢たかお祭り 背景にSNSの変化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/8f53b94b2b2ac1b68621452c5f746b47fa59cbe3faeefd22519760a2b433ac5a.jpg> 逆転満弾 万波「絶対打ってやる」
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d8ca83a6928f4dce5331b427390a83bc4a7dcfb8b42a89a486d2081ed77d4438.jpg> 朗希屈辱の三振ゼロ 球速は低下
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 07:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 08:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
