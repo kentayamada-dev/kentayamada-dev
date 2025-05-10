@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9628e1729ed3798a4de44e41ef9a062b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42cb24c01504f30db284352cbdb52a8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06376ad2933a9be9fe390df66b98fc8699365e38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01749361-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「初めて見た」大谷翔平の珍しい姿　衝撃の決勝12号の直後が「気持ちよすぎる」
+      <a href=https://news.yahoo.co.jp/articles/eabb11d1a90a3d1c2638c68d87a455094ecb8422>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00096315-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「計り知れない存在感だ」敵将も脱帽した大谷翔平の決勝12号３ラン　痛恨の一発浴びた相手に「スマートで力強い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab2ce9ce50ff6a96a167cb031680bcc6be37e6d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 貿易摩擦めぐりスイスで初の米中協議始まる
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b12e0a4d10ce8076441663f81cf0a4120d95e452c535d3ba59f9640bf7a18956.jpg> 脱線事故 婚約者失い絶望と憎しみ
+      <a href=https://news.yahoo.co.jp/pickup/6538345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/00554bd7e1bf1438f262284053b000fff752ce5ff95f4223ee86691c0740ebd5.jpg> メトロ切りつけ 駅選んだ理由供述
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/00554bd7e1bf1438f262284053b000fff752ce5ff95f4223ee86691c0740ebd5.jpg> メトロ切りつけ 駅選んだ理由供述
+      <a href=https://news.yahoo.co.jp/pickup/6538351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b12e0a4d10ce8076441663f81cf0a4120d95e452c535d3ba59f9640bf7a18956.jpg> 脱線事故 婚約者失い絶望と憎しみ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7f9b1f53f4dd34d70259906d8bda76b0ad4e59a51726bd8d71882060cda84108.jpg> 大谷9回3ラン バット投げバンザイ
+      <a href=https://news.yahoo.co.jp/pickup/6538355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/0aa6794af661fe1aeff86ae50b9b4539a2593d47ab1878e81282fe98e5275a4c.jpg> 松田元太 高石あかりの歌声を絶賛
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 19:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
