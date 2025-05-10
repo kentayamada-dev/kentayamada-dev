@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32b73fb31a1d9f5be495606a030e5d98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e29ad1c5fe78cf8f0a0c346b4c9afbf4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b37879ef853cab89706c1980353ea94d8976a5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235793-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 寝ている間に襲われたか、70代の夫婦死亡　同居する16歳孫を逮捕　愛知・田原市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab0bfe7dfc921c0d81bb2e9fd0ef12167a81f0e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00534587-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、気づけばドジャース“15冠”　5月に入り絶好調、打点は5位も…傑出した得点力で貢献
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/511503ae8533f7bdb030501f8ccb636187924a79>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00969964-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> インド・パキスタン「停戦合意」　アメリカ・トランプ大統領は“仲介”成果強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89a837b8ce0c46acbf6ed4479a1da6b6e01515a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000014-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 万歳返しの大谷「熱かった」　近代野球史上初のシーソーゲーム　“恐怖の土壇場男”の一振りで決着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da8d8e66736d7a567d1b2993b3f380986e45922>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000331-oric-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 小川菜摘、浜田雅功＆ハマ・オカモトの“親子フェス初共演”に「良かったね」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 04:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 04:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
