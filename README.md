@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7a9261c913e23263f3140904ded1d22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/630ce2aa6ecc187e1a82135f146bb985.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91cc27576f38bf5fb89a9f23dc5d3e66e0240d30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010006-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 大谷の決勝3ランでドジャースが乱打戦を制す　大谷はMLB1位タイの12号　佐々木は5失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69e5df6c5a92db887fcf1b351a4ab246c94d3959>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101106-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「大エース」菅野智之、連敗ストップの無双ぶりに騒然…巨人ファンは悲鳴「頼む帰ってきてくれ」
+      <a href=https://news.yahoo.co.jp/articles/4b2710f5e66d969f67eebf30c7e4531183f3cf05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05132313-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NPT準備委「勧告案」の採択に至らず　各国の意見まとまらず
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/48cfcd42930d8b2ffb43f7820dfa527a4cf7257e7649176a17a101517f29832f.jpg> NY郊外の空港 またレーダー途絶
+      <a href=https://news.yahoo.co.jp/pickup/6538306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/fd96b1d5eb0c9411f1227afdfc01a86f44e443ec70372cd36c22ddcf774de9e8.jpg> メキシコ大統領が米Googleを提訴
       </a>
     </td>
   </tr>
@@ -434,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/244bdc7427d7301fdc2bb229525fa041a6e200ff432785ca04e1f5bac3ad3682.jpg> 水道管破裂 小学校は臨時休校
+      <a href=https://news.yahoo.co.jp/pickup/6538318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/8db1c62d772dd83ef76dcedea4660343f8fb76619df4e43bbc98aba71b63770e.jpg> 配慮で消えゆくセーラー服 島根
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a920514a7d49228d00aa336e2df461cdd647358bd8d35cea8291251a39ee811c.jpg> 不便の声も なぜ飲食店スマホ注文
+      <a href=https://news.yahoo.co.jp/pickup/6538323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/dec86a505f15744e54688634365e804ca71c9c9bc4de312a4742f389588611b7.jpg> 大谷9回勝ち越し3ラン 2試合連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7d44237484d4a89c38c4124a51f09e4e0a97fef5c7fe85b4e0123cd149976702.jpg> 朗希 自身初の1イニング2被弾
+      <a href=https://news.yahoo.co.jp/pickup/6538320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/3b118d4568b1f8b38136bcc181cd13a4f0d5f0b44a3cf2eefd257532339b51da.jpg> 菅野が快投 チームトップの4勝目
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 14:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 14:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
