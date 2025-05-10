@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26654bdd7e75d4961ac5c8c61228d49f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f23c5a64ffbfa2401dc25969f2c0d03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e333f2751f3ebd39666eeb8d4b2ee70348a7e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000042-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=902&ch=902&exp=10800&fmt=webp> ドジャース痛恨、2戦連続の満塁被弾　前夜は山本由伸、この日は佐々木朗希の四球が引き金　ネット「えぇ…同点」「Dバックスさんマジ怖い」
+      <a href=https://news.yahoo.co.jp/articles/1b02d74f27f81b13e694c854ac2b3500ec9c35f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101051-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平、第５打席は右飛　２日連続の満塁被弾などで５点差逆転された流れ取り戻せず　２戦連発１２号なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8fe6afc0a5d5245f5e01e11de1ee7fc61e5be97d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-10177643-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=986&ch=986&exp=10800&fmt=webp> トランプ大統領 関税10％は“最低水準”として維持
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d49f73f4cfdf42a32c50e5f437ad1ecc6bd5c387>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000032-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 大谷翔平、2打席連続の二塁打　初回中越えに続き…2回は左中間に放ち同点に追いつく　佐々木朗希の登板試合では打率4割5分超え
+      <a href=https://news.yahoo.co.jp/articles/9fc13699c12dd0e2d93a6b2517c5276052599a54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00065595-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「家も浸水するんじゃないか…」小学校そばで道路などが『冠水』　水道管破裂か…周辺住民『水道が濁っている』と通報も　大阪・城東区
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/93723a64496692369d26671b94b85c28c57b2c77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ政権、航空機・部品に追加関税？　調査を開始、日本に影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7be2774efa340ff569d467dd01c06dd33527e22d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、対中関税引き下げ示唆「80％が妥当」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538299>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米政権 航空機にも追加関税検討
+      <a href=https://news.yahoo.co.jp/pickup/6538295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/48cfcd42930d8b2ffb43f7820dfa527a4cf7257e7649176a17a101517f29832f.jpg> NY郊外の空港 またレーダー途絶
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/5878242b412b43fcc3d01c0be02294ef247df6eb6fcbe98acd825e8948c1cce5.jpg> 大阪市で水道管破裂 道路が冠水
+      <a href=https://news.yahoo.co.jp/pickup/6538316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/244bdc7427d7301fdc2bb229525fa041a6e200ff432785ca04e1f5bac3ad3682.jpg> 水道管破裂 小学校は臨時休校
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 13:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 13:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
