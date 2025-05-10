@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cd13bba50ac5ce0b183cb40045ba3eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e517ad1877c82fbe133773c253978934.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/209b05d2858131eada8684e34ff5d3d11d6c001e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010004-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 スプリットを一閃！9回劇的勝ち越し3ラン！2戦連続となる12号含む3安打の大活躍
+      <a href=https://news.yahoo.co.jp/articles/a852e9629c39a8802c6151e04afb228f7ec51a03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010006-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平の活躍を大絶賛「間違いなく最高の選手だ。勝負どころでの活躍は本当に異次元」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c57ca4a2b8b0c394ee3ae096c67aeaaf08022eba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏「米仲介で停戦合意」　SNS投稿、成果アピール
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/584b217dc817fce8ec2485f3d1e7babbe612ef46>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90030067-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 70代夫婦死亡で遺体に複数の刺し傷や切り傷　孫の少年強い殺意か　愛知県田原市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53c1d2a2896b16aaa41b71d394287be3ac89ccc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド・パキスタン両政府が即時停戦に合意と発表　アメリカ・トランプ大統領も仲介したとSNSで明らかに
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ce87f6a2b2d84875be247657502cd9ce76a57dccc096d4b6f9d83955a1ca2f33.jpg> 金正恩氏 露朝は「血盟関係」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ca100bad1085f175d706176119947c37d1ec141450b45366f75a348631c83677.jpg> 欧州 露に12日からの停戦開始要求
+      <a href=https://news.yahoo.co.jp/pickup/6538378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/17c22a94bfde9c834239876c1db7d97640389be2ccf9cf08de086d3cfd315896.jpg> 新教皇133票中100票超え選出 報道
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/38a78f50d615fa27237ed3a0d55b7c2d6c15d93792dc0b6fa2cfe8bd0b5cec03.jpg> 伊豆大島キョン繁殖 人口2倍超か
+      <a href=https://news.yahoo.co.jp/pickup/6538377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/11ba86fc8b5de9f98d5d9f087a28556bd5ade136ca905ab242c8fc49084f3043.jpg> おにぎり事業 異業種が相次ぎ参入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d1b234ae3afed5034e78296e73f1be0e679a07b8534e7b190363e01d387bd88d.jpg> JAXAの衛星 宇宙ごみの接近増加
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 23:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 23:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
