@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/719c4cefdb170c1e5e2478f2405ce6bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d031a05dc297f6ffdf49d0ca9d2c8004.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09193d7e1de732166ab6f1d7212b8be78b75c527>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177685-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> フリーマン、大谷翔平の決勝アーチに喜び爆発！ 打席控えグローブを咥えたまま…ベンチで捉えた歓喜の瞬間
+      <a href=https://news.yahoo.co.jp/articles/f1bb2d7039bd17bdfb84172ce5457b05538260bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00534612-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「この写真ヤバい！」「参りました」　大谷12号の瞬間、日本人が思わず「神」と崇めた衝撃の1枚
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f7ed5b60dbe746874b32873dcf06e186ec6c3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235798-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン停戦合意も交戦継続か…　印政府“パキスタンが合意違反”「責任ある対応を」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235798-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン停戦合意も交戦継続か…　インド政府“パキスタンが合意違反”「責任ある対応を」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/58a0f07aed5b8af5e56d360f43e9c1852acb9e0ca9ed7e0a29ff0f975182a467.jpg> 急成長のインド 知事ら訪問相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538373>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/02afe6128d39b5a61920e2e7cc8d118212907955f6cb92d14c0b12aaf6833edd.jpg> 70代夫婦死亡 就寝中に襲われたか
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/12f081b8ec77e809a8480f05c594407b714f52e93d36413132ca4e8193f77497.jpg> ジャッジが13号&14号 敵地騒然
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d8ca83a6928f4dce5331b427390a83bc4a7dcfb8b42a89a486d2081ed77d4438.jpg> 朗希屈辱の三振ゼロ 球速は低下
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 07:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 07:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
