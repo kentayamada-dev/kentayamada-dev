@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d85cf719ebd3c7f696130aa837a9ef5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ea15d6d88cd7e68fa8ecfc1d8da8196.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1bb2d7039bd17bdfb84172ce5457b05538260bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00534612-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「この写真ヤバい！」「参りました」　大谷12号の瞬間、日本人が思わず「神」と崇めた衝撃の1枚
+      <a href=https://news.yahoo.co.jp/articles/3287eab69abd9e2be3acdb001a8670b1f900060c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000114-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 2人の“笑い”全て見られる!?　浜田雅功が芸能活動を再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88cf14d0601c02706b6faef0b8baa88e183210eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-05101381-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 日本ハムの“しんじょうに悪いパート２”は２５歳主砲の満塁弾返しで逆転
+      <a href=https://news.yahoo.co.jp/articles/98f45dffb8ab02ee81bc41530baa3b0e53b489a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110063-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平は「１番DH」で出場　劇的な決勝12号３ランから一夜明け、３試合連続の13号なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d47eef308bbfdf90496a6f3af177dd39b96299e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1025&ch=1025&exp=10800&fmt=webp> ロバーツ監督、佐々木朗希のマイナー調整を否定…「球速低下よりコントロール心配」、大物新人の苦しむ過程「想定内」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2690cd1fdcf2d5b54d216312c2c5b28f7468946c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07938155-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【パ・リーグ順位表】上位3チームが勝利　首位オリックスは対ソフトバンクの連敗を「12」でストップ
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f82a524d0e414fa3e657c76221c84778e3116eff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35101971-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 浜田雅功、青の着物姿でステージに登場！息子とも共演「おかえり！」出演者たちは復帰を祝福
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/19eb9ae3f59916e4f35cbf0c707468fda2bfb5d4c9a8e69a1e8ea60bfc464066.jpg> 印とパキスタン停戦合意 米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/17c22a94bfde9c834239876c1db7d97640389be2ccf9cf08de086d3cfd315896.jpg> 新教皇133票中100票超え選出 報道
+      <a href=https://news.yahoo.co.jp/pickup/6538394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cb0067931e93ac0564f0b57574695e4f68ce5631f0dff08ff519847aab8bed65.jpg> 印パ 停戦合意も双方が違反主張
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/02afe6128d39b5a61920e2e7cc8d118212907955f6cb92d14c0b12aaf6833edd.jpg> 70代夫婦死亡 就寝中に襲われたか
+      <a href=https://news.yahoo.co.jp/pickup/6538393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/253755f37a142f4a9b6f33abe252ffedd76a461f5a2d56958ce03a6ba23d5c4f.jpg> ご当地ナンバー 導入要件を緩和へ
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538384>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/09e867281018271c55ab443471b417d4c7877fe5ae65e28e8c833c0c9cfc6d5c.jpg> 6歳女児はねられ死亡 運転手逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 子に反抗期なく心配 医師の見解
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 08:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 08:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
