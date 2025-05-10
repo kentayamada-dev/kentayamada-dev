@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf4aed757e785c4effae2952829c9ddc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/623b3cd48fa8f4cbb67067941e6a96c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f127161da24bff2714e6d8706f8751efc5c8ded>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050096-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ９回決勝３ランは特大の「確信弾」、大谷翔平が派手なアクション…試合後は同点打の同僚たたえる
+      <a href=https://news.yahoo.co.jp/articles/25ccc295b6f9cc90b67f569e3ac0ec3923a7ec16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000266-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=950&ch=950&exp=10800&fmt=webp> バンザイ返し？大谷翔平の決勝3ランポーズ「真似ている」5回に満塁弾放ったグリエルと酷似と話題に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/835382de269875d8a52e8f600ab5704eb58eaa03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000045-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタンがインドへ反撃開始　核保有国同士の対立で事態深刻化
+      <a href=https://news.yahoo.co.jp/articles/34e903ddf9c2902359b5344145c78e73f12f9bd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000036-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 盗難で韓国に渡った仏像、長崎・対馬の寺に返還　日韓関係に一時摩擦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6d42e0d28ea55a47735e0d4e655363cbb1df632>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050095-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 盗難仏像、韓国で対馬市の関係者に引き渡し…１３年ぶりに日本へ
+      <a href=https://news.yahoo.co.jp/articles/c3325718c5ac9636f19215faa2597f8502f7dea6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インドに反撃、核兵器会合開催　軍事施設標的で緊張激化　パキスタン
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/901321de875a7be20ed6ae14e117ba2cacad22de9aa39da06bbee7914531305d.jpg> 米欧 露ウ30日停戦案を最終調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f1712ce8802ceae25375455be4ec8deaabe5b50964144b52976a629bb3447de3.jpg> 黄砂が飛来 5月いっぱいは注意
       </a>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/e025ff40c359f363bfb2dafa0df6d34d4ff50090be5948cecae85c548484cf20.jpg> 盗難12年半 対馬の仏像引き渡し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538335>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/30f366c996dae919597d5e9e2581c348419dd4de5179bf019864ac7b891e3132.jpg> 植え込みに赤ちゃん 命に別状なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/198b2d47547382e96c4dc4bb12d2e8c23f4092142e0d5322714bf510f932cda0.jpg> 中小企業 食費補助で実質的賃上げ
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/dec86a505f15744e54688634365e804ca71c9c9bc4de312a4742f389588611b7.jpg> 大谷9回勝ち越し3ラン 2試合連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/471fc2a97c9722656dd7eac4a8d67923946c79cad5e87ad2cc97008dada6a2b6.jpg> 浜田雅功「ごぶフェス」登場 声援
+      <a href=https://news.yahoo.co.jp/pickup/6538329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7f9b1f53f4dd34d70259906d8bda76b0ad4e59a51726bd8d71882060cda84108.jpg> 大谷9回3ラン バット投げバンザイ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 16:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 17:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
