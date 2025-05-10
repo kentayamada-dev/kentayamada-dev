@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bebe0db6a127709813e2e22c932c9c31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f80bc2bce840cfcd9a53ef46259c172.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e966d30b901fb77982b33c5f4f22e2d6bbc19f50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050093-yom-000-3-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 上皇さまは「無症候性心筋虚血」…宮内庁が診断結果発表
+      <a href=https://news.yahoo.co.jp/articles/2cbb3d2bf1b4c9e7873d321eed7339432c9ff682>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010012-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 思わずバット投げ捨てる“確信弾”で驚異の7戦5発！　止まらない大谷翔平の異次元さを物語る「1.138」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d5039bc949f6b3ac4cab2500ab3bf5f66ab4318>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-35100673-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> ダウンタウン浜田「ごぶフェス」登場！　オープニングで「世界の国からこんにちは」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/835382de269875d8a52e8f600ab5704eb58eaa03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000045-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタンがインドへ反撃開始　核保有国同士の対立で事態深刻化
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/518fa094fd528605cf55652d93ae3564ec3225e2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-26333342-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア対独戦勝80年記念式典、プーチン氏と習氏が並んで観覧　BBCロシア編集長が報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36dde546548c903624f9ea0687a1b8683a89e861>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> パキスタン、インドが空軍基地をミサイル攻撃と発表 報復表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93723a64496692369d26671b94b85c28c57b2c77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ政権、航空機・部品に追加関税？　調査を開始、日本に影響も
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/59871facd87ca9ac77167ae81703c5096fc93cab480879ab371a428a8b96fa8c.jpg> 上皇さまは無症候性心筋虚血
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/07bf844bf05f76a30f99cc7fcea2b0e67415135c7bf685da032fb5cc76676154.jpg> パナソニックHD なぜ今1万人削減
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/338ab2d98d05f2cd6c8a450bb12d49b1d11bf87613642cfa4b1df3dc804b2562.jpg> 皐月賞馬アンライバルド死す 19歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/e0b5eb70c3c0e2dda20c2e4278951d5e407f734b11b280f5c98707befb897c67.jpg> FLOWのGOT'S 大動脈解離手術へ
+      <a href=https://news.yahoo.co.jp/pickup/6538331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/471fc2a97c9722656dd7eac4a8d67923946c79cad5e87ad2cc97008dada6a2b6.jpg> 浜田雅功「ごぶフェス」登場 声援
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 15:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 15:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
