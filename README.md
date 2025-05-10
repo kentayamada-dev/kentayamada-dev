@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3638a1ad1ebf1a95634a09f632808b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55ae2c4d25d943f0e5c6acaaf1e0dc4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e84e53b516479a296dd1a01fcbfdcdf8a798f73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235745-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 攻撃の応酬はカシミール以外にも拡大　インドとパキスタンの軍事衝突
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4271e4a51a3cf949e14739efbd8cb5a8e5645572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05158267-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 住宅で高齢夫婦が死亡、同居の16歳孫を祖父殺害疑いで逮捕　愛知・田原市
+      <a href=https://news.yahoo.co.jp/articles/e4300af8ad4d979a072557217bf077158ad8af39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000001-jij_graph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=895&ch=895&exp=10800&fmt=webp> 【図解】パキスタン、核兵器会合招集＝「印が攻撃」、高まる緊張
       </a>
     </td>
   </tr>
@@ -389,6 +381,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63a9069a9b8135fa169eda6913b9daedc99882c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00253926-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=514&ch=514&exp=10800&fmt=webp> 【立川・小学校侵入】教師たちは事件をどうみたか？「同じ手法でこられたら施錠を強化しても防げない」「いじめ対応では母親の言葉だけを信じてはいけない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7be2774efa340ff569d467dd01c06dd33527e22d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、対中関税引き下げ示唆「80％が妥当」
       </a>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/87311bc527d535135f2f9331449e98646b0e9937f6dce9f6e9acb69abef0373a.jpg> パキスタン軍 印へ反撃開始を表明
+      <a href=https://news.yahoo.co.jp/pickup/6538312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/81fd98ee596ab7bcc1b086ab80289470a73e785202d46bec10c94160f09be4fe.jpg> パキスタン 核兵器巡り会合へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/08776a6f285648492affe195bc721c0ac387d85e494c8b741905ad8cdad1e718.jpg> 上皇さま退院 4日ぶり仙洞御所へ
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/50108901639f621901115f3f314cd22933ff60039488b30a3447f70e99752c26.jpg> 小学校侵入 保護者から不安の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/9bcf342564117ab076ce6462f7c9e9a3ec2a933854ec544c147ae20165f0f325.jpg> 闇バイト 逮捕と保護を分けた行動
+      <a href=https://news.yahoo.co.jp/pickup/6538313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/42e878f41fd6b4956b79d289289ccca94ea59f072ffea45c210c3315048061f6.jpg> 男が小学校侵入 鼻骨折した教諭も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 12:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 12:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
