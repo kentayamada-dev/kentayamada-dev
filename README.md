@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51faede48f3aa74f10f2a12127921e50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ad4dde6b7b748c2c86d2859bf565506.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d2a1b1b98093d3336fff059d87f33c944bf7ea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-09365551-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大乱打戦に大谷翔平も「熱かった」 同点に追いついた仲間の活躍に「あの一打がまだまだいけるぞって」
+      <a href=https://news.yahoo.co.jp/articles/9fd47fac9079b866b92b3c583c91fc5216dcd2f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00969872-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=963&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 大谷翔平が今季第12号となる大逆転のスリーランホームラン!激しい乱打戦を制す…ホームランランキングでも1位に浮上　佐々木朗希は5失点で途中降板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/693e824e64b7bb467abad313b5d96407e0b779de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000040-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 盗難仏像 13年ぶりに日本へ　韓国で対馬市の関係者に引き渡し
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57366098b8fc5897a75cad44f5f108ed9dd14b56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235775-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> パキスタンが「反撃開始」表明　インドは空軍基地の攻撃など報復激化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42aa64abd3ccc57c017cd8404759051c4b044953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235759-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカと中国の両高官、スイスで直接協議へ　貿易摩擦めぐり初めて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34e903ddf9c2902359b5344145c78e73f12f9bd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000036-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 盗難で韓国に渡った仏像、長崎・対馬の寺に返還　日韓関係に一時摩擦
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235775-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> パキスタンが「反撃開始」表明　インドは空軍基地の攻撃など報復激化　カシミールの軍事衝突以降、両軍が“初の電話協議”
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/59871facd87ca9ac77167ae81703c5096fc93cab480879ab371a428a8b96fa8c.jpg> 上皇さまは無症候性心筋虚血
+      <a href=https://news.yahoo.co.jp/pickup/6538347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/143c509cb5f55215e668a4139ddc91c63f1141f31638a4b8223529a3398f7167.jpg> 日本製鉄幹部が来週にも訪米 報道
       </a>
     </td>
   </tr>
@@ -404,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538330>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/77d05bc94e6d22c8a1a6b5d01ec08936a218137e9e3d78c9fb8d7d50b14703a7.jpg> 学校で空襲 撃たれた炊事班の18歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/e025ff40c359f363bfb2dafa0df6d34d4ff50090be5948cecae85c548484cf20.jpg> 盗難12年半 対馬の仏像引き渡し
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cc706c7fc49601b3949a1e6353665b0825ce4c374a68350f36ea9fde9d65ee2d.jpg> 松井秀喜氏 野球教室で豪快柵越え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7f9b1f53f4dd34d70259906d8bda76b0ad4e59a51726bd8d71882060cda84108.jpg> 大谷9回3ラン バット投げバンザイ
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 18:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 18:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
