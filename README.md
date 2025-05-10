@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18db80e310fc955e0032705f6023ebe5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/599f0528deeee72a8dbf83596fca4e57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92ae454ef4aa7a22989725df78a7ad37664f6bfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000179-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、万歳12号　11対11で迎えた第6打席に大乱打戦決着弾　「逆転して抑える展開はアツかった」
+      <a href=https://news.yahoo.co.jp/articles/89a837b8ce0c46acbf6ed4479a1da6b6e01515a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000014-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 万歳返しの大谷「熱かった」　近代野球史上初のシーソーゲーム　“恐怖の土壇場男”の一振りで決着
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 01:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 01:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
