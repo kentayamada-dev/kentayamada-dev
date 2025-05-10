@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28cab3f53e6f5e6808d20bbd32282744.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8adbc4922a8324574964a06dd68d7d2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cde69ab79689f6bf00f1346cd87c48f8147d2822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010049-nishispo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 西武が今季3度目の3連勝　4番ネビンがチーム4年ぶりのグランドスラム　エース今井達也は22回連続無失点＆2戦連続2桁奪三振
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80af294684d7710fed43e867981555abaec479a5>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c8331419be69aaef2b644649113462793d91fb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050118-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 関税巡る米中協議、スイスで始まる…合成麻薬フェンタニルも議題か・習近平氏側近の公安相派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c617159a78198fcd9e368aa40852ec8b6d8e5f0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> カシミールの衝突激化 パキスタン「自制の用意」 インドは正当性強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e85eed1a5c0f46e0b25e0b4b03dbda257dc3ffaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010042-nishispo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 球団4年ぶりのグランドスラム！　西武・ネビンが左翼席に突き刺した　好投の今井達也を助ける一発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> カシミールの衝突激化 パキスタン「自制の用意」 インドは正当性強調
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9d5b8cdee1c1b1cbf526ca31c1a4c9b3b2d04d51238f5aa7d2018d661164df4.jpg> 孤立死2万人 問われる最期の準備
+      <a href=https://news.yahoo.co.jp/pickup/6538365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/19eb9ae3f59916e4f35cbf0c707468fda2bfb5d4c9a8e69a1e8ea60bfc464066.jpg> 印とパキスタン停戦合意 米大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d0e9c7dd37ad673e1b183de8434dd2fc140b3c912fd46c080668c5e19c4eb0ee.jpg> 米が印・パキスタンに沈静化要請
+      <a href=https://news.yahoo.co.jp/pickup/6538362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9d5b8cdee1c1b1cbf526ca31c1a4c9b3b2d04d51238f5aa7d2018d661164df4.jpg> 孤立死2万人 問われる最期の準備
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 21:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 21:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
