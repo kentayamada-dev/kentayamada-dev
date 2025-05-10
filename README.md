@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e517ad1877c82fbe133773c253978934.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b1e671e826505a7baceedd8918112ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05ba5e23c1042f8442cddb6718353ea8c2dc2482>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010016-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本ハム・万波中正が満塁ホームランを含む2本塁打6打点の活躍、レイエスにも一発｜日本ハム×楽天｜プロ野球結果
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a852e9629c39a8802c6151e04afb228f7ec51a03>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010006-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平の活躍を大絶賛「間違いなく最高の選手だ。勝負どころでの活躍は本当に異次元」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c57ca4a2b8b0c394ee3ae096c67aeaaf08022eba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏「米仲介で停戦合意」　SNS投稿、成果アピール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/584b217dc817fce8ec2485f3d1e7babbe612ef46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90030067-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 70代夫婦死亡で遺体に複数の刺し傷や切り傷　孫の少年強い殺意か　愛知県田原市
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/19eb9ae3f59916e4f35cbf0c707468fda2bfb5d4c9a8e69a1e8ea60bfc464066.jpg> 印とパキスタン停戦合意 米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6538374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/0c2e2695b049d708de15c3d6dad39034816cd04d251be6be1ea9a79ca2ccb8e1.jpg> 印・パ両軍の幹部が12日に協議
       </a>
     </td>
   </tr>
@@ -404,6 +404,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538378>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/17c22a94bfde9c834239876c1db7d97640389be2ccf9cf08de086d3cfd315896.jpg> 新教皇133票中100票超え選出 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cb425fff81afa518bc7f8be4762fe0e900a3c509310fc819ef9a26273fd6e483.jpg> 金儲けに利用「選挙ハック」実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/58a0f07aed5b8af5e56d360f43e9c1852acb9e0ca9ed7e0a29ff0f975182a467.jpg> 急成長のインド 知事ら訪問相次ぐ
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/11ba86fc8b5de9f98d5d9f087a28556bd5ade136ca905ab242c8fc49084f3043.jpg> おにぎり事業 異業種が相次ぎ参入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d1b234ae3afed5034e78296e73f1be0e679a07b8534e7b190363e01d387bd88d.jpg> JAXAの衛星 宇宙ごみの接近増加
+      <a href=https://news.yahoo.co.jp/pickup/6538380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/115d332c2a68976b4cbe43e6ed4f51ddb8d2a639751fe4458bdff8350508a860.jpg> 万博の出遅れ海外館 来場者絶えず
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/fd736f0447055b9437bd1c0baed2d5f425bd4fd74ff967e5d577be6bffb170c8.jpg> 浜田 長男と初めてステージに立つ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 23:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 23:52:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
