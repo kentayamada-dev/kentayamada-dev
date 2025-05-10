@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c88a5b777501861418d700da1bed0735.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8cccef88b6749bbbe137fb630d6cd625.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9702418cadef691b112db03fab980b738f0df69b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州4カ国首脳、キーウ訪問へ　「30日間停戦」でロシアに圧力
+      <a href=https://news.yahoo.co.jp/articles/3ba119420499377fb3cd2a2d5b876d37a7e30a1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000260-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=872&ch=872&exp=10800&fmt=webp> ロシア「30日停戦に同調困難」　米欧、追加制裁を調整　「3日停戦」機能せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6831f76d20a9fc6d4334939632dc3850b1c95645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000099-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=835&ch=835&exp=10800&fmt=webp> 元DeNA・乙坂智がマリナーズとマイナー契約　米独立リーグで存在感　藤浪晋太郎と同僚の可能性も
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a888675295e820bff61a28e17122b66970935a4c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、中５日の佐々木朗希を援護へ　Ｄバックス戦「１番・ＤＨ」　最近６戦４発　２戦連発１２号なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10e56300e17da047176bb08a332a7381229fe950>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000250-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> オリックス大敗…岸田監督、今季最短35秒会見「六回の継投はちょっとまた考える」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/6/8/a2273ce680f98dd3b9a13af3a6b681325897afbe33fcbce668cc60518b0326df.jpg> インドが攻撃対象拡大 軍施設も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538278>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/c64643ebd6c4d8dd73971a1b41002c9f6605b09d8d684458720e749eb0d0bc03.jpg> 自民 夫婦別姓法案の提出見送りへ
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f27c8029491acc84de42d596e854cbf283013059989dac1903d1b64393218d41.jpg> 午前中 関東で雷雨や激しい雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7060ec66e9c134b2fb191d95ab00b20f92a90b58fff2110e2b5b32e4e1b71188.jpg> 過去最長の黒潮大蛇行 終息の兆し
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d2a50397501505e19a4850edf9da241fbfecd024f8cdf6c8e69f18fcf98f9c99.jpg> オリックスが大敗 監督会見は35秒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/06676cc56f0797f6ebc54fa6c9a0a77180a7803f1f5b767851e914977be150a3.jpg> GLAYが「1999年の解散危機」語る
+      <a href=https://news.yahoo.co.jp/pickup/6538291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d9de114d9f23992223e21f6355df32c76ec8cca5bc607c82af15cb0ead8b3262.jpg> 乙坂智 マリナーズとマイナー契約
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 09:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
