@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ad4dde6b7b748c2c86d2859bf565506.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9628e1729ed3798a4de44e41ef9a062b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fd47fac9079b866b92b3c583c91fc5216dcd2f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00969872-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=963&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 大谷翔平が今季第12号となる大逆転のスリーランホームラン!激しい乱打戦を制す…ホームランランキングでも1位に浮上　佐々木朗希は5失点で途中降板
+      <a href=https://news.yahoo.co.jp/articles/06376ad2933a9be9fe390df66b98fc8699365e38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01749361-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「初めて見た」大谷翔平の珍しい姿　衝撃の決勝12号の直後が「気持ちよすぎる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/693e824e64b7bb467abad313b5d96407e0b779de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000040-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 盗難仏像 13年ぶりに日本へ　韓国で対馬市の関係者に引き渡し
+      <a href=https://news.yahoo.co.jp/articles/519a7620f5e743fd1b1859e7c954a606ec9b5b3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-10177638-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=667&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> 佐々木朗希、1回を「たった6球で」抑える快投 約2分で三者凡退…2勝目ならずも“異例のイニング”に注目
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/77d05bc94e6d22c8a1a6b5d01ec08936a218137e9e3d78c9fb8d7d50b14703a7.jpg> 学校で空襲 撃たれた炊事班の18歳
+      <a href=https://news.yahoo.co.jp/pickup/6538351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b12e0a4d10ce8076441663f81cf0a4120d95e452c535d3ba59f9640bf7a18956.jpg> 脱線事故 婚約者失い絶望と憎しみ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/30f366c996dae919597d5e9e2581c348419dd4de5179bf019864ac7b891e3132.jpg> 植え込みに赤ちゃん 命に別状なし
+      <a href=https://news.yahoo.co.jp/pickup/6538345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/00554bd7e1bf1438f262284053b000fff752ce5ff95f4223ee86691c0740ebd5.jpg> メトロ切りつけ 駅選んだ理由供述
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/2100da782642e74e62fde254b64823ae609b5279c9abc2d70dc00331c68df3a1.jpg> 逆子治す手術で子に障害 母の思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ad4d41d6afafd8551ecb180bb04e1603b998f770711109fb7c33a6c120cda7f7.jpg> トリキバーガー苦戦 市場の難しさ
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7382c060ea2a21a4f8b758d1f67a475d6909b7e99683ef8cec0eb4c1b2897658.jpg> 万博のイラスト「こみゃく」人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cc706c7fc49601b3949a1e6353665b0825ce4c374a68350f36ea9fde9d65ee2d.jpg> 松井秀喜氏 野球教室で豪快柵越え
+      <a href=https://news.yahoo.co.jp/pickup/6538353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d3a45ca39c9e1f1c2524bc045a302db93d15123b798a3b7f3bcb594d29710986.jpg> 佐々木朗希が5失点 奪三振はゼロ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 18:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 19:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
