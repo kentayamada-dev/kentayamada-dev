@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a99e8eb1269fdc874f59be5fc478c98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/719c4cefdb170c1e5e2478f2405ce6bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37e34c73ad8bb9890fdd514faaca91a3cb3644b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096330-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「９回の悪夢は続く…」大谷翔平が叩き込んだ“えげつない一撃”に敵地実況アナも絶句！「やっちまった。グッバーイ！」
+      <a href=https://news.yahoo.co.jp/articles/09193d7e1de732166ab6f1d7212b8be78b75c527>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177685-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> フリーマン、大谷翔平の決勝アーチに喜び爆発！ 打席控えグローブを咥えたまま…ベンチで捉えた歓喜の瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f7ed5b60dbe746874b32873dcf06e186ec6c3fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235798-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン停戦合意も交戦継続か…　印政府“パキスタンが合意違反”「責任ある対応を」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 06:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 07:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
