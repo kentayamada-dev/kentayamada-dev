@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0ce2472b528eeacf79ae56e0991b0bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b09b7e57801b904a0c198960529e34d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03e3dd67f503496c0e6b261b9fb650480d2bee2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000027-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 大谷翔平、“本塁打級”飛球の二塁打で先制口火　打球速度173キロ超でフェンス直撃　飛距離128・9メートルは前日11号の距離に肉薄
+      <a href=https://news.yahoo.co.jp/articles/d49f73f4cfdf42a32c50e5f437ad1ecc6bd5c387>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000032-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 大谷翔平、2打席連続の二塁打　初回中越えに続き…2回は左中間に放ち同点に追いつく　佐々木朗希の登板試合では打率4割5分超え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b29fce50eddaa33124fe34bdc399d66e7ffc06d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050046-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権が航空機やエンジンにも追加関税へ、調査始める…日本メーカーにも影響か
+      <a href=https://news.yahoo.co.jp/articles/93723a64496692369d26671b94b85c28c57b2c77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ政権、航空機・部品に追加関税？　調査を開始、日本に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b97253976f1bef032f02e2d5711d81744de5021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パキスタン、印が空軍基地攻撃と発表　ミサイル保管施設標的に反撃か
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d60895137a6c7aafbb4fc92965153f48805b975>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏独ポーランドの首脳、ウクライナで有志国会合　露に30日間の停戦受諾要求へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf14c279e5e4eb58aca64bd0e5df176dd8aca572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90040298-tokaiv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 祖父に対する殺人容疑で孫の16歳男子高校生を逮捕 70代夫婦が自宅で血を流し死亡していた事件 祖母も殺害か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90040298-tokaiv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 祖父に対する殺人容疑で孫の16歳男子高校生を逮捕 70代夫婦が自宅で血を流し死亡していた事件 祖母も殺害か
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538302>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/40c440df4b44e6771772cab96cbe89410a0b370577eff0f99a321c3e9b4ce150.jpg> パキスタン軍 印へ反撃開始を表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/1c2ff01a01aa9be3f17143bf3341f3ac902b90363f78bd7ceb3635f5a6d9f90e.jpg> インドが軍基地攻撃とパキスタン
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/846bc74f3e3303996b518799b93acbbe2b10583a948eaa3ca397f7c3ae2d56cc.jpg> 名古屋「金の茶釜」通説に疑問符
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538291>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d9de114d9f23992223e21f6355df32c76ec8cca5bc607c82af15cb0ead8b3262.jpg> 乙坂智 マリナーズとマイナー契約
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 11:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
