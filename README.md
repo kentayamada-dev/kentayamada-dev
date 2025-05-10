@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b1e671e826505a7baceedd8918112ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d94d80ecc2b2c33b9421d4b1b899b71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b5d3a62acd078f85d77e7897497d972332c6a8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希 8点援護もらうも勝ち星つかず 球速低下が激しく「感じてること自体は色々ある。どれが理由か今は言えない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1933acc853b2cafc4d2ea3f28fe1928e0b9ea94a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド・パキスタン、停戦合意を発表　トランプ大統領「アメリカが仲介した」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05ba5e23c1042f8442cddb6718353ea8c2dc2482>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010016-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本ハム・万波中正が満塁ホームランを含む2本塁打6打点の活躍、レイエスにも一発｜日本ハム×楽天｜プロ野球結果
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a852e9629c39a8802c6151e04afb228f7ec51a03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010006-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平の活躍を大絶賛「間違いなく最高の選手だ。勝負どころでの活躍は本当に異次元」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c57ca4a2b8b0c394ee3ae096c67aeaaf08022eba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏「米仲介で停戦合意」　SNS投稿、成果アピール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71b1baf7bff5fd680d108adc04840a993c9ab4b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中関税めぐる初の協議　スイスで始まる
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/0c2e2695b049d708de15c3d6dad39034816cd04d251be6be1ea9a79ca2ccb8e1.jpg> 印・パ両軍の幹部が12日に協議
+      <a href=https://news.yahoo.co.jp/pickup/6538365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/19eb9ae3f59916e4f35cbf0c707468fda2bfb5d4c9a8e69a1e8ea60bfc464066.jpg> 印とパキスタン停戦合意 米大統領
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 23:52:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 00:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
