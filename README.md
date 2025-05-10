@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e80d04e9074c222b3cf6f86d116ae09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf4aed757e785c4effae2952829c9ddc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65b5ad224771d85407103b103667715f42d44055>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000073-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「万歳ポーズ」が出た理由、決勝3ランに勝負師の顔…感情爆発に「試合展開は熱かった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa04472618a15bd2739e0c370274b8d1041402cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000231-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、張りある声でフェスMC！DA PUMP・ISSAの「何はともあれ復帰おめでとう…」にも感謝
+      <a href=https://news.yahoo.co.jp/articles/6f127161da24bff2714e6d8706f8751efc5c8ded>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050096-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ９回決勝３ランは特大の「確信弾」、大谷翔平が派手なアクション…試合後は同点打の同僚たたえる
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/835382de269875d8a52e8f600ab5704eb58eaa03>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000045-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=534&ch=534&exp=10800&fmt=webp> パキスタンがインドへ反撃開始　核保有国同士の対立で事態深刻化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6d42e0d28ea55a47735e0d4e655363cbb1df632>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050095-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 盗難仏像、韓国で対馬市の関係者に引き渡し…１３年ぶりに日本へ
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/901321de875a7be20ed6ae14e117ba2cacad22de9aa39da06bbee7914531305d.jpg> 米欧 露ウ30日停戦案を最終調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/59871facd87ca9ac77167ae81703c5096fc93cab480879ab371a428a8b96fa8c.jpg> 上皇さまは無症候性心筋虚血
       </a>
@@ -410,24 +402,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/901321de875a7be20ed6ae14e117ba2cacad22de9aa39da06bbee7914531305d.jpg> 米欧 露ウ30日停戦案を最終調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f1712ce8802ceae25375455be4ec8deaabe5b50964144b52976a629bb3447de3.jpg> 黄砂が飛来 5月いっぱいは注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/30f366c996dae919597d5e9e2581c348419dd4de5179bf019864ac7b891e3132.jpg> 植え込みに赤ちゃん 命に別状なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538326>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/07bf844bf05f76a30f99cc7fcea2b0e67415135c7bf685da032fb5cc76676154.jpg> パナソニックHD なぜ今1万人削減
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/fd96b1d5eb0c9411f1227afdfc01a86f44e443ec70372cd36c22ddcf774de9e8.jpg> メキシコ大統領が米Googleを提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/8db1c62d772dd83ef76dcedea4660343f8fb76619df4e43bbc98aba71b63770e.jpg> 配慮で消えゆくセーラー服 島根
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 16:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 16:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
