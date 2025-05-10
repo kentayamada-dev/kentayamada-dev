@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7550540622b4861467a18cc1e3d0c61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51c8a5e4effa2a3380fbebfaf11fb8df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0181f0b7e4d83a9d5f17c14f4bb7470ae778c4ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000055-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1715&ch=1715&exp=10800&fmt=webp> 米、航空機と部品の追加関税検討　輸入が安全保障に与える影響調査
+      <a href=https://news.yahoo.co.jp/articles/2d58b511d6fb1df47849ee76cc02ddc054a52269>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米、航空機部品にも関税検討　商務省が調査　日本企業に打撃か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/181002ddc57293098b0c12479cfc0800c7b310b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000022-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希、プロ初の中5日で先発、大谷翔平の12号援護弾は出るか…同地区のダイヤモンドバックス戦、屋根開放試合で厄介な気候との戦いも
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78bc115ff73bdbd081368fbe8dd8e654c950b23a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY近隣空港でレーダー途絶　老朽化、安全性に懸念　米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a888675295e820bff61a28e17122b66970935a4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、中５日の佐々木朗希を援護へ　Ｄバックス戦「１番・ＤＨ」　最近６戦４発　２戦連発１２号なるか
+      <a href=https://news.yahoo.co.jp/articles/bf14c279e5e4eb58aca64bd0e5df176dd8aca572>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90040298-tokaiv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 祖父に対する殺人容疑で孫の16歳男子高校生を逮捕 70代夫婦が自宅で血を流し死亡していた事件 祖母も殺害か
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/e767add13e3d3830da4aaa29c461a2df43ea55cb6d44b01b45566b5f4b2fb2f1.jpg> パキスタン軍 印へ反撃開始を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538298>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/1c2ff01a01aa9be3f17143bf3341f3ac902b90363f78bd7ceb3635f5a6d9f90e.jpg> インドが軍基地攻撃とパキスタン
       </a>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/87adb21eb86f66495414ca3a2c16c76dde4c0ae3c5de71fa2676f3f572e290e9.jpg> 元交際相手がストーカーに 対応策
+      <a href=https://news.yahoo.co.jp/pickup/6538299>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米政権 航空機にも追加関税検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/1fc50bdfc5ed436fe450768d8396711ba925cb7b3e6da3638305fb292bbd4730.jpg> 三井住友FG 印の大手銀に出資へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9b0aed2687ab0f0bcfb20eaee00e0ba75ed688a5571ce652aac66d0ab388857.jpg> 日本空港ビル 4億円超の供与認定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7060ec66e9c134b2fb191d95ab00b20f92a90b58fff2110e2b5b32e4e1b71188.jpg> 過去最長の黒潮大蛇行 終息の兆し
+      <a href=https://news.yahoo.co.jp/pickup/6538303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ef0310af34a4f17989bf15baa5db7b2cb8434239d4e41b97f003592401f89761.jpg> 祖父殺害疑いの16歳 祖母も殺害か
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a34f11c3810d57c9ed4fcb43b4355f8a7735db5741d344df61e9cdecba5dd14b.jpg> 物価高 給食のおかずにしわ寄せ
+      <a href=https://news.yahoo.co.jp/pickup/6538300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/50108901639f621901115f3f314cd22933ff60039488b30a3447f70e99752c26.jpg> 小学校侵入 保護者から不安の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538297>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 母68歳 もう一度「中学生」に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 10:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 10:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
