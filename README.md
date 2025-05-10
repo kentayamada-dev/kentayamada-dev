@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f80bc2bce840cfcd9a53ef46259c172.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e80d04e9074c222b3cf6f86d116ae09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cbb3d2bf1b4c9e7873d321eed7339432c9ff682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010012-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 思わずバット投げ捨てる“確信弾”で驚異の7戦5発！　止まらない大谷翔平の異次元さを物語る「1.138」
+      <a href=https://news.yahoo.co.jp/articles/65b5ad224771d85407103b103667715f42d44055>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000073-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「万歳ポーズ」が出た理由、決勝3ランに勝負師の顔…感情爆発に「試合展開は熱かった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d5039bc949f6b3ac4cab2500ab3bf5f66ab4318>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-35100673-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> ダウンタウン浜田「ごぶフェス」登場！　オープニングで「世界の国からこんにちは」
+      <a href=https://news.yahoo.co.jp/articles/fa04472618a15bd2739e0c370274b8d1041402cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000231-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、張りある声でフェスMC！DA PUMP・ISSAの「何はともあれ復帰おめでとう…」にも感謝
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/42e878f41fd6b4956b79d289289ccca94ea59f072ffea45c210c3315048061f6.jpg> 男が小学校侵入 鼻骨折した教諭も
+      <a href=https://news.yahoo.co.jp/pickup/6538318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/8db1c62d772dd83ef76dcedea4660343f8fb76619df4e43bbc98aba71b63770e.jpg> 配慮で消えゆくセーラー服 島根
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/8db1c62d772dd83ef76dcedea4660343f8fb76619df4e43bbc98aba71b63770e.jpg> 配慮で消えゆくセーラー服 島根
+      <a href=https://news.yahoo.co.jp/pickup/6538333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/7382c060ea2a21a4f8b758d1f67a475d6909b7e99683ef8cec0eb4c1b2897658.jpg> 万博のイラスト「こみゃく」人気
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 15:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 16:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
