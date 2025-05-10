@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f11d2fd10b86bb48986695a8a6137232.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cd13bba50ac5ce0b183cb40045ba3eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/209b05d2858131eada8684e34ff5d3d11d6c001e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010004-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 スプリットを一閃！9回劇的勝ち越し3ラン！2戦連続となる12号含む3安打の大活躍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/584b217dc817fce8ec2485f3d1e7babbe612ef46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-90030067-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 70代夫婦死亡で遺体に複数の刺し傷や切り傷　孫の少年強い殺意か　愛知県田原市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/53c1d2a2896b16aaa41b71d394287be3ac89ccc8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド・パキスタン両政府が即時停戦に合意と発表　アメリカ・トランプ大統領も仲介したとSNSで明らかに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adc8434aeea219cdb4cf340de0d2e252abdca0f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101333-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功、復帰後初ステージに共演者らも喜びの声　木村カエラ「おかえり～！」ＩＳＳＡ「復帰おめでとうございます」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ea55b65e349793988a44ddb4400c28fcfdac72f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534560-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵軍ベンチを沈黙させた決定的瞬間　大谷12号で明暗分かれ「何度見てもシビれる」「飛んでるみたい」X沸騰
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ce87f6a2b2d84875be247657502cd9ce76a57dccc096d4b6f9d83955a1ca2f33.jpg> 金正恩氏 露朝は「血盟関係」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538369>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ca100bad1085f175d706176119947c37d1ec141450b45366f75a348631c83677.jpg> 欧州 露に12日からの停戦開始要求
       </a>
@@ -410,40 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/98ecb59763e0514277ef5a594cffea9dd4c3bfdc50d401f661f314e766e3e77a.jpg> アメリカの人気車種 関税影響か
+      <a href=https://news.yahoo.co.jp/pickup/6538373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/02afe6128d39b5a61920e2e7cc8d118212907955f6cb92d14c0b12aaf6833edd.jpg> 70代夫婦死亡 就寝中に襲われたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a3e339c813c42eaa50541ed8195b206e4908a8ed744df3b9a7889f4cac50a6ec.jpg> 「清流の里」なぜ水道水で食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6538367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b0b1e3bfa1c2c4fc613cbe3254aafcd6dca3410dd725f604dd8fee4f1bb7606f.jpg> 駐車場で車にはねられ 5歳児死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538339>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02198646/title-1746505528272.jpeg?exp=10800> ゲーム映画ヒット連発 業界の変化
+      <a href=https://news.yahoo.co.jp/pickup/6538352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/38a78f50d615fa27237ed3a0d55b7c2d6c15d93792dc0b6fa2cfe8bd0b5cec03.jpg> 伊豆大島キョン繁殖 人口2倍超か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/2bdd1cfda435a6637c93c6a92af7be0b33df0f1c512f51722eb460af0fd59c52.jpg> 処方薬とシナモン相互作用か 研究
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/23a2708d84c337383f228c542b8dcff8fbb5d6ce6af5fb5dfbff560b31302359.jpg> 3軍からの下克上 巨人・浅野がHR
+      <a href=https://news.yahoo.co.jp/pickup/6538375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d8ca83a6928f4dce5331b427390a83bc4a7dcfb8b42a89a486d2081ed77d4438.jpg> 朗希屈辱の三振ゼロ 球速は低下
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 22:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 23:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
