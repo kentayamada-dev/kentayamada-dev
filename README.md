@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8cccef88b6749bbbe137fb630d6cd625.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d852dfc919b6c736ecff94e19e015f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ba119420499377fb3cd2a2d5b876d37a7e30a1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000260-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=872&ch=872&exp=10800&fmt=webp> ロシア「30日停戦に同調困難」　米欧、追加制裁を調整　「3日停戦」機能せず
+      <a href=https://news.yahoo.co.jp/articles/95439949a47ef2dda8bea65cc13e626f2a120ebd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000019-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 英独仏ポーランド首脳、ウクライナ訪問へ　「30日停戦」に向け協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6831f76d20a9fc6d4334939632dc3850b1c95645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000099-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=835&ch=835&exp=10800&fmt=webp> 元DeNA・乙坂智がマリナーズとマイナー契約　米独立リーグで存在感　藤浪晋太郎と同僚の可能性も
+      <a href=https://news.yahoo.co.jp/articles/78bc115ff73bdbd081368fbe8dd8e654c950b23a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY近隣空港でレーダー途絶　老朽化、安全性に懸念　米
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/93e5bb02e9cc6644114363723b2ddcc9e0c88131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000242-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> DeNA・林琢真が決めた！泣いた！自身初のサヨナラ打　途中出場で大仕事、天国のおじいちゃんのためにも今季は「絶対にやってやろうと」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000242-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> DeNA・林琢真が決めた！泣いた！自身初のサヨナラ打　途中出場で大仕事、天国のおじいちゃんのためにも今季は「絶対にやってやろうと」
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/6/8/a2273ce680f98dd3b9a13af3a6b681325897afbe33fcbce668cc60518b0326df.jpg> インドが攻撃対象拡大 軍施設も
+      <a href=https://news.yahoo.co.jp/pickup/6538298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/604d56ccd393529dd4ef7dd297b3352144f75bff336ac454f0e78aa09ac0672e.jpg> インドが軍基地攻撃とパキスタン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/c64643ebd6c4d8dd73971a1b41002c9f6605b09d8d684458720e749eb0d0bc03.jpg> 自民 夫婦別姓法案の提出見送りへ
+      <a href=https://news.yahoo.co.jp/pickup/6538290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/87adb21eb86f66495414ca3a2c16c76dde4c0ae3c5de71fa2676f3f572e290e9.jpg> 元交際相手がストーカーに 対応策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/867d26f471ab014d7a30d5379baa3b941679154b82c2cff67b89792d1ec4c23b.jpg> 備蓄米 卸売業者へ出荷は32%のみ
+      <a href=https://news.yahoo.co.jp/pickup/6538294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f9b0aed2687ab0f0bcfb20eaee00e0ba75ed688a5571ce652aac66d0ab388857.jpg> 日本空港ビル 4億円超の供与認定
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d9de114d9f23992223e21f6355df32c76ec8cca5bc607c82af15cb0ead8b3262.jpg> 乙坂智 マリナーズとマイナー契約
+      <a href=https://news.yahoo.co.jp/pickup/6538292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a34f11c3810d57c9ed4fcb43b4355f8a7735db5741d344df61e9cdecba5dd14b.jpg> 物価高 給食のおかずにしわ寄せ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cc84df226ea89d5ddc86ad8d767c69d67ab703816257db089f72b9c836bbf28b.jpg> 華原朋美 息子に再婚せかされる
+      <a href=https://news.yahoo.co.jp/pickup/6538291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d9de114d9f23992223e21f6355df32c76ec8cca5bc607c82af15cb0ead8b3262.jpg> 乙坂智 マリナーズとマイナー契約
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 09:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 09:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
