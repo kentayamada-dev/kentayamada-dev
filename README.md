@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/599f0528deeee72a8dbf83596fca4e57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6889bd2f36ffa13c440e1d3350fa400d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89a837b8ce0c46acbf6ed4479a1da6b6e01515a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000014-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 万歳返しの大谷「熱かった」　近代野球史上初のシーソーゲーム　“恐怖の土壇場男”の一振りで決着
+      <a href=https://news.yahoo.co.jp/articles/511503ae8533f7bdb030501f8ccb636187924a79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00969964-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> インド・パキスタン「停戦合意」　アメリカ・トランプ大統領は“仲介”成果強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0ac487262fcd408e01baadee6110003edd951ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235792-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「米仲介でインドとパキスタンが即時停戦に合意」SNSに投稿　インドとパキスタン両政府も合意を発表
+      <a href=https://news.yahoo.co.jp/articles/89a837b8ce0c46acbf6ed4479a1da6b6e01515a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000014-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 万歳返しの大谷「熱かった」　近代野球史上初のシーソーゲーム　“恐怖の土壇場男”の一振りで決着
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 01:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 02:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
