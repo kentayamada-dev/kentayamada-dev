@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c84ae7837fcebc80c7ab6d452c8fd7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f11d2fd10b86bb48986695a8a6137232.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98987d952642a16d9f60f83e16c81285fa4044f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000147-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1478&ch=1478&exp=10800&fmt=webp> 交戦拡大から一転、印パが停戦　「完全即時」とトランプ氏
+      <a href=https://news.yahoo.co.jp/articles/53c1d2a2896b16aaa41b71d394287be3ac89ccc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド・パキスタン両政府が即時停戦に合意と発表　アメリカ・トランプ大統領も仲介したとSNSで明らかに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebaab6fab28303f92775ec4fd366f5c1dbc3882e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00344087-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】ネビン　チーム４年ぶり満塁弾に興奮「アメリカにヒーローインタビューはないので…」
+      <a href=https://news.yahoo.co.jp/articles/adc8434aeea219cdb4cf340de0d2e252abdca0f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101333-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功、復帰後初ステージに共演者らも喜びの声　木村カエラ「おかえり～！」ＩＳＳＡ「復帰おめでとうございます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ea55b65e349793988a44ddb4400c28fcfdac72f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534560-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵軍ベンチを沈黙させた決定的瞬間　大谷12号で明暗分かれ「何度見てもシビれる」「飛んでるみたい」X沸騰
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71b1baf7bff5fd680d108adc04840a993c9ab4b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中関税めぐる初の協議　スイスで始まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b965c16c6a0d714275e7f70a26084de576b20a0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-01751079-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 劇的弾で“大谷さん以外”の表情が「たまらん」　ド軍同僚の神リアクションに「尊い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72d46a6c5f90aea9ee122ed7be4b8d613f70b3fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050137-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=358&ch=358&exp=10800&fmt=webp> トランプ政権、航空機や部品の追加関税導入も調査…三菱重工など日本メーカーに影響の可能性
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a56c130fc95824a6accb1ad944fcfd6de2476af4d128f5dc77ba01f3c8dcf266.jpg> タイの倒壊ビル捜索終了 死者89人
+      <a href=https://news.yahoo.co.jp/pickup/6538369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ca100bad1085f175d706176119947c37d1ec141450b45366f75a348631c83677.jpg> 欧州 露に12日からの停戦開始要求
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/99e310c26c38cdaee015bea8de8e04466efcec12a5edcda3f192a71067849642.jpg> 珍事 パで1日に3本の満塁本塁打
+      <a href=https://news.yahoo.co.jp/pickup/6538371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/fd736f0447055b9437bd1c0baed2d5f425bd4fd74ff967e5d577be6bffb170c8.jpg> 浜田 長男と初めてステージに立つ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 22:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 22:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
