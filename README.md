@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/095c40b10e6e08990bbe9f7e3113cf30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32b73fb31a1d9f5be495606a030e5d98.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05ba5e23c1042f8442cddb6718353ea8c2dc2482>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010016-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本ハム・万波中正が満塁ホームランを含む2本塁打6打点の活躍、レイエスにも一発｜日本ハム×楽天｜プロ野球結果
+      <a href=https://news.yahoo.co.jp/articles/5da8d8e66736d7a567d1b2993b3f380986e45922>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000331-oric-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 小川菜摘、浜田雅功＆ハマ・オカモトの“親子フェス初共演”に「良かったね」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 03:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 04:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
