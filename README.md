@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/597b9140f318049e5396159bd6a43488.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51faede48f3aa74f10f2a12127921e50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10ada62bb8c5c3752434a46d70762f0d9140dfc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000035-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 打った瞬間確信…劇的な勝ち越しホームラン！ドジャース大谷翔平3安打4打点の大活躍！
+      <a href=https://news.yahoo.co.jp/articles/4d2a1b1b98093d3336fff059d87f33c944bf7ea9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-09365551-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大乱打戦に大谷翔平も「熱かった」 同点に追いついた仲間の活躍に「あの一打がまだまだいけるぞって」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57366098b8fc5897a75cad44f5f108ed9dd14b56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235775-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> パキスタンが「反撃開始」表明　インドは空軍基地の攻撃など報復激化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42aa64abd3ccc57c017cd8404759051c4b044953>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235759-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカと中国の両高官、スイスで直接協議へ　貿易摩擦めぐり初めて
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34e903ddf9c2902359b5344145c78e73f12f9bd6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000036-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 盗難で韓国に渡った仏像、長崎・対馬の寺に返還　日韓関係に一時摩擦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3325718c5ac9636f19215faa2597f8502f7dea6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000054-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=821&ch=821&exp=10800&fmt=webp> インドに反撃、核兵器会合開催　軍事施設標的で緊張激化　パキスタン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/518fa094fd528605cf55652d93ae3564ec3225e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-26333342-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア対独戦勝80年記念式典、プーチン氏と習氏が並んで観覧　BBCロシア編集長が報告
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/07bf844bf05f76a30f99cc7fcea2b0e67415135c7bf685da032fb5cc76676154.jpg> パナソニックHD なぜ今1万人削減
+      <a href=https://news.yahoo.co.jp/pickup/6538344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ad4d41d6afafd8551ecb180bb04e1603b998f770711109fb7c33a6c120cda7f7.jpg> トリキバーガー苦戦 市場の難しさ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 17:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 18:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
