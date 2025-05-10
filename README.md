@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5427a35694b4d07514ad4c462bc21782.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7487d10410e1ff39cc37bd78289b0eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c8331419be69aaef2b644649113462793d91fb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050118-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 関税巡る米中協議、スイスで始まる…合成麻薬フェンタニルも議題か・習近平氏側近の公安相派遣
+      <a href=https://news.yahoo.co.jp/articles/0addc6ed26d603a01729853f7da0b03796016e33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-35101542-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=965&ch=965&exp=10800&fmt=webp> ドジャース佐々木朗希「真っすぐの強さがなかった」…初の中５日登板も５回途中５失点と課題残す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/932c752b4f95f19a63efa39fc183ffd0b6b0fb83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534568-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷12号で“映画級の1枚”が撮影される　「永遠に語り継がれる」「とてつもない」米ファン感嘆
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb50c526afd9e88590f4685f5085b06974974685>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00096313-thedigest-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 直近７試合で打率.414、10打点のハイスタッツ。大谷翔平の際立つ異次元数値「1.652」に米震撼「異常だ…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/519a7620f5e743fd1b1859e7c954a606ec9b5b3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-10177638-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=667&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> 佐々木朗希、1回を「たった6球で」抑える快投 約2分で三者凡退…2勝目ならずも“異例のイニング”に注目
+      <a href=https://news.yahoo.co.jp/articles/ab2ce9ce50ff6a96a167cb031680bcc6be37e6d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235781-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 激しい対立が続くなか、貿易摩擦をめぐるアメリカと中国の初の直接協議始まる　
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/b12e0a4d10ce8076441663f81cf0a4120d95e452c535d3ba59f9640bf7a18956.jpg> 脱線事故 婚約者失い絶望と憎しみ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/278c5cd8955d0f32093025e9b7319f15b0b9c145c592c9ad7e316f0060b09953.jpg> 脱線事故 婚約者失い絶望と憎しみ
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/4b5570e971c2f4b6c109c237b0cc77b268519cf78d971b7702eca05cb8ffc352.jpg> コメ仕入れ値は倍以上 苦闘の学食
+      <a href=https://news.yahoo.co.jp/pickup/6538356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a3e339c813c42eaa50541ed8195b206e4908a8ed744df3b9a7889f4cac50a6ec.jpg> 「清流の里」なぜ水道水で食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/ad4d41d6afafd8551ecb180bb04e1603b998f770711109fb7c33a6c120cda7f7.jpg> トリキバーガー苦戦 市場の難しさ
+      <a href=https://news.yahoo.co.jp/pickup/6538354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/2bdd1cfda435a6637c93c6a92af7be0b33df0f1c512f51722eb460af0fd59c52.jpg> 処方薬とシナモン相互作用か 研究
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d3a45ca39c9e1f1c2524bc045a302db93d15123b798a3b7f3bcb594d29710986.jpg> 佐々木朗希が5失点 奪三振はゼロ
+      <a href=https://news.yahoo.co.jp/pickup/6538361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/4b5570e971c2f4b6c109c237b0cc77b268519cf78d971b7702eca05cb8ffc352.jpg> コメ高騰 せめぎ合い続く学食
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 20:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 20:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
