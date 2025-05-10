@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/630ce2aa6ecc187e1a82135f146bb985.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bebe0db6a127709813e2e22c932c9c31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b2710f5e66d969f67eebf30c7e4531183f3cf05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05132313-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NPT準備委「勧告案」の採択に至らず　各国の意見まとまらず
+      <a href=https://news.yahoo.co.jp/articles/e966d30b901fb77982b33c5f4f22e2d6bbc19f50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00050093-yom-000-3-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 上皇さまは「無症候性心筋虚血」…宮内庁が診断結果発表
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/81fd98ee596ab7bcc1b086ab80289470a73e785202d46bec10c94160f09be4fe.jpg> パキスタン 核兵器巡り会合へ
+      <a href=https://news.yahoo.co.jp/pickup/6538324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/901321de875a7be20ed6ae14e117ba2cacad22de9aa39da06bbee7914531305d.jpg> 米欧 露ウ30日停戦案を最終調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/4ec57d4f9cd1d2aa25286fe22883aa1cce7dfb00794baa2c8d0c4e8130f06cd4.jpg> 上皇さま退院 4日ぶり仙洞御所へ
+      <a href=https://news.yahoo.co.jp/pickup/6538327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/59871facd87ca9ac77167ae81703c5096fc93cab480879ab371a428a8b96fa8c.jpg> 上皇さまは無症候性心筋虚血
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/3b118d4568b1f8b38136bcc181cd13a4f0d5f0b44a3cf2eefd257532339b51da.jpg> 菅野が快投 チームトップの4勝目
+      <a href=https://news.yahoo.co.jp/pickup/6538314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/338ab2d98d05f2cd6c8a450bb12d49b1d11bf87613642cfa4b1df3dc804b2562.jpg> 皐月賞馬アンライバルド死す 19歳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 14:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 15:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
