@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/723b46c68a64c62361607a59e54163e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe62b6756e55079364ebfa924e87a274.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c98594e4d2fc4de86c6587fa0005a75eb517fd2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00534685-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷12号で生まれた“敵地とは思えない光景”に困惑　ド軍ベンチも、客席も一斉に…「どこの球場？」
+      <a href=https://news.yahoo.co.jp/articles/37e34c73ad8bb9890fdd514faaca91a3cb3644b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096330-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「９回の悪夢は続く…」大谷翔平が叩き込んだ“えげつない一撃”に敵地実況アナも絶句！「やっちまった。グッバーイ！」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 05:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 05:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
