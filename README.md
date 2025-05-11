@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52027fe20bb4a3926eb5adc664bff79e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ebb219fc851f8db687ad1b1cbe2dab8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ffc2e5c588d237ada7e194aeba061312e6f6b34bd73798deaebed55d28d9ce2e.jpg> 尖閣沖のEEZ内 中国が海洋調査か
+      <a href=https://news.yahoo.co.jp/pickup/6538488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/955816b10df5b61905facf29c61adf1711c7a388062ffa8f01ae01ce2109b492.jpg> 韓国大統領選挙 構図固まる
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/70729567cfc8c5850f40c1730d6c5f52372c3bb5a590f28302ed72d26f1a5ffb.jpg> 袋に放置の赤ちゃん 温めた発見者
+      <a href=https://news.yahoo.co.jp/pickup/6538468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d9d2ce74244959f9083eedde9e25dce27f1a4ef7c31a99d4cd98d1fc40863e32.jpg> 脱線事故で生き残り 罪悪感で自死
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/976019f368ff1abe406580c3f56114b174ec85b13c54bc4808a7674846b953b2.jpg> 搬送の藤田 コースに戻り涙で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6538507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/02d5189df935b691fceff8e007416276f58c1297ca299104fb300ad11221ba91.jpg> 久保凜 レース後に座り込み悔し涙
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 23:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 23:51:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
