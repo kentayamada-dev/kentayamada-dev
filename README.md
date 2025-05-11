@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7de0a5c245b6b9897aa30f1c54719697.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18335b73e7f12fbdb94a7efae9ef4ec7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e24a0f8bc3ab6f11d158ddc62b649fb8966508d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10184147-egolf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大会最年長Vの申ジエと“敗者”藤田さいき　それぞれが見せた「リスペクトの精神」
+      <a href=https://news.yahoo.co.jp/articles/b77ed6be8d0be05b0f51c5b90b19db8dc2c72202>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国調査船、EEZ内で活動か　沖縄・尖閣沖
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3f9984914ac623bda4ded67ca0e8107630c0c23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000106-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=712&ch=712&exp=10800&fmt=webp> 浜田雅功、ごぶごぶフェス最終日に「チキンライス」熱唱　大型ビジョンには松本人志…
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 参院選争点は消費減税 与野党見方
+      <a href=https://news.yahoo.co.jp/pickup/6538467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ce3f95be42823215da63f1217df551c59c5434fdea4221cdc1a7f75e57538b9a.jpg> 米関税巡り英初合意 日本との差は
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/1f8b012f41757af4d22df996eca593dc14eb083a53b9a275f0d89545121c7aa4.jpg> 騒然 佐藤輝が片手でフェンス直撃
+      <a href=https://news.yahoo.co.jp/pickup/6538459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/757e4bc883da3342493844f1b0412cb6b0d33ec1081afb88bc0e7cbe4663a5ac.jpg> パンダいなくなる白浜 不安の声も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 19:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 20:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
