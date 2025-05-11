@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e021937f74fb1fade85649614f5fde26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e6410c2b4f834cc9aec0b532b3dcac3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ca6cc922bd3c350106594df387670ef8c025afd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110102-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、第１打席で８試合連続の痛烈右前打　打球速度は176キロの高速打　３試合連発なるか
+      <a href=https://news.yahoo.co.jp/articles/fa602c6ec8b4fda6e08f6b04e21e85e43f4aa68b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000005-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=629&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> プーチン氏、ウクライナとの直接協議提案
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cb0067931e93ac0564f0b57574695e4f68ce5631f0dff08ff519847aab8bed65.jpg> 印パ 停戦合意も双方が違反主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/218cab608a91e8fb6bb3c410a2818cfba1f8c6ce282ac77f4ada607dc07542f7.jpg> 韓国与党 大統領候補の一本化失敗
+      <a href=https://news.yahoo.co.jp/pickup/6538404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cc09716bf215fe55185e77624ddb9d598439ea907581eb85701003edcce8dcbb.jpg> プーチン氏 ウとの直接協議を提案
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/5a069791df52299f7aa750530e7844e6edb7b25628fdf1ac6ca0e3fe0ce4b86d.jpg> 今永 けが悔しくて眠れなかった
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 09:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 10:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
