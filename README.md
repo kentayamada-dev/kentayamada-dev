@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6c58fb8d45da94451f462cdf3cc4d9e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bbd54af919a0c630487a2b9db09abb7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aecfd6840a28d6111562fe8a9ca0fa4a00ea732>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=338&ch=338&exp=10800&fmt=webp> プーチン大統領、停戦に向けた直接協議を「一方的に」提案…「１５日にイスタンブールで」
+      <a href=https://news.yahoo.co.jp/articles/8ca0bc289cf0bc55cc1c8e0e8cc6cad7c056b42b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177745-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=984&ch=984&exp=10800&fmt=webp> プーチン大統領、ウクライナに直接協議を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ff16cb1d4d4e404d0a81e927dc5d30818b9caf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00344128-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=852&ch=852&exp=10800&fmt=webp> パドレスが記録づくしの大勝利　ロッキーズは借金２７で「昨年のＷソックスより史上最悪だ」
+      <a href=https://news.yahoo.co.jp/articles/1b9121419e125e39868e019ad2cf7ccf07039ae5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050044-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 関東インカレ、トラック４周のはずが３周でコースへ…男子２部ハーフ・記録は参考に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/352f43888879e6328f97c0e966adf7f2abd02561c9bea1bacf3d23de18b5c112.jpg> 13日頃から夏日続出 熱中症に注意
+      <a href=https://news.yahoo.co.jp/pickup/6538443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d2bb8ab0f8beff0421468dbfef919772573042dbe47a977efd6693f4e03cc4ec.jpg> 国会終盤 年金法案の提出大詰め
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538413>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02204376/title-1746913251453.jpeg?exp=10800> 海で遭難続く 注意報甘く見ないで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/00ec389bc42ef8ffdaed10da1f6dabadd09ea369a14f21947edfbf41fc3fb84a.jpg> オウム死刑執行の背景 関係者証言
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cb2700a27a102240832a0263d345480d198e6c25d4fdc5ba162d3fdd7e2fa434.jpg> バク宙失敗し車椅子生活 日常一変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538440>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d5863c33567088b36ead2ae8e66617163c427c785f8d50c0f4d7d6d391f50729.jpg> ケイン・コスギ弟監督映画 快進撃
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 15:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 15:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
