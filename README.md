@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d5182b57f797b17e9522aebb28ff75f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0931fc9ed3f44d82e6e62bfbf6f77c2f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d293a80c44e25a3174173445c03c0f2cc238e8fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000417-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1119&ch=1119&exp=10800&fmt=webp> 井岡に判定勝利のマルティネス「本当に強い2人がこのリング上で全て出し切った」井岡から「重圧」称える
+      <a href=https://news.yahoo.co.jp/articles/5e583019fff5d5c72ae011d494b81cffc4ee8b8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000129-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=862&ch=862&exp=10800&fmt=webp> マルティネス、井岡のファイト称え「私に大変プレッシャーを与えました」今後は3団体統一戦を希望
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ca4f8ec045a752550024b720130785b47dc7ff3202a6f8c5ecc18a6a529cc003.jpg> 日チリ 自由貿易の重要性で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/28ff929f5177f4a339d46a5e3114c660cc8ba35ba9515c76594643c6b96c958e.jpg> 赤沢氏「トランプ氏と相性良い」
       </a>
@@ -418,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ffc084dfecba7541b44f079ae81142c5e0adddbfff37984e0cc182c9620e7369.jpg> 観光バスにはねられ 92歳が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/70729567cfc8c5850f40c1730d6c5f52372c3bb5a590f28302ed72d26f1a5ffb.jpg> 袋に放置の赤ちゃん 温めた発見者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/70729567cfc8c5850f40c1730d6c5f52372c3bb5a590f28302ed72d26f1a5ffb.jpg> 袋に放置の赤ちゃん 温めた発見者
+      <a href=https://news.yahoo.co.jp/pickup/6538491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/fa56bfbbe54e52d3870669ea2f3f585b9f1f2c9a69463595102a55f338647645.jpg> 6700万円の贋作公開 思わぬ人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/95ca0eb615681d39e09c409dfceea5a21a3a1a65a1b030bc09a2b5de90ea6378.jpg> 井岡判定負け 王座返り咲きならず
       </a>
     </td>
   </tr>
@@ -440,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cd88de9edc904c8ae48262353f1faa01c36a6b6d67ed33f312214acca05859a2.jpg> G浅野 衝撃の2夜連続ホームラン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ddeca9fcbaf6aab4e5a9d916f021028201227dcf39c1deb73fd11b201099b932.jpg> 「壊し屋」騒動の≠ME 警備を3倍
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 21:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 22:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
