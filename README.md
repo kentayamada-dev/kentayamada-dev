@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72df4f902adeb6f20cad43bcc23bce37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20674b12fd078f53a3ec31446dd6a6d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88761ac28d50b55d82b69f9af334f560ba5c4c34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000039-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏「ロシアとウクライナにとって最良の日になる！」　プーチン氏提案に反応か
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42038da48c3609eb236a2ff2fff9ec4650879e4b>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbd651f7df9349571debf86640f9f92fd111ca19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/11cd1fe9756d0a5997d11d5001a0e03041e0d452>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-04959727-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 「家にあった包丁で刺した」　祖父への殺人容疑で孫(16)送検　高齢夫婦死亡、祖母の殺害もほのめかす　愛知・田原市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f28793bf606d7a7b58f163d1e62aa7bea0033af6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、ウクライナと直接交渉を提案　15日、イスタンブールで
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/55bc51cc48058ad192f0235556d9606c0ba7d91b14a7f3292666f3a89e93de87.jpg> 王座奪取へ井岡 36歳の壁破れるか
+      <a href=https://news.yahoo.co.jp/pickup/6538431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e3722ef81f0e85138afe7d37ab7bdfd7ddbad6cd2104d960e504bf68cb13e8f7.jpg> 母の日 珍名馬ママアリガトー疾走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0ffd6a5a6a39210e9f72f33d9c1ed9679e68795d3ae2cf31b992d43efd90a959.jpg> あいのり でっぱりんが第2子出産
+      <a href=https://news.yahoo.co.jp/pickup/6538433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e97f39357a074c1892c7263e4ccefd54f21db4848c3e4d08995283cb0fc79d4e.jpg> peco いま6歳の息子に教えた生理
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 14:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 14:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
