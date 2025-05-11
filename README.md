@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c6dace51cd0e94c59f17d81c33616df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1009bc8438f229f9c30a9b7a7301cb6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d581c0366f927dabf500c76c0b7882663b8a5cb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16753497-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=450&ch=450&exp=10800&fmt=webp> プーチン氏、ウクライナとの「直接交渉」求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ac47417af90c4e0f7797ff1565e004cf81c0a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000020-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 大谷翔平、3回の第2打席で早くも申告敬遠　敵地ファンはバッテリーにブーイング　けん制ルール違反で走者進塁、一塁空いたため
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f805bf4d2c3a26cefa1e8052ff44a6af3f877155>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00969988-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領がウクライナに直接交渉再開を提案　5月15日にイスタンブールで
+      <a href=https://news.yahoo.co.jp/articles/c1c0b42a193fc5a0745bf4b6c5d4bcc939cc2a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110136-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=1362&ch=1362&exp=10800&fmt=webp> ハマ・オカモト、ごぶごぶフェスで共演した父・浜田雅功に「お父さん復帰おめでとう！」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2690cd1fdcf2d5b54d216312c2c5b28f7468946c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07938155-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【パ・リーグ順位表】上位3チームが勝利　首位オリックスは対ソフトバンクの連敗を「12」でストップ
+      <a href=https://news.yahoo.co.jp/articles/e7faa821b70daa0a34b096b5b0f6ddd32e2d7a1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00029744-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日11日　雨雲が次第に広がる　沖縄は滝のような雨も　北陸中心に前日との気温差大
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538404>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cc09716bf215fe55185e77624ddb9d598439ea907581eb85701003edcce8dcbb.jpg> プーチン氏 ウとの直接協議を提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538390>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/otasaeko/02196219/title-1746590324689.jpeg?exp=10800> 高齢者のATM利用に上限検討 賛否
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 「友達親子」の注意点 医師が語る
+      <a href=https://news.yahoo.co.jp/pickup/6538403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e73350e50f15aa92ccc211a2d56e9ee0046ce6a604827e32fe55302c97dabde7.jpg> デリバリー全盛期 宅配ピザの今後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/946ace7ecbce0f45ce1450558d8bafce792831fad0257c8786cb03dc9f329028.jpg> 大沢たかお祭り 背景にSNSの変化
+      <a href=https://news.yahoo.co.jp/pickup/6538400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 「友達親子」の注意点 医師が語る
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/dadc14d8d67252228aeb066c12bf311506d4930b0d6cbf254820b21247e59ad8.jpg> 芳根京子「できません」は無し
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 10:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 11:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
