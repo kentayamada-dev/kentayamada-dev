@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa8c6dc76ceac2be2f77ae27542f6926.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2991731f973d9bfa5e2706be077cc8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/135f2a739ab7ec158aa2f92e3f71d052d0320a1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05111333-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平、５分間のインターバル挟みブルペンで計３５球…イニング間想定、順調なら近日中に実戦形式登板も
+      <a href=https://news.yahoo.co.jp/articles/ddf698e0e10c65c75db51542dc18ae866974d4b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-09571749-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> プーチン大統領、ウクライナ側に直接交渉を提案したと発表　トルコ・エルドアン大統領「交渉を仲介する用意がある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ba4a67b46e8e71e0d0a02ac4a4cf33fb4645b5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000446-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　停戦交渉で暗躍のトランプ大統領に期待　問題指摘も「ああいう動きがあって政治が動く」
+      <a href=https://news.yahoo.co.jp/articles/135f2a739ab7ec158aa2f92e3f71d052d0320a1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05111333-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平、５分間のインターバル挟みブルペンで計３５球…イニング間想定、順調なら近日中に実戦形式登板も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 00:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 01:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
