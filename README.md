@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e6410c2b4f834cc9aec0b532b3dcac3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c6dace51cd0e94c59f17d81c33616df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa602c6ec8b4fda6e08f6b04e21e85e43f4aa68b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000005-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=629&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> プーチン氏、ウクライナとの直接協議提案
+      <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59f7123e6bcf2b398b9a5b238913b94dea61f725>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> インド・パキスタン、停戦合意も相互に違反非難
+      <a href=https://news.yahoo.co.jp/articles/27ac47417af90c4e0f7797ff1565e004cf81c0a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000020-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 大谷翔平、3回の第2打席で早くも申告敬遠　敵地ファンはバッテリーにブーイング　けん制ルール違反で走者進塁、一塁空いたため
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f805bf4d2c3a26cefa1e8052ff44a6af3f877155>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00969988-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領がウクライナに直接交渉再開を提案　5月15日にイスタンブールで
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/963fb15276e329138d874fe8d66a50b0ae6ded48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01750544-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の「マイナー降格は考えているか？」　5失点翌日…ロバーツ監督へ飛んだ質問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b662b3892a57594bce7a51b070c788da0c8b616>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000119-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 浜田雅功「ごぶごぶフェス」完全復活＆長男のハマ・オカモトと親子共演　妻・小川菜摘「良かったね」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/eb58d58d3e7f48dcca7e2e933bf21d2115c30e0958d1ba326ccf1979a0738d97.jpg> 1972年打ち上げ ソ連探査機が落下
+      <a href=https://news.yahoo.co.jp/pickup/6538411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/a34f2837c92cb24aefaf9c7bd4ca3ef3a7752a866dd8d18ee24558e4686583e3.jpg> 取り調べ拒んで「物扱い」提訴へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0be3061cfb3504d6d788e1c18d368478289c6cd7624dc1378940f66032ec5408.jpg> カーネーション農家 現実は厳しい
+      <a href=https://news.yahoo.co.jp/pickup/6538408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/425794161ab4da358cad86721aaa5669d87d72a7e8a0cef37b001401b4de4a6d.jpg> コメ価格高騰 パン屋の倒産が急減
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/5a069791df52299f7aa750530e7844e6edb7b25628fdf1ac6ca0e3fe0ce4b86d.jpg> 今永 けが悔しくて眠れなかった
+      <a href=https://news.yahoo.co.jp/pickup/6538412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/2e0d81326fab5bb59ea3792bee7090e2f2b95417039c070b46721abeb8ddcee7.jpg> ド軍監督 朗希のマイナー行き否定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 10:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 10:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
