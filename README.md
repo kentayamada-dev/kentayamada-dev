@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bbd54af919a0c630487a2b9db09abb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5089f8a2e7a6c2e292e4f5ba5490093.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ca0bc289cf0bc55cc1c8e0e8cc6cad7c056b42b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177745-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=984&ch=984&exp=10800&fmt=webp> プーチン大統領、ウクライナに直接協議を提案
+      <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b9121419e125e39868e019ad2cf7ccf07039ae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050044-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=361&ch=361&exp=10800&fmt=webp> 関東インカレ、トラック４周のはずが３周でコースへ…男子２部ハーフ・記録は参考に
+      <a href=https://news.yahoo.co.jp/articles/ae34b423ee37a75c44bfdb36ff13433092d6762c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01751575-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、戻ってきたリーグ1位「1.059」　驚異の7戦5発…譲らぬ最強打者の座
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42038da48c3609eb236a2ff2fff9ec4650879e4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000028-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平、3試合連続HRはならず　3打数1安打でチームも敗れる
+      <a href=https://news.yahoo.co.jp/articles/35d17899c406b9463098a717d63ff6f81e6cc5e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000032-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ギネス認定！万博・大屋根リングで1万2269人マーチング同時演奏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26335dd2bc7ec745a3ebaa51dd3648c295b10076>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00010001-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「最大のマーチングバンド」ギネス世界記録達成　万博・リングで1万2269人が演奏
+      <a href=https://news.yahoo.co.jp/articles/30f2bfdfea9795b5c1c73bf9d139aa07ca692924>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男子2部ハーフマラソン、トラック1周分足りず参考記録に　日隈専務理事「どこかのタイミングで3周の資料を見てやってしまったのか」　優勝の帰山侑大「短いなと思った」　関東インカレ／陸上
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538413>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02204376/title-1746913251453.jpeg?exp=10800> 海で遭難続く 注意報甘く見ないで
+      <a href=https://news.yahoo.co.jp/pickup/6538427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7b7dee3737e84d180b8a9dc42bd971d79988803e8c132ffd5c09359cca55c165.jpg> 日本から参加 枢機卿語る選挙内情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ec5c7dfe91d84935804fceac1be39320c32df83779ee5c235e887b8067fc17ea.jpg> 群馬で少年刺される 17歳を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538413>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02204376/title-1746913251453.jpeg?exp=10800> 海で遭難続く 注意報甘く見ないで
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d5863c33567088b36ead2ae8e66617163c427c785f8d50c0f4d7d6d391f50729.jpg> ケイン・コスギ弟監督映画 快進撃
+      <a href=https://news.yahoo.co.jp/pickup/6538451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/74f1257234adf4c219bf2e31a00b7a1d759e0ad8e16afe6617097b0989a57900.jpg> 映画「鬼滅」予告流出で注意喚起
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 15:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 16:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
