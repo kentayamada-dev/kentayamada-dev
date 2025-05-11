@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0376989fdf40910642f2924ad135208.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fbcc877e39b5d01fc308ab97ff44987.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87c5cc6a5cd68d224c48c57a8bd5e8ae80abb6e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、15日の直接協議提案　ウクライナ大統領「トルコで待つ」
+      <a href=https://news.yahoo.co.jp/articles/747462fb5ad41c7a96125bdec5a9bc7d40ccf470>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、９回の第５打席は一ゴロ　父親になって初の「母の日」　ピンクバットで真美子夫人に贈る１３号はお預け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/764d39a85c803787fef9ed644c38349df9c10f5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「母の日」２年ぶり打点　６回にリード広げる右前適時打で２戦ぶりマルチ　真美子夫人に贈る１３号なるか
+      <a href=https://news.yahoo.co.jp/articles/87c5cc6a5cd68d224c48c57a8bd5e8ae80abb6e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、15日の直接協議提案　ウクライナ大統領「トルコで待つ」
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ed4246f3458bc12c4ae10af3db322e851ec9903789ed5563de49559a9edcdb48.jpg> 路上に背中に刺し傷ある女性 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/2fc4aab9ac725514833a09e00d9d70fd902a052241be9f6d6dff4e51a7aed6a8.jpg> 駐車場で男性死亡 引きずられたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/2fc4aab9ac725514833a09e00d9d70fd902a052241be9f6d6dff4e51a7aed6a8.jpg> 駐車場で男性死亡 引きずられたか
+      <a href=https://news.yahoo.co.jp/pickup/6538516>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 千葉でサーフィン中の事故相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538515>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 豪山火事でコアラ1100匹射殺 批判
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/abe8a87ea1b8f805a7fb372ca66a080ccee19484c1c8370d35a4cd15a399b092.jpg> べらぼう 性表現で異例の注意喚起
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 07:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 08:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
