@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cabff23f9e300ac2114c3062a6542e2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a02c92dbf9ac1199ffe349874583e0a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f04d302365d22a9bbafad0a3b148da73bc3ec7ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000017-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=464&ch=464&exp=10800&fmt=webp> 5.11登場「連続初回KO」「わずか２戦でWBA世界６位」”21歳の新星”吉良大弥が”えぐい腹筋”計量パスで３戦目へ＝ボクシング
+      <a href=https://news.yahoo.co.jp/articles/d4ed6cb844565ccdbbaf5fa9378c60c96a3bebaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000179-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=800&ch=800&exp=10800&fmt=webp> キム・ヘソン2試合ぶり先発で1安打　ベース上でDバックス内野手が“頭ポンポン”「可愛がられてて草」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/502fb3e2aa5827eab2ad389728d899f5d55fba85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-09728413-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領、ウクライナ側に直接交渉を提案　「前提条件なしで」
+      <a href=https://news.yahoo.co.jp/articles/835f4a23e5733271a8e477f46ef39ecd52cfb6ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「驚くべき奇跡」韓国与党公認復活の金文洙候補が届け出　韓前首相と抱き合い和解演出も　韓国大統領選2025
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2baa0c39bf345b3720ac226ec46bcebbd37026e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90024561-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 活動再開の浜田雅功、フェスに登場！ハマ・オカモトと史上初のフェス親子共演も！
+      <a href=https://news.yahoo.co.jp/articles/2c2dca9ce5095eae661392868c1785babd806288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232828-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 欧州首脳がウクライナ訪問、ロシアに３０日間の停戦要求　拒否なら「大規模制裁」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cc09716bf215fe55185e77624ddb9d598439ea907581eb85701003edcce8dcbb.jpg> プーチン氏 ウとの直接協議を提案
+      <a href=https://news.yahoo.co.jp/pickup/6538414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/352f43888879e6328f97c0e966adf7f2abd02561c9bea1bacf3d23de18b5c112.jpg> 13日頃から夏日続出 熱中症に注意
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b28731b9b176d8b5c58b6b125ea1de12eeb11d3bc57bf636a1332c47f60205eb.jpg> 逮捕から326日後保釈 冤罪の男性
+      <a href=https://news.yahoo.co.jp/pickup/6538425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b28731b9b176d8b5c58b6b125ea1de12eeb11d3bc57bf636a1332c47f60205eb.jpg> 逮捕から326日後保釈 無罪の男性
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/425794161ab4da358cad86721aaa5669d87d72a7e8a0cef37b001401b4de4a6d.jpg> コメ価格高騰 パン屋の倒産が急減
+      <a href=https://news.yahoo.co.jp/pickup/6538421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/bf115605141936c97e1cc18a8ec50640172f26bedbd02f6f3099fa11312583b5.jpg> 川に危険外来種ワニガメ 拡散恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e6e9743bbc58ab68d8e896afb1fb2136e1f8974f683df78fb4bf735f0958fbe7.jpg> やせ形妊婦 低出生体重児のリスク
+      <a href=https://news.yahoo.co.jp/pickup/6538424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4655ba77a65ba1946454ad2012d3e080afff2a5a3844da97a4ac8ccbb1db7d5f.jpg> 大谷8戦連続安打 ド軍は完封負け
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/dadc14d8d67252228aeb066c12bf311506d4930b0d6cbf254820b21247e59ad8.jpg> 芳根京子「できません」は無し
+      <a href=https://news.yahoo.co.jp/pickup/6538423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7d626c1cb8bd81d2868fbfc4ec3887ba4f1eaacac22a0c5cc35030aefb5841b5.jpg> 嵐コンサート ホテル争奪戦の予想
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 12:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 12:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
