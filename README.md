@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9b21c74b02ec9e6aa82919ee77317bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7453a9050f1d8d2b3ef93990c182ce2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f4371ffb67cb8fa48b4198449981c4a51a82b4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領 ロシアとの直接交渉に「すぐ臨め」　ゼレンスキー大統領も応じる
+      <a href=https://news.yahoo.co.jp/articles/a1943f68215748502c169f8b8b11f2d09352f55c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000084-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 井岡一翔　再戦でまさかの黒星も引退は否定「限界は感じていない」バンタム級で日本男子初の5階級制覇か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55d21aec98f9e89948404089d02600812059c6dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121001-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平、パパになって初の「母の日」　ダイヤモンドバックス戦「１番・ＤＨ」で先発　真美子夫人に贈る１３号なるか
+      <a href=https://news.yahoo.co.jp/articles/95361a15b337d77036a1ddb6d8b5f6aaafe460fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏、「トルコでプーチン大統領を待つ」とＳＮＳ投稿…ロシアの交渉開始提案に「逆提案」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83f2a5ec50422f4691752681f140089dc9072ef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1040&ch=1040&exp=10800&fmt=webp> 序盤から押された井岡一翔、ダウン奪うも王座返り咲きならず　ボクシング世界戦
+      <a href=https://news.yahoo.co.jp/articles/ed12687e6715b9a277d940ef2f004d429e69d76c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 大谷翔平「1番DH」で出場　直近8戦5発＆打率・406　3年連続2桁勝利ギャレンと対決　対戦打率・143苦戦
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 04:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 04:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
