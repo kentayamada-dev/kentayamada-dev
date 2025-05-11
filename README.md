@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0931fc9ed3f44d82e6e62bfbf6f77c2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8813f079b9c23dbe9b8a4ab10a0646a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e583019fff5d5c72ae011d494b81cffc4ee8b8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000129-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=862&ch=862&exp=10800&fmt=webp> マルティネス、井岡のファイト称え「私に大変プレッシャーを与えました」今後は3団体統一戦を希望
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17b5a34cf852ee93a900edba8ad32dbc530ebc7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-09741585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=395&ch=395&exp=10800&fmt=webp> プーチン大統領が約3年ぶりの「直接交渉」ウクライナに提案「30日間停戦」は事実上拒否か…その狙いは
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/61f27540723ba09c080b787b8a7757316dc20ae8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096348-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> とどまることを知らない“スーパースターぶり”に大谷翔平マニア感嘆「なんて素晴らしい時代に生きているんだろう」劇的決勝３ランの熱狂、一夜明けても冷めず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb7704fede43c35a13a9bf3035ce2b0ebf077d5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111939-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 救急車で搬送の藤田さいき「治りかけていたんですけど…無理してこじらせてしまった」／一問一答
       </a>
     </td>
   </tr>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/28ff929f5177f4a339d46a5e3114c660cc8ba35ba9515c76594643c6b96c958e.jpg> 赤沢氏「トランプ氏と相性良い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d40d1fdc684cfdd13e93cfbd768593329e545289645846e307c28920170fcb5d.jpg> ZOZOマリン 建て替え方針固まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/70729567cfc8c5850f40c1730d6c5f52372c3bb5a590f28302ed72d26f1a5ffb.jpg> 袋に放置の赤ちゃん 温めた発見者
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/fa56bfbbe54e52d3870669ea2f3f585b9f1f2c9a69463595102a55f338647645.jpg> 6700万円の贋作公開 思わぬ人気
+      <a href=https://news.yahoo.co.jp/pickup/6538498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/fa56bfbbe54e52d3870669ea2f3f585b9f1f2c9a69463595102a55f338647645.jpg> 買ってしまった「偽物」展示人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6fad09852bdc2ddfe237b205d838a515a931e8703c3d9d416b531b0ac713faaa.jpg> 他人の赤ちゃんに 母乳寄付の思い
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/abe8a87ea1b8f805a7fb372ca66a080ccee19484c1c8370d35a4cd15a399b092.jpg> べらぼう 性表現で異例の注意喚起
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 22:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 22:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
