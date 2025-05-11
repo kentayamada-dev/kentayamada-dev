@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dad34773c1580a1cf5d2d65ca2fb0de4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72df4f902adeb6f20cad43bcc23bce37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42038da48c3609eb236a2ff2fff9ec4650879e4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000028-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平、3試合連続HRはならず　3打数1安打でチームも敗れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26335dd2bc7ec745a3ebaa51dd3648c295b10076>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「最大のマーチングバンド」ギネス記録達成　万博・リングで1万2269人が演奏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbd651f7df9349571debf86640f9f92fd111ca19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36aa893ca8575b045d112fe2c7bc9deaf265fa14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000186-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 首位陥落のド軍指揮官「我々はもっと良いプレーをしなければ」フリーマンはサイ・ヤング賞右腕に脱帽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79776f2f5054aa0339f88acdf1eb7d959e5f2e30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050036-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大屋根リングで１万２２６９人が「星条旗よ永遠なれ」…「最大のマーチングバンド」のギネス記録認定
+      <a href=https://news.yahoo.co.jp/articles/11cd1fe9756d0a5997d11d5001a0e03041e0d452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-04959727-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 「家にあった包丁で刺した」　祖父への殺人容疑で孫(16)送検　高齢夫婦死亡、祖母の殺害もほのめかす　愛知・田原市
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f28793bf606d7a7b58f163d1e62aa7bea0033af6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、ウクライナと直接交渉を提案　15日、イスタンブールで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538414>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/352f43888879e6328f97c0e966adf7f2abd02561c9bea1bacf3d23de18b5c112.jpg> 13日頃から夏日続出 熱中症に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9705a1f951616a7d2c32ca6553b4f9323c5ad2f4162fafbfb052a2a2778ad768.jpg> 給食費無償化は可能か 学校の実態
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4655ba77a65ba1946454ad2012d3e080afff2a5a3844da97a4ac8ccbb1db7d5f.jpg> 大谷8戦連続安打 ド軍は完封負け
+      <a href=https://news.yahoo.co.jp/pickup/6538430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/f5e04f85eb5f25fd636497fedc25ccef913f78dde5ee76cf0abb20306f213e37.jpg> 万博会場でマーチング ギネス認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/55bc51cc48058ad192f0235556d9606c0ba7d91b14a7f3292666f3a89e93de87.jpg> 王座奪取へ井岡 36歳の壁破れるか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 13:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 14:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
