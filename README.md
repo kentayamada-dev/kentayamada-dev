@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/094f8c81e512bd81c5011d187f47389e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2598914773847f778cab23da11b6112b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11eec20129bfc13ae0f211c3d643b067fe5f5ae9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07152467-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=369&ch=369&exp=10800&fmt=webp> “打撃三冠”ひた走るジャッジ　2打席連発で14本塁打はMLB単独トップ　大谷翔平とは2本差
+      <a href=https://news.yahoo.co.jp/articles/3b5f57841ead841bcd2c40dc07ef18751e095f60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111147-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季最長の８試合連続安打も黒星　第２打席で相手ボーク→申告敬遠で流れ変わった？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71877f2646d0d63675ded90bf87e065eaea0506b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00794895-encount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 『進撃の巨人』ミカサ役の声優・石川由依、第1子出産　直筆文書で発表「我が子に負けぬ成長を」
+      <a href=https://news.yahoo.co.jp/articles/c3cbb1e1d3ee8df2cfadeb525c22572840b5786d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00970132-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=793&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インドとパキスタン、停戦合意後も戦闘継続か　双方が非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96772690ec0335d86e44ccb7a5a775832c8c03f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235833-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド・パキスタン 停戦合意も“交戦”続く…双方が「停戦違反」主張で非難の応酬　実効支配線挟んで銃撃・砲撃など散発的に発生
+      <a href=https://news.yahoo.co.jp/articles/67fb6015c7521b537e6e80eb1fc69839b384a4dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000082-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1583&ch=1583&exp=10800&fmt=webp> 赤沢氏、米英合意「一つの参考」　車関税引き下げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dfd078e91add0092d8d4dded464b9eb0717d9be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領「ウクライナ側に対し直接交渉再開を」　一方的な提案にゼレンスキー大統領は「前向きな兆候」SNSに投稿
+      <a href=https://news.yahoo.co.jp/articles/23e5224023cb2da2643591b407ff67fc99b525f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01751497-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「怪物と呼ぶには恥ずかしい」　韓国メディアは“打ちごろの球”と指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
+      <a href=https://news.yahoo.co.jp/articles/28a7c45d4f7cf4670f3d85389360113ef3be39a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000034-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=537&ch=537&exp=10800&fmt=webp> ゼレンスキー氏、ロシア提案の直接交渉を支持　30日間の停戦条件
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538476>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 4歳が貯水池におぼれ死亡 北海道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538465>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0bae3db8e8a4ec73cf104338ce774e054d1d452d8e4847a4af946626bca1d5a6.jpg> chocoZAP窃盗相次ぐ 利便性悪用
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/97b4d3b9b550ed2dbf088b27c3ff10c553337c2c9c224d652e3e2789730f95a6.jpg> 「浴槽レス」物件 なぜ若者に人気
+      <a href=https://news.yahoo.co.jp/pickup/6538475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/1f8b012f41757af4d22df996eca593dc14eb083a53b9a275f0d89545121c7aa4.jpg> 騒然 佐藤輝が片手でフェンス直撃
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/36478050292813467cdf9cd202223c7924faee0f601f50b241185ea588878452.jpg> 「ヤバT」ありぼぼ 妊娠を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 18:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 19:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
