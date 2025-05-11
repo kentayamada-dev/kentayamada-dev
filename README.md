@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c634510826be52fbf4368fe9d14944d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52027fe20bb4a3926eb5adc664bff79e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dd2c8491f791557d0c5f162706faa623d57c191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トルコ大統領、直接交渉の場を「提供」　プーチン氏と電話協議
+      <a href=https://news.yahoo.co.jp/articles/9ba4a67b46e8e71e0d0a02ac4a4cf33fb4645b5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000446-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　停戦交渉で暗躍のトランプ大統領に期待　問題指摘も「ああいう動きがあって政治が動く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55d7678d01da8287d1dbfd218c96cdd45b0bb869>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000408-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 浜田＆ハマの親子共演で感動的なラスト！『ごぶごぶフェス』初日【セットリストあり】
+      <a href=https://news.yahoo.co.jp/articles/98627faa063f2b66ed64997b862aad1774d63780>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000409-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=639&ch=639&exp=10800&fmt=webp> JO1の躍動、西川貴教とのキス芸、テーマソング「人生爆笑」熱唱…『ごぶごぶフェス』2日目【セットリストあり】
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/1435ef845e63d3aebf5ec499ae316ed2b619169f16f90ecec3a43b6d7ab29273.jpg> 「景気に人生を左右」氷河期世代
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538504>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ed4246f3458bc12c4ae10af3db322e851ec9903789ed5563de49559a9edcdb48.jpg> 路上に背中に刺し傷ある女性 死亡
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6fad09852bdc2ddfe237b205d838a515a931e8703c3d9d416b531b0ac713faaa.jpg> 他人の赤ちゃんに 母乳寄付の思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4b808c6384ee5d98b19b423ccc144ce0769ddc58895f6c32e442487e19722609.jpg> もう動けない 藤田さいき救急搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/976019f368ff1abe406580c3f56114b174ec85b13c54bc4808a7674846b953b2.jpg> 搬送の藤田 コースに戻り涙で謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 23:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 23:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
