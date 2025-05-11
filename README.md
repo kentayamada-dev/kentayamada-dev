@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d72b48151bcb24c873fbe862da17868.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3effdea6df935d58a8433039b3a1814f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427813bfcbf57b7d5d65f555b1b5a4ec14acbfc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 大谷翔平、ピンクバットで初回は一ゴロ　真美子夫人に贈る「母の日」初アーチなるか　スパイクなども特別仕様
+      <a href=https://news.yahoo.co.jp/articles/14f7813b5900be0daaf3cfed1538994aca9ff2f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-04783345-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> プレーオフ後に緊急搬送の藤田さいき「ジエちゃんを称えたいな」勝者をたたえる　2日目には『39度』の高熱も4日間戦い抜く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32a0d24a7568c6f3d6fdedff2c0123b888d30815>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00344218-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 36歳・井岡一翔に寺地拳四朗とのビッグマッチ提案 〝論客〟の元日本王者「カネもうけに走ってもいい」
+      <a href=https://news.yahoo.co.jp/articles/f053cd4b4efb851e1d2997859e3c22dec6eed644>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177686-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=723&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> ド軍キケ、特大アーチでドリンク片手の観客が思わず“口あんぐり” 突然のHRに飲み物そっちのけ…驚きの瞬間
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 05:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 06:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
