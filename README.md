@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d784d5542eafe9f7e388eaa7a91160f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d5182b57f797b17e9522aebb28ff75f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32b0642c9aade57c3aab694d193903a055412d60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000099-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=637&ch=637&exp=10800&fmt=webp> トルコ、直接交渉再開を「歓迎」　プーチン氏と電話
+      <a href=https://news.yahoo.co.jp/articles/d293a80c44e25a3174173445c03c0f2cc238e8fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000417-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1119&ch=1119&exp=10800&fmt=webp> 井岡に判定勝利のマルティネス「本当に強い2人がこのリング上で全て出し切った」井岡から「重圧」称える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bcd05fc08a30ddcfeefa32a18504364ac5596c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-02949381-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ヤクルト】吉村貢司郎が8回10奪三振1失点の好投　 ”救世主”茂木栄五郎が4号2ラン　巨人にカード勝ち越し
+      <a href=https://news.yahoo.co.jp/articles/17b5a34cf852ee93a900edba8ad32dbc530ebc7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-09741585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=395&ch=395&exp=10800&fmt=webp> プーチン大統領が約3年ぶりの「直接交渉」ウクライナに提案「30日間停戦」は事実上拒否か…その狙いは
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/61f27540723ba09c080b787b8a7757316dc20ae8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096348-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> とどまることを知らない“スーパースターぶり”に大谷翔平マニア感嘆「なんて素晴らしい時代に生きているんだろう」劇的決勝３ランの熱狂、一夜明けても冷めず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d1913697ccb7be3ed7b0d330ddfee59058e973e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90007113-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 田原・高齢夫婦死亡　首の切り傷などが致命傷　就寝中に執拗に襲ったか
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/bf8b5e994b964a00b559c1453def3d8ff7a6cd95cf50a88453accc06df69b4d1.jpg> ゼレンスキー氏 露の交渉提案支持
+      <a href=https://news.yahoo.co.jp/pickup/6538473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/669ec0f270ad5d6d9cbffdce44994aef34b9d856833c2e6b2e77a56de907cefa.jpg> 米国が停戦功績主張 印パの平和は
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d9d2ce74244959f9083eedde9e25dce27f1a4ef7c31a99d4cd98d1fc40863e32.jpg> 脱線事故で生き残り 罪悪感で自死
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538486>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d40d1fdc684cfdd13e93cfbd768593329e545289645846e307c28920170fcb5d.jpg> ZOZOマリン 建て替え方針固まる
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 夫亡き後おひとりさま期間 備えは
+      <a href=https://news.yahoo.co.jp/pickup/6538492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ffc084dfecba7541b44f079ae81142c5e0adddbfff37984e0cc182c9620e7369.jpg> 観光バスにはねられ 92歳が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/70729567cfc8c5850f40c1730d6c5f52372c3bb5a590f28302ed72d26f1a5ffb.jpg> 袋に放置の赤ちゃん 温めた発見者
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/74f1257234adf4c219bf2e31a00b7a1d759e0ad8e16afe6617097b0989a57900.jpg> 映画「鬼滅」予告流出で注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6538487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ddeca9fcbaf6aab4e5a9d916f021028201227dcf39c1deb73fd11b201099b932.jpg> 「壊し屋」騒動の≠ME 警備を3倍
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 21:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 21:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
