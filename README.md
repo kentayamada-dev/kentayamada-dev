@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fc5739fef9c9d3a4699ad532ce1af2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d72b48151bcb24c873fbe862da17868.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16893afbc70e997d682478d6b14a43feca4924fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05111377-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=819&ch=819&exp=10800&fmt=webp> 「引退はない。階級上げようとか考えきれない」３６歳井岡一翔、ダウン奪うも日本人最年長王座逃し涙
+      <a href=https://news.yahoo.co.jp/articles/427813bfcbf57b7d5d65f555b1b5a4ec14acbfc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 大谷翔平、ピンクバットで初回は一ゴロ　真美子夫人に贈る「母の日」初アーチなるか　スパイクなども特別仕様
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a26c68576e82067759a4cab369b4208bb46fadf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000015-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=667&ch=667&exp=10800&fmt=webp> トランプ氏「今すぐ会合持て！」　ウクライナに交渉入り要求
+      <a href=https://news.yahoo.co.jp/articles/32a0d24a7568c6f3d6fdedff2c0123b888d30815>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00344218-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 36歳・井岡一翔に寺地拳四朗とのビッグマッチ提案 〝論客〟の元日本王者「カネもうけに走ってもいい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed12687e6715b9a277d940ef2f004d429e69d76c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 大谷翔平「1番DH」で出場　直近8戦5発＆打率・406　3年連続2桁勝利ギャレンと対決　対戦打率・143苦戦
+      <a href=https://news.yahoo.co.jp/articles/b5b51fc2dc2b8e47103ed39595775acc9f4a2a8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05742318-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領、直接交渉を提案　ゼレンスキー大統領は直接会談を呼びかけ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 05:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 05:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
