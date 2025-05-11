@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9b530c480f72f19da49386c354c828b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1e3a5e3cd3717ce3831b812952c9d12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
+      <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae34b423ee37a75c44bfdb36ff13433092d6762c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01751575-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、戻ってきたリーグ1位「1.059」　驚異の7戦5発…譲らぬ最強打者の座
+      <a href=https://news.yahoo.co.jp/articles/f770cab0ddd36ec67e0242df7238cb3a1fa27622>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177741-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ブーイングも一層！大谷翔平、キレッキレの176キロ爆速打球 8試合連続安打で“6月の大谷”から“5月の大谷”へ進化？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cbe9a61396a0dba3daf4722184f00ba4e607b98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01263965-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 浜田雅功がハマ・オカモトとフェスで親子初共演「やりにくいわ～」を連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/560d60963fb2b71957d7fed88aa4346b8842a5b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235819-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京・池袋のマンションの一室で「ポーカー」賭場運営か　去年7月からの10か月で約6000万円の利益か　客を含む中国籍の男女ら12人逮捕　警視庁
+      <a href=https://news.yahoo.co.jp/articles/4b0b59f6b59be97c533cca9600ca6464d3f51f48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000215-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=1007&ch=1007&exp=10800&fmt=webp> 浜ちゃん復帰＆誕生日祝福に水差すごぶごぶフェス偽アカ！公式Xが注意喚起「ありもしない配信に誘導」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9a6d17d838e3ee4028b7365a69caefdcf4746998d5ad87f6567e48fc7f8bb314.jpg> 東大前駅刺傷 生活立ち行かずと男
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02204508/title-1746924916628.jpeg?exp=10800> 沖縄で大雨続く 梅雨入りいつ?
+      <a href=https://news.yahoo.co.jp/pickup/6538461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9a7807c525b745ddbe9a03981e9e84666ffa21535966702508296e25d101a8a3.jpg> マンションの賭博場摘発 12人逮捕
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538444>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/97b4d3b9b550ed2dbf088b27c3ff10c553337c2c9c224d652e3e2789730f95a6.jpg> 「浴槽レス」物件 なぜ若者に人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/2fad8e8c2cb0b39c799a7aa26ebfcbff475669865641f2bdcb0e0b3d4f23fdce.jpg> ハーフマラソン誘導ミス 運営謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 17:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 17:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
