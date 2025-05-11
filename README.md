@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2598914773847f778cab23da11b6112b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7de0a5c245b6b9897aa30f1c54719697.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e24a0f8bc3ab6f11d158ddc62b649fb8966508d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10184147-egolf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大会最年長Vの申ジエと“敗者”藤田さいき　それぞれが見せた「リスペクトの精神」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bff960417ab5b190eda237e250c72416d0025a52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ大統領、停戦が先と主張　プーチン氏の「15日からトルコで停戦交渉」提案に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b5f57841ead841bcd2c40dc07ef18751e095f60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111147-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季最長の８試合連続安打も黒星　第２打席で相手ボーク→申告敬遠で流れ変わった？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111147-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季最長の８試合連続安打も黒星　第２打席で相手ボーク→申告敬遠で流れ変わった？
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67fb6015c7521b537e6e80eb1fc69839b384a4dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000082-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1583&ch=1583&exp=10800&fmt=webp> 赤沢氏、米英合意「一つの参考」　車関税引き下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23e5224023cb2da2643591b407ff67fc99b525f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01751497-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希を「怪物と呼ぶには恥ずかしい」　韓国メディアは“打ちごろの球”と指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28a7c45d4f7cf4670f3d85389360113ef3be39a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000034-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=537&ch=537&exp=10800&fmt=webp> ゼレンスキー氏、ロシア提案の直接交渉を支持　30日間の停戦条件
+      <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/bf8b5e994b964a00b559c1453def3d8ff7a6cd95cf50a88453accc06df69b4d1.jpg> ゼレンスキー氏 露の交渉提案支持
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538460>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 参院選争点は消費減税 与野党見方
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/db789b2c8972bdcc648e05db1162d0f5f932bdfef01b9fdca0683dc44bc89ee1.jpg> 韓国与党の大統領候補に金氏復活
+      <a href=https://news.yahoo.co.jp/pickup/6538479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/89aebe65df66ec1e56f578c69d3c2c1e66625b62a43962c5d94bbce223ad11b7.jpg> 川崎遺棄 父「娘を守れなかった」
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538468>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d9d2ce74244959f9083eedde9e25dce27f1a4ef7c31a99d4cd98d1fc40863e32.jpg> 脱線事故で生き残り 罪悪感で自死
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538476>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 4歳が貯水池におぼれ死亡 北海道
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cf3286616222c5b12d374e1d9520f280b8421ad733560cff90353f22a36ec253.jpg> ゴルフ藤田さいき 試合後に搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4b808c6384ee5d98b19b423ccc144ce0769ddc58895f6c32e442487e19722609.jpg> もう動けない 藤田さいき救急搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 19:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 19:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
