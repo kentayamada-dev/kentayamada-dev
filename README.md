@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d897c56881ca722d9500bca0e8799689.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e021937f74fb1fade85649614f5fde26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5482d4ed18ae6f644277c6b773aa07dd60828bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> インドとパキスタン、互いに停戦違反と非難　係争地で爆音や無人機
+      <a href=https://news.yahoo.co.jp/articles/8ca6cc922bd3c350106594df387670ef8c025afd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110102-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、第１打席で８試合連続の痛烈右前打　打球速度は176キロの高速打　３試合連発なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59f7123e6bcf2b398b9a5b238913b94dea61f725>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> インド・パキスタン、停戦合意も相互に違反非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/963fb15276e329138d874fe8d66a50b0ae6ded48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01750544-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の「マイナー降格は考えているか？」　5失点翌日…ロバーツ監督へ飛んだ質問
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b662b3892a57594bce7a51b070c788da0c8b616>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000119-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 浜田雅功「ごぶごぶフェス」完全復活＆長男のハマ・オカモトと親子共演　妻・小川菜摘「良かったね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/244bab3acabd4ff35afb8d2f5a77c4fb293a206a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177695-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、超特大二塁打で“まさかの光景”「エグすぎる」 伸び続ける174キロ“高速打球”→外野手の頭上を爆速通過
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df62e19be59bf2f59490c6be341ce5f5f982c546>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-05111021-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希は「学びながら適応する時間も必要」　ロバーツ監督が指摘　「マイナー降格は頭にもない」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/25853b48cd34233b69db5648d0608e957960de91a9c84dc52de494aea449e7a9.jpg> 電磁加速砲の発射実験へ 防衛省
+      <a href=https://news.yahoo.co.jp/pickup/6538390>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/otasaeko/02196219/title-1746590324689.jpeg?exp=10800> 高齢者のATM利用に上限検討 賛否
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/09e867281018271c55ab443471b417d4c7877fe5ae65e28e8c833c0c9cfc6d5c.jpg> 6歳女児はねられ死亡 運転手逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/abd83e9ce8c24824777e0a59494bd90bc43baf6af882a1aed1d6b7dc57ca7f1b.jpg> 群馬で17歳刺されて重傷 男ら逃走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0be3061cfb3504d6d788e1c18d368478289c6cd7624dc1378940f66032ec5408.jpg> カーネーション農家 現実は厳しい
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/12f081b8ec77e809a8480f05c594407b714f52e93d36413132ca4e8193f77497.jpg> ジャッジが13号&14号 敵地騒然
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 09:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 09:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
