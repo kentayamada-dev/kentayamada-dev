@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1e3a5e3cd3717ce3831b812952c9d12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aebdcaf67d0c7e45a653e1eddc72df14.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfb32a68e2295b43dc0edb32e994007cf89132b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00091465-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＮＨＫマイルＣ・人気薄激走の理由】ディーが日本のＧⅠ初騎乗で大仕事！超伏兵チェルビアットが３着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7dfd078e91add0092d8d4dded464b9eb0717d9be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領「ウクライナ側に対し直接交渉再開を」　一方的な提案にゼレンスキー大統領は「前向きな兆候」SNSに投稿
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35d17899c406b9463098a717d63ff6f81e6cc5e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000032-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ギネス認定！万博・大屋根リングで1万2269人マーチング同時演奏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b0b59f6b59be97c533cca9600ca6464d3f51f48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000215-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=1007&ch=1007&exp=10800&fmt=webp> 浜ちゃん復帰＆誕生日祝福に水差すごぶごぶフェス偽アカ！公式Xが注意喚起「ありもしない配信に誘導」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 参院選争点は消費減税 与野党見方
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/a4104778a57191b6283aa70be0806bd09b9928ffa21f91b3dbb39f09965fd235.jpg> 米中貿易協議「歩み寄り」が焦点
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/5787b325196cfc0c7be8ca6eae8e54495477d297560a65dd3676b27a08424940.jpg> 首相 フジ改革に向けた具体策評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9a7807c525b745ddbe9a03981e9e84666ffa21535966702508296e25d101a8a3.jpg> マンションの賭博場摘発 12人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d9d2ce74244959f9083eedde9e25dce27f1a4ef7c31a99d4cd98d1fc40863e32.jpg> 脱線事故で生き残り 罪悪感で自死
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/97b4d3b9b550ed2dbf088b27c3ff10c553337c2c9c224d652e3e2789730f95a6.jpg> 「浴槽レス」物件 なぜ若者に人気
+      <a href=https://news.yahoo.co.jp/pickup/6538465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0bae3db8e8a4ec73cf104338ce774e054d1d452d8e4847a4af946626bca1d5a6.jpg> chocoZAP窃盗相次ぐ 利便性悪用
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/2fad8e8c2cb0b39c799a7aa26ebfcbff475669865641f2bdcb0e0b3d4f23fdce.jpg> ハーフマラソン誘導ミス 運営謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6538444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/97b4d3b9b550ed2dbf088b27c3ff10c553337c2c9c224d652e3e2789730f95a6.jpg> 「浴槽レス」物件 なぜ若者に人気
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/74f1257234adf4c219bf2e31a00b7a1d759e0ad8e16afe6617097b0989a57900.jpg> 映画「鬼滅」予告流出で注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6538464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6dac99cbf9b87abe05146acff19adf0e6e52f3060cc37b78b47073e34bd10bc8.jpg> サイン看板剥がす客 フェスが警告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 17:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 18:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
