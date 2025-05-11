@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ea15d6d88cd7e68fa8ecfc1d8da8196.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d897c56881ca722d9500bca0e8799689.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3287eab69abd9e2be3acdb001a8670b1f900060c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000114-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 2人の“笑い”全て見られる!?　浜田雅功が芸能活動を再開
+      <a href=https://news.yahoo.co.jp/articles/5482d4ed18ae6f644277c6b773aa07dd60828bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> インドとパキスタン、互いに停戦違反と非難　係争地で爆音や無人機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98f45dffb8ab02ee81bc41530baa3b0e53b489a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110063-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平は「１番DH」で出場　劇的な決勝12号３ランから一夜明け、３試合連続の13号なるか
+      <a href=https://news.yahoo.co.jp/articles/7b662b3892a57594bce7a51b070c788da0c8b616>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000119-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 浜田雅功「ごぶごぶフェス」完全復活＆長男のハマ・オカモトと親子共演　妻・小川菜摘「良かったね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d47eef308bbfdf90496a6f3af177dd39b96299e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1025&ch=1025&exp=10800&fmt=webp> ロバーツ監督、佐々木朗希のマイナー調整を否定…「球速低下よりコントロール心配」、大物新人の苦しむ過程「想定内」
+      <a href=https://news.yahoo.co.jp/articles/244bab3acabd4ff35afb8d2f5a77c4fb293a206a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177695-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、超特大二塁打で“まさかの光景”「エグすぎる」 伸び続ける174キロ“高速打球”→外野手の頭上を爆速通過
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df62e19be59bf2f59490c6be341ce5f5f982c546>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-05111021-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希は「学びながら適応する時間も必要」　ロバーツ監督が指摘　「マイナー降格は頭にもない」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2690cd1fdcf2d5b54d216312c2c5b28f7468946c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07938155-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【パ・リーグ順位表】上位3チームが勝利　首位オリックスは対ソフトバンクの連敗を「12」でストップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/833778985b82d166ec04bafb5e7ef334ae16f24e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 印パ、互いに停戦違反主張　合意発表直後、履行に暗雲も
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/218cab608a91e8fb6bb3c410a2818cfba1f8c6ce282ac77f4ada607dc07542f7.jpg> 韓国与党 大統領候補の一本化失敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538383>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/25853b48cd34233b69db5648d0608e957960de91a9c84dc52de494aea449e7a9.jpg> 電磁加速砲の発射実験へ 防衛省
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/253755f37a142f4a9b6f33abe252ffedd76a461f5a2d56958ce03a6ba23d5c4f.jpg> ご当地ナンバー 導入要件を緩和へ
+      <a href=https://news.yahoo.co.jp/pickup/6538397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/eb58d58d3e7f48dcca7e2e933bf21d2115c30e0958d1ba326ccf1979a0738d97.jpg> 1972年打ち上げ ソ連探査機が落下
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 子に反抗期なく心配 医師の見解
+      <a href=https://news.yahoo.co.jp/pickup/6538400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 「友達親子」の注意点 医師が語る
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538387>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/946ace7ecbce0f45ce1450558d8bafce792831fad0257c8786cb03dc9f329028.jpg> 大沢たかお祭り 背景にSNSの変化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/8f53b94b2b2ac1b68621452c5f746b47fa59cbe3faeefd22519760a2b433ac5a.jpg> 逆転満弾 万波「絶対打ってやる」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 08:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 09:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
