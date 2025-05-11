@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7453a9050f1d8d2b3ef93990c182ce2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fc5739fef9c9d3a4699ad532ce1af2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1943f68215748502c169f8b8b11f2d09352f55c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000084-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 井岡一翔　再戦でまさかの黒星も引退は否定「限界は感じていない」バンタム級で日本男子初の5階級制覇か
+      <a href=https://news.yahoo.co.jp/articles/16893afbc70e997d682478d6b14a43feca4924fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05111377-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=819&ch=819&exp=10800&fmt=webp> 「引退はない。階級上げようとか考えきれない」３６歳井岡一翔、ダウン奪うも日本人最年長王座逃し涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95361a15b337d77036a1ddb6d8b5f6aaafe460fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏、「トルコでプーチン大統領を待つ」とＳＮＳ投稿…ロシアの交渉開始提案に「逆提案」
+      <a href=https://news.yahoo.co.jp/articles/a26c68576e82067759a4cab369b4208bb46fadf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000015-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=667&ch=667&exp=10800&fmt=webp> トランプ氏「今すぐ会合持て！」　ウクライナに交渉入り要求
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 04:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 05:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
