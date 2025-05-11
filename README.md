@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afd923f83d3aff1fc2c851dfe404fbdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b759d5097f8b24a2e8ac455f437000b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b20a5ea9551ed6716ff758165dab1b34e6740754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970176-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 和平交渉めぐりプーチン大統領が15日トルコ・イスタンブールで直接交渉再開を一方的に提案　ゼレンスキー氏「トルコで待つ」応じる準備
+      <a href=https://news.yahoo.co.jp/articles/a9a9f34676eac680f1a8f73b26fde35207e173d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000110-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=989&ch=989&exp=10800&fmt=webp> 大谷翔平　ピンクバットで母の日に感謝のマルチ安打　試合前に真美子夫人に感謝の投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30cbf3d69e3e28c4296ba834da657ed68547e2b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ドジャース・大谷翔平 8試合連続安打！今季最長を更新するもチームは今季3度目の零封負け
+      <a href=https://news.yahoo.co.jp/articles/aa9679c0ab8f289a3714dd7c84551d161c7bd52e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米国・欧州からの圧力が通じたのか…プーチン大統領、ウクライナに「１５日に停戦交渉を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed99885e18deb10a20fde120820c9d31dfc2d216>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 本人が現役続行明言も「井岡一翔は引退を考えるべき」と一部米メディアが厳しい指摘…一方で「年間最優秀試合候補」の評価と“疑惑採点”へのSNS批判も紹介
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e89b089f115b86204735a9142a71d6c085ebd18e815692bd3734a0d503e99195.jpg> ウクライナに直接交渉提案 露狙い
+      <a href=https://news.yahoo.co.jp/pickup/6538508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6415c7ab9c883bcdc193831a4c27fa2806e32d52310d3500e9b07dd9ee8c02d1.jpg> 13日から夏日予想 暑熱順化に注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6415c7ab9c883bcdc193831a4c27fa2806e32d52310d3500e9b07dd9ee8c02d1.jpg> 13日から夏日予想 暑熱順化に注目
+      <a href=https://news.yahoo.co.jp/pickup/6538513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f4165a0ac44ff071ab838e45b3ff590628d7a42a9dcf0b076920ac2547e73e3b.jpg> 盗難仏像 12年半ぶり対馬に到着
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/02d5189df935b691fceff8e007416276f58c1297ca299104fb300ad11221ba91.jpg> 久保凜 レース後に座り込み悔し涙
+      <a href=https://news.yahoo.co.jp/pickup/6538512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/92aad2d2345fcd11e3bb1d2bad5c0e47a1f4955ec89644d08a76b4552585066b.jpg> 井岡が引退否定 限界感じていない
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 07:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
