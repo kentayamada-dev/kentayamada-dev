@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1009bc8438f229f9c30a9b7a7301cb6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/997254b4a9111f6cc8c9f559598c68f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d581c0366f927dabf500c76c0b7882663b8a5cb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16753497-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=450&ch=450&exp=10800&fmt=webp> プーチン氏、ウクライナとの「直接交渉」求める
+      <a href=https://news.yahoo.co.jp/articles/d30baea4645a1751021074fd2794a72cd3e82a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000160-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　歴史的シーソーゲームから一転今季3度目零敗　初回に右前打も最長タイ3戦連発ならず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2baa0c39bf345b3720ac226ec46bcebbd37026e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90024561-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 活動再開の浜田雅功、フェスに登場！ハマ・オカモトと史上初のフェス親子共演も！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae334b254bba7095614e1ee41350cd1056286e48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ロシアは前提条件なし」プーチン氏、15日のトルコでの停戦交渉をウクライナに提案
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1c0b42a193fc5a0745bf4b6c5d4bcc939cc2a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35110136-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=1362&ch=1362&exp=10800&fmt=webp> ハマ・オカモト、ごぶごぶフェスで共演した父・浜田雅功に「お父さん復帰おめでとう！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/963fb15276e329138d874fe8d66a50b0ae6ded48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01750544-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の「マイナー降格は考えているか？」　5失点翌日…ロバーツ監督へ飛んだ質問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7faa821b70daa0a34b096b5b0f6ddd32e2d7a1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00029744-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日11日　雨雲が次第に広がる　沖縄は滝のような雨も　北陸中心に前日との気温差大
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/a34f2837c92cb24aefaf9c7bd4ca3ef3a7752a866dd8d18ee24558e4686583e3.jpg> 取り調べ拒んで「物扱い」提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6538415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 夫婦別姓 今国会で不成立の公算大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/abd83e9ce8c24824777e0a59494bd90bc43baf6af882a1aed1d6b7dc57ca7f1b.jpg> 群馬で17歳刺されて重傷 男ら逃走
+      <a href=https://news.yahoo.co.jp/pickup/6538420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b28731b9b176d8b5c58b6b125ea1de12eeb11d3bc57bf636a1332c47f60205eb.jpg> 逮捕から326日後保釈 冤罪の男性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/90b58a4f1d8d60767ab9838caec82f38e85a9aa21615b715fd15136be1c63f88.jpg> 5歳死亡 1人で駐車場歩いていたか
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/2e0d81326fab5bb59ea3792bee7090e2f2b95417039c070b46721abeb8ddcee7.jpg> ド軍監督 朗希のマイナー行き否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538402>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/dadc14d8d67252228aeb066c12bf311506d4930b0d6cbf254820b21247e59ad8.jpg> 芳根京子「できません」は無し
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 11:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 11:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
