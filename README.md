@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/997254b4a9111f6cc8c9f559598c68f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cabff23f9e300ac2114c3062a6542e2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d30baea4645a1751021074fd2794a72cd3e82a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000160-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　歴史的シーソーゲームから一転今季3度目零敗　初回に右前打も最長タイ3戦連発ならず
+      <a href=https://news.yahoo.co.jp/articles/f04d302365d22a9bbafad0a3b148da73bc3ec7ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000017-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=464&ch=464&exp=10800&fmt=webp> 5.11登場「連続初回KO」「わずか２戦でWBA世界６位」”21歳の新星”吉良大弥が”えぐい腹筋”計量パスで３戦目へ＝ボクシング
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/502fb3e2aa5827eab2ad389728d899f5d55fba85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-09728413-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領、ウクライナ側に直接交渉を提案　「前提条件なしで」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2baa0c39bf345b3720ac226ec46bcebbd37026e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90024561-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 活動再開の浜田雅功、フェスに登場！ハマ・オカモトと史上初のフェス親子共演も！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae334b254bba7095614e1ee41350cd1056286e48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ロシアは前提条件なし」プーチン氏、15日のトルコでの停戦交渉をウクライナに提案
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90024561-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 活動再開の浜田雅功、フェスに登場！ハマ・オカモトと史上初のフェス親子共演も！
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e73350e50f15aa92ccc211a2d56e9ee0046ce6a604827e32fe55302c97dabde7.jpg> デリバリー全盛期 宅配ピザの今後
+      <a href=https://news.yahoo.co.jp/pickup/6538410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e6e9743bbc58ab68d8e896afb1fb2136e1f8974f683df78fb4bf735f0958fbe7.jpg> やせ形妊婦 低出生体重児のリスク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ccba2940f667872d268d982778e48964e5d825dffcb50de3b67248a1d1e5477d.jpg> 「友達親子」の注意点 医師が語る
+      <a href=https://news.yahoo.co.jp/pickup/6538419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/8d04d31a06c26ba59ec1bb2c6b89c6c95f550b1393a9795392c79ddc2592efc0.jpg> ラ・リーガで最速ハットトリック
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 11:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 12:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
