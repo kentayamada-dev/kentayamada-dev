@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/340a0e8582b88b6f0ddcc66b47fec49e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dad34773c1580a1cf5d2d65ca2fb0de4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbd651f7df9349571debf86640f9f92fd111ca19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36aa893ca8575b045d112fe2c7bc9deaf265fa14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000186-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 首位陥落のド軍指揮官「我々はもっと良いプレーをしなければ」フリーマンはサイ・ヤング賞右腕に脱帽
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79776f2f5054aa0339f88acdf1eb7d959e5f2e30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050036-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大屋根リングで１万２２６９人が「星条旗よ永遠なれ」…「最大のマーチングバンド」のギネス記録認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f28793bf606d7a7b58f163d1e62aa7bea0033af6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、ウクライナと直接交渉を提案　15日、イスタンブールで
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed938d1b14a9a3c4622e3168ac5a0dd258640ae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000040-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース、気になる「3勝9敗」の数字、勝率5割超えチームに苦戦…サイ・ヤング賞右腕に脱帽、フリーマン「球界最高の投手の一人」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/835f4a23e5733271a8e477f46ef39ecd52cfb6ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「驚くべき奇跡」韓国与党公認復活の金文洙候補が届け出　韓前首相と抱き合い和解演出も　韓国大統領選2025
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/393f490bf24c152bd8184864e1d4cba2bcc880ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-16012002-bbc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=575&ch=575&exp=10800&fmt=webp> インドとパキスタン、停戦合意後に互いが「違反」と非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/963fb15276e329138d874fe8d66a50b0ae6ded48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01750544-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の「マイナー降格は考えているか？」　5失点翌日…ロバーツ監督へ飛んだ質問
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 夫婦別姓 今国会で不成立の公算大
+      <a href=https://news.yahoo.co.jp/pickup/6538398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9705a1f951616a7d2c32ca6553b4f9323c5ad2f4162fafbfb052a2a2778ad768.jpg> 給食費無償化は可能か 学校の実態
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ec5c7dfe91d84935804fceac1be39320c32df83779ee5c235e887b8067fc17ea.jpg> 群馬で少年刺される 17歳を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538425>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b28731b9b176d8b5c58b6b125ea1de12eeb11d3bc57bf636a1332c47f60205eb.jpg> 逮捕から326日後保釈 無罪の男性
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/90b58a4f1d8d60767ab9838caec82f38e85a9aa21615b715fd15136be1c63f88.jpg> 5歳死亡 1人で駐車場歩いていたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/bf115605141936c97e1cc18a8ec50640172f26bedbd02f6f3099fa11312583b5.jpg> 川に危険外来種ワニガメ 拡散恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538424>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4655ba77a65ba1946454ad2012d3e080afff2a5a3844da97a4ac8ccbb1db7d5f.jpg> 大谷8戦連続安打 ド軍は完封負け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0ffd6a5a6a39210e9f72f33d9c1ed9679e68795d3ae2cf31b992d43efd90a959.jpg> あいのり でっぱりんが第2子出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 13:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 13:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
