@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8813f079b9c23dbe9b8a4ab10a0646a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c634510826be52fbf4368fe9d14944d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17b5a34cf852ee93a900edba8ad32dbc530ebc7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-09741585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=395&ch=395&exp=10800&fmt=webp> プーチン大統領が約3年ぶりの「直接交渉」ウクライナに提案「30日間停戦」は事実上拒否か…その狙いは
+      <a href=https://news.yahoo.co.jp/articles/9dd2c8491f791557d0c5f162706faa623d57c191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トルコ大統領、直接交渉の場を「提供」　プーチン氏と電話協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61f27540723ba09c080b787b8a7757316dc20ae8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096348-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> とどまることを知らない“スーパースターぶり”に大谷翔平マニア感嘆「なんて素晴らしい時代に生きているんだろう」劇的決勝３ランの熱狂、一夜明けても冷めず
+      <a href=https://news.yahoo.co.jp/articles/55d7678d01da8287d1dbfd218c96cdd45b0bb869>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000408-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 浜田＆ハマの親子共演で感動的なラスト！『ごぶごぶフェス』初日【セットリストあり】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb7704fede43c35a13a9bf3035ce2b0ebf077d5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111939-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 救急車で搬送の藤田さいき「治りかけていたんですけど…無理してこじらせてしまった」／一問一答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3198a0871e7e5d71cc78172d5971bc3dc5e8510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、印パ貿易拡大に意欲－カシミール問題解決にも協力の意向
+      <a href=https://news.yahoo.co.jp/articles/28baa41c97a0264985490b6be1a1f29e76c89cbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177803-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…？ 絶好調・大谷翔平、爆速弾丸ヒットに“野手ショック”「エグすぎる」 176キロ“火の玉打球”→飛んでも追いつけない
       </a>
     </td>
   </tr>
@@ -394,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/669ec0f270ad5d6d9cbffdce44994aef34b9d856833c2e6b2e77a56de907cefa.jpg> 米国が停戦功績主張 印パの平和は
+      <a href=https://news.yahoo.co.jp/pickup/6538506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e89b089f115b86204735a9142a71d6c085ebd18e815692bd3734a0d503e99195.jpg> ウクライナに直接交渉提案 露狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ca4f8ec045a752550024b720130785b47dc7ff3202a6f8c5ecc18a6a529cc003.jpg> 日チリ 自由貿易の重要性で一致
+      <a href=https://news.yahoo.co.jp/pickup/6538483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ffc2e5c588d237ada7e194aeba061312e6f6b34bd73798deaebed55d28d9ce2e.jpg> 尖閣沖のEEZ内 中国が海洋調査か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ed4246f3458bc12c4ae10af3db322e851ec9903789ed5563de49559a9edcdb48.jpg> 路上に背中に刺し傷ある女性 死亡
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/fa56bfbbe54e52d3870669ea2f3f585b9f1f2c9a69463595102a55f338647645.jpg> 買ってしまった「偽物」展示人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538501>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6fad09852bdc2ddfe237b205d838a515a931e8703c3d9d416b531b0ac713faaa.jpg> 他人の赤ちゃんに 母乳寄付の思い
       </a>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/95ca0eb615681d39e09c409dfceea5a21a3a1a65a1b030bc09a2b5de90ea6378.jpg> 井岡判定負け 王座返り咲きならず
+      <a href=https://news.yahoo.co.jp/pickup/6538478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4b808c6384ee5d98b19b423ccc144ce0769ddc58895f6c32e442487e19722609.jpg> もう動けない 藤田さいき救急搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4b808c6384ee5d98b19b423ccc144ce0769ddc58895f6c32e442487e19722609.jpg> もう動けない 藤田さいき救急搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/27b2cbeb33a572bd26a7ebc5dd8a10450a0ddf2455c2ce752a19cd85a05fa335.jpg> 「完全復活」浜田雅功フェス完走
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 22:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
