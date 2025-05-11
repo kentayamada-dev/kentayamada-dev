@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20674b12fd078f53a3ec31446dd6a6d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6c58fb8d45da94451f462cdf3cc4d9e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88761ac28d50b55d82b69f9af334f560ba5c4c34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000039-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏「ロシアとウクライナにとって最良の日になる！」　プーチン氏提案に反応か
+      <a href=https://news.yahoo.co.jp/articles/4aecfd6840a28d6111562fe8a9ca0fa4a00ea732>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=338&ch=338&exp=10800&fmt=webp> プーチン大統領、停戦に向けた直接協議を「一方的に」提案…「１５日にイスタンブールで」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ff16cb1d4d4e404d0a81e927dc5d30818b9caf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00344128-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=852&ch=852&exp=10800&fmt=webp> パドレスが記録づくしの大勝利　ロッキーズは借金２７で「昨年のＷソックスより史上最悪だ」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26335dd2bc7ec745a3ebaa51dd3648c295b10076>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「最大のマーチングバンド」ギネス記録達成　万博・リングで1万2269人が演奏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd651f7df9349571debf86640f9f92fd111ca19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050038-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ブラジル国籍の少年を刺して殺そうとした疑い、群馬県太田市の１７歳高校生を殺人未遂容疑で逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00010001-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「最大のマーチングバンド」ギネス世界記録達成　万博・リングで1万2269人が演奏
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538414>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/352f43888879e6328f97c0e966adf7f2abd02561c9bea1bacf3d23de18b5c112.jpg> 13日頃から夏日続出 熱中症に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538413>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02204376/title-1746913251453.jpeg?exp=10800> 海で遭難続く 注意報甘く見ないで
       </a>
     </td>
   </tr>
@@ -434,32 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/f5e04f85eb5f25fd636497fedc25ccef913f78dde5ee76cf0abb20306f213e37.jpg> 万博会場でマーチング ギネス認定
+      <a href=https://news.yahoo.co.jp/pickup/6538442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d26854f58cdb7456f242c8074e1312ebca2d881aed66ded880e2d1d733a9f6eb.jpg> 「嫌われる勇気」海外で人気 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e3722ef81f0e85138afe7d37ab7bdfd7ddbad6cd2104d960e504bf68cb13e8f7.jpg> 母の日 珍名馬ママアリガトー疾走
+      <a href=https://news.yahoo.co.jp/pickup/6538437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/f035561435309f1794a0ec2cbe1d20c23f513f0eda901a965b67c7a8335cafd4.jpg> 新幹線のPシート 15日から値上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/e97f39357a074c1892c7263e4ccefd54f21db4848c3e4d08995283cb0fc79d4e.jpg> peco いま6歳の息子に教えた生理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7d626c1cb8bd81d2868fbfc4ec3887ba4f1eaacac22a0c5cc35030aefb5841b5.jpg> 嵐コンサート ホテル争奪戦の予想
+      <a href=https://news.yahoo.co.jp/pickup/6538440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d5863c33567088b36ead2ae8e66617163c427c785f8d50c0f4d7d6d391f50729.jpg> ケイン・コスギ弟監督映画 快進撃
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 14:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 15:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
