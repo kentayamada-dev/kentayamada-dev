@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eed40ec311eeaac91056d8a5841ba381.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9b530c480f72f19da49386c354c828b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2df1267793bc8df4901c04bf56dbf14334b9ee14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050049-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=250&ch=250&exp=10800&fmt=webp> ＮＨＫマイルカップ、３連単１５０万５９５０円の波乱…９番人気パンジャタワーＶ
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11cd1fe9756d0a5997d11d5001a0e03041e0d452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-04959727-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 「家にあった包丁で刺した」　祖父への殺人容疑で孫(16)送検　高齢夫婦死亡、祖母の殺害もほのめかす　愛知・田原市
+      <a href=https://news.yahoo.co.jp/articles/9cbe9a61396a0dba3daf4722184f00ba4e607b98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-01263965-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 浜田雅功がハマ・オカモトとフェスで親子初共演「やりにくいわ～」を連発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/560d60963fb2b71957d7fed88aa4346b8842a5b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235819-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京・池袋のマンションの一室で「ポーカー」賭場運営か　去年7月からの10か月で約6000万円の利益か　客を含む中国籍の男女ら12人逮捕　警視庁
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d2bb8ab0f8beff0421468dbfef919772573042dbe47a977efd6693f4e03cc4ec.jpg> 国会終盤 年金法案の提出大詰め
+      <a href=https://news.yahoo.co.jp/pickup/6538457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/a4104778a57191b6283aa70be0806bd09b9928ffa21f91b3dbb39f09965fd235.jpg> 米中貿易協議「歩み寄り」が焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02204508/title-1746924916628.jpeg?exp=10800> 沖縄で大雨続く 梅雨入りいつ?
+      <a href=https://news.yahoo.co.jp/pickup/6538450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/5787b325196cfc0c7be8ca6eae8e54495477d297560a65dd3676b27a08424940.jpg> 首相 フジ改革に向けた具体策評価
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d26854f58cdb7456f242c8074e1312ebca2d881aed66ded880e2d1d733a9f6eb.jpg> 「嫌われる勇気」海外で人気 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/f035561435309f1794a0ec2cbe1d20c23f513f0eda901a965b67c7a8335cafd4.jpg> 新幹線のPシート 15日から値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6538452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02204508/title-1746924916628.jpeg?exp=10800> 沖縄で大雨続く 梅雨入りいつ?
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7a9e815f636724b9ebb3ab65996bc665b658ab75ebef87b2d31b4b005bb58e37.jpg> NHKマイルC大波乱 3連単150万円
+      <a href=https://news.yahoo.co.jp/pickup/6538444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/97b4d3b9b550ed2dbf088b27c3ff10c553337c2c9c224d652e3e2789730f95a6.jpg> 「浴槽レス」物件 なぜ若者に人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cf3286616222c5b12d374e1d9520f280b8421ad733560cff90353f22a36ec253.jpg> ゴルフ藤田さいき 試合後に搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 16:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 17:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
