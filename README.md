@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18335b73e7f12fbdb94a7efae9ef4ec7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86e6ab2bb7776ea691d1c1510e47955b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b77ed6be8d0be05b0f51c5b90b19db8dc2c72202>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国調査船、EEZ内で活動か　沖縄・尖閣沖
+      <a href=https://news.yahoo.co.jp/articles/a4707b83923d8a01cb873efe3e3db8333c18a379>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=537&ch=537&exp=10800&fmt=webp> トランプ氏「素晴らしい日に」　ロシアとウクライナの直接交渉に期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3f9984914ac623bda4ded67ca0e8107630c0c23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000106-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=712&ch=712&exp=10800&fmt=webp> 浜田雅功、ごぶごぶフェス最終日に「チキンライス」熱唱　大型ビジョンには松本人志…
+      <a href=https://news.yahoo.co.jp/articles/937dbb1b97ee256e1e9bd19f66f735b2ffc71f8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050070-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 中国海洋調査船、尖閣諸島のＥＥＺ内で海中にパイプのようなもの延ばす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bff960417ab5b190eda237e250c72416d0025a52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ大統領、停戦が先と主張　プーチン氏の「15日からトルコで停戦交渉」提案に
+      <a href=https://news.yahoo.co.jp/articles/61f27540723ba09c080b787b8a7757316dc20ae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00096348-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> とどまることを知らない“スーパースターぶり”に大谷翔平マニア感嘆「なんて素晴らしい時代に生きているんだろう」劇的決勝３ランの熱狂、一夜明けても冷めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b5f57841ead841bcd2c40dc07ef18751e095f60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35111147-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季最長の８試合連続安打も黒星　第２打席で相手ボーク→申告敬遠で流れ変わった？
+      <a href=https://news.yahoo.co.jp/articles/8d1913697ccb7be3ed7b0d330ddfee59058e973e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-90007113-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 田原・高齢夫婦死亡　首の切り傷などが致命傷　就寝中に執拗に襲ったか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3cbb1e1d3ee8df2cfadeb525c22572840b5786d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00970132-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=793&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インドとパキスタン、停戦合意後も戦闘継続か　双方が非難
+      <a href=https://news.yahoo.co.jp/articles/a3198a0871e7e5d71cc78172d5971bc3dc5e8510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、印パ貿易拡大に意欲－カシミール問題解決にも協力の意向
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/0bae3db8e8a4ec73cf104338ce774e054d1d452d8e4847a4af946626bca1d5a6.jpg> chocoZAP窃盗相次ぐ 利便性悪用
+      <a href=https://news.yahoo.co.jp/pickup/6538486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d40d1fdc684cfdd13e93cfbd768593329e545289645846e307c28920170fcb5d.jpg> ZOZOマリン 建て替え方針固まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/757e4bc883da3342493844f1b0412cb6b0d33ec1081afb88bc0e7cbe4663a5ac.jpg> パンダいなくなる白浜 不安の声も
+      <a href=https://news.yahoo.co.jp/pickup/6538484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ca67816acb4072640fa5243eab601038d07eecd18fc539d6f6d7c3f009172a77.jpg> 固定電話じまい シニア世代で加速
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b6f79ac1604b8dec8462e59f53ed1d966c2af730914ae2016a961b5d9a983f7c.jpg> 近藤千尋 産後の夫の一言に怒り
+      <a href=https://news.yahoo.co.jp/pickup/6538451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/74f1257234adf4c219bf2e31a00b7a1d759e0ad8e16afe6617097b0989a57900.jpg> 映画「鬼滅」予告流出で注意喚起
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 20:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 20:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
