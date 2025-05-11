@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b759d5097f8b24a2e8ac455f437000b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0376989fdf40910642f2924ad135208.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a9f34676eac680f1a8f73b26fde35207e173d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000110-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=989&ch=989&exp=10800&fmt=webp> 大谷翔平　ピンクバットで母の日に感謝のマルチ安打　試合前に真美子夫人に感謝の投稿
+      <a href=https://news.yahoo.co.jp/articles/87c5cc6a5cd68d224c48c57a8bd5e8ae80abb6e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、15日の直接協議提案　ウクライナ大統領「トルコで待つ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa9679c0ab8f289a3714dd7c84551d161c7bd52e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米国・欧州からの圧力が通じたのか…プーチン大統領、ウクライナに「１５日に停戦交渉を」
+      <a href=https://news.yahoo.co.jp/articles/764d39a85c803787fef9ed644c38349df9c10f5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「母の日」２年ぶり打点　６回にリード広げる右前適時打で２戦ぶりマルチ　真美子夫人に贈る１３号なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed99885e18deb10a20fde120820c9d31dfc2d216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 本人が現役続行明言も「井岡一翔は引退を考えるべき」と一部米メディアが厳しい指摘…一方で「年間最優秀試合候補」の評価と“疑惑採点”へのSNS批判も紹介
+      <a href=https://news.yahoo.co.jp/articles/f429307236ba083ce8e1012deba735d79ddeb13b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00915607-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大阪・万博公園『ごぶごぶフェス』にＪＯ１や西川貴教ら、復活の浜田雅功もステージ走り回る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14f7813b5900be0daaf3cfed1538994aca9ff2f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-04783345-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> プレーオフ後に緊急搬送の藤田さいき「ジエちゃんを称えたいな」勝者をたたえる　2日目には『39度』の高熱も4日間戦い抜く
+      <a href=https://news.yahoo.co.jp/articles/647282f02d8c07a34caf5a34420cd5448c4ec70e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000002-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=1181&ch=1181&exp=10800&fmt=webp> ＜吉沢亮＞「なつぞら」以来の朝ドラ出演　次期「ばけばけ」でヒロイン＆夫に大きな影響を与える存在
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/92aad2d2345fcd11e3bb1d2bad5c0e47a1f4955ec89644d08a76b4552585066b.jpg> 井岡が引退否定 限界感じていない
+      <a href=https://news.yahoo.co.jp/pickup/6538514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b1c83cffb6ca274c25c80a87066b35910860a303fe574c331bb9bb2e611e2adf.jpg> 吉沢亮 朝ドラ「ばけばけ」出演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 07:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 07:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
