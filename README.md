@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86e6ab2bb7776ea691d1c1510e47955b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d784d5542eafe9f7e388eaa7a91160f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4707b83923d8a01cb873efe3e3db8333c18a379>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=537&ch=537&exp=10800&fmt=webp> トランプ氏「素晴らしい日に」　ロシアとウクライナの直接交渉に期待
+      <a href=https://news.yahoo.co.jp/articles/32b0642c9aade57c3aab694d193903a055412d60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000099-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=637&ch=637&exp=10800&fmt=webp> トルコ、直接交渉再開を「歓迎」　プーチン氏と電話
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/937dbb1b97ee256e1e9bd19f66f735b2ffc71f8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050070-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 中国海洋調査船、尖閣諸島のＥＥＺ内で海中にパイプのようなもの延ばす
+      <a href=https://news.yahoo.co.jp/articles/6bcd05fc08a30ddcfeefa32a18504364ac5596c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-02949381-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ヤクルト】吉村貢司郎が8回10奪三振1失点の好投　 ”救世主”茂木栄五郎が4号2ラン　巨人にカード勝ち越し
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ce3f95be42823215da63f1217df551c59c5434fdea4221cdc1a7f75e57538b9a.jpg> 米関税巡り英初合意 日本との差は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/89aebe65df66ec1e56f578c69d3c2c1e66625b62a43962c5d94bbce223ad11b7.jpg> 川崎遺棄 父「娘を守れなかった」
+      <a href=https://news.yahoo.co.jp/pickup/6538477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/28ff929f5177f4a339d46a5e3114c660cc8ba35ba9515c76594643c6b96c958e.jpg> 赤沢氏「トランプ氏と相性良い」
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/ca67816acb4072640fa5243eab601038d07eecd18fc539d6f6d7c3f009172a77.jpg> 固定電話じまい シニア世代で加速
+      <a href=https://news.yahoo.co.jp/pickup/6538485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 夫亡き後おひとりさま期間 備えは
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538478>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/4b808c6384ee5d98b19b423ccc144ce0769ddc58895f6c32e442487e19722609.jpg> もう動けない 藤田さいき救急搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cd88de9edc904c8ae48262353f1faa01c36a6b6d67ed33f312214acca05859a2.jpg> G浅野 衝撃の2夜連続ホームラン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 20:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 21:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
