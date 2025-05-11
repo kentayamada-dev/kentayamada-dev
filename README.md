@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e23e71f5bbbf5b080e6e60d10c77150.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9b21c74b02ec9e6aa82919ee77317bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98627faa063f2b66ed64997b862aad1774d63780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000409-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=639&ch=639&exp=10800&fmt=webp> JO1の躍動、西川貴教とのキス芸、テーマソング「人生爆笑」熱唱…『ごぶごぶフェス』2日目【セットリストあり】
+      <a href=https://news.yahoo.co.jp/articles/83f2a5ec50422f4691752681f140089dc9072ef4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=1040&ch=1040&exp=10800&fmt=webp> 序盤から押された井岡一翔、ダウン奪うも王座返り咲きならず　ボクシング世界戦
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 03:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 04:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
