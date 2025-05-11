@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fbcc877e39b5d01fc308ab97ff44987.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50bf1bd20860eaa12edcc6d619a5b631.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747462fb5ad41c7a96125bdec5a9bc7d40ccf470>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、９回の第５打席は一ゴロ　父親になって初の「母の日」　ピンクバットで真美子夫人に贈る１３号はお預け
+      <a href=https://news.yahoo.co.jp/articles/40079ba5a4e431efbdf6e28108b46a2424c03efd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000000-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏との直接会談を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87c5cc6a5cd68d224c48c57a8bd5e8ae80abb6e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、15日の直接協議提案　ウクライナ大統領「トルコで待つ」
+      <a href=https://news.yahoo.co.jp/articles/b28374c0e91f3adb3f9a57b34b14cbbfd9c06bd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10522828-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャースが地区首位に再浮上　同地区4連戦の負け越しを回避　MVPトリオが9安打6得点で快勝導く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f429307236ba083ce8e1012deba735d79ddeb13b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00915607-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大阪・万博公園『ごぶごぶフェス』にＪＯ１や西川貴教ら、復活の浜田雅功もステージ走り回る
+      <a href=https://news.yahoo.co.jp/articles/78063d9e440331a67f0b46753adb91f185a2abee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000014-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【ライブレポート】「ごぶごぶフェス」2日間で3万5000人が熱狂、西川貴教に巨大扇風機→キスで仲直り
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538511>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米中 貿易協議の枠組み設置で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6415c7ab9c883bcdc193831a4c27fa2806e32d52310d3500e9b07dd9ee8c02d1.jpg> 13日から夏日予想 暑熱順化に注目
+      <a href=https://news.yahoo.co.jp/pickup/6538518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b675a2b0bf5ba0d3d5929bc7b0b25eb398170ceee78cd3e1faed15d4414098f0.jpg> 韓国大統領選始まる 野党候補先行
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538513>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f4165a0ac44ff071ab838e45b3ff590628d7a42a9dcf0b076920ac2547e73e3b.jpg> 盗難仏像 12年半ぶり対馬に到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1438cd01b2151e4e69bebfd4975150b1c7a464e099881b140fb11dd0fd095a4d.jpg> 新ローマ教皇 初の日曜恒例の祈り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 08:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 08:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
