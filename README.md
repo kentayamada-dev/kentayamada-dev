@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aebdcaf67d0c7e45a653e1eddc72df14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/094f8c81e512bd81c5011d187f47389e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfb32a68e2295b43dc0edb32e994007cf89132b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00091465-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＮＨＫマイルＣ・人気薄激走の理由】ディーが日本のＧⅠ初騎乗で大仕事！超伏兵チェルビアットが３着
+      <a href=https://news.yahoo.co.jp/articles/11eec20129bfc13ae0f211c3d643b067fe5f5ae9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07152467-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=369&ch=369&exp=10800&fmt=webp> “打撃三冠”ひた走るジャッジ　2打席連発で14本塁打はMLB単独トップ　大谷翔平とは2本差
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71877f2646d0d63675ded90bf87e065eaea0506b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00794895-encount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 『進撃の巨人』ミカサ役の声優・石川由依、第1子出産　直筆文書で発表「我が子に負けぬ成長を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96772690ec0335d86e44ccb7a5a775832c8c03f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-07235833-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド・パキスタン 停戦合意も“交戦”続く…双方が「停戦違反」主張で非難の応酬　実効支配線挟んで銃撃・砲撃など散発的に発生
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a6643e0b7531c8a408518e844d8f2cab060d87b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f770cab0ddd36ec67e0242df7238cb3a1fa27622>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177741-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ブーイングも一層！大谷翔平、キレッキレの176キロ爆速打球 8試合連続安打で“6月の大谷”から“5月の大谷”へ進化？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35d17899c406b9463098a717d63ff6f81e6cc5e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000032-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ギネス認定！万博・大屋根リングで1万2269人マーチング同時演奏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000307-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 完全復活！浜田雅功「たかのり、甘かったよ」ごぶごぶフェスで西川貴教とダチョウの“キス芸”披露
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/a4104778a57191b6283aa70be0806bd09b9928ffa21f91b3dbb39f09965fd235.jpg> 米中貿易協議「歩み寄り」が焦点
+      <a href=https://news.yahoo.co.jp/pickup/6538426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/db789b2c8972bdcc648e05db1162d0f5f932bdfef01b9fdca0683dc44bc89ee1.jpg> 韓国与党の大統領候補に金氏復活
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538468>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/d9d2ce74244959f9083eedde9e25dce27f1a4ef7c31a99d4cd98d1fc40863e32.jpg> 脱線事故で生き残り 罪悪感で自死
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/cb2700a27a102240832a0263d345480d198e6c25d4fdc5ba162d3fdd7e2fa434.jpg> バク宙失敗し車椅子生活 日常一変
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6dac99cbf9b87abe05146acff19adf0e6e52f3060cc37b78b47073e34bd10bc8.jpg> サイン看板剥がす客 フェスが警告
+      <a href=https://news.yahoo.co.jp/pickup/6538471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b6f79ac1604b8dec8462e59f53ed1d966c2af730914ae2016a961b5d9a983f7c.jpg> 近藤千尋 産後の夫の一言に怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/36478050292813467cdf9cd202223c7924faee0f601f50b241185ea588878452.jpg> 「ヤバT」ありぼぼ 妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 18:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 18:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
