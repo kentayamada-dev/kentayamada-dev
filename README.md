@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ebb219fc851f8db687ad1b1cbe2dab8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa8c6dc76ceac2be2f77ae27542f6926.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/135f2a739ab7ec158aa2f92e3f71d052d0320a1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05111333-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平、５分間のインターバル挟みブルペンで計３５球…イニング間想定、順調なら近日中に実戦形式登板も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ba4a67b46e8e71e0d0a02ac4a4cf33fb4645b5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000446-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　停戦交渉で暗躍のトランプ大統領に期待　問題指摘も「ああいう動きがあって政治が動く」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98627faa063f2b66ed64997b862aad1774d63780>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000409-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=639&ch=639&exp=10800&fmt=webp> JO1の躍動、西川貴教とのキス芸、テーマソング「人生爆笑」熱唱…『ごぶごぶフェス』2日目【セットリストあり】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28baa41c97a0264985490b6be1a1f29e76c89cbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-10177803-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…？ 絶好調・大谷翔平、爆速弾丸ヒットに“野手ショック”「エグすぎる」 176キロ“火の玉打球”→飛んでも追いつけない
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/955816b10df5b61905facf29c61adf1711c7a388062ffa8f01ae01ce2109b492.jpg> 韓国大統領選挙 構図固まる
+      <a href=https://news.yahoo.co.jp/pickup/6538508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/6415c7ab9c883bcdc193831a4c27fa2806e32d52310d3500e9b07dd9ee8c02d1.jpg> 13日から夏日予想 暑熱順化に注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/1435ef845e63d3aebf5ec499ae316ed2b619169f16f90ecec3a43b6d7ab29273.jpg> 「景気に人生を左右」氷河期世代
+      <a href=https://news.yahoo.co.jp/pickup/6538488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/955816b10df5b61905facf29c61adf1711c7a388062ffa8f01ae01ce2109b492.jpg> 韓国大統領選挙 構図固まる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 23:51:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 00:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
