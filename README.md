@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5089f8a2e7a6c2e292e4f5ba5490093.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eed40ec311eeaac91056d8a5841ba381.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2df1267793bc8df4901c04bf56dbf14334b9ee14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00050049-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=250&ch=250&exp=10800&fmt=webp> ＮＨＫマイルカップ、３連単１５０万５９５０円の波乱…９番人気パンジャタワーＶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edd55350598d441db310fa7dc4abe6d48174d68f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-35232831-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】印パ停戦の功績主張する米国、「トランプ停戦」は長期平和につながらない可能性も
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35d17899c406b9463098a717d63ff6f81e6cc5e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250511-00000032-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ギネス認定！万博・大屋根リングで1万2269人マーチング同時演奏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30f2bfdfea9795b5c1c73bf9d139aa07ca692924>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男子2部ハーフマラソン、トラック1周分足りず参考記録に　日隈専務理事「どこかのタイミングで3周の資料を見てやってしまったのか」　優勝の帰山侑大「短いなと思った」　関東インカレ／陸上
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7b7dee3737e84d180b8a9dc42bd971d79988803e8c132ffd5c09359cca55c165.jpg> 日本から参加 枢機卿語る選挙内情
+      <a href=https://news.yahoo.co.jp/pickup/6538452>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02204508/title-1746924916628.jpeg?exp=10800> 沖縄で大雨続く 梅雨入りいつ?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538413>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02204376/title-1746913251453.jpeg?exp=10800> 海で遭難続く 注意報甘く見ないで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/b28731b9b176d8b5c58b6b125ea1de12eeb11d3bc57bf636a1332c47f60205eb.jpg> 逮捕から326日後保釈 無罪の男性
+      <a href=https://news.yahoo.co.jp/pickup/6538453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/9a6d17d838e3ee4028b7365a69caefdcf4746998d5ad87f6567e48fc7f8bb314.jpg> 東大前駅刺傷 生活立ち行かずと男
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/7a9e815f636724b9ebb3ab65996bc665b658ab75ebef87b2d31b4b005bb58e37.jpg> NHKマイルC大波乱 3連単150万円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/11/74f1257234adf4c219bf2e31a00b7a1d759e0ad8e16afe6617097b0989a57900.jpg> 映画「鬼滅」予告流出で注意喚起
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/11 16:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/11 16:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
