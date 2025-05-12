@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f25b70fccc28d731d2a88e0a897ec72c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0aba5f43bc47a59dec57fa1e5a2d46fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a627fd886e934f49acf7b34109076530a6f1ed5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010002-bezzy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1759&ch=1759&exp=10800&fmt=webp> 元櫻坂46小林由依のソロデビューが決定、“yousti”として1stミニアルバムを8月27日リリース
+      <a href=https://news.yahoo.co.jp/articles/5d471f4a4e897d4d463ba7bf918879241557e6a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050183-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 兵庫・斎藤元彦知事、パワハラ研修を受講…「内部通報しやすい環境づくりが大事と教示いただいた」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/cee787b2ce41f32d81b954c552f789ff1d50f20c945e52afe17e46f354be41bc.jpg> 西田氏とひめゆり認識異なる 首相
+      <a href=https://news.yahoo.co.jp/pickup/6538598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/fc5a69284cf27c2eccdac5db414e037b0e990704f8a7134013d96f7a6ba5270f.jpg> 首相はなぜ消費減税に慎重 解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/4f88a92ca271de91b96d7a24225bc6b5239d8a424d5d32ab6a294f5d1b7dfbe9.jpg> 千葉殺害 誰でもよかったと供述
+      <a href=https://news.yahoo.co.jp/pickup/6538593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/cee787b2ce41f32d81b954c552f789ff1d50f20c945e52afe17e46f354be41bc.jpg> 西田氏とひめゆり認識異なる 首相
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/43ded552f6404eef03da2e1506d9dd0eb2a4bc0928a6ecbdc2ec4e23952daed6.jpg> 将棋 プロ入り前の16歳が快挙
+      <a href=https://news.yahoo.co.jp/pickup/6538601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/a6d4f3348d746ae01e95c90d6827d8ca62ef089fe75bdc2b96b6ea17c0e7edd6.jpg> 巨人・秋広 電撃トレードに心境
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/36a56e6456b8f16625e022db867e792ed50ec6f660900d9fe5df3a2a2fab46c4.jpg> ZOZOマリン移転へ 賛否の声
+      <a href=https://news.yahoo.co.jp/pickup/6538602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/37f5d07a645c9c2433352f952b034292117035a174cf7e1135d3fc8119289e44.jpg> 元櫻坂46・小林由依 ソロデビュー
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 22:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 23:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
