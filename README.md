@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d100c407b591340807a3e17bfea048f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e930ddb03961c2d7403c52692f62b2f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fddbb2d9da82c02b8aed6aa18d6da8355cec4a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010004-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「実質、4ショットだよね」大谷翔平インスタ投稿　母の日に真美子夫人、ベビーとのショットにファン発見「デコちゃん、こんなとこに」
+      <a href=https://news.yahoo.co.jp/articles/955876c61b1b5690923d0d20aa341869ddf63476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970245-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=530&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 切りつけ男「小学生の時にテストの点が悪くて親から叱られた。教育熱心な親のせいで苦労した」長野の戸田佳孝容疑者宅を家宅捜索　東大前駅で学生切りつけた凶器は「数年前に購入」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd4b4f95d35c273463acc106d2e4af46f30d87ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235924-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラム組織ハマスがパレスチナ自治区ガザで拘束している米国籍の男性を解放　停戦実現や人道支援物資の搬入再開に向けた措置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c348152f63280afc53d28c81a0f8ca886add59e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970247-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 大谷翔平が今シーズン最長9試合連続安打＆13度目マルチヒット「母の日」ピンクのバット＆ベルトで2安打1打点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/952cbd90e751a10a2370ed4711e4e6b42e6177ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970233-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「トルコで待っている」ゼレンスキー大統領が“首脳会談”呼びかけ　プーチン大統領からの“直接交渉”提案受け
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7ce1c1d9a2688b5b0f9d2c212101d4b955cdedd1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00016819-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【ライブレポート】浜田雅功＆ハマ・オカモト『ごぶごぶフェス2025』で初の親子フェス共演！「やりにくいわ～」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b358edeb5d1914060dfa2a084a454081ff7fbc21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000008-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ハマス、人質1人解放へ 米との直接交渉の一環
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0a70e54c7dcf5bc8ec61adce53f33a4049d72b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 年金改革法案、近く国会提出　石破首相が方針　与党内で最終審議へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be0b3426d92de56e6b6426c571b822a125ea0bcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-16096967-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=562&ch=562&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏と会談する意向表明　直前にトランプ氏が要求
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538531>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02205420/title-1746984691636.jpeg?exp=10800> 適応障害とうつ病の違い 対応は
+      <a href=https://news.yahoo.co.jp/pickup/6538515>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 豪山火事でコアラ1100匹射殺 批判
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538532>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/7a6614439e1ea8e11cd6f54fc07056cf9ca502323dcc59ebe805149c981037d3.jpg> 「ドラゴンアイ」人気 渋滞に懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e4137dd67d05d0041a9aade630d7561f646ca8ac914d02ec6763de70cbd07aed.jpg> 元プロレスラーのサブゥー氏死去
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/41edbdb7c918a4639ffbff348ef78f24723105b4f512160af36a184b74d02550.jpg> アンバー・ハード 双子の母親に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 11:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 12:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
