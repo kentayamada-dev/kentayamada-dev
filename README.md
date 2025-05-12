@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/140b49a9ec0d00ae1aaad0ed260de45c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44887f77e3850350943aeb92fd483006.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0914df196384bd01fb724ec9b1d6ec8a8b4d0f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121212-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=1014&ch=1014&exp=10800&fmt=webp> 藤田さいき、次戦欠場へ「深く反省しております」　１１日は体調不良で緊急搬送…女子ゴルフ
+      <a href=https://news.yahoo.co.jp/articles/c7d520f083a037540e6bf79ce0870431c16cdff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 84歳殺害容疑で逮捕の中3　事件前に保護者から相談、継続補導中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22e4b70e2b3e4313132aa4745335ceecfcea8839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01594392-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 路上で背中刺され女性死亡　中3少年を逮捕「間違いない」2人に“面識なし”　千葉市
+      <a href=https://news.yahoo.co.jp/articles/c0914df196384bd01fb724ec9b1d6ec8a8b4d0f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121212-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=1014&ch=1014&exp=10800&fmt=webp> 藤田さいき、次戦欠場へ「深く反省しております」　１１日は体調不良で緊急搬送…女子ゴルフ
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66f0a568827338f5cc109490fe0e3676dd828d1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが米国人1人解放へ　停戦協議再開期待、米国も交渉関与か　イスラエル否定的
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecf1ed8c1c6c3d2cfc3393b28b5045e0d910289bbbcaeb2d5f549c5ec7f1f7fe.jpg> 日産 国内外1万人を追加削減方針
+      <a href=https://news.yahoo.co.jp/pickup/6538591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/91dca601a6e2bf6da0b3c963897018d6b831383a5419477ad6952d84fb36dff3.jpg> 首相 共産を「立派」と異例の評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ac53626701c9c9989822e6846e037171f6af05fc287750cc93c77bf8c2e614c.jpg> 露がドローン108機発射 ウが発表
+      <a href=https://news.yahoo.co.jp/pickup/6538578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecf1ed8c1c6c3d2cfc3393b28b5045e0d910289bbbcaeb2d5f549c5ec7f1f7fe.jpg> 日産 国内外1万人を追加削減方針
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
+      <a href=https://news.yahoo.co.jp/pickup/6538555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bbc3e79d093c35869f6aedeea0a2797848fb3dddf7bd3651073b7094f9c30f1a.jpg> 薬物所持疑い レーサム元会長逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/4a2bdf06daa0b4af3b87c1d3e66ffa6ae4836e89f963791f76e4bce370e336b2.jpg> 4億円当せん 広島市で3週連続1等
+      <a href=https://news.yahoo.co.jp/pickup/6538566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 4月の企業倒産 11年ぶり800件超
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 20:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 21:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
