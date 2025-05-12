@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/623e285b9a15ec596510c174f6cc9bff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acf16d50fa1ac029c78270040efd14ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f67b2b6bf3fdc87230d4694efc8bcc866c693c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177845-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> マジかよ…大谷翔平の痛烈タイムリーに“大谷キラー”も「この表情です！」実況が言及 目を見開きベンチ裏へ「ギャレン激おこ」
+      <a href=https://news.yahoo.co.jp/articles/6c8498a02affd68de099442258d0494632e4f5f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177892-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 84歳女性刺殺、15歳中学生を逮捕 背中に刺し傷 千葉・若葉区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a1f44783d0ea39db8b572d57c39e2e72af38eac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、米と直接協議　ガザ停戦へ人質兵士解放の意向
+      <a href=https://news.yahoo.co.jp/articles/15df22823ee9c87dd4d283864b1cdcb8a7bd96f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-21907952-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手「母の日」に合わせたピンクのバットで2安打1打点の活躍　チームも快勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3347c8c71351d286a40b44f16e9f8ed6be6acdbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000041-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 自民党元幹事長の長男の会社に利益供与　日本空港ビルデングに厳重注意　国交省
+      <a href=https://news.yahoo.co.jp/articles/42544bd1f97035f229c51399477862780deaee5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 人質1人解放も停戦進まず ネタニヤフ氏「戦闘継続」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/184e45e383a718c8de86cf559761e48cac45d6e7d2853095f986da27a2d5f915.jpg> 千葉女性殺害 少年に逮捕状請求
+      <a href=https://news.yahoo.co.jp/pickup/6538553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/184e45e383a718c8de86cf559761e48cac45d6e7d2853095f986da27a2d5f915.jpg> 千葉女性殺害 殺人容疑で15歳逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/28b6e12f8bec3f5d5dda86d9e6e838bf98889d02f8d7698587a6d5054dede713.jpg> 中3自殺 第三者委がいじめ認定
+      <a href=https://news.yahoo.co.jp/pickup/6538545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ecc23e5c9bd9f45f56700ea9a84beba01682b04cfd40c0d29d6e6432d62ac6f.jpg> 塾侵入前に覚醒剤使用疑い再逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 15:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 15:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
