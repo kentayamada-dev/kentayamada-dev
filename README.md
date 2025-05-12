@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d69a7b83b1e17c3e2352730f384853c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef1c859729ad20fa20c938d682dba16d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/204dfed594ff672ac806f45f753acd939e99a7ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120881-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> MLB「母の日」に大谷翔平、ヌートバーら、ドジャース名物リポーターも各SNSで感謝つづる
+      <a href=https://news.yahoo.co.jp/articles/66f0a568827338f5cc109490fe0e3676dd828d1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが米国人1人解放へ　停戦協議再開期待、米国も交渉関与か　イスラエル否定的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1294ac398eb5884b2c53b1ba99f872995b2805c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120904-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=749&ch=749&exp=10800&fmt=webp> ハイヒール・リンゴ　５カ月遅れの斎藤元彦知事「パワハラ研修」に「受け流しているような」　
+      <a href=https://news.yahoo.co.jp/articles/477b4771d671e05dc8ab895f8757c889e037869c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000078-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 「首長ハラスメントの防止体制が必要」と専門家、パワハラ認定も処分なしの斎藤知事に苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/204dfed594ff672ac806f45f753acd939e99a7ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120881-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> MLB「母の日」に大谷翔平、ヌートバーら、ドジャース名物リポーターも各SNSで感謝つづる
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5fb1e85bcfa8bb5e87b35d8650a118ee72988d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1429&ch=1429&exp=10800&fmt=webp> イスラエル、米国人人質解放に伴う停戦・囚人交換ない＝首相
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5eb05edf68b49dae27204c3580fc34ad0c2fc9ce6a1f068168a57ee283b7ce0a.jpg> 米大統領 薬価大幅引き下げ指示へ
+      <a href=https://news.yahoo.co.jp/pickup/6538571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/dc41a80335bdaf07b4c254662ce2848535f29074be517de1f467749be614e9ea.jpg> 脱線事故で娘死亡 組織罰求める父
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bbc3e79d093c35869f6aedeea0a2797848fb3dddf7bd3651073b7094f9c30f1a.jpg> 薬物所持疑い レーサム元会長逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
+      <a href=https://news.yahoo.co.jp/pickup/6538573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/40b44d08e4adf01c0afcb7dc7791b7c6869dea2b0439fbaaf37d4d44655ee8af.jpg> G坂本を抹消 緊急昇格から5日後
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 18:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 18:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
