@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b1ce96aed0dfb47ee10d007e71c069a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9addfe8c23fe906b25ec1e7159c2b7e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b3933e750f47b968ef6205ef24a065e3e3e8515>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535543-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 週末女子ゴルフで見られた“プロの振る舞い”　緊急搬送直前も…真っ先に勝者称えたスポーツマンシップ
+      <a href=https://news.yahoo.co.jp/articles/1bd1c6fe1294ba32595e4f3ee7dd2f026fdf66b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏が停戦提案、ゼレンスキー氏は自らトルコ入り表明…実現なら２２年３月以来
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/388cdb3c420ebc4eb014c12780635b5ad8bfd6ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000099-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 協議と停戦どちらが先か　ロ・ウクライナの主張対立
+      <a href=https://news.yahoo.co.jp/articles/5ee809222de1182f12b3e946f22404d35ada2ca0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121391-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 救急搬送された藤田さいき「今週は欠場」と明かす「無理をしてしまった」切実な理由もつづる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c36551c8af0b8d610664fbaa9dad945965fc4b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=858&ch=858&exp=10800&fmt=webp> 消費減税、各党要求に石破首相「無責任な議論」反論も「検討していないことはない」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51a2ba4968ef40a99f8ee5dfa2fa2020699b6798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010007-chibatopi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ZOZOマリン移転、アクセスは？特徴どうなる？　「本音を言えば全天候型に」「駅が近くありがたい」　幕張メッセ駐車場に移転・建て替え　ネット上でさまざまな声　【急上昇ニュースのウラ】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/91dca601a6e2bf6da0b3c963897018d6b831383a5419477ad6952d84fb36dff3.jpg> 首相 共産を「立派」と異例の評価
+      <a href=https://news.yahoo.co.jp/pickup/6538593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/cee787b2ce41f32d81b954c552f789ff1d50f20c945e52afe17e46f354be41bc.jpg> 西田氏とひめゆり認識異なる 首相
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/4f88a92ca271de91b96d7a24225bc6b5239d8a424d5d32ab6a294f5d1b7dfbe9.jpg> 千葉殺害 誰でもよかったと供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/d69ddae6e3e79917baf1e2ebe653f29127b3585e1e475df6685c439bb9e79400.jpg> 停車中トラックに車衝突 1人死亡
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/489efb40a64b9b0b8735d186588e73e99c1a54ad66cb7c951a8d039d44404ada.jpg> プロ野球SNSルール 見直し検討へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538587>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/786f5e5c4548b04583ea134f77de7a4660bd754964316e4e64e0cdd1fcbfec3d.jpg> 電撃トレード秋広 前日は1軍在籍
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 21:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 22:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
