@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acf16d50fa1ac029c78270040efd14ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4046e4d39a4b5bdffc4e3106bbe58517.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c8498a02affd68de099442258d0494632e4f5f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177892-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 84歳女性刺殺、15歳中学生を逮捕 背中に刺し傷 千葉・若葉区
+      <a href=https://news.yahoo.co.jp/articles/0ddca49d7959b07c44450543b1d104ffee672858>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000253-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 電撃トレードの巨人・秋広　巨人での一番の思い出　「もう一度あの景色を見られるように頑張りたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15df22823ee9c87dd4d283864b1cdcb8a7bd96f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-21907952-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手「母の日」に合わせたピンクのバットで2安打1打点の活躍　チームも快勝
+      <a href=https://news.yahoo.co.jp/articles/4c1da715f00550517ce7ee5184557243b2d894f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00096367-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「パパさんの手のマメが…」大谷翔平が公開した「母の日」カットが話題沸騰。真美子さん、長女との“手つなぎ”にもん絶の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42544bd1f97035f229c51399477862780deaee5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=683&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 人質1人解放も停戦進まず ネタニヤフ氏「戦闘継続」
+      <a href=https://news.yahoo.co.jp/articles/f5fb1e85bcfa8bb5e87b35d8650a118ee72988d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1429&ch=1429&exp=10800&fmt=webp> イスラエル、米国人人質解放に伴う停戦・囚人交換ない＝首相
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/a8e5f2b0623f5655950af5e6df0cd7daf219d2cd7e300f25526b943fd5f7b407.jpg> JR北 コナン効果で新幹線利用増
+      <a href=https://news.yahoo.co.jp/pickup/6538555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bbc3e79d093c35869f6aedeea0a2797848fb3dddf7bd3651073b7094f9c30f1a.jpg> 薬物所持疑い レーサム元会長逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ffb52885c2c1c9d568c995e9feb2f09122b8109ace8ab1e270a1d14bb2e47f0.jpg> G秋広らとSBリチャード トレード
+      <a href=https://news.yahoo.co.jp/pickup/6538556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ed96395e12b98a3f9145d60ebc747eada8fb8823ea1a28385a1eb1e6f6b8652.jpg> G秋広らがSBへ電撃トレード 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 15:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 16:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
