@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4046e4d39a4b5bdffc4e3106bbe58517.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edb681875b3aa89651a7eb497d96568f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ddca49d7959b07c44450543b1d104ffee672858>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000253-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 電撃トレードの巨人・秋広　巨人での一番の思い出　「もう一度あの景色を見られるように頑張りたい」
+      <a href=https://news.yahoo.co.jp/articles/68e77b9f5070bff5f389ab3f130603394f1a9be6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000031-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「酷い…」「壮絶」と視聴者戦慄…『べらぼう』異例の“注意喚起”回で描かれた「2つの衝撃シーン」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8a36f0c22b75a2bffe4a3220522e176a926d8e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121153-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=10&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 【巨人】電撃トレードの秋広優人が心境明かす「ジャイアンツの５５番を背負えたのは誇り」「活躍することが恩返し」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f5fb1e85bcfa8bb5e87b35d8650a118ee72988d7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1429&ch=1429&exp=10800&fmt=webp> イスラエル、米国人人質解放に伴う停戦・囚人交換ない＝首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edc76a483726f53b23de4efd9404e9ceceee3b32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538559>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> シャープ亀山第2工場を鴻海売却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538545>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ecc23e5c9bd9f45f56700ea9a84beba01682b04cfd40c0d29d6e6432d62ac6f.jpg> 塾侵入前に覚醒剤使用疑い再逮捕
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e5e2c5a1ddae102f96c602e40cdccdc81b47ea76c8c38f1bdee3c9cd7b63242a.jpg> 子が性被害 服役後の性加害者追う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ed96395e12b98a3f9145d60ebc747eada8fb8823ea1a28385a1eb1e6f6b8652.jpg> G秋広らがSBへ電撃トレード 背景
+      <a href=https://news.yahoo.co.jp/pickup/6538560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ed96395e12b98a3f9145d60ebc747eada8fb8823ea1a28385a1eb1e6f6b8652.jpg> 巨人とSBが電撃トレード 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 16:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 16:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
