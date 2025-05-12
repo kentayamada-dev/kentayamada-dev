@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44887f77e3850350943aeb92fd483006.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b1ce96aed0dfb47ee10d007e71c069a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7d520f083a037540e6bf79ce0870431c16cdff6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 84歳殺害容疑で逮捕の中3　事件前に保護者から相談、継続補導中
+      <a href=https://news.yahoo.co.jp/articles/0b3933e750f47b968ef6205ef24a065e3e3e8515>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535543-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 週末女子ゴルフで見られた“プロの振る舞い”　緊急搬送直前も…真っ先に勝者称えたスポーツマンシップ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0914df196384bd01fb724ec9b1d6ec8a8b4d0f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121212-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=1014&ch=1014&exp=10800&fmt=webp> 藤田さいき、次戦欠場へ「深く反省しております」　１１日は体調不良で緊急搬送…女子ゴルフ
+      <a href=https://news.yahoo.co.jp/articles/388cdb3c420ebc4eb014c12780635b5ad8bfd6ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000099-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 協議と停戦どちらが先か　ロ・ウクライナの主張対立
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21c782d21d67f6a8a6df0e4f6368bf31bc83cb35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアは欧州の停戦案に応じず、12日も攻撃継続＝ウクライナ当局
+      <a href=https://news.yahoo.co.jp/articles/51a2ba4968ef40a99f8ee5dfa2fa2020699b6798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010007-chibatopi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ZOZOマリン移転、アクセスは？特徴どうなる？　「本音を言えば全天候型に」「駅が近くありがたい」　幕張メッセ駐車場に移転・建て替え　ネット上でさまざまな声　【急上昇ニュースのウラ】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecf1ed8c1c6c3d2cfc3393b28b5045e0d910289bbbcaeb2d5f549c5ec7f1f7fe.jpg> 日産 国内外1万人を追加削減方針
+      <a href=https://news.yahoo.co.jp/pickup/6538588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5f1c5c72f4ee87c86637518475c696403c9f6a40635fbd2da9f8833cf75d4f90.jpg> ストーカー巡る対策 警察庁が通達
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bbc3e79d093c35869f6aedeea0a2797848fb3dddf7bd3651073b7094f9c30f1a.jpg> 薬物所持疑い レーサム元会長逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538586>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/92e1ff1a28357e499097c40f916602fc3502d25cbda51ae075a7db718cec43c4.jpg> 万博の着物ショー物議 主催者謝罪
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 4月の企業倒産 11年ぶり800件超
+      <a href=https://news.yahoo.co.jp/pickup/6538570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/36a56e6456b8f16625e022db867e792ed50ec6f660900d9fe5df3a2a2fab46c4.jpg> ZOZOマリン移転へ 賛否の声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 21:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 21:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
