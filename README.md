@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10ad29dca6822c301d44a15fdfff6aea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56939ebbc0dd959dfcf3fa9cc5f1eaca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38a5121bac097aee5ce38d9d5285f2783e5c2095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235960-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 公園で東京・練馬区の会社員殺害事件から1か月　事件には若い男女グループが関与か　事件直前SNSでやり取りも　広島・府中町
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8aa0b3435921a4788867289cc8ee74e72f0a5308>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edc76a483726f53b23de4efd9404e9ceceee3b32>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04b3077ec774f9d8a35b33bc0dfef50faa646e76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000080-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 塾侵入前に覚醒剤使用疑い再逮捕　埼玉・草加、「間違いない」と男
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/184e45e383a718c8de86cf559761e48cac45d6e7d2853095f986da27a2d5f915.jpg> 千葉女性殺害 少年に逮捕状請求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538538>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/28b6e12f8bec3f5d5dda86d9e6e838bf98889d02f8d7698587a6d5054dede713.jpg> 中3自殺 第三者委がいじめ認定
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/7a6614439e1ea8e11cd6f54fc07056cf9ca502323dcc59ebe805149c981037d3.jpg> 「ドラゴンアイ」人気 渋滞に懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538539>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ffb52885c2c1c9d568c995e9feb2f09122b8109ace8ab1e270a1d14bb2e47f0.jpg> G秋広らとSBリチャード トレード
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/74bb0bd76e85bb565ed8eb163a9e0de6a3f8a85f6fc58142054ea7ab9fe92842.jpg> 万博でポケモン熱唱 松本梨香の今
+      <a href=https://news.yahoo.co.jp/pickup/6538550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/9a6b3f39cbd268cc3cda6a09c0fe67f34d7e75451fda3cbfc33bbdfef2230936.jpg> 中川翔子 独立妊娠報告はドキドキ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 14:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 14:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
