@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d410bd02a603b245d1a4b0c8a19f23dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d062470c630d889d11594a720d59bf80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de26e538e4a0e77c37e5bf6affc3520ff55f906b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970741-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏が週末に習近平主席と電話会談する可能性に言及　米中共同宣言の合意については「非常に友好的な協議」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9e408e106197fd39af54d14c5014d7fd4ac771ce>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40644d22a440f9c27cc359e792306a14a52e1c00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ氏　「今週末にも習主席と電話会談」米中高官協議は「非常に友好的だった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc43c6f1a659e62dfd019a6e60ddd53f4b40c138>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000075-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷「母の日」マルチ！母・加代子さん&真美子夫人“2人の母”への感謝プレーで示した
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000075-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷「母の日」マルチ！母・加代子さん&真美子夫人“2人の母”への感謝プレーで示した
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1fc9bfc347c667bd27b4fca78a0a9a35f0c3a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000141-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 元櫻坂46の小林由依がソロアーティストデビュー「音楽でつながれる時間を楽しみに活動したい」
+      <a href=https://news.yahoo.co.jp/articles/3aeb67894fed88500c3b0e9f8cd6a8d7c875ea84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-90024696-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「誰でもいいから殺したかった」“背中に刺し傷”84歳女性殺害か…中3少年を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 03:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 03:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
