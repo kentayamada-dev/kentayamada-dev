@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd8a9fc41c69eaaa4389f1716dd3e727.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c8f3800adb7fcaba3698f3ddb7854c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae6e5f9d3538a323d9a1418633977040d81e59dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050026-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ウクライナ停戦交渉、双方が主導権争い…プーチン氏は対話姿勢をアピール「我々が拒否したことはない」
+      <a href=https://news.yahoo.co.jp/articles/702f23e99803be81ec780126982bd7f52d7edf0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970758-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナのゼレンスキー大統領がトルコのエルドアン大統領と電話会談　ロシアとの直接交渉への全面的な支援に謝意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23937aefbcc117de083275a281b15ea8a80738d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが男性兵士1人解放　ガザ終戦へ米に「努力」要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/968e82b87b26033a617e73220c257ba58bde2b63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相次ぐ10代の凶行　愛知では16歳が祖父母殺害、群馬では17歳が高校生刺して逮捕
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5d85ccbfa6e7e5a946b7a724b70ac019ca52ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 驚きを与えた巨人・秋広と大江、ソフトバンク・リチャードのトレード。将来の主軸候補は新天地での飛躍を遂げることができるか？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-maruspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 驚きを与えた巨人・秋広と大江、ソフトバンク・リチャードのトレード。将来の主軸候補は新天地での飛躍を遂げることができるか？
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd78adaa4e81af21cdf22257d3694ef7f79f0327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-01751927-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、特別な1枚の中に…ファンが見つけた“しるし”「幸せ詰め込む天才かな？」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/01bfefbbc8207c9e15cbdb1e8e7285e05f4e84aecd806b9510b5dbbbebf3737e.jpg> トランプ氏 習主席と電話会談意向
+      <a href=https://news.yahoo.co.jp/pickup/6538616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/e71bc4e89947a002110727d63109c037d3e2719a1e83738609c29b3ccb1315d7.jpg> トランプ氏 露ウの協議に出席示唆
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/eb7d763f16a34a4a60933c1055de9916ca254703603c385568089dca6db1353b.jpg> 愛子さま 18日から能登半島を訪問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/afef3704f824d85449653b7bd7f6f7ac3f6e918031be53d1f0f007b2782170e0.jpg> 路上で男性切り付け男逃走 千葉
+      <a href=https://news.yahoo.co.jp/pickup/6538615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/542fa8d19460cfbf6cd7cb0af1387d57e31a87cba40f2167af83fc402118151b.jpg> 千葉殺害「複雑な家庭環境」供述
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3771fbf363f0124d8e62068a8a959698a97fb5e6df9a644113bbcf19195c4266.jpg> ICC逮捕のドゥテルテ氏 市長当確
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538605>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b398c48c50d829b20018bcece63f7a2fc446fabe9cb145306dd808d749457464.jpg> 社長暴行 市が認証など取り消し
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/04fc22e62e13c450145e29aa5c4d484ae43b85aa06b75d86b0dec83eb670f682.jpg> ごみに水銀か 焼却炉1カ月半停止
+      <a href=https://news.yahoo.co.jp/pickup/6538611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/aee548890139c0454441f756a5a581668f494c4fa674cc08079120dab5a2f3ac.jpg> Apple iPhone値上げ検討と米報道
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 07:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 07:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
