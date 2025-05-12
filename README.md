@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c8e2e46c9e030d80b5d5416257a142b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc9534d37bf5a38c0b4803eec7a1ed68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d76035a33bbf1fc6f41b498d5722abfa81ba062e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00344220-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が真美子夫人に感謝の２安打　ピンクのバットで９戦連続ヒット！今季最長継続
+      <a href=https://news.yahoo.co.jp/articles/1e061df1410f0bf668c737c651b6d86db78b7015>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35232846-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゼレンスキー大統領、プーチン大統領との会談受け入れ表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c48e83367696b95d35ae247fc9b8f9d99fa5b083>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01751387-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、11度目の週間MVPは？　驚異の4発＆10打点も…打率5割の同僚との争いか
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ad3b913bbf40be5df42129d5f2d652d0dae0edc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 路上で女性死亡　10代少年の身柄確保　殺人容疑で捜査　千葉県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f4c982f2a33194fddb6e8a4ce90bd61b78f016a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領、プーチン大統領との直接会談を提案
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/8736a0501e956bef15f05208a666b9b135239a13f161922cae39083038447686.jpg> 森の貸出も レンタルビジネス拡大
+      <a href=https://news.yahoo.co.jp/pickup/6538532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/7a6614439e1ea8e11cd6f54fc07056cf9ca502323dcc59ebe805149c981037d3.jpg> 「ドラゴンアイ」人気 渋滞に懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/618094631e8355277d3221a4ac827b767dd8285cddc57d0c4a15128a6955bc63.jpg> 大谷「2人の母」に感謝届ける活躍
+      <a href=https://news.yahoo.co.jp/pickup/6538522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/8736a0501e956bef15f05208a666b9b135239a13f161922cae39083038447686.jpg> 森の貸出も レンタルビジネス拡大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 10:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 11:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
