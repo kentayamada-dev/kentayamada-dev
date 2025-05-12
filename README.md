@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc9534d37bf5a38c0b4803eec7a1ed68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d100c407b591340807a3e17bfea048f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e061df1410f0bf668c737c651b6d86db78b7015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35232846-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゼレンスキー大統領、プーチン大統領との会談受け入れ表明
+      <a href=https://news.yahoo.co.jp/articles/8fddbb2d9da82c02b8aed6aa18d6da8355cec4a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010004-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「実質、4ショットだよね」大谷翔平インスタ投稿　母の日に真美子夫人、ベビーとのショットにファン発見「デコちゃん、こんなとこに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c48e83367696b95d35ae247fc9b8f9d99fa5b083>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01751387-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、11度目の週間MVPは？　驚異の4発＆10打点も…打率5割の同僚との争いか
+      <a href=https://news.yahoo.co.jp/articles/7ce1c1d9a2688b5b0f9d2c212101d4b955cdedd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00016819-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【ライブレポート】浜田雅功＆ハマ・オカモト『ごぶごぶフェス2025』で初の親子フェス共演！「やりにくいわ～」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ad3b913bbf40be5df42129d5f2d652d0dae0edc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 路上で女性死亡　10代少年の身柄確保　殺人容疑で捜査　千葉県警
+      <a href=https://news.yahoo.co.jp/articles/b358edeb5d1914060dfa2a084a454081ff7fbc21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000008-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ハマス、人質1人解放へ 米との直接交渉の一環
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19955e2e45bf4d188f7901117f7b4366aed0fa9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000019-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 新ローマ教皇「もう戦争やめよう」、初講話で世界の紛争に言及
+      <a href=https://news.yahoo.co.jp/articles/f0a70e54c7dcf5bc8ec61adce53f33a4049d72b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 年金改革法案、近く国会提出　石破首相が方針　与党内で最終審議へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93937dcf7ba52d14bfc41de513a22e5dc6a7fdb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00795011-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、「ごぶごぶフェス」で健在アピール　松本人志が作詞の『チキンライス』歌唱…終演後に「またなー」
+      <a href=https://news.yahoo.co.jp/articles/be0b3426d92de56e6b6426c571b822a125ea0bcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-16096967-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=562&ch=562&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏と会談する意向表明　直前にトランプ氏が要求
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/abef08690a4b133fc7c24096e3837f01df9544236f57ea17a25de10503a9a272.jpg> ウ大統領 露交渉に自ら赴く意向
+      <a href=https://news.yahoo.co.jp/pickup/6538534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/652532c7eed31180121d53f9b0322be6463990ac7f1c8f7cfa0c482cdee3c9f2.jpg> 年金法案は5月中旬提出 首相表明
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/af89d5de063dd26c062c574afc04a6306995fe00429fce06cfd4be037d47fe27.jpg> 傷害疑いで男逮捕 被害男性は死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538531>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02205420/title-1746984691636.jpeg?exp=10800> 適応障害とうつ病の違い 対応は
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/8736a0501e956bef15f05208a666b9b135239a13f161922cae39083038447686.jpg> 森の貸出も レンタルビジネス拡大
+      <a href=https://news.yahoo.co.jp/pickup/6538533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/857e16facd69018c9247127e1a61ac42074ae171efb4bc1211c03225384e1df5.jpg> 泥沼の8連敗 ロッキーズ監督解任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c610a73083c549a17d237253fd5fe0e3ed5c7e6573d49eaafc286902cd15497e.jpg> 元プラマイ岩橋 劣等感からの解放
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 11:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 11:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
