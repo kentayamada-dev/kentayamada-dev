@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f448994bef32dff1cfa7669af1a69f91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c5688108322d2fe9e62b323703e989e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deaacd960070db517b643a5045121b02a0e984f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970433-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】ゼレンスキー大統領「トルコで待つ」直接交渉求めていたプーチン大統領の出席は?トランプ大統領はサウジなど中東歴訪へ
+      <a href=https://news.yahoo.co.jp/articles/8ae1d81b50d33f62ac541dfef690c19d1f048766>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000030-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> ウクライナ、ロシアが無人機108機発射と非難 「停戦提案無視」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ed43cca3c77e89575bdd867f7de10d22c9392c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01752209-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平よりもフリーマン優勢？　11度目の週間MVPへ…ド軍番記者が指摘する“逆転要素”
+      <a href=https://news.yahoo.co.jp/articles/eb1b781e504cbda32f432d4372c61f95c8c11eb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-04563669-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=700&ch=700&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」街頭インタビュー再開発表 再発防止策も説明【全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/660b9890ff4f876ddde552c15baff54f9d85648b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00043754-rekishin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 野外で客をとるそばには夫や情夫が…　劣悪な環境で春をひさいだ最下級の私娼「夜鷹」
+      <a href=https://news.yahoo.co.jp/articles/0e9bc46007b0fd3b09cdb94dbb497f91ac469eb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000103-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 大河「べらぼう」退場したの！？　吉原から突然いなくなった人物　安否描かれず「いない」「亡くなったの？」「ナレもなく退場？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d03092c4fb162be9fede822c04be04c1971975f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000107-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=667&ch=667&exp=10800&fmt=webp> クルド武装組織が解散表明　対トルコで40年以上闘争
+      <a href=https://news.yahoo.co.jp/articles/cd2e5e15e718d647b4ae1ac3afe6079be803d873>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970436-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 【解説】大谷翔平選手「母の日」は2安打1打点!ヌートバー選手は足元に「久美ちゃん!」母に捧げる豪快HR放つ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5eb05edf68b49dae27204c3580fc34ad0c2fc9ce6a1f068168a57ee283b7ce0a.jpg> 米大統領 薬価大幅引き下げ指示へ
+      <a href=https://news.yahoo.co.jp/pickup/6538564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/12296fe6b5fc88484c03194b75c6d6daa29d850f11751695d1252ec009fe4c91.jpg> 米中 追加関税90日間引き下げ声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/7acce78aeef01da81b4ab4631778935fbb07818c4bff49a929155bf09af10a45.jpg> 利益供与巡り 空港ビルに行政指導
+      <a href=https://news.yahoo.co.jp/pickup/6538565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5eb05edf68b49dae27204c3580fc34ad0c2fc9ce6a1f068168a57ee283b7ce0a.jpg> 米大統領 薬価大幅引き下げ指示へ
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ecc23e5c9bd9f45f56700ea9a84beba01682b04cfd40c0d29d6e6432d62ac6f.jpg> 塾侵入前に覚醒剤使用疑い再逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538555>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bbc3e79d093c35869f6aedeea0a2797848fb3dddf7bd3651073b7094f9c30f1a.jpg> 薬物所持疑い レーサム元会長逮捕
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c4afedb4b71dcdcecdb8d545903c46f3ce47fc462eb0f6fa82d99154bcc14495.jpg> 「夜ふかし」の街頭取材 再開へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 17:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 17:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
