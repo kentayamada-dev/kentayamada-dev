@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa25bf86d146ef65707a7cfc891da866.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c98a41bc57f3161417069f42fe9d913.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a7a175fdbbfb9ff239eb4745862d87069aa6cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010009-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 巨人・秋広優人＆大江竜聖、ソフトバンク・リチャードの2対1のトレードが電撃発表！　まさかの他球団移籍が決定
+      <a href=https://news.yahoo.co.jp/articles/887b11900fe1174687885aba6ce14d2e595e70df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000189-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 電撃トレード関連ワードが次々トレンド入り！「秋広優人」「大江竜聖」「2対1」…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90f740e7439dc7cf88e2aa887f1bbce767c58954>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-15914379-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ハマス、米系イスラエル人の人質解放すると発表　トランプ氏の中東訪問を前に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edc76a483726f53b23de4efd9404e9ceceee3b32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6293fcc33bcf3c2dfb7ebf7d7f876b9e6749c1a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7298b058b3699fee20ae707d449ecefd0370e56e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535324-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 治療に毎日90分、手負いのド軍フリーマンが衝撃の10戦打率.475　指揮官が見た“怪我の功名”とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/749f45ebb874c5d937af0d9d673688ecc4806e17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-90024641-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 浜田雅功と西川貴教がまさかの展開！？相方・松本人志との“共演”も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd4b4f95d35c273463acc106d2e4af46f30d87ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235924-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラム組織ハマスがパレスチナ自治区ガザで拘束している米国籍の男性を解放へ　停戦実現や人道支援物資の搬入再開に向けた措置
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535324-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 治療に毎日90分、手負いのド軍フリーマンが衝撃の10戦打率.475　指揮官が見た“怪我の功名”とは
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538515>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 豪山火事でコアラ1100匹射殺 批判
+      <a href=https://news.yahoo.co.jp/pickup/6538538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/28b6e12f8bec3f5d5dda86d9e6e838bf98889d02f8d7698587a6d5054dede713.jpg> 中3自殺 第三者委がいじめ認定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 12:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 13:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
