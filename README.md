@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edb681875b3aa89651a7eb497d96568f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f448994bef32dff1cfa7669af1a69f91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68e77b9f5070bff5f389ab3f130603394f1a9be6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000031-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「酷い…」「壮絶」と視聴者戦慄…『べらぼう』異例の“注意喚起”回で描かれた「2つの衝撃シーン」
+      <a href=https://news.yahoo.co.jp/articles/deaacd960070db517b643a5045121b02a0e984f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970433-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】ゼレンスキー大統領「トルコで待つ」直接交渉求めていたプーチン大統領の出席は?トランプ大統領はサウジなど中東歴訪へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8a36f0c22b75a2bffe4a3220522e176a926d8e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-05121153-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=10&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 【巨人】電撃トレードの秋広優人が心境明かす「ジャイアンツの５５番を背負えたのは誇り」「活躍することが恩返し」
+      <a href=https://news.yahoo.co.jp/articles/98ed43cca3c77e89575bdd867f7de10d22c9392c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01752209-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平よりもフリーマン優勢？　11度目の週間MVPへ…ド軍番記者が指摘する“逆転要素”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c1da715f00550517ce7ee5184557243b2d894f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00096367-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「パパさんの手のマメが…」大谷翔平が公開した「母の日」カットが話題沸騰。真美子さん、長女との“手つなぎ”にもん絶の声
+      <a href=https://news.yahoo.co.jp/articles/660b9890ff4f876ddde552c15baff54f9d85648b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00043754-rekishin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 野外で客をとるそばには夫や情夫が…　劣悪な環境で春をひさいだ最下級の私娼「夜鷹」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d03092c4fb162be9fede822c04be04c1971975f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000107-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=667&ch=667&exp=10800&fmt=webp> クルド武装組織が解散表明　対トルコで40年以上闘争
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6293fcc33bcf3c2dfb7ebf7d7f876b9e6749c1a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c7a0990a9695257d00c2081b0a36e74095e3ca1c32140247cd0ad6d5607cf6d3.jpg> 昨年度の経常黒字30兆円 過去最大
+      <a href=https://news.yahoo.co.jp/pickup/6538565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5eb05edf68b49dae27204c3580fc34ad0c2fc9ce6a1f068168a57ee283b7ce0a.jpg> 米大統領 薬価大幅引き下げ指示へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/184e45e383a718c8de86cf559761e48cac45d6e7d2853095f986da27a2d5f915.jpg> 千葉女性殺害 殺人容疑で15歳逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0bd06e34b6aaacfc2640610514e042cfb5a84683966e2ad5bd52caf895c7f540.jpg> 殺人容疑で15歳逮捕 無差別襲撃か
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538559>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> シャープ亀山第2工場を鴻海売却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/413ae2e724904c160084c57cdafc259cd4acffc6f8053a465b6932ed80ebe505.jpg> 兵庫知事パワハラ研修 4h超予定
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/9a6b3f39cbd268cc3cda6a09c0fe67f34d7e75451fda3cbfc33bbdfef2230936.jpg> 中川翔子 独立妊娠報告はドキドキ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 16:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 17:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
