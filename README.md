@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c98a41bc57f3161417069f42fe9d913.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf9e04998111e7f8912cd5e61e16829e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/887b11900fe1174687885aba6ce14d2e595e70df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000189-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 電撃トレード関連ワードが次々トレンド入り！「秋広優人」「大江竜聖」「2対1」…
+      <a href=https://news.yahoo.co.jp/articles/8aa0b3435921a4788867289cc8ee74e72f0a5308>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-08883691-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平改め“加代子さんの息子”がマルチ安打の大活躍　母の日らしいスペシャルなスタメン表
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edc76a483726f53b23de4efd9404e9ceceee3b32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7298b058b3699fee20ae707d449ecefd0370e56e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535324-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 治療に毎日90分、手負いのド軍フリーマンが衝撃の10戦打率.475　指揮官が見た“怪我の功名”とは
+      <a href=https://news.yahoo.co.jp/articles/50970ceda6a528cd5461536224c3cfa1958cd877>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177849-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 2024年度の国際収支は30兆円超 過去最大の経常黒字
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538537>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f81d228068b1c35b7dbc1b7086f2eacbec2ca0de41ae316fbbcff108ff38e9d7.jpg> 駅切りつけ 男の自宅を家宅捜索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/d690977ffc4e721a821123530fc571d594f3898064a22ebbf0f7b38f9bf1121d.jpg> 路上で女性死亡 関与疑い少年確保
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/74bb0bd76e85bb565ed8eb163a9e0de6a3f8a85f6fc58142054ea7ab9fe92842.jpg> 万博でポケモン熱唱 松本梨香の今
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 13:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 13:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
