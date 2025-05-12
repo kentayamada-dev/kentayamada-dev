@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d4e0d7dfb0b5f228b6fb09fc5b3793b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c881c583df81bad91a70974a7adfe428.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f18b10875d51a0daf62ff4e9fff030276e951df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07236117-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “告発文書をめぐる県の対応は適切だった” 兵庫・斎藤知事　パワハラ研修受けるも…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bd1c6fe1294ba32595e4f3ee7dd2f026fdf66b6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏が停戦提案、ゼレンスキー氏は自らトルコ入り表明…実現なら２２年３月以来
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ee809222de1182f12b3e946f22404d35ada2ca0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121391-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 救急搬送された藤田さいき「今週は欠場」と明かす「無理をしてしまった」切実な理由もつづる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b178b906b8b220dd5d07786b0488aa7e9405b9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000115-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 札幌市、市内建設会社「花井組」の暴行動画「同社のものと確認」　5つの認証など取り消し
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/d69ddae6e3e79917baf1e2ebe653f29127b3585e1e475df6685c439bb9e79400.jpg> 停車中トラックに車衝突 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/596545832b068e1d25b054df2a0ce26f913f8322418095ffc1398ad41afe82b3.jpg> 兵庫知事 告発巡る対応は「適切」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b398c48c50d829b20018bcece63f7a2fc446fabe9cb145306dd808d749457464.jpg> 社長暴行 市が認証など取り消し
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecbd46f63c8d10b7d62bc4c949355bcf67867e2972be6545ebc9f8ac7b2d386b.jpg> 肥満「自己責任」は偏見 識者警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538601>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/a6d4f3348d746ae01e95c90d6827d8ca62ef089fe75bdc2b96b6ea17c0e7edd6.jpg> 巨人・秋広 電撃トレードに心境
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 23:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 23:52:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
