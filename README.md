@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e930ddb03961c2d7403c52692f62b2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa25bf86d146ef65707a7cfc891da866.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/955876c61b1b5690923d0d20aa341869ddf63476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970245-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=530&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 切りつけ男「小学生の時にテストの点が悪くて親から叱られた。教育熱心な親のせいで苦労した」長野の戸田佳孝容疑者宅を家宅捜索　東大前駅で学生切りつけた凶器は「数年前に購入」
+      <a href=https://news.yahoo.co.jp/articles/6a7a175fdbbfb9ff239eb4745862d87069aa6cf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010009-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 巨人・秋広優人＆大江竜聖、ソフトバンク・リチャードの2対1のトレードが電撃発表！　まさかの他球団移籍が決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6293fcc33bcf3c2dfb7ebf7d7f876b9e6749c1a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7298b058b3699fee20ae707d449ecefd0370e56e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535324-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 治療に毎日90分、手負いのド軍フリーマンが衝撃の10戦打率.475　指揮官が見た“怪我の功名”とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/749f45ebb874c5d937af0d9d673688ecc4806e17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-90024641-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 浜田雅功と西川貴教がまさかの展開！？相方・松本人志との“共演”も
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd4b4f95d35c273463acc106d2e4af46f30d87ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235924-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラム組織ハマスがパレスチナ自治区ガザで拘束している米国籍の男性を解放　停戦実現や人道支援物資の搬入再開に向けた措置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c348152f63280afc53d28c81a0f8ca886add59e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970247-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 大谷翔平が今シーズン最長9試合連続安打＆13度目マルチヒット「母の日」ピンクのバット＆ベルトで2安打1打点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/952cbd90e751a10a2370ed4711e4e6b42e6177ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970233-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「トルコで待っている」ゼレンスキー大統領が“首脳会談”呼びかけ　プーチン大統領からの“直接交渉”提案受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ce1c1d9a2688b5b0f9d2c212101d4b955cdedd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00016819-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【ライブレポート】浜田雅功＆ハマ・オカモト『ごぶごぶフェス2025』で初の親子フェス共演！「やりにくいわ～」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235924-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラム組織ハマスがパレスチナ自治区ガザで拘束している米国籍の男性を解放へ　停戦実現や人道支援物資の搬入再開に向けた措置
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538530>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e6e1dabde0ac07b7f53d29b217ae79e212f187b432e1a36cb7d86c7d14fb5d8b.jpg> ハマスが米と直接協議 交渉加速
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f81d228068b1c35b7dbc1b7086f2eacbec2ca0de41ae316fbbcff108ff38e9d7.jpg> 駅切りつけ 男の自宅を家宅捜索
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/0ffb52885c2c1c9d568c995e9feb2f09122b8109ace8ab1e270a1d14bb2e47f0.jpg> G秋広らとSBリチャード トレード
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538536>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e4137dd67d05d0041a9aade630d7561f646ca8ac914d02ec6763de70cbd07aed.jpg> 元プロレスラーのサブゥー氏死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/857e16facd69018c9247127e1a61ac42074ae171efb4bc1211c03225384e1df5.jpg> 泥沼の8連敗 ロッキーズ監督解任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c610a73083c549a17d237253fd5fe0e3ed5c7e6573d49eaafc286902cd15497e.jpg> 元プラマイ岩橋 劣等感からの解放
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 12:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 12:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
