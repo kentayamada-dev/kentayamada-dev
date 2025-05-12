@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef1c859729ad20fa20c938d682dba16d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94c79565c18a9500fa3a891e6a7ff829.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f24f11f846fb5354f0e27719ea50779b78de7e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-09233352-htv-000-1-thumb.jpg?exp=10800&fmt=webp> マツダ決算発表　2025年度業績見通しは「未定」　アメリカの関税政策が影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6def74250c505c7aba7972b9c373aa3d06753dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-01761421-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷　絶好調の「5月」 今季最長9試合連続安打で月間打率.366　過去はどれだけ打っている？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/66f0a568827338f5cc109490fe0e3676dd828d1b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが米国人1人解放へ　停戦協議再開期待、米国も交渉関与か　イスラエル否定的
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477b4771d671e05dc8ab895f8757c889e037869c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000078-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 「首長ハラスメントの防止体制が必要」と専門家、パワハラ認定も処分なしの斎藤知事に苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/204dfed594ff672ac806f45f753acd939e99a7ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120881-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> MLB「母の日」に大谷翔平、ヌートバーら、ドジャース名物リポーターも各SNSで感謝つづる
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/dc41a80335bdaf07b4c254662ce2848535f29074be517de1f467749be614e9ea.jpg> 脱線事故で娘死亡 組織罰求める父
+      <a href=https://news.yahoo.co.jp/pickup/6538579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/dc41a80335bdaf07b4c254662ce2848535f29074be517de1f467749be614e9ea.jpg> 脱線で娘を失う 問えない企業の罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecf1ed8c1c6c3d2cfc3393b28b5045e0d910289bbbcaeb2d5f549c5ec7f1f7fe.jpg> 日産 国内外1万人を追加削減方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/d1b598d94b30fc0189b08688987a56a4451e45700bafb3f29f2ddd80a9f853d7.jpg> マツダ 今期業績予想の開示見送り
       </a>
     </td>
   </tr>
@@ -426,22 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bc2f93e4ae638061e0051da41a7ddb94754e6e53286ad90365f614cdd35be8fd.jpg> 兵庫知事 パワハラ研修は大変充実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/2c78ab3693d8ff9921abee52fff040b1790fbc6aa4553897e18be5a0b842f6c1.jpg> コメの平均価格 18週ぶり値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/40b44d08e4adf01c0afcb7dc7791b7c6869dea2b0439fbaaf37d4d44655ee8af.jpg> G坂本を抹消 緊急昇格から5日後
+      <a href=https://news.yahoo.co.jp/pickup/6538576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/2bb35c6575952f9531ad5720c72b63fac04357fa9bce0161a71caadab8a0a9c9.jpg> ZOZOマリン新球場 屋外型の方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 18:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 19:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
