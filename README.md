@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56939ebbc0dd959dfcf3fa9cc5f1eaca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/623e285b9a15ec596510c174f6cc9bff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38a5121bac097aee5ce38d9d5285f2783e5c2095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235960-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 公園で東京・練馬区の会社員殺害事件から1か月　事件には若い男女グループが関与か　事件直前SNSでやり取りも　広島・府中町
+      <a href=https://news.yahoo.co.jp/articles/6f67b2b6bf3fdc87230d4694efc8bcc866c693c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177845-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> マジかよ…大谷翔平の痛烈タイムリーに“大谷キラー”も「この表情です！」実況が言及 目を見開きベンチ裏へ「ギャレン激おこ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8aa0b3435921a4788867289cc8ee74e72f0a5308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-08883691-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平改め“加代子さんの息子”がマルチ安打の大活躍　母の日らしいスペシャルなスタメン表
+      <a href=https://news.yahoo.co.jp/articles/2a1f44783d0ea39db8b572d57c39e2e72af38eac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマス、米と直接協議　ガザ停戦へ人質兵士解放の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90f740e7439dc7cf88e2aa887f1bbce767c58954>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-15914379-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ハマス、米系イスラエル人の人質解放すると発表　トランプ氏の中東訪問を前に
+      <a href=https://news.yahoo.co.jp/articles/3347c8c71351d286a40b44f16e9f8ed6be6acdbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000041-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 自民党元幹事長の長男の会社に利益供与　日本空港ビルデングに厳重注意　国交省
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edc76a483726f53b23de4efd9404e9ceceee3b32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000183-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=264&cw=716&ch=716&exp=10800&fmt=webp> ハイヒール・モモコ「楽しかったぁ」同期・浜田雅功の復活を3ショで“祝福”「パパと2人で行くイベント」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/652532c7eed31180121d53f9b0322be6463990ac7f1c8f7cfa0c482cdee3c9f2.jpg> 年金法案は5月中旬提出 首相表明
+      <a href=https://news.yahoo.co.jp/pickup/6538542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c7a0990a9695257d00c2081b0a36e74095e3ca1c32140247cd0ad6d5607cf6d3.jpg> 昨年度の経常黒字30兆円 過去最大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c7a0990a9695257d00c2081b0a36e74095e3ca1c32140247cd0ad6d5607cf6d3.jpg> 昨年度の経常黒字30兆円 過去最大
+      <a href=https://news.yahoo.co.jp/pickup/6538551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/7acce78aeef01da81b4ab4631778935fbb07818c4bff49a929155bf09af10a45.jpg> 利益供与巡り 空港ビルに行政指導
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 14:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 15:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
