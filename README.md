@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c5688108322d2fe9e62b323703e989e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d69a7b83b1e17c3e2352730f384853c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/204dfed594ff672ac806f45f753acd939e99a7ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120881-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1300&ch=1300&exp=10800&fmt=webp> MLB「母の日」に大谷翔平、ヌートバーら、ドジャース名物リポーターも各SNSで感謝つづる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1294ac398eb5884b2c53b1ba99f872995b2805c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120904-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=749&ch=749&exp=10800&fmt=webp> ハイヒール・リンゴ　５カ月遅れの斎藤元彦知事「パワハラ研修」に「受け流しているような」　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ae1d81b50d33f62ac541dfef690c19d1f048766>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000030-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> ウクライナ、ロシアが無人機108機発射と非難 「停戦提案無視」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb1b781e504cbda32f432d4372c61f95c8c11eb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-04563669-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=700&ch=700&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」街頭インタビュー再開発表 再発防止策も説明【全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0e9bc46007b0fd3b09cdb94dbb497f91ac469eb0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000103-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 大河「べらぼう」退場したの！？　吉原から突然いなくなった人物　安否描かれず「いない」「亡くなったの？」「ナレもなく退場？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd2e5e15e718d647b4ae1ac3afe6079be803d873>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00970436-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 【解説】大谷翔平選手「母の日」は2安打1打点!ヌートバー選手は足元に「久美ちゃん!」母に捧げる豪快HR放つ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538559>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> シャープ亀山第2工場を鴻海売却へ
+      <a href=https://news.yahoo.co.jp/pickup/6538574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/bc2f93e4ae638061e0051da41a7ddb94754e6e53286ad90365f614cdd35be8fd.jpg> 兵庫知事 パワハラ研修は大変充実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/413ae2e724904c160084c57cdafc259cd4acffc6f8053a465b6932ed80ebe505.jpg> 兵庫知事パワハラ研修 4h超予定
+      <a href=https://news.yahoo.co.jp/pickup/6538569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/2c78ab3693d8ff9921abee52fff040b1790fbc6aa4553897e18be5a0b842f6c1.jpg> コメの平均価格 18週ぶり値下がり
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ed96395e12b98a3f9145d60ebc747eada8fb8823ea1a28385a1eb1e6f6b8652.jpg> 巨人とSBが電撃トレード 背景
+      <a href=https://news.yahoo.co.jp/pickup/6538570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c4afedb4b71dcdcecdb8d545903c46f3ce47fc462eb0f6fa82d99154bcc14495.jpg> 「夜ふかし」の街頭取材 再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6538560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1ed96395e12b98a3f9145d60ebc747eada8fb8823ea1a28385a1eb1e6f6b8652.jpg> 巨人とSBが電撃トレード 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 17:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 18:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
