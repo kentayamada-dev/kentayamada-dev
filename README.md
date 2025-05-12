@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf9e04998111e7f8912cd5e61e16829e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10ad29dca6822c301d44a15fdfff6aea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6293fcc33bcf3c2dfb7ebf7d7f876b9e6749c1a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
+      <a href=https://news.yahoo.co.jp/articles/04b3077ec774f9d8a35b33bc0dfef50faa646e76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000080-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 塾侵入前に覚醒剤使用疑い再逮捕　埼玉・草加、「間違いない」と男
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50970ceda6a528cd5461536224c3cfa1958cd877>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10177849-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 2024年度の国際収支は30兆円超 過去最大の経常黒字
+      <a href=https://news.yahoo.co.jp/articles/6293fcc33bcf3c2dfb7ebf7d7f876b9e6749c1a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050039-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏「停戦交渉の再開を提案する」、ゼレンスキー氏「どんな形式でも問題ない」…いらだつアメリカに歩み寄る姿勢
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e6e1dabde0ac07b7f53d29b217ae79e212f187b432e1a36cb7d86c7d14fb5d8b.jpg> ハマスが米と直接協議 交渉加速
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f81d228068b1c35b7dbc1b7086f2eacbec2ca0de41ae316fbbcff108ff38e9d7.jpg> 駅切りつけ 男の自宅を家宅捜索
+      <a href=https://news.yahoo.co.jp/pickup/6538542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/c7a0990a9695257d00c2081b0a36e74095e3ca1c32140247cd0ad6d5607cf6d3.jpg> 昨年度の経常黒字30兆円 過去最大
       </a>
     </td>
   </tr>
@@ -428,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538538>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/28b6e12f8bec3f5d5dda86d9e6e838bf98889d02f8d7698587a6d5054dede713.jpg> 中3自殺 第三者委がいじめ認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/a8e5f2b0623f5655950af5e6df0cd7daf219d2cd7e300f25526b943fd5f7b407.jpg> JR北 コナン効果で新幹線利用増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e5e2c5a1ddae102f96c602e40cdccdc81b47ea76c8c38f1bdee3c9cd7b63242a.jpg> 子が性被害 服役後の性加害者追う
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/e4137dd67d05d0041a9aade630d7561f646ca8ac914d02ec6763de70cbd07aed.jpg> 元プロレスラーのサブゥー氏死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538540>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/74bb0bd76e85bb565ed8eb163a9e0de6a3f8a85f6fc58142054ea7ab9fe92842.jpg> 万博でポケモン熱唱 松本梨香の今
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 13:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 14:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
