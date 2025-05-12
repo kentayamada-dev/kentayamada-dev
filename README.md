@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/i6TytKNgINc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f986b62e78e3ac5b74f7c4a7fad7cf3c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0793c913867b4d2391cd5afdfabbd8ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/398321f64f6da91db991dfe7a3477678f2a184da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236154-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　ロシアとウクライナの直接交渉に「助けになるなら自分も行く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/40644d22a440f9c27cc359e792306a14a52e1c00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ氏　「今週末にも習主席と電話会談」米中高官協議は「非常に友好的だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc43c6f1a659e62dfd019a6e60ddd53f4b40c138>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000075-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷「母の日」マルチ！母・加代子さん&真美子夫人“2人の母”への感謝プレーで示した
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/384c663f49f6be77c23061f3a07e0bb693cc17ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-08686347-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン氏、ウクライナに「直接交渉」を提案　ゼレンスキー氏「プーチンを待つ」　停戦実現、今度こそ？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e508bb1389a3f1233999d1f01defa8919cc21fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、習氏と週末に協議の可能性　米中高官の貿易交渉に続き
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 01:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 02:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
