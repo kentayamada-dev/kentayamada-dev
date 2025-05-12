@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abfc68aae7458e092dc74dc7d99d2aa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c9d5095aa88b6cbce704900a38670d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19709989e2c196ec307d2a90e993559013883372>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07235909-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】千葉市若葉区で女性死亡…背中に刺し傷　10代少年の身柄確保し話聞く　事件に関与か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96a34e06b2161ce7d47523b3eefba5b45dc20442>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120304-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、９試合連続安打でドジャース勝利に貢献　５打数２安打１打点　打率は３割８厘に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35120304-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、９試合連続安打でドジャース勝利に貢献　５打数２安打１打点　打率は３割８厘に
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/93937dcf7ba52d14bfc41de513a22e5dc6a7fdb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00795011-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、「ごぶごぶフェス」で健在アピール　松本人志が作詞の『チキンライス』歌唱…終演後に「またなー」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00795011-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、「ごぶごぶフェス」で健在アピール　松本人志が作詞の『チキンライス』歌唱…終演後に「またなー」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1e2abd5103684aeb706ca38ac87403daf18750e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000007-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> インド、停戦違反巡りパキスタンに再警告　合意後も緊張続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eda1f1ea0eed3c9dd48e70b9dd43f8f01c28e86e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-21906536-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 【 熊切あさ美 】　「1人に慣れ過ぎてしまって」　結婚願望はないものの　「いずれパートナーが欲しい」　 新曲トークイベント
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/1438cd01b2151e4e69bebfd4975150b1c7a464e099881b140fb11dd0fd095a4d.jpg> 新ローマ教皇 初の日曜恒例の祈り
+      <a href=https://news.yahoo.co.jp/pickup/6538527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/d690977ffc4e721a821123530fc571d594f3898064a22ebbf0f7b38f9bf1121d.jpg> 路上で女性死亡 関与疑い少年確保
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 09:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 10:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
