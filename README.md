@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/511e91fe14ae0561537937e9ceffb315.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18122a94ec57b4c0d59e97c77199cddc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb353e335dc609e16a7d218eaff967bff85e9360>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、対中関税「145％に戻らず」　90日停止後も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2bdb70f982b28fae22646c42ab9eff2439d3cb49>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f18b10875d51a0daf62ff4e9fff030276e951df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07236117-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “告発文書をめぐる県の対応は適切だった” 兵庫・斎藤知事　パワハラ研修受けるも…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/380f2bbd3de3ada5e0b697d9951489b2968fd9ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121485-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=101&cw=1399&ch=1399&exp=10800&fmt=webp> 内山高志氏が怒り「飛んできたのはビール」井岡一翔戦解説で被害「俺の右肩にぶっかかりました」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 00:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 01:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
