@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d062470c630d889d11594a720d59bf80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24aa1cbaacb262a316718651818c8824.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0efb22433ebfda285b1632ba72a7ab6b56603178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-05121204-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　“母の日バット”で真美子夫人＆母に感謝打　今季最長敵地１０連戦“長期出張”２安打締め
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de26e538e4a0e77c37e5bf6affc3520ff55f906b>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21dddd7db92cf2c6c056d0631a773b24adef0bfb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏　トルコでの直接交渉への参加示唆「事態が動くのであれば参加する可能性」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc43c6f1a659e62dfd019a6e60ddd53f4b40c138>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000075-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷「母の日」マルチ！母・加代子さん&真美子夫人“2人の母”への感謝プレーで示した
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 03:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 04:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
