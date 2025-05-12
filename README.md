@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ed2e011ff0a9084554ffb9ccbc3f720.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/152a082d6490776d6ac306db6eeed482.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c89c4276f160f836ce8a8356783bd58f445bd1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000037-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 15歳の中3少年を殺人容疑で逮捕「誰でもいいから殺してやろうと思った」千葉の84歳女性の背中刺す
+      <a href=https://news.yahoo.co.jp/articles/7f4b4d937a985cc28f36d60e2ea7054e9d1f548d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000053-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 巨人・秋広＆大江　ソフトバンク・リチャード　電撃トレードの舞台裏　ともに故障者発生した補強ポイント
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 05:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 05:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
