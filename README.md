@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/152a082d6490776d6ac306db6eeed482.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c782f700c83376f86f23f182780ab8ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f4b4d937a985cc28f36d60e2ea7054e9d1f548d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000053-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 巨人・秋広＆大江　ソフトバンク・リチャード　電撃トレードの舞台裏　ともに故障者発生した補強ポイント
+      <a href=https://news.yahoo.co.jp/articles/64b61a914ad92873c8ffd83fbb3d386abf9a1878>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000015-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ソフトバンクが巨人と1対2の交換トレード　リチャード「成長する姿を見せて恩返しを…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/affb09d7a41cebd12c75df7c82662d69db750932>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000011-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ロシア・ウクライナ「和平実現の機会」、15日の協議に期待＝トルコ大統領
+      <a href=https://news.yahoo.co.jp/articles/c8c7d2e07ee758e6a635999e5c60816085fc3624>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000012-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=39&cw=613&ch=613&exp=10800&fmt=webp> ロシア提案の直接交渉参加を示唆　米大統領、ウクライナは歓迎
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61a3db4263bd05bceab6281490c4d9904f2b21bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00535492-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 5月絶好調の大谷翔平、気づけばチーム“15冠”　年間47発ペース、心配された打点も上昇機運
+      <a href=https://news.yahoo.co.jp/articles/6b2236f7b82fe1bb5715eae8f945fec60a6fbf41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236172-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=518&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマスがアメリカ国籍のイスラエル兵を解放　米特使はイスラエル訪問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de26e538e4a0e77c37e5bf6affc3520ff55f906b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970741-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏が週末に習近平主席と電話会談する可能性に言及　米中共同宣言の合意については「非常に友好的な協議」
+      <a href=https://news.yahoo.co.jp/articles/ac719610d00b2c3b65f4d48873c52894729218fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00535438-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=600&ch=600&exp=10800&fmt=webp> TV中継で大谷翔平の背後に「目を疑った」　敵地で生んだ“異様な光景”…米国人の心掴んだ10日間
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e408e106197fd39af54d14c5014d7fd4ac771ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000008-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ハマス、イスラエル系米国人の人質を解放　イスラエルは停戦を否定
+      <a href=https://news.yahoo.co.jp/articles/ef772abff770f32cbdf870f14dc65b41d1962df7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 習主席の強硬姿勢、劇的な関税引き下げもたらす－トランプ政権が譲歩
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 05:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 06:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
