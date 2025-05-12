@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9addfe8c23fe906b25ec1e7159c2b7e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f25b70fccc28d731d2a88e0a897ec72c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a627fd886e934f49acf7b34109076530a6f1ed5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00010002-bezzy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1759&ch=1759&exp=10800&fmt=webp> 元櫻坂46小林由依のソロデビューが決定、“yousti”として1stミニアルバムを8月27日リリース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bd1c6fe1294ba32595e4f3ee7dd2f026fdf66b6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏が停戦提案、ゼレンスキー氏は自らトルコ入り表明…実現なら２２年３月以来
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ee809222de1182f12b3e946f22404d35ada2ca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121391-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 救急搬送された藤田さいき「今週は欠場」と明かす「無理をしてしまった」切実な理由もつづる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c36551c8af0b8d610664fbaa9dad945965fc4b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000127-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=858&ch=858&exp=10800&fmt=webp> 消費減税、各党要求に石破首相「無責任な議論」反論も「検討していないことはない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121391-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 救急搬送された藤田さいき「今週は欠場」と明かす「無理をしてしまった」切実な理由もつづる
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/5f1c5c72f4ee87c86637518475c696403c9f6a40635fbd2da9f8833cf75d4f90.jpg> ストーカー巡る対策 警察庁が通達
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/4f88a92ca271de91b96d7a24225bc6b5239d8a424d5d32ab6a294f5d1b7dfbe9.jpg> 千葉殺害 誰でもよかったと供述
       </a>
@@ -426,16 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/92e1ff1a28357e499097c40f916602fc3502d25cbda51ae075a7db718cec43c4.jpg> 万博の着物ショー物議 主催者謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6538570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
+      <a href=https://news.yahoo.co.jp/pickup/6538600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/04fc22e62e13c450145e29aa5c4d484ae43b85aa06b75d86b0dec83eb670f682.jpg> ごみに水銀か 焼却炉1カ月半停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ecbd46f63c8d10b7d62bc4c949355bcf67867e2972be6545ebc9f8ac7b2d386b.jpg> 肥満「自己責任」は偏見 識者警鐘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/43ded552f6404eef03da2e1506d9dd0eb2a4bc0928a6ecbdc2ec4e23952daed6.jpg> 将棋 プロ入り前の16歳が快挙
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/786f5e5c4548b04583ea134f77de7a4660bd754964316e4e64e0cdd1fcbfec3d.jpg> 電撃トレード秋広 前日は1軍在籍
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 22:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 22:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
