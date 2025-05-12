@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c881c583df81bad91a70974a7adfe428.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/511e91fe14ae0561537937e9ceffb315.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2bdb70f982b28fae22646c42ab9eff2439d3cb49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ停戦協議出席も　「役立つならトルコへ」　米大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/006e97a636c78ac924a810e8ced6443c09f683a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000146-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=172&cw=1028&ch=1028&exp=10800&fmt=webp> 皮膚がんで母失くしたドジャース・フリーマン、母の日に躍動「長い間悲しい日だった…」「母も向こうで楽しんでくれていると思う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f18b10875d51a0daf62ff4e9fff030276e951df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-07236117-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “告発文書をめぐる県の対応は適切だった” 兵庫・斎藤知事　パワハラ研修受けるも…
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bd1c6fe1294ba32595e4f3ee7dd2f026fdf66b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏が停戦提案、ゼレンスキー氏は自らトルコ入り表明…実現なら２２年３月以来
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee809222de1182f12b3e946f22404d35ada2ca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121391-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 救急搬送された藤田さいき「今週は欠場」と明かす「無理をしてしまった」切実な理由もつづる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68d08220edf4224f0eec42061e7be4ef16577280>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00535422-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の打席で敵守備陣に起きた“異変”　敵将憤る「あってはならない」凡ミスも…敵地熱狂させた4日間
+      <a href=https://news.yahoo.co.jp/articles/380f2bbd3de3ada5e0b697d9951489b2968fd9ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-35121485-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=101&cw=1399&ch=1399&exp=10800&fmt=webp> 内山高志氏が怒り「飛んできたのはビール」井岡一翔戦解説で被害「俺の右肩にぶっかかりました」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/fc5a69284cf27c2eccdac5db414e037b0e990704f8a7134013d96f7a6ba5270f.jpg> 首相はなぜ消費減税に慎重 解説
+      <a href=https://news.yahoo.co.jp/pickup/6538606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/01bfefbbc8207c9e15cbdb1e8e7285e05f4e84aecd806b9510b5dbbbebf3737e.jpg> トランプ氏 習主席と電話会談意向
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/6291080dfad6ae5326e2a7c704922a409bc897b1f5695a675116c2c8188be361.jpg> 中居氏側 第三者委報告書に反論
+      <a href=https://news.yahoo.co.jp/pickup/6538586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/92e1ff1a28357e499097c40f916602fc3502d25cbda51ae075a7db718cec43c4.jpg> 万博の着物ショー物議 主催者謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 23:52:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 00:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
