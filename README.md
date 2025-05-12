@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7abcfa617ed161a96cfbddea8e915593.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd8a9fc41c69eaaa4389f1716dd3e727.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1ece2747dbcac1b1594f3cd8ab8bdc950cddd5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 「第2の水谷瞬になる可能性はある！」巨人の秋広＆大江とソフトバンクのリチャードの電撃トレード…環境を変えて大化けするロマン砲はどっちだ？
+      <a href=https://news.yahoo.co.jp/articles/ae6e5f9d3538a323d9a1418633977040d81e59dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050026-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ウクライナ停戦交渉、双方が主導権争い…プーチン氏は対話姿勢をアピール「我々が拒否したことはない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e78be12073a2a08df306c23e2fb9c2fe419b5c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970749-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏は歓迎の意向　「トランプ氏の同席ありがたく思う」
+      <a href=https://news.yahoo.co.jp/articles/b5d85ccbfa6e7e5a946b7a724b70ac019ca52ca2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 驚きを与えた巨人・秋広と大江、ソフトバンク・リチャードのトレード。将来の主軸候補は新天地での飛躍を遂げることができるか？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a17fccf9980192dac6c7db55a2b59d5fcf1b383>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04588648-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、今週末に中国・習主席と電話会談の可能性示す
+      <a href=https://news.yahoo.co.jp/articles/10c53961db4ac01387ce4192a5c077af9404ee94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中首脳の電話会談に意欲　トランプ米大統領「今週末にも」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7faa0d6fcdb185730be8538425ba64cd55487f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00535414-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ベッツに直接聞いた「日本語入り手袋」装着の理由　「この日まで待っていた」優しい父の顔
+      <a href=https://news.yahoo.co.jp/articles/fd78adaa4e81af21cdf22257d3694ef7f79f0327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-01751927-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、特別な1枚の中に…ファンが見つけた“しるし”「幸せ詰め込む天才かな？」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/374925ece2a6dfe4f63253ddc58e9b7be20423aea72beded736501ba5591c26a.jpg> 26年度にも出産無償化 方針固める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538584>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/eb7d763f16a34a4a60933c1055de9916ca254703603c385568089dca6db1353b.jpg> 愛子さま 18日から能登半島を訪問
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/596545832b068e1d25b054df2a0ce26f913f8322418095ffc1398ad41afe82b3.jpg> 兵庫知事 告発巡る対応は「適切」
+      <a href=https://news.yahoo.co.jp/pickup/6538608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/afef3704f824d85449653b7bd7f6f7ac3f6e918031be53d1f0f007b2782170e0.jpg> 路上で男性切り付け男逃走 千葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/afef3704f824d85449653b7bd7f6f7ac3f6e918031be53d1f0f007b2782170e0.jpg> 路上で男性切り付け男逃走 千葉
+      <a href=https://news.yahoo.co.jp/pickup/6538610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b04190e221abe749b9b3d12ff146c44b1ec25483bfd64bac60856a0136fea798.jpg> 万博パビリオンで工事費未払いか
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/a6d4f3348d746ae01e95c90d6827d8ca62ef089fe75bdc2b96b6ea17c0e7edd6.jpg> 巨人・秋広 電撃トレードに心境
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538607>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/25f01eae35ce17c1dc107279bec9127db43c09cd30ea7da2990fca8daff97ed5.jpg> 日テレ鈴江奈々アナ 管理職に昇進
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 06:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 07:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
