@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c8f3800adb7fcaba3698f3ddb7854c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4e683c9134259b125807025d9a40a01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e83e580824ff48f1bd3b830e1028d55721b733c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000190-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 〈独自〉万博海外館で建設費2億円未払いか　突貫工事があだ、天井たわみや冷風機器故障も　万博展望㊤
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2cfe724a2fd53614c643c68848626842bb1213f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000176-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 阿部巨人、2対1の電撃トレードで岡本の代役三塁手リチャード獲得！　期待され続けた左右のロマン砲を〝交換〟秋広優人＆救援左腕・大江竜聖がソフトバンクへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/702f23e99803be81ec780126982bd7f52d7edf0e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970758-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナのゼレンスキー大統領がトルコのエルドアン大統領と電話会談　ロシアとの直接交渉への全面的な支援に謝意
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23937aefbcc117de083275a281b15ea8a80738d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ハマスが男性兵士1人解放　ガザ終戦へ米に「努力」要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/968e82b87b26033a617e73220c257ba58bde2b63>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相次ぐ10代の凶行　愛知では16歳が祖父母殺害、群馬では17歳が高校生刺して逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d85ccbfa6e7e5a946b7a724b70ac019ca52ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-maruspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 驚きを与えた巨人・秋広と大江、ソフトバンク・リチャードのトレード。将来の主軸候補は新天地での飛躍を遂げることができるか？
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fd4197c55cd62d9cb7080a9a114d61ecfcb06f91888743671eb677dc36adedcf.jpg> NYダウ大幅反発 終値1160ドル高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538609>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/374925ece2a6dfe4f63253ddc58e9b7be20423aea72beded736501ba5591c26a.jpg> 26年度にも出産無償化 方針固める
       </a>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b04190e221abe749b9b3d12ff146c44b1ec25483bfd64bac60856a0136fea798.jpg> 万博パビリオンで工事費未払いか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538612>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3771fbf363f0124d8e62068a8a959698a97fb5e6df9a644113bbcf19195c4266.jpg> ICC逮捕のドゥテルテ氏 市長当確
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b398c48c50d829b20018bcece63f7a2fc446fabe9cb145306dd808d749457464.jpg> 社長暴行 市が認証など取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6538617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c996253ea887da8b34a3af6b5a4240d76b8f4a8bcfcd247153e73577ebc8300d.jpg> 返礼品「水」業者 突然の事業停止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 07:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 08:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
