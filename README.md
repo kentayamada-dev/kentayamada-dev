@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50bf1bd20860eaa12edcc6d619a5b631.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b4f582dbdfde5292f36704be6ad73f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40079ba5a4e431efbdf6e28108b46a2424c03efd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000000-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏との直接会談を提案
+      <a href=https://news.yahoo.co.jp/articles/997bbeca06e3d9c7e76ec668dbff2800fd09caa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000133-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=918&ch=918&exp=10800&fmt=webp> ド軍指揮官　敵地10連戦6勝4敗に満足げ「今回の遠征は成功」前日に首位陥落も1日で首位再浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b28374c0e91f3adb3f9a57b34b14cbbfd9c06bd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-10522828-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャースが地区首位に再浮上　同地区4連戦の負け越しを回避　MVPトリオが9安打6得点で快勝導く
+      <a href=https://news.yahoo.co.jp/articles/93937dcf7ba52d14bfc41de513a22e5dc6a7fdb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00795011-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、「ごぶごぶフェス」で健在アピール　松本人志が作詞の『チキンライス』歌唱…終演後に「またなー」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78063d9e440331a67f0b46753adb91f185a2abee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000014-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【ライブレポート】「ごぶごぶフェス」2日間で3万5000人が熱狂、西川貴教に巨大扇風機→キスで仲直り
+      <a href=https://news.yahoo.co.jp/articles/d1e2abd5103684aeb706ca38ac87403daf18750e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000007-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> インド、停戦違反巡りパキスタンに再警告　合意後も緊張続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/647282f02d8c07a34caf5a34420cd5448c4ec70e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000002-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=1181&ch=1181&exp=10800&fmt=webp> ＜吉沢亮＞「なつぞら」以来の朝ドラ出演　次期「ばけばけ」でヒロイン＆夫に大きな影響を与える存在
+      <a href=https://news.yahoo.co.jp/articles/e07768f9efc8b9906d1654594eab69b025863f18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=537&ch=537&exp=10800&fmt=webp> プーチン氏、直接交渉を提案　ゼレンスキー氏は「一時停戦が前提」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eda1f1ea0eed3c9dd48e70b9dd43f8f01c28e86e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-21906536-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 【 熊切あさ美 】　「1人に慣れ過ぎてしまって」　結婚願望はないものの　「いずれパートナーが欲しい」　 新曲トークイベント
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b675a2b0bf5ba0d3d5929bc7b0b25eb398170ceee78cd3e1faed15d4414098f0.jpg> 韓国大統領選始まる 野党候補先行
+      <a href=https://news.yahoo.co.jp/pickup/6538519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/abef08690a4b133fc7c24096e3837f01df9544236f57ea17a25de10503a9a272.jpg> ウ大統領 露交渉に自ら赴く意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/f4165a0ac44ff071ab838e45b3ff590628d7a42a9dcf0b076920ac2547e73e3b.jpg> 盗難仏像 12年半ぶり対馬に到着
+      <a href=https://news.yahoo.co.jp/pickup/6538518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/b675a2b0bf5ba0d3d5929bc7b0b25eb398170ceee78cd3e1faed15d4414098f0.jpg> 韓国大統領選始まる 野党候補先行
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/ea96f490e7ba0faac95d3b76fda3029252a17eaaf4839032a2781fdf32eadbc9.jpg> G坂本抹消へ 2軍再調整の見込み
+      <a href=https://news.yahoo.co.jp/pickup/6538520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/12/618094631e8355277d3221a4ac827b767dd8285cddc57d0c4a15128a6955bc63.jpg> 大谷「2人の母」に感謝届ける活躍
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/12 08:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/12 09:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
