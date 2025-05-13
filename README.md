@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90b2886abd05cf3b1e6f9ab2b8d056b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33e7b5cf4bbbe32f7ca6b81d518dba5f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f28580c3cc6259701b45b3f5e40ee0459713845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-90008409-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形】SNSで知り合った未成年の女性誘拐・福島の男逮捕　男女3人に対し自殺ほう助でも起訴
+      <a href=https://news.yahoo.co.jp/articles/ed359f7216fabb5b554fe0515f0d341dfd794cd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050125-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「トランプ氏が会談に同席ならありがたい」ゼレンスキー氏、ロシアに首脳会談の開催を呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/313b2156756b61513cee3e3098c71244c01ba53b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000297-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> 巨人のリチャード　注目の移籍第1打席は空振り三振　初球の豪快フルスイングに敵地マツダどよめく
+      <a href=https://news.yahoo.co.jp/articles/eeee1a2d08797c7857dd9bb0b7c9414a3f80bb3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232913-cnn-000-1-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> トランプ米大統領、サウジアラビアに到着　中東歴訪スタート
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39329ee6e5ccf7fd718f4d31cdcebce9e19ca08d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232912-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「理性が勝つことを願う」とパキスタン外相　インドとの停戦後に語る
+      <a href=https://news.yahoo.co.jp/articles/097d94ab0af543c1e4ca89af9ef9cc3ddf87a44a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=553&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】観光客銃撃テロ事件が引き起こしたインド・パキスタンの軍事的緊張…テロリズムの観点から重要な2つの視点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc83634549b5a87686d3725aece1450b10e37c44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首脳会談以外は無意味とウクライナ高官
+      <a href=https://news.yahoo.co.jp/articles/630b04b679b378e8e652625b9bd913c53de105b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010005-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自解説】大阪・関西万博　東西ゲート混雑差は“パークアンドライド”が高すぎるのが原因？　開幕1カ月で見えた「課題」を万博担当記者が解説
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/4adfeac145568c783e425700db5fe7ffffb906b1b42dd37bb31998a54b81f4f8.jpg> SBGが1兆1500億円の黒字 3月期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6b05c0c190d431d6d5cd0153d3f11e012e4c4b625e98969a4d1bb657df423d69.jpg> ママ友誘い闇バイト 判決にぼう然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538663>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6021c1184110efad01b3618931d52eb95b411fd59f65873d05c548841b8c483a.jpg> セブン 容器変更で総菜を値下げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f6a024e007c86db4be82cc49eeb95c810ee17ce9857b575c2e919896776152c9.jpg> Teams スクショ防止機能を導入へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c7b93c9fd9cc9e2888e3315a5bd56f669d32e9e3e62063ee9ad8f280962b6b29.jpg> スポーツ店にコメ巡る苦情 困惑
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 19:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 19:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
