@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ddde8953cb11da35d9e15e9836d885f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/960d18568765cf0f92e771e49dce9f96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd610b65152c3f8d32d13ed6448e1fe30b174f69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050066-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国との追加関税引き下げ、「車・鉄・アルミは対象外」…トランプ大統領が品目別２５％維持の考え示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/834009c535b7703c90bdb76e321edae4abb70106>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130352-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=250&cw=1000&ch=1000&exp=10800&fmt=webp> イシケン「踏み込んで説明して」　ハラスメント研修受講の斎藤元彦兵庫県知事に注文
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c84d4805557e76573ef3301c4627b643ba164495>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000035-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公　追加の経済対策　秋に補正予算案編成で一致
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000035-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公　追加の経済対策　秋に補正予算案編成で一致
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/232921acb095d2e43c1e4f1623de46316e830931>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21908905-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「トルコでプーチンを待つ」ウクライナ×ロシア“直接協議”は実現するか?　初めての会見で新教皇「戦争にNOを」 ゼレンスキー氏と電話会談も【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2564201440c18f869b50f23c6a9c140a75360d1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-16297477-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1124&ch=1124&exp=10800&fmt=webp> 米中の合意で株価回復、「トランプ関税」発表前の水準に
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d350791d4bf4972f51db00b03331fdff8a20b7f240a7a5b02a1b1b2294a4075d.jpg> 阪神高速で車3台絡む事故 1人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c31442bd7de338ec7013ac2cc5d9ca81b6092488e1240dee049626163ad2f30a.jpg> 空港ビル利益供与 国交相「遺憾」
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538643>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b9b97f151191cc2bb5700c17cff5c9ab92137f0c2a3e3246ae0fb3a67a6c51ea.jpg> 広島大キャンパス内に不発弾か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f5a1317628529e53cf104421132e955695e49b8e1d00e36cd5ae45343fead046.jpg> マック 米で夏に37万人雇用の方針
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8f7c7455fd8ed8f48455666d2e7786205c84f9db001e068a1e9060a449d881f1.jpg> インハイ予選 故意に負け再試合へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 13:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 13:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
