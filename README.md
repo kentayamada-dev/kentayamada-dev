@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20f79852a19627d5616dbf4fac0a9909.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14fe68394cf89695a7f8e9039998a8bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb2eee83c8795ea9f5c559fc98ac3fc7246ea984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236270-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イオン、アメリカ産100％「輸入米」を初めて販売へ　コメ不足に対応して
+      <a href=https://news.yahoo.co.jp/articles/323ad382944b259a9ae9ad6221fdbf4a85a41211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971026-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がロシアとウクライナの直接交渉に出席する可能性を示唆　中東3カ国の最初の訪問国サウジアラビアに到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31153298d3776392568835a874ebd83d81db616a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236256-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏、サウジアラビアに到着 「中東マネー」狙って3か国歴訪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/920cef3870a328b8c1c49f5578966fa10a436fb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000015-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 札幌市、暴行動画拡散「花井組」の認証、辞退申し出→取り消しに疑問の声　くすぶる「再認証のため？」、市は否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26985dd87d1e41d239433b8dce38df2233bfa87b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178093-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> イオン アメリカ産100％コメ販売へ 副社長「選べるという新たな選択肢を」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/61c5835145b73d509425cb45449207bbb4138578>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000054-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドとパキスタンが前線部隊の縮小を検討　両国軍幹部が協議し合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12043391cc806b3c68b8f26165c96772cbf8565f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21908904-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日本の秘策?日本車を逆輸入案にアメリカが関心か　米中関税「115％引き下げ」合意　双方なぜ大幅譲歩?【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21d90a21cbc50ec579b7277383bee3b61f4b90f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ大統領、13日から中東3カ国歴訪　大規模ディールに注力へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b006621f13fd89625ab12a141ee4d5ac306b7b7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236195-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下請け業者の工事費用、一部未払いに　大阪・関西万博の海外パビリオン建設
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/09b79feb2a324ec88fe20b6191e6811655923e483b121c92a7cad4121610a6af.jpg> 英首相の私邸で不審火 一部損傷
+      <a href=https://news.yahoo.co.jp/pickup/6538661>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02205843/title-1747019116946.jpeg?exp=10800> 小1の壁対策に朝の居場所 課題は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/92b4e47d2629dc894248984a314e1f649a1c9bac896fed7afae98ea8e0a49e00.jpg> 情報漏えい疑惑 兵庫県が刑事告発
+      <a href=https://news.yahoo.co.jp/pickup/6538656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f4e7d2297b4790ae133b9b5a1ed8309617f1c5f96fff93eba64b6090681bdfd8.jpg> 森友文書に欠落 財務相「不適切」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/09b79feb2a324ec88fe20b6191e6811655923e483b121c92a7cad4121610a6af.jpg> 英首相の私邸で不審火 一部損傷
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8f7c7455fd8ed8f48455666d2e7786205c84f9db001e068a1e9060a449d881f1.jpg> インハイ予選 故意に負け再試合へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 16:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 16:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
