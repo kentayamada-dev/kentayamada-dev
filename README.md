@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b2954fc61cb691ae92678695c610da9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12f4cb185f24aa370ed4c2812fdebc33.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6b2fa45abacc4fd8e2bcd2218d523cba8b543ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010006-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=1608&ch=1608&exp=10800&fmt=webp> のん “若き吉永小百合”役で「巨大なプレッシャーに気合入った」吉永は「こんな娘がいたら」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed9842c5db893e01962356e82843f7705f6964f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元県民局長の私的情報など流出に立花氏「情報提供は県職員から」「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『県職員から情報提供』元県民局長の私的情報流出に立花氏「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9966f134cd114439fd1e50a68a83171fbab8905>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971046-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税大幅引き下げは“サプライズ”安心感強めドル買い進む…円相場は一時148円台に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7ef6ec439f9a4aeac3075ee0a56f1e510ea1b9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21910573-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 【LDH JAPAN】ファンレター・プレゼント「受取りを辞退」公式サイトで再度の告知　昨年10月末をもって私書箱契約は終了「フォームをご活用いただけましたら幸い」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b6d96e12f0d4b3c75d5c67d1eea2e2d32e2690826c03af98f9011bd8ee1c9901.jpg> カンヌ映画祭 過激なドレスを禁止
+      <a href=https://news.yahoo.co.jp/pickup/6538669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/05a76912a6937e72544e51451e1472d85515786e85f430e99624a009155a8299.jpg> 吉永小百合 人生初のピアス開けた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 17:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 18:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
