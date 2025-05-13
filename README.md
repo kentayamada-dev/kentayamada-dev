@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4a8787a1e12cad5cc49b18deebb6d60e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e743b2fba18d755b12108dd083935000.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67721f12193728fa990eff385477a2e6c5fead09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236422-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領、トルコで「プーチン氏の到着を待つ」 改めて首脳会談の実施を求める
+      <a href=https://news.yahoo.co.jp/articles/44e83d4982b51d3dadd11ef3b9421439589308ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000015-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1577&ch=1577&exp=10800&fmt=webp> 停戦実現へ首脳会談要求　ゼレンスキー氏が対ロシア圧力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59878a04400d198a2f687a3db7bdbfa1d51c80f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-70171331-bloom_st-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a44226e5e947f4b8130dba442f8d5da5ef82b21c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=972&ch=972&exp=10800&fmt=webp> リチャードが巨人初弾　電撃トレード翌日に阿部監督が熱望　即スタメンに応えた豪快な一発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd7c7c46dbedb60b6ee47828cc322cefc05d2a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000000-mai-000-1-view.jpg?pri=l&w=192&h=122&exp=10800&fmt=webp> トランプ氏、防衛装備品21兆円分をサウジに売却へ　経済協力協定
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6aeea6a27ff231cb4fbea72f3ed4ab6597d0d5d1b98ae27992d24eb591e615fc.jpg> コストコ開業 車増え新市道整備へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/31ee7256e0f189ed3a37afdcc1dd55fad85d00da92d66586db16e2bc567a8a81.jpg> 創業122年の駅そばが閉店 行列
+      <a href=https://news.yahoo.co.jp/pickup/6538716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/d8c40ef5e74bd813444e83449a2fccbf552272205f56ed056c4e8a68d52dae8a.jpg> ウルグアイ ムヒカ元大統領が死去
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/c8ff8c22a8b3b484d1aed12cb2ef3e95e23f799369dea05cb7d808e24e7c6ed7.jpg> ケイン・コスギ11年ぶり「崖CM」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 06:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 06:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
