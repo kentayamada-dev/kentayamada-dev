@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e71467c7b779b989359b813d445b0a9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1eb7b4e303a54b1aed7c592e5d8d1469.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41d6f2708d97a017bf81b5550cad5ce92cacda95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京の中学校で実験中、複数生徒が体調不良
+      <a href=https://news.yahoo.co.jp/articles/12043391cc806b3c68b8f26165c96772cbf8565f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21908904-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日本の秘策?日本車を逆輸入案にアメリカが関心か　米中関税「115％引き下げ」合意　双方なぜ大幅譲歩?【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21d90a21cbc50ec579b7277383bee3b61f4b90f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ大統領、13日から中東3カ国歴訪　大規模ディールに注力へ
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4a17adb8a4667c92b26868951a11afbf75ed7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232891-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【分析】ロシアへの圧力強める欧米、そこに水を差したトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd610b65152c3f8d32d13ed6448e1fe30b174f69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国との追加関税引き下げ、「車・鉄・アルミは対象外」…トランプ大統領が品目別２５％維持の考え示す
+      <a href=https://news.yahoo.co.jp/articles/371280e58eb48898b34ceaa5cb82226140f0787c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04252143-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日銀決定会合「主な意見」　今後の不確実性への指摘相次ぐ一方、「利上げ方針不変」との意見も
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b8c3731195ba336662e25ebfcc93b6a3f25fcd2c9e35a558835d92472daca211.jpg> コメ価格が18週ぶり下落 今後は
+      <a href=https://news.yahoo.co.jp/pickup/6538637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c31442bd7de338ec7013ac2cc5d9ca81b6092488e1240dee049626163ad2f30a.jpg> 空港ビル利益供与 国交相「遺憾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c31442bd7de338ec7013ac2cc5d9ca81b6092488e1240dee049626163ad2f30a.jpg> 空港ビル利益供与 国交相「遺憾」
+      <a href=https://news.yahoo.co.jp/pickup/6538652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/92b4e47d2629dc894248984a314e1f649a1c9bac896fed7afae98ea8e0a49e00.jpg> 情報漏えい疑惑 兵庫県が刑事告発
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6b05c0c190d431d6d5cd0153d3f11e012e4c4b625e98969a4d1bb657df423d69.jpg> ママ友誘い闇バイト 判決にぼう然
+      <a href=https://news.yahoo.co.jp/pickup/6538640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d0d9318130450805f3801b2393f9866028a3b8e21cff84d4df4fbc5b3f5ae3d9.jpg> 盗難仏像が対馬に 住民「涙出る」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 14:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 14:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
