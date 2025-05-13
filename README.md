@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab0d99df9c23a6ac60f1263e7a7904ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6846e2ae2ff7cb1b0738560d253aa233.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9bab0a769ab5bf1a40ff0ef49636fce35b6e4104>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、習氏と協議へ 関税下げ合意受け対中関係「リセット」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f73739684220217c2bb477ab14eaaac5cff0d571>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00535622-theanswer-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鈴木誠也、打点リーグトップに並ぶ！　豪快2ランで4年連続2ケタ本塁打達成、右打者では初　年間38発ペースに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e74d6694d9d6170888d75acfeb9c063ca802e747>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ氏、露とウクライナの和平協議に「役立つなら飛んでいくつもりだ」…中東訪問へ出発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c487b9bd7c84998d51742ffa82cb699dbcfd709>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00633603-raditopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 斎藤・兵庫県知事「怒り抑える“6秒ルール” 実践」4時間のハラスメント防止研修終え…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/461210ea02dc928d4e29e332f4a6ca44e8ac5ee2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=504&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> トランプ氏、ウクライナ直接協議出席を検討  プーチン氏参加は不明<br />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c78b7aa635ab4f3fbf8b08e3a089d7c544b9a582>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178027-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=537&ch=537&exp=10800&fmt=webp> 日経平均株価、一時800円超値上がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5f37f8a5f55cd057d65698383e7f4924823a2b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178025-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 関税めぐる米中高官協議を受け トランプ大統領「今週末にも習主席と電話会談」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/e71bc4e89947a002110727d63109c037d3e2719a1e83738609c29b3ccb1315d7.jpg> トランプ氏 露ウの協議に出席示唆
+      <a href=https://news.yahoo.co.jp/pickup/6538626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/54dae61d4be180fc59e60d7e5ea93be386aead50728dd9b554659b71c39d662e.jpg> 露ウ停戦交渉 双方が主導権争い
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
+      <a href=https://news.yahoo.co.jp/pickup/6538629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8501d7deca9b6c26dc38a78a9ff3f5bd46750f1ad2a43c5eb74f334bd531a64.jpg> 経済安保相 献金住所を使い分け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/542fa8d19460cfbf6cd7cb0af1387d57e31a87cba40f2167af83fc402118151b.jpg> 千葉殺害「複雑な家庭環境」供述
+      <a href=https://news.yahoo.co.jp/pickup/6538622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8b36a69db6c77e0a23b5a2b7a9b5be053b75edf38e994566b13deaec6b0bd82.jpg> 東出 何としてでも生きていける
+      <a href=https://news.yahoo.co.jp/pickup/6538630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/003161973229d92d326b8915f4f87c4af154a1a4208fd534278172f08c0b606a.jpg> 鈴木誠也が10号 両手突き上げる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 10:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 10:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
