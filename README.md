@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33e7b5cf4bbbe32f7ca6b81d518dba5f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff9c03c882655746340de1c9640c3054.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed359f7216fabb5b554fe0515f0d341dfd794cd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050125-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「トランプ氏が会談に同席ならありがたい」ゼレンスキー氏、ロシアに首脳会談の開催を呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/afa5f2b245ab609a351ee8476f0e101bd525ed03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04914365-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】トランプ氏の新たな動き…　ロシアとウクライナ交渉参加？　習主席と電話会談の可能性も示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeee1a2d08797c7857dd9bb0b7c9414a3f80bb3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232913-cnn-000-1-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> トランプ米大統領、サウジアラビアに到着　中東歴訪スタート
+      <a href=https://news.yahoo.co.jp/articles/cdde34c0c5bcf7f588bea11f09c7578a66e6ad64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-09596154-tsb-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 北アルプス・北穂高岳で雪崩に巻き込まれ山梨県の62歳の男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23a851bf70f367635686043b3ddb22824dc8e8b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971288-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博に行かない最多の理由は「興味ない」行った?行ってない?関西の200人に緊急調査 伸び悩む来場者数
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/097d94ab0af543c1e4ca89af9ef9cc3ddf87a44a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=553&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】観光客銃撃テロ事件が引き起こしたインド・パキスタンの軍事的緊張…テロリズムの観点から重要な2つの視点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/630b04b679b378e8e652625b9bd913c53de105b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010005-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自解説】大阪・関西万博　東西ゲート混雑差は“パークアンドライド”が高すぎるのが原因？　開幕1カ月で見えた「課題」を万博担当記者が解説
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538668>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 千葉殺害 中3の父語る当日の様子
+      <a href=https://news.yahoo.co.jp/pickup/6538659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/1a55de57a7cd10e5f76e990e3240a0859dfbd3890d39d72c6b6ad839bcff71be.jpg> 西田氏の謝罪 ひめゆり館長が批判
       </a>
     </td>
   </tr>
@@ -419,7 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538677>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 昨年発見の遺体は誘拐された少女
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7f50d8c7f830eaf61489fa7f113e319e6c316a5051537961f717a4db3f71624a.jpg> 昨年発見の遺体は誘拐された少女
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7ff55bf87319ff6d2bff495a9ec2f07c75f499381a74ca1ee7220571271068b7.jpg> 雪崩に3人巻き込まれる 男性死亡
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d9ca18c69037c824895c5ae46ac831f4e2d53c6772fbdcdadacf0ff29de3c457.jpg> 日産が6708億円の赤字 25年3月期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6021c1184110efad01b3618931d52eb95b411fd59f65873d05c548841b8c483a.jpg> セブン 容器変更で総菜を値下げ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/74475244459f45e1788b01ea3c161aaa8735878d6fba1f33acae502ed79a1aef.jpg> 巨人移籍のリチャード 即スタメン
+      <a href=https://news.yahoo.co.jp/pickup/6538686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/618923a69a03c51c1851fa36f689fb2249b84fe2fcb39b5a7b913187a899381c.jpg> 巨人加入リチャード いきなりHR
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 19:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 20:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
