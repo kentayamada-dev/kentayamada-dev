@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bebd286b9f3ee25ddcf614e4a7220a94.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fb3f16ee405e20c98e80d9a2ec5e7ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95a1d86006ce3e105daaf64fd2ae4ebb7741d570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971355-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 斎藤知事を告発した元県民局長の私的情報がネット上に「漏えい」疑惑　第三者委員会が「公開された情報は県保存のものと同一・漏えい」と判断　「漏えいした人物・経路」不明も県が「地方公務員法違反」疑いで警察に刑事告発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30eef9f3de02aba0ca4a7e6b79a8fbacfbc9238d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000083-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=525&ch=525&exp=10800&fmt=webp> ウクライナとの直接協議　ロシア側の代表者は「プーチン氏が判断」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f74bfabee9d81547864644254245752ee71584f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000153-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=775&ch=775&exp=10800&fmt=webp> 「人を殺したくなった」　逮捕の孫、70代夫婦死亡　愛知
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/572b7addd26c42c6100b3d29484256366a824c60>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-17004117-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】なぜ争うのか…カシミール地方をめぐるインドとパキスタンの対立の歴史
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc1b2cb1df6e6b4f534b4f62b04632cb62e97e0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971322-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=493&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【独自】斎藤知事が受講「ハラスメント」研修を記者が先行体験取材　アンガーマネジメント『6秒ルール』で「風通しよい職場」実現なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afa5f2b245ab609a351ee8476f0e101bd525ed03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04914365-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】トランプ氏の新たな動き…　ロシアとウクライナ交渉参加？　習主席と電話会談の可能性も示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f43f7da60e8ed29e00319e5958fb7914c1b1716>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000023-jij_afp-000-5-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> トランプ氏、中東歴訪でサウジ到着 大型取引に期待
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/081ef9ef0953850575ef7142492637cce6df1324943084bc4a58695be381b579.jpg> トランプ大統領 中東の歴訪を開始
+      <a href=https://news.yahoo.co.jp/pickup/6538699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 米 サウジから1兆ドル投資困難か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/5879919ce67dd3300a7a7dc11ea6308204c4e642e089e848da04fa29c0a5100a.jpg> コメ決して高くない JA全中会長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b16c4f82c363924ab8de35f20f58fafb269670ef05bc3558bd8cb1dc2025f93f.jpg> 70代夫婦死亡 孫「人殺したく」
       </a>
     </td>
   </tr>
@@ -442,22 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/a797c6c678490475c2392cc25b4059849bc13fb4e4696b63fb4109a37bd1c73d.jpg> 広島・中村奨成 4年ぶりの一発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/692a1e4a59218a9f0162651bac877df46fc7930e30b175ee43bc66a86e9a4dcf.jpg> 声優・小倉唯 廃棄品の転売被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/9dbafb28fdfe08e62ca9a8b284bab2b6b1b1ea7b4ff3b1ba9bd043b4b6cd94f1.jpg> 鈴木美智子さん死去 ラジオで活躍
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 22:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
