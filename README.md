@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab62ad16dcd5ba8ed5460ba15e310483.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba8097fa957c0f04e72612c549798ed8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 年金法案を国会に提出へ 修正焦点
+      <a href=https://news.yahoo.co.jp/pickup/6538695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7b8ff4cb76ed9ac0b1c09e7041ef400ec3081c2d3ea358bad496ab44c27d71bc.jpg> 関税 業績見通し「不透明」相次ぐ
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/425dd13397bd0e6256784a16b5bb779f06f2e7f7a1e299c217fc3fceb64bf91c.jpg> 日産2万人削減へ 工場から悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538703>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b16c4f82c363924ab8de35f20f58fafb269670ef05bc3558bd8cb1dc2025f93f.jpg> 70代夫婦死亡 孫「人殺したく」
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/9f356939445529da55537d3e08bbaa81bd2941d2543ca8088eb670286f7054af.jpg> 看板設置中にはねられる 心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6538698>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で拘束の日本人男性 懲役12年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f3d400efb62383d3d85fe2438252ff9037268379415c2be8ee05f8725e30671d.jpg> ゼンショーHD 初の売上高1兆円超
+      <a href=https://news.yahoo.co.jp/pickup/6538705>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 貯蓄増も夫おこづかい横ばい 調査
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/9dbafb28fdfe08e62ca9a8b284bab2b6b1b1ea7b4ff3b1ba9bd043b4b6cd94f1.jpg> 鈴木美智子さん死去 ラジオで活躍
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 22:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 23:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
