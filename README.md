@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fb3f16ee405e20c98e80d9a2ec5e7ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab62ad16dcd5ba8ed5460ba15e310483.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/126776583f65d8fcf96d0ed7a83d571ee6b82e22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000004-saninchuo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 鳥取の山陰道、車両と作業員が衝突事故　作業員が意識不明の重体　浜村鹿野温泉ＩＣ－青谷ＩＣ間下り線で通行止め　鳥取市
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95a1d86006ce3e105daaf64fd2ae4ebb7741d570>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f74bfabee9d81547864644254245752ee71584f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000153-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=775&ch=775&exp=10800&fmt=webp> 「人を殺したくなった」　逮捕の孫、70代夫婦死亡　愛知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/572b7addd26c42c6100b3d29484256366a824c60>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-17004117-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】なぜ争うのか…カシミール地方をめぐるインドとパキスタンの対立の歴史
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23a851bf70f367635686043b3ddb22824dc8e8b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971288-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博に行かない最多の理由は「興味ない」行った?行ってない?関西の200人に緊急調査 伸び悩む来場者数
+      <a href=https://news.yahoo.co.jp/articles/248b63a67672be1d5a9c6148312f5f882687d72c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010019-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博パピリオンで「3億円未払い」下請け建設業者ら怒りの訴え「会社がいつ潰れるかわからない」　外資系の元請けXは“契約不履行” など主張
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/1eb9a2f9b105fde6bfbcd67c1d2ce05bf1a7293e40510615abdc6241977e0663.jpg> 同級生を精神的支配か 脅し金要求
+      <a href=https://news.yahoo.co.jp/pickup/6538707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/9f356939445529da55537d3e08bbaa81bd2941d2543ca8088eb670286f7054af.jpg> 看板設置中にはねられる 心肺停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6aeea6a27ff231cb4fbea72f3ed4ab6597d0d5d1b98ae27992d24eb591e615fc.jpg> コストコ開業 車増え新市道整備へ
+      <a href=https://news.yahoo.co.jp/pickup/6538687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f3d400efb62383d3d85fe2438252ff9037268379415c2be8ee05f8725e30671d.jpg> ゼンショーHD 初の売上高1兆円超
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 22:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 22:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
