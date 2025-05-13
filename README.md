@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6846e2ae2ff7cb1b0738560d253aa233.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c238c2f6b3e9553f345e0ab51b32e9e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bab0a769ab5bf1a40ff0ef49636fce35b6e4104>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、習氏と協議へ 関税下げ合意受け対中関係「リセット」
+      <a href=https://news.yahoo.co.jp/articles/73834c73792fc552ca834a006a2d3068afcea5f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130216-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也が日本選手900号本塁打　左翼へ弾丸ライナー４年連続２桁本塁打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f73739684220217c2bb477ab14eaaac5cff0d571>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00535622-theanswer-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鈴木誠也、打点リーグトップに並ぶ！　豪快2ランで4年連続2ケタ本塁打達成、右打者では初　年間38発ペースに
+      <a href=https://news.yahoo.co.jp/articles/cca82820d6f0b03e438a9215b6accc7f1af7158a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 米中の劇的合意後もトランプ関税の枠組みは維持：日米関税協議の難航も続く
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e74d6694d9d6170888d75acfeb9c063ca802e747>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ氏、露とウクライナの和平協議に「役立つなら飛んでいくつもりだ」…中東訪問へ出発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050044-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ氏、露とウクライナの和平協議に「役立つなら飛んでいくつもりだ」…中東訪問へ出発
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6ca6efde399b6df76807a394190ce5b3798d2cb130eda6d5332eaf00e8d27999.jpg> 日経平均 一時800円超値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6538629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8501d7deca9b6c26dc38a78a9ff3f5bd46750f1ad2a43c5eb74f334bd531a64.jpg> 経済安保相 献金住所を使い分け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8501d7deca9b6c26dc38a78a9ff3f5bd46750f1ad2a43c5eb74f334bd531a64.jpg> 経済安保相 献金住所を使い分け
+      <a href=https://news.yahoo.co.jp/pickup/6538628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fc4b06a89dc4c732adbd78669c1681372ff21d1ca228c74750962ffca5e16994.jpg> ネットのデマ2人に1人信じる 調査
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/25df9b53c1b89e6d600ec89e15022e90fe5fd282a1514ff129de3dbc4d5b7a70.jpg> iPhoneバッテリー AI活用で改善へ
+      <a href=https://news.yahoo.co.jp/pickup/6538625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/1be3c8c2f78a8769f4b9f1469d04b841d318188ac8df85a195ad435e0608daa5.jpg> Googleロゴ 約10年ぶりの刷新
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 10:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 11:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
