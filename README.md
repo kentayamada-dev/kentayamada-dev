@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1eb7b4e303a54b1aed7c592e5d8d1469.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f447f76df5b5376ca4f0f2e394fd891.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e79e62a2b1d298ee3dc27b39f722d6ee55b23c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130595-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=705&ch=705&exp=10800&fmt=webp> 【ソフトバンク】城島健司CBO、巨人が「どうしても獲得したい」リチャードのトレードに言及
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12043391cc806b3c68b8f26165c96772cbf8565f>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/371280e58eb48898b34ceaa5cb82226140f0787c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04252143-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日銀決定会合「主な意見」　今後の不確実性への指摘相次ぐ一方、「利上げ方針不変」との意見も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b006621f13fd89625ab12a141ee4d5ac306b7b7a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236195-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下請け業者の工事費用、一部未払いに　大阪・関西万博の海外パビリオン建設
       </a>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3843554375e2707fe28ddb741a15d7a4c9d639195f39d5ab4bfca3aa57896c10.jpg> 自公幹部 秋の補正予算検討で一致
+      <a href=https://news.yahoo.co.jp/pickup/6538654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/ef8227164d3cd15e240a6a80753836588d62951dddece9c4885d6b30a2d4cb0c.jpg> 日銀会合 米関税への懸念相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c31442bd7de338ec7013ac2cc5d9ca81b6092488e1240dee049626163ad2f30a.jpg> 空港ビル利益供与 国交相「遺憾」
+      <a href=https://news.yahoo.co.jp/pickup/6538644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/09b79feb2a324ec88fe20b6191e6811655923e483b121c92a7cad4121610a6af.jpg> 英首相の私邸で不審火 一部損傷
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b9b97f151191cc2bb5700c17cff5c9ab92137f0c2a3e3246ae0fb3a67a6c51ea.jpg> 広島大キャンパス内に不発弾か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538640>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d0d9318130450805f3801b2393f9866028a3b8e21cff84d4df4fbc5b3f5ae3d9.jpg> 盗難仏像が対馬に 住民「涙出る」
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6631de1b4321a800c1a98857b10a31e5734a5a27d31489f2f69112a8ff24376d.jpg> 「ゆる転職活動」若手が語る内実
+      <a href=https://news.yahoo.co.jp/pickup/6538647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/202a5fc66b4751462ae10c0c8cd9ac437ac85c83ae8ad107071d13e0c246c805.jpg> 新技術 空中に超音波で触感を作る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7322b7c5ffe10333dc572dd35013799884ed0872678d89cd338284d1483d6b00.jpg> 電撃トレード 城島氏が明かす裏側
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 14:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 15:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
