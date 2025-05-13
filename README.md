@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/efc3591c3d7fbf7c65a7be14cf5b1104.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a8787a1e12cad5cc49b18deebb6d60e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a44226e5e947f4b8130dba442f8d5da5ef82b21c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=972&ch=972&exp=10800&fmt=webp> リチャードが巨人初弾　電撃トレード翌日に阿部監督が熱望　即スタメンに応えた豪快な一発
+      <a href=https://news.yahoo.co.jp/articles/67721f12193728fa990eff385477a2e6c5fead09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236422-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領、トルコで「プーチン氏の到着を待つ」 改めて首脳会談の実施を求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c2da178861f9b749d8914ec8f1a906793e18090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏「強力な制裁を」　ロシアとの首脳会談実現せずの場合
+      <a href=https://news.yahoo.co.jp/articles/a44226e5e947f4b8130dba442f8d5da5ef82b21c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=972&ch=972&exp=10800&fmt=webp> リチャードが巨人初弾　電撃トレード翌日に阿部監督が熱望　即スタメンに応えた豪快な一発
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/72aa06ce79c65dbc7fb1893f884415f04ba2007f7568db188cd11cf0002b636a.jpg> 中国 対米報復関税14日に引き下げ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/add257ba36de8246175f2b67f39a78866e14b4b698195bce86058156449b1e1f.jpg> 中国 対米報復関税14日に引き下げ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 05:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 06:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
