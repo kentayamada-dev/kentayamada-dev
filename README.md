@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e743b2fba18d755b12108dd083935000.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8a24711698c67a046e9fb068862d4f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44e83d4982b51d3dadd11ef3b9421439589308ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000015-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1577&ch=1577&exp=10800&fmt=webp> 停戦実現へ首脳会談要求　ゼレンスキー氏が対ロシア圧力
+      <a href=https://news.yahoo.co.jp/articles/23baf6424ac0e596790c1663766969e0f5631c11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> ロシア・ウクライナ直接協議　トランプ氏、ルビオ国務長官を派遣へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59878a04400d198a2f687a3db7bdbfa1d51c80f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-70171331-bloom_st-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+      <a href=https://news.yahoo.co.jp/articles/23075dbf54c0a7fc3d58dcbb98cf3fbc93e17ec7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000009-ann-000-5-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏　サウジアラビアと経済協力の協定に署名　約89兆円の巨額投資を取り付け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a44226e5e947f4b8130dba442f8d5da5ef82b21c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=972&ch=972&exp=10800&fmt=webp> リチャードが巨人初弾　電撃トレード翌日に阿部監督が熱望　即スタメンに応えた豪快な一発
+      <a href=https://news.yahoo.co.jp/articles/6848f4da208529320232ca1c8a40bea641ead3f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35232916-cnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏、対シリア制裁解除の意向を表明　暫定大統領と面会へ
       </a>
     </td>
   </tr>
@@ -386,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/add257ba36de8246175f2b67f39a78866e14b4b698195bce86058156449b1e1f.jpg> 中国 対米報復関税14日に引き下げ
+      <a href=https://news.yahoo.co.jp/pickup/6538719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/229cf6d8468639cfedfd24c3cb8ca2c0d9fab7ab41da6a2232ec95c523de192d.jpg> 経済安保の調査機関創設 政府検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8ceabbb7d7498e8df63c0dc7c6e006f46f80d2ff104e105cf0404daf293b9d2e.jpg> トランプ氏 対シリア制裁を解除へ
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538711>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/425dd13397bd0e6256784a16b5bb779f06f2e7f7a1e299c217fc3fceb64bf91c.jpg> 日産2万人削減へ 工場から悲鳴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3d7bfe3085306db974701b66259f3b2224f5ebf3f3f9f91fa7d68472fa9e1917.jpg> 万博巡り3億円未払いか 業者怒り
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 06:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 07:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
