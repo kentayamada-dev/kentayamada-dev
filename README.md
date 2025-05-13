@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/960d18568765cf0f92e771e49dce9f96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e71467c7b779b989359b813d445b0a9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41d6f2708d97a017bf81b5550cad5ce92cacda95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京の中学校で実験中、複数生徒が体調不良
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88e6ec1dd2ee085a194ea1dcc7728ff5bcff6f20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 立花氏公開の元兵庫県幹部の私的情報「漏えい者不明」　第三者委結論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4a17adb8a4667c92b26868951a11afbf75ed7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232891-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【分析】ロシアへの圧力強める欧米、そこに水を差したトランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd610b65152c3f8d32d13ed6448e1fe30b174f69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050066-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国との追加関税引き下げ、「車・鉄・アルミは対象外」…トランプ大統領が品目別２５％維持の考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/834009c535b7703c90bdb76e321edae4abb70106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130352-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=250&cw=1000&ch=1000&exp=10800&fmt=webp> イシケン「踏み込んで説明して」　ハラスメント研修受講の斎藤元彦兵庫県知事に注文
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c84d4805557e76573ef3301c4627b643ba164495>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000035-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公　追加の経済対策　秋に補正予算案編成で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/232921acb095d2e43c1e4f1623de46316e830931>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21908905-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「トルコでプーチンを待つ」ウクライナ×ロシア“直接協議”は実現するか?　初めての会見で新教皇「戦争にNOを」 ゼレンスキー氏と電話会談も【news23】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国との追加関税引き下げ、「車・鉄・アルミは対象外」…トランプ大統領が品目別２５％維持の考え示す
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/0d20f9f3f4c9f05de3569a083c6eba08a65f5f0a2765f9cde0bd3c635ea6f479.jpg> 中学で硫化水素が発生か 2人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538643>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b9b97f151191cc2bb5700c17cff5c9ab92137f0c2a3e3246ae0fb3a67a6c51ea.jpg> 広島大キャンパス内に不発弾か
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7f785806289f6ef70b211b7c472b1dc6e9ff899b764e7aaffe6069ba32d390d1.jpg> 小学校の満開の桜 突然伐採に苦情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538645>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8f7c7455fd8ed8f48455666d2e7786205c84f9db001e068a1e9060a449d881f1.jpg> インハイ予選 故意に負け再試合へ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 13:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 14:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
