@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff9c03c882655746340de1c9640c3054.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95986b30483b1f5a5cd1f9aa5f4f20d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afa5f2b245ab609a351ee8476f0e101bd525ed03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04914365-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】トランプ氏の新たな動き…　ロシアとウクライナ交渉参加？　習主席と電話会談の可能性も示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdde34c0c5bcf7f588bea11f09c7578a66e6ad64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-09596154-tsb-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 北アルプス・北穂高岳で雪崩に巻き込まれ山梨県の62歳の男性死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04914365-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】トランプ氏の新たな動き…　ロシアとウクライナ交渉参加？　習主席と電話会談の可能性も示唆
       </a>
     </td>
   </tr>
@@ -374,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23a851bf70f367635686043b3ddb22824dc8e8b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971288-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博に行かない最多の理由は「興味ない」行った?行ってない?関西の200人に緊急調査 伸び悩む来場者数
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971288-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博に行かない最多の理由は「興味ない」行った?行ってない?関西の200人に緊急調査 伸び悩む来場者数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/961467453f0db423f072d4907d4496b648d06a07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000116-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=638&ch=638&exp=10800&fmt=webp> 鈴木美智子さん死去　タレント
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d9ca18c69037c824895c5ae46ac831f4e2d53c6772fbdcdadacf0ff29de3c457.jpg> 日産が6708億円の赤字 25年3月期
+      <a href=https://news.yahoo.co.jp/pickup/6538688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/283b6b5dde98a2774d1603266f397dbdf52f5fa024fcc481fcfdf724c4d283d4.jpg> ホンダ社長 日産と統合は当分ない
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c7b93c9fd9cc9e2888e3315a5bd56f669d32e9e3e62063ee9ad8f280962b6b29.jpg> スポーツ店にコメ巡る苦情 困惑
+      <a href=https://news.yahoo.co.jp/pickup/6538686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/618923a69a03c51c1851fa36f689fb2249b84fe2fcb39b5a7b913187a899381c.jpg> 巨人加入リチャード いきなりHR
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/618923a69a03c51c1851fa36f689fb2249b84fe2fcb39b5a7b913187a899381c.jpg> 巨人加入リチャード いきなりHR
+      <a href=https://news.yahoo.co.jp/pickup/6538689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/9dbafb28fdfe08e62ca9a8b284bab2b6b1b1ea7b4ff3b1ba9bd043b4b6cd94f1.jpg> 鈴木美智子さん死去 ラジオで活躍
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 20:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 20:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
