@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acfff69be04649ca5641d077b3fd8045.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/547f8231e1ba7eb8e3c32c118029c9b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71e9dd6836836aa4b14f05816a54c7adea755b88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-05131265-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 【ソフトバンク】巨人・リチャードのホームランデビューに師匠・山川も小久保監督も大喜び
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a1d86006ce3e105daaf64fd2ae4ebb7741d570>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971355-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 斎藤知事を告発した元県民局長の私的情報がネット上に「漏えい」疑惑　第三者委員会が「公開された情報は県保存のものと同一・漏えい」と判断　「漏えいした人物・経路」不明も県が「地方公務員法違反」疑いで警察に刑事告発
+      <a href=https://news.yahoo.co.jp/articles/cfd7c7c46dbedb60b6ee47828cc322cefc05d2a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000000-mai-000-1-view.jpg?pri=l&w=192&h=122&exp=10800&fmt=webp> トランプ氏、防衛装備品21兆円分をサウジに売却へ　経済協力協定
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 02:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 03:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
