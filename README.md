@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be2fa4db57f06be16565d60be6a9a6a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c11b0e3aa384cba6a4ec7890755d355b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d48fec2e220cd56a2de4adb989a8b2f0331f540c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000004-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 「教育熱心な親のせいで不登校に」…東大前駅で無差別刺傷「地元記者が感じた」受験熱高い住宅街の変化
+      <a href=https://news.yahoo.co.jp/articles/0529ad37aeb88a48d19b925f73bae409d231a9bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970766-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰でもいいんなら俺を殺せって感じですよ」逮捕された15歳少年の祖父「やりようがない」　84歳女性刺殺の疑い　千葉市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e83e580824ff48f1bd3b830e1028d55721b733c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000190-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=747&ch=747&exp=10800&fmt=webp> 〈独自〉万博海外館で建設費2億円未払いか　突貫工事があだ、天井たわみや冷風機器故障も　万博展望㊤
+      <a href=https://news.yahoo.co.jp/articles/e4ae246dc3ce2dff86676b10cb7d7575919dd83a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000021-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中国主席と「今週末に会談」　良好な関係強調　米大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9558cdabda273450cbeb82423ff12a817923fd9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000015-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン大統領「１５日に交渉」　ゼレンスキー大統領「待つ」…首脳会談実現は未知数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5584cfbb7b190765cd7367137868c37bfeb116a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-kantele-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【万博】「パークアンドライド駐車場」吉村知事が駐車料金値下げ提案も　博覧会協会事務総長は「今の段階で『検討します』という状況ではない」　基本料金が『5000～5500円　土日でも3割程度の利用』
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2cfe724a2fd53614c643c68848626842bb1213f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000176-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 阿部巨人、2対1の電撃トレードで岡本の代役三塁手リチャード獲得！　期待され続けた左右のロマン砲を〝交換〟秋広優人＆救援左腕・大江竜聖がソフトバンクへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/702f23e99803be81ec780126982bd7f52d7edf0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970758-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナのゼレンスキー大統領がトルコのエルドアン大統領と電話会談　ロシアとの直接交渉への全面的な支援に謝意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10c53961db4ac01387ce4192a5c077af9404ee94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中首脳の電話会談に意欲　トランプ米大統領「今週末にも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000176-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 阿部巨人、2対1の電撃トレードで岡本の代役三塁手リチャード獲得！　期待され続けた左右のロマン砲を〝交換〟秋広優人＆救援左腕・大江竜聖がソフトバンクへ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c996253ea887da8b34a3af6b5a4240d76b8f4a8bcfcd247153e73577ebc8300d.jpg> 返礼品「水」業者 突然の事業停止
+      <a href=https://news.yahoo.co.jp/pickup/6538621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/3fd7918ff14d0cc16ae7a44354da9eb569756cf47c78606e879e500eda20fe2e.jpg> 4月にはねられた男児 意識回復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/aee548890139c0454441f756a5a581668f494c4fa674cc08079120dab5a2f3ac.jpg> Apple iPhone値上げ検討と米報道
+      <a href=https://news.yahoo.co.jp/pickup/6538617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c996253ea887da8b34a3af6b5a4240d76b8f4a8bcfcd247153e73577ebc8300d.jpg> 返礼品「水」業者 突然の事業停止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 08:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 09:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
