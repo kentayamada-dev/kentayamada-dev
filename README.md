@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c238c2f6b3e9553f345e0ab51b32e9e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/524bf1f03fd330b1f40ab5219a5e5f86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73834c73792fc552ca834a006a2d3068afcea5f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130216-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也が日本選手900号本塁打　左翼へ弾丸ライナー４年連続２桁本塁打
+      <a href=https://news.yahoo.co.jp/articles/f8781322614d3ad25274bd5525ac9d402f9da274>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000127-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 鈴木誠也が4年連続2桁本塁打　10号2ランでリーグ2位の34打点　カブス勝利でNL中地区首位を堅守
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac38f3c6bb64628ee909f26dbc83cc0d768899c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、ロシアとの協議に米国が参加なら「歓迎」　トランプ氏も出席を示唆
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cca82820d6f0b03e438a9215b6accc7f1af7158a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 米中の劇的合意後もトランプ関税の枠組みは維持：日米関税協議の難航も続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e74d6694d9d6170888d75acfeb9c063ca802e747>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00050044-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> トランプ氏、露とウクライナの和平協議に「役立つなら飛んでいくつもりだ」…中東訪問へ出発
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/dbb4821f7dfb371ec156787a249377ae5fda1bcf271e1a1ee5b73483adec40ad.jpg> 印パ停戦合意 両首相が戦果を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8501d7deca9b6c26dc38a78a9ff3f5bd46750f1ad2a43c5eb74f334bd531a64.jpg> 経済安保相 献金住所を使い分け
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
+      <a href=https://news.yahoo.co.jp/pickup/6538632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f5a1317628529e53cf104421132e955695e49b8e1d00e36cd5ae45343fead046.jpg> マック 米で夏に37万人雇用の方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/3fd7918ff14d0cc16ae7a44354da9eb569756cf47c78606e879e500eda20fe2e.jpg> 4月にはねられた男児 意識回復
+      <a href=https://news.yahoo.co.jp/pickup/6538633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6b05c0c190d431d6d5cd0153d3f11e012e4c4b625e98969a4d1bb657df423d69.jpg> ママ友誘い闇バイト 判決にぼう然
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 11:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 11:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
