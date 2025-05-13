@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8a24711698c67a046e9fb068862d4f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50243e2bb2e28ee7943ae28b2ee04f3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23baf6424ac0e596790c1663766969e0f5631c11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> ロシア・ウクライナ直接協議　トランプ氏、ルビオ国務長官を派遣へ
+      <a href=https://news.yahoo.co.jp/articles/4e83e13c31e85a3b37dfece447ee20589acd0e6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178195-abemav-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> トランプ大統領、サウジアラビアからの巨額投資などで合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23075dbf54c0a7fc3d58dcbb98cf3fbc93e17ec7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000009-ann-000-5-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏　サウジアラビアと経済協力の協定に署名　約89兆円の巨額投資を取り付け
+      <a href=https://news.yahoo.co.jp/articles/f893c2a522d31438faa39c9afc2854171687adc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000020-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=596&ch=596&exp=10800&fmt=webp> 首脳会談提案「ロシア沈黙」　ウクライナ大統領、停戦無視も批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6848f4da208529320232ca1c8a40bea641ead3f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35232916-cnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏、対シリア制裁解除の意向を表明　暫定大統領と面会へ
+      <a href=https://news.yahoo.co.jp/articles/36959dfce6e5fceb9cfc0782fb1432c728435f42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000008-ann-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 故ピート・ローズ氏の資格回復決定をMLB発表　野球賭博関与で永久追放、去年死去
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/367c601fbd477372d8960020c63393aa04e285d1b542e114763ef51cc68dcbd4.jpg> 乱調のエース戸郷 巨人監督が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6538720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2d0791339f4d8e5bb0d684851aa8411f67b648eb469c4294b54646d0bce2e72d.jpg> 故ピート・ローズ氏 永久追放解消
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 07:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 07:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
