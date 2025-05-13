@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be7dd3b0d38882b1671d642b35ae2d39.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b04759116be80b00b8497f2779078dc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da9d0c7b96a51635afc18d599f7e6c934a61893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050043-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=40&cw=393&ch=393&exp=10800&fmt=webp> 故ピート・ローズ氏の資格回復、ＭＬＢが発表…野球賭博で永久追放処分
+      <a href=https://news.yahoo.co.jp/articles/2839659fac4d68fe8b45da06b440faa6a7c3283c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178204-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=975&ch=975&exp=10800&fmt=webp> MLB、故ピート・ローズ氏の資格回復を決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eddaa7704149337df3bde65c18d04078b548c0cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米大統領、ルビオ国務長官を派遣　トルコでのウクライナ停戦協議
+      <a href=https://news.yahoo.co.jp/articles/384d6439047f0465d0c1ef79ae51a3feabe26352>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「プーチン氏としか会談しない」ウクライナ大統領がトルコ訪問へ　米は国務長官ら派遣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e83e13c31e85a3b37dfece447ee20589acd0e6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178195-abemav-000-2-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> トランプ大統領、サウジアラビアからの巨額投資などで合意
+      <a href=https://news.yahoo.co.jp/articles/04cdfa0816c4a2839bda12da1e8497f8fa979c8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000062-zdn_n-000-1-view.jpg?pri=l&w=192&h=147&exp=10800&fmt=webp> NVIDIA、Amazon（AWS）、AMDがサウジHUMAINとAI推進で提携　サウジは米国に6000億ドル投資
       </a>
     </td>
   </tr>
@@ -384,14 +384,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/229cf6d8468639cfedfd24c3cb8ca2c0d9fab7ab41da6a2232ec95c523de192d.jpg> 経済安保の調査機関創設 政府検討
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538718>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/d8c40ef5e74bd813444e83449a2fccbf552272205f56ed056c4e8a68d52dae8a.jpg> ウルグアイ ムヒカ元大統領が死去
+      <a href=https://news.yahoo.co.jp/pickup/6538724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd164fe0ed2fdf06dd5545e72981e8a9c32b565d94dea1c3fdb22406bcf65088.jpg> ロボット前で5歳児いい子に 実験
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/065e3e43bbf0826469ac51162cfb38b47d6eaa1a2cbb9d807e10bf3a699c4cd9.jpg> DeNA坂本 背番号117でマウンドに
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 08:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 08:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
