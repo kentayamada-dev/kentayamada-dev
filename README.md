@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12f4cb185f24aa370ed4c2812fdebc33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e47cc9af19dcbbdd0857ccc719f86c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6b2fa45abacc4fd8e2bcd2218d523cba8b543ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010006-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=1608&ch=1608&exp=10800&fmt=webp> のん “若き吉永小百合”役で「巨大なプレッシャーに気合入った」吉永は「こんな娘がいたら」
+      <a href=https://news.yahoo.co.jp/articles/61becbf32b8789259046c513a883ab78ed8d512a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21911128-tuy-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】犯人は過去にも自殺ほう助などで逮捕...　県内の少女が誘拐され遺体で発見　福島市の無職の男を未成年者誘拐で逮捕（山形）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39329ee6e5ccf7fd718f4d31cdcebce9e19ca08d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232912-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「理性が勝つことを願う」とパキスタン外相　インドとの停戦後に語る
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed9842c5db893e01962356e82843f7705f6964f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『県職員から情報提供』元県民局長の私的情報流出に立花氏「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-4-thumb.jpg?exp=10800&fmt=webp> 『県職員から情報提供』元県民局長の私的情報流出に立花氏「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/688781e2cd0739ca02705d44a35a6d79cb339728>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 軍事衝突の妥協点探ったインドとパキスタン　奏功した米の仲介
+      <a href=https://news.yahoo.co.jp/articles/dc83634549b5a87686d3725aece1450b10e37c44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首脳会談以外は無意味とウクライナ高官
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9966f134cd114439fd1e50a68a83171fbab8905>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971046-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税大幅引き下げは“サプライズ”安心感強めドル買い進む…円相場は一時148円台に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/323ad382944b259a9ae9ad6221fdbf4a85a41211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971026-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がロシアとウクライナの直接交渉に出席する可能性を示唆　中東3カ国の最初の訪問国サウジアラビアに到着
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538661>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02205843/title-1747019116946.jpeg?exp=10800> 小1の壁対策に朝の居場所 課題は
+      <a href=https://news.yahoo.co.jp/pickup/6538668>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 千葉殺害 中3の父語る当日の様子
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538677>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 昨年発見の遺体は誘拐された少女
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d9ca18c69037c824895c5ae46ac831f4e2d53c6772fbdcdadacf0ff29de3c457.jpg> 日産が6708億円の赤字 25年3月期
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538668>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 千葉殺害 中3の父語る当日の様子
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8530b5c693a5566407c5f4b8f9795b3a232f240723dff3236a3e42cddd2ff65a.jpg> アメリカ産100%米販売へ イオン
+      <a href=https://news.yahoo.co.jp/pickup/6538633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6b05c0c190d431d6d5cd0153d3f11e012e4c4b625e98969a4d1bb657df423d69.jpg> ママ友誘い闇バイト 判決にぼう然
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538663>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6021c1184110efad01b3618931d52eb95b411fd59f65873d05c548841b8c483a.jpg> セブン 容器変更で総菜を値下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/05a76912a6937e72544e51451e1472d85515786e85f430e99624a009155a8299.jpg> 吉永小百合 人生初のピアス開けた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 18:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 18:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
