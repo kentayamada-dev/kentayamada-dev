@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95986b30483b1f5a5cd1f9aa5f4f20d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db47ed0fe2dca5adf2afa29c9d566186.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1483f52fa201e725720e1828d1cdb8424bf69195>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21910687-rkkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本で発見「新属・新種の翼竜」　研究チームが『ニッポノプテルス・ミフネンシス』と命名
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/572b7addd26c42c6100b3d29484256366a824c60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-17004117-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 【解説】なぜ争うのか…カシミール地方をめぐるインドとパキスタンの対立の歴史
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afa5f2b245ab609a351ee8476f0e101bd525ed03>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-04914365-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】トランプ氏の新たな動き…　ロシアとウクライナ交渉参加？　習主席と電話会談の可能性も示唆
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23a851bf70f367635686043b3ddb22824dc8e8b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971288-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博に行かない最多の理由は「興味ない」行った?行ってない?関西の200人に緊急調査 伸び悩む来場者数
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/961467453f0db423f072d4907d4496b648d06a07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000116-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=638&ch=638&exp=10800&fmt=webp> 鈴木美智子さん死去　タレント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/097d94ab0af543c1e4ca89af9ef9cc3ddf87a44a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=553&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】観光客銃撃テロ事件が引き起こしたインド・パキスタンの軍事的緊張…テロリズムの観点から重要な2つの視点
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b4b3fd6a471c6e5e6f08bf5932bb9e19ddd44e833e01221706fa56869060a1a9.jpg> 首相とWTO 多国間貿易を維持
+      <a href=https://news.yahoo.co.jp/pickup/6538682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/081ef9ef0953850575ef7142492637cce6df1324943084bc4a58695be381b579.jpg> トランプ大統領 中東の歴訪を開始
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7ff55bf87319ff6d2bff495a9ec2f07c75f499381a74ca1ee7220571271068b7.jpg> 雪崩に3人巻き込まれる 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/1eb9a2f9b105fde6bfbcd67c1d2ce05bf1a7293e40510615abdc6241977e0663.jpg> 同級生を精神的支配か 脅し金要求
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/618923a69a03c51c1851fa36f689fb2249b84fe2fcb39b5a7b913187a899381c.jpg> 巨人加入リチャード いきなりHR
+      <a href=https://news.yahoo.co.jp/pickup/6538693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/692a1e4a59218a9f0162651bac877df46fc7930e30b175ee43bc66a86e9a4dcf.jpg> 声優・小倉唯 廃棄品の転売被害
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 20:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 21:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
