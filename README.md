@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e47cc9af19dcbbdd0857ccc719f86c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90b2886abd05cf3b1e6f9ab2b8d056b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61becbf32b8789259046c513a883ab78ed8d512a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21911128-tuy-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】犯人は過去にも自殺ほう助などで逮捕...　県内の少女が誘拐され遺体で発見　福島市の無職の男を未成年者誘拐で逮捕（山形）
+      <a href=https://news.yahoo.co.jp/articles/5f28580c3cc6259701b45b3f5e40ee0459713845>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-90008409-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形】SNSで知り合った未成年の女性誘拐・福島の男逮捕　男女3人に対し自殺ほう助でも起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/313b2156756b61513cee3e3098c71244c01ba53b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000297-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> 巨人のリチャード　注目の移籍第1打席は空振り三振　初球の豪快フルスイングに敵地マツダどよめく
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39329ee6e5ccf7fd718f4d31cdcebce9e19ca08d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35232912-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「理性が勝つことを願う」とパキスタン外相　インドとの停戦後に語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed9842c5db893e01962356e82843f7705f6964f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-4-thumb.jpg?exp=10800&fmt=webp> 『県職員から情報提供』元県民局長の私的情報流出に立花氏「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f4e7d2297b4790ae133b9b5a1ed8309617f1c5f96fff93eba64b6090681bdfd8.jpg> 森友文書に欠落 財務相「不適切」
+      <a href=https://news.yahoo.co.jp/pickup/6538679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b4b3fd6a471c6e5e6f08bf5932bb9e19ddd44e833e01221706fa56869060a1a9.jpg> 首相とWTO 多国間貿易を維持
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8bfddba35b1d4cf11b3456f7c0f602b335d8f5e9dacb94853b8705d5c399b12a.jpg> LDH 手紙受け取り終了巡り再告知
+      <a href=https://news.yahoo.co.jp/pickup/6538674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/74475244459f45e1788b01ea3c161aaa8735878d6fba1f33acae502ed79a1aef.jpg> 巨人移籍のリチャード 即スタメン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 18:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 19:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
