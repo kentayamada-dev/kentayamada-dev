@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f447f76df5b5376ca4f0f2e394fd891.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54f42a3be06c2861cd96c5eb0bc6d3f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e79e62a2b1d298ee3dc27b39f722d6ee55b23c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-35130595-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=705&ch=705&exp=10800&fmt=webp> 【ソフトバンク】城島健司CBO、巨人が「どうしても獲得したい」リチャードのトレードに言及
+      <a href=https://news.yahoo.co.jp/articles/61c5835145b73d509425cb45449207bbb4138578>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000054-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドとパキスタンが前線部隊の縮小を検討　両国軍幹部が協議し合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d4adce999017c768eaaad0db7c801a7da355572>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010031-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=1676&ch=1676&exp=10800&fmt=webp> 「自立してどれだけ力を出せるか」　ソフトバンク小久保監督、巨人に移籍のリチャードにエール
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21d90a21cbc50ec579b7277383bee3b61f4b90f4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ大統領、13日から中東3カ国歴訪　大規模ディールに注力へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88e6ec1dd2ee085a194ea1dcc7728ff5bcff6f20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 立花氏公開の元兵庫県幹部の私的情報「漏えい者不明」　第三者委結論
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d0d9318130450805f3801b2393f9866028a3b8e21cff84d4df4fbc5b3f5ae3d9.jpg> 盗難仏像が対馬に 住民「涙出る」
+      <a href=https://news.yahoo.co.jp/pickup/6538639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/38fa807cc474a9a6a6e611d04352873d4cd874bbbedc195aca3bfbe5bf6f9dd5.jpg> お産「空白地域」拡大か 住民懸念
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 15:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 15:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
