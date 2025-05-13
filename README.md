@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42b06cb723e03903a6b4c5e313c75629.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52c6d5ef7c9ab02f41c671bb53999ef0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bab6b3e489f7e2370f55815603ad1be785a956e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 戦闘終結には首脳会談必要とゼレンスキー氏
+      <a href=https://news.yahoo.co.jp/articles/4588d0dacc87a64b84bbf37e8cc96ead678130dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏「米大統領を招待」　ロシアとの直接協議に
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71e9dd6836836aa4b14f05816a54c7adea755b88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-05131265-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 【ソフトバンク】巨人・リチャードのホームランデビューに師匠・山川も小久保監督も大喜び
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-05131265-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 【ソフトバンク】巨人・リチャードのホームランデビューに師匠・山川も小久保監督も大喜び
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/248b63a67672be1d5a9c6148312f5f882687d72c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010019-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博パピリオンで「3億円未払い」下請け建設業者ら怒りの訴え「会社がいつ潰れるかわからない」　外資系の元請けXは“契約不履行” など主張
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7b8ff4cb76ed9ac0b1c09e7041ef400ec3081c2d3ea358bad496ab44c27d71bc.jpg> 関税 業績見通し「不透明」相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6538706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f3b0fbe62f99797066b0dd45830cde806792245e02a5d89b6c48c229698b2ecf.jpg> ウ大統領 露大統領と直接会談主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f3b0fbe62f99797066b0dd45830cde806792245e02a5d89b6c48c229698b2ecf.jpg> ウ大統領 露大統領と直接会談主張
+      <a href=https://news.yahoo.co.jp/pickup/6538713>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 高市氏 消費税巡り首相に不満表明
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3d7bfe3085306db974701b66259f3b2224f5ebf3f3f9f91fa7d68472fa9e1917.jpg> 万博巡り3億円未払いか 業者怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538697>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6aeea6a27ff231cb4fbea72f3ed4ab6597d0d5d1b98ae27992d24eb591e615fc.jpg> コストコ開業 車増え新市道整備へ
       </a>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/172b130358113108808b055fdd3e51f928ced57e18d30534585f99fd44b1d297.jpg> ジョコ マレー氏とコーチ関係終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/68601677683a25e10c96abedfbac8ba3b589c805193fcd2d0ab7531cfeae2be5.jpg> 巨人リチャードがHR SB監督喜ぶ
+      <a href=https://news.yahoo.co.jp/pickup/6538714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/367c601fbd477372d8960020c63393aa04e285d1b542e114763ef51cc68dcbd4.jpg> 乱調のエース戸郷 巨人監督が苦言
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 23:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 23:51:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
