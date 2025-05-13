@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/524bf1f03fd330b1f40ab5219a5e5f86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7c227497418fd964b0c6c57e9a8f0b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8781322614d3ad25274bd5525ac9d402f9da274>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000127-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 鈴木誠也が4年連続2桁本塁打　10号2ランでリーグ2位の34打点　カブス勝利でNL中地区首位を堅守
+      <a href=https://news.yahoo.co.jp/articles/561550f383e48c5efa98761d2d04189512ca6c5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970826-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税“合意”受け日経平均は一時800円超値上がり　トランプ大統領「関係は非常に良い」週末に習主席と電話会談か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac38f3c6bb64628ee909f26dbc83cc0d768899c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、ロシアとの協議に米国が参加なら「歓迎」　トランプ氏も出席を示唆
+      <a href=https://news.yahoo.co.jp/articles/ab70f3e7303f4c2abbc66a233754eac54fb077ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000027-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税115％引き下げ合意　トランプ大統領「関係非常に良好」貿易戦争が緩和局面へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cca82820d6f0b03e438a9215b6accc7f1af7158a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 米中の劇的合意後もトランプ関税の枠組みは維持：日米関税協議の難航も続く
+      <a href=https://news.yahoo.co.jp/articles/df9b93fdbea40ce38891d244818de5a94ee2b286>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-nagasaki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=478&ch=478&exp=10800&fmt=webp> 対馬の盗難仏像が返還、歓迎ムードの中「むなしさ」も…続いた韓国との紆余曲折「今はまず喜びたい」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d8501d7deca9b6c26dc38a78a9ff3f5bd46750f1ad2a43c5eb74f334bd531a64.jpg> 経済安保相 献金住所を使い分け
+      <a href=https://news.yahoo.co.jp/pickup/6538631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b8c3731195ba336662e25ebfcc93b6a3f25fcd2c9e35a558835d92472daca211.jpg> コメ価格が18週ぶり下落 今後は
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538628>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fc4b06a89dc4c732adbd78669c1681372ff21d1ca228c74750962ffca5e16994.jpg> ネットのデマ2人に1人信じる 調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d350791d4bf4972f51db00b03331fdff8a20b7f240a7a5b02a1b1b2294a4075d.jpg> 阪神高速で車3台絡む事故 1人搬送
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/1be3c8c2f78a8769f4b9f1469d04b841d318188ac8df85a195ad435e0608daa5.jpg> Googleロゴ 約10年ぶりの刷新
+      <a href=https://news.yahoo.co.jp/pickup/6538635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7f785806289f6ef70b211b7c472b1dc6e9ff899b764e7aaffe6069ba32d390d1.jpg> 小学校の満開の桜 突然伐採に苦情
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 11:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 12:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
