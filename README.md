@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7c227497418fd964b0c6c57e9a8f0b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edde83fc476c328f87267bdc02b38478.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/561550f383e48c5efa98761d2d04189512ca6c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970826-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税“合意”受け日経平均は一時800円超値上がり　トランプ大統領「関係は非常に良い」週末に習主席と電話会談か
+      <a href=https://news.yahoo.co.jp/articles/c84d4805557e76573ef3301c4627b643ba164495>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000035-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自公　追加の経済対策　秋に補正予算案編成で一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab70f3e7303f4c2abbc66a233754eac54fb077ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000027-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税115％引き下げ合意　トランプ大統領「関係非常に良好」貿易戦争が緩和局面へ
+      <a href=https://news.yahoo.co.jp/articles/232921acb095d2e43c1e4f1623de46316e830931>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21908905-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「トルコでプーチンを待つ」ウクライナ×ロシア“直接協議”は実現するか?　初めての会見で新教皇「戦争にNOを」 ゼレンスキー氏と電話会談も【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df9b93fdbea40ce38891d244818de5a94ee2b286>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-nagasaki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=478&ch=478&exp=10800&fmt=webp> 対馬の盗難仏像が返還、歓迎ムードの中「むなしさ」も…続いた韓国との紆余曲折「今はまず喜びたい」
+      <a href=https://news.yahoo.co.jp/articles/2564201440c18f869b50f23c6a9c140a75360d1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-16297477-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1124&ch=1124&exp=10800&fmt=webp> 米中の合意で株価回復、「トランプ関税」発表前の水準に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b006621f13fd89625ab12a141ee4d5ac306b7b7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236195-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下請け業者の工事費用、一部未払いに　大阪・関西万博の海外パビリオン建設
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5584cfbb7b190765cd7367137868c37bfeb116a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【万博】「パークアンドライド駐車場」吉村知事が駐車料金値下げ提案も　博覧会協会事務総長は「今の段階で『検討します』という状況ではない」　基本料金が『5000～5500円　土日でも3割程度の利用』
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/54dae61d4be180fc59e60d7e5ea93be386aead50728dd9b554659b71c39d662e.jpg> 露ウ停戦交渉 双方が主導権争い
+      <a href=https://news.yahoo.co.jp/pickup/6538641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/3843554375e2707fe28ddb741a15d7a4c9d639195f39d5ab4bfca3aa57896c10.jpg> 自公幹部 秋の補正予算検討で一致
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fc4b06a89dc4c732adbd78669c1681372ff21d1ca228c74750962ffca5e16994.jpg> ネットのデマ2人に1人信じる 調査
+      <a href=https://news.yahoo.co.jp/pickup/6538636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d350791d4bf4972f51db00b03331fdff8a20b7f240a7a5b02a1b1b2294a4075d.jpg> 阪神高速で車3台絡む事故 1人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/d350791d4bf4972f51db00b03331fdff8a20b7f240a7a5b02a1b1b2294a4075d.jpg> 阪神高速で車3台絡む事故 1人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b9b97f151191cc2bb5700c17cff5c9ab92137f0c2a3e3246ae0fb3a67a6c51ea.jpg> 広島大キャンパス内に不発弾か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7c402eccf832f5092feedec5a7ba7f9ac458091d8d932cb179f9c352976f263a.jpg> 風力発電羽根落下 回転中折れたか
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/003161973229d92d326b8915f4f87c4af154a1a4208fd534278172f08c0b606a.jpg> 鈴木誠也が10号 両手突き上げる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 12:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 12:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
