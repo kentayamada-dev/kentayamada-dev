@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14fe68394cf89695a7f8e9039998a8bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a9f6bcab9a95e4b4031578feedb42a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/323ad382944b259a9ae9ad6221fdbf4a85a41211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971026-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がロシアとウクライナの直接交渉に出席する可能性を示唆　中東3カ国の最初の訪問国サウジアラビアに到着
+      <a href=https://news.yahoo.co.jp/articles/688781e2cd0739ca02705d44a35a6d79cb339728>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 軍事衝突の妥協点探ったインドとパキスタン　功奏した米の仲介
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31153298d3776392568835a874ebd83d81db616a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236256-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏、サウジアラビアに到着 「中東マネー」狙って3か国歴訪
+      <a href=https://news.yahoo.co.jp/articles/e9966f134cd114439fd1e50a68a83171fbab8905>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971046-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米中関税大幅引き下げは“サプライズ”安心感強めドル買い進む…円相場は一時148円台に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/323ad382944b259a9ae9ad6221fdbf4a85a41211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971026-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がロシアとウクライナの直接交渉に出席する可能性を示唆　中東3カ国の最初の訪問国サウジアラビアに到着
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26985dd87d1e41d239433b8dce38df2233bfa87b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178093-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> イオン アメリカ産100％コメ販売へ 副社長「選べるという新たな選択肢を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c5835145b73d509425cb45449207bbb4138578>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000054-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドとパキスタンが前線部隊の縮小を検討　両国軍幹部が協議し合意
+      <a href=https://news.yahoo.co.jp/articles/109533274e3be9cf211d50a503235a7da57e276a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00344350-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=847&ch=847&exp=10800&fmt=webp> カンヌ国際映画祭がドレスコード改訂　ヌードとボリュームのあるドレス禁止　
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f4e7d2297b4790ae133b9b5a1ed8309617f1c5f96fff93eba64b6090681bdfd8.jpg> 森友文書に欠落 財務相「不適切」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538654>
@@ -418,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/f4e7d2297b4790ae133b9b5a1ed8309617f1c5f96fff93eba64b6090681bdfd8.jpg> 森友文書に欠落 財務相「不適切」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/09b79feb2a324ec88fe20b6191e6811655923e483b121c92a7cad4121610a6af.jpg> 英首相の私邸で不審火 一部損傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538658>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/04b395e571c9f8d6028a3008c72b1d69cb40b5d67415beefb112b85a942f0c58.jpg> 漂白剤混入の水誤飲 児童6人搬送
       </a>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538660>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8530b5c693a5566407c5f4b8f9795b3a232f240723dff3236a3e42cddd2ff65a.jpg> アメリカ産100%米販売へ イオン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6021c1184110efad01b3618931d52eb95b411fd59f65873d05c548841b8c483a.jpg> セブン 容器変更で総菜を値下げ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 16:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 17:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
