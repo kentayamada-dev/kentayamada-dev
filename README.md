@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c11b0e3aa384cba6a4ec7890755d355b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff6e2aa1a5d0f42bbf22e03ab321905a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0529ad37aeb88a48d19b925f73bae409d231a9bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970766-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰でもいいんなら俺を殺せって感じですよ」逮捕された15歳少年の祖父「やりようがない」　84歳女性刺殺の疑い　千葉市
+      <a href=https://news.yahoo.co.jp/articles/e5f37f8a5f55cd057d65698383e7f4924823a2b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178025-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 関税めぐる米中高官協議を受け トランプ大統領「今週末にも習主席と電話会談」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4ae246dc3ce2dff86676b10cb7d7575919dd83a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000021-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中国主席と「今週末に会談」　良好な関係強調　米大統領
+      <a href=https://news.yahoo.co.jp/articles/0529ad37aeb88a48d19b925f73bae409d231a9bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970766-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰でもいいんなら俺を殺せって感じですよ」逮捕された15歳少年の祖父「やりようがない」　84歳女性刺殺の疑い　千葉市
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/dbb4821f7dfb371ec156787a249377ae5fda1bcf271e1a1ee5b73483adec40ad.jpg> 印パ停戦合意 両首相が戦果を強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538613>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fd4197c55cd62d9cb7080a9a114d61ecfcb06f91888743671eb677dc36adedcf.jpg> NYダウ大幅反発 終値1160ドル高
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/374925ece2a6dfe4f63253ddc58e9b7be20423aea72beded736501ba5591c26a.jpg> 26年度にも出産無償化 方針固める
+      <a href=https://news.yahoo.co.jp/pickup/6538622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/94ab93b1d294b34b27a284a92920eebcb6f5c28c74b5a63d0c0d846040291e46.jpg> 想定外 万博パーク&ライドが低迷
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/25f01eae35ce17c1dc107279bec9127db43c09cd30ea7da2990fca8daff97ed5.jpg> 日テレ鈴江奈々アナ 管理職に昇進
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 09:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 09:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
