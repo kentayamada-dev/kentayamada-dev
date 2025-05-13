@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a9f6bcab9a95e4b4031578feedb42a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b2954fc61cb691ae92678695c610da9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed9842c5db893e01962356e82843f7705f6964f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00065663-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元県民局長の私的情報など流出に立花氏「情報提供は県職員から」「ラインにスクショ…県民に重要情報出してくれたのは褒めたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/688781e2cd0739ca02705d44a35a6d79cb339728>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 軍事衝突の妥協点探ったインドとパキスタン　功奏した米の仲介
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 軍事衝突の妥協点探ったインドとパキスタン　奏功した米の仲介
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7ef6ec439f9a4aeac3075ee0a56f1e510ea1b9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-21910573-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 【LDH JAPAN】ファンレター・プレゼント「受取りを辞退」公式サイトで再度の告知　昨年10月末をもって私書箱契約は終了「フォームをご活用いただけましたら幸い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/323ad382944b259a9ae9ad6221fdbf4a85a41211>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00971026-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がロシアとウクライナの直接交渉に出席する可能性を示唆　中東3カ国の最初の訪問国サウジアラビアに到着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/920cef3870a328b8c1c49f5578966fa10a436fb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000015-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 札幌市、暴行動画拡散「花井組」の認証、辞退申し出→取り消しに疑問の声　くすぶる「再認証のため？」、市は否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/109533274e3be9cf211d50a503235a7da57e276a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00344350-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=847&ch=847&exp=10800&fmt=webp> カンヌ国際映画祭がドレスコード改訂　ヌードとボリュームのあるドレス禁止　
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/ef8227164d3cd15e240a6a80753836588d62951dddece9c4885d6b30a2d4cb0c.jpg> 日銀会合 米関税への懸念相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538661>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02205843/title-1747019116946.jpeg?exp=10800> 小1の壁対策に朝の居場所 課題は
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/04b395e571c9f8d6028a3008c72b1d69cb40b5d67415beefb112b85a942f0c58.jpg> 漂白剤混入の水誤飲 児童6人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/4adfeac145568c783e425700db5fe7ffffb906b1b42dd37bb31998a54b81f4f8.jpg> SBGが1兆1500億円の黒字 3月期
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538668>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 千葉殺害 中3の父語る当日の様子
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/5141d7b91de9f54d7b2c7eef2572a21920c719dae8cb1be5bc604d22fea51668.jpg> 絶滅危惧種スナメリ 大阪湾定着か
+      <a href=https://news.yahoo.co.jp/pickup/6538664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/b6d96e12f0d4b3c75d5c67d1eea2e2d32e2690826c03af98f9011bd8ee1c9901.jpg> カンヌ映画祭 過激なドレスを禁止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/7322b7c5ffe10333dc572dd35013799884ed0872678d89cd338284d1483d6b00.jpg> 電撃トレード 城島氏が明かす裏側
+      <a href=https://news.yahoo.co.jp/pickup/6538666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8bfddba35b1d4cf11b3456f7c0f602b335d8f5e9dacb94853b8705d5c399b12a.jpg> LDH 手紙受け取り終了巡り再告知
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 17:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 17:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
