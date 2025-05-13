@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54f42a3be06c2861cd96c5eb0bc6d3f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20f79852a19627d5616dbf4fac0a9909.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c5835145b73d509425cb45449207bbb4138578>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000054-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドとパキスタンが前線部隊の縮小を検討　両国軍幹部が協議し合意
+      <a href=https://news.yahoo.co.jp/articles/fb2eee83c8795ea9f5c559fc98ac3fc7246ea984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-07236270-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イオン、アメリカ産100％「輸入米」を初めて販売へ　コメ不足に対応して
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d4adce999017c768eaaad0db7c801a7da355572>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010031-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=1676&ch=1676&exp=10800&fmt=webp> 「自立してどれだけ力を出せるか」　ソフトバンク小久保監督、巨人に移籍のリチャードにエール
+      <a href=https://news.yahoo.co.jp/articles/61c5835145b73d509425cb45449207bbb4138578>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000054-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> インドとパキスタンが前線部隊の縮小を検討　両国軍幹部が協議し合意
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/0d20f9f3f4c9f05de3569a083c6eba08a65f5f0a2765f9cde0bd3c635ea6f479.jpg> 中学で硫化水素が発生か 2人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/04b395e571c9f8d6028a3008c72b1d69cb40b5d67415beefb112b85a942f0c58.jpg> 漂白剤混入の水誤飲 児童6人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/38fa807cc474a9a6a6e611d04352873d4cd874bbbedc195aca3bfbe5bf6f9dd5.jpg> お産「空白地域」拡大か 住民懸念
+      <a href=https://news.yahoo.co.jp/pickup/6538660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/8530b5c693a5566407c5f4b8f9795b3a232f240723dff3236a3e42cddd2ff65a.jpg> アメリカ産100%米販売へ イオン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/202a5fc66b4751462ae10c0c8cd9ac437ac85c83ae8ad107071d13e0c246c805.jpg> 新技術 空中に超音波で触感を作る
+      <a href=https://news.yahoo.co.jp/pickup/6538657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/5141d7b91de9f54d7b2c7eef2572a21920c719dae8cb1be5bc604d22fea51668.jpg> 絶滅危惧種スナメリ 大阪湾定着か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 15:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 16:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
