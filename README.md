@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff6e2aa1a5d0f42bbf22e03ab321905a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab0d99df9c23a6ac60f1263e7a7904ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c487b9bd7c84998d51742ffa82cb699dbcfd709>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00633603-raditopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 斎藤・兵庫県知事「怒り抑える“6秒ルール” 実践」4時間のハラスメント防止研修終え…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/461210ea02dc928d4e29e332f4a6ca44e8ac5ee2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=504&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> トランプ氏、ウクライナ直接協議出席を検討  プーチン氏参加は不明<br />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c78b7aa635ab4f3fbf8b08e3a089d7c544b9a582>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178027-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=537&ch=537&exp=10800&fmt=webp> 日経平均株価、一時800円超値上がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5f37f8a5f55cd057d65698383e7f4924823a2b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-10178025-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 関税めぐる米中高官協議を受け トランプ大統領「今週末にも習主席と電話会談」
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0529ad37aeb88a48d19b925f73bae409d231a9bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00970766-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰でもいいんなら俺を殺せって感じですよ」逮捕された15歳少年の祖父「やりようがない」　84歳女性刺殺の疑い　千葉市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9558cdabda273450cbeb82423ff12a817923fd9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00000015-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン大統領「１５日に交渉」　ゼレンスキー大統領「待つ」…首脳会談実現は未知数
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5584cfbb7b190765cd7367137868c37bfeb116a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-kantele-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【万博】「パークアンドライド駐車場」吉村知事が駐車料金値下げ提案も　博覧会協会事務総長は「今の段階で『検討します』という状況ではない」　基本料金が『5000～5500円　土日でも3割程度の利用』
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cfe724a2fd53614c643c68848626842bb1213f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250512-00000176-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 阿部巨人、2対1の電撃トレードで岡本の代役三塁手リチャード獲得！　期待され続けた左右のロマン砲を〝交換〟秋広優人＆救援左腕・大江竜聖がソフトバンクへ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250513-00010000-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【万博】「パークアンドライド駐車場」吉村知事が駐車料金値下げ提案も　博覧会協会事務総長は「今の段階で『検討します』という状況ではない」　基本料金が『5000～5500円　土日でも3割程度の利用』
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/fd4197c55cd62d9cb7080a9a114d61ecfcb06f91888743671eb677dc36adedcf.jpg> NYダウ大幅反発 終値1160ドル高
+      <a href=https://news.yahoo.co.jp/pickup/6538627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/6ca6efde399b6df76807a394190ce5b3798d2cb130eda6d5332eaf00e8d27999.jpg> 日経平均 一時800円超値上がり
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/c996253ea887da8b34a3af6b5a4240d76b8f4a8bcfcd247153e73577ebc8300d.jpg> 返礼品「水」業者 突然の事業停止
+      <a href=https://news.yahoo.co.jp/pickup/6538624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/25df9b53c1b89e6d600ec89e15022e90fe5fd282a1514ff129de3dbc4d5b7a70.jpg> iPhoneバッテリー AI活用で改善へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/13 09:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/13 10:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
