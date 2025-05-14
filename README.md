@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8dcb04cead31f3901f8abb49d60f72b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4501fe835099290f38179f6e683a9a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa3e8c6aff67332c2930beb7120eac0dcacba73d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000014-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ロシア大統領補佐官ら出席へ、ウとの直接協議　プーチン氏出席か言及なし
+      <a href=https://news.yahoo.co.jp/articles/3fdebab685fb3b411bcc78551262de97f8c28a2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90040363-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 目撃した男性「ドーンみたいな音が…」自衛隊の練習機が墜落した池で捜索続く 乗っていた隊員2人の安否不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ae1364ca75224a4bd0affeb657963bd94ebf02a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000006-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1421&ch=1421&exp=10800&fmt=webp> 不明隊員2人の捜索続行　空自練習機墜落事故で
+      <a href=https://news.yahoo.co.jp/articles/db6215ecf1a39251da99d78a8f87f87a0bf746a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-03869178-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 露ウクライナ直接交渉、トルコで実施へ　プーチン大統領は出席せず…首脳会談は実現しない見込み
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c0e16b3a837a1b660c2008f233711e46c698192fb991377e5ffce9726aaba46a.jpg> 640kg配電盤の下敷きに 女性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538798>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a670a6503a2372287cb7d4fbbbe49a92447421e29d298ed5f7a345a916adbc7d.jpg> 120年周期で開花 独特すぎる植物
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/07a909cfeb1b34e1fe08a8a88ea10636eef12d21bb86bc4225fa074da6cb0317.jpg> 森保氏 アマチュア時代の月給告白
+      <a href=https://news.yahoo.co.jp/pickup/6538814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/95f2ef4b9bb561da3633279094016dff695a5e45e2ce7131ebd0070c3afd8ece.jpg> 横浜FM苦境 泥沼5連敗&9戦未勝利
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a9450e8d3f9df4271d35f28fb617911c3fe7dced61568d9377b4fe6a0d831514.jpg> NEWS増田 体調不良で活動休止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 06:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
