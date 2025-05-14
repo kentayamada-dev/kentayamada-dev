@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57bef3a9dbb647428ecd5bff10f50dda.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4fbd58569012ab5d8bc05422ff13bb9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd18547aa73b41f5f30b172077209ca13d3ace6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050193-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 空自機墜落、フライトデータレコーダー搭載せず…内倉浩昭・航空幕僚長「国民の皆様に心よりおわび」
+      <a href=https://news.yahoo.co.jp/articles/be1babaf0fb2cd4707b812857712381fa8987ff9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-03554295-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 露ウクライナ、約3年ぶり直接交渉へ…プーチン大統領の出席見通し立たず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77fc87155cdf2fd4ebc9323eb10a93153a903e13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010011-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 戦車「爆破」の決定的瞬間も...ロシア軍格納庫を襲うドローン攻撃の迫力映像　打撃は「400万ドル相当」とウクライナ国防省
+      <a href=https://news.yahoo.co.jp/articles/fd18547aa73b41f5f30b172077209ca13d3ace6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050193-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 空自機墜落、フライトデータレコーダー搭載せず…内倉浩昭・航空幕僚長「国民の皆様に心よりおわび」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e93628601873855e933ce3e19599d03785af3692f27c727aed4f51a43d64c4bb.jpg> 露・ウの協議 閣僚級の公算大きく
+      <a href=https://news.yahoo.co.jp/pickup/6538775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8d8aa12ba936f38c87909a9ecdbb1be163ac77aec93dc3f94d521165329cf42a.jpg> 平岩征樹氏の離党届を受理 国民
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2c3fff175d65aca4be4df54224cd34e2f848a3af134561acb623a5bf5b0a2f58.jpg> ニラとスイセン間違え調理 食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6538764>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米大統領専用機の贈呈巡り物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/85dcab578a3d05f0f2374564211adf164bef5af56edf173b0f88ad0eedca93b3.jpg> びわ湖の迷惑鳥 30年以上続く戦い
+      <a href=https://news.yahoo.co.jp/pickup/6538798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a670a6503a2372287cb7d4fbbbe49a92447421e29d298ed5f7a345a916adbc7d.jpg> 120年周期で開花 独特すぎる植物
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a9450e8d3f9df4271d35f28fb617911c3fe7dced61568d9377b4fe6a0d831514.jpg> NEWS増田 体調不良で活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6538805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/82546b9f40078e51af47536bf530a57063d8e8b3fdc5d32c045989cb313287ef.jpg> J-POPに第2の波 海外で人気
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 23:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 23:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
