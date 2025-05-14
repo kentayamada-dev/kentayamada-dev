@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a88745d889cc6ef71f21a081ca122d65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/caaa9942dd9d4f6ba2ac4cad838edb98.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/304ad757b5f0a9a91ed7d4e85f0a2615bb24f1db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010012-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2116&ch=2116&exp=10800&fmt=webp> 【広島14日スタメン】中村奨1番センター 不動のクリーンナップはファビアン、末包、坂倉 モンテロ7番ファースト 先発・大瀬良
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88aeb8b76eeddf15bb4d8ea79630c57bb5f29427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000168-kyodonews-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 米、シリアの制裁近く解除　首脳が初面会、国土再建後押し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01b1eb0aa8bf7cd3280abc0c7acc63e5f6374c25>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00971630-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】パックン「プーチン氏も十分強気。今回は来ないのでは」ロシア・ウクライナの停戦交渉にアメリカから国務長官参加　トランプ氏とプーチン氏の出席は不透明
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac25211eedd27e81c5728c13c48d11ce64f5ea77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1260&ch=1260&exp=10800&fmt=webp> 米中、追加関税を115％引き下げ なお不確実性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddaabedba208175d04401de31d798d82abdaa460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236504-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “標準的な出産費用”の自己負担の無償化へ　厚労省の検討会が取りまとめ　医療機関の経営にも配慮し引き続き具体策検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/284ccd4094347f3988fc6bcd1c218c52c1c73ba6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010000-abn-000-1-thumb.jpg?exp=10800&fmt=webp> 北ア・北穂高岳で雪崩　3人が巻き込まれ60代男性が死亡　雪崩は幅約30メートル・長さ約500メートル【長野】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e25887f104b0161924395dd3ed43ca98a74f80a08f6671f85bcf0773801c6c27.jpg> 出産費用を無償化へ 厚労省方針
+      <a href=https://news.yahoo.co.jp/pickup/6538743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/ace877d937be170288769344243dc862162345a55f6f600a09b39b59143e8af3.jpg> トランプ氏親族 中東で事業急拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/c60dcc6b5f66aa71a856bf1fe39d08878fd2bf3e84b77f35812f4323e04cfdaa.jpg> 女性刺殺 逮捕の中3が刃物購入か
+      <a href=https://news.yahoo.co.jp/pickup/6538771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e25887f104b0161924395dd3ed43ca98a74f80a08f6671f85bcf0773801c6c27.jpg> 出産費用を無償化へ 厚労省方針
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 17:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 17:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
