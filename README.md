@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ee62cdbdfac2a9ff38c0d9a09182e66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/875594edf6e508465e40baca1989177b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01b1eb0aa8bf7cd3280abc0c7acc63e5f6374c25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00971630-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】パックン「プーチン氏も十分強気。今回は来ないのでは」ロシア・ウクライナの停戦交渉にアメリカから国務長官参加　トランプ氏とプーチン氏の出席は不透明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6db15aa4f8072f1720a8b2b87fa01b4db8056bca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 火災原因調査で訪れ約300万円盗んだか　警視庁捜査一課の警部逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac25211eedd27e81c5728c13c48d11ce64f5ea77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1260&ch=1260&exp=10800&fmt=webp> 米中、追加関税を115％引き下げ なお不確実性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2655cb9141d60201528a79e994d2a27ee8d32a36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000075-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=650&ch=650&exp=10800&fmt=webp> かどや製油などに排除命令　ごま油の価格カルテル　公取委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18b2f683e1c9a53e9093c6ea32e8c0b696a72e8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178252-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ゼレンスキー氏 プーチン氏との直接会談に「トルコで待つ」
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1cb37b9bbcbf237b51c9bbd61f7b923c343440>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　遺体は千葉のトラック運転手と判明／埼玉県
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/6547eb4720b8877f81aeef95a8d4c0163ba6e46cf20dbe4178db9092e4fe56c7.jpg> 米中両国 追加関税を115%引き下げ
+      <a href=https://news.yahoo.co.jp/pickup/6538767>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 自衛隊の練習機が池に墜落か 愛知
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 16:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 16:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
