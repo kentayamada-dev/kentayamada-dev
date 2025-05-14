@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c5ce388fcea29cf2b8c09cc3d6a3367.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dca1e92589ea4d81c4e5d8f44df36fc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/038e5aeff165111af267890e911516cbab2de2bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236623-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中小企業の生産性向上に60兆円の投資目標　石破総理が表明 「賃金向上推進5カ年計画」とりまとめ
+      <a href=https://news.yahoo.co.jp/articles/77fc87155cdf2fd4ebc9323eb10a93153a903e13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010011-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 戦車「爆破」の決定的瞬間も...ロシア軍格納庫を襲うドローン攻撃の迫力映像　打撃は「400万ドル相当」とウクライナ国防省
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cb67f1ecc57ddfb2aeec61d02f161916c92435d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000140-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 15日、3年ぶり直接協議　ウクライナ侵攻、プーチン氏不参加か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e434276d4077dd7ab62eb16bcab550bbebc94a7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-90019788-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 国内発見で初めての学名　御船の翼竜化石 新属新種『ニッポノプテルス・ミフネンシス』
+      <a href=https://news.yahoo.co.jp/articles/c509878cf739c10e6b101d4406a5f31df9f8ad5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-21914080-tuliptv-000-1-thumb.jpg?exp=10800&fmt=webp> 有毒植物「スイセン」ニラと間違えて食中毒…男女5人が下痢やおう吐　山菜採りのシーズンは特に要注意　富山
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/90ff49ea1c3a549546981c9559d7dc4f2844411e600212ff8e9f215083223001.jpg> 安倍氏銃撃の初公判 10/28を提示
+      <a href=https://news.yahoo.co.jp/pickup/6538795>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 政府 賃上げ実質1%の定着目指す
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/9dd534dad2e5f4106f8de88e3435be644225d747f68f7268867d3199d6f7a50d.jpg> ランクル窃盗疑い逮捕 60件関与か
+      <a href=https://news.yahoo.co.jp/pickup/6538786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/da8d11e0345ab7343354a80cd297d72bf73f8fe02d20b0c811f11f922d2a9827.jpg> ペットボトル症候群 子ども要注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/da8d11e0345ab7343354a80cd297d72bf73f8fe02d20b0c811f11f922d2a9827.jpg> ペットボトル症候群 子ども要注意
+      <a href=https://news.yahoo.co.jp/pickup/6538799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4f17dbda591bd65639e0a8ab26104533780cb4f6c4f5f845d40b4cf96ef30803.jpg> 朗希が抱える症候群 識者が解説
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 21:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 21:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
