@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/481314cde15ee230cc5a5a86ed862f89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31f688504bfb485ab38cf2a69f97c3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a69aee4d54cb04321ce253316ae26f656e885fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領はウクライナ・ロシアの直接協議に参加せず　ロイター報道
+      <a href=https://news.yahoo.co.jp/articles/58589b21254e43a6ea80279db2a552b62b35cd92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178395-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナの直接交渉に参加せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efdd75a1838d446f0c19bc251971ca69c1a0a333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178394-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 航空自衛隊のT4練習機1機が墜落 機体の一部回収も隊員2人は不明
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1bd1ea0a02c4f88a89c64e001a5d8544002c92d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> ガシャーン…小学生の列に車が突っ込む　住宅街で塀と車に挟まれ、男児4人が負傷　車から降りた男2人、気にしない様子で去る…女性が通報中に　SUVタイプの乗用車　子どもらは互いに声をかけ合う「大丈夫？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/355358c764e206ecb3e619af104c8c298c767dc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000191-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=935&ch=935&exp=10800&fmt=webp> ドジャースがバーンズDFAの苦渋の決断　捕手ではメジャーナンバーワン有望株のラッシングが昇格
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2f4f8e33b5658e760717000d000797e6ca6e53ffda840b279eb8ac30d8c1d726.jpg> 小学生ひき逃げ事件 逃走時の証言
+      <a href=https://news.yahoo.co.jp/pickup/6538818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/dd0750362f2a179a8622574903eafd6b36af6f83d35f6d6a1d3db9f086c301c2.jpg> 小学生ひき逃げ事件 逃走時の映像
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a670a6503a2372287cb7d4fbbbe49a92447421e29d298ed5f7a345a916adbc7d.jpg> 120年周期で開花 独特すぎる植物
+      <a href=https://news.yahoo.co.jp/pickup/6538819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/185e02553072263a5a5d5888dcbd41a08282c4348b4992e61fd944e0634add72.jpg> ミュゼ 債権者が破産申し立てへ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 07:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 07:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
