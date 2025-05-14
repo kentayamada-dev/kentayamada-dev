@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6ac66eda0c7b4d61a1a1576c1a61ca0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ee62cdbdfac2a9ff38c0d9a09182e66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/878c65e30cd2e5cfe000e1c5b9901da17bb02a64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-05141106-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平からグラブ拝借　ドジャース３６歳内野手が今季２度目の登板で“大谷投法”？　大敗も歓声浴びる
+      <a href=https://news.yahoo.co.jp/articles/ac25211eedd27e81c5728c13c48d11ce64f5ea77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1260&ch=1260&exp=10800&fmt=webp> 米中、追加関税を115％引き下げ なお不確実性も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2655cb9141d60201528a79e994d2a27ee8d32a36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000075-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=650&ch=650&exp=10800&fmt=webp> かどや製油などに排除命令　ごま油の価格カルテル　公取委
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18b2f683e1c9a53e9093c6ea32e8c0b696a72e8c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178252-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ゼレンスキー氏 プーチン氏との直接会談に「トルコで待つ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b86bdba4d8acd0423570ecdcca0e4041862f1b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000081-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：米中関税合意、タイなど「チャイナプラスワン」に圧力
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/b84c4d46b218ce2596517510f11cbe989420a6b5c03946d8cb62c3dd7155b7f1.jpg> ソニーG最高益 ゲームや音楽好調
+      <a href=https://news.yahoo.co.jp/pickup/6538762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/463be4ab68425ac28d811ded2fca896a215c14c126cae4251d17d7ba9b14e295.jpg> 再審請求中の死刑執行は適法 地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538752>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日本の子供「心の健康」下位低迷
+      <a href=https://news.yahoo.co.jp/pickup/6538765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/54fc965b3dc73a591ab04dbc79e072bd56cbed97db1db3c4e5f3b9230bc06837.jpg> ごま油でカルテル 2社に排除命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd7b822b61cab82459912178d1213d6801c330de7806a11bd086506ed99e46f7.jpg> 30億円「道の駅」新設計画に賛否
+      <a href=https://news.yahoo.co.jp/pickup/6538761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/16f1721e5de88b4b590c66c158857bbe7c7a611268b0539b6adc15bfaf60d64f.jpg> 三井住友系OliveとPayPay 連携へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd79f1c3650380b9d20c623d83c1f881732fc0219e99aa38d7125a6a924b05e0.jpg> 朗希の肩 インピンジメント症候群
+      <a href=https://news.yahoo.co.jp/pickup/6538763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/1e46961644ec039f68228e4678e5ca1b957a4a3a28a5204c271244d26855be42.jpg> ド軍野手ロハス 大谷グラブで登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/09e197ed56d55d54d989b8dc06417a4e6ffbaf25fad6c3d40452ee0eab9bdfed.jpg> 菊地亜美 産後2カ月で仕事復帰
+      <a href=https://news.yahoo.co.jp/pickup/6538755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd79f1c3650380b9d20c623d83c1f881732fc0219e99aa38d7125a6a924b05e0.jpg> 朗希の肩 インピンジメント症候群
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 15:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 16:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
