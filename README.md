@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdce91f650c04a2d67b9103abfaf6365.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1e1f85e88543ae52cacb9cfe215e83a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b7dba0f5abc5401a0a31268b0ee4017fc33647>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ネタニヤフ政権のガザ封鎖は「容認できない恥ずべき行為」 仏大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a01eb985b5798e5c208192ea3d8780158140ed6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
       </a>
@@ -374,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a354e08d187f78a2123ba3871480de7c3581650d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏に直接会談迫る　「怖いのか」と挑発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000021-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏に直接会談迫る　「怖いのか」と挑発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f893c2a522d31438faa39c9afc2854171687adc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000020-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=596&ch=596&exp=10800&fmt=webp> 首脳会談提案「ロシア沈黙」　ウクライナ大統領、停戦無視も批判
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/ab41ef518d49bf490102981f71f3584de58cb17bb04f576c14667e56bf57443d.jpg> 日本学術会議と政府 溝埋まらず
+      <a href=https://news.yahoo.co.jp/pickup/6538734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/32ede9fa20b42525642aa279e3ac34ec3d2185a50a54e24291d1b7358f83d60a.jpg> 企業・団体の政治献金 自民へ97%
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/669e9b58af383fd4ad406664d0e2d195f2a5bbfbce9eb1f649796d56fc7a15a1.jpg> 千葉女性刺殺 少年院入りたかった
+      <a href=https://news.yahoo.co.jp/pickup/6538732>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> イスラエル 近日に「総力」攻撃へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 10:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 10:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
