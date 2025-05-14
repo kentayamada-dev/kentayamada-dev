@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1e1f85e88543ae52cacb9cfe215e83a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77e73634148301547ec8e8d0cfa09b2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/500c34762753fdcafe7995e786e0e96ddf98819e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-16809411-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏との直接会談実現のため「あらゆる手を尽くす」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a01eb985b5798e5c208192ea3d8780158140ed6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a354e08d187f78a2123ba3871480de7c3581650d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000021-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏に直接会談迫る　「怖いのか」と挑発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f893c2a522d31438faa39c9afc2854171687adc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000020-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=596&ch=596&exp=10800&fmt=webp> 首脳会談提案「ロシア沈黙」　ウクライナ大統領、停戦無視も批判
+      <a href=https://news.yahoo.co.jp/articles/0614a5ab4e0df0a225d0dee184c6ecca36553e56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「米特使、終戦会談開催のイスタンブールへ」…プーチン大統領出席の圧力か
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/32ede9fa20b42525642aa279e3ac34ec3d2185a50a54e24291d1b7358f83d60a.jpg> 企業・団体の政治献金 自民へ97%
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538732>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> イスラエル 近日に「総力」攻撃へ
       </a>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538730>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 外国免許切替 過去最多の7万6千人
+      <a href=https://news.yahoo.co.jp/pickup/6538734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/32ede9fa20b42525642aa279e3ac34ec3d2185a50a54e24291d1b7358f83d60a.jpg> 企業・団体の政治献金 自民へ97%
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/9c391e908467d15ca107ffc064ccdbe3f9606c383000cd6099b79111531173eb.jpg> 米MSが6千人削減 管理職層簡素化
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538730>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 外国免許切替 過去最多の7万6千人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538725>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/66e6e4ea5244da5f4d0e8d02bd569d3f7da33753b51eef0eba04dbdb642e917d.jpg> 万博入場券販売 目標の半分近くに
       </a>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538722>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02208027/title-1747171730423.jpeg?exp=10800> なぜ復讐「リベンジ退職」対策は
+      <a href=https://news.yahoo.co.jp/pickup/6538735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/563da6d30014e8d9c3059bdcf302a4e80011cc1167c3897dfff8da82a6eee616.jpg> 吉野家や磯丸がラーメン参入 なぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4a9ab3820cca1a97f029e6df4bbce8448e03dbc4382dc282b1b062bb8f99d002.jpg> 朗希が右腕の痛み訴え 監督明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2d0791339f4d8e5bb0d684851aa8411f67b648eb469c4294b54646d0bce2e72d.jpg> 故ピート・ローズ氏 永久追放解消
+      <a href=https://news.yahoo.co.jp/pickup/6538738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/57a3765fe90e8c450da33125de9dff8826a4b72d2c27cddfb034fdb277930eb0.jpg> 朗希が負傷者リスト入り 右肩痛
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 10:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 11:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
