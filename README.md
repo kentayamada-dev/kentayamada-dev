@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e561b07c59f4c162322beedecc7f78fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6ac66eda0c7b4d61a1a1576c1a61ca0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18b2f683e1c9a53e9093c6ea32e8c0b696a72e8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178252-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ゼレンスキー氏 プーチン氏との直接会談に「トルコで待つ」
+      <a href=https://news.yahoo.co.jp/articles/878c65e30cd2e5cfe000e1c5b9901da17bb02a64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-05141106-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平からグラブ拝借　ドジャース３６歳内野手が今季２度目の登板で“大谷投法”？　大敗も歓声浴びる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b888309028c2471243e199d8368bed8ccf2c997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-04564960-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=466&ch=466&exp=10800&fmt=webp> タイムマシーン3号・山本浩司、藤田ニコルと色違いベンツ購入 “にこるんママ”との関係性も明かす
+      <a href=https://news.yahoo.co.jp/articles/18b2f683e1c9a53e9093c6ea32e8c0b696a72e8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178252-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ゼレンスキー氏 プーチン氏との直接会談に「トルコで待つ」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1cb37b9bbcbf237b51c9bbd61f7b923c343440>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　遺体は千葉のトラック運転手と判明／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/f6099e9c22dc460301495f254b9d80ea602e3ed2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-15836900-bbc-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏、シリア制裁の解除を表明　サウジ訪れ1420億ドルの武器取引で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/877dbff991d9dbcf51366b1735795248fd118a77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00096467-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 全仏制覇を目指すズベレフは、クレーシーズン不振のジョコビッチを今なお警戒「能力に疑いの余地はない」＜SMASH＞
+      <a href=https://news.yahoo.co.jp/articles/3a1cb37b9bbcbf237b51c9bbd61f7b923c343440>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　遺体は千葉のトラック運転手と判明／埼玉県
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/7f716f6e4cf0f70696daf6a09e09c4ba84c0b19642012977d62b4adce263416d.jpg> 自民幹部 備蓄米買い戻し撤廃方針
+      <a href=https://news.yahoo.co.jp/pickup/6538760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/b50487346c753ecf8e15a28b699c8d9b6d6da22f9d5fd213746daf1a8da373d9.jpg> 市販薬 コンビニで購入可能に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 15:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 15:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
