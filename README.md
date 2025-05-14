@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89c12f79a030816ce9eb11d463afb81b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3f6ed8668c677e2f0ac7d731453947b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d287de8e949e69ce68415dcf41dfa4ad70e0b1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35141029-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 【巨人】リチャード「５番三塁」で２試合連続スタメン　２番増田陸、４番キャベッジ／スタメン
+      <a href=https://news.yahoo.co.jp/articles/0b71acc66543a59f769ac3b7b89cba18cd48e754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 巨人からトレードの秋広、大江両選手が入団会見　SBでの活躍誓う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14f58ccbb5eff99916e25d4ae611df98a54b58f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35140949-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【ソフトバンク】勝てば３連勝＆最大「７」あった借金完済　勝率５割復帰なるか／スタメン
+      <a href=https://news.yahoo.co.jp/articles/491b72b86c062e758a9c307a585a50ebed4632bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236547-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 警視庁捜査一課・火災捜査専門警部が死亡火災現場で“火事場泥棒”　現金約300万円の窃盗などの疑い　約10件関与で総額900万円以上盗んだか
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/24d4120d4edb2ab2b4e85be527b6a90e0e99a14f6c56b5f9421acd0e38a77a3a.jpg> 米とシリア 両首脳が25年ぶり面会
+      <a href=https://news.yahoo.co.jp/pickup/6538780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/df3d857f29048321ff0c5b80de16af809320f513bdc1a681603d64856b10c4db.jpg> 斎藤知事の法解釈 消費者相が否定
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2ca82a5ad76f1888f4f112e4e27e6ee606c27d21867d080da5b0c353205a7253.jpg> 手術で両脚まひ 医師らに賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/d28c721a96d52bf9fe3b2f4277f2ac40d64bfb99228773d6826638f44acf317b.jpg> 4月のビール類販売36%減 大手4社
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538779>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 正社員の「孤独」20代が最多 調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/da8d11e0345ab7343354a80cd297d72bf73f8fe02d20b0c811f11f922d2a9827.jpg> ペットボトル症候群 子ども要注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/0eb4b0f7621f31fa04c942da75a2baac50b09569ede89ffdfaca1670c0797d66.jpg> Gオーナー 選手の賭博問題に言及
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 18:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 19:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
