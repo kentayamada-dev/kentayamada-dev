@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d436c23af42f0a9925feaf494702782.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e3d2c67b11780214ad62b68c60a4854.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aef2afa6f051a58c4f6cefed0bdeebd28375e301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> プーチン氏はトルコ入りせず？ロシアは直接協議に外相派遣…ゼレンスキー氏「交渉はプーチンと行うべきだ」
+      <a href=https://news.yahoo.co.jp/articles/40348956695dac4724b5f8179bdd00710770de76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178250-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 自民・小野寺政調会長が備蓄米倉庫を視察 玄米での流通を政府に要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/334b2454278255cd2bdaa8521fd6274ee47fdbbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-21912211-atv-000-1-thumb.jpg?exp=10800&fmt=webp> 「夏日」予想も　高気圧に覆われ各地で「晴れ」「曇り」の天気　最高気温「26℃予想」のところも　青森県
+      <a href=https://news.yahoo.co.jp/articles/aef2afa6f051a58c4f6cefed0bdeebd28375e301>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050078-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> プーチン氏はトルコ入りせず？ロシアは直接協議に外相派遣…ゼレンスキー氏「交渉はプーチンと行うべきだ」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa890131d9698eba39c6d1f7552f85f0b0cfbe3204d9145e891c817aa34f4c22.jpg> 下村博文氏 参考人招致に出席表明
+      <a href=https://news.yahoo.co.jp/pickup/6538751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e843a1c4364ebd2578300b66189b04564e032ed522c80959ab0e54e8a6b8de6a.jpg> 全国的に晴れ気温上昇 熱中症注意
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/7d7b1d0b7bbe08bd59ea4c7c26e2409726f929ecd93f1da5712127e64d5af6f4.jpg> 事故で夫亡くし 今も話し掛ける妻
+      <a href=https://news.yahoo.co.jp/pickup/6538750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/baf5a68900922e9590ab1f5847a99e967e3298e58b50ce92289645a10ad4e674.jpg> みずほ銀 秋田支店で貸金庫廃止へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 13:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 13:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
