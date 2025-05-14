@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/926f5f3a52fe39e5ca882b0ba6145272.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e6becb976110751a074e774e0f86acf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6bed4337c317c30d1212806c4ef90dca81e5623>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローズ氏の資格を回復　米野球殿堂入りが可能に―米大リーグ
+      <a href=https://news.yahoo.co.jp/articles/16b7dba0f5abc5401a0a31268b0ee4017fc33647>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ネタニヤフ政権のガザ封鎖は「容認できない恥ずべき行為」 仏大統領
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a01eb985b5798e5c208192ea3d8780158140ed6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd164fe0ed2fdf06dd5545e72981e8a9c32b565d94dea1c3fdb22406bcf65088.jpg> ロボット前で5歳児いい子に 実験
+      <a href=https://news.yahoo.co.jp/pickup/6538733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4a9ab3820cca1a97f029e6df4bbce8448e03dbc4382dc282b1b062bb8f99d002.jpg> 朗希が右腕の痛み訴え 監督明かす
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/065e3e43bbf0826469ac51162cfb38b47d6eaa1a2cbb9d807e10bf3a699c4cd9.jpg> DeNA坂本 背番号117でマウンドに
+      <a href=https://news.yahoo.co.jp/pickup/6538723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4e516bf3b5541318e2f566c52176675e363cb9d396bf20606e0dd16b06f69d1a.jpg> 粗品の「1人賛否」話題になる理由
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 09:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 09:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
