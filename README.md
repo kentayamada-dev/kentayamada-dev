@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c4d6c2025536cdf91541d026eddd049.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1daa7528743e429f584ca464460e265e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/381cbfe72b14f188c8d79b67dfbd6d986ee6ee11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010016-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関西テレビ元専務　出張型メンエス勤務の女性と性的トラブル「訴えに一定の真実性」性加害は否定
+      <a href=https://news.yahoo.co.jp/articles/71a3883c7b16daa26888bacf08bec9a667548754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000336-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 体調不良で活動一時休止のNEWS・増田貴久　14日の「ますまるらじお」は事前収録のため出演　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/213823e4f5cdd31acc6640ffff9e795ad6296ab9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-01952451-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 御船町で発見の化石「新種の翼竜」と判明 日本での発掘は初
+      <a href=https://news.yahoo.co.jp/articles/e434276d4077dd7ab62eb16bcab550bbebc94a7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-90019788-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 国内発見で初めての学名　御船の翼竜化石 新属新種『ニッポノプテルス・ミフネンシス』
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/685fbd1b2ab7a77f75da1476db2faaf152067640ad8d828d76a7dbbffd81bd5c.jpg> 自衛隊機墜落 ドーンと大きな音
+      <a href=https://news.yahoo.co.jp/pickup/6538793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/88d37cf91c534283a8c1c62fd570beef713bba8bbc8b972c81789041f1a47ed8.jpg> 自衛隊機墜落 池で機体の一部発見
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 正社員の「孤独」20代が最多 調査
+      <a href=https://news.yahoo.co.jp/pickup/6538786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/da8d11e0345ab7343354a80cd297d72bf73f8fe02d20b0c811f11f922d2a9827.jpg> ペットボトル症候群 子ども要注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/da8d11e0345ab7343354a80cd297d72bf73f8fe02d20b0c811f11f922d2a9827.jpg> ペットボトル症候群 子ども要注意
+      <a href=https://news.yahoo.co.jp/pickup/6538794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a9450e8d3f9df4271d35f28fb617911c3fe7dced61568d9377b4fe6a0d831514.jpg> NEWS増田 体調不良で活動休止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 20:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 20:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
