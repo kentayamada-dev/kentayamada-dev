@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9f7044138b188903d9a314a30a23b5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e561b07c59f4c162322beedecc7f78fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e09638d1c6e5862b66393656c7b613a5dd42c2be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000196-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 右肩痛で負傷者リスト入りの佐々木朗希　前日にMRI検査　ロバーツ監督が明かす
+      <a href=https://news.yahoo.co.jp/articles/18b2f683e1c9a53e9093c6ea32e8c0b696a72e8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178252-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ゼレンスキー氏 プーチン氏との直接会談に「トルコで待つ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b888309028c2471243e199d8368bed8ccf2c997>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-04564960-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=466&ch=466&exp=10800&fmt=webp> タイムマシーン3号・山本浩司、藤田ニコルと色違いベンツ購入 “にこるんママ”との関係性も明かす
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2b86bdba4d8acd0423570ecdcca0e4041862f1b0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000081-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：米中関税合意、タイなど「チャイナプラスワン」に圧力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aef2afa6f051a58c4f6cefed0bdeebd28375e301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050078-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> プーチン氏はトルコ入りせず？ロシアは直接協議に外相派遣…ゼレンスキー氏「交渉はプーチンと行うべきだ」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/935fa5426ec28a59a475a10b62111aadc4d58f4006283024d4460f8d4d218bf9.jpg> ウ大統領 露大統領に会談迫り挑発
+      <a href=https://news.yahoo.co.jp/pickup/6538756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/6547eb4720b8877f81aeef95a8d4c0163ba6e46cf20dbe4178db9092e4fe56c7.jpg> 米中両国 追加関税を115%引き下げ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8aad15905d4bcbe8f753727c83876fc4e59f1161d50e3c70e59b782264fb6cfd.jpg> サイバー人材 2030年までに倍増へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538757>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/b84c4d46b218ce2596517510f11cbe989420a6b5c03946d8cb62c3dd7155b7f1.jpg> ソニーG最高益 ゲームや音楽好調
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/baf5a68900922e9590ab1f5847a99e967e3298e58b50ce92289645a10ad4e674.jpg> みずほ銀 秋田支店で貸金庫廃止へ
+      <a href=https://news.yahoo.co.jp/pickup/6538752>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日本の子供「心の健康」下位低迷
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/c5311d71cfda32108897277331334776a17736aac9f35a4118f1f4c0fc2f5327.jpg> ベランダにハトの卵 処理に10日間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538755>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd79f1c3650380b9d20c623d83c1f881732fc0219e99aa38d7125a6a924b05e0.jpg> 朗希の肩 インピンジメント症候群
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e5f02c8a7da5327a39f413e0cbed44c6bf3e32c1338867696e727ec5ccea2ac2.jpg> Cロナ長男 U-15日本戦でデビュー
+      <a href=https://news.yahoo.co.jp/pickup/6538759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/09e197ed56d55d54d989b8dc06417a4e6ffbaf25fad6c3d40452ee0eab9bdfed.jpg> 菊地亜美 産後2カ月で仕事復帰
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 14:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 15:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
