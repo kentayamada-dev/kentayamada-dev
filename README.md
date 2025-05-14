@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b980550eac8abb43ec73430c6fd26ec2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3d436c23af42f0a9925feaf494702782.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91a751f9455588344ee65150dc01f790e8dd2a44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-21912083-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 午後は晴れる所が多く風は穏やか 日差しが強まるため紫外線対策を 愛知・名古屋・岐阜・三重の天気予報（5月14日昼）
+      <a href=https://news.yahoo.co.jp/articles/aef2afa6f051a58c4f6cefed0bdeebd28375e301>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> プーチン氏はトルコ入りせず？ロシアは直接協議に外相派遣…ゼレンスキー氏「交渉はプーチンと行うべきだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75eec34e83e551ad13987686d33eacf546d06e7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00971460-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦交渉にアメリカはルビオ国務長官出席…トランプ氏参加かは明示せず　ゼレンスキー氏“首脳同士の直接対話”必要と強調もロシア側出席者は不明
+      <a href=https://news.yahoo.co.jp/articles/334b2454278255cd2bdaa8521fd6274ee47fdbbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-21912211-atv-000-1-thumb.jpg?exp=10800&fmt=webp> 「夏日」予想も　高気圧に覆われ各地で「晴れ」「曇り」の天気　最高気温「26℃予想」のところも　青森県
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/935fa5426ec28a59a475a10b62111aadc4d58f4006283024d4460f8d4d218bf9.jpg> ウ大統領 露大統領に会談迫り挑発
+      <a href=https://news.yahoo.co.jp/pickup/6538741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa890131d9698eba39c6d1f7552f85f0b0cfbe3204d9145e891c817aa34f4c22.jpg> 下村博文氏 参考人招致に出席表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa890131d9698eba39c6d1f7552f85f0b0cfbe3204d9145e891c817aa34f4c22.jpg> 下村博文氏 参考人招致に出席表明
+      <a href=https://news.yahoo.co.jp/pickup/6538746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa351bf8218383731cb9a4dc6ad48be9912beab461097d2d65401cff8db31bdb.jpg> 全国でカスハラ被害 自治体の対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/935fa5426ec28a59a475a10b62111aadc4d58f4006283024d4460f8d4d218bf9.jpg> ウ大統領 露大統領に会談迫り挑発
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/563da6d30014e8d9c3059bdcf302a4e80011cc1167c3897dfff8da82a6eee616.jpg> 吉野家や磯丸がラーメン参入 なぜ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538749>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e5f02c8a7da5327a39f413e0cbed44c6bf3e32c1338867696e727ec5ccea2ac2.jpg> Cロナ長男 U-15日本戦でデビュー
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/13a43b296395768e1bcdf2f1728633c1afccda485fa2b56fc0a41f516c0556c4.jpg> 櫻井翔 フジで初の単独冠番組決定
+      <a href=https://news.yahoo.co.jp/pickup/6538747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/25de96f9fa74e29ea8f793fd37e09a498f2174addff2f558c1cab91b22a9ce97.jpg> 松田聖子&ユーミン10年ぶりタッグ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 12:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 13:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
