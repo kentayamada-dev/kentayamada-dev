@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77e73634148301547ec8e8d0cfa09b2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5021834459201e8c947d766aeb279613.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbcfd40fb313b890991d180794a395e758ce4343>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000029-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 八潮市道路陥没事故で死亡したのは千葉・八街市の74歳男性と特定　埼玉県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c26a836fdcf10066e4d3032a7c71ba252a90087>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 櫻井翔、『VS嵐』以来4年5カ月ぶりのフジテレビMC　単独冠特番でホテルニューオータニや大阪・関西万博へ真夜中に潜入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/500c34762753fdcafe7995e786e0e96ddf98819e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-16809411-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏との直接会談実現のため「あらゆる手を尽くす」
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a01eb985b5798e5c208192ea3d8780158140ed6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0614a5ab4e0df0a225d0dee184c6ecca36553e56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「米特使、終戦会談開催のイスタンブールへ」…プーチン大統領出席の圧力か
       </a>
     </td>
   </tr>
@@ -394,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/32ede9fa20b42525642aa279e3ac34ec3d2185a50a54e24291d1b7358f83d60a.jpg> 企業・団体の政治献金 自民へ97%
+      <a href=https://news.yahoo.co.jp/pickup/6538741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa890131d9698eba39c6d1f7552f85f0b0cfbe3204d9145e891c817aa34f4c22.jpg> 下村博文氏 参考人招致に出席表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/9c391e908467d15ca107ffc064ccdbe3f9606c383000cd6099b79111531173eb.jpg> 米MSが6千人削減 管理職層簡素化
+      <a href=https://news.yahoo.co.jp/pickup/6538740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/24ce1e7fd9fc7e8fa879036c4281cc2026f9a97908cb94c489cb040ec752f77d.jpg> 八潮陥没 遺体は千葉の74歳運転手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/7d7b1d0b7bbe08bd59ea4c7c26e2409726f929ecd93f1da5712127e64d5af6f4.jpg> 事故で夫亡くし 今も話し掛ける妻
       </a>
     </td>
   </tr>
@@ -412,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538727>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a6537276283ef828dfc6a98f4e82036e8e843400bec64c798ebd60e0792c8797.jpg> あおり運転加害 心理は「被害者」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538730>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 外国免許切替 過去最多の7万6千人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/66e6e4ea5244da5f4d0e8d02bd569d3f7da33753b51eef0eba04dbdb642e917d.jpg> 万博入場券販売 目標の半分近くに
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3c1219504b3c4423b5b2ceabfb78c5058aec6c08f2dca3f9f89145dcd3b6cd13.jpg> 有村藍里 見つけた「本来の私」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 11:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 11:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
