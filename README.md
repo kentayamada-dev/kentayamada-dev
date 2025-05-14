@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4501fe835099290f38179f6e683a9a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/481314cde15ee230cc5a5a86ed862f89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fdebab685fb3b411bcc78551262de97f8c28a2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90040363-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 目撃した男性「ドーンみたいな音が…」自衛隊の練習機が墜落した池で捜索続く 乗っていた隊員2人の安否不明
+      <a href=https://news.yahoo.co.jp/articles/0a69aee4d54cb04321ce253316ae26f656e885fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領はウクライナ・ロシアの直接協議に参加せず　ロイター報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db6215ecf1a39251da99d78a8f87f87a0bf746a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-03869178-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 露ウクライナ直接交渉、トルコで実施へ　プーチン大統領は出席せず…首脳会談は実現しない見込み
+      <a href=https://news.yahoo.co.jp/articles/d1bd1ea0a02c4f88a89c64e001a5d8544002c92d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> ガシャーン…小学生の列に車が突っ込む　住宅街で塀と車に挟まれ、男児4人が負傷　車から降りた男2人、気にしない様子で去る…女性が通報中に　SUVタイプの乗用車　子どもらは互いに声をかけ合う「大丈夫？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/355358c764e206ecb3e619af104c8c298c767dc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000191-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=935&ch=935&exp=10800&fmt=webp> ドジャースがバーンズDFAの苦渋の決断　捕手ではメジャーナンバーワン有望株のラッシングが昇格
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/95f2ef4b9bb561da3633279094016dff695a5e45e2ce7131ebd0070c3afd8ece.jpg> 横浜FM苦境 泥沼5連敗&9戦未勝利
+      <a href=https://news.yahoo.co.jp/pickup/6538817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/bbd26e15bc605ce97e8f77733f0862e5d1788180a3d942b2dc2cc4597217d1f3.jpg> ド軍捕手バーンズ 事実上の戦力外
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3df95cd9749ac373b188bf2f5e8fb71dacd11243f00293f3fedc2de1f26c4c22.jpg> J1で衝撃オウンゴール 選手も驚き
+      <a href=https://news.yahoo.co.jp/pickup/6538816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/7f9b1d7b4c0949ef4845023b962422322da3f76179580d3148201cd993287383.jpg> 福原遥が月9主演「信じられない」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 06:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 07:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
