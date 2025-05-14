@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53213fc2a17455aef32099f70074b37c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57bef3a9dbb647428ecd5bff10f50dda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e6cee30867eb6eefe72170bc0fe6f277ae1a1bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00591990-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=600&ch=600&exp=10800&fmt=webp> OG献上…横浜FCの29歳DF「壊してしまった」　監督、同僚ら擁護も「今日の負けは自分のせい」
+      <a href=https://news.yahoo.co.jp/articles/fd18547aa73b41f5f30b172077209ca13d3ace6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050193-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 空自機墜落、フライトデータレコーダー搭載せず…内倉浩昭・航空幕僚長「国民の皆様に心よりおわび」
       </a>
     </td>
   </tr>
@@ -379,23 +379,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4420fdeaf587a02f822da5e9c07613b967ff2ccf21463169f22647c7b773af8b.jpg> 備蓄米 4回目は10万トン放出へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2c69672940ed97a418492a634cb20e17829ec87cab8a55772557ed4e68a7c146.jpg> 備蓄米 4回目は10万トン放出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538795>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 政府 賃上げ実質1%の定着目指す
+      <a href=https://news.yahoo.co.jp/pickup/6538806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e93628601873855e933ce3e19599d03785af3692f27c727aed4f51a43d64c4bb.jpg> 露・ウの協議 閣僚級の公算大きく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cad4c584ec682d56dc525b2db729c1b9402ac903e58ee1a02f186c27c4453cb1.jpg> 墜落 観光客が目撃した一部始終
+      <a href=https://news.yahoo.co.jp/pickup/6538809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/10aa32fe5ad4b8c9deeadf6ddafa400bee422acaa109fa409527329a009a9ba2.jpg> 自衛隊機墜落 隊員2人が不明
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fcf98c8e53a1d99de9794dae434cebd4028e1fbb4945908b7d4f1596e7b5c3ab.jpg> 痛恨 G高梨が交代初球でボーク
+      <a href=https://news.yahoo.co.jp/pickup/6538808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3df95cd9749ac373b188bf2f5e8fb71dacd11243f00293f3fedc2de1f26c4c22.jpg> J1で衝撃オウンゴール 選手も驚き
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 22:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 23:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
