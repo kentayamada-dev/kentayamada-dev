@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c31f688504bfb485ab38cf2a69f97c3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6c0ab532a72c2dea45632c9da7f05dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58589b21254e43a6ea80279db2a552b62b35cd92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178395-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナの直接交渉に参加せず
+      <a href=https://news.yahoo.co.jp/articles/142fa5d2373967620fe1ddffcae7b77733c41b50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000007-ann-000-5-thumb.jpg?exp=10800&fmt=webp> プーチン氏“不在”のロシアとウクライナの直接交渉　トランプ大統領も不参加を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4476e7f88a268d87012ba9f682cde80302f2640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178396-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 小学生の列に車 男子児童4人けが うち1人は剥離骨折の疑い 埼玉・三郷市
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1bd1ea0a02c4f88a89c64e001a5d8544002c92d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=533&ch=533&exp=10800&fmt=webp> ガシャーン…小学生の列に車が突っ込む　住宅街で塀と車に挟まれ、男児4人が負傷　車から降りた男2人、気にしない様子で去る…女性が通報中に　SUVタイプの乗用車　子どもらは互いに声をかけ合う「大丈夫？」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/792153a4a6bba155d7542a1fe1f6ada5f45c1ae739bd1fea94055ea0b47c043a.jpg> 赤沢氏 関税巡り来週の訪米を調整
+      <a href=https://news.yahoo.co.jp/pickup/6538822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/93d86077fc5f6779f407ca711607c067a80e235643ec6413200e75adfe0ff63c.jpg> 露ウ直接協議 プーチン氏は欠席か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f589f00ba9b9013587c358c74a2c017b61483080414fac79b0242c2ada4205ed.jpg> 米国産日本車を逆輸入 日本政府案
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/82546b9f40078e51af47536bf530a57063d8e8b3fdc5d32c045989cb313287ef.jpg> J-POPに第2の波 海外で人気
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 07:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 08:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
