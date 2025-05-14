@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4fbd58569012ab5d8bc05422ff13bb9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c43d3bd0381775ddb8821dc6c27dd6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be1babaf0fb2cd4707b812857712381fa8987ff9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-03554295-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 露ウクライナ、約3年ぶり直接交渉へ…プーチン大統領の出席見通し立たず
+      <a href=https://news.yahoo.co.jp/articles/20d2510e86272c0339023a82bb737cf32b1fc2e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領 トルコ入りの可能性残す プーチン氏の動きを見極めか　ウクライナ・ロシアの直接交渉めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd18547aa73b41f5f30b172077209ca13d3ace6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050193-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 空自機墜落、フライトデータレコーダー搭載せず…内倉浩昭・航空幕僚長「国民の皆様に心よりおわび」
+      <a href=https://news.yahoo.co.jp/articles/1e69149013a6ae5c923a20abd3b52c4cfafb9c7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000095-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落　搭乗は2人の男性隊員 1等空尉と2等空尉 いまだ安否不明
       </a>
     </td>
   </tr>
@@ -378,16 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2c69672940ed97a418492a634cb20e17829ec87cab8a55772557ed4e68a7c146.jpg> 備蓄米 4回目は10万トン放出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8d8aa12ba936f38c87909a9ecdbb1be163ac77aec93dc3f94d521165329cf42a.jpg> 平岩征樹氏の離党届を受理 国民
+      <a href=https://news.yahoo.co.jp/pickup/6538811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/792153a4a6bba155d7542a1fe1f6ada5f45c1ae739bd1fea94055ea0b47c043a.jpg> 赤沢氏 関税巡り来週の訪米を調整
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538764>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米大統領専用機の贈呈巡り物議
+      <a href=https://news.yahoo.co.jp/pickup/6538812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/78d5f26fc20a058a6f3fa63034a7a3d0ae940109d275a0c2586714010dd54058.jpg> 旅館で中学生26人が食中毒 長野
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3df95cd9749ac373b188bf2f5e8fb71dacd11243f00293f3fedc2de1f26c4c22.jpg> J1で衝撃オウンゴール 選手も驚き
+      <a href=https://news.yahoo.co.jp/pickup/6538810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/07a909cfeb1b34e1fe08a8a88ea10636eef12d21bb86bc4225fa074da6cb0317.jpg> 森保氏 アマチュア時代の月給告白
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd88d7a85d963422a74c4bc10de7fa86cfeb6c6107010d42f79fdb4471f2cfb3.jpg> TOBE 1.4億円超を石川県に寄付
+      <a href=https://news.yahoo.co.jp/pickup/6538808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3df95cd9749ac373b188bf2f5e8fb71dacd11243f00293f3fedc2de1f26c4c22.jpg> J1で衝撃オウンゴール 選手も驚き
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a9450e8d3f9df4271d35f28fb617911c3fe7dced61568d9377b4fe6a0d831514.jpg> NEWS増田 体調不良で活動休止
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 23:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 23:52:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
