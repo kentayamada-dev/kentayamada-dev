@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3f6ed8668c677e2f0ac7d731453947b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/102ca128edc318ceaf763210c1d4583a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b71acc66543a59f769ac3b7b89cba18cd48e754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 巨人からトレードの秋広、大江両選手が入団会見　SBでの活躍誓う
+      <a href=https://news.yahoo.co.jp/articles/06e97f47113e12f5026eed933aa26c17afa26107>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00003467-kab-000-2-thumb.jpg?exp=10800&fmt=webp> 国内初！新種の翼竜発見　学名に「ミフネ」地元で期待高まる　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/491b72b86c062e758a9c307a585a50ebed4632bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236547-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 警視庁捜査一課・火災捜査専門警部が死亡火災現場で“火事場泥棒”　現金約300万円の窃盗などの疑い　約10件関与で総額900万円以上盗んだか
+      <a href=https://news.yahoo.co.jp/articles/2beab07decd0cd0da6521e982e69d90a015e4b5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-05878453-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 下校中の小学生の列に車が突っ込む、4人が軽傷　車は逃走…ひき逃げ事件として捜査　埼玉・三郷市
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538782>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童4人が車にはねられたか 搬送
+      <a href=https://news.yahoo.co.jp/pickup/6538789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a28ca0f1e415229f46245164f1ec7b31d325d487aee1620a3f8bddd2e5c9635c.jpg> 児童がはねられ4人搬送 車は逃走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/9dd534dad2e5f4106f8de88e3435be644225d747f68f7268867d3199d6f7a50d.jpg> ランクル窃盗疑い逮捕 60件関与か
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/0eb4b0f7621f31fa04c942da75a2baac50b09569ede89ffdfaca1670c0797d66.jpg> Gオーナー 選手の賭博問題に言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538785>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/77903906de8d72f3a26f520e509e9fa3593cb9f2be94878e6f5c8ade2070cf31.jpg> SB秋広「Gに損したと思わせる」
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 19:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 19:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
