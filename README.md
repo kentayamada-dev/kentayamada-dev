@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c43d3bd0381775ddb8821dc6c27dd6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edab5b3fc896f10043607ab001d0d4e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20d2510e86272c0339023a82bb737cf32b1fc2e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領 トルコ入りの可能性残す プーチン氏の動きを見極めか　ウクライナ・ロシアの直接交渉めぐり
+      <a href=https://news.yahoo.co.jp/articles/ee2ab5b3b02c7c362884332e390c88c46e8baf80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90024867-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【独自】2人組の男性が立ち去る瞬間…小学生の列に車衝突4人けが　ひき逃げで捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e69149013a6ae5c923a20abd3b52c4cfafb9c7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000095-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落　搭乗は2人の男性隊員 1等空尉と2等空尉 いまだ安否不明
+      <a href=https://news.yahoo.co.jp/articles/929d773f74a27e8779a43238daccb4c1dab6356f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000138-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米特使、16日にトルコ入り　ウクライナ停戦協議で
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/78d5f26fc20a058a6f3fa63034a7a3d0ae940109d275a0c2586714010dd54058.jpg> 旅館で中学生26人が食中毒 長野
+      <a href=https://news.yahoo.co.jp/pickup/6538813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2f4f8e33b5658e760717000d000797e6ca6e53ffda840b279eb8ac30d8c1d726.jpg> 小学生ひき逃げ事件 逃走時の証言
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 23:52:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 00:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
