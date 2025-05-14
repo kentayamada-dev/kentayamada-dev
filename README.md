@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6170bff1ac2ad6c53249989ed2c1ac17.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53213fc2a17455aef32099f70074b37c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77fc87155cdf2fd4ebc9323eb10a93153a903e13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010011-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 戦車「爆破」の決定的瞬間も...ロシア軍格納庫を襲うドローン攻撃の迫力映像　打撃は「400万ドル相当」とウクライナ国防省
+      <a href=https://news.yahoo.co.jp/articles/9e6cee30867eb6eefe72170bc0fe6f277ae1a1bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00591990-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=600&ch=600&exp=10800&fmt=webp> OG献上…横浜FCの29歳DF「壊してしまった」　監督、同僚ら擁護も「今日の負けは自分のせい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2984a7595bca514ffd429c6cc955ae9e704c11d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00050177-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=318&ch=318&exp=10800&fmt=webp> 「ひっくり返って背面飛行のまま落ちていった」「機体が高度を下げて迫ってきた」…空自機墜落、観光客ら声震わせ
+      <a href=https://news.yahoo.co.jp/articles/77fc87155cdf2fd4ebc9323eb10a93153a903e13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010011-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 戦車「爆破」の決定的瞬間も...ロシア軍格納庫を襲うドローン攻撃の迫力映像　打撃は「400万ドル相当」とウクライナ国防省
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/88d37cf91c534283a8c1c62fd570beef713bba8bbc8b972c81789041f1a47ed8.jpg> 自衛隊機墜落 池で機体の一部発見
+      <a href=https://news.yahoo.co.jp/pickup/6538803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/4420fdeaf587a02f822da5e9c07613b967ff2ccf21463169f22647c7b773af8b.jpg> 備蓄米 4回目は10万トン放出へ
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a28ca0f1e415229f46245164f1ec7b31d325d487aee1620a3f8bddd2e5c9635c.jpg> 児童がはねられ4人搬送 車は逃走
+      <a href=https://news.yahoo.co.jp/pickup/6538804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cad4c584ec682d56dc525b2db729c1b9402ac903e58ee1a02f186c27c4453cb1.jpg> 墜落 観光客が目撃した一部始終
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 22:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 22:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
