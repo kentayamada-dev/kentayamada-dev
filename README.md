@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e3d2c67b11780214ad62b68c60a4854.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c7616bb88a6d1b4e86c3b77de1cada3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40348956695dac4724b5f8179bdd00710770de76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178250-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 自民・小野寺政調会長が備蓄米倉庫を視察 玄米での流通を政府に要請
+      <a href=https://news.yahoo.co.jp/articles/41191ea681a660e3a2f961f32b5caf2001db93aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000077-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 佐々木朗希　試合終了後３分で山本由伸と一緒に帰宅　試合中はベンチで観戦　コメントを残すことなく
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e843a1c4364ebd2578300b66189b04564e032ed522c80959ab0e54e8a6b8de6a.jpg> 全国的に晴れ気温上昇 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6538736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/935fa5426ec28a59a475a10b62111aadc4d58f4006283024d4460f8d4d218bf9.jpg> ウ大統領 露大統領に会談迫り挑発
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/935fa5426ec28a59a475a10b62111aadc4d58f4006283024d4460f8d4d218bf9.jpg> ウ大統領 露大統領に会談迫り挑発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/baf5a68900922e9590ab1f5847a99e967e3298e58b50ce92289645a10ad4e674.jpg> みずほ銀 秋田支店で貸金庫廃止へ
+      <a href=https://news.yahoo.co.jp/pickup/6538751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e843a1c4364ebd2578300b66189b04564e032ed522c80959ab0e54e8a6b8de6a.jpg> 全国的に晴れ気温上昇 熱中症注意
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e5f02c8a7da5327a39f413e0cbed44c6bf3e32c1338867696e727ec5ccea2ac2.jpg> Cロナ長男 U-15日本戦でデビュー
+      <a href=https://news.yahoo.co.jp/pickup/6538750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/baf5a68900922e9590ab1f5847a99e967e3298e58b50ce92289645a10ad4e674.jpg> みずほ銀 秋田支店で貸金庫廃止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/3b2e11cc07089a837ae67c9ed78a8664d1b6cf5cb351fca2a0c689d56e824372.jpg> 千賀「Why?」ピッチクロック違反
+      <a href=https://news.yahoo.co.jp/pickup/6538755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd79f1c3650380b9d20c623d83c1f881732fc0219e99aa38d7125a6a924b05e0.jpg> 朗希の肩 インピンジメント症候群
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e5f02c8a7da5327a39f413e0cbed44c6bf3e32c1338867696e727ec5ccea2ac2.jpg> Cロナ長男 U-15日本戦でデビュー
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 13:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 14:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
