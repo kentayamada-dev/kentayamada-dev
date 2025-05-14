@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b04759116be80b00b8497f2779078dc0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/926f5f3a52fe39e5ca882b0ba6145272.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2839659fac4d68fe8b45da06b440faa6a7c3283c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-10178204-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=975&ch=975&exp=10800&fmt=webp> MLB、故ピート・ローズ氏の資格回復を決定
+      <a href=https://news.yahoo.co.jp/articles/d6bed4337c317c30d1212806c4ef90dca81e5623>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローズ氏の資格を回復　米野球殿堂入りが可能に―米大リーグ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/384d6439047f0465d0c1ef79ae51a3feabe26352>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「プーチン氏としか会談しない」ウクライナ大統領がトルコ訪問へ　米は国務長官ら派遣
+      <a href=https://news.yahoo.co.jp/articles/a01eb985b5798e5c208192ea3d8780158140ed6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236433-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ大統領がサウジと“88兆円ディール”を締結　「新たな黄金時代だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04cdfa0816c4a2839bda12da1e8497f8fa979c8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000062-zdn_n-000-1-view.jpg?pri=l&w=192&h=147&exp=10800&fmt=webp> NVIDIA、Amazon（AWS）、AMDがサウジHUMAINとAI推進で提携　サウジは米国に6000億ドル投資
+      <a href=https://news.yahoo.co.jp/articles/a354e08d187f78a2123ba3871480de7c3581650d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏、プーチン氏に直接会談迫る　「怖いのか」と挑発
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8ceabbb7d7498e8df63c0dc7c6e006f46f80d2ff104e105cf0404daf293b9d2e.jpg> トランプ氏 対シリア制裁を解除へ
+      <a href=https://news.yahoo.co.jp/pickup/6538728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/ab41ef518d49bf490102981f71f3584de58cb17bb04f576c14667e56bf57443d.jpg> 日本学術会議と政府 溝埋まらず
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/5879919ce67dd3300a7a7dc11ea6308204c4e642e089e848da04fa29c0a5100a.jpg> コメ決して高くない JA全中会長
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538711>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/13/425dd13397bd0e6256784a16b5bb779f06f2e7f7a1e299c217fc3fceb64bf91c.jpg> 日産2万人削減へ 工場から悲鳴
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd164fe0ed2fdf06dd5545e72981e8a9c32b565d94dea1c3fdb22406bcf65088.jpg> ロボット前で5歳児いい子に 実験
+      <a href=https://news.yahoo.co.jp/pickup/6538725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/66e6e4ea5244da5f4d0e8d02bd569d3f7da33753b51eef0eba04dbdb642e917d.jpg> 万博入場券販売 目標の半分近くに
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538722>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02208027/title-1747171730423.jpeg?exp=10800> なぜ復讐「リベンジ退職」対策は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd164fe0ed2fdf06dd5545e72981e8a9c32b565d94dea1c3fdb22406bcf65088.jpg> ロボット前で5歳児いい子に 実験
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 08:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 09:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
