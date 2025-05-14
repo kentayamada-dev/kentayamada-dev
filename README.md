@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a5fca2991d2b1621bdda992583c090c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89c12f79a030816ce9eb11d463afb81b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/820cdf7639c0c1b0925630f7adb2a7ad8a41397c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010022-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「速やかな捜索を」自衛隊機墜落で中谷大臣が指示　国会答弁で
+      <a href=https://news.yahoo.co.jp/articles/7d287de8e949e69ce68415dcf41dfa4ad70e0b1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35141029-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 【巨人】リチャード「５番三塁」で２試合連続スタメン　２番増田陸、４番キャベッジ／スタメン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6f41bf9ad072c772af82588e248b36c23111960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000088-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 【巨人】キャベッジが4番でスタメン　前夜、加入即ホームランのリチャードが「5番・三塁」で出場
+      <a href=https://news.yahoo.co.jp/articles/14f58ccbb5eff99916e25d4ae611df98a54b58f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-35140949-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【ソフトバンク】勝てば３連勝＆最大「７」あった借金完済　勝率５割復帰なるか／スタメン
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac25211eedd27e81c5728c13c48d11ce64f5ea77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1260&ch=1260&exp=10800&fmt=webp> 米中、追加関税を115％引き下げ なお不確実性も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/685fbd1b2ab7a77f75da1476db2faaf152067640ad8d828d76a7dbbffd81bd5c.jpg> 自衛隊機墜落 目撃者「ドーンと」
+      <a href=https://news.yahoo.co.jp/pickup/6538784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/685fbd1b2ab7a77f75da1476db2faaf152067640ad8d828d76a7dbbffd81bd5c.jpg> 自衛隊機墜落 ドーンと大きな音
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/963f71f21d1505f5e3a0f23978eebce2687e5421ce40b2776179d1a4d61fc311.jpg> IL入り 朗希は数週間違和感と監督
+      <a href=https://news.yahoo.co.jp/pickup/6538785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/77903906de8d72f3a26f520e509e9fa3593cb9f2be94878e6f5c8ade2070cf31.jpg> SB秋広「Gに損したと思わせる」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 18:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
