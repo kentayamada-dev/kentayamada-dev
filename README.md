@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/102ca128edc318ceaf763210c1d4583a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c4d6c2025536cdf91541d026eddd049.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06e97f47113e12f5026eed933aa26c17afa26107>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00003467-kab-000-2-thumb.jpg?exp=10800&fmt=webp> 国内初！新種の翼竜発見　学名に「ミフネ」地元で期待高まる　
+      <a href=https://news.yahoo.co.jp/articles/381cbfe72b14f188c8d79b67dfbd6d986ee6ee11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010016-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 関西テレビ元専務　出張型メンエス勤務の女性と性的トラブル「訴えに一定の真実性」性加害は否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2beab07decd0cd0da6521e982e69d90a015e4b5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-05878453-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 下校中の小学生の列に車が突っ込む、4人が軽傷　車は逃走…ひき逃げ事件として捜査　埼玉・三郷市
+      <a href=https://news.yahoo.co.jp/articles/213823e4f5cdd31acc6640ffff9e795ad6296ab9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-01952451-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 御船町で発見の化石「新種の翼竜」と判明 日本での発掘は初
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/90ff49ea1c3a549546981c9559d7dc4f2844411e600212ff8e9f215083223001.jpg> 安倍氏銃撃の初公判 10/28を提示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538780>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/df3d857f29048321ff0c5b80de16af809320f513bdc1a681603d64856b10c4db.jpg> 斎藤知事の法解釈 消費者相が否定
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e25887f104b0161924395dd3ed43ca98a74f80a08f6671f85bcf0773801c6c27.jpg> 出産費用を無償化へ 厚労省方針
+      <a href=https://news.yahoo.co.jp/pickup/6538789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a28ca0f1e415229f46245164f1ec7b31d325d487aee1620a3f8bddd2e5c9635c.jpg> 児童がはねられ4人搬送 車は逃走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a28ca0f1e415229f46245164f1ec7b31d325d487aee1620a3f8bddd2e5c9635c.jpg> 児童がはねられ4人搬送 車は逃走
+      <a href=https://news.yahoo.co.jp/pickup/6538791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/1cb3c8beb1dbe56e1edb26b3233a0cf271bd117c7491c49bb577daef9de5b6ff.jpg> 専務の辞任巡り 関テレが声明発表
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/77903906de8d72f3a26f520e509e9fa3593cb9f2be94878e6f5c8ade2070cf31.jpg> SB秋広「Gに損したと思わせる」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 19:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 20:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
