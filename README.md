@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48e368a964f9cadf045b33af3d8b2ca6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b980550eac8abb43ec73430c6fd26ec2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e5d9fd7ea64047464402179a69c6639254e1ee0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00088288-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=300&ch=300&exp=10800&fmt=webp> トランプ仲介によるウクライナ戦争“生煮え”停戦で世界はカオスか、今後起こり得る「5つの驚愕シナリオ」
+      <a href=https://news.yahoo.co.jp/articles/91a751f9455588344ee65150dc01f790e8dd2a44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-21912083-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 午後は晴れる所が多く風は穏やか 日差しが強まるため紫外線対策を 愛知・名古屋・岐阜・三重の天気予報（5月14日昼）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4033ede5fd5c1642fedbfd4f95dbbfd15974e561>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00096459-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが盟友マリーとのコーチ契約を半年で終了「一緒に友情を深めることができて楽しかった」と惜別の言葉＜SMASH＞
+      <a href=https://news.yahoo.co.jp/articles/75eec34e83e551ad13987686d33eacf546d06e7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00971460-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦交渉にアメリカはルビオ国務長官出席…トランプ氏参加かは明示せず　ゼレンスキー氏“首脳同士の直接対話”必要と強調もロシア側出席者は不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbcfd40fb313b890991d180794a395e758ce4343>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000029-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 八潮市道路陥没事故で死亡したのは千葉・八街市の74歳男性と特定　埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/3a1cb37b9bbcbf237b51c9bbd61f7b923c343440>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　遺体は千葉のトラック運転手と判明／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26660ab962c9355a76ccbbd7f68de82d4eaf5e40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000350-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 松田聖子、デビュー45周年記念楽曲「Stardust」配信スタート　松任谷由実と10年ぶりタッグ再び　MVも公開
+      <a href=https://news.yahoo.co.jp/articles/877dbff991d9dbcf51366b1735795248fd118a77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00096467-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 全仏制覇を目指すズベレフは、クレーシーズン不振のジョコビッチを今なお警戒「能力に疑いの余地はない」＜SMASH＞
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/24ce1e7fd9fc7e8fa879036c4281cc2026f9a97908cb94c489cb040ec752f77d.jpg> 八潮陥没 遺体は千葉の74歳運転手
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/421b4a628b26df029bdd6cf5818afb443d5f545b074ac4d789b0ba93fc11348f.jpg> 八潮陥没 遺体は千葉の74歳運転手
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/57a3765fe90e8c450da33125de9dff8826a4b72d2c27cddfb034fdb277930eb0.jpg> 朗希が負傷者リスト入り 右肩痛
+      <a href=https://news.yahoo.co.jp/pickup/6538749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e5f02c8a7da5327a39f413e0cbed44c6bf3e32c1338867696e727ec5ccea2ac2.jpg> Cロナ長男 U-15日本戦でデビュー
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 12:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 12:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
