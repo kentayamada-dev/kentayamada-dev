@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6c0ab532a72c2dea45632c9da7f05dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47a2f875cce091131436e4ee757cc1d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/142fa5d2373967620fe1ddffcae7b77733c41b50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000007-ann-000-5-thumb.jpg?exp=10800&fmt=webp> プーチン氏“不在”のロシアとウクライナの直接交渉　トランプ大統領も不参加を表明
+      <a href=https://news.yahoo.co.jp/articles/cbea895d7e102df212789603f1d40f5faa537ebd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> トランプ氏、プーチン氏が直接会談参加なら自身もトルコに
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4476e7f88a268d87012ba9f682cde80302f2640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178396-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 小学生の列に車 男子児童4人けが うち1人は剥離骨折の疑い 埼玉・三郷市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178396-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 小学生の列に車 男子児童4人けが うち1人は剥離骨折の疑い 埼玉・三郷市
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/efdd75a1838d446f0c19bc251971ca69c1a0a333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178394-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 航空自衛隊のT4練習機1機が墜落 機体の一部回収も隊員2人は不明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178394-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 航空自衛隊のT4練習機1機が墜落 機体の一部回収も隊員2人は不明
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/10aa32fe5ad4b8c9deeadf6ddafa400bee422acaa109fa409527329a009a9ba2.jpg> 自衛隊機墜落 隊員2人が不明
+      <a href=https://news.yahoo.co.jp/pickup/6538824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/fcf5f9a93d0b2a1d7dedcc6753293408ddb2df3a32094e33de10f99b5c7600c4.jpg> 経営再建中のJDI 千人超削減検討
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 08:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 08:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
