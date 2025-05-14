@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1daa7528743e429f584ca464460e265e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c5ce388fcea29cf2b8c09cc3d6a3367.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71a3883c7b16daa26888bacf08bec9a667548754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000336-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 体調不良で活動一時休止のNEWS・増田貴久　14日の「ますまるらじお」は事前収録のため出演　
+      <a href=https://news.yahoo.co.jp/articles/038e5aeff165111af267890e911516cbab2de2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236623-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中小企業の生産性向上に60兆円の投資目標　石破総理が表明 「賃金向上推進5カ年計画」とりまとめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5cb67f1ecc57ddfb2aeec61d02f161916c92435d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000140-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 15日、3年ぶり直接協議　ウクライナ侵攻、プーチン氏不参加か
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e434276d4077dd7ab62eb16bcab550bbebc94a7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-90019788-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 国内発見で初めての学名　御船の翼竜化石 新属新種『ニッポノプテルス・ミフネンシス』
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b1eb0aa8bf7cd3280abc0c7acc63e5f6374c25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00971630-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】パックン「プーチン氏も十分強気。今回は来ないのでは」ロシア・ウクライナの停戦交渉にアメリカから国務長官参加　トランプ氏とプーチン氏の出席は不透明
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/df3d857f29048321ff0c5b80de16af809320f513bdc1a681603d64856b10c4db.jpg> 斎藤知事の法解釈 消費者相が否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538789>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/a28ca0f1e415229f46245164f1ec7b31d325d487aee1620a3f8bddd2e5c9635c.jpg> 児童がはねられ4人搬送 車は逃走
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/1cb3c8beb1dbe56e1edb26b3233a0cf271bd117c7491c49bb577daef9de5b6ff.jpg> 専務の辞任巡り 関テレが声明発表
+      <a href=https://news.yahoo.co.jp/pickup/6538796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/ebb824a968d82bd6020cc23ac185c9ca8b0e2c78a9f42fb1aee2b740507835f4.jpg> 物流「2024年問題」どうなった?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538766>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 火災現場で現金窃盗疑い 警部逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 20:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 21:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
