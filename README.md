@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/875594edf6e508465e40baca1989177b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a88745d889cc6ef71f21a081ca122d65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,14 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6db15aa4f8072f1720a8b2b87fa01b4db8056bca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 火災原因調査で訪れ約300万円盗んだか　警視庁捜査一課の警部逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac25211eedd27e81c5728c13c48d11ce64f5ea77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1260&ch=1260&exp=10800&fmt=webp> 米中、追加関税を115％引き下げ なお不確実性も
       </a>
@@ -381,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6099e9c22dc460301495f254b9d80ea602e3ed2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-15836900-bbc-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> トランプ氏、シリア制裁の解除を表明　サウジ訪れ1420億ドルの武器取引で合意
+      <a href=https://news.yahoo.co.jp/articles/ddaabedba208175d04401de31d798d82abdaa460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-07236504-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “標準的な出産費用”の自己負担の無償化へ　厚労省の検討会が取りまとめ　医療機関の経営にも配慮し引き続き具体策検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/284ccd4094347f3988fc6bcd1c218c52c1c73ba6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010000-abn-000-1-thumb.jpg?exp=10800&fmt=webp> 北ア・北穂高岳で雪崩　3人が巻き込まれ60代男性が死亡　雪崩は幅約30メートル・長さ約500メートル【長野】
       </a>
     </td>
   </tr>
@@ -394,24 +394,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538767>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 自衛隊の練習機が池に墜落か 愛知
+      <a href=https://news.yahoo.co.jp/pickup/6538773>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 愛知で自衛隊機が墜落 2人搭乗か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/b50487346c753ecf8e15a28b699c8d9b6d6da22f9d5fd213746daf1a8da373d9.jpg> 市販薬 コンビニで購入可能に
+      <a href=https://news.yahoo.co.jp/pickup/6538771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e25887f104b0161924395dd3ed43ca98a74f80a08f6671f85bcf0773801c6c27.jpg> 出産費用を無償化へ 厚労省方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/463be4ab68425ac28d811ded2fca896a215c14c126cae4251d17d7ba9b14e295.jpg> 再審請求中の死刑執行は適法 地裁
+      <a href=https://news.yahoo.co.jp/pickup/6538769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/c60dcc6b5f66aa71a856bf1fe39d08878fd2bf3e84b77f35812f4323e04cfdaa.jpg> 女性刺殺 逮捕の中3が刃物購入か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2ca82a5ad76f1888f4f112e4e27e6ee606c27d21867d080da5b0c353205a7253.jpg> 手術で両脚まひ 医師らに賠償命令
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/16f1721e5de88b4b590c66c158857bbe7c7a611268b0539b6adc15bfaf60d64f.jpg> 三井住友系OliveとPayPay 連携へ
+      <a href=https://news.yahoo.co.jp/pickup/6538774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/d28c721a96d52bf9fe3b2f4277f2ac40d64bfb99228773d6826638f44acf317b.jpg> 4月のビール類販売36%減 大手4社
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/378a84bc1814af4dae6fea4158f8f0f5fa323694d3a77d7deb21cf13054cc849.jpg> 銚子電鉄 愛称「崖っぷち」で自虐
       </a>
     </td>
   </tr>
@@ -440,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/1e46961644ec039f68228e4678e5ca1b957a4a3a28a5204c271244d26855be42.jpg> ド軍野手ロハス 大谷グラブで登板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fd79f1c3650380b9d20c623d83c1f881732fc0219e99aa38d7125a6a924b05e0.jpg> 朗希の肩 インピンジメント症候群
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 16:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 17:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
