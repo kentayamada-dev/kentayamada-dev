@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c7616bb88a6d1b4e86c3b77de1cada3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9f7044138b188903d9a314a30a23b5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41191ea681a660e3a2f961f32b5caf2001db93aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000077-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 佐々木朗希　試合終了後３分で山本由伸と一緒に帰宅　試合中はベンチで観戦　コメントを残すことなく
+      <a href=https://news.yahoo.co.jp/articles/e09638d1c6e5862b66393656c7b613a5dd42c2be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000196-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 右肩痛で負傷者リスト入りの佐々木朗希　前日にMRI検査　ロバーツ監督が明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b86bdba4d8acd0423570ecdcca0e4041862f1b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000081-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：米中関税合意、タイなど「チャイナプラスワン」に圧力
       </a>
     </td>
   </tr>
@@ -402,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/fa351bf8218383731cb9a4dc6ad48be9912beab461097d2d65401cff8db31bdb.jpg> 全国でカスハラ被害 自治体の対策
+      <a href=https://news.yahoo.co.jp/pickup/6538753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/7f716f6e4cf0f70696daf6a09e09c4ba84c0b19642012977d62b4adce263416d.jpg> 自民幹部 備蓄米買い戻し撤廃方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/e843a1c4364ebd2578300b66189b04564e032ed522c80959ab0e54e8a6b8de6a.jpg> 全国的に晴れ気温上昇 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6538737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/8aad15905d4bcbe8f753727c83876fc4e59f1161d50e3c70e59b782264fb6cfd.jpg> サイバー人材 2030年までに倍増へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/421b4a628b26df029bdd6cf5818afb443d5f545b074ac4d789b0ba93fc11348f.jpg> 八潮陥没 遺体は千葉の74歳運転手
+      <a href=https://news.yahoo.co.jp/pickup/6538757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/b84c4d46b218ce2596517510f11cbe989420a6b5c03946d8cb62c3dd7155b7f1.jpg> ソニーG最高益 ゲームや音楽好調
       </a>
     </td>
   </tr>
@@ -428,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538750>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/baf5a68900922e9590ab1f5847a99e967e3298e58b50ce92289645a10ad4e674.jpg> みずほ銀 秋田支店で貸金庫廃止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/cd7b822b61cab82459912178d1213d6801c330de7806a11bd086506ed99e46f7.jpg> 30億円「道の駅」新設計画に賛否
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/25de96f9fa74e29ea8f793fd37e09a498f2174addff2f558c1cab91b22a9ce97.jpg> 松田聖子&ユーミン10年ぶりタッグ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 14:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 14:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
