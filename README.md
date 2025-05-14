@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/caaa9942dd9d4f6ba2ac4cad838edb98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a5fca2991d2b1621bdda992583c090c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/304ad757b5f0a9a91ed7d4e85f0a2615bb24f1db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010012-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2116&ch=2116&exp=10800&fmt=webp> 【広島14日スタメン】中村奨1番センター 不動のクリーンナップはファビアン、末包、坂倉 モンテロ7番ファースト 先発・大瀬良
+      <a href=https://news.yahoo.co.jp/articles/820cdf7639c0c1b0925630f7adb2a7ad8a41397c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00010022-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「速やかな捜索を」自衛隊機墜落で中谷大臣が指示　国会答弁で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88aeb8b76eeddf15bb4d8ea79630c57bb5f29427>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000168-kyodonews-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 米、シリアの制裁近く解除　首脳が初面会、国土再建後押し
+      <a href=https://news.yahoo.co.jp/articles/f6f41bf9ad072c772af82588e248b36c23111960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250514-00000088-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 【巨人】キャベッジが4番でスタメン　前夜、加入即ホームランのリチャードが「5番・三塁」で出場
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538773>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 愛知で自衛隊機が墜落 2人搭乗か
+      <a href=https://news.yahoo.co.jp/pickup/6538783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/685fbd1b2ab7a77f75da1476db2faaf152067640ad8d828d76a7dbbffd81bd5c.jpg> 自衛隊機墜落 目撃者「ドーンと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/ace877d937be170288769344243dc862162345a55f6f600a09b39b59143e8af3.jpg> トランプ氏親族 中東で事業急拡大
+      <a href=https://news.yahoo.co.jp/pickup/6538778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/24d4120d4edb2ab2b4e85be527b6a90e0e99a14f6c56b5f9421acd0e38a77a3a.jpg> 米とシリア 両首脳が25年ぶり面会
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2ca82a5ad76f1888f4f112e4e27e6ee606c27d21867d080da5b0c353205a7253.jpg> 手術で両脚まひ 医師らに賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6538782>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童4人が車にはねられたか 搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/54fc965b3dc73a591ab04dbc79e072bd56cbed97db1db3c4e5f3b9230bc06837.jpg> ごま油でカルテル 2社に排除命令
+      <a href=https://news.yahoo.co.jp/pickup/6538768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/2ca82a5ad76f1888f4f112e4e27e6ee606c27d21867d080da5b0c353205a7253.jpg> 手術で両脚まひ 医師らに賠償命令
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/378a84bc1814af4dae6fea4158f8f0f5fa323694d3a77d7deb21cf13054cc849.jpg> 銚子電鉄 愛称「崖っぷち」で自虐
+      <a href=https://news.yahoo.co.jp/pickup/6538779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 正社員の「孤独」20代が最多 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/c5311d71cfda32108897277331334776a17736aac9f35a4118f1f4c0fc2f5327.jpg> ベランダにハトの卵 処理に10日間
+      <a href=https://news.yahoo.co.jp/pickup/6538781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/14/963f71f21d1505f5e3a0f23978eebce2687e5421ce40b2776179d1a4d61fc311.jpg> IL入り 朗希は数週間違和感と監督
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/14 17:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/14 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
