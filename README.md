@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41a34626e153be19250584ada7e5253c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b4d1bc7d34c4209e673456eb24dc725.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28cd8107fd16c8b626560da7080947e21960cd90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050232-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=324&ch=324&exp=10800&fmt=webp> ロシアとウクライナが対面協議へ、呼びかけたプーチン氏は欠席…米国はルビオ氏ら派遣
+      <a href=https://news.yahoo.co.jp/articles/b29c6374b34f4a40cd9594c06b72d5438e05c844>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、体面重視し首脳会談拒否か　ロシアとウクライナ、交渉で互いの譲歩狙う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c87b0e47c5a8de0d6a34492795e5a829d2c273ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178573-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=980&ch=980&exp=10800&fmt=webp> 小学生ひき逃げ 車を警察署にレッカー移動
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4d73bdec4749cf1d6e23b68a88d00123ff1d5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 児童4人ひき逃げ事件　逃走車　現場近くで発見／埼玉県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89e432add9dbf8542ede2d1a6128f8a211ee45b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000075-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 空自練習機墜落　フライトレコーダー未搭載で調査難航か
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de4faa3ec110f42cf24b05772d23532c63079a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000227-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 女性殺害疑い、男を再逮捕へ　宮城の海岸遺体遺棄事件
+      <a href=https://news.yahoo.co.jp/articles/a13c4e125dde8b095d760d8616a4b0e66944152a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010030-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 野党 “今の国会で結論を” 　企業・団体献金のあり方
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5cd692f89305f7d45f8ec4c1a99f0b37ee7b61a7a0d6b0c4970818b3b874d654.jpg> 十勝地方中部で震度4 津波なし
+      <a href=https://news.yahoo.co.jp/pickup/6538919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329e451684543f1b15625e4ff806839c83fc1fbd08d5452aa60e3cc560e6dc3f.jpg> ウ大統領 協議に代表団派遣を表明
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/b0fbdead8d663cbf7014880de9bd23b974a30ffaa50e7598418a80b9f2841485.jpg> 西内まりや引退へ SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6538894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 23:51:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 00:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
