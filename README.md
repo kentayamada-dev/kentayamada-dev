@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cf1784d353941052711f2cb8257d0b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e759167305bed1b34bc5e52a21d7f87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91d995f2967ffae8e713bea6d1f8a6516d522447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050058-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> ロシア・ウクライナの直接協議にプーチン氏は参加見送りへ、トランプ氏も参加せず
+      <a href=https://news.yahoo.co.jp/articles/1ef6d639f732d528def98b10a4229529f5a17799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000029-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 不明2隊員の氏名公表　夜通し捜索、原因究明難航も　空自練習機墜落・愛知
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411fe6b3173bcff6d5017e6bf6247fe176a3323a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000016-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自機墜落事故　安否不明の2隊員の氏名公表
+      <a href=https://news.yahoo.co.jp/articles/7b88cbe3c651282e96431360a22f4f313db50217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-16764724-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=562&ch=562&exp=10800&fmt=webp> プーチン氏、ウクライナとの和平交渉に出席しない見通し　ロシア代表団に名前なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/169e604ddabc1884db6dce35762f226682f8da1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000060-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 警察トイレで盗撮疑い、京都　警官2人を書類送検へ
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4df161c6f071aaf5f705d13abb93df7823ab9347>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00344581-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【夏場所】豊昇龍に何が起きた？　秀ノ山親方が〝異変〟を指摘「気持ちが受け身に回っていた」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/55590331ce37403f5f708543cb388ed9ca1d7639481b5aa24376d44e0b2a2dcd.jpg> 自衛隊機墜落 搭乗隊員の氏名公表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/dbe0f0d80b8b889524956bf7ef3490399957c8e3efbbb58628a7d049cff74c42.jpg> 自衛隊機墜落 搭乗隊員の氏名公表
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538823>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6b5f782bbed9943ca71ff32a325651c220121c0bde411e7f1e44e9ce06208c1f.jpg> 夏日続出か 日本海側ほど気温上昇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/7f5e4503e44724ecfa5fac82854b2f15d8b4891ee429ed2b5321941c947383ba.jpg> 人のいる場所避けたか 墜落目撃者
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2fa33b30db8380dee206e0d66dc0c0219bd41d47db8346ebf1bb5857849f2d9d.jpg> 盗撮疑い 警察官2人を書類送検へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1dff41590f8c134c145c9d9cec945303cfcf08edae585e6c7f8c464ec76a5595.jpg> 「廃虚」も アウトレット二極化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 10:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 11:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
