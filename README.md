@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/607237941aeb7bfca26d129cb739ea29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b86eb67b525014a72d3fc3d596c02858.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf275ddbfa2cd2b55dda37739d1f502bdf7418e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050206-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げ、逃走した車が市内で見つかる
+      <a href=https://news.yahoo.co.jp/articles/3fd759449d9c46dcfcc18a51f1b1e14afb6e3032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050199-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏「私に会うの恐れている」と挑発、プーチン氏は無視…露側は交渉で主導権握る思惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7ee77f80a82268cc83f1acec21d65800cc131c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000224-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=668&ch=668&exp=10800&fmt=webp> JR列車の屋根に男性遺体　後頭部から出血、新潟
+      <a href=https://news.yahoo.co.jp/articles/64f1cca8b876dca0d957577824470f960f2e28ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972522-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> JR十日町駅の列車車両の屋根から男性の遺体発見　後頭部から出血も　警察は事件・事故両面で捜査　新潟・十日町市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf275ddbfa2cd2b55dda37739d1f502bdf7418e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050206-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げ、逃走した車が市内で見つかる
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c15c6c99f77284a2a17813893d1fc4b3f8c0b7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000114-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=898&ch=898&exp=10800&fmt=webp> ロ・ウクライナ首脳駆け引き　3年ぶり直接協議、和平保証なし
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5b5a5e788765d0c48aa9f698884ef3684fa87195bbbbb9961a1dc399d53617fb.jpg> 墜落の空自機 離陸1分後に急降下
+      <a href=https://news.yahoo.co.jp/pickup/6538906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ead830a9cd62c42bc70ba9338785c43073bb2fda9fca655d1bd8e8681de24c82.jpg> 消費減税「問題がある」自民税調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f5698325009bc331b6f009f41e012213a08bd8158290199b905e3ae9a65448bf.jpg> 低所得世帯の子の習い事 実態調査
+      <a href=https://news.yahoo.co.jp/pickup/6538888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5b5a5e788765d0c48aa9f698884ef3684fa87195bbbbb9961a1dc399d53617fb.jpg> 墜落の空自機 離陸1分後に急降下
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 21:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 22:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
