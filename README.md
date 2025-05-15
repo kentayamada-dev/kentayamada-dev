@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90141e12e9794ef9c34e7d629965d340.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfdd306896660aff9cac39dc305585c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/193a68a11e6f90f06140fdfe5f46bdc09efff319>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08867197-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナの直接交渉16日に実施　高官級で“進展”不透明
+      <a href=https://news.yahoo.co.jp/articles/8a02319418dfb9d7cf48fc8bf49020fd1e335bc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233035-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ゼレンスキー氏、和平協議に代表団を派遣　米国務長官も出席見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae3647b024d4fc7f89368c0619c7e97377ac02c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236872-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “逃走のSUV車”現場付近のアパートで発見　乗っていたとみられる男2人は見つからず警察が行方追う　埼玉・三郷市の小学生ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/4875f9c12f46a614351e7e10de874879857e2410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00344719-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】秋広優人の方針を〝一転〟させた打撃コーチの提言「使いたい、打つ方でいける」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18368989937405fba11c45c7b890e928a6ac19d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010746-pinzuba-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 西内まりや、芸能界引退の理由は“身内のトラブル”発覚…直前に明かしていた「人間不信」の精神状況
       </a>
     </td>
   </tr>
@@ -379,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329e451684543f1b15625e4ff806839c83fc1fbd08d5452aa60e3cc560e6dc3f.jpg> ウ大統領 協議に代表団派遣を表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2b212721ea7e1d2c7b77aa4efbfae14de3c6d599ad1849f1bdd01ccf7ff22e6d.jpg> ウ大統領 協議に代表団派遣を表明
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a2f7b394b909c96c7f6487496db96b2412b009bb0e22ae5f40e8080fcded736b.jpg> 列車車両の屋根から遺体発見 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6538910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329ff81b671906123ad0a5791eec54cc1b6d8f56589ecbe726eddd1735448adf.jpg> 黒字経営の大企業でリストラ なぜ
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329ff81b671906123ad0a5791eec54cc1b6d8f56589ecbe726eddd1735448adf.jpg> 黒字経営の大企業でリストラ なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6538921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4524f30dad401b61fcabd81dca2e7cf6d86b9195e104b10499134c4eee4ba719.jpg> 自転車と車が衝突 11歳男児死亡
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5f1f3d66de42fd97e0f224bb0be4dd3b61fef08de5e3e246a10b33a7a9637657.jpg> ブラックホールからガス弾丸 観測
+      <a href=https://news.yahoo.co.jp/pickup/6538920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e230f16301c63ddff49731b104a99e1cdced82b3b607517b38078c6e299f5ae7.jpg> 巨人より報道陣多い 秋広が驚き
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 06:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 06:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
