@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e3fc8c1ee970371ecf08ed30e2c3c00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4d839378d2d1e7f61bf8f7da09469a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9650f3de14eb8a52fbcfbcfe81bf87e526324aa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】空自墜落機の搭乗員は井岡拓路１等空尉（３１）と、網谷奨太２等空尉（２９）
+      <a href=https://news.yahoo.co.jp/articles/542916f8b4a0d82d529d898966a757f450138728>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90030118-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落した自衛隊機の搭乗員の氏名を公表　安否不明で捜索が続く　愛知県　
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f5248c32d49c4e8b768bbea7f2daf8657caeaca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236700-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「出前館」配達員アカウント不正作成疑い　日本人装いウズベキスタン人が違法就労か　男4人逮捕　配達中モペットで無免許ひき逃げ事件起こし発覚　警視庁
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236700-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 「出前館」配達員アカウント不正作成疑い　日本人装いウズベキスタン人が違法就労か　男4人逮捕　配達中モペットで無免許ひき逃げ事件起こし発覚　警視庁
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf1e9f41b81d4cdbfd1f8962f725cff488867c58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000024-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦協議　プーチン氏不参加　両首脳の直接交渉実現せず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000024-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦協議　プーチン氏不参加　両首脳の直接交渉実現せず
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538849>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02208954/title-1747224900247.jpeg?exp=10800> 攻めのリストラ 日本に普及するか
+      <a href=https://news.yahoo.co.jp/pickup/6538843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/027c129665fbf5b612b194b2fbd1f47d57dd45693b8c77afddf2582378d7c275.jpg> 維新が退潮傾向 地方議員離党続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/027c129665fbf5b612b194b2fbd1f47d57dd45693b8c77afddf2582378d7c275.jpg> 維新が退潮傾向 地方議員離党続く
+      <a href=https://news.yahoo.co.jp/pickup/6538849>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02208954/title-1747224900247.jpeg?exp=10800> 攻めのリストラ 日本に普及するか
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/621c70cb8aef6545cfaa33b75cf7460f0b33a434770ef6664c53bd7ecd05411c.jpg> 伊藤英明 結婚経て責任感芽生えた
+      <a href=https://news.yahoo.co.jp/pickup/6538852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/621c70cb8aef6545cfaa33b75cf7460f0b33a434770ef6664c53bd7ecd05411c.jpg> 伊藤英明「50代以降が楽しみ」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 12:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 13:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
