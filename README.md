@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e59e42e2b8196fde0bad18d9d96d925.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a2f115f366ab547c48e2c6c52a478ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0bf5802044096e8df8b16f162222bcd63006bca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972117-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【逃走中】小学生の列に突っ込みひき逃げ4人けが　追跡した車のカメラが捉えた一部始終　児童「車を移動すると言ってそのまま逃げちゃった…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44ecb7ef9adbf2a35eb6f5600043b15d895f13cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000051-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=847&ch=847&exp=10800&fmt=webp> マッチングアプリ悪用しぼったくり、容疑で男女3人逮捕　50人以上から総額8000万円か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/542916f8b4a0d82d529d898966a757f450138728>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90030118-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落した自衛隊機の搭乗員の氏名を公表　安否不明で捜索が続く　愛知県　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34ff257185723f3ad1ee895296243ce28ac7f34c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236688-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 駅方面に逃走か　埼玉・三郷市　小学生の集団に車突っ込み男児4人が重軽傷 警察はひき逃げした車の行方を捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f5248c32d49c4e8b768bbea7f2daf8657caeaca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236700-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 「出前館」配達員アカウント不正作成疑い　日本人装いウズベキスタン人が違法就労か　男4人逮捕　配達中モペットで無免許ひき逃げ事件起こし発覚　警視庁
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/7cbd3bb39108a0cd47ac2fa65a0967628ca8268de2be7d66091b5f5dec2d007c.jpg> 大谷が13号ホームラン 由伸を援護
+      <a href=https://news.yahoo.co.jp/pickup/6538841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/08f47f587787f10229d96c4f4d2c72f436277913f3574b7c5cdf4d302f5ee3a8.jpg> 朗希 痛み抱え登板「迷惑かかる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/621c70cb8aef6545cfaa33b75cf7460f0b33a434770ef6664c53bd7ecd05411c.jpg> 伊藤英明「50代以降が楽しみ」
+      <a href=https://news.yahoo.co.jp/pickup/6538860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1f33f370a14c622bd170470fc1129c91944dd71a7edd4d917f855d759c8cc40a.jpg> ワンピのスピンオフ漫画 魅力は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 13:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 14:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
