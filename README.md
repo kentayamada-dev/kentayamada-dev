@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80ef1196f063fbbd4f9cba7f1a645037.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7b01d09df231c53d27e52da3b0ceb68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14430abef0d554922f2cd23e761758b82f4de35a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、ロシア・ウクライナ直接協議への参加は未定　「私が来ないならプーチン氏も来ないだろう」
+      <a href=https://news.yahoo.co.jp/articles/36c4b660c9da116a9996b171b0005c5038adc160>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「トランプ氏は出席せず」　ロシアとウクライナの直接協議　米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc013e3dbae01751870ea4c40f008b6c66810d11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自T4練習機墜落事故の搭乗員氏名を公表　安否は不明、愛知・犬山で捜索続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8db5bb6e453ca83c365ad196de60b8874c843b55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 署内トイレなどに小型カメラ設置か　警察官2人を盗撮容疑で書類送検へ
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/86c167f44599a026310817c69f67afff19a5842d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=724&ch=724&exp=10800&fmt=webp> カンニング竹山「日本語が片言…はっきりしないけど結構ポイントに」埼玉・三郷市の児童ひき逃げ犯を推理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a20837429d859484446fc846fe97bf64ac2e6d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00971986-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】ヘルメットや帽子・機体の一部発見…陸上自衛隊練習機墜落　隊員2人が依然安否不明　中谷防衛相「心からおわび」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89f250f690b273864e4bf1df4c498a023a93b486>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90019420-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 京都府警の巡査が警察署の女性用トイレで盗撮しようとした疑い　別の警部補も…
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c0e16b3a837a1b660c2008f233711e46c698192fb991377e5ffce9726aaba46a.jpg> 640kg配電盤の下敷きに 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2fa33b30db8380dee206e0d66dc0c0219bd41d47db8346ebf1bb5857849f2d9d.jpg> 盗撮疑い 警察官2人を書類送検へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 09:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 10:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
