@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d86ba7c3fadbd807e61387fa7b34947a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b415ee2bc55d6fcf0d8cfc926aec1e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cde4d7d5bb0fb565776107777ade95c70a80b5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972557-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げで逃走した車見つかる　警察が男2人の行方追う
+      <a href=https://news.yahoo.co.jp/articles/81743ebb43b3ce47dafaede19fe67cf7bd7f2c70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000078-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 菅野智之を指揮官が労う「彼は敗因ではない」　今季最多103球力投も米自己ワースト4失点で3敗目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9b4dbd5047550b7e53458543159cbe01c87fb2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05161027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之、渾身の１０３球…敗北に抵抗したオールドルーキー
+      <a href=https://news.yahoo.co.jp/articles/a7f8c26dc1a104fd4595f87e0e4f59d0c57f0af3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90030142-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落事故で隊員2人の安否は依然不明　夜通しの捜索続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/691900f0c467e73ea7790ef1a6643ccaf1304918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05426984-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【自衛隊機墜落事故】“離陸後約1分は安定飛行”　緊急脱出の信号確認されず　搭乗隊員2人の安否不明　愛知・犬山市
+      <a href=https://news.yahoo.co.jp/articles/35858007a1e94e87e5385dba6a90f0242c85f9ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972567-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】逃走した車発見…埼玉・三郷市小学生4人ひき逃げ事件　現場から約2km南の住宅地で発見され警察が男2人の行方追う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a02319418dfb9d7cf48fc8bf49020fd1e335bc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233035-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ゼレンスキー氏、和平協議に代表団を派遣　米国務長官も出席見送り
+      <a href=https://news.yahoo.co.jp/articles/4c7c777d3061371aefcc19e2108dc25199412174>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178585-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 3年ぶりのロシアとの直接交渉 ゼレンスキー大統領「代表団を派遣する」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329ff81b671906123ad0a5791eec54cc1b6d8f56589ecbe726eddd1735448adf.jpg> 黒字経営の大企業でリストラ なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6538926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1809ae071661cae2b5ab3b2e5374a4a0278290c6fac1472e0db0395de6c041c4.jpg> ネットカジノ規制強化 法案提出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/943c3f4318614932cf0d73bfa3228e3479678dbf5486048502badabd6b2de038.jpg> 海岸に遺体 殺人容疑で再逮捕へ
+      <a href=https://news.yahoo.co.jp/pickup/6538910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329ff81b671906123ad0a5791eec54cc1b6d8f56589ecbe726eddd1735448adf.jpg> 黒字経営の大企業でリストラ なぜ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 07:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 07:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
