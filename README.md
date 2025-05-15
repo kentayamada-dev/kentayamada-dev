@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4e428e18ef804b816a6eb3642683c48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b68c6871e190a6522d70d55f4142f31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7136763ff0e4a4cf4fae4f6bad733a3610091ee3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000248-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 羽鳥慎一アナ「事故は起きてしまう…ただそこから逃げるというのは事故ではなく事件」埼玉・児童ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/85b9fd13b56dde964b9adfd620b8a2c563e4772a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178461-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> 小学生列に車突っ込みひき逃げ 児童4人がけが 埼玉・三郷市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd27fedd8aa7344cb70d4c292ce0774f5da28f1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972170-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トラックや乗用車など7台絡む事故…2人けが　中央道・上り一部区間で通行止め続く　岐阜・多治見市
+      <a href=https://news.yahoo.co.jp/articles/fee7fc377a2955b8e4be6edc7364a7b34ecea32f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-01753845-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> IL入り佐々木朗希に「？」　手術回避は明言も彷徨う視線…出口の見えない“闘い”か
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542916f8b4a0d82d529d898966a757f450138728>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90030118-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落した自衛隊機の搭乗員の氏名を公表　安否不明で捜索が続く　愛知県　
+      <a href=https://news.yahoo.co.jp/articles/9650f3de14eb8a52fbcfbcfe81bf87e526324aa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】空自墜落機の搭乗員は井岡拓路１等空尉（３１）と、網谷奨太２等空尉（２９）
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f65281a90850a28d4df24ed7a6d6dba66260a0a73648dd2cb7a56759c1f49c46.jpg> 露ウ協議 トランプ氏出席は困難か
+      <a href=https://news.yahoo.co.jp/pickup/6538865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8a51974b39c398699e098e662452c827aabc3d9d1c213b641ecd8d73466119d9.jpg> 日本海側など30℃前後 熱中症注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8a51974b39c398699e098e662452c827aabc3d9d1c213b641ecd8d73466119d9.jpg> 日本海側など30℃前後 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6538867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/aa70874cbe7b8875d4692e5aac8f4cff7a9cdb232e5cc1c3e2ec7e65b7f6ea1e.jpg> 広島平和式典 台湾にも通知送付へ
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/560768384e435d96f074e7c6cf853dc234c32132bdd1691120d6db4f247274c6.jpg> 障害者狙いも ぼったくり疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/bace1fe47108758b58fd18a87aac6e3c70c69b3e9900d9e136e75ee592fe6dd6.jpg> まいばすけっと なぜ首都圏で増加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/07ddb710d1819ed895a816f618ce5d7403db92245eb54bcb4f57ae4002993c61.jpg> 山本由伸5勝目 大谷が援護弾
+      <a href=https://news.yahoo.co.jp/pickup/6538870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6cd7b406fd4478121279c07f028d275d3ed05383d364ac3641da7a39eea4bbf7.jpg> 負傷の佐々木朗希 手術は否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/08f47f587787f10229d96c4f4d2c72f436277913f3574b7c5cdf4d302f5ee3a8.jpg> 朗希 痛み抱え登板「迷惑かかる」
+      <a href=https://news.yahoo.co.jp/pickup/6538856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/9ece2fd553bb9c12e3b5a224be52792700d47aa6566b5cf6120457a624d6abc3.jpg> 元貴景勝 40kg減って体重130kg
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 15:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 16:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
