@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/559f8922f166c16d41e696fd6191f561.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d1ec2240cc216a1df2d26a07c9e6769.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c47ccac1de1e818bd58c98ad2c99b31abb51708b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事故後、男2人数分で立ち去りか　埼玉・三郷、小学生ひき逃げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8267a2fe350e75ab7a9363f6d9a7f2cc9204ce8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06741211-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> “手を振って出発”直後の墜落　墜落機パイロットは29歳と31歳　事故数分前の映像から分かることは…　愛知・犬山市 自衛隊機墜落事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f68dc15bfa67f64456b7476eb218d5f9202a0c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972220-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自解説】岡﨑彩咲陽さん（20）遺体発見まで「刑事部捜査一課」に情報共有されず　神奈川県警内部で“連携不備”か　ストーカー被害訴え行方不明に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47c9bd9a457c397f5bc65b22e273b5607a4d2d2c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972210-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアの直接交渉はプーチン大統領不在のまま開始へ　ロシア代表団はトルコ・イスタンブールに到着　トランプ大統領も出席しないとの報道
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fed0976ed003de9116bbc43e5fc35708f25725a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000045-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 笑って「ごめん」　小学生の列に車が突っ込み…4人けが　男2人逃走　埼玉・三郷市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fee7fc377a2955b8e4be6edc7364a7b34ecea32f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-01753845-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> IL入り佐々木朗希に「？」　手術回避は明言も彷徨う視線…出口の見えない“闘い”か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca5f76d5f8ef68e0302b9ff7e10c28c8dd445921>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「神奈川県警は批判受け止め、急ぎ検証を」公安委員長　川崎女性遺棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9650f3de14eb8a52fbcfbcfe81bf87e526324aa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】空自墜落機の搭乗員は井岡拓路１等空尉（３１）と、網谷奨太２等空尉（２９）
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e4d3d575282df8b1a59e8edf6144fe11f897eb5f57a78e114a25b2fc69c6ab5c.jpg> 中央道で車7台絡む事故 2人ケガ
+      <a href=https://news.yahoo.co.jp/pickup/6538875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/23e4ac49e809875a0a9450701b84d466954bdf9631c1c1a136940f53775d11f4.jpg> Goldwin 全販売員を正社員化
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/05a32c262acf12dedfd35188c6333f4b2bf5de2c379afbe42705b95f1a52770f.jpg> 金慧成がメジャー初HR 大谷祝福
+      <a href=https://news.yahoo.co.jp/pickup/6538874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ff5a31b2f31400853edfd2d9dc5bdf00f3cabaad62b8648b8b6683f702d19e37.jpg> 快挙 日ハム・宮西が日本新記録
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 16:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 17:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
