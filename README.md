@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7cfe2aaf9a9813ed520b32d7f30e8760.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41a34626e153be19250584ada7e5253c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34c1fdbe648c10b53c5d790c2b2b6ee54f69401b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000083-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> ロシアとウクライナの協議開始へ　首脳会談は見送りに
+      <a href=https://news.yahoo.co.jp/articles/28cd8107fd16c8b626560da7080947e21960cd90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050232-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=324&ch=324&exp=10800&fmt=webp> ロシアとウクライナが対面協議へ、呼びかけたプーチン氏は欠席…米国はルビオ氏ら派遣
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89e432add9dbf8542ede2d1a6128f8a211ee45b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 空自練習機墜落　フライトレコーダー未搭載で調査難航か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000075-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 空自練習機墜落　フライトレコーダー未搭載で調査難航か
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ead830a9cd62c42bc70ba9338785c43073bb2fda9fca655d1bd8e8681de24c82.jpg> 消費減税「問題がある」自民税調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538908>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/889fd627ca0bb4b56cfb23fcd70fc6f4851abb35d66c94f04de9f3cd7c073b2b.jpg> 自衛隊機 高度1400mで異常発生か
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538904>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a2f7b394b909c96c7f6487496db96b2412b009bb0e22ae5f40e8080fcded736b.jpg> 列車車両の屋根から遺体発見 捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/943c3f4318614932cf0d73bfa3228e3479678dbf5486048502badabd6b2de038.jpg> 海岸に遺体 殺人容疑で再逮捕へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 23:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 23:51:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
