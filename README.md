@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1294ee642aad3e823d49f3407e7c8882.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80ef1196f063fbbd4f9cba7f1a645037.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b0d079a2f94a4a74ee40061dc84e2dfc29d5c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00971985-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 小学生の列に車、逃げた男は「やっちゃたなという、ヘラヘラした感じ」男児1人重傷、3人軽傷…車降り謝るしぐさ見せた後立ち去る　埼玉・三郷市
+      <a href=https://news.yahoo.co.jp/articles/14430abef0d554922f2cd23e761758b82f4de35a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、ロシア・ウクライナ直接協議への参加は未定　「私が来ないならプーチン氏も来ないだろう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12ca397dd66bb1c5b6d192c36faa850f11484da9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア、首脳会談は拒否　ウクライナの対応焦点
+      <a href=https://news.yahoo.co.jp/articles/86c167f44599a026310817c69f67afff19a5842d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=724&ch=724&exp=10800&fmt=webp> カンニング竹山「日本語が片言…はっきりしないけど結構ポイントに」埼玉・三郷市の児童ひき逃げ犯を推理
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/312e401ae2bbdc99317a90608ee7a1a9485481a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=621&ch=621&exp=10800&fmt=webp> IL入りのドジャース・佐々木朗希 「右肩インピンジメント症候群」で長期離脱が濃厚 ロッテ時代を知るファンも落胆の声
+      <a href=https://news.yahoo.co.jp/articles/4a20837429d859484446fc846fe97bf64ac2e6d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00971986-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】ヘルメットや帽子・機体の一部発見…陸上自衛隊練習機墜落　隊員2人が依然安否不明　中谷防衛相「心からおわび」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89f250f690b273864e4bf1df4c498a023a93b486>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90019420-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 京都府警の巡査が警察署の女性用トイレで盗撮しようとした疑い　別の警部補も…
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 09:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 09:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
