@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9a93a603273057ddb3e8cec9ba27058.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b01d5e983bb03bdea7d10b238d1edc3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9f7907773c0b13c07f74afa337f41662478cd80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000038-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 中央道で7台絡む事故 2人けが　岐阜・多治見市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f0bf5802044096e8df8b16f162222bcd63006bca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972117-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【逃走中】小学生の列に突っ込みひき逃げ4人けが　追跡した車のカメラが捉えた一部始終　児童「車を移動すると言ってそのまま逃げちゃった…」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca5f76d5f8ef68e0302b9ff7e10c28c8dd445921>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000034-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「神奈川県警は批判受け止め、急ぎ検証を」公安委員長　川崎女性遺棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ae8f86bb83cd4e58f3b19ad2c3e9545a3bb03e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00029803-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 17日～18日の中国・四国はザーザー降りで大雨のおそれも　早めの雨対策を
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/027c129665fbf5b612b194b2fbd1f47d57dd45693b8c77afddf2582378d7c275.jpg> 維新が退潮傾向 地方議員離党続く
+      <a href=https://news.yahoo.co.jp/pickup/6538865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8a51974b39c398699e098e662452c827aabc3d9d1c213b641ecd8d73466119d9.jpg> 日本海側など30℃前後 熱中症注意
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1f33f370a14c622bd170470fc1129c91944dd71a7edd4d917f855d759c8cc40a.jpg> ワンピのスピンオフ漫画 魅力は
+      <a href=https://news.yahoo.co.jp/pickup/6538859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/76f9c8b1127f7465504d5a5d9d2d67783b0e66b62a1b25900ff624e6f8633792.jpg> 平野ノラ 産後回復に1年かかった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 14:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 15:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
