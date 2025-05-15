@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aae7b19e7f5dfb209580e93f0e7a415b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c666a464aef70ac1089352781a44300.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dcf8d5cbcb9ded035a9f893f0b27f7b32122e69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000018-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 【速報】小学生ひき逃げ…逃走車両とみられるSUV発見　三郷市内で
+      <a href=https://news.yahoo.co.jp/articles/2141d56f319afaa1cc59e19c8f051cf02c87ab62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000079-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 小学生4人ひき逃げ、埼玉・三郷市内で逃走車を発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f7c1cb85b38b71996b1bdcf48514e3b935135c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050175-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 緊急避妊薬の試験販売６８００件超、服用女性の９割以上「薬剤師の説明はわかりやすい」
+      <a href=https://news.yahoo.co.jp/articles/3a0381a9b2d0cfe387e0db944fafaa2ee05a3be4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06766624-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ソフトバンク】秋広優人が第3打席で移籍後初ヒット　直後に7番・山川が2ラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d60c3329bcfdb4463a9e603120ebe93fe705181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04966941-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 捜索難航…安否不明の隊員はベテラン31歳と29歳　離陸後2分でレーダーから消える　自衛隊機墜落
+      <a href=https://news.yahoo.co.jp/articles/bfb1fdb3695ddab7c9c523670426f80ee078544a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972390-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明の2人の捜索続く…自衛隊機はなぜ“池”に墜落したのか 元空将「迷惑をかけないようにするには…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8710ce9fbc001197ca8cb0ce7ef4a0e14eaa9fd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04823646-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナ直接協議　ロシア提案もプーチン氏欠席　トランプ氏も訪問せず
+      <a href=https://news.yahoo.co.jp/articles/ed6bdfbfb32608472c14694ceea66d8efffa6da4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000102-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=836&ch=836&exp=10800&fmt=webp> ウクライナ巡り直接協議　ロシア大統領トルコ入りせず　3年ぶり、停戦は不透明
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e89b70e5ae0d3e9ef92c3fd1b9321c99e5b555f0e42da8971c1d03a70b17b254.jpg> 17-18日 西日本は警報級の大雨か
+      <a href=https://news.yahoo.co.jp/pickup/6538896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/797b62f63dc0c9ffc3285a2480fe02ce1f8b60cb46e5124e36b6ea15c2600965.jpg> プーチン氏 停戦交渉なぜ「欠席」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4585d626ca5677cab6d435d49f435a9086081e5c35ee84da7001e18ae6f0d3ba.jpg> 0歳を暴行し死なせた疑い 父逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e89b70e5ae0d3e9ef92c3fd1b9321c99e5b555f0e42da8971c1d03a70b17b254.jpg> 17-18日 西日本は警報級の大雨か
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538878>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 結婚式場で食中毒 52人に症状
+      <a href=https://news.yahoo.co.jp/pickup/6538890>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 店で水差し直飲み疑い 書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538890>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 店で水差し直飲み疑い 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6538899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f84118e5ee7e475f6c5bec96f696cc852c288bfb866e7a4b5eca11f7ddd32833.jpg> SB移籍の秋広 即スタメン初安打
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
+      <a href=https://news.yahoo.co.jp/pickup/6538894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 20:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 20:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
