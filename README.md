@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5eed5631285e584d386333435edfbfd6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93ca9ab4631594951fa999c3c893c280.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae3647b024d4fc7f89368c0619c7e97377ac02c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236872-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “逃走のSUV車”現場付近のアパートで発見　乗っていたとみられる男2人は見つからず警察が行方追う　埼玉・三郷市の小学生ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/bf6fc94969a644bc0ddd2e72e99f90b385702f3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000007-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=607&ch=607&exp=10800&fmt=webp> 外遊後の行き先「不明」　トランプ氏、交渉参加含み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20dedead0ac3229c01479374f2f16ec224fbc0a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90024965-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ロシア代表団は見せかけ」直接協議にプーチン氏参加せず　不透明な今後…米の動きは
+      <a href=https://news.yahoo.co.jp/articles/ae3647b024d4fc7f89368c0619c7e97377ac02c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236872-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “逃走のSUV車”現場付近のアパートで発見　乗っていたとみられる男2人は見つからず警察が行方追う　埼玉・三郷市の小学生ひき逃げ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 04:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 05:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
