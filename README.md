@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04a297c03a4bf6ed6b5ec6b80ad2babf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d2a41bbbf8d30878eb27658527d52c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05280a411bce080cc35ec01bdf79b72f76363dd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07383195-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊芦屋基地と築城基地でT4 の飛行を見合わせ　愛知での練習機の墜落を受け　福岡
+      <a href=https://news.yahoo.co.jp/articles/46939e57d729818dc69c526a99671c0c13ce56e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90019438-kantelev-000-2-thumb.jpg?exp=10800&fmt=webp> 【迷惑】「すき家」でお茶が入ったピッチャーに直接口をつけて飲む動画撮影　少女2人を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83d38d9e9c8ac217d60c30842c51613bb2abb2b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010007-newsweek-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=767&ch=767&exp=10800&fmt=webp> プーチンは2年以内にNATO攻撃の再軍備を整える――英シンクタンクが警告
+      <a href=https://news.yahoo.co.jp/articles/db2e6127f4d050b97545d322c8926050187df4cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06567471-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 露ウクライナ直接交渉　プーチン大統領出席せず…なぜ来なかった？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8b024299167fbab2e0b1b7d5c8a616ea2498e18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-21916254-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 新田原基地所属の練習機墜落事故　男性隊員2人の捜索続く　現場付近で部品などを発見
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c47ccac1de1e818bd58c98ad2c99b31abb51708b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000131-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 事故後、男2人数分で立ち去りか　埼玉・三郷、小学生ひき逃げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f68dc15bfa67f64456b7476eb218d5f9202a0c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972220-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自解説】岡﨑彩咲陽さん（20）遺体発見まで「刑事部捜査一課」に情報共有されず　神奈川県警内部で“連携不備”か　ストーカー被害訴え行方不明に
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2cf5ca6149d64d0fad9bb1361544272b100e1c49d96e73d1c67e47475f786880.jpg> 療育とは 現場知る漫画家の思い
+      <a href=https://news.yahoo.co.jp/pickup/6538883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6744259aa84908d3bd12fd6dba7427699d2909b47728bc2b0b27552545764d1b.jpg> 3メガ銀の純利益が過去最高 3月期
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538877>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工場で有毒ガス充満 2人意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6538882>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工場内で有毒ガス 男性が死亡
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/23e4ac49e809875a0a9450701b84d466954bdf9631c1c1a136940f53775d11f4.jpg> Goldwin 全販売員を正社員化
+      <a href=https://news.yahoo.co.jp/pickup/6538878>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 結婚式場で食中毒 52人に症状
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 17:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 18:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
