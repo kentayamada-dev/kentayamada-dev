@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a72ca125e9aacc431a555235dbcc8d72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd0524cdf7e6f3aaf01055d5d809745d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4237b1e7de8d0afccce18b15bdf3839f08ca6c4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-21916373-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 専門家「市街地を外した可能性」自衛隊の練習機はなぜ愛知・入鹿池に墜落したのか 離陸から「2分間」に何が?
+      <a href=https://news.yahoo.co.jp/articles/cb4dc6521d5609f4feaac33b0a8c16c49d914539>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010022-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】埼玉・三郷市の小学生4人ひき逃げ事件　逃走したSUV車を発見　埼玉県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9331b4611946d09a2c6336eeda335f5907981d77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236815-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナまもなくトルコで直接交渉　トランプ大統領「適切であれば金曜日（16日）に行く」
+      <a href=https://news.yahoo.co.jp/articles/56e41e1d587af1318b2c167a4c6127750078da72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90007142-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 【時系列まとめ】航空自衛隊のT-4練習機墜落事故2日目　隊員の捜索活動続くも機体の主要部分見つからず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99e52d7ccf66d26ddcf54bfdfb5dc7a8b84c1f7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04560195-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 藤本美貴、夫・庄司智春と結婚してよかった瞬間明かす 惚気トークも「いいところいっぱいある」
+      <a href=https://news.yahoo.co.jp/articles/8710ce9fbc001197ca8cb0ce7ef4a0e14eaa9fd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04823646-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナ直接協議　ロシア提案もプーチン氏欠席　トランプ氏も訪問せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c47ccac1de1e818bd58c98ad2c99b31abb51708b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000131-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 事故後、男2人数分で立ち去りか　埼玉・三郷、小学生ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/0a597f80b42f3e00c033e77cfb54e5b039094f12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男児4人重軽傷　ひき逃げ事件　小学校で集団登校／埼玉県
       </a>
     </td>
   </tr>
@@ -394,32 +394,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/d1c12b0cca7af5085e44d1e5c952c4695867ce82b135d8e41ae65b656107ce82.jpg> 墜落の自衛隊機 手を振って出発
+      <a href=https://news.yahoo.co.jp/pickup/6538888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5b5a5e788765d0c48aa9f698884ef3684fa87195bbbbb9961a1dc399d53617fb.jpg> 墜落の空自機 離陸1分後に急降下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6744259aa84908d3bd12fd6dba7427699d2909b47728bc2b0b27552545764d1b.jpg> 3メガ銀の純利益が過去最高 3月期
+      <a href=https://news.yahoo.co.jp/pickup/6538886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c5baddaa70d1a0155d17c6ab37e47fb096d13bee82a144dc7f7d2c8bca60a655.jpg> 備蓄米の買い戻し期限5年に 方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538882>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工場内で有毒ガス 男性が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4585d626ca5677cab6d435d49f435a9086081e5c35ee84da7001e18ae6f0d3ba.jpg> 0歳を暴行し死なせた疑い 父逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/70f56f4c75457e6b9a83fd449a893349433c885d28563b63665769e4809c503a.jpg> 障害児施設に放火疑い 女を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/39bcc08cde436c487e33c473dc266d5aa2146917c04e7234fcd7634483a716d4.jpg> 児童ひき逃げ 現場付近で車発見
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ff5a31b2f31400853edfd2d9dc5bdf00f3cabaad62b8648b8b6683f702d19e37.jpg> 快挙 日ハム・宮西が日本新記録
+      <a href=https://news.yahoo.co.jp/pickup/6538879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
+      <a href=https://news.yahoo.co.jp/pickup/6538887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1fbebebcd2ae2c6eb13a960318200a98ef8e67c63d332a79a2501c5dc66fc937.jpg> 松村沙友理 理想のタイプ告白
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 18:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 19:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
