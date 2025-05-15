@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b01d5e983bb03bdea7d10b238d1edc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4e428e18ef804b816a6eb3642683c48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9f7907773c0b13c07f74afa337f41662478cd80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000038-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 中央道で7台絡む事故 2人けが　岐阜・多治見市
+      <a href=https://news.yahoo.co.jp/articles/7136763ff0e4a4cf4fae4f6bad733a3610091ee3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000248-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 羽鳥慎一アナ「事故は起きてしまう…ただそこから逃げるというのは事故ではなく事件」埼玉・児童ひき逃げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0bf5802044096e8df8b16f162222bcd63006bca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972117-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【逃走中】小学生の列に突っ込みひき逃げ4人けが　追跡した車のカメラが捉えた一部始終　児童「車を移動すると言ってそのまま逃げちゃった…」
+      <a href=https://news.yahoo.co.jp/articles/dd27fedd8aa7344cb70d4c292ce0774f5da28f1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972170-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トラックや乗用車など7台絡む事故…2人けが　中央道・上り一部区間で通行止め続く　岐阜・多治見市
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/560768384e435d96f074e7c6cf853dc234c32132bdd1691120d6db4f247274c6.jpg> 障害者狙いも ぼったくり疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e4d3d575282df8b1a59e8edf6144fe11f897eb5f57a78e114a25b2fc69c6ab5c.jpg> 中央道で車7台絡む事故 2人ケガ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8179fdb4ab958c802c3ae16a7c5d7ce0d9f36cc09f4bd71df70b5c637642b453.jpg> 父親の産後うつ 不調のサインは
+      <a href=https://news.yahoo.co.jp/pickup/6538857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/560768384e435d96f074e7c6cf853dc234c32132bdd1691120d6db4f247274c6.jpg> 障害者狙いも ぼったくり疑い逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 15:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 15:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
