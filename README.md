@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e759167305bed1b34bc5e52a21d7f87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ccea88b9e4a7041830458dcbd38cf23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ef6d639f732d528def98b10a4229529f5a17799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000029-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 不明2隊員の氏名公表　夜通し捜索、原因究明難航も　空自練習機墜落・愛知
+      <a href=https://news.yahoo.co.jp/articles/a228c61da5843468300993933b99b77212d84fde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000011-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1488&ch=1488&exp=10800&fmt=webp> ウクライナへの「押し付けられた平和」受け入れられず ドイツ首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b88cbe3c651282e96431360a22f4f313db50217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-16764724-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=562&ch=562&exp=10800&fmt=webp> プーチン氏、ウクライナとの和平交渉に出席しない見通し　ロシア代表団に名前なし
+      <a href=https://news.yahoo.co.jp/articles/c0ca41bd8c5f936c45e3789683cb81a073baf493>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】交番内の女子トイレにスマホを設置し女性警察官を盗撮か　京都府警の40代警察官を書類送検へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/169e604ddabc1884db6dce35762f226682f8da1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000060-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 警察トイレで盗撮疑い、京都　警官2人を書類送検へ
+      <a href=https://news.yahoo.co.jp/articles/f90915cc82e7a6231a3a92b413c893fe3b5f3767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 空自練習機の墜落、パイロット緊急脱出確認できず　急速に状況悪化か
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/fcf5f9a93d0b2a1d7dedcc6753293408ddb2df3a32094e33de10f99b5c7600c4.jpg> 経営再建中のJDI 千人超削減検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2fa33b30db8380dee206e0d66dc0c0219bd41d47db8346ebf1bb5857849f2d9d.jpg> 盗撮疑い 警察官2人を書類送検へ
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538837>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1dff41590f8c134c145c9d9cec945303cfcf08edae585e6c7f8c464ec76a5595.jpg> 「廃虚」も アウトレット二極化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e81ae5343521070ad4ade4ed3fe4d0d45ba471c2f5dd228eeec99615c54278c0.jpg> エベレスト入山料 大幅値上げの訳
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6f23afa3944c956de40e39813ac6c6bf70303e5dabdf1b15439bbb4589f37d48.jpg> 朗希長期離脱も 無期限ノースロー
+      <a href=https://news.yahoo.co.jp/pickup/6538840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c72ebb37b090879eeeba7cfcd9dd115c289c58f6525c77d7a0df3539933f5b16.jpg> 漫画予言で旅行中止続出 作者見解
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 11:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
