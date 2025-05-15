@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c44b43ee86ecb535267f926259b6d6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7a9190dc2e17402d7e1affd624fa97c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,22 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20dedead0ac3229c01479374f2f16ec224fbc0a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90024965-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「ロシア代表団は見せかけ」直接協議にプーチン氏参加せず　不透明な今後…米の動きは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2a2facefffb034b010328618057b618c9d177fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972535-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 空自機墜落　隊員2人の捜索続く　愛知・犬山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5433ecd882e4ea4960c0d26854799a318953d0ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道浦幌町で震度4の地震　M4.5と推定　津波の心配なし
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 03:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 03:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
