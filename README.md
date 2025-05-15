@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c666a464aef70ac1089352781a44300.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6652d68b33470b8e54975be9174113a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2141d56f319afaa1cc59e19c8f051cf02c87ab62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000079-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 小学生4人ひき逃げ、埼玉・三郷市内で逃走車を発見
+      <a href=https://news.yahoo.co.jp/articles/a44cc2460a278fa090d4d25ea243fa2b90fb6e7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-08989595-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドラレコが捉えた　車が“逃走するまでの様子”　小学生ひき逃げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a0381a9b2d0cfe387e0db944fafaa2ee05a3be4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06766624-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ソフトバンク】秋広優人が第3打席で移籍後初ヒット　直後に7番・山川が2ラン
+      <a href=https://news.yahoo.co.jp/articles/446e1a5cc6596669fc302987055b5e389da0c750>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000388-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> ソフトバンク・小久保監督　山川を4番から外したワケ「かなり迷ったけれど…」復活弾にホッ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfb1fdb3695ddab7c9c523670426f80ee078544a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972390-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明の2人の捜索続く…自衛隊機はなぜ“池”に墜落したのか 元空将「迷惑をかけないようにするには…」
+      <a href=https://news.yahoo.co.jp/articles/1c15c6c99f77284a2a17813893d1fc4b3f8c0b7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000114-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=898&ch=898&exp=10800&fmt=webp> ロ・ウクライナ首脳駆け引き　3年ぶり直接協議、和平保証なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed6bdfbfb32608472c14694ceea66d8efffa6da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000102-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=836&ch=836&exp=10800&fmt=webp> ウクライナ巡り直接協議　ロシア大統領トルコ入りせず　3年ぶり、停戦は不透明
+      <a href=https://news.yahoo.co.jp/articles/e1b0cf82b50768b2bb5fc8010f5a40edb44fc86a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 空自練習機墜落、管制官に異常伝えず　事態が急速に悪化か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538890>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 店で水差し直飲み疑い 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6538893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5d7b3d84a8c5d6024f415846eb36057fd2ca478289a645578d5d92514560b16f.jpg> 緊急避妊薬 市販薬になる可能性
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 20:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 21:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
