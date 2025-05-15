@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93ca9ab4631594951fa999c3c893c280.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf4b6bdfe8d97688840f0ed244577d39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf6fc94969a644bc0ddd2e72e99f90b385702f3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000007-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=607&ch=607&exp=10800&fmt=webp> 外遊後の行き先「不明」　トランプ氏、交渉参加含み
+      <a href=https://news.yahoo.co.jp/articles/193a68a11e6f90f06140fdfe5f46bdc09efff319>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08867197-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナの直接交渉16日に実施　高官級で“進展”不透明
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 05:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 05:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
