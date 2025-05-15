@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cd8621b0ba8b98b0e1469fd4c4602ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aae7b19e7f5dfb209580e93f0e7a415b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e82adc48f80a4c23a38178e3fb38bb6e5e7e4488>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90007145-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「人的ミスやエンジントラブル考えにくい」自衛隊機墜落は油圧系に問題か　専門家“背面で落ちた”可能性も
+      <a href=https://news.yahoo.co.jp/articles/0dcf8d5cbcb9ded035a9f893f0b27f7b32122e69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000018-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 【速報】小学生ひき逃げ…逃走車両とみられるSUV発見　三郷市内で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9bfea222a5f551851b8684f634a08f33dabe6c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000064-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 東京方面へ? 新たな防カメ入手 “小学生ひき逃げ”SUVどこへ
+      <a href=https://news.yahoo.co.jp/articles/7f7c1cb85b38b71996b1bdcf48514e3b935135c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050175-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 緊急避妊薬の試験販売６８００件超、服用女性の９割以上「薬剤師の説明はわかりやすい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a4c13f3036305613efddc58959095df81058a48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00065720-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> すき家で共用ピッチャーのお茶を直飲み…１６歳少女２人を書類送検　すき家の広報担当「迷惑行為については厳正に対処」
+      <a href=https://news.yahoo.co.jp/articles/3d60c3329bcfdb4463a9e603120ebe93fe705181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04966941-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 捜索難航…安否不明の隊員はベテラン31歳と29歳　離陸後2分でレーダーから消える　自衛隊機墜落
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c5baddaa70d1a0155d17c6ab37e47fb096d13bee82a144dc7f7d2c8bca60a655.jpg> 備蓄米の買い戻し期限5年に 方針
+      <a href=https://news.yahoo.co.jp/pickup/6538895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e89b70e5ae0d3e9ef92c3fd1b9321c99e5b555f0e42da8971c1d03a70b17b254.jpg> 17-18日 西日本は警報級の大雨か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
+      <a href=https://news.yahoo.co.jp/pickup/6538891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ab65f85852071458e9f02f3063718d65346b00afdd0b89bbfc7b3bf8b73f399d.jpg> 大物芸人 BS番組に続々進出の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1fbebebcd2ae2c6eb13a960318200a98ef8e67c63d332a79a2501c5dc66fc937.jpg> 松村沙友理 理想のタイプ告白
+      <a href=https://news.yahoo.co.jp/pickup/6538879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 19:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 20:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
