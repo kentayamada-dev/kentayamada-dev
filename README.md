@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b68c6871e190a6522d70d55f4142f31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/559f8922f166c16d41e696fd6191f561.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85b9fd13b56dde964b9adfd620b8a2c563e4772a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-10178461-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> 小学生列に車突っ込みひき逃げ 児童4人がけが 埼玉・三郷市
+      <a href=https://news.yahoo.co.jp/articles/47c9bd9a457c397f5bc65b22e273b5607a4d2d2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972210-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアの直接交渉はプーチン大統領不在のまま開始へ　ロシア代表団はトルコ・イスタンブールに到着　トランプ大統領も出席しないとの報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1fed0976ed003de9116bbc43e5fc35708f25725a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000045-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 笑って「ごめん」　小学生の列に車が突っ込み…4人けが　男2人逃走　埼玉・三郷市
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf1e9f41b81d4cdbfd1f8962f725cff488867c58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000024-ann-000-8-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦協議　プーチン氏不参加　両首脳の直接交渉実現せず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8a51974b39c398699e098e662452c827aabc3d9d1c213b641ecd8d73466119d9.jpg> 日本海側など30℃前後 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6538867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/aa70874cbe7b8875d4692e5aac8f4cff7a9cdb232e5cc1c3e2ec7e65b7f6ea1e.jpg> 広島平和式典 台湾にも通知送付へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/aa70874cbe7b8875d4692e5aac8f4cff7a9cdb232e5cc1c3e2ec7e65b7f6ea1e.jpg> 広島平和式典 台湾にも通知送付へ
+      <a href=https://news.yahoo.co.jp/pickup/6538871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2cf5ca6149d64d0fad9bb1361544272b100e1c49d96e73d1c67e47475f786880.jpg> 療育とは 現場知る漫画家の思い
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6cd7b406fd4478121279c07f028d275d3ed05383d364ac3641da7a39eea4bbf7.jpg> 負傷の佐々木朗希 手術は否定
+      <a href=https://news.yahoo.co.jp/pickup/6538862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/05a32c262acf12dedfd35188c6333f4b2bf5de2c379afbe42705b95f1a52770f.jpg> 金慧成がメジャー初HR 大谷祝福
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/76f9c8b1127f7465504d5a5d9d2d67783b0e66b62a1b25900ff624e6f8633792.jpg> 平野ノラ 産後回復に1年かかった
+      <a href=https://news.yahoo.co.jp/pickup/6538872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1a7d88bbd85d88a3d147db9734701513cecc281ccae65789fabdadbbf50dfd85.jpg> 成宮寛貴 復帰は「転生に近い」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 16:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 16:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
