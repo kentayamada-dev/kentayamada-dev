@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e532db23d6f528a863648f2b790a7548.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e3fc8c1ee970371ecf08ed30e2c3c00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58ff115ac20eb5258014b375e79dea8d788871c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972033-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】自衛隊機墜落で捜索続く　安否不明の隊員2人はベテランと中堅の操縦者　中谷防衛相「搭乗員救助に全力尽くす」
+      <a href=https://news.yahoo.co.jp/articles/9650f3de14eb8a52fbcfbcfe81bf87e526324aa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】空自墜落機の搭乗員は井岡拓路１等空尉（３１）と、網谷奨太２等空尉（２９）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52e4c94d12592622fec3e39b4eae87823807ac0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-03145659-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 三郷小学生ひき逃げ　事故起こした車は数分以内に逃走か　埼玉
+      <a href=https://news.yahoo.co.jp/articles/34ff257185723f3ad1ee895296243ce28ac7f34c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236688-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 駅方面に逃走か　埼玉・三郷市　小学生の集団に車突っ込み男児4人が重軽傷 警察はひき逃げした車の行方を捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/052c79c1aa2883003d6db2732bda6170b4fd54b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236692-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアの首脳会談ならず　代表団にプーチン氏の名前なし
+      <a href=https://news.yahoo.co.jp/articles/3f5248c32d49c4e8b768bbea7f2daf8657caeaca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236700-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「出前館」配達員アカウント不正作成疑い　日本人装いウズベキスタン人が違法就労か　男4人逮捕　配達中モペットで無免許ひき逃げ事件起こし発覚　警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5aaef95ac04418aefd279d715239e4b7c270cf27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「出前館」アカウント不正譲渡容疑　労働資格ない外国人に　配達中事故で発覚・警視庁
+      <a href=https://news.yahoo.co.jp/articles/bf1e9f41b81d4cdbfd1f8962f725cff488867c58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000024-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ停戦協議　プーチン氏不参加　両首脳の直接交渉実現せず
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1a2ac25f5b55fa84bdddf6da1fafacc2510298845b1ee80cfdfabbf0738ead9c.jpg> 外国人が日本人を装い配達員 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538846>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a230cadac5c87a3bde1a1376026023ecd3a571028a1df794cda3a308c6c43303.jpg> バスが急ブレーキ 1歳含む7人搬送
       </a>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1dff41590f8c134c145c9d9cec945303cfcf08edae585e6c7f8c464ec76a5595.jpg> 「廃虚」も アウトレット二極化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e81ae5343521070ad4ade4ed3fe4d0d45ba471c2f5dd228eeec99615c54278c0.jpg> エベレスト入山料 大幅値上げの訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538845>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/7cbd3bb39108a0cd47ac2fa65a0967628ca8268de2be7d66091b5f5dec2d007c.jpg> 大谷が13号ホームラン 由伸を援護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/621c70cb8aef6545cfaa33b75cf7460f0b33a434770ef6664c53bd7ecd05411c.jpg> 伊藤英明 結婚経て責任感芽生えた
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 12:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 12:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
