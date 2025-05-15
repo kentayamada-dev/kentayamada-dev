@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ccea88b9e4a7041830458dcbd38cf23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e532db23d6f528a863648f2b790a7548.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a228c61da5843468300993933b99b77212d84fde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000011-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1488&ch=1488&exp=10800&fmt=webp> ウクライナへの「押し付けられた平和」受け入れられず ドイツ首相
+      <a href=https://news.yahoo.co.jp/articles/58ff115ac20eb5258014b375e79dea8d788871c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972033-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】自衛隊機墜落で捜索続く　安否不明の隊員2人はベテランと中堅の操縦者　中谷防衛相「搭乗員救助に全力尽くす」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0ca41bd8c5f936c45e3789683cb81a073baf493>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】交番内の女子トイレにスマホを設置し女性警察官を盗撮か　京都府警の40代警察官を書類送検へ
+      <a href=https://news.yahoo.co.jp/articles/52e4c94d12592622fec3e39b4eae87823807ac0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-03145659-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 三郷小学生ひき逃げ　事故起こした車は数分以内に逃走か　埼玉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f90915cc82e7a6231a3a92b413c893fe3b5f3767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 空自練習機の墜落、パイロット緊急脱出確認できず　急速に状況悪化か
+      <a href=https://news.yahoo.co.jp/articles/052c79c1aa2883003d6db2732bda6170b4fd54b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236692-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアの首脳会談ならず　代表団にプーチン氏の名前なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86c167f44599a026310817c69f67afff19a5842d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=724&ch=724&exp=10800&fmt=webp> カンニング竹山「日本語が片言…はっきりしないけど結構ポイントに」埼玉・三郷市の児童ひき逃げ犯を推理
+      <a href=https://news.yahoo.co.jp/articles/5aaef95ac04418aefd279d715239e4b7c270cf27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「出前館」アカウント不正譲渡容疑　労働資格ない外国人に　配達中事故で発覚・警視庁
       </a>
     </td>
   </tr>
@@ -395,23 +395,31 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/dbe0f0d80b8b889524956bf7ef3490399957c8e3efbbb58628a7d049cff74c42.jpg> 自衛隊機墜落 搭乗隊員の氏名公表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1d33c6fdd8fc7af9947ca386de9352e3a95d2765f13914b28acdc20b50e2fd2c.jpg> 自衛隊機墜落 搭乗隊員の氏名公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6b5f782bbed9943ca71ff32a325651c220121c0bde411e7f1e44e9ce06208c1f.jpg> 夏日続出か 日本海側ほど気温上昇
+      <a href=https://news.yahoo.co.jp/pickup/6538849>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02208954/title-1747224900247.jpeg?exp=10800> 攻めのリストラ 日本に普及するか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2fa33b30db8380dee206e0d66dc0c0219bd41d47db8346ebf1bb5857849f2d9d.jpg> 盗撮疑い 警察官2人を書類送検へ
+      <a href=https://news.yahoo.co.jp/pickup/6538843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/027c129665fbf5b612b194b2fbd1f47d57dd45693b8c77afddf2582378d7c275.jpg> 維新が退潮傾向 地方議員離党続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a230cadac5c87a3bde1a1376026023ecd3a571028a1df794cda3a308c6c43303.jpg> バスが急ブレーキ 1歳含む7人搬送
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f8e8c69bc756607a145983d9e5ef8dace31a09939a7b7faea4d3056ffe7e3467.jpg> アニメ火垂るの墓 国内初の配信へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8bf3083d426e943e7000f5e62c220232b61acbec2fd2889d277fd690989ab9cb.jpg> 横綱・豊昇龍2連敗 取材対応断る
+      <a href=https://news.yahoo.co.jp/pickup/6538845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/7cbd3bb39108a0cd47ac2fa65a0967628ca8268de2be7d66091b5f5dec2d007c.jpg> 大谷が13号ホームラン 由伸を援護
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 11:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 12:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
