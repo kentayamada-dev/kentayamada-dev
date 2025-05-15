@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b86eb67b525014a72d3fc3d596c02858.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15a32f0601a63fd8ea334188ac0a64e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fd759449d9c46dcfcc18a51f1b1e14afb6e3032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050199-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏「私に会うの恐れている」と挑発、プーチン氏は無視…露側は交渉で主導権握る思惑
+      <a href=https://news.yahoo.co.jp/articles/055e27ddc1dca0d5294d0ec6d2dfb12b962d60e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236874-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道十勝地方中部で震度4　津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64f1cca8b876dca0d957577824470f960f2e28ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972522-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> JR十日町駅の列車車両の屋根から男性の遺体発見　後頭部から出血も　警察は事件・事故両面で捜査　新潟・十日町市
+      <a href=https://news.yahoo.co.jp/articles/a676bc7a7fd99a930e1e51ab4c4281b3ad41a00b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=532&ch=532&exp=10800&fmt=webp> プーチン氏は協議不参加　ウクライナが参加有無を最終判断へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf275ddbfa2cd2b55dda37739d1f502bdf7418e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050206-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げ、逃走した車が市内で見つかる
+      <a href=https://news.yahoo.co.jp/articles/e4d73bdec4749cf1d6e23b68a88d00123ff1d5cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 児童4人ひき逃げ事件　逃走車　現場近くで発見／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/982c507da9c5b46745ff7e346cbc86ed850e8cc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90040375-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明の2人の捜索続く…自衛隊機はなぜ“池”に墜落したのか 元空将「迷惑をかけないようにするには…」
+      <a href=https://news.yahoo.co.jp/articles/89e432add9dbf8542ede2d1a6128f8a211ee45b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 空自練習機墜落　フライトレコーダー未搭載で調査難航か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d60c3329bcfdb4463a9e603120ebe93fe705181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04966941-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 捜索難航…安否不明の隊員はベテラン31歳と29歳　離陸後2分でレーダーから消える　自衛隊機墜落
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5cd692f89305f7d45f8ec4c1a99f0b37ee7b61a7a0d6b0c4970818b3b874d654.jpg> 十勝地方中部で震度4 津波なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538906>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ead830a9cd62c42bc70ba9338785c43073bb2fda9fca655d1bd8e8681de24c82.jpg> 消費減税「問題がある」自民税調
       </a>
@@ -402,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5b5a5e788765d0c48aa9f698884ef3684fa87195bbbbb9961a1dc399d53617fb.jpg> 墜落の空自機 離陸1分後に急降下
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e89b70e5ae0d3e9ef92c3fd1b9321c99e5b555f0e42da8971c1d03a70b17b254.jpg> 17-18日 西日本は警報級の大雨か
+      <a href=https://news.yahoo.co.jp/pickup/6538908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/889fd627ca0bb4b56cfb23fcd70fc6f4851abb35d66c94f04de9f3cd7c073b2b.jpg> 自衛隊機 高度1400mで異常発生か
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5d7b3d84a8c5d6024f415846eb36057fd2ca478289a645578d5d92514560b16f.jpg> 緊急避妊薬 市販薬になる可能性
+      <a href=https://news.yahoo.co.jp/pickup/6538894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
+      <a href=https://news.yahoo.co.jp/pickup/6538895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e89b70e5ae0d3e9ef92c3fd1b9321c99e5b555f0e42da8971c1d03a70b17b254.jpg> 17-18日 西日本は警報級の大雨か
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 22:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 22:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
