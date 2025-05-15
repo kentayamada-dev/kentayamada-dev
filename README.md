@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b415ee2bc55d6fcf0d8cfc926aec1e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d2c570240464546e28054679265f459.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fe7da1cddb5f59d6fb3b77f64dd7fb12adfe6dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1661&ch=1661&exp=10800&fmt=webp> ウクライナ和平、16日に直接協議　プーチン氏参加拒否で進展見えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/81743ebb43b3ce47dafaede19fe67cf7bd7f2c70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000078-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 菅野智之を指揮官が労う「彼は敗因ではない」　今季最多103球力投も米自己ワースト4失点で3敗目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000078-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 菅野智之を指揮官が労う「彼は敗因ではない」　今季最多103球力投も米自己ワースト4失点で3敗目
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35858007a1e94e87e5385dba6a90f0242c85f9ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972567-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】逃走した車発見…埼玉・三郷市小学生4人ひき逃げ事件　現場から約2km南の住宅地で発見され警察が男2人の行方追う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c7c777d3061371aefcc19e2108dc25199412174>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178585-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 3年ぶりのロシアとの直接交渉 ゼレンスキー大統領「代表団を派遣する」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972567-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】逃走した車発見…埼玉・三郷市小学生4人ひき逃げ事件　現場から約2km南の住宅地で発見され警察が男2人の行方追う
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1809ae071661cae2b5ab3b2e5374a4a0278290c6fac1472e0db0395de6c041c4.jpg> ネットカジノ規制強化 法案提出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/abfee282d04a7f89eaf0a13562a7fc895e0464c27d491af78ac7aa2363f4fee9.jpg> 少額輸入品の免税見直しへ 財務省
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e230f16301c63ddff49731b104a99e1cdced82b3b607517b38078c6e299f5ae7.jpg> 巨人より報道陣多い 秋広が驚き
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 08:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
