@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b4d1bc7d34c4209e673456eb24dc725.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97c9c993b9e646c71478e044d673cac4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b29c6374b34f4a40cd9594c06b72d5438e05c844>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、体面重視し首脳会談拒否か　ロシアとウクライナ、交渉で互いの譲歩狙う
+      <a href=https://news.yahoo.co.jp/articles/21a1d9b23b380b7cf8059d14f4164d0d41f75f06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露ウクライナ交渉の舞台提供で注目、トルコのエルドアン政権　仲介役として双方と関係維持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c87b0e47c5a8de0d6a34492795e5a829d2c273ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178573-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=980&ch=980&exp=10800&fmt=webp> 小学生ひき逃げ 車を警察署にレッカー移動
+      <a href=https://news.yahoo.co.jp/articles/fca78383ad3695dbb46c5d389d830b46b66fdf66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236883-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逃げた車を発見も…男2人は逃走中　小学生4人ひき逃げ　ドラレコ“新映像”で見えた逃走経路　右折・左折を繰り返し反対車線にはみ出す様子も【news23】
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 00:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 01:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
