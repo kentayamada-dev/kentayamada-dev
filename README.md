@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d2c570240464546e28054679265f459.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/002b15cc95b1a02b772f867c29451d49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7b8a22d68bc12e59414eb8ef16ca88fa9ea1b54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00548034-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「出動しない方が良い」空自のエリート部隊とは？ モットーは「他者を生かすために」現場隊員のリアルな声を聞いた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2fe7da1cddb5f59d6fb3b77f64dd7fb12adfe6dd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1661&ch=1661&exp=10800&fmt=webp> ウクライナ和平、16日に直接協議　プーチン氏参加拒否で進展見えず
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/81743ebb43b3ce47dafaede19fe67cf7bd7f2c70>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000078-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 菅野智之を指揮官が労う「彼は敗因ではない」　今季最多103球力投も米自己ワースト4失点で3敗目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7f8c26dc1a104fd4595f87e0e4f59d0c57f0af3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90030142-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落事故で隊員2人の安否は依然不明　夜通しの捜索続く
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2b212721ea7e1d2c7b77aa4efbfae14de3c6d599ad1849f1bdd01ccf7ff22e6d.jpg> ウ大統領 協議に代表団派遣を表明
+      <a href=https://news.yahoo.co.jp/pickup/6538926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1809ae071661cae2b5ab3b2e5374a4a0278290c6fac1472e0db0395de6c041c4.jpg> ネットカジノ規制強化 法案提出へ
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1809ae071661cae2b5ab3b2e5374a4a0278290c6fac1472e0db0395de6c041c4.jpg> ネットカジノ規制強化 法案提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538927>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/abfee282d04a7f89eaf0a13562a7fc895e0464c27d491af78ac7aa2363f4fee9.jpg> 少額輸入品の免税見直しへ 財務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/329ff81b671906123ad0a5791eec54cc1b6d8f56589ecbe726eddd1735448adf.jpg> 黒字経営の大企業でリストラ なぜ
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/d8ac2383314811d7220d27a5fc00c0df4d5f1e1b7b4ac169e3ca0b39c862e2f1.jpg> 出産費用無償化へ 悔やむ新米ママ
+      <a href=https://news.yahoo.co.jp/pickup/6538933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/b3b2cba30253d156dbadf550e612031657af351c5ddfa5f58bfa5102de6af0ea.jpg> 運転手病死のタクシー 乗客が停車
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/aca181ebb48cf358f3154cf3b24fa09624477141c17690dd9344c10e4ac6e7b5.jpg> 外資系高級ホテル開発が活況 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/a28f664c36a30c90f533e83739dab8b2b270cabd4ef5ea5bc6093f8bd6ee6c55.jpg> 森保J パリ五輪世代を大量招集へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 08:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 08:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
