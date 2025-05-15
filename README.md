@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bfdd306896660aff9cac39dc305585c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d86ba7c3fadbd807e61387fa7b34947a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3cde4d7d5bb0fb565776107777ade95c70a80b5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972557-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げで逃走した車見つかる　警察が男2人の行方追う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9b4dbd5047550b7e53458543159cbe01c87fb2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05161027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之、渾身の１０３球…敗北に抵抗したオールドルーキー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/691900f0c467e73ea7790ef1a6643ccaf1304918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05426984-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【自衛隊機墜落事故】“離陸後約1分は安定飛行”　緊急脱出の信号確認されず　搭乗隊員2人の安否不明　愛知・犬山市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a02319418dfb9d7cf48fc8bf49020fd1e335bc8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233035-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ゼレンスキー氏、和平協議に代表団を派遣　米国務長官も出席見送り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4875f9c12f46a614351e7e10de874879857e2410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00344719-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】秋広優人の方針を〝一転〟させた打撃コーチの提言「使いたい、打つ方でいける」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18368989937405fba11c45c7b890e928a6ac19d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010746-pinzuba-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 西内まりや、芸能界引退の理由は“身内のトラブル”発覚…直前に明かしていた「人間不信」の精神状況
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/889fd627ca0bb4b56cfb23fcd70fc6f4851abb35d66c94f04de9f3cd7c073b2b.jpg> 自衛隊機 高度1400mで異常発生か
+      <a href=https://news.yahoo.co.jp/pickup/6538922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bdee92c7d50090d494a9b468a5a065c1b712ed11b6ada5bbf1a069c5943c2942.jpg> 季節先取りの暑さ続く 熱中症注意
       </a>
     </td>
   </tr>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538915>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/943c3f4318614932cf0d73bfa3228e3479678dbf5486048502badabd6b2de038.jpg> 海岸に遺体 殺人容疑で再逮捕へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538924>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 潮干狩り中に溺れたか 71歳が死亡
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 06:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 07:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
