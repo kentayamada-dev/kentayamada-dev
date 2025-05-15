@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d2a41bbbf8d30878eb27658527d52c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a72ca125e9aacc431a555235dbcc8d72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46939e57d729818dc69c526a99671c0c13ce56e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90019438-kantelev-000-2-thumb.jpg?exp=10800&fmt=webp> 【迷惑】「すき家」でお茶が入ったピッチャーに直接口をつけて飲む動画撮影　少女2人を書類送検
+      <a href=https://news.yahoo.co.jp/articles/4237b1e7de8d0afccce18b15bdf3839f08ca6c4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-21916373-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 専門家「市街地を外した可能性」自衛隊の練習機はなぜ愛知・入鹿池に墜落したのか 離陸から「2分間」に何が?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2e6127f4d050b97545d322c8926050187df4cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06567471-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 露ウクライナ直接交渉　プーチン大統領出席せず…なぜ来なかった？
+      <a href=https://news.yahoo.co.jp/articles/9331b4611946d09a2c6336eeda335f5907981d77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07236815-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナまもなくトルコで直接交渉　トランプ大統領「適切であれば金曜日（16日）に行く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8b024299167fbab2e0b1b7d5c8a616ea2498e18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-21916254-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 新田原基地所属の練習機墜落事故　男性隊員2人の捜索続く　現場付近で部品などを発見
+      <a href=https://news.yahoo.co.jp/articles/99e52d7ccf66d26ddcf54bfdfb5dc7a8b84c1f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04560195-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 藤本美貴、夫・庄司智春と結婚してよかった瞬間明かす 惚気トークも「いいところいっぱいある」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538873>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米価格下げられる? 農業法人見解
+      <a href=https://news.yahoo.co.jp/pickup/6538884>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> すき家で水差し直飲みか 書類送検
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 18:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 18:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
