@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d1ec2240cc216a1df2d26a07c9e6769.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04a297c03a4bf6ed6b5ec6b80ad2babf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c47ccac1de1e818bd58c98ad2c99b31abb51708b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事故後、男2人数分で立ち去りか　埼玉・三郷、小学生ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/05280a411bce080cc35ec01bdf79b72f76363dd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-07383195-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊芦屋基地と築城基地でT4 の飛行を見合わせ　愛知での練習機の墜落を受け　福岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8267a2fe350e75ab7a9363f6d9a7f2cc9204ce8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-06741211-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> “手を振って出発”直後の墜落　墜落機パイロットは29歳と31歳　事故数分前の映像から分かることは…　愛知・犬山市 自衛隊機墜落事故
+      <a href=https://news.yahoo.co.jp/articles/83d38d9e9c8ac217d60c30842c51613bb2abb2b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010007-newsweek-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=767&ch=767&exp=10800&fmt=webp> プーチンは2年以内にNATO攻撃の再軍備を整える――英シンクタンクが警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c47ccac1de1e818bd58c98ad2c99b31abb51708b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000131-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=662&ch=662&exp=10800&fmt=webp> 事故後、男2人数分で立ち去りか　埼玉・三郷、小学生ひき逃げ
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47c9bd9a457c397f5bc65b22e273b5607a4d2d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00972210-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアの直接交渉はプーチン大統領不在のまま開始へ　ロシア代表団はトルコ・イスタンブールに到着　トランプ大統領も出席しないとの報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fee7fc377a2955b8e4be6edc7364a7b34ecea32f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-01753845-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> IL入り佐々木朗希に「？」　手術回避は明言も彷徨う視線…出口の見えない“闘い”か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/aa70874cbe7b8875d4692e5aac8f4cff7a9cdb232e5cc1c3e2ec7e65b7f6ea1e.jpg> 広島平和式典 台湾にも通知送付へ
+      <a href=https://news.yahoo.co.jp/pickup/6538880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/d1c12b0cca7af5085e44d1e5c952c4695867ce82b135d8e41ae65b656107ce82.jpg> 墜落の自衛隊機 手を振って出発
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/c40aeddd92942e8d1b7367b03b252899e0754ba2e92ca40ef6af50a8463d8bd7.jpg> 川崎遺体 県警内の連携に不備か
+      <a href=https://news.yahoo.co.jp/pickup/6538877>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工場で有毒ガス充満 2人意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/70f56f4c75457e6b9a83fd449a893349433c885d28563b63665769e4809c503a.jpg> 障害児施設に放火疑い 女を逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/bace1fe47108758b58fd18a87aac6e3c70c69b3e9900d9e136e75ee592fe6dd6.jpg> まいばすけっと なぜ首都圏で増加
+      <a href=https://news.yahoo.co.jp/pickup/6538873>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米価格下げられる? 農業法人見解
       </a>
     </td>
   </tr>
@@ -450,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/9ece2fd553bb9c12e3b5a224be52792700d47aa6566b5cf6120457a624d6abc3.jpg> 元貴景勝 40kg減って体重130kg
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/1a7d88bbd85d88a3d147db9734701513cecc281ccae65789fabdadbbf50dfd85.jpg> 成宮寛貴 復帰は「転生に近い」
+      <a href=https://news.yahoo.co.jp/pickup/6538879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/060b8d334e4b75d8cca8fc0995f6cd61853688fb7ad246bd63dfb8c08eaf0f24.jpg> 西内まりや 芸能界引退を発表
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 17:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 17:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
