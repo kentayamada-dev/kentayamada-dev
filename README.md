@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9514f7f1c1c73ee76e5bf8421d17934a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7cfe2aaf9a9813ed520b32d7f30e8760.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5433ecd882e4ea4960c0d26854799a318953d0ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道浦幌町で震度4の地震　M4.5と推定　津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/34c1fdbe648c10b53c5d790c2b2b6ee54f69401b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000083-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> ロシアとウクライナの協議開始へ　首脳会談は見送りに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a676bc7a7fd99a930e1e51ab4c4281b3ad41a00b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000077-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=532&ch=532&exp=10800&fmt=webp> プーチン氏は協議不参加　ウクライナが参加有無を最終判断へ
+      <a href=https://news.yahoo.co.jp/articles/5433ecd882e4ea4960c0d26854799a318953d0ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道浦幌町で震度4の地震　M4.5と推定　津波の心配なし
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e58bad10b9190e1ed18d284d7b3a57d2a7a0bbf06cf53c6b45e7294e32d742c0.jpg> 児童ひき逃げ 見えた逃走ルート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538904>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a2f7b394b909c96c7f6487496db96b2412b009bb0e22ae5f40e8080fcded736b.jpg> 列車車両の屋根から遺体発見 捜査
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/4777b8c6665577fb2c87fa0b256f36a921ebe9914ab90fd91c93b2ab3939dff8.jpg> 西内まりや引退 これまでの活動
+      <a href=https://news.yahoo.co.jp/pickup/6538914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5f1f3d66de42fd97e0f224bb0be4dd3b61fef08de5e3e246a10b33a7a9637657.jpg> ブラックホールからガス弾丸 観測
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/b0fbdead8d663cbf7014880de9bd23b974a30ffaa50e7598418a80b9f2841485.jpg> 西内まりや引退へ SNSの反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 23:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 23:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
