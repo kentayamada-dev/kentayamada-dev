@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GEwpzoRn2K0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/VLojAzTSS_c?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7b01d09df231c53d27e52da3b0ceb68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cf1784d353941052711f2cb8257d0b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36c4b660c9da116a9996b171b0005c5038adc160>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「トランプ氏は出席せず」　ロシアとウクライナの直接協議　米報道
+      <a href=https://news.yahoo.co.jp/articles/91d995f2967ffae8e713bea6d1f8a6516d522447>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050058-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> ロシア・ウクライナの直接協議にプーチン氏は参加見送りへ、トランプ氏も参加せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc013e3dbae01751870ea4c40f008b6c66810d11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自T4練習機墜落事故の搭乗員氏名を公表　安否は不明、愛知・犬山で捜索続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8db5bb6e453ca83c365ad196de60b8874c843b55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 署内トイレなどに小型カメラ設置か　警察官2人を盗撮容疑で書類送検へ
+      <a href=https://news.yahoo.co.jp/articles/411fe6b3173bcff6d5017e6bf6247fe176a3323a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000016-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自機墜落事故　安否不明の2隊員の氏名公表
       </a>
     </td>
   </tr>
@@ -387,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4df161c6f071aaf5f705d13abb93df7823ab9347>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00344581-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【夏場所】豊昇龍に何が起きた？　秀ノ山親方が〝異変〟を指摘「気持ちが受け身に回っていた」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/93d86077fc5f6779f407ca711607c067a80e235643ec6413200e75adfe0ff63c.jpg> 露ウ直接協議 プーチン氏は欠席か
+      <a href=https://news.yahoo.co.jp/pickup/6538836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/55590331ce37403f5f708543cb388ed9ca1d7639481b5aa24376d44e0b2a2dcd.jpg> 自衛隊機墜落 搭乗隊員の氏名公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f589f00ba9b9013587c358c74a2c017b61483080414fac79b0242c2ada4205ed.jpg> 米国産日本車を逆輸入 日本政府案
+      <a href=https://news.yahoo.co.jp/pickup/6538823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/6b5f782bbed9943ca71ff32a325651c220121c0bde411e7f1e44e9ce06208c1f.jpg> 夏日続出か 日本海側ほど気温上昇
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/dd0750362f2a179a8622574903eafd6b36af6f83d35f6d6a1d3db9f086c301c2.jpg> 小学生ひき逃げ事件 逃走時の映像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/2fa33b30db8380dee206e0d66dc0c0219bd41d47db8346ebf1bb5857849f2d9d.jpg> 盗撮疑い 警察官2人を書類送検へ
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/185e02553072263a5a5d5888dcbd41a08282c4348b4992e61fd944e0634add72.jpg> ミュゼ 債権者が破産申し立てへ
+      <a href=https://news.yahoo.co.jp/pickup/6538830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f8e8c69bc756607a145983d9e5ef8dace31a09939a7b7faea4d3056ffe7e3467.jpg> アニメ火垂るの墓 国内初の配信へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/8bf3083d426e943e7000f5e62c220232b61acbec2fd2889d277fd690989ab9cb.jpg> 横綱・豊昇龍2連敗 取材対応断る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 10:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 10:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
