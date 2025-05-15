@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97c9c993b9e646c71478e044d673cac4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d6046270548c9ab9ebf0ce1f61b9b19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21a1d9b23b380b7cf8059d14f4164d0d41f75f06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露ウクライナ交渉の舞台提供で注目、トルコのエルドアン政権　仲介役として双方と関係維持
+      <a href=https://news.yahoo.co.jp/articles/66447c17f21344e538a4570cd3b55938f3407888>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972542-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏「プーチンと私が一緒に出席するまで何も起きない」　ウクライナ和平に向けたトルコでの直接交渉について高官級交渉での進展は困難との考え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fca78383ad3695dbb46c5d389d830b46b66fdf66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236883-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逃げた車を発見も…男2人は逃走中　小学生4人ひき逃げ　ドラレコ“新映像”で見えた逃走経路　右折・左折を繰り返し反対車線にはみ出す様子も【news23】
+      <a href=https://news.yahoo.co.jp/articles/ed3573522bc2a6e144d89b9e52d60926f96d7639>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08744875-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉小学生ひき逃げ　現場から逃走のSUV車を押収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2a2facefffb034b010328618057b618c9d177fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972535-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 空自機墜落　隊員2人の捜索続く　愛知・犬山市
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5433ecd882e4ea4960c0d26854799a318953d0ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道浦幌町で震度4の地震　M4.5と推定　津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89e432add9dbf8542ede2d1a6128f8a211ee45b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000075-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=548&ch=548&exp=10800&fmt=webp> 空自練習機墜落　フライトレコーダー未搭載で調査難航か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 01:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 01:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
