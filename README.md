@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87a5e12d53f0d9e628753f5c5029eccc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5eed5631285e584d386333435edfbfd6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c93be4b1ecc4d1e9b906c6bf2e09d2b8fd43d35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08372558-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 男子児童4人ケガ…“ひき逃げ車”発見も男2人逃走　なぜ？専門家は2つの可能性を指摘
+      <a href=https://news.yahoo.co.jp/articles/ae3647b024d4fc7f89368c0619c7e97377ac02c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236872-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “逃走のSUV車”現場付近のアパートで発見　乗っていたとみられる男2人は見つからず警察が行方追う　埼玉・三郷市の小学生ひき逃げ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 04:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 04:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
