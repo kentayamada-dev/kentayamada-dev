@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd0524cdf7e6f3aaf01055d5d809745d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cd8621b0ba8b98b0e1469fd4c4602ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb4dc6521d5609f4feaac33b0a8c16c49d914539>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00010022-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】埼玉・三郷市の小学生4人ひき逃げ事件　逃走したSUV車を発見　埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/e82adc48f80a4c23a38178e3fb38bb6e5e7e4488>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90007145-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「人的ミスやエンジントラブル考えにくい」自衛隊機墜落は油圧系に問題か　専門家“背面で落ちた”可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56e41e1d587af1318b2c167a4c6127750078da72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90007142-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 【時系列まとめ】航空自衛隊のT-4練習機墜落事故2日目　隊員の捜索活動続くも機体の主要部分見つからず
+      <a href=https://news.yahoo.co.jp/articles/b9bfea222a5f551851b8684f634a08f33dabe6c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000064-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 東京方面へ? 新たな防カメ入手 “小学生ひき逃げ”SUVどこへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a4c13f3036305613efddc58959095df81058a48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00065720-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> すき家で共用ピッチャーのお茶を直飲み…１６歳少女２人を書類送検　すき家の広報担当「迷惑行為については厳正に対処」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8710ce9fbc001197ca8cb0ce7ef4a0e14eaa9fd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04823646-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナ直接協議　ロシア提案もプーチン氏欠席　トランプ氏も訪問せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a597f80b42f3e00c033e77cfb54e5b039094f12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男児4人重軽傷　ひき逃げ事件　小学校で集団登校／埼玉県
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-04823646-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナ直接協議　ロシア提案もプーチン氏欠席　トランプ氏も訪問せず
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538884>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> すき家で水差し直飲みか 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6538890>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 店で水差し直飲み疑い 書類送検
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 19:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
