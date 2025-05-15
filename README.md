@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYsJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6652d68b33470b8e54975be9174113a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/607237941aeb7bfca26d129cb739ea29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a44cc2460a278fa090d4d25ea243fa2b90fb6e7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-08989595-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ドラレコが捉えた　車が“逃走するまでの様子”　小学生ひき逃げ
+      <a href=https://news.yahoo.co.jp/articles/bf275ddbfa2cd2b55dda37739d1f502bdf7418e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00050206-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 埼玉・三郷市の小学生ひき逃げ、逃走した車が市内で見つかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/446e1a5cc6596669fc302987055b5e389da0c750>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000388-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> ソフトバンク・小久保監督　山川を4番から外したワケ「かなり迷ったけれど…」復活弾にホッ
+      <a href=https://news.yahoo.co.jp/articles/e7ee77f80a82268cc83f1acec21d65800cc131c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000224-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=668&ch=668&exp=10800&fmt=webp> JR列車の屋根に男性遺体　後頭部から出血、新潟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/982c507da9c5b46745ff7e346cbc86ed850e8cc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-90040375-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明の2人の捜索続く…自衛隊機はなぜ“池”に墜落したのか 元空将「迷惑をかけないようにするには…」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1c15c6c99f77284a2a17813893d1fc4b3f8c0b7e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000114-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=898&ch=898&exp=10800&fmt=webp> ロ・ウクライナ首脳駆け引き　3年ぶり直接協議、和平保証なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1b0cf82b50768b2bb5fc8010f5a40edb44fc86a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250515-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 空自練習機墜落、管制官に異常伝えず　事態が急速に悪化か
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/797b62f63dc0c9ffc3285a2480fe02ce1f8b60cb46e5124e36b6ea15c2600965.jpg> プーチン氏 停戦交渉なぜ「欠席」
+      <a href=https://news.yahoo.co.jp/pickup/6538901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f5698325009bc331b6f009f41e012213a08bd8158290199b905e3ae9a65448bf.jpg> 低所得世帯の子の習い事 実態調査
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/39bcc08cde436c487e33c473dc266d5aa2146917c04e7234fcd7634483a716d4.jpg> 児童ひき逃げ 現場付近で車発見
+      <a href=https://news.yahoo.co.jp/pickup/6538900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/31504fead14e6a5c658f6d4c08f441798834622aa51d4baab958116004f69c41.jpg> 日本郵便の3月期決算 8年ぶり赤字
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/e58bad10b9190e1ed18d284d7b3a57d2a7a0bbf06cf53c6b45e7294e32d742c0.jpg> 児童ひき逃げ 見えた逃走ルート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/a2f7b394b909c96c7f6487496db96b2412b009bb0e22ae5f40e8080fcded736b.jpg> 列車車両の屋根から遺体発見 捜査
       </a>
     </td>
   </tr>
@@ -428,22 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538893>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/5d7b3d84a8c5d6024f415846eb36057fd2ca478289a645578d5d92514560b16f.jpg> 緊急避妊薬 市販薬になる可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/f84118e5ee7e475f6c5bec96f696cc852c288bfb866e7a4b5eca11f7ddd32833.jpg> SB移籍の秋広 即スタメン初安打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/15/ab65f85852071458e9f02f3063718d65346b00afdd0b89bbfc7b3bf8b73f399d.jpg> 大物芸人 BS番組に続々進出の訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/15 21:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/15 21:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
