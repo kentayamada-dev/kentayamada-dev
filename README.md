@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66d5f054365d08af9de387fcbc37e677.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf2df164d548d26f1a7261aedf531e66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d03fbb67f7e35c66df56a709c8def8353442142>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000009-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【独自】中居正広　反撃で「事務所廃業」宣言もナシに？　腹心税理士が明かした「至って元気」「復帰も視野」の強気姿勢
+      <a href=https://news.yahoo.co.jp/articles/58b5aece9ef299d4dcc9b823609f49bf1abb045e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01754894-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> デコピンの“変化”に騒然「顔が」　大谷が2HR直後に公開、“最新S”に興奮「本当に美人」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2837f1fd3fb158ffe206cb18ea914b7a57aa1e67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01754827-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「止められない」　衝撃弾にLA記者は最敬礼…24分後に再び“証明”
+      <a href=https://news.yahoo.co.jp/articles/2d03fbb67f7e35c66df56a709c8def8353442142>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000009-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【独自】中居正広　反撃で「事務所廃業」宣言もナシに？　腹心税理士が明かした「至って元気」「復帰も視野」の強気姿勢
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/89354c1a2217f3e968e0bdc7e6155851d79f34b6284c681a6d44f42a58607592.jpg> フジHD 3月期は201億円の赤字
+      <a href=https://news.yahoo.co.jp/pickup/6539033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 07:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 07:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
