@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/991049f3ba62d88750c8aef368b94aae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/300a0309b1b3b688ed8467cc3b31d3bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e371a338bd5b7275fd74008b37c2fd4f264e23f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010023-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「またやってくれた」大谷翔平、2打席連続の15号2ラン本塁打！　米メディアも驚愕「ボブルヘッドの夜に」
+      <a href=https://news.yahoo.co.jp/articles/a3233e9ef2cca29efd231598de575c069a78abf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00096582-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 勢いが加速する大谷翔平。絶好調の５月、進化する打棒を表すMVP級の超異次元スタッツ「1.369」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb508a012d86eaa791ac2d3b75ce55d3b4b3ab4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972811-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 生後1カ月の次女に暴行して死亡させたか　20代の父親逮捕…次女には複数の骨折や皮下出血　群馬・前橋市
+      <a href=https://news.yahoo.co.jp/articles/2da460dca97eb5ccc01e39027e3288d9fd2ff9fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-02439924-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> ウクライナ代表団、仲介役の米・トルコと対応を協議　露との約3年ぶりの直接交渉を前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26349c948b04f005830b025fe02c3ba53b325e64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=451&ch=451&exp=10800&fmt=webp> ロシアとウクライナ、間もなく直接協議へ　代表団の車列が会場入り
+      <a href=https://news.yahoo.co.jp/articles/99f27ca9d33b4e32150aca5db61a6798ae057a9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237006-jnn-000-7-thumb.jpg?exp=10800&fmt=webp> 年金改革法案を閣議決定 「106万円の壁」撤廃が柱に　当初の「氷河期」支援は盛り込まれず“骨抜き”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73b5e3a9a6326b17e55526c153d50f7921a598d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972803-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落自衛隊機のエンジン発見か　680人態勢で捜索も隊員2人の安否不明　ボートで何か引き揚げブルーシートの中で作業する様子も　　
+      <a href=https://news.yahoo.co.jp/articles/4a888b17051f9ca13ea6d5f94ed2b65d60a42550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07256986-sp_ctv-000-3-thumb.jpg?exp=10800&fmt=webp> 【分析】自衛隊機墜落事故　当時の“音”からわかる状況とはー　3日目も搭乗隊員2人の安否は不明、救助活動続く　愛知・犬山市
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2232da7d3e2d58de199c3789c884f7cbb85c4864f83249f2403b33044faba6a4.jpg> プーチン氏 陸軍総司令官を解任
+      <a href=https://news.yahoo.co.jp/pickup/6538986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/9cfa983dae14ed6efb671ee734ef88f70ad41321615048eb1571be4108b7ecaf.jpg> フジHD 役員候補4人を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/a4971fa45ab85fb20db2f60073c6a47e4a1972f2e20521ccc3f8bfbe90c5645b.jpg> 勝山市 日本ジオパーク認定返上へ
+      <a href=https://news.yahoo.co.jp/pickup/6538976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/cee90e80c3409e51ed9a6bd103ec65e7b384ce44bcfb2e0949081f3ca7135b21.jpg> 0歳死亡 妻の就寝中複数回暴行か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 17:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 17:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
