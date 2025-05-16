@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b57c583061a91707027b3c581aac8bc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/241d9598a7f7e285383a531815c51816.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b48ec8b376f9bbaf76b4e8701644f5adc9be86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90040398-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 泥の巻き上げひどく…自衛隊の練習機が墜落した池は深い所で水深17m 水中ドローン等で捜索も依然隊員2人不明
+      <a href=https://news.yahoo.co.jp/articles/ce22784a5f7f52848476098c5e695316b4d9855c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972945-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=804&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】自衛隊機墜落で搭乗員発見か　中谷防衛相が公表　収容した小牧基地で詳しく確認中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5711c732b157dab8f6a23c3692fe59b79c1992ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237034-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【独自】「屋根の上に人が倒れている」列車屋根に遺体　長野から新潟へ90キロ移動か　警察　事件と事故の両面で捜査
+      <a href=https://news.yahoo.co.jp/articles/340f36faf57972e9a2d0267451f10e8b56a0c440>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-21919000-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> キックボクサーの男「防潮堤上で殺害か」17日再逮捕へ　保育士殺人事件　宮城・岩沼市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5368c6761c8ae78a8016d2b4c684f90bcf11e960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972860-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=806&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「男2人に心当たりある」逃走男は中国籍か…車が放置されていたのは“会社の寮”その会社社長が明かす【埼玉・三郷市SUV突っ込み小学生4人重軽傷】
+      <a href=https://news.yahoo.co.jp/articles/3e5be8b2610c25c4907ea69d404f0e313e717c04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10008719-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大谷翔平、2本塁打6打点。最終打席は控え捕手に三振を喫する
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfc016be4967357d9e4accfc119f340edde9c6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237058-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約3年ぶり　トルコでロシア・ウクライナ直接交渉へ　立場隔たり浮き彫り　難航も予想 トランプ氏の存在が交渉に大きく影響か
+      <a href=https://news.yahoo.co.jp/articles/5b13ba19c46eeaaf98a4fe65ddd5c008edfba4b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972856-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナがトルコ・イスタンブールで3年ぶりに直接の停戦交渉へ　プーチン大統領の参加見送りで進展を疑問視する声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b33aafd8158213b1bbf6d1002f4fed61f948b068>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010020-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーは「もっと必要。4、5個じゃ足りない」 2打席連発にロバーツ監督もご満悦「褒める言葉が残っていない」
+      <a href=https://news.yahoo.co.jp/articles/43f055d8bb33200e922db71914930fbda30ed77a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000301-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 力石政法「いつかちばてつやさんとコラボできたら（笑い）」　世界王座奪取で“本家”超え意欲　
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/8f5293550ffe5cb5348c2315e3e7f87fba382163ba2f5649fe1513d01629e34e.jpg> 106万円の壁どうなる 法案提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6538999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/c6484f38b9d6c6d219ce85200d7dc9d3adc6c684ccf05a30e554766a6ca57879.jpg> 搭乗員らしき人発見 自衛隊機墜落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d76e2f19d99e3b790bcd2604ed56385e81367005f49a3d349effe8850781b03a.jpg> 台湾バス事故 日本人含む32人けが
+      <a href=https://news.yahoo.co.jp/pickup/6538988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/8f5293550ffe5cb5348c2315e3e7f87fba382163ba2f5649fe1513d01629e34e.jpg> 106万円の壁どうなる 法案提出へ
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e21f52aa2078a61e75b4197aa6c412b3a1ff91d869adcf52a534d6d7b2a313f6.jpg> ミュゼ巡る破産申請 客側どう対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538980>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/dc936ba4e061ed713399dfd413227f6f8272232fad32f554debe59f4bc4102c2.jpg> マイナ保険証 なぜ期限切れ急増
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bc937a6e3854c5cd790635f4a4ae3cd88890ff63e1b625eafa02b2129572b5bf.jpg> 登板した捕手 大谷から三振を奪う
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 18:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 19:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
