@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b3c3b2887010de11fd4edd7cd580fc8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd410d3c5416b517d034dd4787881668.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3646bdae35bf646014fe0344a7f2252cc97fab8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050181-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=461&ch=461&exp=10800&fmt=webp> トランプ大統領、ウクライナ停戦協議への仲介が二転三転…プーチン氏の不参加で態度一変
+      <a href=https://news.yahoo.co.jp/articles/30d860dbf79fbe1174a7f187fc5568ce5a05db62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050184-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアがウクライナ４州全域の割譲要求か…高官級協議、停戦巡り双方の要求に隔たり
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/964fd7cb4854e82d84914805104d73a797b23d38f96915d6cd57b90a5202482c.jpg> 教育熱心と教育虐待 境界線は
+      <a href=https://news.yahoo.co.jp/pickup/6539021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/89354c1a2217f3e968e0bdc7e6155851d79f34b6284c681a6d44f42a58607592.jpg> フジHD 3月期は201億円の赤字
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/911f206d49b1b7b1a932099c953c72ce357d62b815c887ce41815f0bd2009b0a.jpg> 学校で案内した催し 返金トラブル
+      <a href=https://news.yahoo.co.jp/pickup/6539011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/28a0ec05796a360d117873af29d134e67035198738919f05dd88fb9115caf138.jpg> ムヒカ氏葬儀 現大統領ら賛歌合唱
+      <a href=https://news.yahoo.co.jp/pickup/6539028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/911f206d49b1b7b1a932099c953c72ce357d62b815c887ce41815f0bd2009b0a.jpg> 学校で案内した催し 返金トラブル
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 23:52:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 00:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
