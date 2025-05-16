@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45be404f26cdd475603704825c018fb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf1784bcb47733e25214dcc47bf02cf8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da39e45b2eefd90c3dd21227de4ce8afd55387b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000066-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=960&ch=960&exp=10800&fmt=webp> ロバーツ監督、2発の大谷翔平「褒める言葉出尽くした」…『ボブルヘッド・デー神話』続く、本塁打メジャートップ浮上
+      <a href=https://news.yahoo.co.jp/articles/26349c948b04f005830b025fe02c3ba53b325e64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=451&ch=451&exp=10800&fmt=webp> ロシアとウクライナ、間もなく直接協議へ　代表団の車列が会場入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb4bd512f6f95f4623b943249a0038bce40dfa84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-01265095-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 岩橋玄樹がマニアックな“推し活”を告白「ドジャー・スタジアムの土をオークションで買った」
+      <a href=https://news.yahoo.co.jp/articles/73b5e3a9a6326b17e55526c153d50f7921a598d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972803-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落自衛隊機のエンジン発見か　680人態勢で捜索も隊員2人の安否不明　ボートで何か引き揚げブルーシートの中で作業する様子も　　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf024a2f8fb69353fff57082cfb4316dc537c739>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178655-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=539&ch=539&exp=10800&fmt=webp> ロシアとウクライナ 別々に米・トルコと3カ国間協議か
+      <a href=https://news.yahoo.co.jp/articles/0714b4a246c3a810738a1f1a65a8312fbcb2f9e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1306&ch=1306&exp=10800&fmt=webp> 大谷翔平が40本、ジャッジは39本…MLB公式記者が指摘する“驚異のペース”「ショウヘイを見られて幸せだ」「グレイテスト・ショウマン」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32e93663d0b846cf9666043f1ecd6e1debea04d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00096573-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 敵野手が“大谷翔平から空振り三振”を奪う珍事！まさかの事態にファン騒然「伝説の１球誕生」「ある意味ホームランボールよりレアだわ」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a620e7f201f1e3dbb70f5777260457d6fcc527d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972727-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 下水道管内に残されていたトラック運転席部分を地上に引き上げ　埼玉・八潮市道路陥没事故　完全復旧まで5年から7年かかる見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e41cad57396a45bd22f271287b0ae20bb67521d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050067-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 墜落した空自Ｔ４練習機のエンジン発見か、隊員２人は行方不明のまま…６００人態勢で捜索続く
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2232da7d3e2d58de199c3789c884f7cbb85c4864f83249f2403b33044faba6a4.jpg> プーチン氏 陸軍総司令官を解任
+      <a href=https://news.yahoo.co.jp/pickup/6538978>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 台湾バス事故 邦人含む32人けがか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/937ca6bb30bdda518cabc33437ce26f411b437aeaceed3bc3dbf5e51fe004e24.jpg> はねられ7人負傷 別の学校物色か
+      <a href=https://news.yahoo.co.jp/pickup/6538968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2232da7d3e2d58de199c3789c884f7cbb85c4864f83249f2403b33044faba6a4.jpg> プーチン氏 陸軍総司令官を解任
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b57fffe285d19fcafeff32aedfe4aafc4a82ee4aa09d6c98554c2b78952cacac.jpg> 店に車突っ込み 殺人未遂疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2b64ae39d2a8c4c96e97bb6b163be51052e30ef500a851e7ef9f5df75dbf127e.jpg> 故意負け発覚 インハイ予選再試合
+      <a href=https://news.yahoo.co.jp/pickup/6538974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2c732ec9fa215aefbd76f17c138f9e432d68f66c2ad97f489c0bdec4864760cd.jpg> 野球部の快挙 防災無線が鳴った町
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/458d80c69d627feed877f557b8088b72e7e5af3401c6e3dfcd8d6a49592cc9f7.jpg> 岩橋玄樹 ド軍本拠地の「土」購入
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 16:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
