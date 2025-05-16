@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcb06bf5a82b424ad64c65c3601024c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5e320b465c098d257338d474cb9bb00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b4dd4d033b71b0c84123721fc68ed957a541285>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000233-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=665&ch=665&exp=10800&fmt=webp> フジHD、新取締役4人追加　北尾氏ら含まず
+      <a href=https://news.yahoo.co.jp/articles/6fb1257dc6f77e75126bbff300022fff13bb291b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170126-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=444&ch=444&exp=10800&fmt=webp> 石原さとみが第２子出産「感動で涙があふれました」「無事に家族４人での新たな生活をスタート」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30107886a653343193f12322c8dbd7371245291d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000257-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 露ウクライナ3年ぶり直接交渉でトルコ外相「捕虜交換は信頼醸成目指す意思の表れ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a34ac7244ffabc08a4e3a6a08364d0352291a5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21919582-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自衛隊T-4練習機墜落 「入鹿池は偶然か意図的か」 元統合幕僚長が語る自衛隊パイロットの“決断” 離陸後2分間に一体何が? 愛知・犬山市 【大石邦彦が聞く】
       </a>
     </td>
   </tr>
@@ -371,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87045036ac3051d7ddab377bbfcaa150d6c53acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000005-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 櫻井翔「占拠」シリーズ3作目放送、「大病院」「新空港」に続く舞台は
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ba976966127a49064a35936fc902a978a410e2a571cca8157d3ffa153ea1bdb0.jpg> 露とウクライナ 停戦合意至らず
+      <a href=https://news.yahoo.co.jp/pickup/6539037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/98374a25f46e58e918d33375d5eb7e1a905b81e6fbd018ace1581c244fbfd1b3.jpg> 露ウ直接協議 捕虜の交換で合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e0d4a4fb7941c2cbe7eaca244ce6e4a2d76befb89151d292bb12849d06c62237.jpg> 私的情報拡散 兵庫が削除要請検討
       </a>
     </td>
   </tr>
@@ -402,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
+      <a href=https://news.yahoo.co.jp/pickup/6539018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0d73d54b34a29f8d41120d4ddad8c45f79ff0711075ae9e4360da4f62fd4b8a2.jpg> 搭乗員らしき「もの」 防衛相謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0d73d54b34a29f8d41120d4ddad8c45f79ff0711075ae9e4360da4f62fd4b8a2.jpg> 搭乗員らしき「もの」 防衛相謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6539031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
       </a>
     </td>
   </tr>
@@ -426,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bd0b6ada72b097954863838fc415a1477155a1e7b9d2000a983a68d237075cbd.jpg> カンヌ映画祭 会議中に性暴力告発
+      <a href=https://news.yahoo.co.jp/pickup/6539041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a94dbb30114ab88b7d9f578e9d1c116fef25891844d0f0e2ddd46ac6490eafca.jpg> 石原さとみ 第2子の出産を報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/15c6807828e2d320d5a2ac299e7148979c45464cb84cd0ad0e7283ee24d81452.jpg> 焼き鳥55円 きっかけはトミーズ雅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4192087fb3e62e37080921d0ceb3abf991c852b372f7eb8808c9bb3ca0375448.jpg> 遠山景織子 50歳誕生日に結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6539039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/ba44c9309d2480caa6da8424173ca5f9107fe1cb975ec8ea7a6d0e9cf1f97c04.jpg> 櫻井翔主演 占拠シリーズ続編決定
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 08:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 08:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
