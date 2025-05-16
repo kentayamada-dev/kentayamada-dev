@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e1856d23d9375b73a48634c8f41d0d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff3a77b593a826c67891b183be1a4161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf2222ca696869be811d7e67fdea33d91d691564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972582-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 防犯カメラに記録されていた大きな音　航空自衛隊練習機墜落　緊急信号確認されず…知らせる交信を出す間もなかったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c17af1f3b32ee5400ebfc4a064c608ac90fb6752>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-16297494-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ウクライナ和平交渉、突破口開くには「トランプ氏とプーチン氏の直接協議」が必要と米国務長官
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20c0ed7a0c4d36c1d15859c6bae3591598db0f55>
@@ -371,35 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/265dd1e31e75abc58b8e3b87dfb7af6557d0c9b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233038-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】和平プロセスはまさにロシアの思惑通り、のろのろと進む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7b8a22d68bc12e59414eb8ef16ca88fa9ea1b54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00548034-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「出動しない方が良い」空自のエリート部隊とは？ モットーは「他者を生かすために」現場隊員のリアルな声を聞いた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/dad367dceb43193bfdd75b247816d86757ecfdc8fa0faceb77e2ffd8b872c18d.jpg> 1-3月期GDP 4四半期ぶりマイナス
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538936>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4a3c3f660a697dec1f5b1abbfc355b99b9f113ea7ad2d19a7f357bff60005db8.jpg> 1-3月期GDP 4四半期ぶりマイナス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d3c1cdc5a4ede3e943198cf2451753ac8dc7bcf7076ad6aa1693a6f0f2997dd3.jpg> 陥没 運転席部分の引き上げ完了
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/77e294d3728c00fb79f2896fb3e78d68a714f673b10c3f8f1e680dab059d9e32.jpg> 陥没 運転席部分の引き上げ完了
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538934>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米ウォルマート値上げへ 関税影響
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/fe611b01e253ae854eaa882a1bf6b2f9dfcaf401f65f3df1a736b21fcf27d7d0.jpg> 米ウォルマート値上げへ 関税影響
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/349f1c255685f5b55badfed80d0d20979b1278c887d490725e18d5a70688660f.jpg> 退職代行は「大迷惑」人事の本音
+      <a href=https://news.yahoo.co.jp/pickup/6538942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5fd18ac0e7ea731a81fd88d0ee4146c7cc175239f2871a4aeb64af412d8a4d9e.jpg> 千円着服で退職金失う 司法の判断
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/a28f664c36a30c90f533e83739dab8b2b270cabd4ef5ea5bc6093f8bd6ee6c55.jpg> 森保J パリ五輪世代を大量招集へ
+      <a href=https://news.yahoo.co.jp/pickup/6538937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/349f1c255685f5b55badfed80d0d20979b1278c887d490725e18d5a70688660f.jpg> 退職代行は「大迷惑」人事の本音
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 10:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 10:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
