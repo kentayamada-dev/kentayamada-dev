@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/300a0309b1b3b688ed8467cc3b31d3bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9d4540bfb0932b78817617ad9e2646b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3233e9ef2cca29efd231598de575c069a78abf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00096582-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 勢いが加速する大谷翔平。絶好調の５月、進化する打棒を表すMVP級の超異次元スタッツ「1.369」
+      <a href=https://news.yahoo.co.jp/articles/73bd207076d8601f746909dc68aa768b36f84a99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04778537-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷が“13戦8発”の量産体制　5月の自身最多に並ぶ　過去の5月成績は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2da460dca97eb5ccc01e39027e3288d9fd2ff9fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-02439924-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> ウクライナ代表団、仲介役の米・トルコと対応を協議　露との約3年ぶりの直接交渉を前に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99f27ca9d33b4e32150aca5db61a6798ae057a9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237006-jnn-000-7-thumb.jpg?exp=10800&fmt=webp> 年金改革法案を閣議決定 「106万円の壁」撤廃が柱に　当初の「氷河期」支援は盛り込まれず“骨抜き”
+      <a href=https://news.yahoo.co.jp/articles/51933a85592568d56b61b3ed93a089a45aec26a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972846-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 両首脳不在…ロシア×ウクライナ約3年ぶり直接協議も双方主張に大きな隔たり　プーチン氏が“和平望む態度”示すためのアリバイ作りか
       </a>
     </td>
   </tr>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a620e7f201f1e3dbb70f5777260457d6fcc527d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972727-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 下水道管内に残されていたトラック運転席部分を地上に引き上げ　埼玉・八潮市道路陥没事故　完全復旧まで5年から7年かかる見通し
+      <a href=https://news.yahoo.co.jp/articles/84158deaf57f24dae82451556f37bac8b06fcc28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000004-ftaiwan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 桃園空港でバスが壁に衝突  日本人4人含む32人がけが／台湾
       </a>
     </td>
   </tr>
@@ -402,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d84dba63db5766b65df364822060618d786742b61f9c6f928237e36c2c0702f9.jpg> 能動的サイバー防御法が成立
+      <a href=https://news.yahoo.co.jp/pickup/6538988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/8f5293550ffe5cb5348c2315e3e7f87fba382163ba2f5649fe1513d01629e34e.jpg> 106万円の壁どうなる 法案提出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ感染 1機関当たり1人下回る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538978>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 台湾バス事故 邦人含む32人けがか
+      <a href=https://news.yahoo.co.jp/pickup/6538991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d76e2f19d99e3b790bcd2604ed56385e81367005f49a3d349effe8850781b03a.jpg> 台湾バス事故 日本人含む32人けが
       </a>
     </td>
   </tr>
@@ -428,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538986>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/9cfa983dae14ed6efb671ee734ef88f70ad41321615048eb1571be4108b7ecaf.jpg> フジHD 役員候補4人を公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b6f9fc7842dfcbdf0ca32325eaa3cceb7f6f52906ba8cba20300c710ddc057cc.jpg> 母刺され死亡 同居の20歳長男逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ecc2b538de6d3a2bcaa67e95131f19d8d8bded20fdbebfb0ba676f2b0d093319.jpg> 大谷15号球 学生が流血の末に死守
+      <a href=https://news.yahoo.co.jp/pickup/6538977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bc937a6e3854c5cd790635f4a4ae3cd88890ff63e1b625eafa02b2129572b5bf.jpg> 登板した捕手 大谷から三振を奪う
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 17:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 18:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
