@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -330,7 +330,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/ba6e916512ed7ef44492ff98591f83e8.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e435568577c9cc96fb1adf133b611874.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63b5a43823acc7e3bb3e0596ed694eb2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0945395ef5e00678e8c8285cc3cdbdc8a6802d94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-11641481-khbv-000-31109944-thumb.jpg?exp=10800&fmt=webp> 死体遺棄容疑で逮捕の男を殺人容疑で再逮捕へ　宮城・岩沼市の女性保育士殺害事件
+      <a href=https://news.yahoo.co.jp/articles/c3894b26828fd8d18a62ca75014a044563fadedd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　トラック運転席部分を引き上げ／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98894e6ca594fb62b27f535ec36526cff50b3731>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「私とプーチン氏が参加するまでは何も起きないだろう」　ロシアとウクライナ3年ぶりの直接交渉　双方の隔たり大きく難航か
+      <a href=https://news.yahoo.co.jp/articles/d5f7db4830c5e26f8f970ead64131715aee46810>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90028086-umk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 全国で最も早い梅雨入り　鹿児島地方気象台が九州南部の梅雨入り発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cfba12b4362886f4a3e445e8c3763b8504480ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000037-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故から3カ月半　トラック運転席の引き上げ完了
+      <a href=https://news.yahoo.co.jp/articles/3871705b1cdfca4dd8987f96bb72943f228e97b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90024990-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 直接交渉にプーチン氏の姿なし　トルコで開催のロシアとウクライナの停戦協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4048e6463d57ef4c977234a4a313364050ed5795>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90040392-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 事故発生から最大規模…航空自衛隊の練習機が墜落した池で500人体制の捜索始まる 隊員2人が依然安否不明
+      <a href=https://news.yahoo.co.jp/articles/d16e9de9c7769012a6d165343e0804d1de836cec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972621-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【中継】防犯カメラに自衛隊機が墜落する激しい音が　夜通し捜索も隊員2人の安否不明…エンジン発見か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac685d6d4067c2266c2f53216f9cb8483f362a67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05576861-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【史上初】九州南部が全国で最も早い梅雨入り
+      <a href=https://news.yahoo.co.jp/articles/9b338591b8e916a38dc4f633601b387ed901a8d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-21917714-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 「遺体の首に何かが巻かれていた」【16歳少女の赤ちゃん殺害・遺棄事件】家裁送致へ　長野・上田市
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/9c69ee194d671d98aa56f18c5e60bea03525463d09038364ff80912898855ce5.jpg> JDI 国内で約半数の1500人削減へ
+      <a href=https://news.yahoo.co.jp/pickup/6538953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bc4668fa3ee2f62a8f64991328118f57396a60842f7967f515b48483dc04ca3e.jpg> 墜落した空自機のエンジンか 発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0850982d73c09ee8f0f279dfa9e14f83c50df797fa3ec1cc7b8818ce5edc682b.jpg> 解散命令 政治介入懸念の法人も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/12f878425e030e71766448be9e2bbdfe5e495fcbee266447cda32a838720df6f.jpg> 立憲 1人2万円給付の参院選公約案
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5fd18ac0e7ea731a81fd88d0ee4146c7cc175239f2871a4aeb64af412d8a4d9e.jpg> 千円着服で退職金失う 司法の判断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/349f1c255685f5b55badfed80d0d20979b1278c887d490725e18d5a70688660f.jpg> 退職代行は「大迷惑」人事の本音
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/08498d86f0e7f335947a3123834772b1e038bbcbbe042dbe96aef874f696d0ef.jpg> 世にも奇妙35周年SP 名作放送へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 12:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 12:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
