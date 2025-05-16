@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf2df164d548d26f1a7261aedf531e66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcb06bf5a82b424ad64c65c3601024c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b4dd4d033b71b0c84123721fc68ed957a541285>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000233-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=665&ch=665&exp=10800&fmt=webp> フジHD、新取締役4人追加　北尾氏ら含まず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58b5aece9ef299d4dcc9b823609f49bf1abb045e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01754894-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> デコピンの“変化”に騒然「顔が」　大谷が2HR直後に公開、“最新S”に興奮「本当に美人」
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d03fbb67f7e35c66df56a709c8def8353442142>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000009-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【独自】中居正広　反撃で「事務所廃業」宣言もナシに？　腹心税理士が明かした「至って元気」「復帰も視野」の強気姿勢
+      <a href=https://news.yahoo.co.jp/articles/87045036ac3051d7ddab377bbfcaa150d6c53acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000005-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 櫻井翔「占拠」シリーズ3作目放送、「大病院」「新空港」に続く舞台は
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ba976966127a49064a35936fc902a978a410e2a571cca8157d3ffa153ea1bdb0.jpg> ロシア・ウクライナが直接交渉
+      <a href=https://news.yahoo.co.jp/pickup/6539036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ba976966127a49064a35936fc902a978a410e2a571cca8157d3ffa153ea1bdb0.jpg> 露とウクライナ 停戦合意至らず
       </a>
     </td>
   </tr>
@@ -388,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539033>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
       </a>
     </td>
   </tr>
@@ -404,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/911f206d49b1b7b1a932099c953c72ce357d62b815c887ce41815f0bd2009b0a.jpg> 学校で案内した催し 返金トラブル
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 07:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 08:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
