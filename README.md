@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9d4540bfb0932b78817617ad9e2646b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b57c583061a91707027b3c581aac8bc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73bd207076d8601f746909dc68aa768b36f84a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04778537-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷が“13戦8発”の量産体制　5月の自身最多に並ぶ　過去の5月成績は？
+      <a href=https://news.yahoo.co.jp/articles/48b48ec8b376f9bbaf76b4e8701644f5adc9be86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90040398-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 泥の巻き上げひどく…自衛隊の練習機が墜落した池は深い所で水深17m 水中ドローン等で捜索も依然隊員2人不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51933a85592568d56b61b3ed93a089a45aec26a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972846-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 両首脳不在…ロシア×ウクライナ約3年ぶり直接協議も双方主張に大きな隔たり　プーチン氏が“和平望む態度”示すためのアリバイ作りか
+      <a href=https://news.yahoo.co.jp/articles/5711c732b157dab8f6a23c3692fe59b79c1992ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237034-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【独自】「屋根の上に人が倒れている」列車屋根に遺体　長野から新潟へ90キロ移動か　警察　事件と事故の両面で捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a888b17051f9ca13ea6d5f94ed2b65d60a42550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07256986-sp_ctv-000-3-thumb.jpg?exp=10800&fmt=webp> 【分析】自衛隊機墜落事故　当時の“音”からわかる状況とはー　3日目も搭乗隊員2人の安否は不明、救助活動続く　愛知・犬山市
+      <a href=https://news.yahoo.co.jp/articles/5368c6761c8ae78a8016d2b4c684f90bcf11e960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972860-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=806&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「男2人に心当たりある」逃走男は中国籍か…車が放置されていたのは“会社の寮”その会社社長が明かす【埼玉・三郷市SUV突っ込み小学生4人重軽傷】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84158deaf57f24dae82451556f37bac8b06fcc28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000004-ftaiwan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 桃園空港でバスが壁に衝突  日本人4人含む32人がけが／台湾
+      <a href=https://news.yahoo.co.jp/articles/cfc016be4967357d9e4accfc119f340edde9c6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237058-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約3年ぶり　トルコでロシア・ウクライナ直接交渉へ　立場隔たり浮き彫り　難航も予想 トランプ氏の存在が交渉に大きく影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b33aafd8158213b1bbf6d1002f4fed61f948b068>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010020-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーは「もっと必要。4、5個じゃ足りない」 2打席連発にロバーツ監督もご満悦「褒める言葉が残っていない」
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b6f9fc7842dfcbdf0ca32325eaa3cceb7f6f52906ba8cba20300c710ddc057cc.jpg> 母刺され死亡 同居の20歳長男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/c5bcfc43e751c4ce7ad7e639706740d27f821631df0c961b01ee63acf3e28412.jpg> 児童ひき逃げ 同乗男性に任意聴取
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 18:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 18:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
