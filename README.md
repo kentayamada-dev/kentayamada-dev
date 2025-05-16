@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd410d3c5416b517d034dd4787881668.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/145d06a5a50dc25889dd88ca916a4ead.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30d860dbf79fbe1174a7f187fc5568ce5a05db62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050184-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアがウクライナ４州全域の割譲要求か…高官級協議、停戦巡り双方の要求に隔たり
+      <a href=https://news.yahoo.co.jp/articles/da90c0102af7db6c7076ea8cf3bb4f2ea07428b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07237116-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ直接交渉　2時間足らずで終了　早期停戦実現の見通し立たないまま　1000人ずつの捕虜交換には合意か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f2aed0c5dd6acabba0bc8487945c5e99f3c1906>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05161271-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 大谷翔平が５月１３戦８発…驚異の５５発ペ－ス　自己最速１５号でジャッジらに並び両リーグトップ　
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1160613d656287354c827fa6f505b3c373603a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237095-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「搭乗員と思われる体の一部を発見・収容 航空自衛隊の小牧基地に搬送」中谷防衛大臣　自衛隊練習機1機が墜落した事故　愛知・犬山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a631aaf0b221fc5f130533ca8a40641c8e896d65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 2打席連発でリーグトップタイとなる14・15号！ ロバーツ監督「もっと（ボブルヘッドデーを）やる必要がある」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 00:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 01:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
