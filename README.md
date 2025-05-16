@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf1784bcb47733e25214dcc47bf02cf8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/991049f3ba62d88750c8aef368b94aae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e371a338bd5b7275fd74008b37c2fd4f264e23f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010023-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「またやってくれた」大谷翔平、2打席連続の15号2ラン本塁打！　米メディアも驚愕「ボブルヘッドの夜に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb508a012d86eaa791ac2d3b75ce55d3b4b3ab4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972811-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 生後1カ月の次女に暴行して死亡させたか　20代の父親逮捕…次女には複数の骨折や皮下出血　群馬・前橋市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26349c948b04f005830b025fe02c3ba53b325e64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=451&ch=451&exp=10800&fmt=webp> ロシアとウクライナ、間もなく直接協議へ　代表団の車列が会場入り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=451&ch=451&exp=10800&fmt=webp> ロシアとウクライナ、間もなく直接協議へ　代表団の車列が会場入り
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73b5e3a9a6326b17e55526c153d50f7921a598d9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972803-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 墜落自衛隊機のエンジン発見か　680人態勢で捜索も隊員2人の安否不明　ボートで何か引き揚げブルーシートの中で作業する様子も　　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0714b4a246c3a810738a1f1a65a8312fbcb2f9e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1306&ch=1306&exp=10800&fmt=webp> 大谷翔平が40本、ジャッジは39本…MLB公式記者が指摘する“驚異のペース”「ショウヘイを見られて幸せだ」「グレイテスト・ショウマン」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32e93663d0b846cf9666043f1ecd6e1debea04d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00096573-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 敵野手が“大谷翔平から空振り三振”を奪う珍事！まさかの事態にファン騒然「伝説の１球誕生」「ある意味ホームランボールよりレアだわ」
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2c732ec9fa215aefbd76f17c138f9e432d68f66c2ad97f489c0bdec4864760cd.jpg> 野球部の快挙 防災無線が鳴った町
+      <a href=https://news.yahoo.co.jp/pickup/6538980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/dc936ba4e061ed713399dfd413227f6f8272232fad32f554debe59f4bc4102c2.jpg> マイナ保険証 なぜ期限切れ急増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1020067263afd821aebb5d3bfe25b5c1a93320340d54456efe9844f4c5f85bdd.jpg> 天下一品 首都圏で閉店ラッシュ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/458d80c69d627feed877f557b8088b72e7e5af3401c6e3dfcd8d6a49592cc9f7.jpg> 岩橋玄樹 ド軍本拠地の「土」購入
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 17:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
