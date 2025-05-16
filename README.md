@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/241d9598a7f7e285383a531815c51816.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/371a0eeab815676ad71d0147aa5d23bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce22784a5f7f52848476098c5e695316b4d9855c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972945-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=804&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】自衛隊機墜落で搭乗員発見か　中谷防衛相が公表　収容した小牧基地で詳しく確認中
+      <a href=https://news.yahoo.co.jp/articles/cd5c1fad3da6e98b6cda85c671cb70c69a221b10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛知の空自機墜落　中谷防衛相「搭乗員らしきものを発見」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/340f36faf57972e9a2d0267451f10e8b56a0c440>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-21919000-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> キックボクサーの男「防潮堤上で殺害か」17日再逮捕へ　保育士殺人事件　宮城・岩沼市
+      <a href=https://news.yahoo.co.jp/articles/737f95ac23ab79eef66a3852a34b509afd79a6b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00973002-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=541&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア側はウクライナ非軍事化、ウクライナ側は30日間の無条件停戦受け入れ求めるか　まもなく和平に向けた直接協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e5be8b2610c25c4907ea69d404f0e313e717c04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10008719-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大谷翔平、2本塁打6打点。最終打席は控え捕手に三振を喫する
+      <a href=https://news.yahoo.co.jp/articles/209bb97fed3ac20595f6066d6ec17e2a9620b5b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-21919185-obsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「遺体は母親で遺棄した」　死体遺棄の疑いで逮捕の男が供述　床下で見つかったのは93歳の母親か　大分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b13ba19c46eeaaf98a4fe65ddd5c008edfba4b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972856-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナがトルコ・イスタンブールで3年ぶりに直接の停戦交渉へ　プーチン大統領の参加見送りで進展を疑問視する声も
+      <a href=https://news.yahoo.co.jp/articles/02637abeaf28482bb1b010a3a702e9530a7812be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160787-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平が今季初１試合２発　５月は13戦８発と量産態勢へ　記念日に不思議なパワーが後押し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43f055d8bb33200e922db71914930fbda30ed77a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000301-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 力石政法「いつかちばてつやさんとコラボできたら（笑い）」　世界王座奪取で“本家”超え意欲　
+      <a href=https://news.yahoo.co.jp/articles/ad9029da77e582228dba26cbb03bc0742cfd8881>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08748965-sp_ctv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】自衛隊機墜落　「搭乗員らしきものを発見」と発表　損傷激しく詳細については未だ不明　中谷防衛大臣発表
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/c6484f38b9d6c6d219ce85200d7dc9d3adc6c684ccf05a30e554766a6ca57879.jpg> 搭乗員らしき人発見 自衛隊機墜落
+      <a href=https://news.yahoo.co.jp/pickup/6539000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b51e084b2c905e516ea246a4b3e64192defb583fc92bffb4ac48e39ac3abca2d.jpg> 墜落機の搭乗員か 体の一部発見
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/9cfa983dae14ed6efb671ee734ef88f70ad41321615048eb1571be4108b7ecaf.jpg> フジHD 役員候補4人を公表
+      <a href=https://news.yahoo.co.jp/pickup/6538998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/16e0e30c3287062e9757880b49f58a6e646c1f0e4fb4857c78570c3eb6699f14.jpg> フジ社長 中居氏側の反論に言及
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/dc936ba4e061ed713399dfd413227f6f8272232fad32f554debe59f4bc4102c2.jpg> マイナ保険証 なぜ期限切れ急増
+      <a href=https://news.yahoo.co.jp/pickup/6538979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1020067263afd821aebb5d3bfe25b5c1a93320340d54456efe9844f4c5f85bdd.jpg> 天下一品 首都圏で閉店ラッシュ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1020067263afd821aebb5d3bfe25b5c1a93320340d54456efe9844f4c5f85bdd.jpg> 天下一品 首都圏で閉店ラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6538995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d54c8ec6a36b8b330ef573bab3e1753402d408796943fd5a4c15266a82a4fb40.jpg> 和毅 井上井上騒ぐけど亀田家やろ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 19:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 19:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
