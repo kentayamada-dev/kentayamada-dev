@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5ea2c3d93adadc5cb2d286bb7764bf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/416e28ca2b649b630b2d6d2c887f2d4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38e7cfaadd57fc2f2fb468062a0961ef7fdf8e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010010-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1017&ch=1017&exp=10800&fmt=webp> ウクライナ・ロシア直接協議実現せず　別々に米・トルコと3カ国協議へ　トランプ大統領は帰国の予定「私とプーチン氏が会うまでは、何も起こらないだろう」
+      <a href=https://news.yahoo.co.jp/articles/051cc71027e5a111e676f3970a552eb42ed46571>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000021-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ゼレンスキー氏「一時停戦達成したい」　露との直接協議巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cf417324c2dc017b3fa554df1a0ff6c5da693f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010006-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】前田健太がカブスとマイナー契約へ　先発のデプス要員として起用か　今季7登板で防御率7.88
+      <a href=https://news.yahoo.co.jp/articles/8f54d7ad83136d63637a15e297d187fe37b53e9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000019-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ブルーインパルスの展示飛行は当面見合わせ、万博にも影響か　空自練習機墜落で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf2222ca696869be811d7e67fdea33d91d691564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972582-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 防犯カメラに記録されていた大きな音　航空自衛隊練習機墜落　緊急信号確認されず…知らせる交信を出す間もなかったか
+      <a href=https://news.yahoo.co.jp/articles/cd4d9305b69acb24a0531dc907dffc607594eddb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000110-spnannex-000-49-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=974&ch=974&exp=10800&fmt=webp> ドン小西氏　今夏に再婚する予定を明らかに　約20年前に離婚した元妻と　8月から同居「楽しみ」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/7eaafdb95d9095fa97ccc4687488c134c73a8235e97c17288f17a5dc4aefeec2.jpg> 露とウクライナ 16日に直接交渉
+      <a href=https://news.yahoo.co.jp/pickup/6538946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/797e685c14e5a6bd2ef7b6336847f445683360f76f616e63287c81b73bf82a69.jpg> 106万円の壁廃止 法案を閣議決定
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/b3b2cba30253d156dbadf550e612031657af351c5ddfa5f58bfa5102de6af0ea.jpg> 運転手病死のタクシー 乗客が停車
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5fd18ac0e7ea731a81fd88d0ee4146c7cc175239f2871a4aeb64af412d8a4d9e.jpg> 千円着服で退職金失う 司法の判断
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/155928dd62042cd1729fcea13bc4c7fae979e452e8cce39e819a89995a1eb718.jpg> 父は古舘伊知郎 佑太郎が語る苦悩
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 11:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 11:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
