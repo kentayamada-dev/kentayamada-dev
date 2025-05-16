@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/632z5Zs3szc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d7321de27915e2552ff292e6487b11e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b06e79087b18770244f374899e8ad6d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/128de273a365cfebfa7d4c435eecf2904964053e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010036-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ　3年ぶりの直接協議が始まる
+      <a href=https://news.yahoo.co.jp/articles/d30a7707b5d056f89bbf01ba025feba1c7c5d635>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000127-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシア、ウクライナが直接協議　開始ずれ込み、進展不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da2732fa45902f8439692d7c7f199599c642f28d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010033-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=573&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中谷防衛大臣「搭乗員とみられる体の一部を発見し収容」　愛知・自衛隊機墜落事故で
+      <a href=https://news.yahoo.co.jp/articles/26192d2523ccf6f9b58371868fbbe3ad6d30e467>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空自衛隊新田原基地所属の自衛隊機墜落事故　搭乗員とみられる体の一部見つかる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8baf3e593a5347d56e68c839ae96331450dabd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00079114-bunshun-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1915&ch=1915&exp=10800&fmt=webp> 立憲・水野素子議員が参院選不出馬　「週刊文春」が秘書らへのパワハラ問題を報道《秘書が11人連続退所》
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24bab5c75b8192412e4871d88d04e9dc25d0f0dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04174624-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーに「毎晩でいいよね」今季初4番のマンシーが語る　ロバーツ監督も「いつもよりもいいパフォーマンスを見せるからね」とニヤリ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ea27db7af7c111107bfa33d6411fb711fc0105b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90019818-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生の男の子が『泥団子』投げたか マンションからの落下物で男性大けが 【熊本】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b1fa3bf71fe027bc676f0ceb88a9a2373730953809539f7aa06e0394e889429b.jpg> 露とウの直接協議始まる 3年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6539017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ae714f1708f3c0e5e85216732c1466b03fd35e665fc3039d66eded398a20e2e4.jpg> 直接交渉 露代表はウ側にらみつけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b51e084b2c905e516ea246a4b3e64192defb583fc92bffb4ac48e39ac3abca2d.jpg> 墜落機の搭乗員か 体の一部発見
+      <a href=https://news.yahoo.co.jp/pickup/6539010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/95d351d10c45e0f5df43bc5ae102ffb3c58afb428e501c8b88b17cd5ea6c5e54.jpg> 政府備蓄米 価格の上乗せ分が拡大
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5a19ba6276522aca5e700cd1696e34c8b635f63e9daa394b06c85a208334635f.jpg> クレハ常務辞任 社員へ不適切行為
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ea9d0f05d1103b9678471be73ed0e4dd8d5a01b79b150415844be05709cb43d8.jpg> 列車上に遺体 長野から90km移動か
+      <a href=https://news.yahoo.co.jp/pickup/6539016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1dfb4f99af01548c0f7d965da7e6779ddc047c7a7c68b8a6d03c6adfc8b14f72.jpg> 兄を殺そうとした疑い 15歳を逮捕
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539013>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ariyoshiritsu/02209932/title-1747297499792.jpeg?exp=10800> 小さな吸血生物 マダニ感染症警戒
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 21:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 22:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
