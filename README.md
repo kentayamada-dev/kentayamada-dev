@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2bbbc027fae051439cfc80e410974fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/322c067209b715cb61a2accae22090be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fd3a6197d4c861205017fab7e40bcb1816e19a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050114-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 脱毛サロン「ミュゼプラチナム」運営会社が破産申し立て…業績悪化で給与未払い、債務支払い困難に
+      <a href=https://news.yahoo.co.jp/articles/dd8db12942dca7a72b9878665f2379285e9f0c38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000177-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 「たまたま」大谷翔平ボブルヘッドデー“3連発”にも謙虚「いつでも頑張りたい」14＆15号の大暴れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b984b694c4790c14f6dd3620f13b314d6bed8217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-01754428-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 列島の昼時も「一息つかせてくれない大谷さん好き」　衝撃の2打席連発が「マジ異次元」
+      <a href=https://news.yahoo.co.jp/articles/8b0a8bf02f0e8458f6ff92d80ce62b8e44cdff57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「モペット」運転中に信号無視し歩行者にけがさせた疑い 40代会社員の男逮捕 東京・中央区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6da3f927755a8fa30afa759836b7095619b6de9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050051-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏もプーチン氏もゼレンスキー氏も参加せず…ロシアとウクライナの高官級協議、きょう開始
+      <a href=https://news.yahoo.co.jp/articles/a5035b13c509d4b5eca8448e135ebe23feef3a48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000051-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナの停戦交渉　双方の大統領が欠席　初日開催されず
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0850982d73c09ee8f0f279dfa9e14f83c50df797fa3ec1cc7b8818ce5edc682b.jpg> 解散命令 政治介入懸念の法人も
+      <a href=https://news.yahoo.co.jp/pickup/6538956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6dc80acaf7a354efea51fac57decf38aab983debc6c54ba0369c015c44a2375d.jpg> 札幌中1自殺 両親和解応じる方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6dc80acaf7a354efea51fac57decf38aab983debc6c54ba0369c015c44a2375d.jpg> 札幌中1自殺 両親和解応じる方針
+      <a href=https://news.yahoo.co.jp/pickup/6538962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2558e349160559092d355dc55bf2c3162b5f0ef1372e541fe8b3f97ba6a23fcd.jpg> 園でリンゴ詰まり 意識不明で2年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e33741031922504c4c6319d2afb8a9fddb31de799f7ed50d0b2686cf57c41480.jpg> モペットで危険運転致傷疑い 逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e94572f0c0f7f05d9d4363e3f98f9dd815144a5b8993a48dc7e23c120690195a.jpg> 三毛猫の毛色遺伝子を発見 九州大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6c09dd09795578a74dbd8f4b03f818ecee658d4e03cd016f5bffada56c90f64c.jpg> 大谷14号&15号 今季初の2打席連発
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/74131f3c7ace1d4c20e91af442317833db2b212eea73b9ed891638fe5a970273.jpg> 大谷14号&15号 今季初の2打席連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 13:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 14:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
