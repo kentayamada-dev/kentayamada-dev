@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21ab75f6aeb4026c1261c4a35ad66f14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10e4863bcc7cc4f1ff72717a0da5e0a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66a909d24f7b842600c412e9217ab0b5f00387b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05161045-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 「今後出頭してくる可能性もある」…埼玉・三郷「ひき逃げ事件」を巡り「モーニングショー」玉川徹氏が見解
+      <a href=https://news.yahoo.co.jp/articles/f49dfff976e13eb96e475fb6f49bc17ce7383cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】2025年1-3月期GDP　実質成長率は-0.7％（年率）　4四半期ぶりのマイナス成長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cab5adcb2e162d1ab3f686c8ff2b5e194589dd0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「プーチン氏と自分が会うまで何も進まない」　ウクライナ和平交渉
+      <a href=https://news.yahoo.co.jp/articles/265dd1e31e75abc58b8e3b87dfb7af6557d0c9b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233038-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】和平プロセスはまさにロシアの思惑通り、のろのろと進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/51341e156717d61c71073c9be1e727eacf032b18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178598-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 埼玉・八潮市の道路陥没事故 トラックの運転席部分を引き上げ
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81743ebb43b3ce47dafaede19fe67cf7bd7f2c70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000078-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 菅野智之を指揮官が労う「彼は敗因ではない」　今季最多103球力投も米自己ワースト4失点で3敗目
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/dad367dceb43193bfdd75b247816d86757ecfdc8fa0faceb77e2ffd8b872c18d.jpg> 1-3月期GDP 4四半期ぶりマイナス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538936>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/7eaafdb95d9095fa97ccc4687488c134c73a8235e97c17288f17a5dc4aefeec2.jpg> 露とウクライナ 16日に直接交渉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d3c1cdc5a4ede3e943198cf2451753ac8dc7bcf7076ad6aa1693a6f0f2997dd3.jpg> 陥没 運転席部分の引き上げ完了
       </a>
     </td>
   </tr>
@@ -410,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bdee92c7d50090d494a9b468a5a065c1b712ed11b6ada5bbf1a069c5943c2942.jpg> 季節先取りの暑さ続く 熱中症注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/abfee282d04a7f89eaf0a13562a7fc895e0464c27d491af78ac7aa2363f4fee9.jpg> 少額輸入品の免税見直しへ 財務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4524f30dad401b61fcabd81dca2e7cf6d86b9195e104b10499134c4eee4ba719.jpg> 自転車と車が衝突 11歳男児死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538934>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米ウォルマート値上げへ 関税影響
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/aca181ebb48cf358f3154cf3b24fa09624477141c17690dd9344c10e4ac6e7b5.jpg> 外資系高級ホテル開発が活況 背景
+      <a href=https://news.yahoo.co.jp/pickup/6538937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/349f1c255685f5b55badfed80d0d20979b1278c887d490725e18d5a70688660f.jpg> 退職代行は「大迷惑」人事の本音
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 09:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 09:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
