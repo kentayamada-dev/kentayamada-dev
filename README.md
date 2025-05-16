@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a79a6ea2defa1b8bc83e10d02868912.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e4c49e47a11c1a7bb03401c906f7b34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/103037375f60d86ba0666368ca6723305fed53d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=1781&ch=1781&exp=10800&fmt=webp> 大谷翔平　２打席連発でキングタイ１５号　５月１３戦８本の量産態勢　ボブルヘッドデーは“３戦４発”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/25ac72aded60ed13a475dc1fa9f634264976a9b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-04616351-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=359&ch=359&exp=10800&fmt=webp> ウクライナ、首脳会談の実施求める構え　ロシア、即時停戦受け入れず
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d06376d30a789e2d9c5d7b9844a967f6360db2a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07237119-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 防衛省が「体の一部を発見」と発表…自衛隊機墜落から丸2日　ヘルメットなどの持ち物も【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3359d0273acaf1c44c54d519f3ed6df799dccaea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000078-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=843&ch=843&exp=10800&fmt=webp> ドジャース・大谷　2打席連発！今季最多6打点で大勝貢献　ボブルヘッド配布日では“3戦連発”
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 02:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 02:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
