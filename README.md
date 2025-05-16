@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff3a77b593a826c67891b183be1a4161.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5ea2c3d93adadc5cb2d286bb7764bf0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38e7cfaadd57fc2f2fb468062a0961ef7fdf8e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010010-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1017&ch=1017&exp=10800&fmt=webp> ウクライナ・ロシア直接協議実現せず　別々に米・トルコと3カ国協議へ　トランプ大統領は帰国の予定「私とプーチン氏が会うまでは、何も起こらないだろう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0cf417324c2dc017b3fa554df1a0ff6c5da693f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010006-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】前田健太がカブスとマイナー契約へ　先発のデプス要員として起用か　今季7登板で防御率7.88
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf2222ca696869be811d7e67fdea33d91d691564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972582-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 防犯カメラに記録されていた大きな音　航空自衛隊練習機墜落　緊急信号確認されず…知らせる交信を出す間もなかったか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c17af1f3b32ee5400ebfc4a064c608ac90fb6752>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-16297494-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ウクライナ和平交渉、突破口開くには「トランプ氏とプーチン氏の直接協議」が必要と米国務長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20c0ed7a0c4d36c1d15859c6bae3591598db0f55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000064-it_eetimes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 赤字拡大のJDI、国内1500人削減へ CEOのキャロン氏は辞任
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972582-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 防犯カメラに記録されていた大きな音　航空自衛隊練習機墜落　緊急信号確認されず…知らせる交信を出す間もなかったか
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/fe611b01e253ae854eaa882a1bf6b2f9dfcaf401f65f3df1a736b21fcf27d7d0.jpg> 米ウォルマート値上げへ 関税影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538941>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/9c69ee194d671d98aa56f18c5e60bea03525463d09038364ff80912898855ce5.jpg> JDI 国内で約半数の1500人削減へ
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/037b80f2427e60a023d21549b25b2d0be1ce32d2bb34b6eeb157111997a6105e.jpg> 前田健太 カブスとマイナー契約
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 10:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 11:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
