@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b06e79087b18770244f374899e8ad6d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f655a43835d38fa83cded3e46762134.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d30a7707b5d056f89bbf01ba025feba1c7c5d635>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000127-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシア、ウクライナが直接協議　開始ずれ込み、進展不透明
+      <a href=https://news.yahoo.co.jp/articles/3b1bd1e88585430da2c1cebb4e989b4d64ba6663>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233087-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ロシアとウクライナ、イスタンブールで高官級会談
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8baf3e593a5347d56e68c839ae96331450dabd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00079114-bunshun-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1915&ch=1915&exp=10800&fmt=webp> 立憲・水野素子議員が参院選不出馬　「週刊文春」が秘書らへのパワハラ問題を報道《秘書が11人連続退所》
+      <a href=https://news.yahoo.co.jp/articles/24bab5c75b8192412e4871d88d04e9dc25d0f0dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04174624-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーに「毎晩でいいよね」今季初4番のマンシーが語る　ロバーツ監督も「いつもよりもいいパフォーマンスを見せるからね」とニヤリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24bab5c75b8192412e4871d88d04e9dc25d0f0dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04174624-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーに「毎晩でいいよね」今季初4番のマンシーが語る　ロバーツ監督も「いつもよりもいいパフォーマンスを見せるからね」とニヤリ
+      <a href=https://news.yahoo.co.jp/articles/6f06ef828265a79601b8a734ca17657f4d73685f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04261567-teny-000-2-thumb.jpg?exp=10800&fmt=webp> 【救う】緊迫の現場　流された7歳の男児の救助に貢献　70歳の男性に感謝状 《新潟》
       </a>
     </td>
   </tr>
@@ -411,15 +411,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/95d351d10c45e0f5df43bc5ae102ffb3c58afb428e501c8b88b17cd5ea6c5e54.jpg> 政府備蓄米 価格の上乗せ分が拡大
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 政府備蓄米 価格の上乗せ分が拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/102140895dbd53768ffadd5848b9b73127d8e21212e9340f017ce95c1584b313.jpg> 誤った量の薬投与 患者死亡し発覚
+      <a href=https://news.yahoo.co.jp/pickup/6539018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/db56f3f29f2c21c3256965c700543d9883d86bd3d288f0d15b6f9ed301f90261.jpg> 搭乗員らしき「もの」 防衛相謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e0898147b530e0e4444b43e6662d6428ad9b478620a16807fbca926ea523b344.jpg> 立憲水野氏不出馬へ パワハラ報道
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0a723adbdccc40c9ffaecf5274efd9415856fc98a1176fe7b9309a310c385298.jpg> マネードクターに業務改善命令へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539013>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ariyoshiritsu/02209932/title-1747297499792.jpeg?exp=10800> 小さな吸血生物 マダニ感染症警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/7a20827162fed2546e07c4c211fe03d1e8a3f222950cafd06d0a97cd446324d0.jpg> 水ぼうそうが大流行 大人も注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 22:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 22:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
