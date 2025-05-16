@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60535d58306897fc2f038501fbd8a44f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45be404f26cdd475603704825c018fb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2614073b338e8f3fa43c8e62108b56e0a6f52b6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050126-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 「記念日」に強い大谷翔平、今季初の２打席連発でナ・リーグトップタイの１５号
+      <a href=https://news.yahoo.co.jp/articles/5da39e45b2eefd90c3dd21227de4ce8afd55387b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000066-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=960&ch=960&exp=10800&fmt=webp> ロバーツ監督、2発の大谷翔平「褒める言葉出尽くした」…『ボブルヘッド・デー神話』続く、本塁打メジャートップ浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8af18164e1c4018208d55f6a6f7f096ba1dd9790>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000213-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「もう普通のことみたい」マンシーが大谷2発に驚かず“野手登板”ペレダの三振は「公式記録と認めるよ」
+      <a href=https://news.yahoo.co.jp/articles/eb4bd512f6f95f4623b943249a0038bce40dfa84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-01265095-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 岩橋玄樹がマニアックな“推し活”を告白「ドジャー・スタジアムの土をオークションで買った」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ感染 1機関当たり1人下回る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538968>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2232da7d3e2d58de199c3789c884f7cbb85c4864f83249f2403b33044faba6a4.jpg> プーチン氏 陸軍総司令官を解任
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2558e349160559092d355dc55bf2c3162b5f0ef1372e541fe8b3f97ba6a23fcd.jpg> 園でリンゴ詰まり 意識不明で2年
+      <a href=https://news.yahoo.co.jp/pickup/6538971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/a4971fa45ab85fb20db2f60073c6a47e4a1972f2e20521ccc3f8bfbe90c5645b.jpg> 勝山市 日本ジオパーク認定返上へ
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538969>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b57fffe285d19fcafeff32aedfe4aafc4a82ee4aa09d6c98554c2b78952cacac.jpg> 店に車突っ込み 殺人未遂疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e33741031922504c4c6319d2afb8a9fddb31de799f7ed50d0b2686cf57c41480.jpg> モペットで危険運転致傷疑い 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 15:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 16:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
