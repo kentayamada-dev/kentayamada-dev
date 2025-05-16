@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/632z5Zs3szc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01b5f4fcfe153478494f40fdb2f2b09b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6baef4e083ea512f88f544ddab4e9d89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/267122d6faca893623bb3852aa250267d59323dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178757-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=982&ch=982&exp=10800&fmt=webp> ロシアとウクライナ 3年ぶりの直接協議始まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/59f711b936c1a12b2bdd9e13f56fb20ca3d66160>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000070-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 愛知の空自機墜落　搭乗員とみられる体の一部を発見　防衛省
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10053d206d78148e44d4bcec3178f60be0553739>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000503-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=644&ch=644&exp=10800&fmt=webp> くら寿司、大阪・関西万博店の不正な予約転売に注意喚起「購入も不正行為に該当」アカウント削除措置も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a323d871fd210488d509d8467707781e9a9eac3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05373999-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】ロシアとウクライナの直接交渉開始　約3年ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/22252bfcd76fbe1c8bb456e3e3451e54e4f9290f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00973047-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=492&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が“50-50”ボブルヘッドデーに大爆発!　14号3ラン＆15号2ラン…今季初の2打席連続アーチでホームラン王争いトップタイに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ea27db7af7c111107bfa33d6411fb711fc0105b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90019818-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生の男の子が『泥団子』投げたか マンションからの落下物で男性大けが 【熊本】
       </a>
     </td>
   </tr>
@@ -426,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/102140895dbd53768ffadd5848b9b73127d8e21212e9340f017ce95c1584b313.jpg> 誤った量の薬投与 患者死亡し発覚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5a19ba6276522aca5e700cd1696e34c8b635f63e9daa394b06c85a208334635f.jpg> クレハ常務辞任 社員へ不適切行為
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539003>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ea9d0f05d1103b9678471be73ed0e4dd8d5a01b79b150415844be05709cb43d8.jpg> 列車上に遺体 長野から90km移動か
       </a>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/adfd42620b36ef24e1663ba48a3425155aa35a80f7873a9e1e5946b34ded62b8.jpg> 万博のくら寿司 予約転売が数十件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539007>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/7a20827162fed2546e07c4c211fe03d1e8a3f222950cafd06d0a97cd446324d0.jpg> 水ぼうそうが大流行 大人も注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d54c8ec6a36b8b330ef573bab3e1753402d408796943fd5a4c15266a82a4fb40.jpg> 和毅 井上井上騒ぐけど亀田家やろ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 20:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 21:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
