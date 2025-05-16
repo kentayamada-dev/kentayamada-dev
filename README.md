@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f655a43835d38fa83cded3e46762134.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb35c2cd46e1d3a397aa5f23d7228ef8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1160613d656287354c827fa6f505b3c373603a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237095-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「搭乗員と思われる体の一部を発見・収容 航空自衛隊の小牧基地に搬送」中谷防衛大臣　自衛隊練習機1機が墜落した事故　愛知・犬山市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a631aaf0b221fc5f130533ca8a40641c8e896d65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 2打席連発でリーグトップタイとなる14・15号！ ロバーツ監督「もっと（ボブルヘッドデーを）やる必要がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b1bd1e88585430da2c1cebb4e989b4d64ba6663>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233087-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ロシアとウクライナ、イスタンブールで高官級会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26192d2523ccf6f9b58371868fbbe3ad6d30e467>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空自衛隊新田原基地所属の自衛隊機墜落事故　搭乗員とみられる体の一部見つかる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24bab5c75b8192412e4871d88d04e9dc25d0f0dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04174624-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーに「毎晩でいいよね」今季初4番のマンシーが語る　ロバーツ監督も「いつもよりもいいパフォーマンスを見せるからね」とニヤリ
       </a>
     </td>
   </tr>
@@ -419,15 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/db56f3f29f2c21c3256965c700543d9883d86bd3d288f0d15b6f9ed301f90261.jpg> 搭乗員らしき「もの」 防衛相謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e0898147b530e0e4444b43e6662d6428ad9b478620a16807fbca926ea523b344.jpg> 立憲水野氏不出馬へ パワハラ報道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0d73d54b34a29f8d41120d4ddad8c45f79ff0711075ae9e4360da4f62fd4b8a2.jpg> 搭乗員らしき「もの」 防衛相謝罪
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
+      <a href=https://news.yahoo.co.jp/pickup/6539022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bec8d97ef4310ca57344b179311e33cb11f7cb0b7d788f8497e3abc1c31c9093.jpg> 溺れた7歳 70歳素早い通報が救う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7292e0b6c6c55db196fbe65cd65331564b85cffd4295ce4b804172d85c8ed8.jpg> 不振が続くサマンサタバサ 現在地
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 22:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 23:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
