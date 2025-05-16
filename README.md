@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/603155ab47b2292a8d492e38e332340b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2bbbc027fae051439cfc80e410974fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/964631641680289eeb09df8f945c40edd9e0d8fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-01754431-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に「もうMVPをあげても」　衝撃の2打席連発、HRキング浮上にLA記者も“苦笑い”
+      <a href=https://news.yahoo.co.jp/articles/1fd3a6197d4c861205017fab7e40bcb1816e19a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050114-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 脱毛サロン「ミュゼプラチナム」運営会社が破産申し立て…業績悪化で給与未払い、債務支払い困難に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/286da8db54d1295a6be6fc9848156c3bea558ab9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972714-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【続報】トラック運転席部分を引き上げ…埼玉・八潮市道路陥没事故　下水道管の完全復旧まで5〜7年かかる見通し
+      <a href=https://news.yahoo.co.jp/articles/b984b694c4790c14f6dd3620f13b314d6bed8217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-01754428-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 列島の昼時も「一息つかせてくれない大谷さん好き」　衝撃の2打席連発が「マジ異次元」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a70cb085bd81192981f8e9dfbb36bdb17afb480>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90050795-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【札幌市中1女子いじめ自殺】両親が和解意向「首つって死んで」とSNSメッセージ…2年以上の”いじめ”原因は教師の長期間放置と訴え→裁判所が和解勧告→いじめと自殺の因果関係認め札幌市謝罪〈北海道札幌市〉
+      <a href=https://news.yahoo.co.jp/articles/6da3f927755a8fa30afa759836b7095619b6de9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050051-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏もプーチン氏もゼレンスキー氏も参加せず…ロシアとウクライナの高官級協議、きょう開始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a620e7f201f1e3dbb70f5777260457d6fcc527d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972727-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 下水道管内に残されていたトラック運転席部分を地上に引き上げ　埼玉・八潮市道路陥没事故　完全復旧まで5年から7年かかる見通し
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e41cad57396a45bd22f271287b0ae20bb67521d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050067-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 墜落した空自Ｔ４練習機のエンジン発見か、隊員２人は行方不明のまま…６００人態勢で捜索続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3871705b1cdfca4dd8987f96bb72943f228e97b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90024990-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 直接交渉にプーチン氏の姿なし　トルコで開催のロシアとウクライナの停戦協議
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6dc80acaf7a354efea51fac57decf38aab983debc6c54ba0369c015c44a2375d.jpg> 札幌中1自殺 両親和解応じる方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538950>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0850982d73c09ee8f0f279dfa9e14f83c50df797fa3ec1cc7b8818ce5edc682b.jpg> 解散命令 政治介入懸念の法人も
       </a>
@@ -442,24 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/5fd18ac0e7ea731a81fd88d0ee4146c7cc175239f2871a4aeb64af412d8a4d9e.jpg> 千円着服で退職金失う 司法の判断
+      <a href=https://news.yahoo.co.jp/pickup/6538956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6dc80acaf7a354efea51fac57decf38aab983debc6c54ba0369c015c44a2375d.jpg> 札幌中1自殺 両親和解応じる方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/36ca717b390f7264d8ca0b3d0e373cfff9ff0aebbce867e73c581a73fd2ca0dd.jpg> 大谷翔平が14号&15号 2打席連発
+      <a href=https://news.yahoo.co.jp/pickup/6538958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/04e3859e6dc361ba96e5bfd667a034ce96650bc4e0bfa621f3df68c24bc75801.jpg> ミュゼ運営 債権者が破産申し立て
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/44db849a273fbe5cbd66a76c8525fe69fa415358b0b1586d3aa18012b8a8e6a9.jpg> ドン小西氏 別れた元妻と再婚へ
+      <a href=https://news.yahoo.co.jp/pickup/6538951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e94572f0c0f7f05d9d4363e3f98f9dd815144a5b8993a48dc7e23c120690195a.jpg> 三毛猫の毛色遺伝子を発見 九州大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6c09dd09795578a74dbd8f4b03f818ecee658d4e03cd016f5bffada56c90f64c.jpg> 大谷14号&15号 今季初の2打席連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 13:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 13:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
