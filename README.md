@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7f17e6dc3152643affc7228da1a3807.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b3dc42042ba23672a4c122e830d1ce7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/103037375f60d86ba0666368ca6723305fed53d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=1781&ch=1781&exp=10800&fmt=webp> 大谷翔平　２打席連発でキングタイ１５号　５月１３戦８本の量産態勢　ボブルヘッドデーは“３戦４発”
+      <a href=https://news.yahoo.co.jp/articles/02c63e7c6ca2aca0685c76e2f139692dab11c74a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000205-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平はボブルヘッドデー3戦連発で「いいバットの出方」と納得顔　5月8発も「終盤もっといい状態で」と高み見据える
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 03:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 03:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
