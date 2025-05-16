@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4450149b408df532b1dfc62242314b5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b3c3b2887010de11fd4edd7cd580fc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3646bdae35bf646014fe0344a7f2252cc97fab8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=461&ch=461&exp=10800&fmt=webp> トランプ大統領、ウクライナ停戦協議への仲介が二転三転…プーチン氏の不参加で態度一変
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050181-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=461&ch=461&exp=10800&fmt=webp> トランプ大統領、ウクライナ停戦協議への仲介が二転三転…プーチン氏の不参加で態度一変
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3c6c3d8b42dd9021be765fee707c259ed288ce9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000123-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=971&ch=971&exp=10800&fmt=webp> 前田大然がリーグ最優秀選手　スコットランド・サッカー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/209bb97fed3ac20595f6066d6ec17e2a9620b5b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-21919185-obsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「遺体は母親で遺棄した」　死体遺棄の疑いで逮捕の男が供述　床下で見つかったのは93歳の母親か　大分
       </a>
     </td>
   </tr>
@@ -426,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1dfb4f99af01548c0f7d965da7e6779ddc047c7a7c68b8a6d03c6adfc8b14f72.jpg> 兄を殺そうとした疑い 15歳を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0a723adbdccc40c9ffaecf5274efd9415856fc98a1176fe7b9309a310c385298.jpg> マネードクターに業務改善命令へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/911f206d49b1b7b1a932099c953c72ce357d62b815c887ce41815f0bd2009b0a.jpg> 学校で案内した催し 返金トラブル
       </a>
@@ -450,16 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/3e901d130a1f12cbf600478e20b180fe47fec23ac3236492a245da8ac51a876a.jpg> 改装の道の駅 500人以上が行列
+      <a href=https://news.yahoo.co.jp/pickup/6538972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/28a0ec05796a360d117873af29d134e67035198738919f05dd88fb9115caf138.jpg> ムヒカ氏葬儀 現大統領ら賛歌合唱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e1b03e40025801faacb29293533bb7387aad974f051f98f093526ff0cf36ea75.jpg> セルティック前田 リーグ年間MVP
+      <a href=https://news.yahoo.co.jp/pickup/6538997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bd0b6ada72b097954863838fc415a1477155a1e7b9d2000a983a68d237075cbd.jpg> カンヌ映画祭 会議中に性暴力告発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/15c6807828e2d320d5a2ac299e7148979c45464cb84cd0ad0e7283ee24d81452.jpg> 焼き鳥55円 きっかけはトミーズ雅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4192087fb3e62e37080921d0ceb3abf991c852b372f7eb8808c9bb3ca0375448.jpg> 遠山景織子 50歳誕生日に結婚発表
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 23:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 23:52:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
