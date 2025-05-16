@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6baef4e083ea512f88f544ddab4e9d89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3d7321de27915e2552ff292e6487b11e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/267122d6faca893623bb3852aa250267d59323dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178757-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=982&ch=982&exp=10800&fmt=webp> ロシアとウクライナ 3年ぶりの直接協議始まる
+      <a href=https://news.yahoo.co.jp/articles/128de273a365cfebfa7d4c435eecf2904964053e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010036-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ　3年ぶりの直接協議が始まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59f711b936c1a12b2bdd9e13f56fb20ca3d66160>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000070-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 愛知の空自機墜落　搭乗員とみられる体の一部を発見　防衛省
+      <a href=https://news.yahoo.co.jp/articles/da2732fa45902f8439692d7c7f199599c642f28d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00010033-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=573&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中谷防衛大臣「搭乗員とみられる体の一部を発見し収容」　愛知・自衛隊機墜落事故で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22252bfcd76fbe1c8bb456e3e3451e54e4f9290f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00973047-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=492&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が“50-50”ボブルヘッドデーに大爆発!　14号3ラン＆15号2ラン…今季初の2打席連続アーチでホームラン王争いトップタイに
+      <a href=https://news.yahoo.co.jp/articles/24bab5c75b8192412e4871d88d04e9dc25d0f0dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04174624-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボブルヘッドデーに「毎晩でいいよね」今季初4番のマンシーが語る　ロバーツ監督も「いつもよりもいいパフォーマンスを見せるからね」とニヤリ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/3ba755f33fd37dd97a5477c1543566953e64f3f7a779b432c69f1d3bac945ac6.jpg> 仲介の米・トルコとウが対応協議
+      <a href=https://news.yahoo.co.jp/pickup/6539005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b1fa3bf71fe027bc676f0ceb88a9a2373730953809539f7aa06e0394e889429b.jpg> 露とウの直接協議始まる 3年ぶり
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539000>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b51e084b2c905e516ea246a4b3e64192defb583fc92bffb4ac48e39ac3abca2d.jpg> 墜落機の搭乗員か 体の一部発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/16e0e30c3287062e9757880b49f58a6e646c1f0e4fb4857c78570c3eb6699f14.jpg> フジ社長 中居氏側の反論に言及
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1791ce19d338f4156e63b7a8a09c6ff47a6dc3ca4b0dcc67eaadc451f0004470.jpg> セクハラ認定 市長が会見打ち切り
+      <a href=https://news.yahoo.co.jp/pickup/6539011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e15b06ef36972548ef3cd8e897519411a47558df6426328bd809cff627055095.jpg> 64kmスローボール 甲子園どよめく
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 21:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 21:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
