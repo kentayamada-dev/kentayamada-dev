@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d83a364038e3d7a9c347e8d8ea89d41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60535d58306897fc2f038501fbd8a44f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe4888485259f082ec60090ba73ac87cdb5e58e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05161121-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「ボブルヘッドデー」に１４＆１５号　ロバーツ監督「４～５個じゃ足りない」「もっと必要」
+      <a href=https://news.yahoo.co.jp/articles/2614073b338e8f3fa43c8e62108b56e0a6f52b6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050126-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 「記念日」に強い大谷翔平、今季初の２打席連発でナ・リーグトップタイの１５号
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e932fdf4ec8aee69bec4f60dbe4d78c3c5f362de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160558-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> １試合２発の大谷翔平、かわい～い拍手をドジャース公式が映像で公開「ショウヘイはうれしい」
+      <a href=https://news.yahoo.co.jp/articles/8af18164e1c4018208d55f6a6f7f096ba1dd9790>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000213-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「もう普通のことみたい」マンシーが大谷2発に驚かず“野手登板”ペレダの三振は「公式記録と認めるよ」
       </a>
     </td>
   </tr>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b57fffe285d19fcafeff32aedfe4aafc4a82ee4aa09d6c98554c2b78952cacac.jpg> 店に車突っ込み 殺人未遂疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/6dc80acaf7a354efea51fac57decf38aab983debc6c54ba0369c015c44a2375d.jpg> 札幌中1自殺 両親和解応じる方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538962>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2558e349160559092d355dc55bf2c3162b5f0ef1372e541fe8b3f97ba6a23fcd.jpg> 園でリンゴ詰まり 意識不明で2年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b57fffe285d19fcafeff32aedfe4aafc4a82ee4aa09d6c98554c2b78952cacac.jpg> 店に車突っ込み 殺人未遂疑い逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/74131f3c7ace1d4c20e91af442317833db2b212eea73b9ed891638fe5a970273.jpg> 大谷14号&15号 今季初の2打席連発
+      <a href=https://news.yahoo.co.jp/pickup/6538965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2b64ae39d2a8c4c96e97bb6b163be51052e30ef500a851e7ef9f5df75dbf127e.jpg> 故意負け発覚 インハイ予選再試合
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ecc2b538de6d3a2bcaa67e95131f19d8d8bded20fdbebfb0ba676f2b0d093319.jpg> 大谷15号球 学生が流血の末に死守
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 15:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 15:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
