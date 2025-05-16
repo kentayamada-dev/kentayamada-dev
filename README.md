@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb35c2cd46e1d3a397aa5f23d7228ef8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4450149b408df532b1dfc62242314b5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3646bdae35bf646014fe0344a7f2252cc97fab8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=461&ch=461&exp=10800&fmt=webp> トランプ大統領、ウクライナ停戦協議への仲介が二転三転…プーチン氏の不参加で態度一変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1160613d656287354c827fa6f505b3c373603a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237095-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「搭乗員と思われる体の一部を発見・収容 航空自衛隊の小牧基地に搬送」中谷防衛大臣　自衛隊練習機1機が墜落した事故　愛知・犬山市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237095-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「搭乗員と思われる体の一部を発見・収容 航空自衛隊の小牧基地に搬送」中谷防衛大臣　自衛隊練習機1機が墜落した事故　愛知・犬山市
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1bd1e88585430da2c1cebb4e989b4d64ba6663>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35233087-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ロシアとウクライナ、イスタンブールで高官級会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f06ef828265a79601b8a734ca17657f4d73685f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-04261567-teny-000-2-thumb.jpg?exp=10800&fmt=webp> 【救う】緊迫の現場　流された7歳の男児の救助に貢献　70歳の男性に感謝状 《新潟》
+      <a href=https://news.yahoo.co.jp/articles/e3c6c3d8b42dd9021be765fee707c259ed288ce9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000123-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=971&ch=971&exp=10800&fmt=webp> 前田大然がリーグ最優秀選手　スコットランド・サッカー
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ae714f1708f3c0e5e85216732c1466b03fd35e665fc3039d66eded398a20e2e4.jpg> 直接交渉 露代表はウ側にらみつけ
+      <a href=https://news.yahoo.co.jp/pickup/6539023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ba976966127a49064a35936fc902a978a410e2a571cca8157d3ffa153ea1bdb0.jpg> ロシア・ウクライナが直接交渉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 政府備蓄米 価格の上乗せ分が拡大
+      <a href=https://news.yahoo.co.jp/pickup/6539024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/964fd7cb4854e82d84914805104d73a797b23d38f96915d6cd57b90a5202482c.jpg> 教育熱心と教育虐待 境界線は
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bec8d97ef4310ca57344b179311e33cb11f7cb0b7d788f8497e3abc1c31c9093.jpg> 溺れた7歳 70歳素早い通報が救う
+      <a href=https://news.yahoo.co.jp/pickup/6539028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/911f206d49b1b7b1a932099c953c72ce357d62b815c887ce41815f0bd2009b0a.jpg> 学校で案内した催し 返金トラブル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7292e0b6c6c55db196fbe65cd65331564b85cffd4295ce4b804172d85c8ed8.jpg> 不振が続くサマンサタバサ 現在地
+      <a href=https://news.yahoo.co.jp/pickup/6539001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/3e901d130a1f12cbf600478e20b180fe47fec23ac3236492a245da8ac51a876a.jpg> 改装の道の駅 500人以上が行列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e15b06ef36972548ef3cd8e897519411a47558df6426328bd809cff627055095.jpg> 64kmスローボール 甲子園どよめく
+      <a href=https://news.yahoo.co.jp/pickup/6539027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e1b03e40025801faacb29293533bb7387aad974f051f98f093526ff0cf36ea75.jpg> セルティック前田 リーグ年間MVP
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 23:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 23:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
