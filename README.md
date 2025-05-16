@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b3dc42042ba23672a4c122e830d1ce7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d2ac6177ac38ff440915e182a8f4806.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d06376d30a789e2d9c5d7b9844a967f6360db2a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07237119-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 防衛省が「体の一部を発見」と発表…自衛隊機墜落から丸2日　ヘルメットなどの持ち物も【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7e7082064797521ef80cde92ffe3e8abe2c3246>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000103-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自衛隊機墜落で体の一部を発見　中谷大臣「搭乗員らしきもの」　陳謝し訂正
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 03:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 04:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
