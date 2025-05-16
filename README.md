@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/371a0eeab815676ad71d0147aa5d23bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5be2152132091b5c4436305ba480cd61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd5c1fad3da6e98b6cda85c671cb70c69a221b10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛知の空自機墜落　中谷防衛相「搭乗員らしきものを発見」
+      <a href=https://news.yahoo.co.jp/articles/70a6d8ab600420d322e1e5babd70410026449bac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178736-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=977&ch=977&exp=10800&fmt=webp> 自衛隊機墜落 搭乗員とみられる体の一部を収容 愛知・犬山市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/737f95ac23ab79eef66a3852a34b509afd79a6b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00973002-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=541&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア側はウクライナ非軍事化、ウクライナ側は30日間の無条件停戦受け入れ求めるか　まもなく和平に向けた直接協議
+      <a href=https://news.yahoo.co.jp/articles/2a3f079fd7851d3c00144a18215184dc96dd5a7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07237090-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】ロシアとウクライナ直接交渉始まる　3年ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22252bfcd76fbe1c8bb456e3e3451e54e4f9290f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00973047-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=492&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が“50-50”ボブルヘッドデーに大爆発!　14号3ラン＆15号2ラン…今季初の2打席連続アーチでホームラン王争いトップタイに
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02637abeaf28482bb1b010a3a702e9530a7812be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160787-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平が今季初１試合２発　５月は13戦８発と量産態勢へ　記念日に不思議なパワーが後押し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad9029da77e582228dba26cbb03bc0742cfd8881>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-08748965-sp_ctv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】自衛隊機墜落　「搭乗員らしきものを発見」と発表　損傷激しく詳細については未だ不明　中谷防衛大臣発表
+      <a href=https://news.yahoo.co.jp/articles/57ab5a67a1020e73d54034e77df5e4b4d5ce361a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90013415-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 第三者委員会が南城市の古謝市長へ辞職を提言　セクハラ行為「全てあったと判断」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b51e084b2c905e516ea246a4b3e64192defb583fc92bffb4ac48e39ac3abca2d.jpg> 墜落機の搭乗員か 体の一部発見
+      <a href=https://news.yahoo.co.jp/pickup/6538990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/3ba755f33fd37dd97a5477c1543566953e64f3f7a779b432c69f1d3bac945ac6.jpg> 仲介の米・トルコとウが対応協議
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538988>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/8f5293550ffe5cb5348c2315e3e7f87fba382163ba2f5649fe1513d01629e34e.jpg> 106万円の壁どうなる 法案提出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b51e084b2c905e516ea246a4b3e64192defb583fc92bffb4ac48e39ac3abca2d.jpg> 墜落機の搭乗員か 体の一部発見
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/cee90e80c3409e51ed9a6bd103ec65e7b384ce44bcfb2e0949081f3ca7135b21.jpg> 0歳死亡 妻の就寝中複数回暴行か
+      <a href=https://news.yahoo.co.jp/pickup/6539006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1791ce19d338f4156e63b7a8a09c6ff47a6dc3ca4b0dcc67eaadc451f0004470.jpg> セクハラ認定 市長が会見打ち切り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/e21f52aa2078a61e75b4197aa6c412b3a1ff91d869adcf52a534d6d7b2a313f6.jpg> ミュゼ巡る破産申請 客側どう対応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/1020067263afd821aebb5d3bfe25b5c1a93320340d54456efe9844f4c5f85bdd.jpg> 天下一品 首都圏で閉店ラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6538996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/eb95c3fb6f1871bcf20aeee5915f62877d0f0ce118feb6f07fefd7d3b0eb960b.jpg> 治療法ない病気の2歳 家族の思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 19:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 20:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
