@@ -325,7 +325,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/6e1a8ccd27eede4cb5e98af5000856de.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dafde5bdf2a00176219ae8a7be51132d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8361a74c764013c48d7066ef02fa4628.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02c63e7c6ca2aca0685c76e2f139692dab11c74a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000205-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平はボブルヘッドデー3戦連発で「いいバットの出方」と納得顔　5月8発も「終盤もっといい状態で」と高み見据える
+      <a href=https://news.yahoo.co.jp/articles/2837f1fd3fb158ffe206cb18ea914b7a57aa1e67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01754827-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「止められない」　衝撃弾にLA記者は最敬礼…24分後に再び“証明”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4513eb366b62e9148c3dd98ad59116ba6a3a5d19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000007-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=956&cy=0&cw=1244&ch=1244&exp=10800&fmt=webp> フジ＆ＨＤ　ダルトン案ＮＯ！新役員候補発表「敵対するつもりない」も北尾氏ら１２人全員含まれず
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 05:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 05:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
