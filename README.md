@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a0777ecffe870dae6fa0436f80d18dff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d83a364038e3d7a9c347e8d8ea89d41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ccebb8c9f0385295689926ce8f07d3a532f8d7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160534-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季初１試合２発で６打点　５月は13戦で８本目「終盤にもっともっといい状態で…」
+      <a href=https://news.yahoo.co.jp/articles/fe4888485259f082ec60090ba73ac87cdb5e58e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05161121-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「ボブルヘッドデー」に１４＆１５号　ロバーツ監督「４～５個じゃ足りない」「もっと必要」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e932fdf4ec8aee69bec4f60dbe4d78c3c5f362de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160558-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> １試合２発の大谷翔平、かわい～い拍手をドジャース公式が映像で公開「ショウヘイはうれしい」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf024a2f8fb69353fff57082cfb4316dc537c739>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178655-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=539&ch=539&exp=10800&fmt=webp> ロシアとウクライナ 別々に米・トルコと3カ国間協議か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3724df8d3d225fa095f73d776c881b1ec7cb7d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236970-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 能動的サイバー防御 関連法案が成立　政府による“アクセス無害化”が可能に　捜査～裁判手続きをデジタル化する改正刑事訴訟法も成立
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bc4668fa3ee2f62a8f64991328118f57396a60842f7967f515b48483dc04ca3e.jpg> 墜落した空自機のエンジンか 発見
+      <a href=https://news.yahoo.co.jp/pickup/6538967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/d84dba63db5766b65df364822060618d786742b61f9c6f928237e36c2c0702f9.jpg> 能動的サイバー防御法が成立
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/12f878425e030e71766448be9e2bbdfe5e495fcbee266447cda32a838720df6f.jpg> 立憲 1人2万円給付の参院選公約案
+      <a href=https://news.yahoo.co.jp/pickup/6538968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/2232da7d3e2d58de199c3789c884f7cbb85c4864f83249f2403b33044faba6a4.jpg> プーチン氏 陸軍総司令官を解任
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538966>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/937ca6bb30bdda518cabc33437ce26f411b437aeaceed3bc3dbf5e51fe004e24.jpg> はねられ7人負傷 別の学校物色か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/b57fffe285d19fcafeff32aedfe4aafc4a82ee4aa09d6c98554c2b78952cacac.jpg> 店に車突っ込み 殺人未遂疑い逮捕
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/04e3859e6dc361ba96e5bfd667a034ce96650bc4e0bfa621f3df68c24bc75801.jpg> ミュゼ運営 債権者が破産申し立て
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538961>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/74131f3c7ace1d4c20e91af442317833db2b212eea73b9ed891638fe5a970273.jpg> 大谷14号&15号 今季初の2打席連発
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 14:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 15:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
