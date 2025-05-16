@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/322c067209b715cb61a2accae22090be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0777ecffe870dae6fa0436f80d18dff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd8db12942dca7a72b9878665f2379285e9f0c38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000177-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 「たまたま」大谷翔平ボブルヘッドデー“3連発”にも謙虚「いつでも頑張りたい」14＆15号の大暴れ
+      <a href=https://news.yahoo.co.jp/articles/0ccebb8c9f0385295689926ce8f07d3a532f8d7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-35160534-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、今季初１試合２発で６打点　５月は13戦で８本目「終盤にもっともっといい状態で…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b0a8bf02f0e8458f6ff92d80ce62b8e44cdff57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「モペット」運転中に信号無視し歩行者にけがさせた疑い 40代会社員の男逮捕 東京・中央区
+      <a href=https://news.yahoo.co.jp/articles/cf024a2f8fb69353fff57082cfb4316dc537c739>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-10178655-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=539&ch=539&exp=10800&fmt=webp> ロシアとウクライナ 別々に米・トルコと3カ国間協議か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5035b13c509d4b5eca8448e135ebe23feef3a48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000051-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナの停戦交渉　双方の大統領が欠席　初日開催されず
+      <a href=https://news.yahoo.co.jp/articles/d3724df8d3d225fa095f73d776c881b1ec7cb7d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-07236970-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 能動的サイバー防御 関連法案が成立　政府による“アクセス無害化”が可能に　捜査～裁判手続きをデジタル化する改正刑事訴訟法も成立
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/797e685c14e5a6bd2ef7b6336847f445683360f76f616e63287c81b73bf82a69.jpg> 106万円の壁廃止 法案を閣議決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538953>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/bc4668fa3ee2f62a8f64991328118f57396a60842f7967f515b48483dc04ca3e.jpg> 墜落した空自機のエンジンか 発見
       </a>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538952>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/12f878425e030e71766448be9e2bbdfe5e495fcbee266447cda32a838720df6f.jpg> 立憲 1人2万円給付の参院選公約案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/937ca6bb30bdda518cabc33437ce26f411b437aeaceed3bc3dbf5e51fe004e24.jpg> はねられ7人負傷 別の学校物色か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 14:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 14:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
