@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/145d06a5a50dc25889dd88ca916a4ead.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ff13fe1f6bb08dab1c6a0845371a9d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da90c0102af7db6c7076ea8cf3bb4f2ea07428b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07237116-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ直接交渉　2時間足らずで終了　早期停戦実現の見通し立たないまま　1000人ずつの捕虜交換には合意か
+      <a href=https://news.yahoo.co.jp/articles/3359d0273acaf1c44c54d519f3ed6df799dccaea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000078-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=843&ch=843&exp=10800&fmt=webp> ドジャース・大谷　2打席連発！今季最多6打点で大勝貢献　ボブルヘッド配布日では“3戦連発”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f2aed0c5dd6acabba0bc8487945c5e99f3c1906>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05161271-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 大谷翔平が５月１３戦８発…驚異の５５発ペ－ス　自己最速１５号でジャッジらに並び両リーグトップ　
+      <a href=https://news.yahoo.co.jp/articles/da90c0102af7db6c7076ea8cf3bb4f2ea07428b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07237116-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ直接交渉　2時間足らずで終了　早期停戦実現の見通し立たないまま　1000人ずつの捕虜交換には合意か
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3c6c3d8b42dd9021be765fee707c259ed288ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000123-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=48&cw=971&ch=971&exp=10800&fmt=webp> 前田大然がリーグ最優秀選手　スコットランド・サッカー
+      <a href=https://news.yahoo.co.jp/articles/e7e7082064797521ef80cde92ffe3e8abe2c3246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000103-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自衛隊機墜落で体の一部を発見　中谷大臣「搭乗員らしきもの」　陳謝し訂正
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 01:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 01:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
