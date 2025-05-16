@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/416e28ca2b649b630b2d6d2c887f2d4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e435568577c9cc96fb1adf133b611874.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/051cc71027e5a111e676f3970a552eb42ed46571>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000021-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ゼレンスキー氏「一時停戦達成したい」　露との直接協議巡り
+      <a href=https://news.yahoo.co.jp/articles/0945395ef5e00678e8c8285cc3cdbdc8a6802d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-11641481-khbv-000-31109944-thumb.jpg?exp=10800&fmt=webp> 死体遺棄容疑で逮捕の男を殺人容疑で再逮捕へ　宮城・岩沼市の女性保育士殺害事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f54d7ad83136d63637a15e297d187fe37b53e9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000019-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ブルーインパルスの展示飛行は当面見合わせ、万博にも影響か　空自練習機墜落で
+      <a href=https://news.yahoo.co.jp/articles/98894e6ca594fb62b27f535ec36526cff50b3731>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00972624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「私とプーチン氏が参加するまでは何も起きないだろう」　ロシアとウクライナ3年ぶりの直接交渉　双方の隔たり大きく難航か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd4d9305b69acb24a0531dc907dffc607594eddb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000110-spnannex-000-49-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=974&ch=974&exp=10800&fmt=webp> ドン小西氏　今夏に再婚する予定を明らかに　約20年前に離婚した元妻と　8月から同居「楽しみ」
+      <a href=https://news.yahoo.co.jp/articles/4cfba12b4362886f4a3e445e8c3763b8504480ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000037-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 道路陥没事故から3カ月半　トラック運転席の引き上げ完了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27b137feff6359d2a06b712d75808640c697473b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000006-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】道路陥没…トラックの運転席部分、引き上げ完了　作業開始から1時間半、地上に姿を現す
+      <a href=https://news.yahoo.co.jp/articles/4048e6463d57ef4c977234a4a313364050ed5795>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-90040392-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 事故発生から最大規模…航空自衛隊の練習機が墜落した池で500人体制の捜索始まる 隊員2人が依然安否不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac685d6d4067c2266c2f53216f9cb8483f362a67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-05576861-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【史上初】九州南部が全国で最も早い梅雨入り
       </a>
     </td>
   </tr>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/4a3c3f660a697dec1f5b1abbfc355b99b9f113ea7ad2d19a7f357bff60005db8.jpg> 1-3月期GDP 4四半期ぶりマイナス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/77e294d3728c00fb79f2896fb3e78d68a714f673b10c3f8f1e680dab059d9e32.jpg> 陥没 運転席部分の引き上げ完了
+      <a href=https://news.yahoo.co.jp/pickup/6538949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/42d95b1213102a1017169f6458e0f528df87215a5a10ea14e1c47b8da3eb12bc.jpg> 九州南部が梅雨入り 全国トップ
       </a>
     </td>
   </tr>
@@ -450,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/155928dd62042cd1729fcea13bc4c7fae979e452e8cce39e819a89995a1eb718.jpg> 父は古舘伊知郎 佑太郎が語る苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6538947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/44db849a273fbe5cbd66a76c8525fe69fa415358b0b1586d3aa18012b8a8e6a9.jpg> ドン小西氏 別れた元妻と再婚へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/08498d86f0e7f335947a3123834772b1e038bbcbbe042dbe96aef874f696d0ef.jpg> 世にも奇妙35周年SP 名作放送へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/16 11:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/16 12:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
