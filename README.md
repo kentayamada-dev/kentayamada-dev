@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80d67a3bac181b5c8110102bf5522c34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8de70b536879b6dd6959ec5c41150e1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45df7930a43ac9b766d9848800a21bc87d2dfae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000265-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 活動再開のトラジャ川島如恵留 有料ブログにメンバー、ファンへの思いつづる「本当にありがとう」
+      <a href=https://news.yahoo.co.jp/articles/098db34eb279ba7002cff5151dc025dbbfc97652>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシアのペースに乗せられたウクライナ　一時停戦も棚上げ　直接協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6ca5c19695c3da6ba38affcd538798eaac75afb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755240-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃3連発も…“無関心”のエ軍ナイン　まさかの反応にファン笑顔「誰も…」
+      <a href=https://news.yahoo.co.jp/articles/f965f1ef30bfde1a27c384f757be0201dc574dbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-09216813-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 空自機墜落　悪天候の中、捜索続く…“機体部品”見つかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2161ed0324f41831e0ebe6768908bcf9bc6cf9eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05857577-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 【解説】ロシア・ウクライナ直接交渉“どう喝”交渉の内幕「永遠に戦う準備がある」「占領地さらに広げる」
+      <a href=https://news.yahoo.co.jp/articles/36b417dcfbe635dd6cb6d061c61da9f1481f102b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00096635-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、昨年の54本塁打を上回るハイペースでの３戦連発16号ソロ。本拠地が鳥肌立った豪快弾の瞬間をMLBが公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7127a636e2e4de66fd644958db34ad628dcc18dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21920091-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機が池に墜落　雨が降る中搭乗員の捜索活動が続く　愛知・犬山市の入鹿池
+      <a href=https://news.yahoo.co.jp/articles/6a97ce91b8dd20fd12023b114c0ef64e3278ceaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010006-mbsnews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 強風でヨットやカヌー転覆事故相次ぐ　京都で42人投げ出され6人ケガ　兵庫で大学生ら16人投げ出される
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3da3ae6044a54120a4fff9dc45b48091b55b1cee1a3ed7c50568bae447c32e67.jpg> 陥没 県が周辺事業者に補償方針
+      <a href=https://news.yahoo.co.jp/pickup/6539074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/604ae735859c7efafe7df601097cd9b2f1eb41c10e31fd44d19a84bc091ae468.jpg> 米追放移民に「拷問」弁護団非難
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539068>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パー券収入を裏金化疑い 自民都連
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/1a3d022fc10d5c2bf110a4523a5e739b4b5e9f52fa667a2c8c39526d238b554c.jpg> 児童ひき逃げ 車所有者連絡取れず
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cbf5579848c7670e0ddd9a0e996209a0c4c4446bfb4e3b54980b540905d521c2.jpg> 大谷翔平が16号HR MLB単独トップ
+      <a href=https://news.yahoo.co.jp/pickup/6539094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/bf8b006bc775c97bede4b40ef61fee98114f57b0c3653611f62bdd41d922ee98.jpg> 大谷16号HR 試合後12分で帰宅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539099>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02211990/title-1747442232969.jpeg?exp=10800> 70代コンビ THE SECOND挑む訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 17:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 17:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
