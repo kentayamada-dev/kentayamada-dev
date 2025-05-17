@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c56f60e50fd286345f6c884e915477e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/408e60d912c8af2dfe996f4a34bee56a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/644497eebbd3fad50c7b47c80c0c1a06df07f05d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000032-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> ENEOS堺製油所のガス漏れ、60代男性が心肺停止　ほか男性2人も病院搬送
+      <a href=https://news.yahoo.co.jp/articles/137fac511637ffcd813104b6e9128f98483e1fec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170394-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、古巣エンゼルス戦の第１打席で３試合連続安打　第３打席は好機もゲッツーに倒れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d988d326c40a2c137ef2ed3f1c1062f69ea1964e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170315-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、古巣エンゼルス戦で３試合連続安打　第２打席は粘ってチャンス拡大の四球を選ぶ
+      <a href=https://news.yahoo.co.jp/articles/20185c0c6f6adac9606194f3302eb83949aa4da4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000026-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> ENEOS製油所でガス漏れか、2人が意識不明　大阪・堺
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ea4631a70ae9d7e204e1979e68e4cb851faa5fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00973193-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=613&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「会う必要があり日程調整するだろう」プーチン大統領と直接会談する必要性を言及　日程調整する意向示す
+      <a href=https://news.yahoo.co.jp/articles/dd9fdfeb77a19935e0af8709a3c242e1ad77513b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000040-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> 露ウクライナ直接交渉は成果なく終了　ロシアが優位な戦況背景に停戦条件のハードル上げる
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/b7fad852f6b89d52861747c59b056d2200c3cab5c8a285758780fd4ff2270ab5.jpg> 台湾 きょう「原発ゼロ」実現へ
+      <a href=https://news.yahoo.co.jp/pickup/6539061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c5b4f776eae6b77d7db5cfa1b3e7c3b10dd9f598de144482e379de924e49284c.jpg> 韓国の尹前大統領が与党を離党
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/d517bd9e156b70040736409e978c3005c81672cad04928cbbe8c0aa6cac5da03.jpg> 遺族補償年金 男女差の解消を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/b7fad852f6b89d52861747c59b056d2200c3cab5c8a285758780fd4ff2270ab5.jpg> 台湾 きょう「原発ゼロ」実現へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3a15eaae8676261ac906e2412450d95bb7c295e150f387e41d2462bcb1876364.jpg> 製油所でガス漏れか 2人意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3c455367b935d167841f4148c2cb97e498b52c8a8d3132b81ba2581538a32754.jpg> 米刑務所 トイレ外され10人が脱獄
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2418d988695694bb02d3b2538b4d05e453c183bccdddefa889360c9455987e6c.jpg> 米刑務所 トイレ外され10人が脱獄
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/28828e2a77a247b8d77345734712aac15abf794b1d8ded824cbe070b2e912a1a.jpg> 人気高まる「紅茶」なぜ各社注力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/ffd228db9bf844ae4d83b4178adcbd49f352e435d9ae9abc72e1765d956ec9bc.jpg> 朗希の痛み「報告遅れ」監督言及
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 12:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 13:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
