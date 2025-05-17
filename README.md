@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7e534b6af02c5e70afe88aac1786618.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48874c8b148f79d852c2748779e29e58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c5653b1e24ac557f188510e214661e5ab0dfd7df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05171353-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 杉原愛子が最長ブランク１０年ぶり優勝！２５歳大逆転「また花咲かせられてうれしい」体操ＮＨＫ杯女子個人総合
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/867e2c9d43d9684c272ed07daac227dabf13537a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米提示の和平案が「最善」　国務長官、ロシア外相と電話
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000007-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米提示の和平案が「最善」　国務長官、ロシア外相と電話
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc361b393239fcae5ac000da501653fbeeadf6b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000005-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 「THE SECOND」優勝のツートライブ、満島ひかりに報告？ 周平魂「たかのりの髪形が似ている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0421c7baa885e2428fe163bfacef9a09bdaf409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000321-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 【THE SECOND】MAN WITH A MISSION、ツートライブを祝福　1本目のネタに登場「アリガトウゴザイマシタ」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 05:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 06:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
