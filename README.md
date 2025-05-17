@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8735dff61cea2115ebc1a9c5ed1a1015.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ffc0513364cf752150ccac6a793df34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f396046b4c9b82907ccad41b4636b37ad51993cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ周平魂、たけしとの共演を早とちり　フジ小室アナ即修正「今は…」
+      <a href=https://news.yahoo.co.jp/articles/0c861e49e18c3c811e4b64a9083fc33e1ac1c032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000055-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷　父の誕生日に今季初3試合連発16号！自身初のシーズン60発行ける！大悟も見届けた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90501885a9fd0a96c9a6a73b6aaf238ae0a6fff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050027-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、プーチン氏と１９日に電話会談…「他の人を会いに行かせるのはもう疲れた」
+      <a href=https://news.yahoo.co.jp/articles/feddc69cc8a70c36ee2271bca87b8315406757a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「なんのこっちゃあらへん、チャンピオンですわ」ツートライブ優勝会見、周平魂が渾身のイキり顔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5ea38d1e5f34d24fabb1016c273d7f59638a896>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000001-mynavin-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ周平魂、『THE SECOND』賞金1,000万円で亡き父の墓建立へ　母に叩いた“大口”が現実に
+      <a href=https://news.yahoo.co.jp/articles/382a9e108dc910aa3b4bc911755c72c8a42f0892>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-08713256-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=486&ch=486&exp=10800&fmt=webp> トランプ大統領、19日にプーチン大統領と電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eec395658e31326808d1a4cc6004370e1fde363b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05171269-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「彼はただ別の世界の人間なのだ」大谷翔平の特大弾に敵将が達観　超ハイペース量産で６０発超え現実味
+      <a href=https://news.yahoo.co.jp/articles/6e27a81e8e586e897d9f4a44d33e7e067939a07c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000081-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【THE　SECOND】3代目王者ツートライブ優勝実感なし？会見で「意味わからへん」「ありえへん」　
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 01:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 01:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
