@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9620910296220deba83d4fff40f6230.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20903f6f4b2bbb5a8e6e427a2dbe1419.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d099134a2092770270e08368aff5112e9178e80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-90040408-tokaiv-000-1-thumb.jpg?exp=10800&fmt=webp> 新たに機体の一部か…自衛隊機が池に墜落した事故 水中の捜索再開も不明の2人の特定に至るもの見つからず
+      <a href=https://news.yahoo.co.jp/articles/a475163464bcc1074e50ab5e8122b78b06e444f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170950-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 敵将うなった「彼だけ、まさに別世界」大谷翔平16号で単独キング　レアな１発が打撃絶好調を証明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8afa6be4f8ccdae88ef13ee4a1b8aaf9ac318e84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000051-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 原田久仁信が5月7日に死去　妻がコメント「悔いのない人生だったと思います」
+      <a href=https://news.yahoo.co.jp/articles/7be3bb169a75d2af0a8988c3ef7c763433eebab6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-90007154-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落で防衛省「搭乗員と思われる体の一部を発見」捜索は続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8061d3d9f2901430408837628738c5cb69159154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000075-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウクライナとの首脳会談可能　代表団合意なら　ロシア報道官
+      <a href=https://news.yahoo.co.jp/articles/822035b277771e311c274b4dfa395de10bb18d8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000071-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、プーチン氏と会談調整示唆　露ウクライナ協議　進展なく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ae8f1a4b407a6cfb587a4b3420412f95d1e26ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00537778-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の前で打率.452キム・ヘソンが記録的出塁　10年ぶり新人記録「一生懸命でいい」 日本人好感
+      <a href=https://news.yahoo.co.jp/articles/5cd562b06901992b4804be83d0755ec130f14b3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000053-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【関東の天気】まるで夏!　あす30℃超え続出　大気不安定…雷雨警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3bf2515958f4b771363cba9240f8a6481882071e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-04567351-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 漫画家・原田久仁信さん死去 享年73
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/75b4403dcf5ac9754c0c42e3f2112666cbb8187f8c81fbee343a0d29cbed6fa9.jpg> 玉木氏 首相への意欲「当然ある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539091>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7759a4e462fb284876277e41a1bad92ff29a42462384dff399975f05ac9bf104.jpg> 妻に義母の世話頼み浮気 介護離婚
       </a>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c2544e17f03c78ce42f12fface0d3afdcdb0fdaac675dfc20e033a4d313fb533.jpg> 校内で発覚 大麻所持疑い高2逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/97ba8d9513e96b2710a9ced2b67754ab2172dc4d96e3113c7820028aa51c7300.jpg> カヌー大会で約40艇転覆 6人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6539109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4363c7b44beccbebc055506dfbcdccf2895b6ab2026774022677d2f2532c832c.jpg> 実家暮らしでも自立 当事者らの声
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 18:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 19:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
