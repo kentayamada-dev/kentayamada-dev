@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ed8edae37bd3694b6f075ddc7977094.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3058eccbef980a359207dd24802b49a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ed50fd04e1c6c92aff896b8d9f9c6c8f9fcd06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000139-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談実施を呼びかけ　トランプ氏、停戦へ圧力
+      <a href=https://news.yahoo.co.jp/articles/9ab05a998304dac9d9599736c34a48ae98054daa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/738d45532884e093d7d728f034b366431516b90e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755155-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の前で衝撃「9-9」　日本でも話題沸騰…“韓国の彗星”が「ヤバすぎる」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c113090446f2cc8e4f20a77a6e6fa44660b32464>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-90025115-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【訃報】「プロレススーパースター列伝」の原田久仁信さん、７３歳で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a475163464bcc1074e50ab5e8122b78b06e444f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170950-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 敵将うなった「彼だけ、まさに別世界」大谷翔平16号で単独キング　レアな１発が打撃絶好調を証明
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539090>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米がガザ住民リビア移住検討 報道
+      <a href=https://news.yahoo.co.jp/pickup/6539105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/daa3ccc8b195e1441e01bafd180f5dd3d8730560443204c43c347d3ab84e1c21.jpg> 露ウ直接交渉の内幕 停戦の行方は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/daa3ccc8b195e1441e01bafd180f5dd3d8730560443204c43c347d3ab84e1c21.jpg> 露ウ直接交渉の内幕 停戦の行方は
+      <a href=https://news.yahoo.co.jp/pickup/6539102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/950a6301c552afb76b4570363df2d776bb6292015535709859ba11e047cc51ab.jpg> 露を支援 北の経済効果3兆円推計
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/0c8cd49801d8996b944b06210d7136fde5eb3eb7a0924e8f7615b3848bab4551.jpg> 玉木氏 SNS投稿巡り山尾氏に注意
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539109>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4363c7b44beccbebc055506dfbcdccf2895b6ab2026774022677d2f2532c832c.jpg> 実家暮らしでも自立 当事者らの声
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/bf8b006bc775c97bede4b40ef61fee98114f57b0c3653611f62bdd41d922ee98.jpg> 大谷16号HR 試合後12分で帰宅
+      <a href=https://news.yahoo.co.jp/pickup/6539114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/efd91a38f1203accec95aaea952c43e4fe62fab230362d632db76da8f85b8683.jpg> 大谷 世界アスリート長者番付9位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 19:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 20:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
