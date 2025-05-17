@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad10645bb5a959ce907fb03b463d0034.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6c8d8dbf39e7c266186b0a94642ac57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a26c2359bfaeb785d282ded28bfedad7007793ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000068-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 衝撃３戦連発の大谷翔平　チーム敗戦から１２分後に帰宅　５併殺の球団ワーストタイ記録
+      <a href=https://news.yahoo.co.jp/articles/6cfb817d41f7774bdea296571cdc40f8280333de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000205-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=857&ch=857&exp=10800&fmt=webp> エ軍指揮官も大谷翔平の3戦連発両リーグ最多16号に驚き　取材で自ら切り出す「彼はまさに別世界の人だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b76540df74d1235908cd19c5c615dca72bbed32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> この先は気温変化が激化予想　関東は18日(日)真夏日続出も　19日(月)昼間は20℃届かず
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29cf3e2ba8b2746f4ac68eff19800e13922ab9ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 堺・製油所ガス漏れ　60代男性の死亡確認　ほか2人も搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75ab51959f9afe2fa67002e79c6ac2d978481dae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170278-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=288&ch=288&exp=10800&fmt=webp> セルティック前田大然に第３子誕生　「男の子が生まれた」「オフシーズンに会いたい」
+      <a href=https://news.yahoo.co.jp/articles/7127a636e2e4de66fd644958db34ad628dcc18dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21920091-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機が池に墜落　雨が降る中搭乗員の捜索活動が続く　愛知・犬山市の入鹿池
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c5b4f776eae6b77d7db5cfa1b3e7c3b10dd9f598de144482e379de924e49284c.jpg> 韓国の尹前大統領が与党を離党
+      <a href=https://news.yahoo.co.jp/pickup/6539055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7c6509207250c4bf0e3623e393627c9038f3546ae38d9d36d76052cbbeed49b6.jpg> ウクライナ 露の要求は容認できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7ab897870984083962c449578de6d2f41104d35fd011e9782fb913e3bf4606c1.jpg> 18日は関東で31℃予想 湿度も高く
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/0dc96e50d72f9d700c41258a6536aa516f536710c029a7a477785d595ffd7fd8.jpg> 保育士遺体 男を殺人容疑で再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/1a3d022fc10d5c2bf110a4523a5e739b4b5e9f52fa667a2c8c39526d238b554c.jpg> 児童ひき逃げ 車所有者連絡取れず
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2418d988695694bb02d3b2538b4d05e453c183bccdddefa889360c9455987e6c.jpg> 米刑務所 トイレ外され10人が脱獄
+      <a href=https://news.yahoo.co.jp/pickup/6539050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/22585da6cc2738e36ac34d26cfcbbb6e02831a8c4ea3c71b19e8357a6abe7dbf.jpg> アカ巡り和解 Uber配達員と運営
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/bd0c1aa5a89e28fd6959396608de41d517f476a8e3901732807ae00149ac7dda.jpg> フジ親会社 ダルトンへの反対理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cbf5579848c7670e0ddd9a0e996209a0c4c4446bfb4e3b54980b540905d521c2.jpg> 大谷翔平が16号HR 今季初3戦連発
+      <a href=https://news.yahoo.co.jp/pickup/6539078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cbf5579848c7670e0ddd9a0e996209a0c4c4446bfb4e3b54980b540905d521c2.jpg> 大谷翔平が16号HR MLB単独トップ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 14:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 15:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
