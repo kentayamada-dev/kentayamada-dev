@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52ad71979a48bf26bb7748374fa63445.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0e052aa4e99c66266c59522b0072c03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d178a83c4ec467bd9e64e5fb703cda1c57b3771>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180025-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【THE SECOND】王者ツートライブは漫才職人　中田カウスも「名人」認めるネタ作りの才
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a996ed9eaf70c56ea915fe00e70e1491088b0f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973386-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領が19日にプーチン大統領と電話会談へ　「停戦が実現し、戦争が終結することを願う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01ed3044e5231558cac9914ca217c92a1fc323e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】開幕から低迷中のオリオールズがハイド監督の解任を発表　マンソリーノ三塁コーチが監督代行に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7e1c76b6f530030a313ef77b0ce25b3531c2c01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000188-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平は3戦連発の16号でシーズン57発ペース　次は「大谷翔平の日」に自身メジャー初の4戦連発で祝う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a13e1f9366fba6454754491df01691339b74f63a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029840-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日19日以降も関東～西は所々で真夏日　来週も高温傾向　熱中症に注意　2週間天気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a53c9895d262900e4cc3720da03f4d6244506f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01755153-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の完璧16号…エ軍放送席「もう忘れてくれ」　実況がすぐに伝えた“救い”「とても大きい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91c8cb97ab2b004a9ea01b65f36cd704b907f225>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　19日にプーチン大統領と電話会談へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc361b393239fcae5ac000da501653fbeeadf6b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000005-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 「THE SECOND」優勝のツートライブ、満島ひかりに報告？ 周平魂「たかのりの髪形が似ている」
       </a>
     </td>
   </tr>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539143>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/48d50a652b1b6d08289f5b959b489bec0406479a2ac3a527ed11bed2ce988868.jpg> 米露首脳19日に電話会談 停戦協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民 企業献金巡る結論先送りへ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7433a99bb10f8e99fb628685b0fd826a76cf5ec971d3032253820cbdcd312669.jpg> 台湾でアジア初の脱原発 運転停止
+      <a href=https://news.yahoo.co.jp/pickup/6539146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/88bc311e450e0dfea5272e3fd67110e79e7544e3773dfe5080747086419ae458.jpg> 東大前駅刺傷「母に金もらえず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e7b62694a55e267f77e728d5f782b0f57146814be16cdf019503ec65c45be4.jpg> デフレの中国 日本食チェーン人気
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/011535167d9244567f6ad66d30de443d85421d9579358c0ce8e7ed79cd7f9f13.jpg> F1角田が大クラッシュ 自力脱出
+      <a href=https://news.yahoo.co.jp/pickup/6539148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c5743c8215bd0d872abde8163f609b8abf33c9edcff5cb57a4228b380a4bd54.jpg> 低迷オリオールズ 監督を電撃解任
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 07:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 08:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
