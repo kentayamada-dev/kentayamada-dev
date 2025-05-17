@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/325fc62e0b12bf00eb4976875c086ab7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc96b6d70a567f70078331b1784566f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cc24afe49e8c081fc3ca89829c45eef814d9927>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000071-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、敵将も脱帽「別世界の選手だ」、１球で見抜いた軌道… メジャー単独トップ16号、『大谷の日』にキャリア最長４戦連発に挑む
+      <a href=https://news.yahoo.co.jp/articles/36543d455346d3fb22dd386ddcf2eb8c188e893a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-03197596-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　試合中も塁上で元同僚と仲むつまじい姿　古巣エンゼルス戦は16号含む2安打と躍動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00154f70cb632e2d86e2ff7178734dd04a6c880a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000036-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 丸山隆平とSUPER BEAVERが“SUPER”つながりで笑顔の舞台挨拶、寺尾聰から驚きの差し入れも
+      <a href=https://news.yahoo.co.jp/articles/d235e05a426c64498f5bc2d6c60db6ea43e62e0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010011-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 前田大然、リーグ年間MVPなど個人賞総なめ！ 「間違いなくキャリア最高のシーズン」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c48d1154976a9d6beb0b798fa67561e7096e810b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07267517-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=633&ch=633&exp=10800&fmt=webp> Travis Japan・川島如恵留、活動再開　去年12月に体調不良で活動休止
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7127a636e2e4de66fd644958db34ad628dcc18dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21920091-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機が池に墜落　雨が降る中搭乗員の捜索活動が続く　愛知・犬山市の入鹿池
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a86fc070ffde92b43b45ca61579a50b87e0e72aae38ba8997949effb1bf5add4.jpg> 自民幹事長 消費減税論をけん制
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539055>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8de3c51b6a211adc939d7c155cafe97fc30267e3e9ce7bb860bbe38dc2a40d49.jpg> カヌー大会で90艇転覆か 6人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c928e3de0829add091d949d44e86b4d4da845f41a6767784d86315d8e593b815.jpg> 塀のない少年院 独自の取り組み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/22585da6cc2738e36ac34d26cfcbbb6e02831a8c4ea3c71b19e8357a6abe7dbf.jpg> アカ巡り和解 Uber配達員と運営
+      <a href=https://news.yahoo.co.jp/pickup/6539080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4d53e1eea5519668e5bcb773dd9e920d19b57be3c82bc7eeeb16eefe613e505a.jpg> ダルトン フジと候補者の協議ない
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539078>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cbf5579848c7670e0ddd9a0e996209a0c4c4446bfb4e3b54980b540905d521c2.jpg> 大谷翔平が16号HR MLB単独トップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/dc4d5daae9af1f95e092dfb647bf22189e2ef20ccd8521515f214cc587bbb96b.jpg> TravisJapan川島如恵留 活動再開
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 15:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 16:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
