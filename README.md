@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f0603c7f4430f5eee1f988dcb2caae1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18425309348eefc5660472ccf8315296.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb460f75ab3d83aa219022fd0ecb0b715b49c821>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル軍がガザ住民に避難を要求　戦闘拡大への準備か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b08b96b6308fdc527d7d49ad1d752cfe082be540>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナの3年ぶり直接協議、進展なく2時間足らずで終了　停戦の条件にウ軍の撤退要求か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96edc46cc6d665918be104ca9855e9c1c95dd4db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000027-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1219&ch=1219&exp=10800&fmt=webp> 大谷翔平、試合前に愛犬家の一面見せる…古巣との再会に笑顔、エンゼルス戦に「1番・指名打者」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37f83184b4cc0c17f52768ab251f0e38cd39a8d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000031-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 久常、17位後退　松山は予選落ち―全米プロゴルフ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4de7f66c5deced5892bbeb1497e357e5300934e6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-45958405-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 前田大然がスコットランドリーグ年間MVP!!タイトル総なめ飛躍の時
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c76ef2be37a4a449c861120c5dd84cada37fea02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> ロシアとウクライナ、直接協議で捕虜交換へ 停戦合意には至らず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46459aae7399ac0e7cb6cd216e22afe4593b331e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス大勝　クロウ＝アームストロングが4安打6打点の大暴れ　鈴木誠也は打点リーグトップに浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58b5aece9ef299d4dcc9b823609f49bf1abb045e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01754894-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> デコピンの“変化”に騒然「顔が」　大谷が2HR直後に公開、“最新S”に興奮「本当に美人」
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539049>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
       </a>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/93ba814998fbd9d99efa592365b8198821a58645066678e22c90ecbd143c7ab5.jpg> 鈴木誠也 リーグトップの37打点
+      <a href=https://news.yahoo.co.jp/pickup/6539053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/28828e2a77a247b8d77345734712aac15abf794b1d8ded824cbe070b2e912a1a.jpg> 人気高まる「紅茶」なぜ各社注力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/062165fafac7fb1619f96485fb3d526f5bbaa830bd8cf21602ef7d6a0a9ff1b0.jpg> 松山英樹84位 全米プロで予選落ち
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 10:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 10:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
