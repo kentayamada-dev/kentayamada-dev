@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ed112173b922f26e3b4599ac306aa16.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ce23235af1d0d9fd774d22505e7a19b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cf2104434fc847624d0e88aa41f4136ce581d63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000149-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> イスラエル、ガザ攻撃を拡大　24時間で150人超死亡
+      <a href=https://news.yahoo.co.jp/articles/7f2dcd37e9ca120cf271c505591c6f03d81fd01c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755275-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の背後にいた“超人気芸人”にX騒然「ええ、すごい」　HRで真っ先に起立「めっちゃいい席」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82be2ec19ddbc83d6a65ca724dcb6de1556ea760>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00096639-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の衝撃16号弾を指揮官が激賞。月間９HR、長打率.964、OPS1.427のハイスタッツ「期待以上だ」
+      <a href=https://news.yahoo.co.jp/articles/70aa33a13a4cc15d76490f8b7c01fdce30712c2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05171313-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=949&ch=949&exp=10800&fmt=webp> 藤井聡太名人、名人戦第４局１日目で千日手に「少し誤算があった。新たな気持ちで頑張りたい」１８日指し直し局
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cf2104434fc847624d0e88aa41f4136ce581d63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000149-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> イスラエル、ガザ攻撃を拡大　24時間で150人超死亡
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c113090446f2cc8e4f20a77a6e6fa44660b32464>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-90025115-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【訃報】「プロレススーパースター列伝」の原田久仁信さん、７３歳で
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539117>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3aed7e004ecdf026a2bbd8db21c4cb1a1cb6bf2c454294a16a8223b9aec4276a.jpg> 自民政調会長 消費減税で物価高に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/950a6301c552afb76b4570363df2d776bb6292015535709859ba11e047cc51ab.jpg> 露を支援 北の経済効果3兆円推計
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/67d7a732e12d3fd06fd02b0eb7869eb96aaaea334a943f7e99b748de39ab3321.jpg> 盲導犬と10年 引退前の最後の散歩
+      <a href=https://news.yahoo.co.jp/pickup/6539125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2d8fdd0ee76affc39c1498158569dba5065f34899ec089b25b396ff23e8e258f.jpg> 藤井名人がっくし 6年ぶり千日手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/67d7a732e12d3fd06fd02b0eb7869eb96aaaea334a943f7e99b748de39ab3321.jpg> 盲導犬と10年 涙こらえた引退の日
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 21:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 21:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
