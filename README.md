@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e28e615f7ddb3d672924ae18f203d5df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fa3a70271d99943d0b6531932cfb252.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75e974c35a1daa5cbea43bda0277434f2ddbb7de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000322-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 【THE SECOND】人間味あふれる新王者・ツートライブ、突き進む“漫才道”　会見であふれ出た“ニン”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cb7e714f253e1dd1227ed34b7ee45874e3f633f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01754593-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=195&cw=1206&ch=1206&exp=10800&fmt=webp> 大谷翔平、2歳の愛犬・デコピンを誕生日ケーキでお祝い　インスタに“大放出”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/df66006d8c6190dc8443dd44d8217c58a0f58390>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 19日に米露首脳が電話協議、トランプ氏表明　ウクライナ停戦が議題
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97fa199baab01d11f20520ae88c7aab4b92835ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1941&ch=1941&exp=10800&fmt=webp> 大谷翔平　３戦連発１６号　ジャッジ抜いた両リーグ単独キング　昨季と同じ５７発ペース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/feddc69cc8a70c36ee2271bca87b8315406757a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「なんのこっちゃあらへん、チャンピオンですわ」ツートライブ優勝会見、周平魂が渾身のイキり顔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e27a81e8e586e897d9f4a44d33e7e067939a07c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000081-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【THE　SECOND】3代目王者ツートライブ優勝実感なし？会見で「意味わからへん」「ありえへん」　
+      <a href=https://news.yahoo.co.jp/articles/6d06725a4a601e748ee48fff0342a0607a291a74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000425-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 王者ツートライブを西の芸人が祝福　盛山「マンゲキ周辺特別セール」兎「ずっとおもろい人らが急に」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 04:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 05:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
