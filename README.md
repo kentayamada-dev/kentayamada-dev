@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0aac6f4dbaeb8481d4d782b1e56eee6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52ad71979a48bf26bb7748374fa63445.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a13e1f9366fba6454754491df01691339b74f63a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029840-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日19日以降も関東～西は所々で真夏日　来週も高温傾向　熱中症に注意　2週間天気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a53c9895d262900e4cc3720da03f4d6244506f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01755153-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の完璧16号…エ軍放送席「もう忘れてくれ」　実況がすぐに伝えた“救い”「とても大きい」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50ba3da5ecba891f27c0999915893b6b898846b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領、プーチン大統領と電話会談へ　19日にウクライナ停戦など協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5653b1e24ac557f188510e214661e5ab0dfd7df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05171353-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 杉原愛子が最長ブランク１０年ぶり優勝！２５歳大逆転「また花咲かせられてうれしい」体操ＮＨＫ杯女子個人総合
+      <a href=https://news.yahoo.co.jp/articles/91c8cb97ab2b004a9ea01b65f36cd704b907f225>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　19日にプーチン大統領と電話会談へ
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/48d50a652b1b6d08289f5b959b489bec0406479a2ac3a527ed11bed2ce988868.jpg> 米露首脳19日に電話会談 停戦協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539126>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民 企業献金巡る結論先送りへ
       </a>
@@ -402,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8a5f5166be5bfd569de50b8c7900dfbf7bd4db43746e0116a83ad6c6bb3e270a.jpg> 米大統領 露大統領と会わなければ
+      <a href=https://news.yahoo.co.jp/pickup/6539145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/4ed1fff1adbd53f2f160ccf7b7f079a6217d05ccc300a3e30fb3fd7b51f0978b.jpg> 関東甲信で真夏日続出か 暑さ注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/9fa8bf069d8cf125c69f7d2a2cfbf06c5888c2f2b0fdf30823ea08c53d11312d.jpg> 日産が早期退職募集へ 事務系対象
       </a>
     </td>
   </tr>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/5ed6eec882337660b3f89b479e64613e298a362c315d939b1292fcebd470d49d.jpg> ハメネイ師 米大統領レベル低過ぎ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2d8fdd0ee76affc39c1498158569dba5065f34899ec089b25b396ff23e8e258f.jpg> 藤井名人がっくし 6年ぶり千日手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7fc2eb93054facf7f9a798de19559e06d1444a6161bc2425c9e007703178f9ed.jpg> 日産 野球部関係者は解散など否定
+      <a href=https://news.yahoo.co.jp/pickup/6539142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3b84ae8237e58039cf8db4d0fe500f79ef0ef43f83fa7b94293cd63bdba23436.jpg> 堂安律がボレー弾 独で2桁得点
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/59de56d4891894abdd99b9c1549aab5552581b2753a0be74d2d6980e3199268f.jpg> THE SECOND 吉本勢が3連覇
+      <a href=https://news.yahoo.co.jp/pickup/6539144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/c1c435d887dbd96db6413cd9ae53d7c1076e65358d6f135af8a70e55c96cebc6.jpg> THE SECOND なぜ「1点」減った
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 07:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 07:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
