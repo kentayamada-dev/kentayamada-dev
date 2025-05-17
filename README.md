@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ffc0513364cf752150ccac6a793df34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/253b37943af9e0d570296bfb337a6a5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f93f2b3124ec0c26e69ac32a26c43af7a8964ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000001-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、「19日にプーチン氏と電話協議」　ゼレンスキー氏とも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c861e49e18c3c811e4b64a9083fc33e1ac1c032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000055-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷　父の誕生日に今季初3試合連発16号！自身初のシーズン60発行ける！大悟も見届けた
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000055-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷　父の誕生日に今季初3試合連発16号！自身初のシーズン60発行ける！大悟も見届けた
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/feddc69cc8a70c36ee2271bca87b8315406757a4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 「なんのこっちゃあらへん、チャンピオンですわ」ツートライブ優勝会見、周平魂が渾身のイキり顔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/382a9e108dc910aa3b4bc911755c72c8a42f0892>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-08713256-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=486&ch=486&exp=10800&fmt=webp> トランプ大統領、19日にプーチン大統領と電話会談
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 01:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 02:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
