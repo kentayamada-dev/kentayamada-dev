@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea210dfc9aa4e4336ffb7e47021d2b80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1e580f88b7ef2b5ecf62ec9ba9b7c96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07fd9d2988186164e47b9d95999f995178ce5ebe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=521&ch=521&exp=10800&fmt=webp> ロシアとウクライナ、和平に進展なし　今後の協議も難航必至
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6be59e99d4524c57b0064f66e21f972654a5f77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000025-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1320&ch=1320&exp=10800&fmt=webp> サッカー＝セルティック前田がリーグＭＶＰ、個人タイトル次々に獲得
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46459aae7399ac0e7cb6cd216e22afe4593b331e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス大勝　クロウ＝アームストロングが4安打6打点の大暴れ　鈴木誠也は打点リーグトップに浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30107886a653343193f12322c8dbd7371245291d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000257-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 露ウクライナ3年ぶり直接交渉でトルコ外相「捕虜交換は信頼醸成目指す意思の表れ」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/98374a25f46e58e918d33375d5eb7e1a905b81e6fbd018ace1581c244fbfd1b3.jpg> 露ウ直接協議 捕虜の交換で合意
+      <a href=https://news.yahoo.co.jp/pickup/6539040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/d088c29e74814485f163de72d12d3a6a35595ffad0113c45d37c73bb55438c1a.jpg> イスラエル激しい空爆 作戦拡大か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/74911f31c8d59bce97c2f151ccea73577e4a5e34e93696fb1671dc84d4fe8719.jpg> 安倍氏銃撃 被告の殺意認める方針
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e0d4a4fb7941c2cbe7eaca244ce6e4a2d76befb89151d292bb12849d06c62237.jpg> 私的情報拡散 兵庫が削除要請検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/0d73d54b34a29f8d41120d4ddad8c45f79ff0711075ae9e4360da4f62fd4b8a2.jpg> 搭乗員らしき「もの」 防衛相謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539031>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/93ba814998fbd9d99efa592365b8198821a58645066678e22c90ecbd143c7ab5.jpg> 鈴木誠也 リーグトップの37打点
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/ba44c9309d2480caa6da8424173ca5f9107fe1cb975ec8ea7a6d0e9cf1f97c04.jpg> 櫻井翔主演 占拠シリーズ続編決定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 09:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 09:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
