@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc96b6d70a567f70078331b1784566f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46a758ae9a2e67ff3c19e1c8df279d4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36543d455346d3fb22dd386ddcf2eb8c188e893a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-03197596-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　試合中も塁上で元同僚と仲むつまじい姿　古巣エンゼルス戦は16号含む2安打と躍動
+      <a href=https://news.yahoo.co.jp/articles/82ef0245dc588d2d8547755999ac647ddbf3b776>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00344877-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Ｔｒａｖｉｓ　Ｊａｐａｎ川島如恵留　活動再開を発表　６月７日開催ライブに出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d235e05a426c64498f5bc2d6c60db6ea43e62e0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010011-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 前田大然、リーグ年間MVPなど個人賞総なめ！ 「間違いなくキャリア最高のシーズン」
+      <a href=https://news.yahoo.co.jp/articles/e6ca5c19695c3da6ba38affcd538798eaac75afb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755240-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃3連発も…“無関心”のエ軍ナイン　まさかの反応にファン笑顔「誰も…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c48d1154976a9d6beb0b798fa67561e7096e810b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07267517-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=633&ch=633&exp=10800&fmt=webp> Travis Japan・川島如恵留、活動再開　去年12月に体調不良で活動休止
+      <a href=https://news.yahoo.co.jp/articles/0b96d17544f98b56918265f024bb8578ce76cd69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00173325-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 「信じられないゴール数」「驚きはない」“文句なし”のリーグMVP受賞！個人賞総なめの日本人FWに絶賛相次ぐ！「国内最高の選手だ」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7c6509207250c4bf0e3623e393627c9038f3546ae38d9d36d76052cbbeed49b6.jpg> ウクライナ 露の要求は容認できず
+      <a href=https://news.yahoo.co.jp/pickup/6539087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3da3ae6044a54120a4fff9dc45b48091b55b1cee1a3ed7c50568bae447c32e67.jpg> 陥没 県が周辺事業者に補償方針
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/fb1f1fa65b030d06f65ce2f451e890d9f2c655af2bba0343f6817b600f890d46.jpg> 常盤貴子 防災士の資格取得
+      <a href=https://news.yahoo.co.jp/pickup/6539082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c62551167bec61630902949f256e35e739fa5eb900f7eaadc7f0465bcb64b623.jpg> 真木よう子 自虐発言で会場沸かす
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 16:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 16:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
