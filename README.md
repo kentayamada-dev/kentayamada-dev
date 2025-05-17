@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b804c221117132c6783a3d6840b81bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0aac6f4dbaeb8481d4d782b1e56eee6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18ec148e806a81fe58a4e0014595cff09b43a833>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000129-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=14&cw=1172&ch=1172&exp=10800&fmt=webp> 大谷翔平はエンゼルス戦に「1番・DH」でスタメン出場　「大谷翔平の日」にメジャー初の4戦連発なるか
+      <a href=https://news.yahoo.co.jp/articles/4a53c9895d262900e4cc3720da03f4d6244506f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01755153-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の完璧16号…エ軍放送席「もう忘れてくれ」　実況がすぐに伝えた“救い”「とても大きい」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 06:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 07:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
