@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/632z5Zs3szc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1e580f88b7ef2b5ecf62ec9ba9b7c96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f0603c7f4430f5eee1f988dcb2caae1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07fd9d2988186164e47b9d95999f995178ce5ebe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=521&ch=521&exp=10800&fmt=webp> ロシアとウクライナ、和平に進展なし　今後の協議も難航必至
+      <a href=https://news.yahoo.co.jp/articles/4de7f66c5deced5892bbeb1497e357e5300934e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-45958405-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 前田大然がスコットランドリーグ年間MVP!!タイトル総なめ飛躍の時
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6be59e99d4524c57b0064f66e21f972654a5f77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000025-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1320&ch=1320&exp=10800&fmt=webp> サッカー＝セルティック前田がリーグＭＶＰ、個人タイトル次々に獲得
+      <a href=https://news.yahoo.co.jp/articles/c76ef2be37a4a449c861120c5dd84cada37fea02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> ロシアとウクライナ、直接協議で捕虜交換へ 停戦合意には至らず
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/74911f31c8d59bce97c2f151ccea73577e4a5e34e93696fb1671dc84d4fe8719.jpg> 安倍氏銃撃 被告の殺意認める方針
+      <a href=https://news.yahoo.co.jp/pickup/6539031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539033>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8f55ecfad4b92303c9f1e62a29dda983af79ed55a1c07c0499da005f7b70fb34.jpg> モー娘リーダー 休止の北川に言及
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 09:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 10:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
