@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93b40ba0c45ec7219ffd75e697c0e52b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad10645bb5a959ce907fb03b463d0034.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2db4032558231ac62084e2279dba212a9f5c4e0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-10527792-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=756&ch=756&exp=10800&fmt=webp> ドジャース、“フリーウェイ・シリーズ”を黒星発進　拙攻5併殺で連勝ストップ　大谷翔平は3戦連発で単独トップ16号
+      <a href=https://news.yahoo.co.jp/articles/a26c2359bfaeb785d282ded28bfedad7007793ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000068-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 衝撃３戦連発の大谷翔平　チーム敗戦から１２分後に帰宅　５併殺の球団ワーストタイ記録
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2161ed0324f41831e0ebe6768908bcf9bc6cf9eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05857577-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 【解説】ロシア・ウクライナ直接交渉“どう喝”交渉の内幕「永遠に戦う準備がある」「占領地さらに広げる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05857577-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 【解説】ロシア・ウクライナ直接交渉“どう喝”交渉の内幕「永遠に戦う準備がある」「占領地さらに広げる」
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4f9f1fc805ee4b1c29d01f09078510fdb123d08f536f264ed46ab5f197626a35.jpg> カブス監督が前田健太に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cbf5579848c7670e0ddd9a0e996209a0c4c4446bfb4e3b54980b540905d521c2.jpg> 大谷翔平が16号HR 今季初3戦連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/ffd228db9bf844ae4d83b4178adcbd49f352e435d9ae9abc72e1765d956ec9bc.jpg> 朗希の痛み「報告遅れ」監督言及
+      <a href=https://news.yahoo.co.jp/pickup/6539067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4f9f1fc805ee4b1c29d01f09078510fdb123d08f536f264ed46ab5f197626a35.jpg> カブス監督が前田健太に言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 14:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 14:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
