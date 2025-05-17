@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24dbd89c301b5578e74bf58d5c2f9ff8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/382b60e481e4f7fb7f05c4673707e327.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d345b523a3adff7684b4837a7ff08107b8aab00a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000415-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=685&ch=685&exp=10800&fmt=webp> 【THE SECOND】3代目王者・ツートライブ、優勝会見でぼう然「ありえない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4975213759cddf57b744d61d900e3784968ec25b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07171837-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東・東海では真夏日も　熱中症に注意
+      <a href=https://news.yahoo.co.jp/articles/0f8ab7e54b8dc95de98b9b524a67c8ee2f90a5a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000422-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=857&ch=857&exp=10800&fmt=webp> 王者ツートライブ　結成18年、初の全国賞レース決勝で頂点に　関西ローカル芸人の鮮烈下剋上
       </a>
     </td>
   </tr>
@@ -382,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ab05a998304dac9d9599736c34a48ae98054daa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 23:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 23:51:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
