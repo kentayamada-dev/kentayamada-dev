@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ce23235af1d0d9fd774d22505e7a19b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52a280b2d9c31f271e5eda8241164347.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f2dcd37e9ca120cf271c505591c6f03d81fd01c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755275-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の背後にいた“超人気芸人”にX騒然「ええ、すごい」　HRで真っ先に起立「めっちゃいい席」
+      <a href=https://news.yahoo.co.jp/articles/4f0a6047f36be6a81e742322c46d77bb95439885>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-02019334-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 6連敗で最下位低迷の横浜FM「絶対に残留させます」 “オリジナル10”のプライドをかけた決意を表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70aa33a13a4cc15d76490f8b7c01fdce30712c2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05171313-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=949&ch=949&exp=10800&fmt=webp> 藤井聡太名人、名人戦第４局１日目で千日手に「少し誤算があった。新たな気持ちで頑張りたい」１８日指し直し局
+      <a href=https://news.yahoo.co.jp/articles/4975213759cddf57b744d61d900e3784968ec25b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-07171837-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東・東海では真夏日も　熱中症に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f2dcd37e9ca120cf271c505591c6f03d81fd01c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755275-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の背後にいた“超人気芸人”にX騒然「ええ、すごい」　HRで真っ先に起立「めっちゃいい席」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9cf2104434fc847624d0e88aa41f4136ce581d63>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000149-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> イスラエル、ガザ攻撃を拡大　24時間で150人超死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/551ed2bf291867b42af7bd31dfb6d9d4e90d0005>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21920535-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【関東地方・気象情報】落雷や竜巻など激しい突風、急な強い雨、ひょうに注意…前線は西日本太平洋側から東日本太平洋側にのびる見込み【雨と風のシミュレーション】前線を伴った低気圧が日本海を東北東へ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3aed7e004ecdf026a2bbd8db21c4cb1a1cb6bf2c454294a16a8223b9aec4276a.jpg> 自民政調会長 消費減税で物価高に
+      <a href=https://news.yahoo.co.jp/pickup/6539123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7066d128f8f421f9230abe838a8b7062bdc98cd772731fb054b307bfcc41bb45.jpg> 協議翌日にバス攻撃 ウで9人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/0c8cd49801d8996b944b06210d7136fde5eb3eb7a0924e8f7615b3848bab4551.jpg> 玉木氏 SNS投稿巡り山尾氏に注意
+      <a href=https://news.yahoo.co.jp/pickup/6539117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3aed7e004ecdf026a2bbd8db21c4cb1a1cb6bf2c454294a16a8223b9aec4276a.jpg> 自民政調会長 消費減税で物価高に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 21:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 22:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
