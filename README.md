@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5e320b465c098d257338d474cb9bb00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea210dfc9aa4e4336ffb7e47021d2b80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fb1257dc6f77e75126bbff300022fff13bb291b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170126-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=444&ch=444&exp=10800&fmt=webp> 石原さとみが第２子出産「感動で涙があふれました」「無事に家族４人での新たな生活をスタート」
+      <a href=https://news.yahoo.co.jp/articles/a6be59e99d4524c57b0064f66e21f972654a5f77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000025-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=1320&ch=1320&exp=10800&fmt=webp> サッカー＝セルティック前田がリーグＭＶＰ、個人タイトル次々に獲得
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46459aae7399ac0e7cb6cd216e22afe4593b331e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス大勝　クロウ＝アームストロングが4安打6打点の大暴れ　鈴木誠也は打点リーグトップに浮上
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/30107886a653343193f12322c8dbd7371245291d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250516-00000257-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 露ウクライナ3年ぶり直接交渉でトルコ外相「捕虜交換は信頼醸成目指す意思の表れ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a34ac7244ffabc08a4e3a6a08364d0352291a5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21919582-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自衛隊T-4練習機墜落 「入鹿池は偶然か意図的か」 元統合幕僚長が語る自衛隊パイロットの“決断” 離陸後2分間に一体何が? 愛知・犬山市 【大石邦彦が聞く】
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/425d255b9e0632f53ac145cabee374737b8a2af7b8a201e1f5c470487487e95a.jpg> 九州-関東で激しい雨 冠水に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539037>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/98374a25f46e58e918d33375d5eb7e1a905b81e6fbd018ace1581c244fbfd1b3.jpg> 露ウ直接協議 捕虜の交換で合意
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e0d4a4fb7941c2cbe7eaca244ce6e4a2d76befb89151d292bb12849d06c62237.jpg> 私的情報拡散 兵庫が削除要請検討
+      <a href=https://news.yahoo.co.jp/pickup/6539033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e4ae0a92c0b8eb5eb731f47a262256f9c4d16a75cdd8f85dc613519010a76426.jpg> ムーディーズ 米の格付け引き下げ
+      <a href=https://news.yahoo.co.jp/pickup/6539035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/e0d4a4fb7941c2cbe7eaca244ce6e4a2d76befb89151d292bb12849d06c62237.jpg> 私的情報拡散 兵庫が削除要請検討
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539031>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/16/ad7027a9003b5f70fb47e8eb83e056a1a93a331532070fe306072b1e41422d73.jpg> 落下物で大けが「泥団子」だった
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 08:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 09:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
