@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f31c49812180d3ceacce15e69a855cf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3527a44cfc6dce442748c86b1e4237f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f74b2ea8247d86a6ed20209075a646b0ca36031d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00050034-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア「永遠に戦争を続ける」とウクライナを威嚇…高官級協議、３０日間の無条件停戦では物別れ
+      <a href=https://news.yahoo.co.jp/articles/603ab11d853fc006b4f90434144f4922ddbb72d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000051-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平は古巣との一戦、初回第１打席で中前打　３戦連続安打をマーク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96edc46cc6d665918be104ca9855e9c1c95dd4db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000027-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1219&ch=1219&exp=10800&fmt=webp> 大谷翔平、試合前に愛犬家の一面見せる…古巣との再会に笑顔、エンゼルス戦に「1番・指名打者」
+      <a href=https://news.yahoo.co.jp/articles/b0c3c8861a3830c9a8a93ef92e7aeae46bbfdece>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000034-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・ロバーツ監督、離脱の佐々木朗希に「心を開け」… 当面ノースロー調整、土台づくりに着手か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37f83184b4cc0c17f52768ab251f0e38cd39a8d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000031-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 久常、17位後退　松山は予選落ち―全米プロゴルフ
+      <a href=https://news.yahoo.co.jp/articles/56e369b4d475ecd91261388877b48cfebb08a38a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00050038-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「プーチン大統領と会わなければ」…トランプ大統領、米ロトップ会談でウクライナ終戦模索か
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/425d255b9e0632f53ac145cabee374737b8a2af7b8a201e1f5c470487487e95a.jpg> 九州-関東で激しい雨 冠水に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539038>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/22bf368e66b2b251c8d073d2cf20ce2b35e89506526cd10705ab7b66362d4384.jpg> 学術会議の文書 国に開示命令
       </a>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
+      <a href=https://news.yahoo.co.jp/pickup/6539054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3c455367b935d167841f4148c2cb97e498b52c8a8d3132b81ba2581538a32754.jpg> 米刑務所 トイレ外され10人が脱獄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2fe74f2fe0c6af1874251974f767e3868d71477d7b4107bf7c62ec09059899b0.jpg> 原爆巡る投稿波紋 eスポ選手謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6539049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a94dbb30114ab88b7d9f578e9d1c116fef25891844d0f0e2ddd46ac6490eafca.jpg> 石原さとみ 第2子の出産を報告
+      <a href=https://news.yahoo.co.jp/pickup/6539058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/ffd228db9bf844ae4d83b4178adcbd49f352e435d9ae9abc72e1765d956ec9bc.jpg> 朗希の痛み「報告遅れ」監督言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8f55ecfad4b92303c9f1e62a29dda983af79ed55a1c07c0499da005f7b70fb34.jpg> モー娘リーダー 休止の北川に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/26d142471bec634c2d8641539d4a331627573fd7d60b5e79f923d7669a60f2d3.jpg> 大谷 試合前に古巣の選手らと交流
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a94dbb30114ab88b7d9f578e9d1c116fef25891844d0f0e2ddd46ac6490eafca.jpg> 石原さとみ 第2子の出産を報告
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 11:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 11:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
