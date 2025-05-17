@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9db6129e010e9a51877fcd28c2c66005.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a5e4580945eac40650598afd6c055d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e412a8e3563e2beeb3cd4771df71aad6cec73c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05171340-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 横浜ＦＭクラブ最悪タイ６連敗・１０戦未勝利に中山社長が声明文「深くお詫び…」「絶対に残留させます」
+      <a href=https://news.yahoo.co.jp/articles/c92d76a048b6767bfeca57a285a01a8ce8e0401c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00484301-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1283&ch=1283&exp=10800&fmt=webp> 「非常に重く受け止めております」10戦未勝利、6連敗で最下位の横浜FMが声明「絶対に残留させます」
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cf2104434fc847624d0e88aa41f4136ce581d63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000149-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> イスラエル、ガザ攻撃を拡大　24時間で150人超死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ab05a998304dac9d9599736c34a48ae98054daa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
+      <a href=https://news.yahoo.co.jp/articles/98ed50fd04e1c6c92aff896b8d9f9c6c8f9fcd06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000139-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談実施を呼びかけ　トランプ氏、停戦へ圧力
       </a>
     </td>
   </tr>
@@ -400,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民 企業献金巡る結論先送りへ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539123>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539117>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3aed7e004ecdf026a2bbd8db21c4cb1a1cb6bf2c454294a16a8223b9aec4276a.jpg> 自民政調会長 消費減税で物価高に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a815a933e22a345aed9875815eabdf586be469eb5058d313e3389d0c476cb629.jpg> 中3容疑者 他の複数女性殺そうと
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/efd91a38f1203accec95aaea952c43e4fe62fab230362d632db76da8f85b8683.jpg> 大谷 世界アスリート長者番付9位
+      <a href=https://news.yahoo.co.jp/pickup/6539121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/592447e0b1d73bfc263903a49c5a335b1f160033c5b293cde082bd03cd0706da.jpg> 代打の神様→4番 中村晃「幸せ」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 22:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 23:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
