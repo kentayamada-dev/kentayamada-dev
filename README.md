@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/253b37943af9e0d570296bfb337a6a5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7550c3d60cb76cbbec5df9b6d1035a64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f93f2b3124ec0c26e69ac32a26c43af7a8964ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000001-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、「19日にプーチン氏と電話協議」　ゼレンスキー氏とも
+      <a href=https://news.yahoo.co.jp/articles/97fa199baab01d11f20520ae88c7aab4b92835ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1941&ch=1941&exp=10800&fmt=webp> 大谷翔平　３戦連発１６号　ジャッジ抜いた両リーグ単独キング　昨季と同じ５７発ペース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c861e49e18c3c811e4b64a9083fc33e1ac1c032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000055-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷　父の誕生日に今季初3試合連発16号！自身初のシーズン60発行ける！大悟も見届けた
+      <a href=https://news.yahoo.co.jp/articles/0f93f2b3124ec0c26e69ac32a26c43af7a8964ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000001-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、「19日にプーチン氏と電話協議」　ゼレンスキー氏とも
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 02:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 02:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
