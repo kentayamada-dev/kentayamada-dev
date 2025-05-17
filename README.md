@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3527a44cfc6dce442748c86b1e4237f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a1d77d567a24394d2823e649a2bdbe7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/603ab11d853fc006b4f90434144f4922ddbb72d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000051-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平は古巣との一戦、初回第１打席で中前打　３戦連続安打をマーク
+      <a href=https://news.yahoo.co.jp/articles/75ab51959f9afe2fa67002e79c6ac2d978481dae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170278-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=288&ch=288&exp=10800&fmt=webp> セルティック前田大然に第３子誕生　「男の子が生まれた」「オフシーズンに会いたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0c3c8861a3830c9a8a93ef92e7aeae46bbfdece>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000034-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・ロバーツ監督、離脱の佐々木朗希に「心を開け」… 当面ノースロー調整、土台づくりに着手か
+      <a href=https://news.yahoo.co.jp/articles/42f5a2ecfdcc1f6bc8c6b65c1025e4a7c5581767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170273-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1030&ch=1030&exp=10800&fmt=webp> 大谷翔平、元女房役オハピーと打席でニコニコからびっくり「アーーー！」　ヒットで一塁でも笑顔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56e369b4d475ecd91261388877b48cfebb08a38a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00050038-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「プーチン大統領と会わなければ」…トランプ大統領、米ロトップ会談でウクライナ終戦模索か
+      <a href=https://news.yahoo.co.jp/articles/b1e4150a5d6c9a907154732ef754f42b45647dbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00050042-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍がガザへの大規模攻撃を開始、２日間で２５０人以上が死亡か…「新たな作戦の第１段階」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4de7f66c5deced5892bbeb1497e357e5300934e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-45958405-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 前田大然がスコットランドリーグ年間MVP!!タイトル総なめ飛躍の時
+      <a href=https://news.yahoo.co.jp/articles/2f080a7971fd52fd64f6dc1ac95feb024bbc8676>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000010-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米国の前駐ウクライナ大使、辞任理由はトランプ政権の対ロ「宥和政策」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4d49274ec6be59bbb47d91e3b42468cbfa56e9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-10178849-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 宮城・岩沼市 女性保育士殺害事件 知人の男を殺人の疑いで再逮捕
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/22bf368e66b2b251c8d073d2cf20ce2b35e89506526cd10705ab7b66362d4384.jpg> 学術会議の文書 国に開示命令
+      <a href=https://news.yahoo.co.jp/pickup/6539060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/b7fad852f6b89d52861747c59b056d2200c3cab5c8a285758780fd4ff2270ab5.jpg> 台湾 きょう「原発ゼロ」実現へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/401c4e87e6a6dec8dd10062d7438af37246634584cb7e4ebd39286068473f12c.jpg> 日産 神奈川2工場閉鎖方向で調整
+      <a href=https://news.yahoo.co.jp/pickup/6539042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/d517bd9e156b70040736409e978c3005c81672cad04928cbbe8c0aa6cac5da03.jpg> 遺族補償年金 男女差の解消を検討
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 11:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 12:02:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
