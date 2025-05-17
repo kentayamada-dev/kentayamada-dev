@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a5e4580945eac40650598afd6c055d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24dbd89c301b5578e74bf58d5c2f9ff8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c92d76a048b6767bfeca57a285a01a8ce8e0401c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00484301-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1283&ch=1283&exp=10800&fmt=webp> 「非常に重く受け止めております」10戦未勝利、6連敗で最下位の横浜FMが声明「絶対に残留させます」
+      <a href=https://news.yahoo.co.jp/articles/d345b523a3adff7684b4837a7ff08107b8aab00a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000415-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=685&ch=685&exp=10800&fmt=webp> 【THE SECOND】3代目王者・ツートライブ、優勝会見でぼう然「ありえない」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ed50fd04e1c6c92aff896b8d9f9c6c8f9fcd06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000139-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談実施を呼びかけ　トランプ氏、停戦へ圧力
+      <a href=https://news.yahoo.co.jp/articles/9ab05a998304dac9d9599736c34a48ae98054daa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7066d128f8f421f9230abe838a8b7062bdc98cd772731fb054b307bfcc41bb45.jpg> 協議翌日にバス攻撃 ウで9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8a5f5166be5bfd569de50b8c7900dfbf7bd4db43746e0116a83ad6c6bb3e270a.jpg> 米大統領 露大統領と会わなければ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/3aed7e004ecdf026a2bbd8db21c4cb1a1cb6bf2c454294a16a8223b9aec4276a.jpg> 自民政調会長 消費減税で物価高に
+      <a href=https://news.yahoo.co.jp/pickup/6539123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7066d128f8f421f9230abe838a8b7062bdc98cd772731fb054b307bfcc41bb45.jpg> 協議翌日にバス攻撃 ウで9人死亡
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2d8fdd0ee76affc39c1498158569dba5065f34899ec089b25b396ff23e8e258f.jpg> 藤井名人がっくし 6年ぶり千日手
+      <a href=https://news.yahoo.co.jp/pickup/6539134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4b2adfb8c93381e1ad5d1e7e795f2b88c6eb7bc9dd42a78b26aa0af9558a7cf8.jpg> 1km離れたイオン隔地駐車場 懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cc15f9ca4f6090d7cbd2c8bd6bcbceda43213430399adc9991a07981d264094f.jpg> 珍記録 プロ初白星→翌日に初黒星
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4d02f8cbe2dc5e7fee9883ab9da1ff74bf834d4c02c54f569a97cc029d0b89e0.jpg> 6連敗の横浜FM声明 ファンに謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/388525a73120632e949cd1241f1246791405eca7ab79372d7cc87a7328cca1b3.jpg> 「THE SECOND」SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6539136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/22d2c4f1b42a2097997d1f8c552764bac90491361074c784ebd832bad3d9d54a.jpg> THE SECOND ツートライブ優勝
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 23:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 23:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
