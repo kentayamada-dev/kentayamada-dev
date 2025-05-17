@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52a280b2d9c31f271e5eda8241164347.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9db6129e010e9a51877fcd28c2c66005.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f0a6047f36be6a81e742322c46d77bb95439885>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-02019334-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 6連敗で最下位低迷の横浜FM「絶対に残留させます」 “オリジナル10”のプライドをかけた決意を表明
+      <a href=https://news.yahoo.co.jp/articles/9e412a8e3563e2beeb3cd4771df71aad6cec73c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05171340-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 横浜ＦＭクラブ最悪タイ６連敗・１０戦未勝利に中山社長が声明文「深くお詫び…」「絶対に残留させます」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/f4aadf66c142878e565a608356c26af93c8fe9d8145197ec6fe4c691e78cbfbc.jpg> 日産2工場閉鎖検討 住民に諦めも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539120>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/26647af831af2f3b97f9756635c5b78ed158ce186ea2e314420cea66d4eec8d3.jpg> 仏業界関係者の誘拐 2人指失う
       </a>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/67d7a732e12d3fd06fd02b0eb7869eb96aaaea334a943f7e99b748de39ab3321.jpg> 盲導犬と10年 涙こらえた引退の日
+      <a href=https://news.yahoo.co.jp/pickup/6539114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/efd91a38f1203accec95aaea952c43e4fe62fab230362d632db76da8f85b8683.jpg> 大谷 世界アスリート長者番付9位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/efd91a38f1203accec95aaea952c43e4fe62fab230362d632db76da8f85b8683.jpg> 大谷 世界アスリート長者番付9位
+      <a href=https://news.yahoo.co.jp/pickup/6539127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4d02f8cbe2dc5e7fee9883ab9da1ff74bf834d4c02c54f569a97cc029d0b89e0.jpg> 6連敗の横浜FM声明 ファンに謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/388525a73120632e949cd1241f1246791405eca7ab79372d7cc87a7328cca1b3.jpg> 「THE SECOND」SNSの反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 22:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 22:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
