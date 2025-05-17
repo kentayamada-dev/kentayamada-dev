@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/408e60d912c8af2dfe996f4a34bee56a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38eac2bf37a72e3e228cb36cee1a5bf6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/137fac511637ffcd813104b6e9128f98483e1fec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170394-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、古巣エンゼルス戦の第１打席で３試合連続安打　第３打席は好機もゲッツーに倒れる
+      <a href=https://news.yahoo.co.jp/articles/67335dc8ee12ffa7cea928d4ff002bb043aff076>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=1301&ch=1301&exp=10800&fmt=webp> 大谷翔平、両リーグ単独トップ16号アーチ！自己最長タイの3試合連続本塁打　3夜連続の“ショータイム”に本拠地は熱狂の渦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20185c0c6f6adac9606194f3302eb83949aa4da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000026-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> ENEOS製油所でガス漏れか、2人が意識不明　大阪・堺
+      <a href=https://news.yahoo.co.jp/articles/e98a61cc334e18261aae9e92dc4d2481434de389>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000046-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> カヌー大会で数十艇のカヌー転覆、約90人投げ出され、6人搬送 京都・京丹後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd9fdfeb77a19935e0af8709a3c242e1ad77513b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000040-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> 露ウクライナ直接交渉は成果なく終了　ロシアが優位な戦況背景に停戦条件のハードル上げる
+      <a href=https://news.yahoo.co.jp/articles/08977b030098a07d78818aeb5057734852e26cfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-10178863-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=498&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ゼレンスキー大統領がトランプ大統領と電話会談 「ロシアが停戦拒否なら制裁を」と主張
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/b7fad852f6b89d52861747c59b056d2200c3cab5c8a285758780fd4ff2270ab5.jpg> 台湾 きょう「原発ゼロ」実現へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/0d4e4c28892765d440f0957a8732b61b068e9b5054ad924c629f33e0b5230ae2.jpg> 保育士遺体 男を殺人容疑で再逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/0dc96e50d72f9d700c41258a6536aa516f536710c029a7a477785d595ffd7fd8.jpg> 保育士遺体 男を殺人容疑で再逮捕
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/8de3c51b6a211adc939d7c155cafe97fc30267e3e9ce7bb860bbe38dc2a40d49.jpg> カヌー大会で90艇転覆か 6人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539054>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2418d988695694bb02d3b2538b4d05e453c183bccdddefa889360c9455987e6c.jpg> 米刑務所 トイレ外され10人が脱獄
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
+      <a href=https://news.yahoo.co.jp/pickup/6539062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/bd0c1aa5a89e28fd6959396608de41d517f476a8e3901732807ae00149ac7dda.jpg> フジ親会社 ダルトンへの反対理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/bd0c1aa5a89e28fd6959396608de41d517f476a8e3901732807ae00149ac7dda.jpg> フジ親会社 ダルトンへの反対理由
+      <a href=https://news.yahoo.co.jp/pickup/6539067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4f9f1fc805ee4b1c29d01f09078510fdb123d08f536f264ed46ab5f197626a35.jpg> カブス監督が前田健太に言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 13:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 13:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
