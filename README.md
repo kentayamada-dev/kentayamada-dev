@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20903f6f4b2bbb5a8e6e427a2dbe1419.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ed8edae37bd3694b6f075ddc7977094.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98ed50fd04e1c6c92aff896b8d9f9c6c8f9fcd06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000139-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米ロ首脳会談実施を呼びかけ　トランプ氏、停戦へ圧力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c113090446f2cc8e4f20a77a6e6fa44660b32464>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-90025115-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【訃報】「プロレススーパースター列伝」の原田久仁信さん、７３歳で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a475163464bcc1074e50ab5e8122b78b06e444f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170950-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 敵将うなった「彼だけ、まさに別世界」大谷翔平16号で単独キング　レアな１発が打撃絶好調を証明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-35170950-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 敵将うなった「彼だけ、まさに別世界」大谷翔平16号で単独キング　レアな１発が打撃絶好調を証明
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/822035b277771e311c274b4dfa395de10bb18d8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000071-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、プーチン氏と会談調整示唆　露ウクライナ協議　進展なく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5cd562b06901992b4804be83d0755ec130f14b3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000053-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【関東の天気】まるで夏!　あす30℃超え続出　大気不安定…雷雨警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bf2515958f4b771363cba9240f8a6481882071e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-04567351-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 漫画家・原田久仁信さん死去 享年73
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/03adc61d3986f21b773b57ed2fc803a92f7702073eaf85a2c2971a0799575cd9.jpg> 18日関東など30℃前後 熱中症注意
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539090>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/75b4403dcf5ac9754c0c42e3f2112666cbb8187f8c81fbee343a0d29cbed6fa9.jpg> 玉木氏 首相への意欲「当然ある」
+      <a href=https://news.yahoo.co.jp/pickup/6539112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/a815a933e22a345aed9875815eabdf586be469eb5058d313e3389d0c476cb629.jpg> 中3容疑者 他の複数女性殺そうと
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7759a4e462fb284876277e41a1bad92ff29a42462384dff399975f05ac9bf104.jpg> 妻に義母の世話頼み浮気 介護離婚
+      <a href=https://news.yahoo.co.jp/pickup/6539049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/9bd0fee9b60bc4e3e63dba0ce2b214c71d4dc6c1be39b0e7a5f4f479a22dce10.jpg> イオンカード巡り NHK報道に反論
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539109>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4363c7b44beccbebc055506dfbcdccf2895b6ab2026774022677d2f2532c832c.jpg> 実家暮らしでも自立 当事者らの声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/1229b0820bb1cd0a73eda95865d639c0f4be18d00e24364cfb041fb679c2d828.jpg> 杉原愛子が10年ぶりV 体操NHK杯
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 19:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 19:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
