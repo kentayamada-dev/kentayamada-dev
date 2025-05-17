@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48874c8b148f79d852c2748779e29e58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b804c221117132c6783a3d6840b81bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18ec148e806a81fe58a4e0014595cff09b43a833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000129-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=14&cw=1172&ch=1172&exp=10800&fmt=webp> 大谷翔平はエンゼルス戦に「1番・DH」でスタメン出場　「大谷翔平の日」にメジャー初の4戦連発なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50ba3da5ecba891f27c0999915893b6b898846b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領、プーチン大統領と電話会談へ　19日にウクライナ停戦など協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5653b1e24ac557f188510e214661e5ab0dfd7df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05171353-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 杉原愛子が最長ブランク１０年ぶり優勝！２５歳大逆転「また花咲かせられてうれしい」体操ＮＨＫ杯女子個人総合
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/867e2c9d43d9684c272ed07daac227dabf13537a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000007-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米提示の和平案が「最善」　国務長官、ロシア外相と電話
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e56a9496fc57285910ea578bf6e8a4b1d87f6706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00537763-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の3戦連発デコルテポーズに応えた人物　ベンチでシュパッ…「かっけーwww」「交信は…」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 06:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 06:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
