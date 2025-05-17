@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46a758ae9a2e67ff3c19e1c8df279d4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80d67a3bac181b5c8110102bf5522c34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82ef0245dc588d2d8547755999ac647ddbf3b776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00344877-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Ｔｒａｖｉｓ　Ｊａｐａｎ川島如恵留　活動再開を発表　６月７日開催ライブに出演
+      <a href=https://news.yahoo.co.jp/articles/45df7930a43ac9b766d9848800a21bc87d2dfae5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000265-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 活動再開のトラジャ川島如恵留 有料ブログにメンバー、ファンへの思いつづる「本当にありがとう」
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e6ca5c19695c3da6ba38affcd538798eaac75afb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755240-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃3連発も…“無関心”のエ軍ナイン　まさかの反応にファン笑顔「誰も…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b96d17544f98b56918265f024bb8578ce76cd69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00173325-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 「信じられないゴール数」「驚きはない」“文句なし”のリーグMVP受賞！個人賞総なめの日本人FWに絶賛相次ぐ！「国内最高の選手だ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755240-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃3連発も…“無関心”のエ軍ナイン　まさかの反応にファン笑顔「誰も…」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2161ed0324f41831e0ebe6768908bcf9bc6cf9eb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-05857577-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 【解説】ロシア・ウクライナ直接交渉“どう喝”交渉の内幕「永遠に戦う準備がある」「占領地さらに広げる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7127a636e2e4de66fd644958db34ad628dcc18dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-21920091-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊機が池に墜落　雨が降る中搭乗員の捜索活動が続く　愛知・犬山市の入鹿池
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7ab897870984083962c449578de6d2f41104d35fd011e9782fb913e3bf4606c1.jpg> 18日は関東で31℃予想 湿度も高く
+      <a href=https://news.yahoo.co.jp/pickup/6539068>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パー券収入を裏金化疑い 自民都連
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539077>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/1a3d022fc10d5c2bf110a4523a5e739b4b5e9f52fa667a2c8c39526d238b554c.jpg> 児童ひき逃げ 車所有者連絡取れず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7a6ba4e6298ce56953b1bc808431020f61cb876a506ac611c6e609a6351ca7d3.jpg> 米大統領 人気歌手に敵意むき出し
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/dc4d5daae9af1f95e092dfb647bf22189e2ef20ccd8521515f214cc587bbb96b.jpg> TravisJapan川島如恵留 活動再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539082>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/c62551167bec61630902949f256e35e739fa5eb900f7eaadc7f0465bcb64b623.jpg> 真木よう子 自虐発言で会場沸かす
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 16:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/17 17:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
