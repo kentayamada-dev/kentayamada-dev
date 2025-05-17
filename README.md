@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/382b60e481e4f7fb7f05c4673707e327.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60f354c47bbb18f8a35ae585dcd30f35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f8ab7e54b8dc95de98b9b524a67c8ee2f90a5a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000422-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=857&ch=857&exp=10800&fmt=webp> 王者ツートライブ　結成18年、初の全国賞レース決勝で頂点に　関西ローカル芸人の鮮烈下剋上
+      <a href=https://news.yahoo.co.jp/articles/6e27a81e8e586e897d9f4a44d33e7e067939a07c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000081-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【THE　SECOND】3代目王者ツートライブ優勝実感なし？会見で「意味わからへん」「ありえへん」　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f2dcd37e9ca120cf271c505591c6f03d81fd01c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-01755275-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の背後にいた“超人気芸人”にX騒然「ええ、すごい」　HRで真っ先に起立「めっちゃいい席」
+      <a href=https://news.yahoo.co.jp/articles/539808fe559f7d5d72d4f03a5df1697d16fe5494>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 19日に米ロ首脳電話会談　トランプ氏、SNSで表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ab05a998304dac9d9599736c34a48ae98054daa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250517-00000050-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=456&ch=456&exp=10800&fmt=webp> ロシア、直接協議の翌日にバス攻撃　ウクライナで9人死亡、遠い停戦
+      <a href=https://news.yahoo.co.jp/articles/eec395658e31326808d1a4cc6004370e1fde363b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05171269-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「彼はただ別の世界の人間なのだ」大谷翔平の特大弾に敵将が達観　超ハイペース量産で６０発超え現実味
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7066d128f8f421f9230abe838a8b7062bdc98cd772731fb054b307bfcc41bb45.jpg> 協議翌日にバス攻撃 ウで9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/5ed6eec882337660b3f89b479e64613e298a362c315d939b1292fcebd470d49d.jpg> ハメネイ師 米大統領レベル低過ぎ
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/4b2adfb8c93381e1ad5d1e7e795f2b88c6eb7bc9dd42a78b26aa0af9558a7cf8.jpg> 1km離れたイオン隔地駐車場 懸念
+      <a href=https://news.yahoo.co.jp/pickup/6539125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/2d8fdd0ee76affc39c1498158569dba5065f34899ec089b25b396ff23e8e258f.jpg> 藤井名人がっくし 6年ぶり千日手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/cc15f9ca4f6090d7cbd2c8bd6bcbceda43213430399adc9991a07981d264094f.jpg> 珍記録 プロ初白星→翌日に初黒星
+      <a href=https://news.yahoo.co.jp/pickup/6539130>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/7fc2eb93054facf7f9a798de19559e06d1444a6161bc2425c9e007703178f9ed.jpg> 日産 野球部関係者は解散など否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/592447e0b1d73bfc263903a49c5a335b1f160033c5b293cde082bd03cd0706da.jpg> 代打の神様→4番 中村晃「幸せ」
+      <a href=https://news.yahoo.co.jp/pickup/6539138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/17/011535167d9244567f6ad66d30de443d85421d9579358c0ce8e7ed79cd7f9f13.jpg> F1角田が大クラッシュ 自力脱出
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/17 23:51:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 00:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
