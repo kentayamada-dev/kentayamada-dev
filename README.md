@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8f8c60cd329e17a9080123c4ea276aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92629c90be511d0e620d54d464c14089.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1a883cca3c95fd57528484badeb4656574fc2e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ド軍34歳の退団は「大きな衝撃だ」エドマン復帰による“DFA措置”に「ロサンゼルスでは勝つことがすべて」
+      <a href=https://news.yahoo.co.jp/articles/bf6b0481970a3ff7aa341f418e2ee9328c4c312e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> バイデン前米大統領、前立腺がんと診断　骨に転移
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c27f133567b92e5b44d800ca3034aab6b93b63dac654a550e9263b4743bf6118.jpg> バイデン氏前立腺がんの診断 報道
+      <a href=https://news.yahoo.co.jp/pickup/6539251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f9b5b9dc07a78ad223c0a77be3987fae480f6d43ac77cea38b71e859e0591bc6.jpg> バイデン氏前立腺がん診断 転移も
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/453a09e05719ef8ef391f22fd3c87ae0426c2a66cb107206f592cbeb132608ad.jpg> 新名神を逆走 事故瞬間の映像
+      <a href=https://news.yahoo.co.jp/pickup/6539250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/84f17623e0e5b63a48fe6c9c764c38e6f2cf8e6ec9b28e7c5c43aae7347e5335.jpg> 売春事件 高校生直面した過酷実態
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 06:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 07:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
