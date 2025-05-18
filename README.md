@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70ff5050819212d01bc8e0b4a1bb3a30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8cdfd7be4b71913deed859f380a2fa7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76ec2c9e5345571c24eb8c35d2131287bed24b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000001-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍　ガザ地区で大規模な地上侵攻開始と発表
+      <a href=https://news.yahoo.co.jp/articles/de41368e32d90292cbd7d04de6b55340e488e731>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 永瀬拓矢九段「次につながる」　名人戦初勝利　第4局指し直し局
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cee16d595622ddb38961dafd3d4f017abcab8ff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21921216-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠 名人戦3連覇は"持ち越し"に…永瀬拓矢九段が第4局で初勝利
+      <a href=https://news.yahoo.co.jp/articles/5ef994836a1602648045241e1de76752150f7d0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=666&ch=666&exp=10800&fmt=webp> ウクライナが対ロ制裁強化を要請　トランプ氏きょう電話会談へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 04:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 05:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
