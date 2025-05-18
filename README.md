@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3265c0b77e0e1dc5e894460d5d9dd439.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b215413bee970594c60ef1652979b471.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93c9fc00aa555cb6ca9d974c9eefb4e1b41e6bf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050140-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 埼玉・三郷の小学生ひき逃げ、中国人容疑者「相手が大丈夫と言っていたので離れた」…事故前に飲酒か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/208d5660937ff9645a3eb671aa8e2bf76df7572e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000104-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 口論のバンス米副大統領と握手　ゼレンスキー氏、教皇就任ミサで
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3321f1a11ae613dc7e93b8a70a0d3d223b5cee92>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181237-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ハイヒール・モモコ、「ＴＨＥ　ＳＥＣＯＮＤ」優勝コンビと意外な縁「私に『お母さん！』と呼んだことも」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78e559882c99737b841a620e996b67113dc96608>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000133-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 広島、流れを手放した本盗失敗　新井貴浩監督「事前にチャンスがあるということだったんで…私のミスです」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8257bb8dfbac3b52e688c2acbed9450890dd652353a10c976b2d2139f4085007.jpg> 埼玉ひき逃げ事件 同乗者の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0b70183061d75e70c5ceba5ccff7d2d8e58c58509094fb70e4013ef8eb7eff13.jpg> 埼玉ひき逃げ 運転の男は飲酒か
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539229>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02212782/title-1747522557081.jpeg?exp=10800> 海難事故が同時多発 予測できた?
+      <a href=https://news.yahoo.co.jp/pickup/6539217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/852e21a083fbc44bf0186428cfb3e90a1ace2b112805405bbc4cc0e8720e08c3.jpg> サイズなく新婦がっかり 社長思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/852e21a083fbc44bf0186428cfb3e90a1ace2b112805405bbc4cc0e8720e08c3.jpg> サイズなく新婦がっかり 社長思い
+      <a href=https://news.yahoo.co.jp/pickup/6539224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ef7b84ab8d6c60ca901e17c08c29e2d1c0912d0806ad2abc873e42bda1725c0c.jpg> 立ち耳=小顔効果 Z世代の新基準
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/53f63ae216ca724dc506e892deb0e1f57638f383d624816d32f0017d0b44111b.jpg> ゆりやん 無理しない恋愛がしたい
+      <a href=https://news.yahoo.co.jp/pickup/6539231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/53f63ae216ca724dc506e892deb0e1f57638f383d624816d32f0017d0b44111b.jpg> ゆりやん「この体で生きていく」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 21:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 21:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
