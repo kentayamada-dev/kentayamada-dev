@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36c39dd6ab992aaaaa276b6805f46ab1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7fbc13a14c312f0bc0d0084dc12f67e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d40cd94d159e3f8832e877170b7b0da9397123d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍が大規模な地上侵攻を開始　18日だけで125人超死亡
+      <a href=https://news.yahoo.co.jp/articles/4f276c2f41359df23677a33423387fff5f5e8df2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050171-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=349&ch=349&exp=10800&fmt=webp> 口論して以来のバンス氏との会談、ゼレンスキー氏「全ての米国人の支援とリーダーシップに感謝」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50a8af0701bc6ac895b8131baf378d2b63703555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000072-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> 米副大統領、ゼレンスキー氏と会談　2月の激しい口論以来
+      <a href=https://news.yahoo.co.jp/articles/10d2059d8ba86f3c07f2f305a3ca269cdfb6cff0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、ガザで大規模な地上作戦開始　停戦協議の再開直後、18日だけで135人死亡
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bf509ecd386430634cc63cfc74b2a457c142b60>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-90030175-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 【逆走事故の瞬間】車が目の前から現れ…新名神高速で車６台が事故 逆走車は走り去る ドラレコ映像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3321f1a11ae613dc7e93b8a70a0d3d223b5cee92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181237-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ハイヒール・モモコ、「ＴＨＥ　ＳＥＣＯＮＤ」優勝コンビと意外な縁「私に『お母さん！』と呼んだことも」
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0b70183061d75e70c5ceba5ccff7d2d8e58c58509094fb70e4013ef8eb7eff13.jpg> 埼玉ひき逃げ 運転の男は飲酒か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0b70183061d75e70c5ceba5ccff7d2d8e58c58509094fb70e4013ef8eb7eff13.jpg> 埼玉ひき逃げ 運転の男は飲酒か
+      <a href=https://news.yahoo.co.jp/pickup/6539246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0ba7fd28874eb546e3a90a54f2bde75b9bd9da038b2f8ca39d28e267eb3b0b4a.jpg> 万博イタリア館 予約の転売続出
+      <a href=https://news.yahoo.co.jp/pickup/6539241>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「五月病」6月も注意が必要?
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
+      <a href=https://news.yahoo.co.jp/pickup/6539247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/6bed252225d0f8bd104585aac824af54e5670b8a2d7c2373cd3d11d49f0e16f8.jpg> ハルウララの連敗記録 破られる
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 23:52:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 00:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
