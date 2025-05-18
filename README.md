@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2db3d1cbfc1ca455265ecf1cc0df809c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe894a7ab7ec41c24f69b235ea71bf34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54f9ce05253777d4b776f0758ee2879bbbbd219c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 埼玉・三郷の小学生ひき逃げ事件　出頭の42歳を容疑で逮捕
+      <a href=https://news.yahoo.co.jp/articles/1c00781ad47acc3c1355f4a9d1e23c1d69e1f25d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233103-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 不妊治療クリニックが「標的」、爆発で1人死亡　米カリフォルニア州
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dff2d80643c8a64d74915c35965454df06d63ef8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0e9730312de36fa2f8f8a935183020bd70ea3678031005027146a3aa7200d288.jpg> 埼玉・小学生ひき逃げ疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/555708389e9800a6e36468ad0f068ec5a08f84097c467d007df9f54e3a12e622.jpg> 自民幹部 備蓄米の入札を問題視
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/555708389e9800a6e36468ad0f068ec5a08f84097c467d007df9f54e3a12e622.jpg> 自民幹部 備蓄米の入札を問題視
+      <a href=https://news.yahoo.co.jp/pickup/6539191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c3e58fe8db8d776de2371e533c3f8c0b6174b33d568178e19bc386f5f88f379.jpg> 新名神で車逆走し逃走 4台が事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e64b229f14246bd6ffbeb39e21057c5de2ac5bbd4fac1c3ce9711bf11846d99d.jpg> 韓国代表主将を恐喝疑い 女を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0e9730312de36fa2f8f8a935183020bd70ea3678031005027146a3aa7200d288.jpg> 埼玉・小学生ひき逃げ疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -436,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539186>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ea1aa6a62d6ca6ff0e055d8f3a26332fb427fd4f4ce8c355c8b3ecabb25cb837.jpg> 全身まひの元体操選手 支える兄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/175aecf83c1e01404ace9a81a1f5c7ac1d028335b02bb20e7eceaa44870cab2c.jpg> サンプルの自販機急増 カラクリは
       </a>
     </td>
   </tr>
@@ -464,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3ec9c2a24d796fc07ff7c36b9debb01c64dfe057cc7b7c4f222028d330d899d1.jpg> 元フジ木下康太郎氏 MBA修了報告
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 14:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 14:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
