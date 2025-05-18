@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14d4e3bfec1bc39bf133ee0ea5e1a7ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36c39dd6ab992aaaaa276b6805f46ab1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b56a86db629aae772d66ce4d97e98860776dbe1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050153-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=346&ch=346&exp=10800&fmt=webp> イスラエル軍、ガザで広範な地上軍事作戦を開始…ハマスとの交渉進展見込めず
+      <a href=https://news.yahoo.co.jp/articles/1d40cd94d159e3f8832e877170b7b0da9397123d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍が大規模な地上侵攻を開始　18日だけで125人超死亡
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50a8af0701bc6ac895b8131baf378d2b63703555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000072-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> 米副大統領、ゼレンスキー氏と会談　2月の激しい口論以来
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000072-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> 米副大統領、ゼレンスキー氏と会談　2月の激しい口論以来
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/5bf038a8377c1cd31c5d4c6bb2e10457a08a0e2058f89323e3f6918806133424.jpg> 8年で3億円超 放置漁船が行政圧迫
+      <a href=https://news.yahoo.co.jp/pickup/6539246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/a6a9600cb4b6fc8c2b01e4d4d5bb952c1a2a22b7400dafbd4de7e43546bc3714.jpg> 人気韓国グループ特需 大福完売
+      <a href=https://news.yahoo.co.jp/pickup/6539237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0ba7fd28874eb546e3a90a54f2bde75b9bd9da038b2f8ca39d28e267eb3b0b4a.jpg> 万博イタリア館 予約の転売続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/478a911160f5787141c2e4fc421df2738bc0f95f5586535a48a212ec1c0f365d.jpg> 大熱戦 藤井聡太名人が逆転負け
+      <a href=https://news.yahoo.co.jp/pickup/6539242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/a6a9600cb4b6fc8c2b01e4d4d5bb952c1a2a22b7400dafbd4de7e43546bc3714.jpg> 人気韓国グループ特需 大福完売
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 23:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
