@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7f2d5a62acc147b9518b4310846a7c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/837e769edda824c4924e5146a48ff787.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5d8ff8826b2045d56c0a7fb9859aabcfe0bf547>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小学生ひき逃げ、車運転の男は酒気帯びか
+      <a href=https://news.yahoo.co.jp/articles/208d5660937ff9645a3eb671aa8e2bf76df7572e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000104-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 口論のバンス米副大統領と握手　ゼレンスキー氏、教皇就任ミサで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/046ac16e8aed1df9c5e720e3d0b4b2033e30bdf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181255-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> ツートライブ、往路は普通車「ＴＨＥ　ＳＥＣＯＮＤ」優勝で復路は「ミドリ」の“吉本新幹線ドリーム”
+      <a href=https://news.yahoo.co.jp/articles/4a4059412e8bc1bd4cfb84dd646b2c1f97534488>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000061-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 埼玉・三郷の小学生ひき逃げ　容疑者、直前に飲酒か　同乗男性も逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3321f1a11ae613dc7e93b8a70a0d3d223b5cee92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181237-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ハイヒール・モモコ、「ＴＨＥ　ＳＥＣＯＮＤ」優勝コンビと意外な縁「私に『お母さん！』と呼んだことも」
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adc0f1c10b7cbc7462b51cd608a0924895daef30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦の新協議始まる　イスラエル軍大規模攻撃、米大統領はネタニヤフ氏に「不満ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/091f4a2390a4f0150c5c9603cbd4a3fbb4cec484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237251-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア「永遠に戦争続ける」強硬姿勢の中、トランプ氏がプーチン氏と19日電話会談へ　ウクライナ停戦など協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a324d269243649afcc9214624efc07113ba1d266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00096679-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「恥ずべき敗北だ」ドジャース、エンジェルスに本拠地で６年ぶりシリーズ負け越し…地元記者からも厳しい声
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/59f326cfc89c34890f78564ff333fb7d410ac4dc691d69c37f0bb66bb6077601.jpg> 新ローマ教皇就任ミサ 要人ら参列
+      <a href=https://news.yahoo.co.jp/pickup/6539225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/19a41c8ec34ccb69d30d4c1fe53d21e1b2605f484a710835b2fc54970da89369.jpg> 万博閉場 22時→23時に延長案
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/85a24d79bb6a14cc307853d1bf258e9b6d1e5ecd990d600eccf1149df727756e.jpg> 通学憂うつ ランドセル症候群対策
+      <a href=https://news.yahoo.co.jp/pickup/6539195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d20754ab7d8b74a5e825e64f8e88c91d10ffaa1a6fff4b89e30285913eb031b1.jpg> 息子投稿に批判 モンゴル首相窮地
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 20:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 20:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
