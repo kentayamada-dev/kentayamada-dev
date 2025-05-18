@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02115aa472d2dab0b3186c0821d9330c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c7fe03d13215549ea5fcec223bf69a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6fac62d0856defb380cef66a43d7bff7f01eb7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-01756287-fullcount-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菊池雄星がアクシデント降板　6回途中1失点、初勝利の権利も…右足首を痛めたか
+      <a href=https://news.yahoo.co.jp/articles/43b913fa3137286bd0d5c36d5b688fafa722aa38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-05191026-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菊池雄星、１０度目の正直ならず…６回途中１失点で勝利投手の権利も追いつかれる…右足首痛め緊急降板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5218f3baf24eaa17372f9a87c4f1f142c475ca6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「ハマス・ガザ地区最高幹部、イスラエル空襲で死亡」
+      <a href=https://news.yahoo.co.jp/articles/028bff7c767394bc16e4d5a08b6e56d13113f211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973598-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がガザで大規模地上侵攻を開始　ハマス壊滅のためガザ地区全域を制圧する方針　ガザ保健省「少なくとも140人死亡」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d558d18b10ee42582aef1c66222286eb8b96bb8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏、口論のバンス米副大統領と会談　関係修復の狙いか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de41368e32d90292cbd7d04de6b55340e488e731>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 永瀬拓矢九段「次につながる」　名人戦初勝利　第4局指し直し局
+      <a href=https://news.yahoo.co.jp/articles/6bc3a43ff02c166ade1e4c7a75f0190f20ccd5f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973597-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドラレコ映像に“向かってくる青い車”…新名神高速で乗用車が『逆走』車6台が巻き込まれる事故 40-60代の女性4人ケガ
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0b70183061d75e70c5ceba5ccff7d2d8e58c58509094fb70e4013ef8eb7eff13.jpg> 埼玉ひき逃げ 運転の男は飲酒か
+      <a href=https://news.yahoo.co.jp/pickup/6539246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/299ba997e1e2a47178fe8d70e6f40a0b8b972628d0a5dbadbc9f3cdf08ba7bf4.jpg> 口座偽造し架空融資か いわき信組
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 07:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 08:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
