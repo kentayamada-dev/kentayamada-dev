@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ac95be48be3ec76cfd14215241260fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e5aa911500badf6536d99b494a73d4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e05892d22027fd5bc071a6eccd9d3e31d5d37deb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180897-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> THE　SECOND優勝ツートライブ大阪凱旋ライブ「18年間、固くてまずかった」すぐ再上京
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae259e7710141dbbdab30e6da09fac3ca81e056d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000032-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 小学生ひき逃げ事件で逮捕 中国籍の男、容疑を一部否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b36a3a02a220b4c4791fb1b4bee2f96aff6f7fa6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21920905-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=382&ch=382&exp=10800&fmt=webp> ドジャースの大谷翔平選手　日本人初の4試合連続HRならず　6打数ノーヒット
       </a>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2b4661ec9e21132dd910072bd3d12d7c3cbeb78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178982-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新ローマ教皇・レオ14世、ロシアとウクライナの直接協議の場を提供へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178982-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新ローマ教皇・レオ14世、ロシアとウクライナの直接協議の場を提供へ
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/472b031a7f830199380da3b97b921b3e065ec666>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国籍の男が出頭、逮捕　児童4人ひき逃げ容疑　埼玉県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/774db0609d72d16674114f8ffdaab9badc3735f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178972-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=972&ch=972&exp=10800&fmt=webp> タイトル戦では珍しい？藤井聡太名人は「つけ麺」を注文 永瀬九段は「すっぽん御膳」＆「勝ちエビたこ焼き」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0e654611538e1f44ea24fabff00b347e999e01b8170545b991e09fca4188f717.jpg> 食品消費税は5%が一案 公明代表
+      <a href=https://news.yahoo.co.jp/pickup/6539201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/7457c5fde3b69dccdd17e6f891e8099b14ad99903838ec9847195e5ca84a2937.jpg> イスラエル ハマスと交渉再開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8621767b600957195912087521251e55f87f6b671b386f34046be4261b98e912.jpg> 日産 NV200の生産終了を検討
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ea1aa6a62d6ca6ff0e055d8f3a26332fb427fd4f4ce8c355c8b3ecabb25cb837.jpg> 全身まひの元体操選手 支える兄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539197>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/da222c609357aecd21d6c8d81045b768c4c196943113c76147403771fd409786.jpg> 万博でコスプレ炎上 女性語る恐怖
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
+      <a href=https://news.yahoo.co.jp/pickup/6539199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8d5b8ee98287464c1813cd023e9990be495b94c103b77763081a228d24414b84.jpg> 相撲で客がマナー違反 親方の思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 15:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 16:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
