@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85d4bb93c235b34bc9c04bf6f03ed312.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7f2d5a62acc147b9518b4310846a7c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e41de0b08fbee55dee1206c3a6a4f0ee931a3bd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01578370-kyt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=963&ch=963&exp=10800&fmt=webp> 新名神高速で乗用車逆走、２台に衝突　近くで事故４人けが　三重県警が関連を捜査
+      <a href=https://news.yahoo.co.jp/articles/d5d8ff8826b2045d56c0a7fb9859aabcfe0bf547>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小学生ひき逃げ、車運転の男は酒気帯びか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/174b5a9379c77583aab6b9584f8c80b9ffbe96b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000351-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=900&ch=900&exp=10800&fmt=webp> THE　SECOND～漫才トーナメント　3代目王者・ツートライブが大阪凱旋
+      <a href=https://news.yahoo.co.jp/articles/046ac16e8aed1df9c5e720e3d0b4b2033e30bdf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181255-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> ツートライブ、往路は普通車「ＴＨＥ　ＳＥＣＯＮＤ」優勝で復路は「ミドリ」の“吉本新幹線ドリーム”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adc0f1c10b7cbc7462b51cd608a0924895daef30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦の新協議始まる　イスラエル軍大規模攻撃、米大統領はネタニヤフ氏に「不満ない」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e8f3c0af7167d40dfe06abc06879b8672049c30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ各地でイスラエル空爆、子ども含む33人死亡
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/af4484c9f3e1fafa7ea7b686290989d9badafd2de2a6072f91a90e1908aebd09.jpg> 金曜まで蒸し暑い日多く 体調注意
+      <a href=https://news.yahoo.co.jp/pickup/6539220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/59f326cfc89c34890f78564ff333fb7d410ac4dc691d69c37f0bb66bb6077601.jpg> 新ローマ教皇就任ミサ 要人ら参列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/01067efcf26e1a3d9eff5f54d702d8fbf2d7a9f6fbe35a6b4dda2cffad738e7f.jpg> 新名神で次々接触 逆走車は逃走
+      <a href=https://news.yahoo.co.jp/pickup/6539223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8257bb8dfbac3b52e688c2acbed9450890dd652353a10c976b2d2139f4085007.jpg> 埼玉ひき逃げ事件 同乗者の男逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/cc3dd6e9152be866490f5720fe4a7720a51c90680bcda769ae1b13c8faed32d8.jpg> ALS発症で絶望 気持ち変えた転機
+      <a href=https://news.yahoo.co.jp/pickup/6539222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/85a24d79bb6a14cc307853d1bf258e9b6d1e5ecd990d600eccf1149df727756e.jpg> 通学憂うつ ランドセル症候群対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/85a24d79bb6a14cc307853d1bf258e9b6d1e5ecd990d600eccf1149df727756e.jpg> ランドセル重い 通学ブルー対策は
+      <a href=https://news.yahoo.co.jp/pickup/6539217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/852e21a083fbc44bf0186428cfb3e90a1ace2b112805405bbc4cc0e8720e08c3.jpg> サイズなく新婦がっかり 社長思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/babea63e9596837127870af232e1555cb5d1acaa3ed0fa5d149c07f0f56870af.jpg> 児童は1人だけ 小学校で体育大会
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e85d2d4fc624de689682aa9f06db8a0a205d1ad8e541cf09e1b72ebadc48f9.jpg> やり投げ女子 計測で珍トラブル
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 19:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 20:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
