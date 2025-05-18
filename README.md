@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1389dc0cb571f5d4a41a1b7d1b6c44ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4c6a0d5e97c3430489593f25e600f71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/091f4a2390a4f0150c5c9603cbd4a3fbb4cec484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237251-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア「永遠に戦争続ける」強硬姿勢の中、トランプ氏がプーチン氏と19日電話会談へ　ウクライナ停戦など協議
+      <a href=https://news.yahoo.co.jp/articles/2d26259bbd2ac58e8b3c63d24b1e34f0ac0f4180>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21921049-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 逆走車が新名神高速の下り線に進入　停止した車2台と衝突して逃走　近くで起きた玉突き事故で4人軽傷　三重・亀山市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62379ea3d5093f26642023ba606a4c63a8c471c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00092080-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ヴィクトリアマイル】クイーンズウォークはクビ差惜敗も川田将雅「素晴らしい内容で走ってくれました」
+      <a href=https://news.yahoo.co.jp/articles/091f4a2390a4f0150c5c9603cbd4a3fbb4cec484>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237251-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア「永遠に戦争続ける」強硬姿勢の中、トランプ氏がプーチン氏と19日電話会談へ　ウクライナ停戦など協議
       </a>
     </td>
   </tr>
@@ -410,24 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539205>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02213514/title-1747546139168.jpeg?exp=10800> ロシア派兵の効果 北朝鮮で顕在化
+      <a href=https://news.yahoo.co.jp/pickup/6539210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/af4484c9f3e1fafa7ea7b686290989d9badafd2de2a6072f91a90e1908aebd09.jpg> 金曜まで蒸し暑い日多く 体調注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8621767b600957195912087521251e55f87f6b671b386f34046be4261b98e912.jpg> 日産 NV200の生産終了を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/01067efcf26e1a3d9eff5f54d702d8fbf2d7a9f6fbe35a6b4dda2cffad738e7f.jpg> 新名神で次々接触 逆走車は逃走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/dce877d84bc444f09d51666f4bd89d7d054059e7917d5e1354cd6665c464b09b.jpg> 小学生ひき逃げ疑い 男は一部否認
+      <a href=https://news.yahoo.co.jp/pickup/6539146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/88bc311e450e0dfea5272e3fd67110e79e7544e3773dfe5080747086419ae458.jpg> 東大前駅刺傷「母に金もらえず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/cc3dd6e9152be866490f5720fe4a7720a51c90680bcda769ae1b13c8faed32d8.jpg> ALS発症で絶望 気持ち変えた転機
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/c3a0ef018a40ce966073404f16775bf60e474c943170e7c0d699862c991796ea.jpg> 電話怖い若手社員 不安と責任感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/da222c609357aecd21d6c8d81045b768c4c196943113c76147403771fd409786.jpg> 万博でコスプレ炎上 女性語る恐怖
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 18:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 18:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
