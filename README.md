@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/4CdnIyJpL5U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c390fae9c9f0121be7fb46e77ec099a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/231868d2edd42b049926dc3c84aad24a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35467951cd236856d34dc1ae91aea475305efc82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000013-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第2打席は中飛　元同僚アンダーソンに2打席凡退　試合前に同郷の菊池雄星、佐々木朗希らと談笑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6960ff792ea31eae1400b0ba193bae6cbfca187c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ米大統領、19日にロシア・ウクライナ首脳と電話会談
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dff2d80643c8a64d74915c35965454df06d63ef8>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393937a67aeb4cbd959aecd415a627adf46f24fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、プーチン氏と19日電話会談－ウクライナ戦争終結を議論へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fe93caa692c817dd82651d7e598b2f6a3a19b77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029841-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東や東海で真夏日続出　北日本の太平洋側も真夏の暑さに　午後は天気の急変に注意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/228bcb3c772dfbb99c7f43e6803d17a7c80b95c2d0db653d81e13f2e3f097b7a.jpg> 自民・森山幹事長 参院選へ正念場
+      <a href=https://news.yahoo.co.jp/pickup/6539173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3935dd9696aaee20f5aa3351e47fc3f900f9497e065a496ea7f4514b561d04fb.jpg> 年金改革巡り 与野党の論戦本格化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ特例貸付6割が滞納 厚労省
+      <a href=https://news.yahoo.co.jp/pickup/6539157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/228bcb3c772dfbb99c7f43e6803d17a7c80b95c2d0db653d81e13f2e3f097b7a.jpg> 自民・森山幹事長 参院選へ正念場
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/88bc311e450e0dfea5272e3fd67110e79e7544e3773dfe5080747086419ae458.jpg> 東大前駅刺傷「母に金もらえず」
+      <a href=https://news.yahoo.co.jp/pickup/6539176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/190ec712a371e19613b644c7904ca6f250cc7937ba62e8a789a6167eed7e17d2.jpg> 八潮陥没 住民「臭いで目覚める」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/415c9eb79d51ca70e255cc7b1a6e1cdf63c875eec6fbf4966c045d93ef8f7c0f.jpg> 日本の子供の大半が睡眠不足 調査
+      <a href=https://news.yahoo.co.jp/pickup/6539168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c52117a98546d511e0de5ad10c5588a9ca3e5a7c3da5906579bcc1d0432e018.jpg> 「不審者パーカー」話題 開発背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 11:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 11:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
