@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8dee415678d9ae0b731e015453003865.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06d2df069f89cad88432a7acb7008f0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cbc3505c3858a18d471ab8f0dd69dcb1b804f7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-05897535-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍、ガザ地区で大規模な地上作戦を開始　国際社会の懸念強まる
+      <a href=https://news.yahoo.co.jp/articles/76ec2c9e5345571c24eb8c35d2131287bed24b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000001-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍　ガザ地区で大規模な地上侵攻開始と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cee16d595622ddb38961dafd3d4f017abcab8ff3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21921216-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠 名人戦3連覇は"持ち越し"に…永瀬拓矢九段が第4局で初勝利
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f276c2f41359df23677a33423387fff5f5e8df2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050171-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=349&ch=349&exp=10800&fmt=webp> 口論して以来のバンス氏との会談、ゼレンスキー氏「全ての米国人の支援とリーダーシップに感謝」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bf509ecd386430634cc63cfc74b2a457c142b60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-90030175-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 【逆走事故の瞬間】車が目の前から現れ…新名神高速で車６台が事故 逆走車は走り去る ドラレコ映像
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 01:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 02:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
