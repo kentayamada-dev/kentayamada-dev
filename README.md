@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a57112df51bb5a11dec574ee25dd0e8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ac95be48be3ec76cfd14215241260fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9a2e94d90d622eb9d4d96d0ee994fdbab138437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 週の中ごろにかけ気温高く　関東では真夏日予想　熱中症に注意　気温の変化も大きく
+      <a href=https://news.yahoo.co.jp/articles/b36a3a02a220b4c4791fb1b4bee2f96aff6f7fa6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21920905-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=382&ch=382&exp=10800&fmt=webp> ドジャースの大谷翔平選手　日本人初の4試合連続HRならず　6打数ノーヒット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e73489286bf9d0ba7eda26efc96bd23791eecfa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00538065-theanswer-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍、投壊11失点に監督渋い顔「明らかに制球の問題が」直近5戦33失点、また救援1人IL入りへ
+      <a href=https://news.yahoo.co.jp/articles/c2b4661ec9e21132dd910072bd3d12d7c3cbeb78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178982-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新ローマ教皇・レオ14世、ロシアとウクライナの直接協議の場を提供へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9a2e94d90d622eb9d4d96d0ee994fdbab138437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010002-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 週の中ごろにかけ気温高く　関東では真夏日予想　熱中症に注意　気温の変化も大きく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/472b031a7f830199380da3b97b921b3e065ec666>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国籍の男が出頭、逮捕　児童4人ひき逃げ容疑　埼玉県警
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/774db0609d72d16674114f8ffdaab9badc3735f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178972-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=972&ch=972&exp=10800&fmt=webp> タイトル戦では珍しい？藤井聡太名人は「つけ麺」を注文 永瀬九段は「すっぽん御膳」＆「勝ちエビたこ焼き」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c00781ad47acc3c1355f4a9d1e23c1d69e1f25d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233103-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 不妊治療クリニックが「標的」、爆発で1人死亡　米カリフォルニア州
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36fa236c97a9403e177ae6d4faed32fabe9f617c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973416-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> あす米露首脳が電話会談…トランプ大統領「戦争終結願う」ウクライナ和平や貿易など協議へ
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c3e58fe8db8d776de2371e533c3f8c0b6174b33d568178e19bc386f5f88f379.jpg> 新名神で車逆走し逃走 4台が事故
+      <a href=https://news.yahoo.co.jp/pickup/6539196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8d8689993764539099165c3207fc6f121daf1a5d8a161674d1925940f4e6d35a.jpg> ガソリン高い九州・沖縄 特有事情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0e9730312de36fa2f8f8a935183020bd70ea3678031005027146a3aa7200d288.jpg> 埼玉・小学生ひき逃げ疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/dce877d84bc444f09d51666f4bd89d7d054059e7917d5e1354cd6665c464b09b.jpg> 小学生ひき逃げ疑い 男は一部否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3d03632c9b2579a56a3aa00e44b2cbea4a49fc875b67afe3c398869a9d82259a.jpg> 米の不妊治療施設で爆発 テロ断定
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/fc4aadf7fff7acfe5f9bf8465070b4a8d0103b84cc7a21e28379aa786f266d4c.jpg> 2年続けたヒゲ脱毛 記者の体験記
+      <a href=https://news.yahoo.co.jp/pickup/6539197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/da222c609357aecd21d6c8d81045b768c4c196943113c76147403771fd409786.jpg> 万博でコスプレ炎上 女性語る恐怖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/981a0b108b17e386ed8bb167f5a12720d24af9de320dc6eccdcb321391bcd785.jpg> 「大谷翔平記念日」大谷は6タコ
+      <a href=https://news.yahoo.co.jp/pickup/6539188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d228b61c1d6560385318b6a0dae197843137d32d87271edfacf57d240cb6ded9.jpg> 田中希実 1500m決勝で異例の挑戦
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3ec9c2a24d796fc07ff7c36b9debb01c64dfe057cc7b7c4f222028d330d899d1.jpg> 元フジ木下康太郎氏 MBA修了報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 15:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 15:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
