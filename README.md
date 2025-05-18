@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/837e769edda824c4924e5146a48ff787.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3265c0b77e0e1dc5e894460d5d9dd439.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/208d5660937ff9645a3eb671aa8e2bf76df7572e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000104-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 口論のバンス米副大統領と握手　ゼレンスキー氏、教皇就任ミサで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a4059412e8bc1bd4cfb84dd646b2c1f97534488>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000061-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 埼玉・三郷の小学生ひき逃げ　容疑者、直前に飲酒か　同乗男性も逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000104-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 口論のバンス米副大統領と握手　ゼレンスキー氏、教皇就任ミサで
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3321f1a11ae613dc7e93b8a70a0d3d223b5cee92>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181237-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> ハイヒール・モモコ、「ＴＨＥ　ＳＥＣＯＮＤ」優勝コンビと意外な縁「私に『お母さん！』と呼んだことも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78e559882c99737b841a620e996b67113dc96608>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000133-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 広島、流れを手放した本盗失敗　新井貴浩監督「事前にチャンスがあるということだったんで…私のミスです」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d20754ab7d8b74a5e825e64f8e88c91d10ffaa1a6fff4b89e30285913eb031b1.jpg> 息子投稿に批判 モンゴル首相窮地
+      <a href=https://news.yahoo.co.jp/pickup/6539229>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02212782/title-1747522557081.jpeg?exp=10800> 海難事故が同時多発 予測できた?
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/babea63e9596837127870af232e1555cb5d1acaa3ed0fa5d149c07f0f56870af.jpg> 児童は1人だけ 小学校で体育大会
+      <a href=https://news.yahoo.co.jp/pickup/6539226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/9cb2f5f0658a895a397819f65808d27fa09f913754dabb19046d4d7cb6cef9c8.jpg> 広島監督 阪神監督との遺恨に言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f781b42e9ef1ee48741835a79927cc4af2f75206ebbaa67c76ab476f12b5b6bf.jpg> 巨人逆転負け まさかの1試合4被弾
+      <a href=https://news.yahoo.co.jp/pickup/6539227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/53f63ae216ca724dc506e892deb0e1f57638f383d624816d32f0017d0b44111b.jpg> ゆりやん 無理しない恋愛がしたい
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 20:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 21:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
