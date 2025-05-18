@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c7fe03d13215549ea5fcec223bf69a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a536bed5213503bbe8f921d1b07aebd4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43b913fa3137286bd0d5c36d5b688fafa722aa38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-05191026-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菊池雄星、１０度目の正直ならず…６回途中１失点で勝利投手の権利も追いつかれる…右足首痛め緊急降板
+      <a href=https://news.yahoo.co.jp/articles/675d3101fd1d108629ff241b3130ea93b94dff17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000150-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁NHK大河ドラマ降板　過去の降板と代役には…関係者「不倫疑惑認めていないのに異例」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/519a5aa679516c2f4c6cc0b10c14e70e9993354e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010003-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=560&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】エンゼルスがドジャース3連戦をスイープ　菊池好投も初勝利ならず　大谷は5打数3安打1打点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20a6fef7e02cd7a28a3572ffa0a69a2772610a40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神高速逆走で事故、逃走　4人軽傷　亀山・鈴鹿トンネル付近　三重
       </a>
     </td>
   </tr>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bc3a43ff02c166ade1e4c7a75f0190f20ccd5f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973597-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドラレコ映像に“向かってくる青い車”…新名神高速で乗用車が『逆走』車6台が巻き込まれる事故 40-60代の女性4人ケガ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da70c3317c2e74b7e93d23aa11c3a811e23e376f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 嵐・松本潤がTBS日曜劇場「19番目のカルテ」で主演、総合診療科の医師役
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 内閣支持率31%発足以降最低 読売
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539253>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539251>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f9b5b9dc07a78ad223c0a77be3987fae480f6d43ac77cea38b71e859e0591bc6.jpg> バイデン氏前立腺がん診断 転移も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0528f6b4bbb8cce3d2403c4f36196b1737eaac7a841bf92b7291acaeeca8fc73.jpg> 小泉氏 現金給付の可能性に言及
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/a6a9600cb4b6fc8c2b01e4d4d5bb952c1a2a22b7400dafbd4de7e43546bc3714.jpg> 人気韓国グループ特需 大福完売
+      <a href=https://news.yahoo.co.jp/pickup/6539249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c0d748a6d6a2cdca4f7e0034b436ad23eed930a077ab5af804e400b851ad9bf5.jpg> ドジャース テーラーに戦力外通告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c0d748a6d6a2cdca4f7e0034b436ad23eed930a077ab5af804e400b851ad9bf5.jpg> ドジャース テーラーに戦力外通告
+      <a href=https://news.yahoo.co.jp/pickup/6539258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/dee79d1e98e2be1525e946bc96722d6d6306849d2ca2b69d2b2026e5875a0849.jpg> 永野芽郁 来年の大河ドラマを降板
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 08:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 08:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
