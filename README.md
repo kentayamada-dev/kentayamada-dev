@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea3b94a5d1415d81a7a96c747741d445.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5d0f120215a889e60e873c6f1835b5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f879964039597a9bdc3e4f3ee03520bfb8bc9abf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180361-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ツートライブ休演に祝福の声「こんな笑顔になる変更あらへんわ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180361-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ツートライブ休演に祝福の声「こんな笑顔になる変更あらへんわ」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d332f291809021ec1d016c90389eb551cb3e85d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000017-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第3打席は空振り三振　元同僚のアンダーソンから2三振　「大谷翔平の日」に〝2戦連発〟なるか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000017-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第3打席は空振り三振　元同僚のアンダーソンから2三振　「大谷翔平の日」に〝2戦連発〟なるか
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dff2d80643c8a64d74915c35965454df06d63ef8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3935dd9696aaee20f5aa3351e47fc3f900f9497e065a496ea7f4514b561d04fb.jpg> 年金改革巡り 与野党の論戦本格化
+      <a href=https://news.yahoo.co.jp/pickup/6539185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2ad590b4b31d5a0a48909b3bfacd9cbdd5607255d2addc4d9a18dfaed20f970e.jpg> 吉村氏 都構想の住民投票に意欲
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ea1aa6a62d6ca6ff0e055d8f3a26332fb427fd4f4ce8c355c8b3ecabb25cb837.jpg> 跳馬で全身まひ 念願の一人暮らし
+      <a href=https://news.yahoo.co.jp/pickup/6539186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ea1aa6a62d6ca6ff0e055d8f3a26332fb427fd4f4ce8c355c8b3ecabb25cb837.jpg> 全身まひの元体操選手 支える兄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/175aecf83c1e01404ace9a81a1f5c7ac1d028335b02bb20e7eceaa44870cab2c.jpg> サンプルの自販機急増 カラクリは
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539168>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c52117a98546d511e0de5ad10c5588a9ca3e5a7c3da5906579bcc1d0432e018.jpg> 「不審者パーカー」話題 開発背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e7108c62897ab8c565d069c2aeb3e61fd51bff50be19d10960476f9d7d4da819.jpg> 「リターンライダー」増加 心構え
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 13:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 13:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
