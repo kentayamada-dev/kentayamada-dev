@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3718f730dad569588e539cf9eb167168.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea3b94a5d1415d81a7a96c747741d445.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f879964039597a9bdc3e4f3ee03520bfb8bc9abf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180361-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ツートライブ休演に祝福の声「こんな笑顔になる変更あらへんわ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/36fa236c97a9403e177ae6d4faed32fabe9f617c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973416-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> あす米露首脳が電話会談…トランプ大統領「戦争終結願う」ウクライナ和平や貿易など協議へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fd3e2ab8bff85e869393cb08bf1d37165ef7b07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973413-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・小野寺氏「備蓄米全て入札はおかしい」制度見直しを強調　立憲・重徳氏「法律改正すべき」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06ea1cab1d6d2b11eb8792fb895a4fa0e8db1043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00078644-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 性的なコメントに「自分がすり減るような感覚が…」体操・村上茉愛（28）がアスリートへのハラスメント問題に思うこと
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dff2d80643c8a64d74915c35965454df06d63ef8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ae3bb4e90e9c7922b78782f5b9e642d862e7187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00797753-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、『THE SECOND』優勝の要因　10年以上単独ライブを毎月開催「動じなくなった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/555708389e9800a6e36468ad0f068ec5a08f84097c467d007df9f54e3a12e622.jpg> 自民幹部 備蓄米の入札を問題視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539173>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3935dd9696aaee20f5aa3351e47fc3f900f9497e065a496ea7f4514b561d04fb.jpg> 年金改革巡り 与野党の論戦本格化
       </a>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/228bcb3c772dfbb99c7f43e6803d17a7c80b95c2d0db653d81e13f2e3f097b7a.jpg> 自民・森山幹事長 参院選へ正念場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/b845920efa03d30c4954a46c6673691469503ee17e39ee8a110393c8afd39c1a.jpg> 埼玉・小学生ひき逃げ 男が出頭
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/190ec712a371e19613b644c7904ca6f250cc7937ba62e8a789a6167eed7e17d2.jpg> 八潮陥没 住民「臭いで目覚める」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539178>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e64b229f14246bd6ffbeb39e21057c5de2ac5bbd4fac1c3ce9711bf11846d99d.jpg> 韓国代表主将を恐喝疑い 女を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ea1aa6a62d6ca6ff0e055d8f3a26332fb427fd4f4ce8c355c8b3ecabb25cb837.jpg> 跳馬で全身まひ 念願の一人暮らし
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e11188043eb20300718cbff4e24c21ce8e2e33beccde0fd4c3dc4d9365bc8ed1.jpg> ジブリ作品 日本で配信ない訳考察
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539179>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 12:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 13:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
