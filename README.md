@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/90WZqfi55Go?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/736a9478ed2b0ad0837ba2009f9ae685.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3718f730dad569588e539cf9eb167168.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/732b1d7553aa7599d36a5c4af8c95f433e8b1e2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237230-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、あす（19日）プーチン大統領と電話会談へ　ウクライナ停戦目指し協議
+      <a href=https://news.yahoo.co.jp/articles/36fa236c97a9403e177ae6d4faed32fabe9f617c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973416-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> あす米露首脳が電話会談…トランプ大統領「戦争終結願う」ウクライナ和平や貿易など協議へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35467951cd236856d34dc1ae91aea475305efc82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000013-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第2打席は中飛　元同僚アンダーソンに2打席凡退　試合前に同郷の菊池雄星、佐々木朗希らと談笑
+      <a href=https://news.yahoo.co.jp/articles/d332f291809021ec1d016c90389eb551cb3e85d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000017-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第3打席は空振り三振　元同僚のアンダーソンから2三振　「大谷翔平の日」に〝2戦連発〟なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/669c358199c50917fb406b57b4e219014b0744e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000006-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=1372&ch=1372&exp=10800&fmt=webp> 孫興民を恐喝 容疑の男女2人に拘束令状発布
+      <a href=https://news.yahoo.co.jp/articles/06ea1cab1d6d2b11eb8792fb895a4fa0e8db1043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00078644-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 性的なコメントに「自分がすり減るような感覚が…」体操・村上茉愛（28）がアスリートへのハラスメント問題に思うこと
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/52b754ace81bfd04913bb7d55097b19c20886a81a67b703c75ff7a1d8921f220.jpg> ミャクミャク窃盗被害 寄贈相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539168>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c52117a98546d511e0de5ad10c5588a9ca3e5a7c3da5906579bcc1d0432e018.jpg> 「不審者パーカー」話題 開発背景
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539169>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tvnosukima/02212983/title-1747503678792.jpeg?exp=10800> ツートライブ優勝 引退寸前の時も
+      <a href=https://news.yahoo.co.jp/pickup/6539177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e7108c62897ab8c565d069c2aeb3e61fd51bff50be19d10960476f9d7d4da819.jpg> 「リターンライダー」増加 心構え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 12:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 12:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
