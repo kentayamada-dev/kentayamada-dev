@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7fbc13a14c312f0bc0d0084dc12f67e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5a8c166d9b25315a9e67bf8afc62e05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f276c2f41359df23677a33423387fff5f5e8df2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050171-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=349&ch=349&exp=10800&fmt=webp> 口論して以来のバンス氏との会談、ゼレンスキー氏「全ての米国人の支援とリーダーシップに感謝」
+      <a href=https://news.yahoo.co.jp/articles/3cbc3505c3858a18d471ab8f0dd69dcb1b804f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-05897535-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍、ガザ地区で大規模な地上作戦を開始　国際社会の懸念強まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10d2059d8ba86f3c07f2f305a3ca269cdfb6cff0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、ガザで大規模な地上作戦開始　停戦協議の再開直後、18日だけで135人死亡
+      <a href=https://news.yahoo.co.jp/articles/4f276c2f41359df23677a33423387fff5f5e8df2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050171-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=349&ch=349&exp=10800&fmt=webp> 口論して以来のバンス氏との会談、ゼレンスキー氏「全ての米国人の支援とリーダーシップに感謝」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 00:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 01:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
