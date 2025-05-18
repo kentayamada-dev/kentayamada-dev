@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/797574779a77876fcab0a539789db3ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/895b89b2e46dd6a316f743b0a5aeb25d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b76acf26f0992759e729c1bf1550462b884bb19d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180093-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平は「１番DH」初の４戦連発17号は出るか　７打数４安打の左腕アンダーソンと対戦
+      <a href=https://news.yahoo.co.jp/articles/b5e330915d1b42bc985ffa1e68bc06aa5a03bcdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00797754-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「間に合わんかった」『THE SECOND』王者のツートライブ・周平魂、亡き父への思い溢れる「ここから見守って」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31ec50402a64475ff26c22741ca0929ae54a8a88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233098-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、１９日にプーチン氏と電話会談　ウクライナ情勢めぐり
+      <a href=https://news.yahoo.co.jp/articles/33723a95c65de963df67fdb8ebc91a124f0b596d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、19日にプーチン氏と電話協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/582543ed712b8b4895d15b0ddf69c11cbafe2e99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> オリオールズ、ハイド監督を解任 開幕から成績不振
+      <a href=https://news.yahoo.co.jp/articles/566f23cde0cc054970a13fa3c5eb0de6c7c6c019>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000021-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1256&ch=1256&exp=10800&fmt=webp> 大谷翔平、「大谷の日」にキャリア初の4戦連発狙う…試合前は先輩の菊池雄星と談笑、山本と佐々木も加わり「侍カルテット」に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b78efe533e3c54d91869ceeadbb30a12a80e5e7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000009-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> 「関税を食らえ」　トランプ氏、関税理由の値上げをけん制
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fe93caa692c817dd82651d7e598b2f6a3a19b77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029841-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東や東海で真夏日続出　北日本の太平洋側も真夏の暑さに　午後は天気の急変に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d178a83c4ec467bd9e64e5fb703cda1c57b3771>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180025-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【THE SECOND】王者ツートライブは漫才職人　中田カウスも「名人」認めるネタ作りの才
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/4ed1fff1adbd53f2f160ccf7b7f079a6217d05ccc300a3e30fb3fd7b51f0978b.jpg> 関東甲信で真夏日続出か 暑さ注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/9fa8bf069d8cf125c69f7d2a2cfbf06c5888c2f2b0fdf30823ea08c53d11312d.jpg> 日産が早期退職募集へ 事務系対象
+      <a href=https://news.yahoo.co.jp/pickup/6539155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e2f62afa5f5a06f4ec74d23232720ecbc4e79a44236f8990cbf17433e24cd8a6.jpg> 早期退職の募集人数 前年同期2倍
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/837595879b157514164108b2ced71fd184b1499e2003b00fb4d59544975cdefe.jpg> 日産2工場閉鎖へ 地元経済界驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3c0280256b285c4e2772bbed737f12b626baf1e9dfff71e9eb02d853bb1f78b1.jpg> トランプコイン保有で招待 批判
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/732eaab846e383f55270e81358b1e3eef8fdc275421b55fe5024354413b5c1a5.jpg> トランプコイン保有で招待 批判
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 09:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 09:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
