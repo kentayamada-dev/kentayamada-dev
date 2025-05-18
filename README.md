@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9328805e6796be0fd4f86223086ba223.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c390fae9c9f0121be7fb46e77ec099a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69fa93b6c39a6d20b835816638b65b373a461f38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「大谷翔平の日」　日本人初の４試合連続本塁打なるか　１打席目は元同僚に３球三振…カーショー初回３失点
+      <a href=https://news.yahoo.co.jp/articles/dff2d80643c8a64d74915c35965454df06d63ef8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 万博バルト館でミャクミャク「連れ去り」事案　プレゼント続々で「増殖」、大使は「心より感謝」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0ca53ed8f69fadcdf6a838e16b6a6d221f77931>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00256779-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大手コメ卸の株価が爆上げ　コメ高騰を追い風に業績拡大「JA全農の集荷シェアを奪う」強気が勝因
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ae3bb4e90e9c7922b78782f5b9e642d862e7187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00797753-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、『THE SECOND』優勝の要因　10年以上単独ライブを毎月開催「動じなくなった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00797753-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、『THE SECOND』優勝の要因　10年以上単独ライブを毎月開催「動じなくなった」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fe93caa692c817dd82651d7e598b2f6a3a19b77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029841-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東や東海で真夏日続出　北日本の太平洋側も真夏の暑さに　午後は天気の急変に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db0443fa6757ef5d82998c7d439c29007c7d8bcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000005-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 目が見えないのは「さずきもん」　最後の瞽女が教えてくれたこと
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8c6c2dd58b9ab1bb07367c32f5d7d9e12d505f74d8760bc5bfc7d92054610e0e.jpg> 埼玉・小学生ひき逃げ 男が出頭
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/b845920efa03d30c4954a46c6673691469503ee17e39ee8a110393c8afd39c1a.jpg> 埼玉・小学生ひき逃げ 男が出頭
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/837595879b157514164108b2ced71fd184b1499e2003b00fb4d59544975cdefe.jpg> 日産2工場閉鎖へ 地元経済界驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539158>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏 ウォルマートを批判
+      <a href=https://news.yahoo.co.jp/pickup/6539171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/52b754ace81bfd04913bb7d55097b19c20886a81a67b703c75ff7a1d8921f220.jpg> ミャクミャク窃盗被害 寄贈相次ぐ
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539169>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tvnosukima/02212983/title-1747503678792.jpeg?exp=10800> ツートライブ優勝 引退寸前の時も
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 10:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 11:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
