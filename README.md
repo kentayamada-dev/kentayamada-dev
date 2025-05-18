@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb99562ea0d0b0bfa95a844d8d089771.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/797574779a77876fcab0a539789db3ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2b14359ce074ab9f96c05545aea01ef2c9e36ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237213-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 週明け19日に米ロ首脳が電話会談へ、トランプ大統領がSNSに投稿「プーチン氏と話す」
+      <a href=https://news.yahoo.co.jp/articles/b76acf26f0992759e729c1bf1550462b884bb19d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180093-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平は「１番DH」初の４戦連発17号は出るか　７打数４安打の左腕アンダーソンと対戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bd6c642c19231036cd28aa7f59dbe39410a45d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000138-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=863&ch=863&exp=10800&fmt=webp> 大谷翔平　古巣エ軍戦前に由伸、朗希交え菊池雄星と4人で13分間談笑　時折大谷がおどけて大笑い
+      <a href=https://news.yahoo.co.jp/articles/31ec50402a64475ff26c22741ca0929ae54a8a88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233098-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、１９日にプーチン氏と電話会談　ウクライナ情勢めぐり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/582543ed712b8b4895d15b0ddf69c11cbafe2e99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> オリオールズ、ハイド監督を解任 開幕から成績不振
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01ed3044e5231558cac9914ca217c92a1fc323e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】開幕から低迷中のオリオールズがハイド監督の解任を発表　マンソリーノ三塁コーチが監督代行に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/48d50a652b1b6d08289f5b959b489bec0406479a2ac3a527ed11bed2ce988868.jpg> 米露首脳19日に電話会談 停戦協議
+      <a href=https://news.yahoo.co.jp/pickup/6539154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ特例貸付6割が滞納 厚労省
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e7b62694a55e267f77e728d5f782b0f57146814be16cdf019503ec65c45be4.jpg> デフレの中国 日本食チェーン人気
+      <a href=https://news.yahoo.co.jp/pickup/6539151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3c0280256b285c4e2772bbed737f12b626baf1e9dfff71e9eb02d853bb1f78b1.jpg> トランプコイン保有で招待 批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2c5743c8215bd0d872abde8163f609b8abf33c9edcff5cb57a4228b380a4bd54.jpg> 低迷オリオールズ 監督を電撃解任
+      <a href=https://news.yahoo.co.jp/pickup/6539152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/be5d032e2fae12806abb30d491871e17021def65bcb350d492ea8849ccb6de43.jpg> 横浜M低迷 選手「全部中途半端」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 08:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 09:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
