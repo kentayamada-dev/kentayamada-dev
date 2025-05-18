@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e5aa911500badf6536d99b494a73d4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/019fa621b77e43b9656dd82b2720121f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e05892d22027fd5bc071a6eccd9d3e31d5d37deb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180897-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> THE　SECOND優勝ツートライブ大阪凱旋ライブ「18年間、固くてまずかった」すぐ再上京
+      <a href=https://news.yahoo.co.jp/articles/fd3daae3784d56c33bd4838e009e79ecc0ddcde5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973460-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女性に付き添われ出頭…小学生ひき逃げ事件で中国籍の42歳男を逮捕「相手が大丈夫と言っていたのでその場から離れた」容疑一部否認　埼玉・三郷市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae259e7710141dbbdab30e6da09fac3ca81e056d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000032-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 小学生ひき逃げ事件で逮捕 中国籍の男、容疑を一部否認
+      <a href=https://news.yahoo.co.jp/articles/870f590153936d183f19c05464ccec97698fc6af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000068-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、「天下の吉本興業さん。東京から帰って来る新幹線がグリーン車でした」「THE SECOND」優勝から一夜明け
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/7457c5fde3b69dccdd17e6f891e8099b14ad99903838ec9847195e5ca84a2937.jpg> イスラエル ハマスと交渉再開
+      <a href=https://news.yahoo.co.jp/pickup/6539203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/7b29ea7b1abd58ecc3a2afef23659cff625b0f0908bf5e017c798f8445b7ef73.jpg> 内閣支持率が発足以降最低 毎日
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/3d03632c9b2579a56a3aa00e44b2cbea4a49fc875b67afe3c398869a9d82259a.jpg> 米の不妊治療施設で爆発 テロ断定
+      <a href=https://news.yahoo.co.jp/pickup/6539170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ef5d189510446d579792abe7c9d8235147605469f61fb972b0587ba4e1c1831a.jpg> 米価格巡るJAの広告が物議 解説
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 16:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 16:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
