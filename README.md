@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/019fa621b77e43b9656dd82b2720121f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f98f5455d7780a739a97f4871beab91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd3daae3784d56c33bd4838e009e79ecc0ddcde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00973460-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女性に付き添われ出頭…小学生ひき逃げ事件で中国籍の42歳男を逮捕「相手が大丈夫と言っていたのでその場から離れた」容疑一部否認　埼玉・三郷市
+      <a href=https://news.yahoo.co.jp/articles/f480d9b6c99a6bd0611ec3ffa7b7b56e239560c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21920964-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 47万人が「壊滅的飢餓」の危険性 トランプ氏が中東歴訪中にイスラエルがガザ全土を攻撃　人道支援物資の搬入は2ヶ月以上阻止【サンデーモーニング】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/870f590153936d183f19c05464ccec97698fc6af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000068-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、「天下の吉本興業さん。東京から帰って来る新幹線がグリーン車でした」「THE SECOND」優勝から一夜明け
+      <a href=https://news.yahoo.co.jp/articles/1897d680c12835792f0d0571f8ca439b699e85e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000114-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1808&ch=1808&exp=10800&fmt=webp> やり投げで異例の計測トラブル　日本陸連が説明「計測結果に疑義があると判断」一時首位のバハマ選手の好記録含め２人が試技やり直し　本人には説明　抗議なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7e0ca0c40edf4aed758204319ed6ea647d6a2d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00918060-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ザ・セカンド優勝のツートライブ「一生懸命やりたい」…結成１８年目、東京仕事へ意気込み
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9a2e94d90d622eb9d4d96d0ee994fdbab138437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010002-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 週の中ごろにかけ気温高く　関東では真夏日予想　熱中症に注意　気温の変化も大きく
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8621767b600957195912087521251e55f87f6b671b386f34046be4261b98e912.jpg> 日産 NV200の生産終了を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539205>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02213514/title-1747546139168.jpeg?exp=10800> ロシア派兵の効果 北朝鮮で顕在化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8d8689993764539099165c3207fc6f121daf1a5d8a161674d1925940f4e6d35a.jpg> ガソリン高い九州・沖縄 特有事情
+      <a href=https://news.yahoo.co.jp/pickup/6539202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8621767b600957195912087521251e55f87f6b671b386f34046be4261b98e912.jpg> 日産 NV200の生産終了を検討
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ef5d189510446d579792abe7c9d8235147605469f61fb972b0587ba4e1c1831a.jpg> 米価格巡るJAの広告が物議 解説
+      <a href=https://news.yahoo.co.jp/pickup/6539160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/db1bab43bb57c1959ba69ac9c590137185e4415babb2812343b83c0a09cd4d2c.jpg> 20代で視力失い 唄うたいの道歩む
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d228b61c1d6560385318b6a0dae197843137d32d87271edfacf57d240cb6ded9.jpg> 田中希実 1500m決勝で異例の挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6539204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e85d2d4fc624de689682aa9f06db8a0a205d1ad8e541cf09e1b72ebadc48f9.jpg> やり投げ女子 計測で珍トラブル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8d5b8ee98287464c1813cd023e9990be495b94c103b77763081a228d24414b84.jpg> 相撲で客がマナー違反 親方の思い
+      <a href=https://news.yahoo.co.jp/pickup/6539188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d228b61c1d6560385318b6a0dae197843137d32d87271edfacf57d240cb6ded9.jpg> 田中希実 1500m決勝で異例の挑戦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 16:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 17:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
