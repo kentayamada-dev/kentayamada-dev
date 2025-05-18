@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe894a7ab7ec41c24f69b235ea71bf34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a57112df51bb5a11dec574ee25dd0e8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c00781ad47acc3c1355f4a9d1e23c1d69e1f25d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233103-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 不妊治療クリニックが「標的」、爆発で1人死亡　米カリフォルニア州
+      <a href=https://news.yahoo.co.jp/articles/f9a2e94d90d622eb9d4d96d0ee994fdbab138437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 週の中ごろにかけ気温高く　関東では真夏日予想　熱中症に注意　気温の変化も大きく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f879964039597a9bdc3e4f3ee03520bfb8bc9abf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180361-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ツートライブ休演に祝福の声「こんな笑顔になる変更あらへんわ」
+      <a href=https://news.yahoo.co.jp/articles/e73489286bf9d0ba7eda26efc96bd23791eecfa6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00538065-theanswer-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍、投壊11失点に監督渋い顔「明らかに制球の問題が」直近5戦33失点、また救援1人IL入りへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/774db0609d72d16674114f8ffdaab9badc3735f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178972-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=972&ch=972&exp=10800&fmt=webp> タイトル戦では珍しい？藤井聡太名人は「つけ麺」を注文 永瀬九段は「すっぽん御膳」＆「勝ちエビたこ焼き」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c00781ad47acc3c1355f4a9d1e23c1d69e1f25d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35233103-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 不妊治療クリニックが「標的」、爆発で1人死亡　米カリフォルニア州
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d332f291809021ec1d016c90389eb551cb3e85d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000017-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第3打席は空振り三振　元同僚のアンダーソンから2三振　「大谷翔平の日」に〝2戦連発〟なるか
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/555708389e9800a6e36468ad0f068ec5a08f84097c467d007df9f54e3a12e622.jpg> 自民幹部 備蓄米の入札を問題視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/2ad590b4b31d5a0a48909b3bfacd9cbdd5607255d2addc4d9a18dfaed20f970e.jpg> 吉村氏 都構想の住民投票に意欲
+      <a href=https://news.yahoo.co.jp/pickup/6539192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0e654611538e1f44ea24fabff00b347e999e01b8170545b991e09fca4188f717.jpg> 食品消費税は5%が一案 公明代表
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/981a0b108b17e386ed8bb167f5a12720d24af9de320dc6eccdcb321391bcd785.jpg> 「大谷翔平記念日」大谷は6タコ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539179>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 14:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 15:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
