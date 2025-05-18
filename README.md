@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92629c90be511d0e620d54d464c14089.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02115aa472d2dab0b3186c0821d9330c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf6b0481970a3ff7aa341f418e2ee9328c4c312e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> バイデン前米大統領、前立腺がんと診断　骨に転移
+      <a href=https://news.yahoo.co.jp/articles/f6fac62d0856defb380cef66a43d7bff7f01eb7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-01756287-fullcount-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菊池雄星がアクシデント降板　6回途中1失点、初勝利の権利も…右足首を痛めたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/976d6891caae5fb462350ee06de27469824badc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973583-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「1日で140人以上が死亡」イスラエルが大規模地上侵攻を開始　1週間でハマス拠点670カ所以上空爆など攻撃強化
+      <a href=https://news.yahoo.co.jp/articles/d5218f3baf24eaa17372f9a87c4f1f142c475ca6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「ハマス・ガザ地区最高幹部、イスラエル空襲で死亡」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c06ad1a4d64fa6c13dcb168db0cae1ed5fe9a893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010001-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=132&cw=426&ch=426&exp=10800&fmt=webp> ドジャース先発ゴンソリン、初回に右手指出血アクシデント　続投も2被弾3失点　イェーツは負傷者リスト入り
+      <a href=https://news.yahoo.co.jp/articles/d558d18b10ee42582aef1c66222286eb8b96bb8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ゼレンスキー氏、口論のバンス米副大統領と会談　関係修復の狙いか
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da70c3317c2e74b7e93d23aa11c3a811e23e376f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 嵐・松本潤がTBS日曜劇場「19番目のカルテ」で主演、総合診療科の医師役
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f9b5b9dc07a78ad223c0a77be3987fae480f6d43ac77cea38b71e859e0591bc6.jpg> バイデン氏前立腺がん診断 転移も
+      <a href=https://news.yahoo.co.jp/pickup/6539253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4bdd9f224edbf61baf09b5bbeb34a4130a962c52b56604a53fec7e0f961273fa.jpg> ガザで地上侵攻 犠牲者増え続ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/8f7adbe71ede6c2435e2edc3a33bbb009dc595352db31302b7f8a9c42eefa448.jpg> イスラエル ガザに大規模地上侵攻
+      <a href=https://news.yahoo.co.jp/pickup/6539251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f9b5b9dc07a78ad223c0a77be3987fae480f6d43ac77cea38b71e859e0591bc6.jpg> バイデン氏前立腺がん診断 転移も
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/53f63ae216ca724dc506e892deb0e1f57638f383d624816d32f0017d0b44111b.jpg> ゆりやん「この体で生きていく」
+      <a href=https://news.yahoo.co.jp/pickup/6539252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/78df3c47257764739a9c5228d4ab8975f1b4b5b22343963ea421295df2494a8f.jpg> 松本潤 嵐の活動終了に言及
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 07:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 07:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
