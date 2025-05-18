@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4c6a0d5e97c3430489593f25e600f71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85d4bb93c235b34bc9c04bf6f03ed312.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d26259bbd2ac58e8b3c63d24b1e34f0ac0f4180>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21921049-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 逆走車が新名神高速の下り線に進入　停止した車2台と衝突して逃走　近くで起きた玉突き事故で4人軽傷　三重・亀山市
+      <a href=https://news.yahoo.co.jp/articles/e41de0b08fbee55dee1206c3a6a4f0ee931a3bd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-01578370-kyt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=963&ch=963&exp=10800&fmt=webp> 新名神高速で乗用車逆走、２台に衝突　近くで事故４人けが　三重県警が関連を捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/174b5a9379c77583aab6b9584f8c80b9ffbe96b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000351-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=900&ch=900&exp=10800&fmt=webp> THE　SECOND～漫才トーナメント　3代目王者・ツートライブが大阪凱旋
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e8f3c0af7167d40dfe06abc06879b8672049c30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ各地でイスラエル空爆、子ども含む33人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7e0ca0c40edf4aed758204319ed6ea647d6a2d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00918060-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ザ・セカンド優勝のツートライブ「一生懸命やりたい」…結成１８年目、東京仕事へ意気込み
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/88bc311e450e0dfea5272e3fd67110e79e7544e3773dfe5080747086419ae458.jpg> 東大前駅刺傷「母に金もらえず」
+      <a href=https://news.yahoo.co.jp/pickup/6539219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0f9e74ef7c33e46b555b9f9753b344db7ace56c1f50bee45f96cc6144d56352c.jpg> カンヌ映画祭 木倒れ日本人が重傷
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/c3a0ef018a40ce966073404f16775bf60e474c943170e7c0d699862c991796ea.jpg> 電話怖い若手社員 不安と責任感
+      <a href=https://news.yahoo.co.jp/pickup/6539211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/85a24d79bb6a14cc307853d1bf258e9b6d1e5ecd990d600eccf1149df727756e.jpg> ランドセル重い 通学ブルー対策は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f781b42e9ef1ee48741835a79927cc4af2f75206ebbaa67c76ab476f12b5b6bf.jpg> 誤算 2年ぶり4被弾で巨人逆転負け
+      <a href=https://news.yahoo.co.jp/pickup/6539216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f781b42e9ef1ee48741835a79927cc4af2f75206ebbaa67c76ab476f12b5b6bf.jpg> 巨人逆転負け まさかの1試合4被弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 18:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 19:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
