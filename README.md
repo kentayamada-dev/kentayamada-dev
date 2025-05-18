@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca2940f76a9a2e99465fd58d734dccd6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e14503f7e04bf34de1e72deece3ed527.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd208407966858677f696f1b1ea1b733ee62cb5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000056-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 新名神高速に逆走車 6台絡む多重事故も逃走中 「運転手外国人に見えた」目撃証言も
+      <a href=https://news.yahoo.co.jp/articles/cee16d595622ddb38961dafd3d4f017abcab8ff3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21921216-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠 名人戦3連覇は"持ち越し"に…永瀬拓矢九段が第4局で初勝利
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 03:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 03:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
