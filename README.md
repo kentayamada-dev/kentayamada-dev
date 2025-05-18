@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eef39b8045ee693b4fb5a3b26638a9cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e3126c961971b2e2daffb9e7099d233.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ba410562f97c224d7303adaa90d116bda227da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露、和平交渉の要求事項を提出へ　米長官「ウクライナも準備」　米露首脳が19日に電話会談
+      <a href=https://news.yahoo.co.jp/articles/7c47fbc80dbd4fae228a89c87ce2d81373989a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050150-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=380&ch=380&exp=10800&fmt=webp> 藤井聡太竜王が永瀬拓矢九段に敗れる…名人戦、第５局２９・３０日に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b98b5301e369ae248c60a9f30176310f560ede71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000106-kyodonews-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 中国、日米台欧に不当廉売関税　樹脂に最大74％
+      <a href=https://news.yahoo.co.jp/articles/50a8af0701bc6ac895b8131baf378d2b63703555>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米副大統領、ゼレンスキー氏と会談　2月の激しい口論以来
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/19a41c8ec34ccb69d30d4c1fe53d21e1b2605f484a710835b2fc54970da89369.jpg> 万博閉場 22時→23時に延長案
+      <a href=https://news.yahoo.co.jp/pickup/6539236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/1906472c87f32ccf8bc9fb7d7ee16f2a659a98e9cb252571689e114281f289fb.jpg> 米国で竜巻相次ぐ 30人超死亡
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/ef7b84ab8d6c60ca901e17c08c29e2d1c0912d0806ad2abc873e42bda1725c0c.jpg> 立ち耳=小顔効果 Z世代の新基準
+      <a href=https://news.yahoo.co.jp/pickup/6539230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/6751e398748c2d65cfc312fe0c7f63d478e788cf04fe8db09637ce896a9512f2.jpg> 結婚式も可 のぞみ号貸切実績↑
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 22:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 23:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
