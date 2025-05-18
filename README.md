@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9747e490f12de74e0691d18d5a2f4f89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9328805e6796be0fd4f86223086ba223.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af7f0cd4ca42db26ebece8de32c34d2d5a6ad224>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00010002-sporting-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 【MLB】大谷がキャリア初の4戦連発へ向け「1番・DH」で先発出場 カーショーも260日ぶりの登板 両チームのスタメンが発表
+      <a href=https://news.yahoo.co.jp/articles/69fa93b6c39a6d20b835816638b65b373a461f38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-05181030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「大谷翔平の日」　日本人初の４試合連続本塁打なるか　１打席目は元同僚に３球三振…カーショー初回３失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cd13f8dfe207c3bea63ddec027ccab733f6631d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-35180148-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> THE SECOND優勝のツートライブ「今まで僕らのことを…」「朝を迎え夢ではないと」
+      <a href=https://news.yahoo.co.jp/articles/0ae3bb4e90e9c7922b78782f5b9e642d862e7187>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00797753-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ツートライブ、『THE SECOND』優勝の要因　10年以上単独ライブを毎月開催「動じなくなった」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ特例貸付6割が滞納 厚労省
+      <a href=https://news.yahoo.co.jp/pickup/6539157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/228bcb3c772dfbb99c7f43e6803d17a7c80b95c2d0db653d81e13f2e3f097b7a.jpg> 自民・森山幹事長 参院選へ正念場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/e2f62afa5f5a06f4ec74d23232720ecbc4e79a44236f8990cbf17433e24cd8a6.jpg> 早期退職の募集人数 前年同期2倍
+      <a href=https://news.yahoo.co.jp/pickup/6539154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> コロナ特例貸付6割が滞納 厚労省
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 10:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 10:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
