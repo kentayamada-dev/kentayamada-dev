@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8cdfd7be4b71913deed859f380a2fa7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b70893b8e3bda63a7b08c2ded8d6349.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de41368e32d90292cbd7d04de6b55340e488e731>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 永瀬拓矢九段「次につながる」　名人戦初勝利　第4局指し直し局
+      <a href=https://news.yahoo.co.jp/articles/9fab18d66605191a52738e0de08516b5c9d898c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-05191017-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースにまたしてもアクシデントで騒然　先発右腕が先頭弾被弾＆右手から出血も続投
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ef994836a1602648045241e1de76752150f7d0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=666&ch=666&exp=10800&fmt=webp> ウクライナが対ロ制裁強化を要請　トランプ氏きょう電話会談へ
+      <a href=https://news.yahoo.co.jp/articles/17f2f50023a143fe20ae38deb142f136134da7e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000014-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 人質解放や武装解除を迫る狙いか　ガザ地上侵攻、停戦交渉で圧力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de41368e32d90292cbd7d04de6b55340e488e731>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 永瀬拓矢九段「次につながる」　名人戦初勝利　第4局指し直し局
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 05:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 05:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
