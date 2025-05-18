@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b26d4710b4fb6e81ce69e668ce5ea17.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eef39b8045ee693b4fb5a3b26638a9cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b98b5301e369ae248c60a9f30176310f560ede71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000106-kyodonews-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 中国、日米台欧に不当廉売関税　樹脂に最大74％
+      <a href=https://news.yahoo.co.jp/articles/74ba410562f97c224d7303adaa90d116bda227da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露、和平交渉の要求事項を提出へ　米長官「ウクライナも準備」　米露首脳が19日に電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/208d5660937ff9645a3eb671aa8e2bf76df7572e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000104-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 口論のバンス米副大統領と握手　ゼレンスキー氏、教皇就任ミサで
+      <a href=https://news.yahoo.co.jp/articles/b98b5301e369ae248c60a9f30176310f560ede71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000106-kyodonews-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 中国、日米台欧に不当廉売関税　樹脂に最大74％
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/5bf407541ecb81404608c301bcaa25dcf56932f1fb714d9779d9a21511d7fa70.jpg> 小泉氏 消費減税巡り現金給付提唱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539232>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0b70183061d75e70c5ceba5ccff7d2d8e58c58509094fb70e4013ef8eb7eff13.jpg> 埼玉ひき逃げ 運転の男は飲酒か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/0f9e74ef7c33e46b555b9f9753b344db7ace56c1f50bee45f96cc6144d56352c.jpg> カンヌ映画祭 木倒れ日本人が重傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/852e21a083fbc44bf0186428cfb3e90a1ace2b112805405bbc4cc0e8720e08c3.jpg> サイズなく新婦がっかり 社長思い
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/9cb2f5f0658a895a397819f65808d27fa09f913754dabb19046d4d7cb6cef9c8.jpg> 広島監督 阪神監督との遺恨に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/df9f090badc6d5449d535a87ea255c8d7e91ac66ce4e6a9566e81fd055f8bfdb.jpg> オリ太田椋 右手に死球受け病院へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f963440b7eade29c29d3d34ff7bd32abdeb2c9f2576fdf114849519b9d4c2166.jpg> 村上茉愛さん 性的コメントに思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 22:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 22:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
