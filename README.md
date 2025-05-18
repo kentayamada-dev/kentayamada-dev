@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bed78328ed5d037ddbc68bfe9a23ff9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1389dc0cb571f5d4a41a1b7d1b6c44ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/091f4a2390a4f0150c5c9603cbd4a3fbb4cec484>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-07237251-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア「永遠に戦争続ける」強硬姿勢の中、トランプ氏がプーチン氏と19日電話会談へ　ウクライナ停戦など協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/62379ea3d5093f26642023ba606a4c63a8c471c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00092080-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ヴィクトリアマイル】クイーンズウォークはクビ差惜敗も川田将雅「素晴らしい内容で走ってくれました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a324d269243649afcc9214624efc07113ba1d266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00096679-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「恥ずべき敗北だ」ドジャース、エンジェルスに本拠地で６年ぶりシリーズ負け越し…地元記者からと厳しい声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00096679-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「恥ずべき敗北だ」ドジャース、エンジェルスに本拠地で６年ぶりシリーズ負け越し…地元記者からも厳しい声
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2665601ced530f2d8141ff37606049a25072fc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029845-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 蒸し暑い日が多い　20日は関東から西の所々で30℃以上　熱中症予防のポイントとは
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/7b29ea7b1abd58ecc3a2afef23659cff625b0f0908bf5e017c798f8445b7ef73.jpg> 内閣支持率が発足以降最低 毎日
+      <a href=https://news.yahoo.co.jp/pickup/6539209>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハマス最高幹部が死亡か 海外報道
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e85d2d4fc624de689682aa9f06db8a0a205d1ad8e541cf09e1b72ebadc48f9.jpg> やり投げ女子 計測で珍トラブル
+      <a href=https://news.yahoo.co.jp/pickup/6539213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/f781b42e9ef1ee48741835a79927cc4af2f75206ebbaa67c76ab476f12b5b6bf.jpg> 誤算 2年ぶり4被弾で巨人逆転負け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/d228b61c1d6560385318b6a0dae197843137d32d87271edfacf57d240cb6ded9.jpg> 田中希実 1500m決勝で異例の挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6539204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/97e85d2d4fc624de689682aa9f06db8a0a205d1ad8e541cf09e1b72ebadc48f9.jpg> やり投げ女子 計測で珍トラブル
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 17:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 18:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
