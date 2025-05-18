@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f98f5455d7780a739a97f4871beab91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bed78328ed5d037ddbc68bfe9a23ff9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f480d9b6c99a6bd0611ec3ffa7b7b56e239560c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21920964-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 47万人が「壊滅的飢餓」の危険性 トランプ氏が中東歴訪中にイスラエルがガザ全土を攻撃　人道支援物資の搬入は2ヶ月以上阻止【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/a324d269243649afcc9214624efc07113ba1d266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00096679-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「恥ずべき敗北だ」ドジャース、エンジェルスに本拠地で６年ぶりシリーズ負け越し…地元記者からと厳しい声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1897d680c12835792f0d0571f8ca439b699e85e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000114-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1808&ch=1808&exp=10800&fmt=webp> やり投げで異例の計測トラブル　日本陸連が説明「計測結果に疑義があると判断」一時首位のバハマ選手の好記録含め２人が試技やり直し　本人には説明　抗議なし
+      <a href=https://news.yahoo.co.jp/articles/4e8f3c0af7167d40dfe06abc06879b8672049c30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000023-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ各地でイスラエル空爆、子ども含む33人死亡
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b36a3a02a220b4c4791fb1b4bee2f96aff6f7fa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-21920905-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=382&ch=382&exp=10800&fmt=webp> ドジャースの大谷翔平選手　日本人初の4試合連続HRならず　6打数ノーヒット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2b4661ec9e21132dd910072bd3d12d7c3cbeb78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-10178982-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新ローマ教皇・レオ14世、ロシアとウクライナの直接協議の場を提供へ
+      <a href=https://news.yahoo.co.jp/articles/a2665601ced530f2d8141ff37606049a25072fc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00029845-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 蒸し暑い日が多い　20日は関東から西の所々で30℃以上　熱中症予防のポイントとは
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/db1bab43bb57c1959ba69ac9c590137185e4415babb2812343b83c0a09cd4d2c.jpg> 20代で視力失い 唄うたいの道歩む
+      <a href=https://news.yahoo.co.jp/pickup/6539200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/18/c3a0ef018a40ce966073404f16775bf60e474c943170e7c0d699862c991796ea.jpg> 電話怖い若手社員 不安と責任感
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/18 17:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/18 17:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
