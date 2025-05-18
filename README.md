@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85c2a3a785afacd176e7935c08b83556.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca2940f76a9a2e99465fd58d734dccd6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c778d2e037ea4ba8683d2448c8921aec3184494>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237318-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領　米バンス副大統領らと会談　2月の口論以来
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76ec2c9e5345571c24eb8c35d2131287bed24b74>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000001-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍　ガザ地区で大規模な地上侵攻開始と発表
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cee16d595622ddb38961dafd3d4f017abcab8ff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21921216-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠 名人戦3連覇は"持ち越し"に…永瀬拓矢九段が第4局で初勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f276c2f41359df23677a33423387fff5f5e8df2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00050171-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=349&ch=349&exp=10800&fmt=webp> 口論して以来のバンス氏との会談、ゼレンスキー氏「全ての米国人の支援とリーダーシップに感謝」
+      <a href=https://news.yahoo.co.jp/articles/fd208407966858677f696f1b1ea1b733ee62cb5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250518-00000056-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 新名神高速に逆走車 6台絡む多重事故も逃走中 「運転手外国人に見えた」目撃証言も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 02:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 03:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
