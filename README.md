@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18c4626f05683be83090685c8d8a6cf3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa3776906366ff70cf849dd52a094d69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2edfcb40ab0817be772e439fdd9b05ee806c2a83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-01756429-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菊池雄星、負傷降板も軽症強調「次の試合は問題ない」…初勝利お預けも「手応えつかめた」
+      <a href=https://news.yahoo.co.jp/articles/07123ac2bb797068e4f3d57e21fa2be1565c2b3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00538333-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菊池雄星、大谷との雑談は「アンチエイジング、化粧水」の話　対戦で敬意「彼とジャッジは別のカテゴリー」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c20ca3e64de33c727c32ce831355c49ccf2a88a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000018-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ゼレンスキー大統領「バチカンがウクライナ－ロシア仲裁を約束」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a0e96d1421f80cea8d93a7658251b404ac01050>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973601-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【逃走中】新名神下りで乗用車が逆走し避けようとした車4台事故…ほかにも車2台に接触し走り去る　2区間約3時間にわたり通行止め　三重・亀山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ed0d0e644b1aacaf89b93e4a19fd9b7a852cc22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00096692-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が先輩・菊池雄星からタイムリーも...15年ぶりにドジャースがエンジェルスに“３タテ”くらう。菊池の初勝利はお預け
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539253>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4bdd9f224edbf61baf09b5bbeb34a4130a962c52b56604a53fec7e0f961273fa.jpg> ガザで地上侵攻 犠牲者増え続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f9b5b9dc07a78ad223c0a77be3987fae480f6d43ac77cea38b71e859e0591bc6.jpg> バイデン氏前立腺がん診断 転移も
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/91686a50403fa0c2f8fc3938fd0dc3f0189c235a34af7b905c42e003224af235.jpg> 15年ぶり珍事 ド軍がエ軍に3連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539260>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f6bdff6b8daf0c2d5ef26a24d74334fb65050249a9f5a63e27be7c2d1a03425c.jpg> 菊池雄星にアクシデント 負傷降板
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 09:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 09:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
