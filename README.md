@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f786de2bb41fc2220ed89c8537bafa2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/166e89701d57d4a1ce0d911403e0a8d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0d2ec38beec8c6531b6ac6f7bdbbdb85639d259>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973838-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生の列に車突っ込む　9歳男児含む小学生4人・運転手とみられる74歳女性が搬送　福岡・筑紫野市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa70c1c2b443fb26610fcd607a37f261b0022047>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237421-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ガザに罪のない人はいない」イスラエル境界で攻撃眺める市民　現地を取材
       </a>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2934016ea85242e5e368473c9668757f694588af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010013-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・閉場を午後11時までの延長案　横山市長「メトロは遅い時間の利用少ない‥余裕あるのではないか」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/857273a86e999a703ae1083b2f165aa45f4302bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21922630-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【大雨情報】再び21日（水）頃に⻄⽇本で「⼤⾬」か　雲が発達で「警報級の大雨」の恐れも【雨と風のシミュレーション・気象庁の最新気象情報】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/237ca8785defcb959baa163e2cac1564525901bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07937942-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 菊池雄星　6回途中1失点自己最多7奪三振の快投も今季初勝利はお預け　監督「彼の投球は素晴らしかった」
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/9290608a44c3242c6b49b7b3c3694b5601e209beb50e26c91c58d5a60b561d55.jpg> 露がウに最大規模のドローン攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6539297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/88a9ac3583c24349dd4294bc98addb07e0ca04ad06017aedee9281c1a3ab9c1c.jpg> 中国の反ダンピング関税 林氏反論
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/60b092160fde4160a022934471eb736299e96d5ce73d34ad27c1536fe7adc4a1.jpg> 人転落し男性巻き込まれたか 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/04968b9550087d33413f5f030eaaa6c6a1ac3625c7fdb5a2b3989a04e6ef4adc.jpg> 「車が小学生の列に」5人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5f8e8bff630286b1e5a9afe371e65c7b5ba2cf2aee97f256985d7467d815f831.jpg> 73歳の車が信金突っ込む 客がけが
+      <a href=https://news.yahoo.co.jp/pickup/6539300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/9f2f5b1f9075f33d589ec1a7fad8d1b035e197c19698eaff9ea39ab4976faae1.jpg> ランドセル高すぎ 中古求める親増
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 17:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 17:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
