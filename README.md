@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65d2abfdf26d5760726e4b79dd6e5f7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c825109e02cfc75bfb5ac98dca7a96e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fde4332f2bc6fb89dcf854791e5d0ab9280a58a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000016-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 二宮和也「貴重な経験ができました」カンヌ国際映画祭で上映
+      <a href=https://news.yahoo.co.jp/articles/edb1415c08edb8cc43e725b12ccd008a92e2c277>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農相「大いに反省し職務に励めと言われた」　官邸と首相で面会
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/11b959bee7479ba3a0e62f64881919567a93029383876dfa01095ef606620a97.jpg> 21～22日 太平洋側で大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6539308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/973c6e55c04da2794c66e08cb5a2f943d3cf9646cce959a40b1fa1004c60c0ff.jpg> 海保で欠員増 巡視船に海自OB
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539317>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/973c6e55c04da2794c66e08cb5a2f943d3cf9646cce959a40b1fa1004c60c0ff.jpg> 海保で欠員増 巡視船に海自OB
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/9f2f5b1f9075f33d589ec1a7fad8d1b035e197c19698eaff9ea39ab4976faae1.jpg> ランドセル高すぎ 中古求める親増
+      <a href=https://news.yahoo.co.jp/pickup/6539315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2bd59c98caa0fbfdc52ae159d62f7e85c5abd7303906178cb856a3bc7552d2b1.jpg> 会場停電 B2プレーオフ決勝中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c00c1ec504ecdd5570199f953a6eafc7132111c942cf8d8a1dabd04a94a36599.jpg> ギタリスト徳武弘文さん死去 73歳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 19:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 20:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
