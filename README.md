@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2feb70c6286702e54204c292a219a3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18dd78c2ecff3274cb1f858de1fc2200.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e68a4cc5997d46a7f00a53229a35a60d7158547>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050021-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=338&ch=338&exp=10800&fmt=webp> イスラエルが描くガザ支配構想、軍占領地域で住民避難地域を３分割か…最北端と最南端を完全に分離
+      <a href=https://news.yahoo.co.jp/articles/358754cf488951aa074246f1f96db8aa9df637b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=430&ch=430&exp=10800&fmt=webp> トランプ氏、プーチン氏と２時間電話で会談…「ロ・ウ終戦交渉、すぐに開始」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ba94d8a4555f7ba3a00e6612e702977469138b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233170-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ロシアとウクライナが「停戦交渉を直ちに開始」　トランプ氏、プーチン氏との電話会談受け
+      <a href=https://news.yahoo.co.jp/articles/198d1fd9a2b84dfbe5313f0e2b287b058359f193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-10179216-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> イスラエル、約2カ月半ぶりに支援物資搬入も ガザへの攻勢激化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1286fc766fec3b2a908005d1177be382e53246e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本製鉄　USスチールの買収“承認”で約2兆円の投資検討か
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a426541494d44d617e5ab95a98f804d69a37db40>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974176-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速の逆走事故でペルー人の男逮捕…車2台と衝突したまま逃走、逆走車を避けようと別の車に後続車が追突し計4代絡む事故に発展　4人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d210cc674329123c57f3d810b9e6c60c0ef26b87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01296090-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 週2回スーパーを訪れる江藤農水相が「コメ買ったことありません」発言で大炎上…消費者感情を“逆撫でする発言”の数々を振り返る
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8614b59a58cfb18d3f8824b5f3e82f8735b15cc457526496ac0944c67117b529.jpg> 東京 今夏の水道基本料無償化検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539338>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8f7d5bfe730a93e15a704391894ae68e263e7dd634dd564f7f17df910660e96b.jpg> 新名神事故 ペルー国籍の男逮捕
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/35048d98336a41ffb9f0b1a0d42da3ecf1f89b753fdc11be3ea2badb616bf0e0.jpg> 快挙 三笘薫がプレミアで2桁得点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539346>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ad050d8cd7f861f16f078669ed7ff191765e0c2b07693f824e1cf64ae6499684.jpg> 錦織圭が19歳新星に逆転勝ち
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 07:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 07:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
