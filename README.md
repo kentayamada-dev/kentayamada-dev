@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1769839aa13d2be377390a97e0eed96f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19d6904dd520c0acac48346840ebfee1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4724c010759e5b095a1659bce3b2837a340ac8e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏「露とウクライナ、戦争終結に向け交渉をただちに開始」…必要条件「直接交渉で決定」
+      <a href=https://news.yahoo.co.jp/articles/e3e002bfdd052587c7805a02e08a3aa492b6a03e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974174-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカとロシアの首脳による電話会談「非常に順調」トランプ大統領
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 03:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 04:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
