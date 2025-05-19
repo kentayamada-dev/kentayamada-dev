@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17f6b2d646ee64b57bb88948637e700d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62bc75470cf593c8d3b6f432d689fc30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19fcdb3c89bc6f6badfb54d431f6647d53f9269a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237560-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳が電話会談　プーチン氏「平和条約に関する覚書を提案の用意」
+      <a href=https://news.yahoo.co.jp/articles/a426541494d44d617e5ab95a98f804d69a37db40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974176-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神高速逆走　当て逃げの疑いでペルー国籍の男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2725163fdb6fe5473388c481318a36ea76ee04b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000012-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 中日、小山伸一郎コーチを当面の間、謹慎処分に　オンラインカジノ利用　球団本部長「チーム全体に周知徹底できてこなかったことを深く反省」
+      <a href=https://news.yahoo.co.jp/articles/d6f3d81ed4b325b426b221beff006f2684d56619>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974175-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「交渉を直ちに開始する」　米ロ首脳電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baa0c7fe7df81e454d99d5ef2e83e38e62282c0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030183-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神高速で逆走　ペルー国籍の男を道路交通法違反の疑いで逮捕
+      <a href=https://news.yahoo.co.jp/articles/d210cc674329123c57f3d810b9e6c60c0ef26b87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01296090-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 週2回スーパーを訪れる江藤農水相が「コメ買ったことありません」発言で大炎上…消費者感情を“逆撫でする発言”の数々を振り返る
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f4f84cae3840b670072c55a23c9458994df04508d7eda9cadf2881c1ddc8e8f2.jpg> トランプ氏 プーチン氏と電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6539342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e8658f9509bef51ee876b5347bb0cda47b504e856a23e979e94b9701fe29fc45.jpg> プーチン氏 即時停戦は応じず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2b69aeb7cd93ad04d05469a62d30c85096eca09889e1524f3a369adcc00717ae.jpg> 九電 次世代革新炉の開発目指す
+      <a href=https://news.yahoo.co.jp/pickup/6539344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c32b11c702ce6cbd55f2258cf8d6417627392606f689826bf1f9d35b7c56fd58.jpg> 2カ月半ぶり ガザに支援物資搬入
       </a>
     </td>
   </tr>
@@ -403,15 +403,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b96aa71cbbeeb7f71ec79639a58a71f3d061f972bd19ed5f673d2d3f254ab4d7.jpg> 新名神事故 ペルー国籍の男逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8f7d5bfe730a93e15a704391894ae68e263e7dd634dd564f7f17df910660e96b.jpg> 新名神事故 ペルー国籍の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2ffe2a2912e0a34e83eadf5c0b1a64caf3c32e2d15b542679f4518fc0d4fec75.jpg> 独禁法違反の恐れ NPBに警告へ
+      <a href=https://news.yahoo.co.jp/pickup/6539343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8614b59a58cfb18d3f8824b5f3e82f8735b15cc457526496ac0944c67117b529.jpg> 東京 今夏の水道基本料無償化検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/304d40a6453665b6fef0d193ee7eef3ff87cd8c23e49346903a725895333174e.jpg> TOEIC替え玉受験か 侵入疑い逮捕
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b8439f6aa92a0da567dcc12b1d4cd30c103f5d73c1489ddbbcf4ad77ed421d66.jpg> ハッピーセット買い占め 法的には
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b0c25d343a6ce70a626b049d7d45134471a1b1e63994f516e241b02955120878.jpg> 新体操 指導巡り強化本部長を注意
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 06:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 06:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
