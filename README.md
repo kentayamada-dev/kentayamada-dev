@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64eeacf9e22fbfd26ff32ea910e47b91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1769839aa13d2be377390a97e0eed96f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddc1711ad91889a340b616d7f47d6fce93e164cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050024-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=354&ch=354&exp=10800&fmt=webp> プーチン氏「ウクライナ側と協力する用意ある」…トランプ氏と２時間以上の電話会談
+      <a href=https://news.yahoo.co.jp/articles/4724c010759e5b095a1659bce3b2837a340ac8e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏「露とウクライナ、戦争終結に向け交渉をただちに開始」…必要条件「直接交渉で決定」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59db1b8ee96e9ab13556c83936393a8558544008>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90025264-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 逃げた車の行方は？警察が関係者に聴取…高速“逆走事故”で4人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4b78255b3b1e64137b7c448085d7dc0fd5caf44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=545&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大規模侵攻、200人死亡　ガザ制圧目指すとイスラエル首相
+      <a href=https://news.yahoo.co.jp/articles/baa0c7fe7df81e454d99d5ef2e83e38e62282c0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030183-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神高速で逆走　ペルー国籍の男を道路交通法違反の疑いで逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 03:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 03:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
