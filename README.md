@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9afd48136c71ec08fbfc1e2d908c8748.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6266b087c6964ee2c883f3b1d9122d8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bf51ae52e51c6268d86bf0818eda8c05717579b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間を22時→23時の延長案　大阪市など協会に提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f507936eebbcf7b8b105b2fa125ea08ff6c92f5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 事故後も10キロ以上逆走か、青い車？の行方捜査　新名神の逆走事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a036d66aae20f0a46ccdd17f4d946ada00ec792>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00096715-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャース、救援右腕イェーツがIL入り&右腕トリビーノとメジャー契約..昇格後すぐのエ軍戦に出場「２回を無失点に抑えた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/767f3dba487ff7cd2a4a4ca0a7d6ec20deb21c81>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ギデオンの戦車」作戦開始　ガザ地区全域に対する攻撃
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8aa5d17e8c5df2a365db50950a7cbde3d8e9261a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000029-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博閉場、午後11時へ1時間繰り下げ案　大阪府市が検討　夜間の来場促進図る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f06f44ecc5175e8b3e962513f99fd044ea2f72f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010011-mietvv-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神「車が逆走している」車など4台が絡む事故　三重・亀山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8bbd7f5312a8be0f756de5bcea08854f54f9863>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010011-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 菊池雄星が6回途中1失点の好投も初勝利はお預け…大谷翔平は3安打1打点の活躍！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a351e03d43e4e0cbc507674eeb717a4144292037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=146&cw=1200&ch=1200&exp=10800&fmt=webp> 永瀬九段が終盤の隙見逃さず逆転で１勝目　「藤井名人も人間なんだ」との声も　第83期名人戦七番勝負第４局
+      <a href=https://news.yahoo.co.jp/articles/05f836cb0cec3d474dd20ae5c07a1794d41de3f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190560-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=687&ch=687&exp=10800&fmt=webp> マクドナルド謝罪「マイクラ」「ちいかわ」セット早期終了「ご期待に添えず」転売も横行
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2df4f3b619b7f5a035e3b8cb0a0e099da3f72f71bc7034abff447901b04dd43f.jpg> 首相 1人千円の出国税見直す考え
+      <a href=https://news.yahoo.co.jp/pickup/6539269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/9290608a44c3242c6b49b7b3c3694b5601e209beb50e26c91c58d5a60b561d55.jpg> 露がウに最大規模のドローン攻撃
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/60b092160fde4160a022934471eb736299e96d5ce73d34ad27c1536fe7adc4a1.jpg> 人転落し男性巻き込まれたか 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539284>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/655267872ada289a52a2cf7269585c3870eaaafcc7c31efca880290179355d34.jpg> 吉野家 ラーメン売上高5倍目指す
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539286>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02212920/title-1747545195151.jpeg?exp=10800> 人生台無しにしない 怒りの扱い方
+      <a href=https://news.yahoo.co.jp/pickup/6539277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f4c5ad54700e1a29af69ea7dd9f30ae771e59dd010564806255cd7bdd07b8b58.jpg> ローソンが空白地で本販売 効果は
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb7d980153fb11e527d73223b743b24a346e71b5468d2f95c7863f773c6ba789.jpg> 永野芽郁 関係者は活動休止を否定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 14:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 14:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
