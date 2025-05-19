@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e217f0b363cae56d3b89b2f5909731fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cf40b8c5b9cf44baaa8be7c8b4f3cf6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61142c19609e24e8f0f8fcabaf138a9de26d02f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000088-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 二宮和也、初のカンヌに「貴重な経験」　主演映画「8番出口」2300人スタンディングオベーション　「温かく受け入れてもらえて良かった」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e87c4e7cbbaccecd4b5fb4c91f308441c6b58f8>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf4798f1b5f6f67e051ea8cdfe165ee21c2e843c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050130-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 江藤農相のコメ発言、石破首相が陳謝「任命権者として大変申し訳ない」…発言の経緯聞き取りへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d71bbb130c4185b8f4b2ae6feb42a1243fb65e19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000051-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 新名神高速で多重事故4人けが　逆走車どこへ？　新映像に足取りが
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000051-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 新名神高速で多重事故4人けが　逆走車どこへ？　新映像に足取りが
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2b69aeb7cd93ad04d05469a62d30c85096eca09889e1524f3a369adcc00717ae.jpg> 九州電力 原発新設の検討表明
+      <a href=https://news.yahoo.co.jp/pickup/6539312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/aa13c2c731b57e01331fd78c19205ae6bae028c7551400640133bea546a66a7b.jpg> 首相 農水相発言は「極めて問題」
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539303>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/11b959bee7479ba3a0e62f64881919567a93029383876dfa01095ef606620a97.jpg> 21～22日 太平洋側で大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2b69aeb7cd93ad04d05469a62d30c85096eca09889e1524f3a369adcc00717ae.jpg> 九州電力 原発新設の検討表明
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8d25fb4b579011a5dd6abcbaadc643c3ade86e58c8d0426074c3ebd262493871.jpg> SB石塚綜一郎 驚異の死球率1割超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539306>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4e58b220911aaa6591ab34a13097b18fae955a39ae596cb5c34a2d6d70cbfd1d.jpg> 永野芽郁のラジオ「ANNX」終了
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/68fe093fa8672accbdebbe4239b9ead6a559f80a5b6e5b4defe9562e951eab54.jpg> 二宮 初カンヌでの8分間に感無量
+      <a href=https://news.yahoo.co.jp/pickup/6539316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/68fe093fa8672accbdebbe4239b9ead6a559f80a5b6e5b4defe9562e951eab54.jpg> 二宮が感無量 初カンヌで客総立ち
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 18:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 18:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
