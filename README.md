@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ecc50c2e7db5c069fd02803e127a7c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ed665ef4af39a93492a6c16ff4d8bbd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed8d88e5f02d8a382e1679ec4c0981128d136eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル首相「我々はガザの全てを支配しようとしている」…ガザ戦闘再開以来、最大規模の攻撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050143-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル首相「我々はガザの全てを支配しようとしている」…ガザ戦闘再開以来、最大規模の攻撃
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0361dc8312f5ab1d610436440b9e4e82b1d4ed5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00051292-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> タワマンから男性転落　地上にいて接触した男性は千葉・市原市の５９歳と判明　大阪・北区
+      <a href=https://news.yahoo.co.jp/articles/b68cfc20ca74e86f1f0bb84e02e7830bcfd6bd5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000338-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁降板ANNX ニッポン放送19日深夜の放送　番組表は午後8時30分現在…フワちゃんの時は
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8cd95f8c76a613d704958bee14de9dc1354560b606dddbb664c94f856ef7dc2f.jpg> 小学生の列に車 操作を誤ったか
+      <a href=https://news.yahoo.co.jp/pickup/6539324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d7ef41ca3fd15087f7f03c00d322aea0082e132a52c7eee93fc904e812a52c32.jpg> 「静かな退職」若者を中心に拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d7ef41ca3fd15087f7f03c00d322aea0082e132a52c7eee93fc904e812a52c32.jpg> 「静かな退職」若者を中心に拡大
+      <a href=https://news.yahoo.co.jp/pickup/6539327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8ab9ba521bc4d49528d6829df4532daeb938bc146b8c3c72ae8b853a44a9ff07.jpg> 永野芽郁のラジオ 異例の早期降板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 21:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 22:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
