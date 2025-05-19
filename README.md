@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5a6d5314a808de0f15edd544bdab440.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/487ab88334705ee5707219320528686e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52f93780c43369d330045bc6f6150035f0217ea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-10529749-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=683&ch=683&exp=10800&fmt=webp> エンゼルス、ドジャースに15年ぶりスイープ成功　菊池雄星は6回途中1失点で負傷降板、今季10戦目も初白星ならず
+      <a href=https://news.yahoo.co.jp/articles/e574ddf0644392be04ae661c78a289a48015ee52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010004-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> ロバーツ監督「正直、分からない」救援左腕続投が裏目　エンゼルスに15年ぶり3タテ「勝つチャンスあった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31148e8f9105194174b48549ee68a0f813566859>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00798191-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』新たな相関図　豪と蘭子の関係性にネット注目「線で結ばれてない…」
+      <a href=https://news.yahoo.co.jp/articles/b10f74ff5bc70aef94f7c323f97f8241d2cc2952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000056-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「あんぱん」ばいきんまん降臨で、高まる真打ち登場への期待　ネットは「そろそろ？」【ネタバレ】
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 内閣支持率31%発足以降最低 読売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539264>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/44af1225582745db7b1399aa4141c5cf500035b467e42dacbaa729b4d8758aa7.jpg> ゼレンスキー氏 米副大統領と会談
       </a>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c09ff5770c64eb96ef600bfda39953ef8da3abc2bf50040a3706647cdf3e43a6.jpg> タイで息子が過労死 対策に母動く
+      <a href=https://news.yahoo.co.jp/pickup/6539259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 内閣支持率31%発足以降最低 読売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/299ba997e1e2a47178fe8d70e6f40a0b8b972628d0a5dbadbc9f3cdf08ba7bf4.jpg> 口座偽造し架空融資か いわき信組
+      <a href=https://news.yahoo.co.jp/pickup/6539255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/7be5fa9c9f8768784a821effa501f00f7b6dce4eb81e0721d2c9c357a88bbf26.jpg> 車バイオ燃料 28年度先行導入方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c09ff5770c64eb96ef600bfda39953ef8da3abc2bf50040a3706647cdf3e43a6.jpg> タイで息子が過労死 対策に母動く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 10:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 10:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
