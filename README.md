@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19d6904dd520c0acac48346840ebfee1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54a16ce0364eee410282b3e535cd97ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cab5020732a2edcf9f530c2f2e580d8337dd1cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000032-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁降板の大河ドラマ「豊臣兄弟！」　クランクイン遅れ、6月上旬から中旬以降にずれ込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3e002bfdd052587c7805a02e08a3aa492b6a03e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974174-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカとロシアの首脳による電話会談「非常に順調」トランプ大統領
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/baa0c7fe7df81e454d99d5ef2e83e38e62282c0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030183-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神高速で逆走　ペルー国籍の男を道路交通法違反の疑いで逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3922b6e835944c7a2a5a14deb2d8917f28b91f71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-02625813-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 公取委、日本野球機構に再発防止求める警告出す方針　フジテレビから日本シリーズの取材パス没収めぐり
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 04:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 04:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
