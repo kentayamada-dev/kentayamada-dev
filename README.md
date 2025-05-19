@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43ad67f6d3727689a7120eed1aba8d88.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cc15f310a8b2b509b308966f57e037b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bf51ae52e51c6268d86bf0818eda8c05717579b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間「午後11時の延長案」実現には「メトロ・各国などの理解が必要」大阪市など協会に提案
+      <a href=https://news.yahoo.co.jp/articles/49dddd1c1b27ab06568f8fd1d7bd3eeb4e02ca7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190699-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1175&ch=1175&exp=10800&fmt=webp> ノーノー早大・伊藤樹、令和初の快挙の裏に忘れられない夏の１敗　仙台育英・須江監督も感無量
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8182d136840af6bd94f35072f35eb7ff02d25ce4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050119-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 札幌ススキノの飲食店で「爆発音」、ジンギスカン店の窓ガラス割れ４人負傷
+      <a href=https://news.yahoo.co.jp/articles/0bf51ae52e51c6268d86bf0818eda8c05717579b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間「午後11時の延長案」実現には「メトロ・各国などの理解が必要」大阪市など協会に提案
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5df7f14f89991678d7b5b8db9ac25f8b70237ab693fcc11776fe826f14090f78.jpg> 関東は寒暖差大 明日は真夏日か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539273>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02214312/title-1747617833184.jpeg?exp=10800> 高温多湿の季節 食中毒の対策
       </a>
@@ -427,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/ea48c15e6f17fc34e01010f9cf7d4aca3c7cac4272cd3048b5ed40d06780aee3.jpg> コメ買ったことない発言 農相釈明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/1446d29fbaaf5abe47408ca7a7b75e710548a20633279d25df53f24ba881e7c2.jpg> コメ買ったことない発言 農相釈明
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f4c5ad54700e1a29af69ea7dd9f30ae771e59dd010564806255cd7bdd07b8b58.jpg> ローソンが空白地で本販売 効果は
+      <a href=https://news.yahoo.co.jp/pickup/6539299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/840eadd86b2da8e24036ea49710e13681e50d048234ea726a3ce76a8d1c4f355.jpg> 東京六大学でノーノー達成 令和初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/0145528f673010fba0ba902921f69f88dbc83652db5dd35e63def0fc729e2dbc.jpg> よしもと祇園花月 8/18に閉館
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 15:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 16:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
