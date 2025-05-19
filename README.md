@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f144c69900ac2cfd5954125f4b597ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22c9592564fcffcbd0c628fd028bdaf2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c781874092e930ab49ad9b559fec8d5cbd1a858>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-09279653-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重・新名神高速　逆走車運転か　ペルー国籍の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/75425ec2047fe36943dab3d43e70a22c6998179e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000191-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> 即時停戦で合意できず　米露首脳が電話会談　トランプ氏、停戦条件「当事者間で交渉」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3ef48518912a516282893931a37eeaa47e87326>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233174-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナ、ロシア支配地域からの部隊撤収に応じず　ゼレンスキー大統領が表明
+      <a href=https://news.yahoo.co.jp/articles/2e4e10984ff5439b4071288a7bd3d7cd765e8bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-isenp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=298&ch=298&exp=10800&fmt=webp> 逃走車10キロ以上逆走か　亀山の新名神逆走6台が巻き込み事故
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4754d5420ff45011e4abfac4042c5f7b26582852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 【速報】最高気温35度の予想　きょう埼玉・秩父で　今年初の猛暑日か　熊谷で34度、さいたまで32度　予想気温さらに上昇
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 【速報】最高気温35度の予想　きょう埼玉・秩父で　今年初の猛暑日か　熊谷で34度、さいたまで32度　予想気温さらに上昇
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 08:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 08:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
