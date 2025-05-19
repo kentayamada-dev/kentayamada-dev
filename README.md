@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa3776906366ff70cf849dd52a094d69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5a6d5314a808de0f15edd544bdab440.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07123ac2bb797068e4f3d57e21fa2be1565c2b3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00538333-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菊池雄星、大谷との雑談は「アンチエイジング、化粧水」の話　対戦で敬意「彼とジャッジは別のカテゴリー」
+      <a href=https://news.yahoo.co.jp/articles/52f93780c43369d330045bc6f6150035f0217ea9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-10529749-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=683&ch=683&exp=10800&fmt=webp> エンゼルス、ドジャースに15年ぶりスイープ成功　菊池雄星は6回途中1失点で負傷降板、今季10戦目も初白星ならず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c20ca3e64de33c727c32ce831355c49ccf2a88a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000018-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ゼレンスキー大統領「バチカンがウクライナ－ロシア仲裁を約束」
+      <a href=https://news.yahoo.co.jp/articles/31148e8f9105194174b48549ee68a0f813566859>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00798191-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』新たな相関図　豪と蘭子の関係性にネット注目「線で結ばれてない…」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4bdd9f224edbf61baf09b5bbeb34a4130a962c52b56604a53fec7e0f961273fa.jpg> ガザで地上侵攻 犠牲者増え続ける
+      <a href=https://news.yahoo.co.jp/pickup/6539264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/44af1225582745db7b1399aa4141c5cf500035b467e42dacbaa729b4d8758aa7.jpg> ゼレンスキー氏 米副大統領と会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c09ff5770c64eb96ef600bfda39953ef8da3abc2bf50040a3706647cdf3e43a6.jpg> タイで息子が過労死 対策に母動く
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539254>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/299ba997e1e2a47178fe8d70e6f40a0b8b972628d0a5dbadbc9f3cdf08ba7bf4.jpg> 口座偽造し架空融資か いわき信組
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/84f17623e0e5b63a48fe6c9c764c38e6f2cf8e6ec9b28e7c5c43aae7347e5335.jpg> 売春事件 高校生直面した過酷実態
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f6bdff6b8daf0c2d5ef26a24d74334fb65050249a9f5a63e27be7c2d1a03425c.jpg> 菊池雄星にアクシデント 負傷降板
+      <a href=https://news.yahoo.co.jp/pickup/6539265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/166bd1b8397dbc8e05111877dfec2073aba20eb17ec6e6529e2875b8fdfea525.jpg> 朝ドラ ばいきんまん声優が登場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 09:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 10:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
