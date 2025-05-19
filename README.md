@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c143fd9a2811c9a4dcaddbec0095225.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65d2abfdf26d5760726e4b79dd6e5f7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fde4332f2bc6fb89dcf854791e5d0ab9280a58a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000016-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 二宮和也「貴重な経験ができました」カンヌ国際映画祭で上映
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e61fa59a3d23264874d1b93a0b9f8c2bf3402ad9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> ガザ空爆で20人死亡、食料搬入再開の発表後
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfa4291af3dd89ae97cb51190ca71f28828913c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237467-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「わ、え、逆走」間一髪で車をかわす瞬間　新名神高速で乗用車が逆走　4人がけがをする多重事故も　三重・亀山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61142c19609e24e8f0f8fcabaf138a9de26d02f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000088-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 二宮和也、初のカンヌに「貴重な経験」　主演映画「8番出口」2300人スタンディングオベーション　「温かく受け入れてもらえて良かった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e87c4e7cbbaccecd4b5fb4c91f308441c6b58f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000056-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=361&ch=361&exp=10800&fmt=webp> イスラエルの硬軟両面戦術…地上作戦と人道支援の中でハマス圧迫
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237467-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「わ、え、逆走」間一髪で車をかわす瞬間　新名神高速で乗用車が逆走　4人がけがをする多重事故も　三重・亀山市
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/88a9ac3583c24349dd4294bc98addb07e0ca04ad06017aedee9281c1a3ab9c1c.jpg> 中国の反ダンピング関税 林氏反論
+      <a href=https://news.yahoo.co.jp/pickup/6539317>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/973c6e55c04da2794c66e08cb5a2f943d3cf9646cce959a40b1fa1004c60c0ff.jpg> 海保で欠員増 巡視船に海自OB
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/68fe093fa8672accbdebbe4239b9ead6a559f80a5b6e5b4defe9562e951eab54.jpg> 二宮が感無量 初カンヌで客総立ち
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 19:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 19:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
