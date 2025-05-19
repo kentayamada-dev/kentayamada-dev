@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6266b087c6964ee2c883f3b1d9122d8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17c5ebed9019949d6faab7b6e3c39cd2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bf51ae52e51c6268d86bf0818eda8c05717579b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間を22時→23時の延長案　大阪市など協会に提案
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間「午後11時の延長案」実現には「メトロ・各国などの理解が必要」大阪市など協会に提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8182d136840af6bd94f35072f35eb7ff02d25ce4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050119-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=303&ch=303&exp=10800&fmt=webp> 札幌ススキノの飲食店で「爆発音」、ジンギスカン店の窓ガラス割れ４人負傷
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f507936eebbcf7b8b105b2fa125ea08ff6c92f5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 事故後も10キロ以上逆走か、青い車？の行方捜査　新名神の逆走事故
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000029-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 事故後も10キロ以上逆走か、青い車？の行方捜査　新名神の逆走事故
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/767f3dba487ff7cd2a4a4ca0a7d6ec20deb21c81>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ギデオンの戦車」作戦開始　ガザ地区全域に対する攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05f836cb0cec3d474dd20ae5c07a1794d41de3f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190560-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=687&ch=687&exp=10800&fmt=webp> マクドナルド謝罪「マイクラ」「ちいかわ」セット早期終了「ご期待に添えず」転売も横行
       </a>
     </td>
   </tr>
@@ -419,15 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/6880d462cd17cb0ddbba834b261befeefc0c718ce0e4bcb00cb41e516fe34a19.jpg> コメ買ったことない発言 農相釈明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c7112adf0baf015a14dade0382e3d5fc834b071f3263b0b8126f48fe5e94c0e9.jpg> コメ買ったことない発言 農相釈明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/377cf30ca3f8573f4cfa0280eb7db93a4879918dc032818b56fffc16047f6300.jpg> 事故後も約10kmは逆走か 新名神
+      <a href=https://news.yahoo.co.jp/pickup/6539295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2e71c0517409435b34244e2c7d4a0fbab3a58abd4e4757b4831282ef8ca34947.jpg> 札幌のビル店舗で爆発 4人負傷
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/655267872ada289a52a2cf7269585c3870eaaafcc7c31efca880290179355d34.jpg> 吉野家 ラーメン売上高5倍目指す
+      <a href=https://news.yahoo.co.jp/pickup/6539293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b40be445e2c851beb4e0ed8ad624573c84ccbb242aa72984943bd597bc39e6e4.jpg> ハッピーセット「早期終了」発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 14:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 15:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
