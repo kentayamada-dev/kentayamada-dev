@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4df992b3f6d5c4f5fbe39a78b38bb235.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a17684d882cd5dbd97ac3292cdd9f4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46e9e7e65d7075710e274fc258b5de8589e7786a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90040440-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新名神高速で“逆走”か…運転していた34歳男を道交法違反容疑で逮捕「1台しかぶつかっていない」と一部否認
+      <a href=https://news.yahoo.co.jp/articles/1eb613e700e5a285eb4aba0f0d6ab2f1cc0ce2a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ガザ全域「制圧目指す」　ネタニヤフ首相が発言、ハマスへ揺さぶりか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cff3556fa76a85bf64481e23ab01034430d3816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、プーチン氏と電話会談　ゼレンスキー氏とも　ウクライナ和平について協議
+      <a href=https://news.yahoo.co.jp/articles/4d74d89258043d3d66a8e76b97417f9c153fcf96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050007-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 新名神高速の逆走事故、ペルー国籍の容疑者逮捕…「１台にしかぶつかっていない」と一部否認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbf582c48696502e0657913441f0ef03f87ccdbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザへの食料限定搬入、米から強い圧力か　再占領視野のイスラエル政権内では不評、曲折も
+      <a href=https://news.yahoo.co.jp/articles/a55ed6c4ba37b8bf46028630d961a60c4e56d4a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1137&ch=1137&exp=10800&fmt=webp> トランプ氏とプーチン氏が電話会談を開始、ホワイトハウスが確認
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f4f84cae3840b670072c55a23c9458994df04508d7eda9cadf2881c1ddc8e8f2.jpg> トランプ氏 プーチン氏と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539335>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2b69aeb7cd93ad04d05469a62d30c85096eca09889e1524f3a369adcc00717ae.jpg> 九電 次世代革新炉の開発目指す
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c4823ab7afc03d7a81aa532dcf529e3b46d5a3ef0fe7c1a1e802afd52b5b67dd.jpg> 夫婦別姓 今国会結論出ない見通し
+      <a href=https://news.yahoo.co.jp/pickup/6539338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b96aa71cbbeeb7f71ec79639a58a71f3d061f972bd19ed5f673d2d3f254ab4d7.jpg> 新名神事故 ペルー国籍の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b96aa71cbbeeb7f71ec79639a58a71f3d061f972bd19ed5f673d2d3f254ab4d7.jpg> 新名神事故 ペルー国籍の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2ffe2a2912e0a34e83eadf5c0b1a64caf3c32e2d15b542679f4518fc0d4fec75.jpg> 独禁法違反の恐れ NPBに警告へ
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d38b6a8900d58f257c9c25f69790d407e0362899414fd2c59d89660ecc07cb32.jpg> NPB 公取委の警告方針受け声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b0c25d343a6ce70a626b049d7d45134471a1b1e63994f516e241b02955120878.jpg> 新体操 指導巡り強化本部長を注意
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 00:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 01:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
