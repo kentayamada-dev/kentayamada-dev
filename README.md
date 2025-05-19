@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/166e89701d57d4a1ce0d911403e0a8d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e217f0b363cae56d3b89b2f5909731fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0d2ec38beec8c6531b6ac6f7bdbbdb85639d259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973838-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生の列に車突っ込む　9歳男児含む小学生4人・運転手とみられる74歳女性が搬送　福岡・筑紫野市
+      <a href=https://news.yahoo.co.jp/articles/8e87c4e7cbbaccecd4b5fb4c91f308441c6b58f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000056-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=361&ch=361&exp=10800&fmt=webp> イスラエルの硬軟両面戦術…地上作戦と人道支援の中でハマス圧迫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa70c1c2b443fb26610fcd607a37f261b0022047>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237421-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ガザに罪のない人はいない」イスラエル境界で攻撃眺める市民　現地を取材
+      <a href=https://news.yahoo.co.jp/articles/c12c56dec3362509ed2bcabcb22011de05107aff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 万博、閉場時間22時→23時へ繰り下げ案　実現には課題も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2934016ea85242e5e368473c9668757f694588af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010013-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・閉場を午後11時までの延長案　横山市長「メトロは遅い時間の利用少ない‥余裕あるのではないか」
+      <a href=https://news.yahoo.co.jp/articles/cf4798f1b5f6f67e051ea8cdfe165ee21c2e843c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050130-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 江藤農相のコメ発言、石破首相が陳謝「任命権者として大変申し訳ない」…発言の経緯聞き取りへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcc43d92b715541874d4e44888b5eba5d8cfd68e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-06868373-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神で逆走車が事故を起こし逃走中　遭遇した運転手が恐怖語る　三重・亀山市
+      <a href=https://news.yahoo.co.jp/articles/d71bbb130c4185b8f4b2ae6feb42a1243fb65e19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000051-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 新名神高速で多重事故4人けが　逆走車どこへ？　新映像に足取りが
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/11b959bee7479ba3a0e62f64881919567a93029383876dfa01095ef606620a97.jpg> 21～22日 太平洋側で大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539297>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/88a9ac3583c24349dd4294bc98addb07e0ca04ad06017aedee9281c1a3ab9c1c.jpg> 中国の反ダンピング関税 林氏反論
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/fb89f8ff998e9ae1ec62f6879cb5a301416f00c59bf521c0e431edae8e1be151.jpg> 維新「旧姓の通称使用」法案提出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/04968b9550087d33413f5f030eaaa6c6a1ac3625c7fdb5a2b3989a04e6ef4adc.jpg> 「車が小学生の列に」5人搬送
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d56b6cf0b3073073bcd2d3076bf880c0914438e6eb8317545a6b6345a09eb4ab.jpg> 「車が小学生の列に」5人搬送
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b40be445e2c851beb4e0ed8ad624573c84ccbb242aa72984943bd597bc39e6e4.jpg> ハッピーセット「早期終了」発表
+      <a href=https://news.yahoo.co.jp/pickup/6539309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8d25fb4b579011a5dd6abcbaadc643c3ade86e58c8d0426074c3ebd262493871.jpg> SB石塚綜一郎 驚異の死球率1割超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/840eadd86b2da8e24036ea49710e13681e50d048234ea726a3ce76a8d1c4f355.jpg> 東京六大学でノーノー達成 令和初
+      <a href=https://news.yahoo.co.jp/pickup/6539306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4e58b220911aaa6591ab34a13097b18fae955a39ae596cb5c34a2d6d70cbfd1d.jpg> 永野芽郁のラジオ「ANNX」終了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/0145528f673010fba0ba902921f69f88dbc83652db5dd35e63def0fc729e2dbc.jpg> よしもと祇園花月 8/18に閉館
+      <a href=https://news.yahoo.co.jp/pickup/6539311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/68fe093fa8672accbdebbe4239b9ead6a559f80a5b6e5b4defe9562e951eab54.jpg> 二宮 初カンヌでの8分間に感無量
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 17:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 18:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
