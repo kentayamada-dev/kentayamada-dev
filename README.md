@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18dd78c2ecff3274cb1f858de1fc2200.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f144c69900ac2cfd5954125f4b597ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/358754cf488951aa074246f1f96db8aa9df637b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=430&ch=430&exp=10800&fmt=webp> トランプ氏、プーチン氏と２時間電話で会談…「ロ・ウ終戦交渉、すぐに開始」
+      <a href=https://news.yahoo.co.jp/articles/6c781874092e930ab49ad9b559fec8d5cbd1a858>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-09279653-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重・新名神高速　逆走車運転か　ペルー国籍の男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3ef48518912a516282893931a37eeaa47e87326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233174-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ウクライナ、ロシア支配地域からの部隊撤収に応じず　ゼレンスキー大統領が表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4754d5420ff45011e4abfac4042c5f7b26582852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 【速報】最高気温35度の予想　きょう埼玉・秩父で　今年初の猛暑日か　熊谷で34度、さいたまで32度　予想気温さらに上昇
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1286fc766fec3b2a908005d1177be382e53246e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本製鉄　USスチールの買収“承認”で約2兆円の投資検討か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a426541494d44d617e5ab95a98f804d69a37db40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974176-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速の逆走事故でペルー人の男逮捕…車2台と衝突したまま逃走、逆走車を避けようと別の車に後続車が追突し計4代絡む事故に発展　4人けが
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e8658f9509bef51ee876b5347bb0cda47b504e856a23e979e94b9701fe29fc45.jpg> プーチン氏 即時停戦は応じず
+      <a href=https://news.yahoo.co.jp/pickup/6539352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e8658f9509bef51ee876b5347bb0cda47b504e856a23e979e94b9701fe29fc45.jpg> ウ停戦合意できず 米露電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c32b11c702ce6cbd55f2258cf8d6417627392606f689826bf1f9d35b7c56fd58.jpg> 2カ月半ぶり ガザに支援物資搬入
+      <a href=https://news.yahoo.co.jp/pickup/6539348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8ac22017bc533939c3ed8fa9ded5c3ef013a8fe8014bea593d9392b6a9ca8bf2.jpg> 「消した年金法案」立憲が批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02ab8ded160dc36988dfd50f88df3b17cb54fd4de334ae8aeeedbfe034fb4429.jpg> 35℃以上になる所も 熱中症注意
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8f7d5bfe730a93e15a704391894ae68e263e7dd634dd564f7f17df910660e96b.jpg> 新名神事故 ペルー国籍の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b1796e3d5492937556e92c3c33f3d94e5f557071ee59d7a9333ee51dbcb5ae32.jpg> 日鉄 USSに140億ドルの投資計画
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/0e7f5178fd30493c49f48cedf0c03839ae68ed560fbf8bc5fb77199e90ee9ae7.jpg> 日本駆け込み寺の事務局長を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/7e5b4dc93efa031b4a6d6bbed43f5f04f339462440f9eb361757d5170f843fcb.jpg> 猫型配膳ロボでシニア採用増 なぜ
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ad050d8cd7f861f16f078669ed7ff191765e0c2b07693f824e1cf64ae6499684.jpg> 錦織圭が19歳新星に逆転勝ち
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 07:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 08:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
