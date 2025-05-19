@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54a16ce0364eee410282b3e535cd97ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eee407e068b6d2ae3b4cde194ad6d7e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cab5020732a2edcf9f530c2f2e580d8337dd1cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000032-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁降板の大河ドラマ「豊臣兄弟！」　クランクイン遅れ、6月上旬から中旬以降にずれ込み
+      <a href=https://news.yahoo.co.jp/articles/198ed0f883155a3fb42837f0df9b9e006507bb60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 米ロ首脳、ウクライナ停戦時期協議せず＝ウシャコフ大統領補佐官
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3e002bfdd052587c7805a02e08a3aa492b6a03e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974174-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカとロシアの首脳による電話会談「非常に順調」トランプ大統領
+      <a href=https://news.yahoo.co.jp/articles/9cab5020732a2edcf9f530c2f2e580d8337dd1cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000032-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁降板の大河ドラマ「豊臣兄弟！」　クランクイン遅れ、6月上旬から中旬以降にずれ込み
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 04:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 05:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
