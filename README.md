@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eee407e068b6d2ae3b4cde194ad6d7e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bec4e47378b6d3c1569fee0b539871ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/198ed0f883155a3fb42837f0df9b9e006507bb60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 米ロ首脳、ウクライナ停戦時期協議せず＝ウシャコフ大統領補佐官
+      <a href=https://news.yahoo.co.jp/articles/0d445437740df1b452c3267b0694cb16fe76379d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00345202-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 永野芽郁「ＡＮＮ降板」の代償　不倫疑惑報道で山田裕貴とのコラボ企画とん挫、グッズ製作はお蔵入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cab5020732a2edcf9f530c2f2e580d8337dd1cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000032-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=970&ch=970&exp=10800&fmt=webp> 永野芽郁降板の大河ドラマ「豊臣兄弟！」　クランクイン遅れ、6月上旬から中旬以降にずれ込み
+      <a href=https://news.yahoo.co.jp/articles/0c5b37fc03a1790dd190001e699a24da174a8857>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000011-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=627&ch=627&exp=10800&fmt=webp> ロシア「平和条約へ覚書作成」　即時停戦は応じず
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 05:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 05:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
