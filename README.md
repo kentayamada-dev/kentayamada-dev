@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73eeaa65fd88796f92f1e8b96154caca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59b05327fb009fcab9848c24669a4012.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aec74a1baced260d84b555777eef8a47c53dd865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 新名神高速の逆走、ペルー国籍の男逮捕　2台に当て逃げした疑い
+      <a href=https://news.yahoo.co.jp/articles/fbd9dcdef0ec3047ed35f16c55ae3550770db82d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000000-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】三重・新名神高速道路で逆走し当て逃げの疑い　ペルー国籍の34歳の男を逮捕
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4b78255b3b1e64137b7c448085d7dc0fd5caf44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=545&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大規模侵攻、180人死亡　ガザ制圧目指すとイスラエル首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=545&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大規模侵攻、200人死亡　ガザ制圧目指すとイスラエル首相
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a55ed6c4ba37b8bf46028630d961a60c4e56d4a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1137&ch=1137&exp=10800&fmt=webp> トランプ氏とプーチン氏が電話会談を開始、ホワイトハウスが確認
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1137&ch=1137&exp=10800&fmt=webp> トランプ氏とプーチン氏が電話会談、米ロ当局が確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bec1b19a07cff55d1f2445fb098c430695a977f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 九電、次世代革新炉の設置検討　35年までの経営ビジョン発表
+      <a href=https://news.yahoo.co.jp/articles/3922b6e835944c7a2a5a14deb2d8917f28b91f71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-02625813-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 公取委、日本野球機構に再発防止求める警告出す方針　フジテレビから日本シリーズの取材パス没収めぐり
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 01:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 02:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
