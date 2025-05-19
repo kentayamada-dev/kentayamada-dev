@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8700597bf125037f98ea06cdf32f0ecd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4df992b3f6d5c4f5fbe39a78b38bb235.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5c4767f5b55f14490cf90a4cc4b5dbfbdd8dcf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050175-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 新名神高速、事故後も１０キロ逆走…車は群馬ナンバー
+      <a href=https://news.yahoo.co.jp/articles/46e9e7e65d7075710e274fc258b5de8589e7786a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90040440-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新名神高速で“逆走”か…運転していた34歳男を道交法違反容疑で逮捕「1台しかぶつかっていない」と一部否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7cff3556fa76a85bf64481e23ab01034430d3816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、プーチン氏と電話会談　ゼレンスキー氏とも　ウクライナ和平について協議
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb2b2f94f9b837fbf416eebbeaeedeedb0beee5d7ea7e8d7b8638654cb99efea.jpg> 証券口座乗っ取り被害者 頭真っ白
+      <a href=https://news.yahoo.co.jp/pickup/6539338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b96aa71cbbeeb7f71ec79639a58a71f3d061f972bd19ed5f673d2d3f254ab4d7.jpg> 新名神事故 ペルー国籍の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2ffe2a2912e0a34e83eadf5c0b1a64caf3c32e2d15b542679f4518fc0d4fec75.jpg> 独禁法違反の恐れ NPBに警告へ
+      <a href=https://news.yahoo.co.jp/pickup/6539332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb2b2f94f9b837fbf416eebbeaeedeedb0beee5d7ea7e8d7b8638654cb99efea.jpg> 証券口座乗っ取り被害者 頭真っ白
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/729edf27432cf431397a813b50458e74ea92263565dfefa07cde2a279800da22.jpg> 梅雨の季節カビ注意 今できる対策
+      <a href=https://news.yahoo.co.jp/pickup/6539331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b8439f6aa92a0da567dcc12b1d4cd30c103f5d73c1489ddbbcf4ad77ed421d66.jpg> ハッピーセット買い占め 法的には
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b8439f6aa92a0da567dcc12b1d4cd30c103f5d73c1489ddbbcf4ad77ed421d66.jpg> ハッピーセット買い占め 法的には
+      <a href=https://news.yahoo.co.jp/pickup/6539337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d38b6a8900d58f257c9c25f69790d407e0362899414fd2c59d89660ecc07cb32.jpg> NPB 公取委の警告方針受け声明
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 23:52:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 00:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
