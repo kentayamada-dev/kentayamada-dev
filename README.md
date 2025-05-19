@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bec4e47378b6d3c1569fee0b539871ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17f6b2d646ee64b57bb88948637e700d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d445437740df1b452c3267b0694cb16fe76379d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00345202-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 永野芽郁「ＡＮＮ降板」の代償　不倫疑惑報道で山田裕貴とのコラボ企画とん挫、グッズ製作はお蔵入り
+      <a href=https://news.yahoo.co.jp/articles/19fcdb3c89bc6f6badfb54d431f6647d53f9269a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237560-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳が電話会談　プーチン氏「平和条約に関する覚書を提案の用意」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c5b37fc03a1790dd190001e699a24da174a8857>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000011-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=627&ch=627&exp=10800&fmt=webp> ロシア「平和条約へ覚書作成」　即時停戦は応じず
+      <a href=https://news.yahoo.co.jp/articles/2725163fdb6fe5473388c481318a36ea76ee04b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000012-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 中日、小山伸一郎コーチを当面の間、謹慎処分に　オンラインカジノ利用　球団本部長「チーム全体に周知徹底できてこなかったことを深く反省」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 05:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 06:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
