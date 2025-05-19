@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c825109e02cfc75bfb5ac98dca7a96e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2981b926d45b60d6b1eb3bea3ad984c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edb1415c08edb8cc43e725b12ccd008a92e2c277>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農相「大いに反省し職務に励めと言われた」　官邸と首相で面会
+      <a href=https://news.yahoo.co.jp/articles/c02a61f3d70281baf45af6024e45bf2eedac738d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 新名神の逆走車は群馬ナンバー　下り線10キロ逆走→上り線進入か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e61fa59a3d23264874d1b93a0b9f8c2bf3402ad9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000098-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> ガザ空爆で20人死亡、食料搬入再開の発表後
+      <a href=https://news.yahoo.co.jp/articles/a235d14bd88f692eadec4c03994178590cc54a1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ガザ地上侵攻、180人以上死亡　ネタニヤフ首相「制圧目指す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfa4291af3dd89ae97cb51190ca71f28828913c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07237467-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「わ、え、逆走」間一髪で車をかわす瞬間　新名神高速で乗用車が逆走　4人がけがをする多重事故も　三重・亀山市
+      <a href=https://news.yahoo.co.jp/articles/b14e03df3cb6a8cb36571883bf26edc2f1975965>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 日産、神奈川2工場の閉鎖「決まっていない」　幹部否定も地元に不安
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539317>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
+      <a href=https://news.yahoo.co.jp/pickup/6539288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanagiharamika/02214132/title-1747617328173.jpeg?exp=10800> 飲酒運転と知りながら同乗 罰則は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d56b6cf0b3073073bcd2d3076bf880c0914438e6eb8317545a6b6345a09eb4ab.jpg> 「車が小学生の列に」5人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6539317>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 20:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 20:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
