@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/988ac1b37055c1737dc4d30ac96b2238.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9afd48136c71ec08fbfc1e2d908c8748.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/767f3dba487ff7cd2a4a4ca0a7d6ec20deb21c81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ギデオンの戦車」作戦開始　ガザ地区全域に対する攻撃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8aa5d17e8c5df2a365db50950a7cbde3d8e9261a>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a351706875423c5a2f833f579eadedf806b61cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35233122-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザで大規模な地上侵攻　一晩で１００人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1177fd1dd873847e4d98920d97b647f42669166b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000020-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 1000円の外国人“出国税”見直し『検討する』石破総理
+      <a href=https://news.yahoo.co.jp/articles/a351e03d43e4e0cbc507674eeb717a4144292037>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=146&cw=1200&ch=1200&exp=10800&fmt=webp> 永瀬九段が終盤の隙見逃さず逆転で１勝目　「藤井名人も人間なんだ」との声も　第83期名人戦七番勝負第４局
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/10f1a86c9daed24ce352af5c0bc1393f00d08be01724a615551fa3a370cb9a8f.jpg> まるで生き地獄 ガザ住民絶望の声
+      <a href=https://news.yahoo.co.jp/pickup/6539285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5df7f14f89991678d7b5b8db9ac25f8b70237ab693fcc11776fe826f14090f78.jpg> 関東は寒暖差大 明日は真夏日か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/e433c0e07cf794747ba0bfe37218d45391dc706822876404b844a807704f5d63.jpg> 農水相 私はコメを買ったことない
+      <a href=https://news.yahoo.co.jp/pickup/6539289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/6880d462cd17cb0ddbba834b261befeefc0c718ce0e4bcb00cb41e516fe34a19.jpg> コメ買ったことない発言 農相釈明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8afa7281e325e12207d9070e1ff7d0bb164b154097cfc4841c148fe4c16d1008.jpg> 大麻所持の疑い 15歳2人を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/377cf30ca3f8573f4cfa0280eb7db93a4879918dc032818b56fffc16047f6300.jpg> 事故後も約10kmは逆走か 新名神
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 13:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 14:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
