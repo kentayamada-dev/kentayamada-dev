@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62bc75470cf593c8d3b6f432d689fc30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2feb70c6286702e54204c292a219a3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a426541494d44d617e5ab95a98f804d69a37db40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974176-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神高速逆走　当て逃げの疑いでペルー国籍の男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/8e68a4cc5997d46a7f00a53229a35a60d7158547>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050021-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=338&ch=338&exp=10800&fmt=webp> イスラエルが描くガザ支配構想、軍占領地域で住民避難地域を３分割か…最北端と最南端を完全に分離
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6f3d81ed4b325b426b221beff006f2684d56619>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974175-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「交渉を直ちに開始する」　米ロ首脳電話会談
+      <a href=https://news.yahoo.co.jp/articles/9ba94d8a4555f7ba3a00e6612e702977469138b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233170-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ロシアとウクライナが「停戦交渉を直ちに開始」　トランプ氏、プーチン氏との電話会談受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a426541494d44d617e5ab95a98f804d69a37db40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974176-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速の逆走事故でペルー人の男逮捕…車2台と衝突したまま逃走、逆走車を避けようと別の車に後続車が追突し計4代絡む事故に発展　4人けが
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8f7d5bfe730a93e15a704391894ae68e263e7dd634dd564f7f17df910660e96b.jpg> 新名神事故 ペルー国籍の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8cbf1e00e967c323cbe4d177e0951f37d81658fb69d26405f94bbe6772f1c380.jpg> 農水相のコメ発言 憤る精米店
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/304d40a6453665b6fef0d193ee7eef3ff87cd8c23e49346903a725895333174e.jpg> TOEIC替え玉受験か 侵入疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8f7d5bfe730a93e15a704391894ae68e263e7dd634dd564f7f17df910660e96b.jpg> 新名神事故 ペルー国籍の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb2b2f94f9b837fbf416eebbeaeedeedb0beee5d7ea7e8d7b8638654cb99efea.jpg> 証券口座乗っ取り被害者 頭真っ白
+      <a href=https://news.yahoo.co.jp/pickup/6539340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/304d40a6453665b6fef0d193ee7eef3ff87cd8c23e49346903a725895333174e.jpg> TOEIC替え玉受験か 侵入疑い逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b0c25d343a6ce70a626b049d7d45134471a1b1e63994f516e241b02955120878.jpg> 新体操 指導巡り強化本部長を注意
+      <a href=https://news.yahoo.co.jp/pickup/6539346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ad050d8cd7f861f16f078669ed7ff191765e0c2b07693f824e1cf64ae6499684.jpg> 錦織圭が19歳新星に逆転勝ち
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 06:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 07:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
