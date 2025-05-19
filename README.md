@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5112b59c6fd993fbb286df3219cc8af3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87a172854dd460cbe3f86dd4443506b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5c4767f5b55f14490cf90a4cc4b5dbfbdd8dcf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050175-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 新名神高速、事故後も１０キロ逆走…車は群馬ナンバー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbf582c48696502e0657913441f0ef03f87ccdbd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザへの食料限定搬入、米から強い圧力か　再占領視野のイスラエル政権内では不評、曲折も
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24ba59662f34cb6317edfd6a0be5164ab8ba19bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000357-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 中日球団本部長「誠に遺憾」　小山コーチがオンカジ賭博で謹慎　「本人も球団としても反省」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83595edf4251cd23a1d4127b1426b925f1ab58e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-90040432-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走車はその後行方不明…年間200件発生する“高速道路の逆走” 動機の7割は「過失」か「認識なし」
+      <a href=https://news.yahoo.co.jp/articles/bec1b19a07cff55d1f2445fb098c430695a977f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 九電、次世代革新炉の設置検討　35年までの経営ビジョン発表
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27f79829acc9d2549b42926c573cd27058d13e4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナから小千谷市に避難している夫婦の思いは？ロシア・ウクライナの直接協議 停戦に期待？【新潟・小千谷市】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c12c56dec3362509ed2bcabcb22011de05107aff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 万博、閉場時間22時→23時へ繰り下げ案　実現には課題も
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/71dd2055ba069caad92070acca9bde31513d57308a6eca92bef8426fa29b4bf1.jpg> 農相がコメ発言撤回 辞職は否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539321>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/90e2024c932219b5d6b0d2686f8ab4c6dc5b9dade91f5ed7d2dbfa2e4db4b08f.jpg> 閉鎖検討の日産工場 従業員は不安
       </a>
@@ -428,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5fbf045ae987cf4af26e81566a94a818b847305e44deca4e1c7e357093276ee4.jpg> タワマン住民転落 直撃し男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/0e7f5178fd30493c49f48cedf0c03839ae68ed560fbf8bc5fb77199e90ee9ae7.jpg> 日本駆け込み寺の事務局長を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 22:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 23:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
