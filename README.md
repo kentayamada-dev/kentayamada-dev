@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4340b678ef1c36bccda86b961e30c67e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c6f9e6b4a955aa7e4150a618c6f350d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbf38549cbd022d8a4a14e3e953469aafef57720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190371-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> 石原良純、新名神逆走事故受け「止まらない方がいいんだろうな」高速道で遭遇時の対応に考え
+      <a href=https://news.yahoo.co.jp/articles/f06f44ecc5175e8b3e962513f99fd044ea2f72f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010011-mietvv-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神「車が逆走している」車など4台が絡む事故　三重・亀山市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8bbd7f5312a8be0f756de5bcea08854f54f9863>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010011-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 菊池雄星が6回途中1失点の好投も初勝利はお預け…大谷翔平は3安打1打点の活躍！
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19ace26311bcc917d4670120529458a6d673fdbb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00065779-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】閉場時間を午後１１時に延長？大阪府など検討　スタッフが終電に間に合わないなど課題も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44d3236890612cc02d2f41a7e9700779873d93a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010006-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1627&ch=1627&exp=10800&fmt=webp> 菊池雄星、大谷翔平2安打に心境複雑「さすがだな」「本塁打防げて良かった」　大谷とジャッジは“別格”「シングルヒットOK」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1177fd1dd873847e4d98920d97b647f42669166b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000020-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 1000円の外国人“出国税”見直し『検討する』石破総理
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000020-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 1000円の外国人“出国税”見直し『検討する』石破総理
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539279>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2df4f3b619b7f5a035e3b8cb0a0e099da3f72f71bc7034abff447901b04dd43f.jpg> 首相 1人千円の出国税見直す考え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/10f1a86c9daed24ce352af5c0bc1393f00d08be01724a615551fa3a370cb9a8f.jpg> まるで生き地獄 ガザ住民絶望の声
       </a>
     </td>
   </tr>
@@ -426,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/89425595a64a6659ac3262b47b88d4c8d1d2c11aa6bf72bd9702be7c6faaaf4f.jpg> 埼玉ひき逃げ 運転前に数時間飲酒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539275>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8afa7281e325e12207d9070e1ff7d0bb164b154097cfc4841c148fe4c16d1008.jpg> 大麻所持の疑い 15歳2人を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c694b818c6b20d09c163b2b3d6e3a5d7ac095f6809112560c11015a2753ef41f.jpg> 菊池雄星 負傷降板も軽傷を強調
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/89425595a64a6659ac3262b47b88d4c8d1d2c11aa6bf72bd9702be7c6faaaf4f.jpg> 埼玉ひき逃げ 運転前に数時間飲酒
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 12:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 13:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
