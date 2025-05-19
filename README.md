@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2981b926d45b60d6b1eb3bea3ad984c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91177803cbb2264f508b57cff40b7b52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a26d67fcedfe8d298871d59c1d3dcdbaa55d6f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000100-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザへの食料搬入再開　対ハマス攻撃は強化　イスラエル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0361dc8312f5ab1d610436440b9e4e82b1d4ed5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00051292-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> タワマンから男性転落　地上にいて接触した男性は千葉・市原市の５９歳と判明　大阪・北区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c02a61f3d70281baf45af6024e45bf2eedac738d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 新名神の逆走車は群馬ナンバー　下り線10キロ逆走→上り線進入か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a235d14bd88f692eadec4c03994178590cc54a1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ガザ地上侵攻、180人以上死亡　ネタニヤフ首相「制圧目指す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b14e03df3cb6a8cb36571883bf26edc2f1975965>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 日産、神奈川2工場の閉鎖「決まっていない」　幹部否定も地元に不安
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/aa13c2c731b57e01331fd78c19205ae6bae028c7551400640133bea546a66a7b.jpg> 首相 農水相発言は「極めて問題」
+      <a href=https://news.yahoo.co.jp/pickup/6539319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/71dd2055ba069caad92070acca9bde31513d57308a6eca92bef8426fa29b4bf1.jpg> 農相がコメ発言撤回 辞職は否定
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539288>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanagiharamika/02214132/title-1747617328173.jpeg?exp=10800> 飲酒運転と知りながら同乗 罰則は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539317>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
       </a>
@@ -426,16 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/179ded797a031eabbe7fa48fef07434909e7dadf1e34c298302680a617de7e97.jpg> スーパーのコメ価格 再び値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6539288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanagiharamika/02214132/title-1747617328173.jpeg?exp=10800> 飲酒運転と知りながら同乗 罰則は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2bd59c98caa0fbfdc52ae159d62f7e85c5abd7303906178cb856a3bc7552d2b1.jpg> 会場停電 B2プレーオフ決勝中止
+      <a href=https://news.yahoo.co.jp/pickup/6539325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5fbf045ae987cf4af26e81566a94a818b847305e44deca4e1c7e357093276ee4.jpg> タワマン住民転落 直撃し男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8cd95f8c76a613d704958bee14de9dc1354560b606dddbb664c94f856ef7dc2f.jpg> 小学生の列に車 操作を誤ったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/d7ef41ca3fd15087f7f03c00d322aea0082e132a52c7eee93fc904e812a52c32.jpg> 「静かな退職」若者を中心に拡大
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/4e58b220911aaa6591ab34a13097b18fae955a39ae596cb5c34a2d6d70cbfd1d.jpg> 永野芽郁のラジオ「ANNX」終了
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 20:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 21:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
