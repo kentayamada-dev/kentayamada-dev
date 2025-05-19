@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59b05327fb009fcab9848c24669a4012.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc8acb92ad69c281bca13d19fc74a80e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbd9dcdef0ec3047ed35f16c55ae3550770db82d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000000-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】三重・新名神高速道路で逆走し当て逃げの疑い　ペルー国籍の34歳の男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/59db1b8ee96e9ab13556c83936393a8558544008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90025264-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 逃げた車の行方は？警察が関係者に聴取…高速“逆走事故”で4人けが
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a55ed6c4ba37b8bf46028630d961a60c4e56d4a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1137&ch=1137&exp=10800&fmt=webp> トランプ氏とプーチン氏が電話会談、米ロ当局が確認
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-reut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1137&ch=1137&exp=10800&fmt=webp> 米ロ首脳の電話会談終了、プーチン氏「和平交渉の覚書巡り協力の用意」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 02:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 02:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
