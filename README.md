@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ba42648861d1c998087abac8c12962b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4340b678ef1c36bccda86b961e30c67e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/880e88cc7856c17bcb62e824aa04d15282dd83f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000023-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 事故後も約10kmは逆走か　新名神 逆走車で多重事故
+      <a href=https://news.yahoo.co.jp/articles/fbf38549cbd022d8a4a14e3e953469aafef57720>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190371-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> 石原良純、新名神逆走事故受け「止まらない方がいいんだろうな」高速道で遭遇時の対応に考え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19ace26311bcc917d4670120529458a6d673fdbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00065779-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】閉場時間を午後１１時に延長？大阪府など検討　スタッフが終電に間に合わないなど課題も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44d3236890612cc02d2f41a7e9700779873d93a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010006-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1627&ch=1627&exp=10800&fmt=webp> 菊池雄星、大谷翔平2安打に心境複雑「さすがだな」「本塁打防げて良かった」　大谷とジャッジは“別格”「シングルヒットOK」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5379268d08bb7067dba8d1bd8758a7f54b4a6fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00051277-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【万博】午後１１時までの開場１時間延長案が浮上　”高額”パークアンドライドでは・・・利用者１人増につき段階的値下げ案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73ddbcf00f4024c1b6e078b8ed93c37ec6e89e49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-04287423-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逮捕の男ら、事件前数時間にわたり飲酒か　三郷小学生ひき逃げ　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e574ddf0644392be04ae661c78a289a48015ee52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010004-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> ロバーツ監督「正直、分からない」救援左腕続投が裏目　エンゼルスに15年ぶり3タテ「勝つチャンスあった」
+      <a href=https://news.yahoo.co.jp/articles/1177fd1dd873847e4d98920d97b647f42669166b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000020-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 1000円の外国人“出国税”見直し『検討する』石破総理
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f417cbf2647a928fe658b1a9058b9f7cee41a6022464a65dfd71fc39f3f313b3.jpg> トランプ関税 米国民の暮らし圧迫
+      <a href=https://news.yahoo.co.jp/pickup/6539279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2df4f3b619b7f5a035e3b8cb0a0e099da3f72f71bc7034abff447901b04dd43f.jpg> 首相 1人千円の出国税見直す考え
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb7d980153fb11e527d73223b743b24a346e71b5468d2f95c7863f773c6ba789.jpg> 永野芽郁 関係者は活動休止を否定
+      <a href=https://news.yahoo.co.jp/pickup/6539280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/fe888072182371bc9838251c7cb45a1a942e161f4509d5b7f3491dc8a2d10059.jpg> 山田まりや 夫との別居を明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/166bd1b8397dbc8e05111877dfec2073aba20eb17ec6e6529e2875b8fdfea525.jpg> 朝ドラ ばいきんまん声優が登場
+      <a href=https://news.yahoo.co.jp/pickup/6539270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb7d980153fb11e527d73223b743b24a346e71b5468d2f95c7863f773c6ba789.jpg> 永野芽郁 関係者は活動休止を否定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 12:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 12:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
