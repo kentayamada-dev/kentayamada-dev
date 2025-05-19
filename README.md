@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91177803cbb2264f508b57cff40b7b52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ecc50c2e7db5c069fd02803e127a7c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a26d67fcedfe8d298871d59c1d3dcdbaa55d6f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000100-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザへの食料搬入再開　対ハマス攻撃は強化　イスラエル
+      <a href=https://news.yahoo.co.jp/articles/ed8d88e5f02d8a382e1679ec4c0981128d136eca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル首相「我々はガザの全てを支配しようとしている」…ガザ戦闘再開以来、最大規模の攻撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83595edf4251cd23a1d4127b1426b925f1ab58e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-90040432-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走車はその後行方不明…年間200件発生する“高速道路の逆走” 動機の7割は「過失」か「認識なし」
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c02a61f3d70281baf45af6024e45bf2eedac738d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 新名神の逆走車は群馬ナンバー　下り線10キロ逆走→上り線進入か
+      <a href=https://news.yahoo.co.jp/articles/27f79829acc9d2549b42926c573cd27058d13e4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナから小千谷市に避難している夫婦の思いは？ロシア・ウクライナの直接協議 停戦に期待？【新潟・小千谷市】
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/7f28990892dca83c6cd0c2b790855fd1cf2b9b99753c8c6f018029b3588140df.jpg> トランプ氏 露に譲歩迫る考えか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539319>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/71dd2055ba069caad92070acca9bde31513d57308a6eca92bef8426fa29b4bf1.jpg> 農相がコメ発言撤回 辞職は否定
       </a>
@@ -404,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539308>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/973c6e55c04da2794c66e08cb5a2f943d3cf9646cce959a40b1fa1004c60c0ff.jpg> 海保で欠員増 巡視船に海自OB
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539317>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トヨタG 豊田織機にTOB実施へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 21:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 21:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
