@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cc15f310a8b2b509b308966f57e037b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc80a4638cdc9fe7483eabc1bcb21122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49dddd1c1b27ab06568f8fd1d7bd3eeb4e02ca7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35190699-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1175&ch=1175&exp=10800&fmt=webp> ノーノー早大・伊藤樹、令和初の快挙の裏に忘れられない夏の１敗　仙台育英・須江監督も感無量
+      <a href=https://news.yahoo.co.jp/articles/2934016ea85242e5e368473c9668757f694588af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010013-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・閉場を午後11時までの延長案　横山市長「メトロは遅い時間の利用少ない‥余裕あるのではないか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bf51ae52e51c6268d86bf0818eda8c05717579b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010010-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】横山市長「夜の部をより有効活用の必要がある」万博の閉場時間「午後11時の延長案」実現には「メトロ・各国などの理解が必要」大阪市など協会に提案
+      <a href=https://news.yahoo.co.jp/articles/237ca8785defcb959baa163e2cac1564525901bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-07937942-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 菊池雄星　6回途中1失点自己最多7奪三振の快投も今季初勝利はお預け　監督「彼の投球は素晴らしかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f507936eebbcf7b8b105b2fa125ea08ff6c92f5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000029-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 事故後も10キロ以上逆走か、青い車？の行方捜査　新名神の逆走事故
+      <a href=https://news.yahoo.co.jp/articles/fcc43d92b715541874d4e44888b5eba5d8cfd68e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-06868373-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神で逆走車が事故を起こし逃走中　遭遇した運転手が恐怖語る　三重・亀山市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a036d66aae20f0a46ccdd17f4d946ada00ec792>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00096715-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャース、救援右腕イェーツがIL入り&右腕トリビーノとメジャー契約..昇格後すぐのエ軍戦に出場「２回を無失点に抑えた」
+      <a href=https://news.yahoo.co.jp/articles/3bdb075855a1c78583a501d16265ca434f909ba2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-21922460-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「バックギアを入れる前にアクセルを踏んでしまった」73歳女性運転の軽乗用車が信用金庫に突っ込む　2人病院に搬送
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02214312/title-1747617833184.jpeg?exp=10800> 高温多湿の季節 食中毒の対策
+      <a href=https://news.yahoo.co.jp/pickup/6539291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/fb89f8ff998e9ae1ec62f6879cb5a301416f00c59bf521c0e431edae8e1be151.jpg> 維新「旧姓の通称使用」法案提出
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2e71c0517409435b34244e2c7d4a0fbab3a58abd4e4757b4831282ef8ca34947.jpg> 札幌のビル店舗で爆発 4人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6539292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/60b092160fde4160a022934471eb736299e96d5ce73d34ad27c1536fe7adc4a1.jpg> 人転落し男性巻き込まれたか 死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/60b092160fde4160a022934471eb736299e96d5ce73d34ad27c1536fe7adc4a1.jpg> 人転落し男性巻き込まれたか 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/5f8e8bff630286b1e5a9afe371e65c7b5ba2cf2aee97f256985d7467d815f831.jpg> 73歳の車が信金突っ込む 客がけが
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 16:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 16:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
