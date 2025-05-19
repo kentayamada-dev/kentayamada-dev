@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87a172854dd460cbe3f86dd4443506b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63eac0f16a5d390cf37a5e32219425e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bec1b19a07cff55d1f2445fb098c430695a977f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 九電、次世代革新炉の設置検討　35年までの経営ビジョン発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27f79829acc9d2549b42926c573cd27058d13e4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000009-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナから小千谷市に避難している夫婦の思いは？ロシア・ウクライナの直接協議 停戦に期待？【新潟・小千谷市】
+      <a href=https://news.yahoo.co.jp/articles/d232aa8efb0d238a4630616ee238515a8328ff20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00974121-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 証券口座乗っ取り被害急増　不正売買は約3000億円にも…乗っ取られた被害者「頭が真っ白に」　タイミングよく売却し約200万円の利益が出た被害者も
       </a>
     </td>
   </tr>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/90e2024c932219b5d6b0d2686f8ab4c6dc5b9dade91f5ed7d2dbfa2e4db4b08f.jpg> 閉鎖検討の日産工場 従業員は不安
+      <a href=https://news.yahoo.co.jp/pickup/6539332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb2b2f94f9b837fbf416eebbeaeedeedb0beee5d7ea7e8d7b8638654cb99efea.jpg> 証券口座乗っ取り被害者 頭真っ白
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/2ffe2a2912e0a34e83eadf5c0b1a64caf3c32e2d15b542679f4518fc0d4fec75.jpg> 独禁法違反の恐れ NPBに警告へ
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/729edf27432cf431397a813b50458e74ea92263565dfefa07cde2a279800da22.jpg> 梅雨の季節カビ注意 今できる対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539331>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/b8439f6aa92a0da567dcc12b1d4cd30c103f5d73c1489ddbbcf4ad77ed421d66.jpg> ハッピーセット買い占め 法的には
       </a>
@@ -440,27 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/07aa622d0f8effe7b38a8eb75274634a270165cf8d7a8cba1ea16afc623fba0b.jpg> ネットカジノ 中日小山コーチ謹慎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8ab9ba521bc4d49528d6829df4532daeb938bc146b8c3c72ae8b853a44a9ff07.jpg> 永野芽郁のラジオ 異例の早期降板
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 23:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 23:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
