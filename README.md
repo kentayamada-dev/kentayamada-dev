@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a17684d882cd5dbd97ac3292cdd9f4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73eeaa65fd88796f92f1e8b96154caca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1eb613e700e5a285eb4aba0f0d6ab2f1cc0ce2a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000001-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ガザ全域「制圧目指す」　ネタニヤフ首相が発言、ハマスへ揺さぶりか
+      <a href=https://news.yahoo.co.jp/articles/aec74a1baced260d84b555777eef8a47c53dd865>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 新名神高速の逆走、ペルー国籍の男逮捕　2台に当て逃げした疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d74d89258043d3d66a8e76b97417f9c153fcf96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050007-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 新名神高速の逆走事故、ペルー国籍の容疑者逮捕…「１台にしかぶつかっていない」と一部否認
+      <a href=https://news.yahoo.co.jp/articles/b4b78255b3b1e64137b7c448085d7dc0fd5caf44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=545&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大規模侵攻、180人死亡　ガザ制圧目指すとイスラエル首相
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d232aa8efb0d238a4630616ee238515a8328ff20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00974121-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 証券口座乗っ取り被害急増　不正売買は約3000億円にも…乗っ取られた被害者「頭が真っ白に」　タイミングよく売却し約200万円の利益が出た被害者も
+      <a href=https://news.yahoo.co.jp/articles/bec1b19a07cff55d1f2445fb098c430695a977f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 九電、次世代革新炉の設置検討　35年までの経営ビジョン発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 01:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 01:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
