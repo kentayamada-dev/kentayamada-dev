@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2d4df6281107509fceaf0ae67cdc38c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa881e6cbdb1d50d2d4ddf0eebdc9fad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c551995ae38725534062afd5990d1d02545b859e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000059-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 「コメ買ったことない」と農相　佐賀市で18日講演
+      <a href=https://news.yahoo.co.jp/articles/0f12879660fe7dd3dbb5bde625aadd58a4bb69c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-90026498-ohk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「自分で吸うために持っていた」丸亀市で中学生の１５歳少年ら２人を大麻草所持疑いで逮捕【香川】
       </a>
     </td>
   </tr>
@@ -392,14 +392,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/44af1225582745db7b1399aa4141c5cf500035b467e42dacbaa729b4d8758aa7.jpg> ゼレンスキー氏 米副大統領と会談
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539263>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/166bd1b8397dbc8e05111877dfec2073aba20eb17ec6e6529e2875b8fdfea525.jpg> 朝ドラ ばいきんまん声優が登場
+      <a href=https://news.yahoo.co.jp/pickup/6539274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c694b818c6b20d09c163b2b3d6e3a5d7ac095f6809112560c11015a2753ef41f.jpg> 菊池雄星 負傷降板も軽傷を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/dee79d1e98e2be1525e946bc96722d6d6306849d2ca2b69d2b2026e5875a0849.jpg> 永野芽郁 来年の大河ドラマを降板
+      <a href=https://news.yahoo.co.jp/pickup/6539270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/eb7d980153fb11e527d73223b743b24a346e71b5468d2f95c7863f773c6ba789.jpg> 永野芽郁 関係者は活動休止を否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/166bd1b8397dbc8e05111877dfec2073aba20eb17ec6e6529e2875b8fdfea525.jpg> 朝ドラ ばいきんまん声優が登場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 11:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 11:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
