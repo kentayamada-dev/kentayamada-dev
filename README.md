@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/487ab88334705ee5707219320528686e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d4df6281107509fceaf0ae67cdc38c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c551995ae38725534062afd5990d1d02545b859e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000059-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 「コメ買ったことない」と農相　佐賀市で18日講演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce02cea42e95c19318ff512ae47add8998c3357c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザで大規模地上作戦を開始、1週間で500人近く死亡　難民キャンプにも攻撃（字幕・19日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e574ddf0644392be04ae661c78a289a48015ee52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010004-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> ロバーツ監督「正直、分からない」救援左腕続投が裏目　エンゼルスに15年ぶり3タテ「勝つチャンスあった」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b10f74ff5bc70aef94f7c323f97f8241d2cc2952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000056-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「あんぱん」ばいきんまん降臨で、高まる真打ち登場への期待　ネットは「そろそろ？」【ネタバレ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3868a64d67b015875b7534303cd202f9be7d8ea8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1523&ch=1523&exp=10800&fmt=webp> イスラエル、ガザで大規模地上作戦を開始　食料搬入再開へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a0e96d1421f80cea8d93a7658251b404ac01050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973601-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【逃走中】新名神下りで乗用車が逆走し避けようとした車4台事故…ほかにも車2台に接触し走り去る　2区間約3時間にわたり通行止め　三重・亀山市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973601-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【逃走中】新名神下りで乗用車が逆走し避けようとした車4台事故…ほかにも車2台に接触し走り去る　2区間約3時間にわたり通行止め　三重・亀山市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 内閣支持率31%発足以降最低 読売
+      <a href=https://news.yahoo.co.jp/pickup/6539263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/f417cbf2647a928fe658b1a9058b9f7cee41a6022464a65dfd71fc39f3f313b3.jpg> トランプ関税 米国民の暮らし圧迫
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539255>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/7be5fa9c9f8768784a821effa501f00f7b6dce4eb81e0721d2c9c357a88bbf26.jpg> 車バイオ燃料 28年度先行導入方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/e433c0e07cf794747ba0bfe37218d45391dc706822876404b844a807704f5d63.jpg> 農水相 私はコメを買ったことない
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539257>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/ceab4f6c86739ad34b3b93f1cd574bee4d83d96cb0f1f6f30232455202b92acd.jpg> コールド・ストーン 国内は1店舗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/91686a50403fa0c2f8fc3938fd0dc3f0189c235a34af7b905c42e003224af235.jpg> 15年ぶり珍事 ド軍がエ軍に3連敗
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 10:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 11:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
