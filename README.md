@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa881e6cbdb1d50d2d4ddf0eebdc9fad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ba42648861d1c998087abac8c12962b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f12879660fe7dd3dbb5bde625aadd58a4bb69c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-90026498-ohk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「自分で吸うために持っていた」丸亀市で中学生の１５歳少年ら２人を大麻草所持疑いで逮捕【香川】
+      <a href=https://news.yahoo.co.jp/articles/880e88cc7856c17bcb62e824aa04d15282dd83f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000023-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 事故後も約10kmは逆走か　新名神 逆走車で多重事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce02cea42e95c19318ff512ae47add8998c3357c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザで大規模地上作戦を開始、1週間で500人近く死亡　難民キャンプにも攻撃（字幕・19日）
+      <a href=https://news.yahoo.co.jp/articles/a351706875423c5a2f833f579eadedf806b61cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-35233122-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザで大規模な地上侵攻　一晩で１００人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5379268d08bb7067dba8d1bd8758a7f54b4a6fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00051277-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【万博】午後１１時までの開場１時間延長案が浮上　”高額”パークアンドライドでは・・・利用者１人増につき段階的値下げ案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73ddbcf00f4024c1b6e078b8ed93c37ec6e89e49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-04287423-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 逮捕の男ら、事件前数時間にわたり飲酒か　三郷小学生ひき逃げ　
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e574ddf0644392be04ae661c78a289a48015ee52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00010004-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> ロバーツ監督「正直、分からない」救援左腕続投が裏目　エンゼルスに15年ぶり3タテ「勝つチャンスあった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a0e96d1421f80cea8d93a7658251b404ac01050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00973601-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【逃走中】新名神下りで乗用車が逆走し避けようとした車4台事故…ほかにも車2台に接触し走り去る　2区間約3時間にわたり通行止め　三重・亀山市
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/7be5fa9c9f8768784a821effa501f00f7b6dce4eb81e0721d2c9c357a88bbf26.jpg> 車バイオ燃料 28年度先行導入方針
+      <a href=https://news.yahoo.co.jp/pickup/6539276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/fa71e4b03bb1dc53668ab405701434c35423faeee0b5778ae45673e3655a938b.jpg> 奄美が梅雨入り 局地的に雷雨恐れ
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/c09ff5770c64eb96ef600bfda39953ef8da3abc2bf50040a3706647cdf3e43a6.jpg> タイで息子が過労死 対策に母動く
+      <a href=https://news.yahoo.co.jp/pickup/6539278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/89425595a64a6659ac3262b47b88d4c8d1d2c11aa6bf72bd9702be7c6faaaf4f.jpg> 埼玉ひき逃げ 運転前に数時間飲酒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/ceab4f6c86739ad34b3b93f1cd574bee4d83d96cb0f1f6f30232455202b92acd.jpg> コールド・ストーン 国内は1店舗
+      <a href=https://news.yahoo.co.jp/pickup/6539275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/19/8afa7281e325e12207d9070e1ff7d0bb164b154097cfc4841c148fe4c16d1008.jpg> 大麻所持の疑い 15歳2人を逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/19 11:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/19 12:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
