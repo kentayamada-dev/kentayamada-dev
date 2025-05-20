@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/37021e4cf83f43e971bd662a79c2c0a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18a281e89f3700b6d1476df9ff9dfe06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07565e2cdcaa04650562896ad829cc61b48cbc31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000007-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 首相、農相の後任選定へ　江藤氏、コメ発言で更迭
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9e27b53b8b05a1a9531256a35c1a1d8bd095eaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025354-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「何も起きなければ手を引く」トランプ氏“仲介撤退”示唆　ロシア“30日停戦”拒否
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000007-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 首相、農相の後任選定へ　コメ発言で江藤氏更迭意向
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 05:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 06:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
