@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d704615ae92d0127561ff87a72da750c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aee44c412924ffba897e10ab4f353cb5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/921b3497bc38b7b4b582a2d8adaa2cb8d56b0539>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ買ったことない”発言の撤回なく…江藤農林水産大臣「いさぎよくなかった」
+      <a href=https://news.yahoo.co.jp/articles/d9e27b53b8b05a1a9531256a35c1a1d8bd095eaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025354-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「何も起きなければ手を引く」トランプ氏“仲介撤退”示唆　ロシア“30日停戦”拒否
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abdd9861249f95960d1e339522de08d83a73890e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030185-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神で逆走　ペルー国籍の男が逮捕された事件　車には他に同乗者　三重
+      <a href=https://news.yahoo.co.jp/articles/cd0a1ffdad152ed2674c6dacfe5be52447454754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00258500-tvtnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 江藤農水大臣の更迭視野に進退検討、政府・与党
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a58cdbb4700184c38049662873f41c19323b4a2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 欧州5首脳とゼレンスキー氏、トランプ氏と電話会合　独首相「制裁で対露圧力強める」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2587fa98d534f1ada75fc0003fd717d4659990a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233175-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 英仏加、イスラエルのガザ侵攻を非難　継続するなら「制裁」
+      <a href=https://news.yahoo.co.jp/articles/0337f55258d6a060e73f312a8f43313e05d3c767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-06514859-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル、大規模な地上作戦続ける　ガザ地区保健当局“これまでの24時間に87人が死亡”
       </a>
     </td>
   </tr>
@@ -394,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ca30be86dbae614ec2e2f77c1615943d81c35572100b0759e8ab6e2c11f75ab7.jpg> ウ大統領 米露欧州と高官協議検討
+      <a href=https://news.yahoo.co.jp/pickup/6539449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3116af61f862f0d4bcee4ab7642d502b4733eb4b90eeaf23a2380d8c27d7b5c9.jpg> 首相 コメ発言の農水相を更迭へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d2ec0c5a7247c2dbebaeacee03610e76b9865579010977fe0e3ef1c420a5baa0.jpg> 土砂・洪水氾濫 マップ全国整備へ
+      <a href=https://news.yahoo.co.jp/pickup/6539438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c444f8f146f41245f44b677c8bbb8649acf864dda5e04e0719d1c03a91e4d9aa.jpg> バイデン氏の衰え隠した? 疑う声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
+      <a href=https://news.yahoo.co.jp/pickup/6539446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/06b2c93971cd51dca9c43e700a0dcc6c44fa985c3f547c2fb7d5541f7d1a5946.jpg> 資材置き場に遺体 不明の男性か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f0676b19e2e761d9e03c40d9e6997632577dbc1cced8777eec086b94474c82cf.jpg> 千葉で立てこもり 複数人が人質に
+      <a href=https://news.yahoo.co.jp/pickup/6539440>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博で虫が大量発生 当分続くか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6e3876f3f6604dbc643d66779f851d97ba2a41dba1c75a695fe3acdb7ed2ebff.jpg> 殺人容疑の中3 猛毒購入していた
+      <a href=https://news.yahoo.co.jp/pickup/6539432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0659f0438f7794fd69e2bf31733b9686dede90c1aaabb62f22543b9bf9815d8b.jpg> 今夏の都水道基本料0 いくらお得
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6cded55dd186a71be554a5a5de31eed9077dd054cbf494469785658b3a95dacf.jpg> うどん「次の全国チェーン」検証
+      <a href=https://news.yahoo.co.jp/pickup/6539447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b9a0725e8ee366cb0962d7195bb04f62df78ae9f27dd1920924a53cf14723cc7.jpg> 浅村欠場 楽天監督は苦渋の決断
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/def9ccac28d44c50de1f38ab14acca7085e581f5d8f2833d64a359b431474508.jpg> 高学年で学童落ちた 親子の不安
+      <a href=https://news.yahoo.co.jp/pickup/6539443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f3bf53eaff718b5a15caf0549e9baebd5ec968dcfa5db91533d1826311eaf5ad.jpg> 鈴木福 始球式でアンダースロー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/da178d7ea17e6f4b30eb2ede9e9fec8f52dccc181eaa70678cbb9fc4d09d1597.jpg> 市長 ザブングル加藤とM-1挑戦へ
+      <a href=https://news.yahoo.co.jp/pickup/6539450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/42dda08d592c36fb87433a3dabec2022a1d3c3cad638890766df250f480f9e76.jpg> 横浜流星ら涙 カンヌで6分間拍手
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 11:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 02:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
