@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8baad190025a7ac8277727b2b24d1fc8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dfb2f1fff857d9bca974c403b88faf0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb4184ee79676aef73c16529438af127764ca165>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 停戦不発、突破口開けず　仲介離脱に現実味　トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/03fdea612baa44b246189e1ac4f3c4ee23a0207d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050155-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏、即時停戦応じず…トランプ氏は交渉を当事者間に委ねる考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90848d00e33ed34e19b6b39a9b806fd37613ed38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000092-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 現場騒然！灯油を部屋に…「降参します」千葉立てこもり男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/a9d0829bbf49dca55dd5df93edaf51b0e069d961>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000151-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 新名神事故「逆走したが1台としかぶつかっていない」外免切替ペルー人　Uターン10キロ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d184b342b2c6b04dd017f2b97e9d1503ee6a5388>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21926055-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「簡単すぎる?」外国人の免許切り替え制度に“警鐘”　新名神の逆走事故で浮き彫りに「2択で10問中7問正解すれば合格」の問題点
+      <a href=https://news.yahoo.co.jp/articles/64fa923741d5421a931096412e72a689fb66d423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-15200526-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 筑紫野市で小学生の列に車　治療の医師語る状況
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/27d457c48686a88f359eb23a2f1613d6df3b1412a0b104e28c6545458e04132b.jpg> コメ発言の農相 野党が更迭要求へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
+      <a href=https://news.yahoo.co.jp/pickup/6539360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0741a0c15760aee9c057710d39b6f053e5f2da7660c4d6db495a41ab8abbc006.jpg> GWの山岳遭難が最多 多い中高年
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8be8a99898e7baf2473ba927dd290c66dc02b7ae7c0daf451d33a7605c9b8cc6.jpg> 農相「宮崎弁的言い方」県民の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539433>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6d9d27077862505f9bf9d7d55e601a3e4c6bb1638617a819a5e96bc5ecc00dc9.jpg> 給食に異物 大阪の小学校で相次ぐ
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d70194e1a7888a266ae04caf1ceae89043e3b7de1ecd2f5091a16f0f10f999d9.jpg> 万博で虫が大量発生 殺虫剤で対策
+      <a href=https://news.yahoo.co.jp/pickup/6539436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/74beee7c066e640b274b8b4be2fbd893f04b3bf23a187fa55d3c149973f22c5f.jpg> 橋幸夫が認知症 歌忘れるなど影響
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0da7ca637a99e6ba35a6a22fa5e079fb2d7015ce985ae0bf50533713c66dd8f0.jpg> 永野芽郁の大河代役 白石聖とは
+      <a href=https://news.yahoo.co.jp/pickup/6539421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d70194e1a7888a266ae04caf1ceae89043e3b7de1ecd2f5091a16f0f10f999d9.jpg> 万博で虫が大量発生 殺虫剤で対策
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 21:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 21:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
