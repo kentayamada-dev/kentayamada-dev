@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6caa035dd36d2e9b11ea5f1912afb38a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09bb829987aea862b96967e9b5466b84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ca1843d91aaba89ba216b0b7074c7ba30539ca3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05172221-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 石破首相、江藤農水相を更迭する意向固める　後任に小泉進次郎氏有力視
+      <a href=https://news.yahoo.co.jp/articles/38f286bdf4adf6dcd22de7ceead299f18ced083e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】江藤農水相の後任に小泉進次郎氏の起用固まる　自民党農林部会長の経験など買われ起用　コメ高騰対策へ指導力期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/776ac6eeb047e1f8189c7a44ecb8828d7b572ced>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 検索「AIモード」、全米で提供へ　疑問の追究容易に　グーグル
+      <a href=https://news.yahoo.co.jp/articles/4ee23c70d18b37e9587df9a699f010863119c254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-10179398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 江藤農水大臣が辞表提出「国民の皆様方に心からおわび」石破総理が受理
       </a>
     </td>
   </tr>
@@ -378,16 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4511ab4d3a0f60b4fef03e0f0a5dc41b02da7a88a998ea660cdbe9b3517e11a4.jpg> 江藤農相更迭へ 小泉氏が後任有力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/193aaefd33af6b0c2ef692147553e447b959a2f5e63e63d2ee19e36ef2a3edae.jpg> マスク氏 政治献金「大幅に削減」
+      <a href=https://news.yahoo.co.jp/pickup/6539462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/bc4b4f62fd7c95792a6b94102335c32834b5584fac9363815205f1db53b52d80.jpg> 江藤農水相 首相に辞表を提出
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e70bacfb6611e926906cd68a558d7abc27e8f6fd3bdb3701366d2d18c202c968.jpg> Google 検索AIモードを米で開始へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0300d3b303bb28d618720d8f88624dcf421174eb329bcb3d177c357cb6f9cd8d.jpg> 楽天 元パドレスの大砲候補獲得へ
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 08:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
