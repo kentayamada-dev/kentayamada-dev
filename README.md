@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff761187d96fb7f788e14928b2c06ec9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b58995660390517120ff421b390d26f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d35815c778a4e67c946497c03b1094acf5f634a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00974796-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 後任に小泉進次郎氏起用を検討…石破首相が江藤農水相更迭へ　政権発足後初…きょうにも辞表提出へ
+      <a href=https://news.yahoo.co.jp/articles/ae73f4f7b67ce0e87377567411f7fd5bb876aff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211012-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「江藤農水大臣の辞任は避けられない情勢のようです。きょうにも最終判断するものとみられます」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝える
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/50ac273292a85c2404a05881512675aed076865edd3c9811a52ed3f5338877c2.jpg> タクシー客に性的暴行疑い 逮捕へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539455>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8992f498624d12433af4c7236bee425d650d23b4e05cb5fba57106e258e60572.jpg> TOEIC替え玉 容疑者は2度受験か
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b9a0725e8ee366cb0962d7195bb04f62df78ae9f27dd1920924a53cf14723cc7.jpg> 浅村欠場 楽天監督は苦渋の決断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f3bf53eaff718b5a15caf0549e9baebd5ec968dcfa5db91533d1826311eaf5ad.jpg> 鈴木福 始球式でアンダースロー
+      <a href=https://news.yahoo.co.jp/pickup/6539457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0300d3b303bb28d618720d8f88624dcf421174eb329bcb3d177c357cb6f9cd8d.jpg> 楽天 元パドレスの大砲候補獲得へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 07:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 07:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
