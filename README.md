@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf69273d43f6ad1d0c9b2a4867a83ba7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb257d54a33592c68c2247722b466750.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91ae54c108077e5e34581fbf3e0747ce416f5f4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974443-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領とプーチン大統領が電話会談も即時停戦は実現せず　トランプ氏は進展なければ仲介役から手を引く可能性示す
+      <a href=https://news.yahoo.co.jp/articles/b9edcd5cd53b1360826932d2de48c442dd933e0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21925433-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 「『売るほどある』は宮崎弁的な言い方」江藤拓農水大臣が釈明　一連の発言に宮崎県民から厳しい声「県民自体が悪いように見られる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44c28f736bd3ea49f772721103dda39c57b815dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-16597711-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ガザに支援物資入る、イスラエルが11週間ぶり容認　「大海の一滴」と国連
+      <a href=https://news.yahoo.co.jp/articles/a42d4233d66614a021fb6eff2803c6429113b4ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030193-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ペルー国籍の男(34)が1人で警察に出頭　容疑者を知る関係者「普通の人、悪いこともなく」　新名神逆走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59d79aecc5a38415c924754b29ee490cb1d2d796>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 真夏日今年最多の200地点以上　東京都心は31.1℃　21日（水）も暑さ続く　熱中症に注意を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/014091fa456e4ef7c50dbfabc1e602f65c45b489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000057-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
+      <a href=https://news.yahoo.co.jp/articles/b3526482540b40b1b5509d501a58fb73cfdbb5a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237650-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「停戦は遠のいた」専門家が解説　米ロ首脳の電話会談から見えるロシアとウクライナの「停戦」行方は
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/db7253df6d95aca4844f487094851f24e0b2b3a39825fe6328a144f3fb50f2a4.jpg> コメ発言の農水相 国民の憤慨見た
+      <a href=https://news.yahoo.co.jp/pickup/6539402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a9ad8170fdd13db29f2a0056e9b4f265fe7d0359438bc74aabfaf21e8295007.jpg> 農相が発言釈明 宮崎弁的な言い方
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/eaea45dce0ded1868c4d120ab51a1424b7118b69e7a92d5b360a4fb564c1f4a1.jpg> 千葉の立てこもり 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/55d1a44e301369f1819c9b0c885baca5e1a4a8096ccdfb6ca6515408b043b9d5.jpg> 外国免許の切り替え 厳格化を検討
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/47fc10772b31cd6c6c527b5b04fe4b0c06fec81d475f424eff83a62b15fa95db.jpg> 威圧的な校歌指導 埼玉3校で確認
+      <a href=https://news.yahoo.co.jp/pickup/6539413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4f9142ba1bfb319cab44ac4f6478a47475b7b287c174c5c01823d44224a8e8b2.jpg> 住宅に2遺体「女児を保護」と通報
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/45d835afbce3a548e5bcbc556c09c09a0b4c44e500ffe20166208ce889d1f5ba.jpg> 来年の大河 永野芽郁代役に白石聖
+      <a href=https://news.yahoo.co.jp/pickup/6539415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/9bfbcc0d1cd87caf54182f2a055c3ee0304043578c9efeac6712ac893873269f.jpg> 4戦32失点投手陣に苦言 ド軍監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1271e44779fca189519e3cfe6a388e707ef39133f275185cde2643665305948e.jpg> 橋幸夫 アルツハイマー型認知症に
+      <a href=https://news.yahoo.co.jp/pickup/6539403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/45d835afbce3a548e5bcbc556c09c09a0b4c44e500ffe20166208ce889d1f5ba.jpg> 来年の大河 永野芽郁代役に白石聖
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 17:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 17:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
