@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/291e2dc9f2ab09a43fa843079c579ccd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8baad190025a7ac8277727b2b24d1fc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5d515dc9804a4c5be2a0271c287e23004ea519a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07298827-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “コメ発言”撤回も…江藤農水相に追及やまず　野党5党が辞任や更迭求める
+      <a href=https://news.yahoo.co.jp/articles/eb4184ee79676aef73c16529438af127764ca165>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 停戦不発、突破口開けず　仲介離脱に現実味　トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90848d00e33ed34e19b6b39a9b806fd37613ed38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000092-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 現場騒然！灯油を部屋に…「降参します」千葉立てこもり男を逮捕
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d184b342b2c6b04dd017f2b97e9d1503ee6a5388>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21926055-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「簡単すぎる?」外国人の免許切り替え制度に“警鐘”　新名神の逆走事故で浮き彫りに「2択で10問中7問正解すれば合格」の問題点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/126f1413c02804c5b098f03f4e50a79053d18508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-7-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a9ad8170fdd13db29f2a0056e9b4f265fe7d0359438bc74aabfaf21e8295007.jpg> 農相が発言釈明 宮崎弁的な言い方
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539416>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/99f43b8bbd80d245a8f1ae21e94910de568c3949f933550ce9ff2ca2b9768680.jpg> 闘犬リードなく散歩か 組長ら逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/20eeee4be0b9d07a315ab29bf5bf301975e6c4c5c0e65b207a23337d2bcd2a4a.jpg> 母に注意され 監禁容疑の男供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6d9d27077862505f9bf9d7d55e601a3e4c6bb1638617a819a5e96bc5ecc00dc9.jpg> 給食に異物 大阪の小学校で相次ぐ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 20:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 21:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
