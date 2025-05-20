@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed36a9af3f32fb5852cb2759c649433c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36f325c4113ac52327082c84324f0f54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91ae54c108077e5e34581fbf3e0747ce416f5f4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974443-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領とプーチン大統領が電話会談も即時停戦は実現せず　トランプ氏は進展なければ仲介役から手を引く可能性示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44c28f736bd3ea49f772721103dda39c57b815dd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-16597711-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ガザに支援物資入る、イスラエルが11週間ぶり容認　「大海の一滴」と国連
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5951c4f64e499c6fcd8e08c5520d0d8c931f1082>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000051-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン氏と電話会談をしたトランプ氏「ウクライナ終戦交渉、進展なければ外れる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c17d1dce2445e1a53c551ecce6a877df06deaa4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000058-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「もう一度思い出して」吉川友梨さん不明22年　両親や捜査員が情報提供呼びかけ
       </a>
     </td>
   </tr>
@@ -387,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b913930bdbf4138c860ecbca06d1f0d56384360>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ジブリパークで夜間営業　3エリアで午後8時まで
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/db7253df6d95aca4844f487094851f24e0b2b3a39825fe6328a144f3fb50f2a4.jpg> コメ発言の農水相 SNS朝まで見た
+      <a href=https://news.yahoo.co.jp/pickup/6539405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/db7253df6d95aca4844f487094851f24e0b2b3a39825fe6328a144f3fb50f2a4.jpg> コメ発言の農水相 国民の憤慨見た
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/eaea45dce0ded1868c4d120ab51a1424b7118b69e7a92d5b360a4fb564c1f4a1.jpg> 千葉の立てこもり 男を逮捕
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539374>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1348976e8a838642da351e94d5cf9f4940d4a26102fcbd0044552bdd9fdfa39a.jpg> いわき信用組合の不正 取引先憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/55cb89cc30baae6d213e3c15f80780d2add742e15de2667356306824a0090bf8.jpg> 千葉の立てこもり 男を逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f3d18fd0f7500a042389ac1af95b7fa5ce3494a67c11b0358296865918c35469.jpg> 悪臭問題30年 養豚場が閉鎖へ
+      <a href=https://news.yahoo.co.jp/pickup/6539396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/34c9405fd4f06433f87cfdf822029d49fd4dfe8341a8467f85b9c76cacee2866.jpg> サヴァ缶製造 釜石工場を休止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/34c9405fd4f06433f87cfdf822029d49fd4dfe8341a8467f85b9c76cacee2866.jpg> サヴァ缶製造 釜石工場を休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6539403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/45d835afbce3a548e5bcbc556c09c09a0b4c44e500ffe20166208ce889d1f5ba.jpg> 来年の大河 永野芽郁代役に白石聖
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 16:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 16:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
