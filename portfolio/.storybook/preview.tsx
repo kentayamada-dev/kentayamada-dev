@@ -1,4 +1,3 @@
-import React from 'react';
 import { withThemeByClassName } from '@storybook/addon-themes';
 import { Preview, ReactRenderer } from '@storybook/react';
 import { customViewports, viewportKeys } from '../src/app/lib/storybook';

@@ -1,6 +1,8 @@
 import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import Script from 'next/script';
 import { Providers, RootTemplate } from '@/components/designSystem/templates';
+import { envClient } from '@/constants/env';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import type { LayoutGenerateStaticParamsType, LayoutPageType } from '@/types/components';
@@ -31,6 +33,7 @@ const Layout: LayoutPageType = async (props) => {
         </Providers>
         <Analytics />
         <SpeedInsights />
+        <Script src={`https://www.google.com/recaptcha/api.js?trustedtypes=true&render=${envClient.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}`} />
       </body>
     </html>
   );
