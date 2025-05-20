@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4efaa4347b755b2a5f47868a7374745c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5d594a3ab3c149f6fc7a6fd260cd573.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11fbc951ef4d63640679df08e4d9382e7d68e3ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01154141-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速を逆走、ペルー国籍の男を逮捕　車には同乗者がいたか
+      <a href=https://news.yahoo.co.jp/articles/a88ac0665f29249d18be3cf656eee17be8817e3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000074-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 橋幸夫アルツハイマー型認知症の診断　所属事務所「１００％お楽しみいただけるステージをお届けできる状態ではない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83710e9b4d59f05525124672af844a181fe451c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-05201095-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 蒼井優、アンパンマン声優の苦労を告白「娘にばれないように声を変えました」
+      <a href=https://news.yahoo.co.jp/articles/11fbc951ef4d63640679df08e4d9382e7d68e3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01154141-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速を逆走、ペルー国籍の男を逮捕　車には同乗者がいたか
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/724d31f2aae2c8ace4136c025f8681ce41bff3232e0d904801c9db2f9071bf3c.jpg> 赤沢氏訪米へ 23日関税で閣僚協議
+      <a href=https://news.yahoo.co.jp/pickup/6539389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/57a1b23dc161566d6a4004ffee25611b478c527bbb2f88fa667e62018bb1d232.jpg> 悪質ホスト規制 改正風営法が成立
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a5d89f24cbb7e0768c052286a9095a32b42abe0eaa8de34f81c1ca751bfee39.jpg> 新名神の逆走事故 車には同乗者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/35852e1eb40b090fbf45a38a1d0e92bd0366aa48b2b2a7145262e7aacffbae0a.jpg> 千葉の立てこもり 男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4fa72a171993c8eaba289b15424b148fcd5b67dffbd2a8f58c67d1cfd12bfa12.jpg> 校長がセクハラ 2年沈黙した教師
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/55cb89cc30baae6d213e3c15f80780d2add742e15de2667356306824a0090bf8.jpg> 千葉の立てこもり 男を逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/51a63811c646092193fd77852c727219203bb45c2caa7f128b65ee12ed721f57.jpg> Switch2抽選2回目 当落のSNS反応
+      <a href=https://news.yahoo.co.jp/pickup/6539396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/34c9405fd4f06433f87cfdf822029d49fd4dfe8341a8467f85b9c76cacee2866.jpg> サヴァ缶製造 釜石工場を休止へ
       </a>
     </td>
   </tr>
@@ -456,11 +440,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1271e44779fca189519e3cfe6a388e707ef39133f275185cde2643665305948e.jpg> 橋幸夫 アルツハイマー型認知症に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/08d1ae00a5dbf08d8d86e9c38c3b791bf8088147be72985f15f2bd7129710c72.jpg> 蒼井優 娘にバレぬよう声変え好演
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 14:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 15:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
