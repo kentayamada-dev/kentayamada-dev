@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b87ffb9674d6b9a3b1d69efbd8e6240.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/37021e4cf83f43e971bd662a79c2c0a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e18b665fee348c5ba02a1174fbfc9b512aed27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000069-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=502&ch=502&exp=10800&fmt=webp> 江藤農相「売るほどある」は宮崎弁　火に油を注ぐ言い訳に国民の怒り沸騰
+      <a href=https://news.yahoo.co.jp/articles/07565e2cdcaa04650562896ad829cc61b48cbc31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000007-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 首相、農相の後任選定へ　江藤氏、コメ発言で更迭
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 05:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 05:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
