@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab78ea9165b988dd2c22bd450bafe1ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c8f701ff13f4c4a4c7b5c0b08f2b3f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47efeea4ac45b38f0703753768ff7f9e586a2f8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-16542284-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=591&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナは「直ちに」停戦交渉すると　両国首脳と電話協議の後
+      <a href=https://news.yahoo.co.jp/articles/e03d08fc83b561a3f5c21eaf34d42eed09c80871>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=334&ch=334&exp=10800&fmt=webp> ガザに物資積んだトラック５台、２か月半ぶり搬入…国連「必要な物資のうち大海の一滴にすぎない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1304428a68028bf702a1213abf6315e6a589c94f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974251-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神の本線上でUターンし逆走始めたか?4台絡む事故起こし逃げたペルー国籍の男、同乗者いるとみて捜査
+      <a href=https://news.yahoo.co.jp/articles/471365103522c23763867d9acca69444c40c889e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07798679-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米露首脳電話会談　即時停戦進展せず　トランプ氏SNSに“交渉条件は当事者間で”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e081a2c0708b54a9c2ae4133a76e06b6bb766978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21923646-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “ガザ見物ツアー”訪れたイスラエル人「爆弾の音は嬉しい」との発言 イスラエル軍による大規模地上作戦 ガザの死者は連日100人超え 今後の停戦の可能性は?【news23】
+      <a href=https://news.yahoo.co.jp/articles/97bc9352acba03600ca74ae84965e93ec4088d6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974215-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ペルー国籍の男（34）は新名神の本線上でUターンし逆走か?同乗者いるとみて逆走理由を捜査…避けようとした車など4台絡む事故で女性4人負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05a65ad7aa9473cd6ca8ff1eb98920c1ad03cc2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=426&ch=426&exp=10800&fmt=webp> いわき信組の架空融資、財務相「厳正に対応」　震災後200億円注入
+      <a href=https://news.yahoo.co.jp/articles/66fc4ddd2b21195455841d758eb82eb0682c1f3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000030-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 新名神逆走　ペルー国籍の男逮捕 車には同乗者も
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ca30be86dbae614ec2e2f77c1615943d81c35572100b0759e8ab6e2c11f75ab7.jpg> ウ大統領 米露欧州と高官協議検討
+      <a href=https://news.yahoo.co.jp/pickup/6539382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/724d31f2aae2c8ace4136c025f8681ce41bff3232e0d904801c9db2f9071bf3c.jpg> 赤沢氏訪米へ 23日関税で閣僚協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/9ff025d34025945a140c2f250eba61c850adbdbaf286d6ddf58c8cac5ea024be.jpg> 東京都心 今年初30℃以上の真夏日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/fcbfb04c95a10eca49569bed250d46e9680e0a18e8e8a6face756f0448ae05a2.jpg> 首相一時前のめりも 別姓実現遠く
+      <a href=https://news.yahoo.co.jp/pickup/6539371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8ef7b5aea6d554f84627d3409eeedc1ef9890987e0ef7917c88f77972bb0b087.jpg> 米大統領 停戦仲介退く可能性言及
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539378>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/2752a08e1df5027e3af79ca9b012053371c3f5f93dcd8c4a166ebcfd80473523.jpg> 母と妹を人質に立てこもり 千葉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a5d89f24cbb7e0768c052286a9095a32b42abe0eaa8de34f81c1ca751bfee39.jpg> 新名神の逆走事故 車には同乗者
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 12:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
