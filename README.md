@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dfb2f1fff857d9bca974c403b88faf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6e258ddf04fce11b0167b25c6f80db9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b01af3cc604b62b668541de1d0b00e030cd10eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000153-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 万博会場で虫が大量発生、ハエの一種「ユスリカ」　協会が殺虫剤などで対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03fdea612baa44b246189e1ac4f3c4ee23a0207d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050155-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏、即時停戦応じず…トランプ氏は交渉を当事者間に委ねる考え示す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050155-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> プーチン氏、即時停戦応じず…トランプ氏は交渉を当事者間に委ねる考え示す
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a9d0829bbf49dca55dd5df93edaf51b0e069d961>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000151-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 新名神事故「逆走したが1台としかぶつかっていない」外免切替ペルー人　Uターン10キロ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64fa923741d5421a931096412e72a689fb66d423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-15200526-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 筑紫野市で小学生の列に車　治療の医師語る状況
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0741a0c15760aee9c057710d39b6f053e5f2da7660c4d6db495a41ab8abbc006.jpg> GWの山岳遭難が最多 多い中高年
+      <a href=https://news.yahoo.co.jp/pickup/6539428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ff2a9193e49fd07162028212d97578dfb4e20ab8e5aa5a09a5fb7a82e02f8c5d.jpg> セブン銀株 伊藤忠に一部売却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b44a923fadea134d8ca010dd8f50c9d61d7afaf6909fd873f7643b78cff5a84f.jpg> 小学生列に車 治療の医師語る状況
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0780bf784cf30279d7b6871bba8b3fb4cf47311a11f5ce3bd88563fa5e5ea6d5.jpg> 楽天・浅村 連続出場1346で止まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539436>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/74beee7c066e640b274b8b4be2fbd893f04b3bf23a187fa55d3c149973f22c5f.jpg> 橋幸夫が認知症 歌忘れるなど影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/68d16288379fcbbbe89735f2158f533889fdc1d2f77a6351a772a7eedad66112.jpg> B'z松本 稲葉と食事は年1回か2回
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d70194e1a7888a266ae04caf1ceae89043e3b7de1ecd2f5091a16f0f10f999d9.jpg> 万博で虫が大量発生 殺虫剤で対策
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 21:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 22:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
