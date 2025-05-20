@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0e5d13745354ceea16d0909e770f117.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1882e6cd9b422240c5ed08b18666520e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a14e385b1c1e6b1cc0a1bfd160237f38ae6a4567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974497-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【なぜ】本線上でUターンし逆走か?新名神下り10km超“逆走”し車2台と衝突…ペルー国籍の男（34）逮補「当たったのは1台だけ」一部容疑否認
+      <a href=https://news.yahoo.co.jp/articles/1689cc1875e04c73de15c9496cfeaa1accb1c2cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁　大河降板で代役に白石聖が内定報道　“大河イメージ低下”恐れるNHKとマッチした“条件とタイミング”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd5b7201981391b4fb6e5353838509c7cfb62c5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁の「大河代役」は広末涼子の“育ての親”がひと目惚れ…数年越しの“引き抜き”直後から大役つかんだ“売り出し力”
+      <a href=https://news.yahoo.co.jp/articles/d184b342b2c6b04dd017f2b97e9d1503ee6a5388>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21926055-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「簡単すぎる?」外国人の免許切り替え制度に“警鐘”　新名神の逆走事故で浮き彫りに「2択で10問中7問正解すれば合格」の問題点
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/126f1413c02804c5b098f03f4e50a79053d18508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-7-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539402>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a9ad8170fdd13db29f2a0056e9b4f265fe7d0359438bc74aabfaf21e8295007.jpg> 農相が発言釈明 宮崎弁的な言い方
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e76f0e64254e31fcd7cc72fd7a8149072c2e695ba40a529b0416829d3d034597.jpg> 「性搾取ビジネス」背後に匿流
+      <a href=https://news.yahoo.co.jp/pickup/6539427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/99f43b8bbd80d245a8f1ae21e94910de568c3949f933550ce9ff2ca2b9768680.jpg> 闘犬リードなく散歩か 組長ら逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539426>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moritayasushi/02215986/title-1747720961804.jpeg?exp=10800> 三笘快挙 日本選手2桁得点の価値
+      <a href=https://news.yahoo.co.jp/pickup/6539429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/68d16288379fcbbbe89735f2158f533889fdc1d2f77a6351a772a7eedad66112.jpg> B'z松本 稲葉と食事は年1回か2回
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 19:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 20:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
