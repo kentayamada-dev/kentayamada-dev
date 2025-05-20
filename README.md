@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6133ddca207497d1da4dfdf81254931.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4efaa4347b755b2a5f47868a7374745c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/11fbc951ef4d63640679df08e4d9382e7d68e3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01154141-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速を逆走、ペルー国籍の男を逮捕　車には同乗者がいたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83710e9b4d59f05525124672af844a181fe451c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-05201095-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 蒼井優、アンパンマン声優の苦労を告白「娘にばれないように声を変えました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3500a0605d06a8b8b75aab306ca7e52e86b2180>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏の和平仲介、打開策なく　交渉関与の機運失速の恐れ　米露首脳電話会談
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/176b30f5c56aa75bc62fef9e089f621841546738>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 日欧など22か国、ガザ支援「全面再開」をイスラエルに要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/732f64bf3bbe985dd2972d4a4a6d4389814f0faa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走当て逃げ容疑者は滋賀県警に出頭
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed09801363c83179aec8ff4ee35253cd62d4ac9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08946674-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、“コメ発言”江藤農水相を改めて続投させる意向　野党側「大臣として不適格」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0ca7ab4ff2a09453f48a681250b5570d716b1b9597dabb97374a1e8f0e3b3728.jpg> 露原油上限50ドル案 EUが提起へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539381>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a5d89f24cbb7e0768c052286a9095a32b42abe0eaa8de34f81c1ca751bfee39.jpg> 新名神の逆走事故 車には同乗者
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8c5f30ff460cf69ff30ef47a10838b81d88e5dc8924d518e4e5bff09a5a47cde.jpg> 千葉の立てこもり 男の身柄確保
+      <a href=https://news.yahoo.co.jp/pickup/6539394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/35852e1eb40b090fbf45a38a1d0e92bd0366aa48b2b2a7145262e7aacffbae0a.jpg> 千葉の立てこもり 男を逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/243d29fa1eed852de63ec844243c3659ec379e1eee0ce69447f8239d54d5ec1f.jpg> 東京 今夏の水道基本料ゼロの方針
+      <a href=https://news.yahoo.co.jp/pickup/6539388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f3d18fd0f7500a042389ac1af95b7fa5ce3494a67c11b0358296865918c35469.jpg> 悪臭問題30年 養豚場が閉鎖へ
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/159aafbbf30897fdeb694833519aa9fbeca6ebe96314c48262ae770ca0cfe749.jpg> 「POTATO」が休刊へ 1984年創刊
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 14:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 14:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
