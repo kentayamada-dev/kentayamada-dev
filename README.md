@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6e258ddf04fce11b0167b25c6f80db9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79be13ae943c6754b45786e055ee4e60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b01af3cc604b62b668541de1d0b00e030cd10eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000153-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 万博会場で虫が大量発生、ハエの一種「ユスリカ」　協会が殺虫剤などで対策
+      <a href=https://news.yahoo.co.jp/articles/aec19fd8b7ae473cdef925cc1d8ac1cb30399eb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00345287-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> プリンセス天功〝埋蔵金〟ヒントを公演で明かすプランも「せっかくなら私も楽しみたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eed63e37673340b905c4cc70aaeb095e940e3ea6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ネタニヤフ首相「ガザ全域制圧めざす」　英仏カナダは作戦停止求める
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c444f8f146f41245f44b677c8bbb8649acf864dda5e04e0719d1c03a91e4d9aa.jpg> バイデン氏の衰え隠した? 疑う声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539437>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b44a923fadea134d8ca010dd8f50c9d61d7afaf6909fd873f7643b78cff5a84f.jpg> 小学生列に車 治療の医師語る状況
       </a>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6d9d27077862505f9bf9d7d55e601a3e4c6bb1638617a819a5e96bc5ecc00dc9.jpg> 給食に異物 大阪の小学校で相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0780bf784cf30279d7b6871bba8b3fb4cf47311a11f5ce3bd88563fa5e5ea6d5.jpg> 楽天・浅村 連続出場1346で止まる
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/74beee7c066e640b274b8b4be2fbd893f04b3bf23a187fa55d3c149973f22c5f.jpg> 橋幸夫が認知症 歌忘れるなど影響
+      <a href=https://news.yahoo.co.jp/pickup/6539441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1776aa922995725ecb1ff7efcfc2e37cf67e6f35be5eca6b8d05b4008a79270d.jpg> プリンセス天功 埋蔵金計画に言及
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 22:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 22:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
