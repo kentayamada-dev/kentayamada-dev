@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5db9138790f821cc64b8575f61390a00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b87ffb9674d6b9a3b1d69efbd8e6240.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfcd0cb022ee101481e04b59a0bb985dd89cf20f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-07237801-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「コメ買ったことはない」発言の江藤農水大臣　政府・与党内で辞任不可避の情勢
+      <a href=https://news.yahoo.co.jp/articles/a9e18b665fee348c5ba02a1174fbfc9b512aed27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000069-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=502&ch=502&exp=10800&fmt=webp> 江藤農相「売るほどある」は宮崎弁　火に油を注ぐ言い訳に国民の怒り沸騰
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 04:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 05:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
