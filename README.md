@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb3ece14a7eb4474c87460417f68d155.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d48dab7969c99ccd146cdbfde6cfee78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d15fab1b0f19398c08e14b99d0e24d56cf2b2cda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08339614-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】米露首脳電話会談で…プーチン氏“即時停戦”拒否　ウクライナと直接交渉へ　トランプ氏“仲介離脱も”
+      <a href=https://news.yahoo.co.jp/articles/126f1413c02804c5b098f03f4e50a79053d18508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏 仲介役を撤退?「私は手を引く」発言も　プーチン氏「停戦」の条件は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/140c7001f3579238a4c7bade83c1140a0b6681ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-05911988-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速で逆走→ 逃走　ペルー国籍の男を逮捕　徐々に判明した足取りとは　三重・新名神高速
+      <a href=https://news.yahoo.co.jp/articles/55bc58bec81b370678e2fbd4b80e601727d8d63d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08199733-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 『コメを買ったことがない』発言撤回も…「ふざけるな」「苛立たしい」「本当に残念」憤りの声相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88a178d287445d75be832d2ef90ee1aad9afcb54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-04569239-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 森口博子、ライブ中転倒で左足首剥離骨折 当日に公演延期を発表「お医者様に安静と言われました」
+      <a href=https://news.yahoo.co.jp/articles/411ece873b99c77d02cfff87a5333ea798eb3a3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21925150-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 外国人ドライバー増加で逆走事故のリスク上昇? 専門家「真ん中を走るのが一番いい」 新名神の逆走事故でペルー人の男逮捕 三重・亀山市
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ebee8a4edc07072e93e7d2e2870f85076b9d890fa808990a1d515473b72fc60e.jpg> 小4不明22年 不審車両の画像公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e76f0e64254e31fcd7cc72fd7a8149072c2e695ba40a529b0416829d3d034597.jpg> 「性搾取ビジネス」背後に匿流
+      <a href=https://news.yahoo.co.jp/pickup/6539420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0744808f8de88ef6b0b273bb3e38e56d8e1f4de40a20b542be9f4b9eba0a2da5.jpg> 資材置き場に遺体 殺人視野に捜査
       </a>
     </td>
   </tr>
@@ -418,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/bca975d84e78ab110d5dc99d3aa25b2494f60613e70e0cec5795b0ce5abe1066.jpg> 23区新築マンション平均1億円割る
+      <a href=https://news.yahoo.co.jp/pickup/6539408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e76f0e64254e31fcd7cc72fd7a8149072c2e695ba40a529b0416829d3d034597.jpg> 「性搾取ビジネス」背後に匿流
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02402b03407c102011440b0fe27630c7ca617e9bb1bba5faf196de07002aabf8.jpg> 伊藤忠 おぱんちゅうさぎ北米展開
+      <a href=https://news.yahoo.co.jp/pickup/6539421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d70194e1a7888a266ae04caf1ceae89043e3b7de1ecd2f5091a16f0f10f999d9.jpg> 万博で虫が大量発生 殺虫剤で対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02215068/title-1747647881058.jpeg?exp=10800> Switch2「落選祭り」品不足の訳
+      <a href=https://news.yahoo.co.jp/pickup/6539426>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moritayasushi/02215986/title-1747720961804.jpeg?exp=10800> 三笘快挙 日本選手2桁得点の価値
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/19df2ed2a3d99f127f9bc7f77f7d9b90cda93e2be6815750b273914469e1bbb0.jpg> 森口博子 足骨折し当日に公演延期
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 18:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 18:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
