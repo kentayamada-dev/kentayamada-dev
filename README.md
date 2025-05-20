@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c5d594a3ab3c149f6fc7a6fd260cd573.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bbac0d3cad48ec726deb19913648429.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5951c4f64e499c6fcd8e08c5520d0d8c931f1082>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000051-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン氏と電話会談をしたトランプ氏「ウクライナ終戦交渉、進展なければ外れる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/014091fa456e4ef7c50dbfabc1e602f65c45b489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a88ac0665f29249d18be3cf656eee17be8817e3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000074-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 橋幸夫アルツハイマー型認知症の診断　所属事務所「１００％お楽しみいただけるステージをお届けできる状態ではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11fbc951ef4d63640679df08e4d9382e7d68e3ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-01154141-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速を逆走、ペルー国籍の男を逮捕　車には同乗者がいたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3500a0605d06a8b8b75aab306ca7e52e86b2180>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏の和平仲介、打開策なく　交渉関与の機運失速の恐れ　米露首脳電話会談
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 15:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 15:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
