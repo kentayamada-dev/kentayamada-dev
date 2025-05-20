@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0e87c265f3de7adbed3bedc5a958086.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7865efc24f63144966771dee7607ae9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f3e20dbc7733440de0a59ce9c9ac7e743116d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000195-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏「危機の根本原因の除去」に固執　停戦なお見通せず　米露首脳電話会談
+      <a href=https://news.yahoo.co.jp/articles/3ebdda69b44be9e4d7b515b093fe479d0eed05e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「前進できたことを願う」米ロ首脳が2時間半の電話会談、ウクライナとの停戦交渉開始で一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e94c151ea955fcd2f91dc3abe1135f0144dfc4b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走、ペルー国籍の男逮捕　玉突き事故で4人軽傷　三重県警
+      <a href=https://news.yahoo.co.jp/articles/96fddeb156b714dbad09f7e39a81cbead6fd706e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35200208-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 「ダメな2世議員の典型例」55歳落語家が江藤拓農相の不適切発言にチクリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b51ede88eccb9886edcd5e114b9e2a74827baf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-03797952-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】西・東日本で真夏日続出する見込み
+      <a href=https://news.yahoo.co.jp/articles/3e736f6987ab8eb231bb951113f5eec2abe4e1d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010000-mietvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走　ペルー国籍の男を逮捕
       </a>
     </td>
   </tr>
@@ -394,48 +394,56 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e8658f9509bef51ee876b5347bb0cda47b504e856a23e979e94b9701fe29fc45.jpg> ウ停戦合意できず 米露電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6539354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ca30be86dbae614ec2e2f77c1615943d81c35572100b0759e8ab6e2c11f75ab7.jpg> ウ大統領 米露欧州と高官協議検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02ab8ded160dc36988dfd50f88df3b17cb54fd4de334ae8aeeedbfe034fb4429.jpg> 35℃以上になる所も 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6539361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d2ec0c5a7247c2dbebaeacee03610e76b9865579010977fe0e3ef1c420a5baa0.jpg> 土砂・洪水氾濫 マップ全国整備へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1519a1ec2e07e04671214da688a2c6d3b2c0d46852484dad7932bc2501874227.jpg> コメ価格 直接取引増で高止まりか
+      <a href=https://news.yahoo.co.jp/pickup/6539363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/a5095a84c9c8237e72a66911085f6f116293dd845e825e3eb8e71b081ab2c044.jpg> 首相 コメ発言の農水相続投の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b1796e3d5492937556e92c3c33f3d94e5f557071ee59d7a9333ee51dbcb5ae32.jpg> 日鉄 USSに140億ドルの投資計画
+      <a href=https://news.yahoo.co.jp/pickup/6539365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/bec5980d3e02c5a14ed3ce7bcafea2b2a7b28907a983b4a1b512d8bf9d0d9d5c.jpg> 千葉で立てこもり 複数人が人質に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0b3590f2be15c0218869e227210e786c467559aaca8ee81fa65d1c1eca48f590.jpg> 万博東側入場の混雑 想定と異なる
+      <a href=https://news.yahoo.co.jp/pickup/6539364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/7e5b4dc93efa031b4a6d6bbed43f5f04f339462440f9eb361757d5170f843fcb.jpg> 猫型配膳ロボでシニア採用増 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6539368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6cded55dd186a71be554a5a5de31eed9077dd054cbf494469785658b3a95dacf.jpg> うどん「次の全国チェーン」検証
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/def9ccac28d44c50de1f38ab14acca7085e581f5d8f2833d64a359b431474508.jpg> 高学年で学童落ちた 親子の不安
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/35048d98336a41ffb9f0b1a0d42da3ecf1f89b753fdc11be3ea2badb616bf0e0.jpg> 快挙 三笘薫がプレミアで2桁得点
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 09:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 10:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
