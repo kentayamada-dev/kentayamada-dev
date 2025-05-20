@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { LinkIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
@@ -31,14 +32,14 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
 
     return (
       <Tag className='group relative flex items-center' id={headingId}>
-        <a
+        <Link
           // eslint-disable-next-line @typescript-eslint/no-base-to-string, @typescript-eslint/restrict-template-expressions
           aria-label={`${dict.articles.permalink}: ${props.children}`}
           className='absolute -left-5 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
           href={`#${headingId}`}
         >
           <LinkIcon />
-        </a>
+        </Link>
         {isFootnotes ? dict.articles.footnotes : props.children}
       </Tag>
     );

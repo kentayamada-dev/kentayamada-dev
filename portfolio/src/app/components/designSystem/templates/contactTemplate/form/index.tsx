@@ -1,6 +1,7 @@
 'use client';
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
+import Link from 'next/link';
 import Script from 'next/script';
 import { useActionState, useMemo } from 'react';
 import { Controller, useForm } from 'react-hook-form';
@@ -81,7 +82,7 @@ const Form: FormType = (props) => {
 
   return (
     <>
-      <Script src={`https://www.google.com/recaptcha/api.js?trustedtypes=true&render=${envClient.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}&hl=en`} />
+      <Script src={`https://www.google.com/recaptcha/api.js?trustedtypes=true&render=${envClient.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}`} />
       <form action={action} className='flex flex-col space-y-10'>
         <div className='grid grid-cols-2 gap-4'>
           <Input
@@ -185,6 +186,17 @@ const Form: FormType = (props) => {
           {...register('message')}
         />
         <div className='mb-10'>
+          <div className='text-secondary mb-3 text-sm'>
+            This site is protected by reCAPTCHA and the Google&nbsp;
+            <Link className='text-blue-500' href='https://policies.google.com/privacy'>
+              Privacy Policy
+            </Link>
+            &nbsp;and&nbsp;
+            <Link className='text-blue-500' href='https://policies.google.com/terms'>
+              Terms of Service
+            </Link>
+            &nbsp;apply.
+          </div>
           <input
             className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
             disabled={isPending}

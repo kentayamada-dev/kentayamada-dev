@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { headingLevels } from '@/constants/toc';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
@@ -85,7 +86,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 marginLeft: `${(heading.level - HEADING_LEVEL_OFFSET) * MARGIN_LEFT}rem`
               }}
             >
-              <a href={`#${heading.id}`}>{heading.text}</a>
+              <Link href={`#${heading.id}`}>{heading.text}</Link>
             </li>
           );
         })}
