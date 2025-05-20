@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0e87c265f3de7adbed3bedc5a958086.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/221a95138d5e988ff5769f4bea670434.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f3e20dbc7733440de0a59ce9c9ac7e743116d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000195-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏「危機の根本原因の除去」に固執　停戦なお見通せず　米露首脳電話会談
+      <a href=https://news.yahoo.co.jp/articles/3e736f6987ab8eb231bb951113f5eec2abe4e1d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010000-mietvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走　ペルー国籍の男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e94c151ea955fcd2f91dc3abe1135f0144dfc4b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走、ペルー国籍の男逮捕　玉突き事故で4人軽傷　三重県警
+      <a href=https://news.yahoo.co.jp/articles/8f3e20dbc7733440de0a59ce9c9ac7e743116d16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000195-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏「危機の根本原因の除去」に固執　停戦なお見通せず　米露首脳電話会談
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b1796e3d5492937556e92c3c33f3d94e5f557071ee59d7a9333ee51dbcb5ae32.jpg> 日鉄 USSに140億ドルの投資計画
+      <a href=https://news.yahoo.co.jp/pickup/6539359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/998866123c0f419969ac4cd9bc83bb53a3ebe1f7c37fc90e74e2a02f7fd0fd26.jpg> 不正勧誘 日本郵便・かんぽで処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0b3590f2be15c0218869e227210e786c467559aaca8ee81fa65d1c1eca48f590.jpg> 万博東側入場の混雑 想定と異なる
+      <a href=https://news.yahoo.co.jp/pickup/6539362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1a9ae53b19da5668192346d0a974d0bab0d80766023860d908e2de467b3c4944.jpg> 万博の予約転売 くら寿司語る対策
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 09:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 09:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
