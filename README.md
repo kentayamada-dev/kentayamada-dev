@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/221a95138d5e988ff5769f4bea670434.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e9002b3206a36032ff195632d628379.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca5732ded71c03df015be8fac1a1ab1b930ab249>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974208-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ロシア・ウクライナ停戦交渉のバチカン開催を評価」イタリア・メローニ首相「イタリアは連絡調整の用意がある」米ロ首脳電話会談受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96fddeb156b714dbad09f7e39a81cbead6fd706e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35200208-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 「ダメな2世議員の典型例」55歳落語家が江藤拓農相の不適切発言にチクリ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e736f6987ab8eb231bb951113f5eec2abe4e1d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010000-mietvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走　ペルー国籍の男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f3e20dbc7733440de0a59ce9c9ac7e743116d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000195-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏「危機の根本原因の除去」に固執　停戦なお見通せず　米露首脳電話会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b51ede88eccb9886edcd5e114b9e2a74827baf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-03797952-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】西・東日本で真夏日続出する見込み
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02ab8ded160dc36988dfd50f88df3b17cb54fd4de334ae8aeeedbfe034fb4429.jpg> 35℃以上になる所も 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6539361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d2ec0c5a7247c2dbebaeacee03610e76b9865579010977fe0e3ef1c420a5baa0.jpg> 土砂・洪水氾濫 マップ全国整備へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1519a1ec2e07e04671214da688a2c6d3b2c0d46852484dad7932bc2501874227.jpg> コメ価格 直接取引増で高止まりか
+      <a href=https://news.yahoo.co.jp/pickup/6539363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/da0fb7161d60f54e908b1dcebe8085b8f2bb4d7c09e42549fe726fcf4d1580c1.jpg> 首相 コメ発言の農水相続投の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/998866123c0f419969ac4cd9bc83bb53a3ebe1f7c37fc90e74e2a02f7fd0fd26.jpg> 不正勧誘 日本郵便・かんぽで処分
+      <a href=https://news.yahoo.co.jp/pickup/6539364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 09:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 10:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
