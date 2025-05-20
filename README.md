@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18a281e89f3700b6d1476df9ff9dfe06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/873a0be693d307694448057643ebc35e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07565e2cdcaa04650562896ad829cc61b48cbc31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000007-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 首相、農相の後任選定へ　コメ発言で江藤氏更迭意向
+      <a href=https://news.yahoo.co.jp/articles/d35815c778a4e67c946497c03b1094acf5f634a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00974796-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 後任に小泉進次郎氏起用を検討…石破首相が江藤農水相更迭へ　政権発足後初…きょうにも辞表提出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b558bffef444f7ff097d693e9195d5c4ed893e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-02376711-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 資材置き場で男性遺体　男性の長男を逮捕…殺害した疑いも視野に捜査へ　北九州市
       </a>
     </td>
   </tr>
@@ -370,24 +378,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3116af61f862f0d4bcee4ab7642d502b4733eb4b90eeaf23a2380d8c27d7b5c9.jpg> 首相 コメ発言の農水相を更迭へ
+      <a href=https://news.yahoo.co.jp/pickup/6539451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4511ab4d3a0f60b4fef03e0f0a5dc41b02da7a88a998ea660cdbe9b3517e11a4.jpg> 江藤農相更迭へ 小泉氏が後任有力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c444f8f146f41245f44b677c8bbb8649acf864dda5e04e0719d1c03a91e4d9aa.jpg> バイデン氏の衰え隠した? 疑う声
+      <a href=https://news.yahoo.co.jp/pickup/6539452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/88edff34897899d9b4b40c90dbad64b21f2775b00f52dccdc00bb0ea32a29600.jpg> 資材置き場に死体遺棄疑い 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/06b2c93971cd51dca9c43e700a0dcc6c44fa985c3f547c2fb7d5541f7d1a5946.jpg> 資材置き場に遺体 不明の男性か
+      <a href=https://news.yahoo.co.jp/pickup/6539453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/193aaefd33af6b0c2ef692147553e447b959a2f5e63e63d2ee19e36ef2a3edae.jpg> マスク氏 政治献金「大幅に削減」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 06:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 06:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
