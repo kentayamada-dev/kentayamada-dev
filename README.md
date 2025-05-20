@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7865efc24f63144966771dee7607ae9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d704615ae92d0127561ff87a72da750c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ebdda69b44be9e4d7b515b093fe479d0eed05e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「前進できたことを願う」米ロ首脳が2時間半の電話会談、ウクライナとの停戦交渉開始で一致
+      <a href=https://news.yahoo.co.jp/articles/921b3497bc38b7b4b582a2d8adaa2cb8d56b0539>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ買ったことない”発言の撤回なく…江藤農林水産大臣「いさぎよくなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96fddeb156b714dbad09f7e39a81cbead6fd706e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35200208-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 「ダメな2世議員の典型例」55歳落語家が江藤拓農相の不適切発言にチクリ
+      <a href=https://news.yahoo.co.jp/articles/abdd9861249f95960d1e339522de08d83a73890e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030185-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神で逆走　ペルー国籍の男が逮捕された事件　車には他に同乗者　三重
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e736f6987ab8eb231bb951113f5eec2abe4e1d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010000-mietvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神の逆走　ペルー国籍の男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/a58cdbb4700184c38049662873f41c19323b4a2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 欧州5首脳とゼレンスキー氏、トランプ氏と電話会合　独首相「制裁で対露圧力強める」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/a5095a84c9c8237e72a66911085f6f116293dd845e825e3eb8e71b081ab2c044.jpg> 首相 コメ発言の農水相続投の意向
+      <a href=https://news.yahoo.co.jp/pickup/6539364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
       </a>
     </td>
   </tr>
@@ -419,15 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/bec5980d3e02c5a14ed3ce7bcafea2b2a7b28907a983b4a1b512d8bf9d0d9d5c.jpg> 千葉で立てこもり 複数人が人質に
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f0676b19e2e761d9e03c40d9e6997632577dbc1cced8777eec086b94474c82cf.jpg> 千葉で立てこもり 複数人が人質に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
+      <a href=https://news.yahoo.co.jp/pickup/6539369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6e3876f3f6604dbc643d66779f851d97ba2a41dba1c75a695fe3acdb7ed2ebff.jpg> 殺人容疑の中3 猛毒購入していた
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 10:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 11:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
