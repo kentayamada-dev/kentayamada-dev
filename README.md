@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d5c01e54bafd3294f2b9d4abf0cdc51.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6133ddca207497d1da4dfdf81254931.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae760a6f3636445af48a070f32c5eb971424b1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90025296-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アイドル誌「POTATO」が9月号をもって休刊、アイドル誌の休刊が続く
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3500a0605d06a8b8b75aab306ca7e52e86b2180>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/732f64bf3bbe985dd2972d4a4a6d4389814f0faa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走当て逃げ容疑者は滋賀県警に出頭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed09801363c83179aec8ff4ee35253cd62d4ac9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08946674-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、“コメ発言”江藤農水相を改めて続投させる意向　野党側「大臣として不適格」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/2752a08e1df5027e3af79ca9b012053371c3f5f93dcd8c4a166ebcfd80473523.jpg> 母と妹を人質に立てこもり 千葉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b0af4bfd13814bab9fbce8cc64930e91420d54aa6a766852d2b2a0455ac6658c.jpg> 祖父母と両親の口論嫌 逮捕の少年
+      <a href=https://news.yahoo.co.jp/pickup/6539390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8c5f30ff460cf69ff30ef47a10838b81d88e5dc8924d518e4e5bff09a5a47cde.jpg> 千葉の立てこもり 男の身柄確保
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/159aafbbf30897fdeb694833519aa9fbeca6ebe96314c48262ae770ca0cfe749.jpg> 「POTATO」が休刊へ 1984年創刊
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 13:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 14:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
