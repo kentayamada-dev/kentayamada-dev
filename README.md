@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0b39349cb26a4682220d84926301e0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/625e5f59929677beec8b37891329611c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b22af83026cc285c5b7b44ec8cc7a2fa7d075541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025352-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “コメ発言”石破総理どう対応？野党・江藤大臣の更迭要求　不信任決議案提出も検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025352-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “コメ発言”石破総理どう対応？野党・江藤大臣の更迭要求　不信任決議案提出も検討
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d9e27b53b8b05a1a9531256a35c1a1d8bd095eaa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025354-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「何も起きなければ手を引く」トランプ氏“仲介撤退”示唆　ロシア“30日停戦”拒否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0337f55258d6a060e73f312a8f43313e05d3c767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-06514859-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル、大規模な地上作戦続ける　ガザ地区保健当局“これまでの24時間に87人が死亡”
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 02:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 03:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
