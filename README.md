@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1882e6cd9b422240c5ed08b18666520e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/291e2dc9f2ab09a43fa843079c579ccd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1689cc1875e04c73de15c9496cfeaa1accb1c2cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁　大河降板で代役に白石聖が内定報道　“大河イメージ低下”恐れるNHKとマッチした“条件とタイミング”
+      <a href=https://news.yahoo.co.jp/articles/f5d515dc9804a4c5be2a0271c287e23004ea519a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07298827-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “コメ発言”撤回も…江藤農水相に追及やまず　野党5党が辞任や更迭求める
       </a>
     </td>
   </tr>
@@ -386,6 +386,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539417>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スーパー届いた備蓄米 落札の7%
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/27d457c48686a88f359eb23a2f1613d6df3b1412a0b104e28c6545458e04132b.jpg> コメ発言の農相 野党が更迭要求へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539402>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6a9ad8170fdd13db29f2a0056e9b4f265fe7d0359438bc74aabfaf21e8295007.jpg> 農相が発言釈明 宮崎弁的な言い方
       </a>
@@ -396,22 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539416>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8925c544cf2c1a7813b1534fee8352aa0db2a63661e5b012f5b3cabd7554e74a.jpg> 戸籍の読み仮名 通知はがき26日～
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4f9142ba1bfb319cab44ac4f6478a47475b7b287c174c5c01823d44224a8e8b2.jpg> 住宅に2遺体「女児を保護」と通報
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 20:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 20:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
