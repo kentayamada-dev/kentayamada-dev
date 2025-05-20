@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d48dab7969c99ccd146cdbfde6cfee78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f18f8f7f67b6e82ca7d6b31c11dfc95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5df878ee9f14b89c6bb9f68c62365b8e8078dc9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237700-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 高速道路上でUターンし逆走始めた可能性　新名神高速を逆走した疑いでペルー国籍の34歳の男逮捕　「1台にしかぶつかっていない」と容疑一部否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/126f1413c02804c5b098f03f4e50a79053d18508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏 仲介役を撤退?「私は手を引く」発言も　プーチン氏「停戦」の条件は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55bc58bec81b370678e2fbd4b80e601727d8d63d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08199733-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 『コメを買ったことがない』発言撤回も…「ふざけるな」「苛立たしい」「本当に残念」憤りの声相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411ece873b99c77d02cfff87a5333ea798eb3a3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21925150-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 外国人ドライバー増加で逆走事故のリスク上昇? 専門家「真ん中を走るのが一番いい」 新名神の逆走事故でペルー人の男逮捕 三重・亀山市
+      <a href=https://news.yahoo.co.jp/articles/e8a5d6079175774483c2bf07eaf31f9aa0dcad4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010792-pinzuba-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=636&ch=636&exp=10800&fmt=webp> 不倫疑惑・永野芽郁「降板」で次の大河『豊臣兄弟!』26歳女優が代役になった3つのワケ　最重要は信頼感
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 18:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 19:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
