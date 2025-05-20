@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c8f701ff13f4c4a4c7b5c0b08f2b3f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91af963c530fe2b9c0a56dfb70a01dc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e03d08fc83b561a3f5c21eaf34d42eed09c80871>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=334&ch=334&exp=10800&fmt=webp> ガザに物資積んだトラック５台、２か月半ぶり搬入…国連「必要な物資のうち大海の一滴にすぎない」
+      <a href=https://news.yahoo.co.jp/articles/176b30f5c56aa75bc62fef9e089f621841546738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 日欧など22か国、ガザ支援「全面再開」をイスラエルに要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/471365103522c23763867d9acca69444c40c889e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07798679-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米露首脳電話会談　即時停戦進展せず　トランプ氏SNSに“交渉条件は当事者間で”
+      <a href=https://news.yahoo.co.jp/articles/8bb1c93544c118ffafaefe9976d97eaa356bf724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90025289-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「停戦は可能」プーチン氏　トランプ氏と2時間の電話会談　異例の早さで記者団の前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97bc9352acba03600ca74ae84965e93ec4088d6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974215-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ペルー国籍の男（34）は新名神の本線上でUターンし逆走か?同乗者いるとみて逆走理由を捜査…避けようとした車など4台絡む事故で女性4人負傷
+      <a href=https://news.yahoo.co.jp/articles/bd0374af1a59a1bdb366588b9759f5d081e6ba1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000046-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 雑誌「POTATO」が休刊、創刊41年の歴史に幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66fc4ddd2b21195455841d758eb82eb0682c1f3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000030-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 新名神逆走　ペルー国籍の男逮捕 車には同乗者も
+      <a href=https://news.yahoo.co.jp/articles/732f64bf3bbe985dd2972d4a4a6d4389814f0faa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走当て逃げ容疑者は滋賀県警に出頭
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6cded55dd186a71be554a5a5de31eed9077dd054cbf494469785658b3a95dacf.jpg> うどん「次の全国チェーン」検証
+      <a href=https://news.yahoo.co.jp/pickup/6539384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4fa72a171993c8eaba289b15424b148fcd5b67dffbd2a8f58c67d1cfd12bfa12.jpg> 校長がセクハラ 2年沈黙した教師
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539372>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ueharashinichi/02215560/title-1747692253142.jpeg?exp=10800> ノーノー達成早大4年 すごさ解説
+      <a href=https://news.yahoo.co.jp/pickup/6539383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/243d29fa1eed852de63ec844243c3659ec379e1eee0ce69447f8239d54d5ec1f.jpg> 東京 今夏の水道基本料ゼロの方針
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 12:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 13:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
