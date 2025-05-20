@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e9002b3206a36032ff195632d628379.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7865efc24f63144966771dee7607ae9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca5732ded71c03df015be8fac1a1ab1b930ab249>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974208-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ロシア・ウクライナ停戦交渉のバチカン開催を評価」イタリア・メローニ首相「イタリアは連絡調整の用意がある」米ロ首脳電話会談受け
+      <a href=https://news.yahoo.co.jp/articles/3ebdda69b44be9e4d7b515b093fe479d0eed05e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「前進できたことを願う」米ロ首脳が2時間半の電話会談、ウクライナとの停戦交渉開始で一致
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e8658f9509bef51ee876b5347bb0cda47b504e856a23e979e94b9701fe29fc45.jpg> ウ停戦合意できず 米露電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6539354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ca30be86dbae614ec2e2f77c1615943d81c35572100b0759e8ab6e2c11f75ab7.jpg> ウ大統領 米露欧州と高官協議検討
       </a>
     </td>
   </tr>
@@ -411,7 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/da0fb7161d60f54e908b1dcebe8085b8f2bb4d7c09e42549fe726fcf4d1580c1.jpg> 首相 コメ発言の農水相続投の意向
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/a5095a84c9c8237e72a66911085f6f116293dd845e825e3eb8e71b081ab2c044.jpg> 首相 コメ発言の農水相続投の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/bec5980d3e02c5a14ed3ce7bcafea2b2a7b28907a983b4a1b512d8bf9d0d9d5c.jpg> 千葉で立てこもり 複数人が人質に
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1a9ae53b19da5668192346d0a974d0bab0d80766023860d908e2de467b3c4944.jpg> 万博の予約転売 くら寿司語る対策
+      <a href=https://news.yahoo.co.jp/pickup/6539368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/6cded55dd186a71be554a5a5de31eed9077dd054cbf494469785658b3a95dacf.jpg> うどん「次の全国チェーン」検証
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/7e5b4dc93efa031b4a6d6bbed43f5f04f339462440f9eb361757d5170f843fcb.jpg> 猫型配膳ロボでシニア採用増 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6539366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/def9ccac28d44c50de1f38ab14acca7085e581f5d8f2833d64a359b431474508.jpg> 高学年で学童落ちた 親子の不安
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/35048d98336a41ffb9f0b1a0d42da3ecf1f89b753fdc11be3ea2badb616bf0e0.jpg> 快挙 三笘薫がプレミアで2桁得点
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 10:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 10:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
