@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d704615ae92d0127561ff87a72da750c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fed3f6b4a1ef78019057a5877d8b026.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a83afea31de4f70ad6b0160061074e93cfaf0b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050064-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏、米国の仲介離脱に危機感…トランプ氏に「恩恵を受けるのはプーチンだけだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf0517aaef026a29ab8482043ef721bf3253dd78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974231-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザに2カ月半ぶり支援物資搬入「大海の一滴」国連は大幅拡充訴え　イスラエル軍の地上侵攻続く…“2日間で死者260人超”ガザ保健省発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/921b3497bc38b7b4b582a2d8adaa2cb8d56b0539>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ買ったことない”発言の撤回なく…江藤農林水産大臣「いさぎよくなかった」
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/abdd9861249f95960d1e339522de08d83a73890e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030185-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神で逆走　ペルー国籍の男が逮捕された事件　車には他に同乗者　三重
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a58cdbb4700184c38049662873f41c19323b4a2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 欧州5首脳とゼレンスキー氏、トランプ氏と電話会合　独首相「制裁で対露圧力強める」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2587fa98d534f1ada75fc0003fd717d4659990a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233175-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 英仏加、イスラエルのガザ侵攻を非難　継続するなら「制裁」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/d2ec0c5a7247c2dbebaeacee03610e76b9865579010977fe0e3ef1c420a5baa0.jpg> 土砂・洪水氾濫 マップ全国整備へ
+      <a href=https://news.yahoo.co.jp/pickup/6539370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/fcbfb04c95a10eca49569bed250d46e9680e0a18e8e8a6face756f0448ae05a2.jpg> 首相一時前のめりも 別姓実現遠く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 11:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 11:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
