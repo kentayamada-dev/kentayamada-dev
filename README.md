@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fed3f6b4a1ef78019057a5877d8b026.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab78ea9165b988dd2c22bd450bafe1ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a83afea31de4f70ad6b0160061074e93cfaf0b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00050064-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ゼレンスキー氏、米国の仲介離脱に危機感…トランプ氏に「恩恵を受けるのはプーチンだけだ」
+      <a href=https://news.yahoo.co.jp/articles/47efeea4ac45b38f0703753768ff7f9e586a2f8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-16542284-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=591&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナは「直ちに」停戦交渉すると　両国首脳と電話協議の後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf0517aaef026a29ab8482043ef721bf3253dd78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974231-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザに2カ月半ぶり支援物資搬入「大海の一滴」国連は大幅拡充訴え　イスラエル軍の地上侵攻続く…“2日間で死者260人超”ガザ保健省発表
+      <a href=https://news.yahoo.co.jp/articles/1304428a68028bf702a1213abf6315e6a589c94f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974251-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 新名神の本線上でUターンし逆走始めたか?4台絡む事故起こし逃げたペルー国籍の男、同乗者いるとみて捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/921b3497bc38b7b4b582a2d8adaa2cb8d56b0539>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ買ったことない”発言の撤回なく…江藤農林水産大臣「いさぎよくなかった」
+      <a href=https://news.yahoo.co.jp/articles/e081a2c0708b54a9c2ae4133a76e06b6bb766978>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21923646-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “ガザ見物ツアー”訪れたイスラエル人「爆弾の音は嬉しい」との発言 イスラエル軍による大規模地上作戦 ガザの死者は連日100人超え 今後の停戦の可能性は?【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abdd9861249f95960d1e339522de08d83a73890e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030185-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新名神で逆走　ペルー国籍の男が逮捕された事件　車には他に同乗者　三重
+      <a href=https://news.yahoo.co.jp/articles/05a65ad7aa9473cd6ca8ff1eb98920c1ad03cc2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=426&ch=426&exp=10800&fmt=webp> いわき信組の架空融資、財務相「厳正に対応」　震災後200億円注入
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/9ff025d34025945a140c2f250eba61c850adbdbaf286d6ddf58c8cac5ea024be.jpg> 東京都心 今年初30℃以上の真夏日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539370>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/fcbfb04c95a10eca49569bed250d46e9680e0a18e8e8a6face756f0448ae05a2.jpg> 首相一時前のめりも 別姓実現遠く
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/967265ea6e479fd398d3511ff5d2b3ae22fb11b714b75a0a281324c1baad2c36.jpg> スバルが米で値上げ 関税影響か
+      <a href=https://news.yahoo.co.jp/pickup/6539378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/2752a08e1df5027e3af79ca9b012053371c3f5f93dcd8c4a166ebcfd80473523.jpg> 母と妹を人質に立てこもり 千葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f0676b19e2e761d9e03c40d9e6997632577dbc1cced8777eec086b94474c82cf.jpg> 千葉で立てこもり 複数人が人質に
+      <a href=https://news.yahoo.co.jp/pickup/6539373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b0af4bfd13814bab9fbce8cc64930e91420d54aa6a766852d2b2a0455ac6658c.jpg> 祖父母と両親の口論嫌 逮捕の少年
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/def9ccac28d44c50de1f38ab14acca7085e581f5d8f2833d64a359b431474508.jpg> 高学年で学童落ちた 親子の不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/da178d7ea17e6f4b30eb2ede9e9fec8f52dccc181eaa70678cbb9fc4d09d1597.jpg> 市長 ザブングル加藤とM-1挑戦へ
+      <a href=https://news.yahoo.co.jp/pickup/6539372>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ueharashinichi/02215560/title-1747692253142.jpeg?exp=10800> ノーノー達成早大4年 すごさ解説
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 11:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
