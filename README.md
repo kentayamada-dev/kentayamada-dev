@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f18f8f7f67b6e82ca7d6b31c11dfc95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0e5d13745354ceea16d0909e770f117.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5df878ee9f14b89c6bb9f68c62365b8e8078dc9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237700-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 高速道路上でUターンし逆走始めた可能性　新名神高速を逆走した疑いでペルー国籍の34歳の男逮捕　「1台にしかぶつかっていない」と容疑一部否認
+      <a href=https://news.yahoo.co.jp/articles/a14e385b1c1e6b1cc0a1bfd160237f38ae6a4567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974497-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【なぜ】本線上でUターンし逆走か?新名神下り10km超“逆走”し車2台と衝突…ペルー国籍の男（34）逮補「当たったのは1台だけ」一部容疑否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd5b7201981391b4fb6e5353838509c7cfb62c5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁の「大河代役」は広末涼子の“育ての親”がひと目惚れ…数年越しの“引き抜き”直後から大役つかんだ“売り出し力”
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/126f1413c02804c5b098f03f4e50a79053d18508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8a5d6079175774483c2bf07eaf31f9aa0dcad4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010792-pinzuba-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=636&ch=636&exp=10800&fmt=webp> 不倫疑惑・永野芽郁「降板」で次の大河『豊臣兄弟!』26歳女優が代役になった3つのワケ　最重要は信頼感
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000078-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ氏　仲介役を撤退？「私は手を引く」発言も　プーチン氏「停戦」の条件は
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0744808f8de88ef6b0b273bb3e38e56d8e1f4de40a20b542be9f4b9eba0a2da5.jpg> 資材置き場に遺体 殺人視野に捜査
+      <a href=https://news.yahoo.co.jp/pickup/6539414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8925c544cf2c1a7813b1534fee8352aa0db2a63661e5b012f5b3cabd7554e74a.jpg> 戸籍の読み仮名 通知はがき26日～
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539413>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4f9142ba1bfb319cab44ac4f6478a47475b7b287c174c5c01823d44224a8e8b2.jpg> 住宅に2遺体「女児を保護」と通報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/05e38105096734c4fc792fa294c32513c1746b7329d987f5d2ebfee279ddf762.jpg> 新名神逆走 逮捕の男は外免切替
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/45d835afbce3a548e5bcbc556c09c09a0b4c44e500ffe20166208ce889d1f5ba.jpg> 来年の大河 永野芽郁代役に白石聖
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/19df2ed2a3d99f127f9bc7f77f7d9b90cda93e2be6815750b273914469e1bbb0.jpg> 森口博子 足骨折し当日に公演延期
+      <a href=https://news.yahoo.co.jp/pickup/6539425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0da7ca637a99e6ba35a6a22fa5e079fb2d7015ce985ae0bf50533713c66dd8f0.jpg> 永野芽郁の大河代役 白石聖とは
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 19:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 19:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
