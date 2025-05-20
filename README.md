@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b58995660390517120ff421b390d26f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6caa035dd36d2e9b11ea5f1912afb38a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae73f4f7b67ce0e87377567411f7fd5bb876aff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211012-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「江藤農水大臣の辞任は避けられない情勢のようです。きょうにも最終判断するものとみられます」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝える
+      <a href=https://news.yahoo.co.jp/articles/4ca1843d91aaba89ba216b0b7074c7ba30539ca3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05172221-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 石破首相、江藤農水相を更迭する意向固める　後任に小泉進次郎氏有力視
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0128274b5dfdbe4c4910c7b77d771b1e5b58dfcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000002-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1555&ch=1555&exp=10800&fmt=webp> ＜木村文乃＞フジ連ドラ初主演でラウールと初共演　ラウールはGP帯連ドラ初出演　7月期木曜劇場「愛の、がっこう。」（コメント全文）
+      <a href=https://news.yahoo.co.jp/articles/776ac6eeb047e1f8189c7a44ecb8828d7b572ced>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 検索「AIモード」、全米で提供へ　疑問の追究容易に　グーグル
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539453>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/193aaefd33af6b0c2ef692147553e447b959a2f5e63e63d2ee19e36ef2a3edae.jpg> マスク氏 政治献金「大幅に削減」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/2375035906fd866bfa68a71bd45bee264a823e536ec08c40717b4981553302b2.jpg> 韓国野党候補 日本と仲良くしたい
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539440>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博で虫が大量発生 当分続くか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0300d3b303bb28d618720d8f88624dcf421174eb329bcb3d177c357cb6f9cd8d.jpg> 楽天 元パドレスの大砲候補獲得へ
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 07:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
