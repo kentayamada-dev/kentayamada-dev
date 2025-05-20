@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb257d54a33592c68c2247722b466750.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb3ece14a7eb4474c87460417f68d155.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9edcd5cd53b1360826932d2de48c442dd933e0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-21925433-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 「『売るほどある』は宮崎弁的な言い方」江藤拓農水大臣が釈明　一連の発言に宮崎県民から厳しい声「県民自体が悪いように見られる」
+      <a href=https://news.yahoo.co.jp/articles/d15fab1b0f19398c08e14b99d0e24d56cf2b2cda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-08339614-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】米露首脳電話会談で…プーチン氏“即時停戦”拒否　ウクライナと直接交渉へ　トランプ氏“仲介離脱も”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a42d4233d66614a021fb6eff2803c6429113b4ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-90030193-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ペルー国籍の男(34)が1人で警察に出頭　容疑者を知る関係者「普通の人、悪いこともなく」　新名神逆走
+      <a href=https://news.yahoo.co.jp/articles/140c7001f3579238a4c7bade83c1140a0b6681ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-05911988-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 新名神高速で逆走→ 逃走　ペルー国籍の男を逮捕　徐々に判明した足取りとは　三重・新名神高速
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3526482540b40b1b5509d501a58fb73cfdbb5a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-07237650-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「停戦は遠のいた」専門家が解説　米ロ首脳の電話会談から見えるロシアとウクライナの「停戦」行方は
+      <a href=https://news.yahoo.co.jp/articles/88a178d287445d75be832d2ef90ee1aad9afcb54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-04569239-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 森口博子、ライブ中転倒で左足首剥離骨折 当日に公演延期を発表「お医者様に安静と言われました」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/55d1a44e301369f1819c9b0c885baca5e1a4a8096ccdfb6ca6515408b043b9d5.jpg> 外国免許の切り替え 厳格化を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ebee8a4edc07072e93e7d2e2870f85076b9d890fa808990a1d515473b72fc60e.jpg> 小4不明22年 不審車両の画像公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ebee8a4edc07072e93e7d2e2870f85076b9d890fa808990a1d515473b72fc60e.jpg> 小4不明22年 不審車両の画像公開
+      <a href=https://news.yahoo.co.jp/pickup/6539408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/e76f0e64254e31fcd7cc72fd7a8149072c2e695ba40a529b0416829d3d034597.jpg> 「性搾取ビジネス」背後に匿流
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/bca975d84e78ab110d5dc99d3aa25b2494f60613e70e0cec5795b0ce5abe1066.jpg> 23区新築マンション平均1億円割る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02402b03407c102011440b0fe27630c7ca617e9bb1bba5faf196de07002aabf8.jpg> 伊藤忠 おぱんちゅうさぎ北米展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539409>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02215068/title-1747647881058.jpeg?exp=10800> Switch2「落選祭り」品不足の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4bc4cfa83e4f4170373df9f754809567c7bbb51443edc89dbf45c74fc8f5b5ef.jpg> ジブリパーク 初の夜間営業実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/9bfbcc0d1cd87caf54182f2a055c3ee0304043578c9efeac6712ac893873269f.jpg> 4戦32失点投手陣に苦言 ド軍監督
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 17:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 18:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
