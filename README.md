@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36f325c4113ac52327082c84324f0f54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf69273d43f6ad1d0c9b2a4867a83ba7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/014091fa456e4ef7c50dbfabc1e602f65c45b489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000057-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
+      <a href=https://news.yahoo.co.jp/articles/59d79aecc5a38415c924754b29ee490cb1d2d796>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 真夏日今年最多の200地点以上　東京都心は31.1℃　21日（水）も暑さ続く　熱中症に注意を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b913930bdbf4138c860ecbca06d1f0d56384360>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ジブリパークで夜間営業　3エリアで午後8時まで
+      <a href=https://news.yahoo.co.jp/articles/014091fa456e4ef7c50dbfabc1e602f65c45b489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000057-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1348976e8a838642da351e94d5cf9f4940d4a26102fcbd0044552bdd9fdfa39a.jpg> いわき信用組合の不正 取引先憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539400>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ebee8a4edc07072e93e7d2e2870f85076b9d890fa808990a1d515473b72fc60e.jpg> 小4不明22年 不審車両の画像公開
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/34c9405fd4f06433f87cfdf822029d49fd4dfe8341a8467f85b9c76cacee2866.jpg> サヴァ缶製造 釜石工場を休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6539409>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02215068/title-1747647881058.jpeg?exp=10800> Switch2「落選祭り」品不足の訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/4bc4cfa83e4f4170373df9f754809567c7bbb51443edc89dbf45c74fc8f5b5ef.jpg> ジブリパーク 初の夜間営業実施へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 16:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 17:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
