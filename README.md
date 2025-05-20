@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/daad3278004cba94c712437915000367.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/286ce8bb31f3f0d2448adb3d3d11515d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aec19fd8b7ae473cdef925cc1d8ac1cb30399eb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00345287-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> プリンセス天功〝埋蔵金〟ヒントを公演で明かすプランも「せっかくなら私も楽しみたい」
+      <a href=https://news.yahoo.co.jp/articles/cbc71bb7a2b7bb9468ce312dbcf22b1220c9e419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35201965-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 【楽天】三木肇監督、浅村の連続試合出場ストップに言及「総合的に判断」「今後も彼の力が必要」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539417>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スーパー届いた備蓄米 落札の7%
+      <a href=https://news.yahoo.co.jp/pickup/6539444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3dc5718069c3743ce3eb18b9809047a4fd4939af14cefd3cd63ba286d515ccc8.jpg> 早すぎる夏 都内で熱中症12人搬送
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539438>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c444f8f146f41245f44b677c8bbb8649acf864dda5e04e0719d1c03a91e4d9aa.jpg> バイデン氏の衰え隠した? 疑う声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b44a923fadea134d8ca010dd8f50c9d61d7afaf6909fd873f7643b78cff5a84f.jpg> 小学生列に車 治療の医師語る状況
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3337f8cd942bc9c94d92d7342de6115abba081db879a2a88c706c0db466a1b8e.jpg> 室伏氏 新体操の指導問題に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539440>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博で虫が大量発生 当分続くか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b9a0725e8ee366cb0962d7195bb04f62df78ae9f27dd1920924a53cf14723cc7.jpg> 浅村欠場 楽天監督は苦渋の決断
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 23:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
