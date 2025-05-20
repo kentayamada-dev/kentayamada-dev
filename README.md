@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/HYR8bl9w6Zo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22c9592564fcffcbd0c628fd028bdaf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0e87c265f3de7adbed3bedc5a958086.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75425ec2047fe36943dab3d43e70a22c6998179e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000191-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> 即時停戦で合意できず　米露首脳が電話会談　トランプ氏、停戦条件「当事者間で交渉」
+      <a href=https://news.yahoo.co.jp/articles/8f3e20dbc7733440de0a59ce9c9ac7e743116d16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250519-00000195-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> プーチン氏「危機の根本原因の除去」に固執　停戦なお見通せず　米露首脳電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e4e10984ff5439b4071288a7bd3d7cd765e8bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00010007-isenp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=298&ch=298&exp=10800&fmt=webp> 逃走車10キロ以上逆走か　亀山の新名神逆走6台が巻き込み事故
+      <a href=https://news.yahoo.co.jp/articles/e94c151ea955fcd2f91dc3abe1135f0144dfc4b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走、ペルー国籍の男逮捕　玉突き事故で4人軽傷　三重県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4754d5420ff45011e4abfac4042c5f7b26582852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000002-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 【速報】最高気温35度の予想　きょう埼玉・秩父で　今年初の猛暑日か　熊谷で34度、さいたまで32度　予想気温さらに上昇
+      <a href=https://news.yahoo.co.jp/articles/3b51ede88eccb9886edcd5e114b9e2a74827baf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-03797952-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】西・東日本で真夏日続出する見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/198d1fd9a2b84dfbe5313f0e2b287b058359f193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-10179216-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> イスラエル、約2カ月半ぶりに支援物資搬入も ガザへの攻勢激化
+      <a href=https://news.yahoo.co.jp/articles/b2587fa98d534f1ada75fc0003fd717d4659990a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35233175-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 英仏加、イスラエルのガザ侵攻を非難　継続するなら「制裁」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8ac22017bc533939c3ed8fa9ded5c3ef013a8fe8014bea593d9392b6a9ca8bf2.jpg> 「消した年金法案」立憲が批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539351>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/02ab8ded160dc36988dfd50f88df3b17cb54fd4de334ae8aeeedbfe034fb4429.jpg> 35℃以上になる所も 熱中症注意
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8cbf1e00e967c323cbe4d177e0951f37d81658fb69d26405f94bbe6772f1c380.jpg> 農水相のコメ発言 憤る精米店
+      <a href=https://news.yahoo.co.jp/pickup/6539345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1519a1ec2e07e04671214da688a2c6d3b2c0d46852484dad7932bc2501874227.jpg> コメ価格 直接取引増で高止まりか
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/304d40a6453665b6fef0d193ee7eef3ff87cd8c23e49346903a725895333174e.jpg> TOEIC替え玉受験か 侵入疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0b3590f2be15c0218869e227210e786c467559aaca8ee81fa65d1c1eca48f590.jpg> 万博東側入場の混雑 想定と異なる
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/7e5b4dc93efa031b4a6d6bbed43f5f04f339462440f9eb361757d5170f843fcb.jpg> 猫型配膳ロボでシニア採用増 なぜ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/da178d7ea17e6f4b30eb2ede9e9fec8f52dccc181eaa70678cbb9fc4d09d1597.jpg> 市長 ザブングル加藤とM-1挑戦へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 08:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 09:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
