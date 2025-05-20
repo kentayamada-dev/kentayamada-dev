@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/286ce8bb31f3f0d2448adb3d3d11515d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6ab43773fa41f213ccc38af73228f01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbc71bb7a2b7bb9468ce312dbcf22b1220c9e419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-35201965-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 【楽天】三木肇監督、浅村の連続試合出場ストップに言及「総合的に判断」「今後も彼の力が必要」
+      <a href=https://news.yahoo.co.jp/articles/5e3c98799af57d191394b19c3a1dbb5c8007fe44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00974765-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】石破首相が江藤農水相の交代方向で検討　「コメ買ったことがない」発言めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eed63e37673340b905c4cc70aaeb095e940e3ea6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ネタニヤフ首相「ガザ全域制圧めざす」　英仏カナダは作戦停止求める
+      <a href=https://news.yahoo.co.jp/articles/0337f55258d6a060e73f312a8f43313e05d3c767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、大規模な地上作戦続ける　ガザ地区保健当局“これまでの24時間に87人が死亡”
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9d0829bbf49dca55dd5df93edaf51b0e069d961>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000151-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 新名神事故「逆走したが1台としかぶつかっていない」外免切替ペルー人　Uターン10キロ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3dc5718069c3743ce3eb18b9809047a4fd4939af14cefd3cd63ba286d515ccc8.jpg> 早すぎる夏 都内で熱中症12人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6539449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3116af61f862f0d4bcee4ab7642d502b4733eb4b90eeaf23a2380d8c27d7b5c9.jpg> 首相 コメ発言の農水相を更迭へ
       </a>
     </td>
   </tr>
@@ -410,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/20eeee4be0b9d07a315ab29bf5bf301975e6c4c5c0e65b207a23337d2bcd2a4a.jpg> 母に注意され 監禁容疑の男供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/8be8a99898e7baf2473ba927dd290c66dc02b7ae7c0daf451d33a7605c9b8cc6.jpg> 農相「宮崎弁的言い方」県民の声
+      <a href=https://news.yahoo.co.jp/pickup/6539446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/06b2c93971cd51dca9c43e700a0dcc6c44fa985c3f547c2fb7d5541f7d1a5946.jpg> 資材置き場に遺体 不明の男性か
       </a>
     </td>
   </tr>
@@ -428,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539440>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博で虫が大量発生 当分続くか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0659f0438f7794fd69e2bf31733b9686dede90c1aaabb62f22543b9bf9815d8b.jpg> 今夏の都水道基本料0 いくらお得
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1776aa922995725ecb1ff7efcfc2e37cf67e6f35be5eca6b8d05b4008a79270d.jpg> プリンセス天功 埋蔵金計画に言及
+      <a href=https://news.yahoo.co.jp/pickup/6539450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/42dda08d592c36fb87433a3dabec2022a1d3c3cad638890766df250f480f9e76.jpg> 横浜流星ら涙 カンヌで6分間拍手
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 23:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 23:52:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
