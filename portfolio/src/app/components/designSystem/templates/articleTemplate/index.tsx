@@ -4,7 +4,7 @@ import type { ArticleTemplateType } from './types';
 
 const ArticleTemplate: ArticleTemplateType = (props) => {
   return (
-    <main className='my-20 flex max-w-6xl flex-col self-center sm:mx-10'>
+    <main className='my-20 flex max-w-7xl flex-col self-center sm:mx-10'>
       <Article
         articleTitle={props.articleTitle}
         content={props.content}

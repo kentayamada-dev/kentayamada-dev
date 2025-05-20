@@ -1,4 +1,3 @@
-import type { themeOptions } from '.';
 import type { IconType } from '@/types/components';
 
 type ThemeOptionType = {
@@ -6,8 +5,8 @@ type ThemeOptionType = {
   name: string;
 };
 
-type ThemeOptionKeyType = keyof typeof themeOptions;
+type ThemeOptionKeyType = 'dark' | 'light' | 'system';
 
-type ThemeOptionsType = Record<string, ThemeOptionType>;
+type ThemeOptionsType = Record<ThemeOptionKeyType, ThemeOptionType>;
 
 export type { ThemeOptionKeyType, ThemeOptionsType };

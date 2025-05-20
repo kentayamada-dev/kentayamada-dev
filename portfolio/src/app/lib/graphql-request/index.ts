@@ -2,24 +2,12 @@ import { gql } from 'graphql-request';
 import { throwColoredError } from '@/utils';
 import { apiRequest } from './client';
 import type {
-  GetAboutType,
-  GetArticleBySlugType,
-  GetArticlesType,
-  GetCareersType,
-  GetFaqsType,
-  GetMetadataType,
-  GetProjectsType,
-  GetSitemapType,
-  GetSlugsType,
-  GetUtilitiesType,
-  GetUtilityBySlugType
-} from './types';
-import type {
   AboutResponseType,
   ArticleResponseType,
   ArticleSlugsResponseType,
   ArticlesResponseType,
   CareersResponseType,
+  ContactResponseType,
   FaqsResponseType,
   MetadataResponseType,
   ProjectItemsType,
@@ -30,6 +18,20 @@ import type {
   UtilityResponseType,
   UtilitySlugsResponseType
 } from '@/types/contentful';
+import type {
+  GetAboutType,
+  GetArticleBySlugType,
+  GetArticlesType,
+  GetCareersType,
+  GetContactType,
+  GetFaqsType,
+  GetMetadataType,
+  GetProjectsType,
+  GetSitemapType,
+  GetSlugsType,
+  GetUtilitiesType,
+  GetUtilityBySlugType
+} from './types';
 
 const getProjects: GetProjectsType = async () => {
   let pinnedRepos: ProjectItemsType = [];
@@ -227,6 +229,31 @@ const getCareers: GetCareersType = async (locale) => {
   return careers;
 };
 
+const getContact: GetContactType = async (locale) => {
+  const query = gql`
+    query Query($locale: String!) {
+      contactCollection(locale: $locale) {
+        items {
+          title
+          subtitle
+        }
+      }
+    }
+  `;
+
+  const [contact] = (
+    await apiRequest<ContactResponseType>('contentful', query, {
+      locale
+    })
+  ).contactCollection.items;
+
+  if (!contact) {
+    return throwColoredError('contact is empty', 'red');
+  }
+
+  return contact;
+};
+
 const getUtilities: GetUtilitiesType = async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [UtilityOrder]!) {
@@ -392,6 +419,7 @@ export {
   getArticleSlugs,
   getArticles,
   getCareers,
+  getContact,
   getFaqs,
   getMetadata,
   getProjects,

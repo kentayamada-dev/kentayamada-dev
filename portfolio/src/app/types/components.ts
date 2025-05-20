@@ -1,10 +1,10 @@
 import type { Metadata } from 'next';
-import type { ChangeEventHandler, Dispatch, FC, JSX, PropsWithChildren, ReactNode, SetStateAction } from 'react';
+import type { FC, JSX, PropsWithChildren, ReactNode } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
 type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
-type ElementChangeEventType<K extends keyof HTMLElementTagNameMap> = ChangeEventHandler<HTMLElementTagNameMap[K]>;
+type RequiredCallbackType<T> = Exclude<T, undefined>;
 
 type ConditionalPickType<T, RequiredKeys extends keyof T, OptionalKeys extends keyof T = never> = Required<Pick<T, RequiredKeys>> &
   Partial<Pick<T, OptionalKeys>>;
@@ -56,8 +56,6 @@ type ArticlePageProps = {
 
 type NextLayoutProps = PageProps & ConditionalPickType<PropsWithChildren, 'children'>;
 
-type StateSetterType<T> = Dispatch<SetStateAction<T>>;
-
 type ComponentType<P = object> = (props: DeepReadonlyType<P>) => JSXElementType;
 
 type AsyncMetadataComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncMetadataType;
@@ -90,7 +88,6 @@ export type {
   ComponentType,
   ConditionalPickType,
   DeepReadonlyType,
-  ElementChangeEventType,
   GenerateMetadataType,
   IconType,
   JSXElementType,
@@ -98,7 +95,7 @@ export type {
   LayoutPageType,
   NextLayoutProps,
   NotFoundPageType,
-  StateSetterType,
+  RequiredCallbackType,
   StrictOmitType,
   UtilityGenerateStaticParamsType
 };

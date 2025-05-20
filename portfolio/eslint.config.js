@@ -16,6 +16,7 @@ import {
   sortDestructureKeysPrefix,
   sortDestructureKeysRule
 } from './.eslint/sort-destructure-keys.js';
+import { customPlugin, customPrefix, customPluginRulesName } from './.eslint/custom/index.js';
 import globals from 'globals';
 
 export default tseslintPlugin.config(
@@ -48,6 +49,7 @@ export default tseslintPlugin.config(
       [sortDestructureKeysPrefix]: sortDestructureKeysPlugin,
       [sortExportsPrefix]: sortExportsPlugin,
       [eslintCommentsPrefix]: eslintCommentsPlugin,
+      [customPrefix]: customPlugin,
       ...tseslintConfig.plugins
     },
     extends: [
@@ -69,7 +71,8 @@ export default tseslintPlugin.config(
       ...cspellRule,
       ...sortDestructureKeysRule,
       ...sortExportsRule,
-      ...eslintCommentsRule
+      ...eslintCommentsRule,
+      [`${customPrefix}/${customPluginRulesName.importOrder}`]: 'error'
     }
   },
   {
@@ -93,7 +96,8 @@ export default tseslintPlugin.config(
       ...reactRule,
       ...nextRule,
       ...reactHooksRule,
-      '@stylistic/jsx-quotes': ['error', 'prefer-single']
+      '@stylistic/jsx-quotes': ['error', 'prefer-single'],
+      [`${customPrefix}/${customPluginRulesName.jsxSpreadPropsLast}`]: 'error'
     }
   },
   {

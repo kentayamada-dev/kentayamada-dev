@@ -4,6 +4,7 @@ const contentfulType = {
   },
   metadata: {
     articles: 'articles',
+    contact: 'contact',
     kentaYamada: 'kenta-yamada',
     pageNotFound: 'page-not-found',
     projects: 'projects',

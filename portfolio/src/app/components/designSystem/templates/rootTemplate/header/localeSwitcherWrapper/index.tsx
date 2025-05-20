@@ -1,17 +1,19 @@
 'use client';
 
 import { usePathname, useRouter } from 'next/navigation';
-import { locales } from '@/constants/i18n';
+import { Switcher } from '@/components/designSystem/molecules';
+import { dictionaries, locales } from '@/constants/i18n';
 import { setLocaleCookie } from '@/lib/cookies-next';
-import { LocaleSwitcher } from './localeSwitcher';
+import type { SwitcherProps } from '@/components/designSystem/molecules';
 import type { LocaleSwitcherWrapperType } from './types';
-import type { StateSetterType } from '@/types/components';
 
 const LocaleSwitcherWrapper: LocaleSwitcherWrapperType = (props) => {
   const pathname = usePathname();
   const router = useRouter();
+  const currentLocaleObj = locales[props.locale];
+  const { localeSwitcherLabel } = dictionaries[props.locale].labels;
 
-  const handleChange: StateSetterType<string> = (newLocale) => {
+  const handleChange: SwitcherProps['onChange'] = (newLocale) => {
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
       await setLocaleCookie(newLocale.toString());
@@ -22,7 +24,16 @@ const LocaleSwitcherWrapper: LocaleSwitcherWrapperType = (props) => {
     })();
   };
 
-  return <LocaleSwitcher handleLocale={handleChange} locale={props.locale} locales={locales} />;
+  return (
+    <Switcher
+      buttonIcon={currentLocaleObj.icon}
+      buttonLabel={localeSwitcherLabel}
+      isMounted
+      onChange={handleChange}
+      options={locales}
+      value={props.locale}
+    />
+  );
 };
 
 export { LocaleSwitcherWrapper };

@@ -10,7 +10,7 @@ function camelToTitle(str: string): string {
 
 addons.setConfig({
   sidebar: {
-    renderLabel: ({ name, type }) => {
+    renderLabel: ({ name }) => {
       return camelToTitle(name);
     }
   }

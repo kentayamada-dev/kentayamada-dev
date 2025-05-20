@@ -1,9 +1,7 @@
-import type { RefObject } from 'react';
 import type { ComponentType } from '@/types/components';
 
 type TableOfContentsProps = {
   articleClassName: string;
-  tocContainerRef: RefObject<HTMLElement | null>;
 };
 
 type TableOfContentsHeadingType = {

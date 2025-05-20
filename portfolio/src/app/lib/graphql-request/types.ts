@@ -5,6 +5,7 @@ import type {
   ArticleType,
   ArticlesType,
   CareersType,
+  ContactType,
   FaqsType,
   MetadataType,
   ProjectItemsType,
@@ -14,17 +15,19 @@ import type {
   UtilityType
 } from '@/types/contentful';
 
+type GetContentType<T> = () => Promise<DeepReadonlyType<T>>;
+
 type GetContentByLocaleType<T> = (locale: LocaleKeyType) => Promise<DeepReadonlyType<T>>;
 
 type GetContentBySlugType<T> = (locale: LocaleKeyType, slug: string) => Promise<DeepReadonlyType<T>>;
 
-type GetSlugsType = () => Promise<DeepReadonlyType<SlugsType>>;
+type GetSlugsType = GetContentType<SlugsType>;
 
-type GetSitemapType = () => Promise<DeepReadonlyType<SitemapType>>;
+type GetSitemapType = GetContentType<SitemapType>;
 
-type GetProjectsType = () => Promise<DeepReadonlyType<ProjectItemsType>>;
+type GetProjectsType = GetContentType<ProjectItemsType>;
 
-type GetMetadataType = (locale: LocaleKeyType, id: string) => Promise<DeepReadonlyType<MetadataType>>;
+type GetContactType = GetContentByLocaleType<ContactType>;
 
 type GetArticlesType = GetContentByLocaleType<ArticlesType>;
 
@@ -32,19 +35,22 @@ type GetCareersType = GetContentByLocaleType<CareersType>;
 
 type GetUtilitiesType = GetContentByLocaleType<UtilitiesType>;
 
-type GetAboutType = (locale: LocaleKeyType) => Promise<DeepReadonlyType<AboutType>>;
+type GetAboutType = GetContentByLocaleType<AboutType>;
+
+type GetMetadataType = GetContentBySlugType<MetadataType>;
 
 type GetArticleBySlugType = GetContentBySlugType<ArticleType>;
 
 type GetUtilityBySlugType = GetContentBySlugType<UtilityType>;
 
-type GetFaqsType = (locale: LocaleKeyType, id: string) => Promise<DeepReadonlyType<FaqsType>>;
+type GetFaqsType = GetContentBySlugType<FaqsType>;
 
 export type {
   GetAboutType,
   GetArticleBySlugType,
   GetArticlesType,
   GetCareersType,
+  GetContactType,
   GetFaqsType,
   GetMetadataType,
   GetProjectsType,

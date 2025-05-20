@@ -2,16 +2,19 @@ import type { InputType } from './types';
 
 const Input: InputType = (props) => {
   // eslint-disable-next-line react/destructuring-assignment
-  const { id, label, ...inputProps } = props;
+  const { label, name, ...inputProps } = props;
 
   return (
     <div>
-      <label className='text-primary block pb-2 text-base font-medium' htmlFor={id}>
+      <label className='text-primary block pb-2 text-base font-medium' htmlFor={name}>
         {label}
       </label>
-      <div className='overflow-hidden rounded-lg ring-1 ring-gray-300 has-[input:focus-within]:ring-2 has-[input:focus-within]:ring-blue-500 dark:ring-gray-600'>
-        <input {...inputProps} className='bg-primary w-full p-2.5 text-base text-black focus:outline-hidden dark:text-white' id={id} />
-      </div>
+      <input
+        className='bg-primary placeholder-primary w-full rounded-lg p-2.5 text-base text-black outline-1 -outline-offset-1 outline-gray-300 focus:-outline-offset-2 dark:text-white dark:outline-gray-600'
+        id={name}
+        name={name}
+        {...inputProps}
+      />
     </div>
   );
 };

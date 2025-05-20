@@ -13,4 +13,4 @@ type SidePanelProps = CopyRightProps & {
 
 type SidePanelType = ComponentType<SidePanelProps>;
 
-export type { SidePanelType };
+export type { SidePanelProps, SidePanelType };

@@ -13,7 +13,7 @@ const UtilitiesList: UtilitiesListType = (props) => {
             <div className='mb-2 h-32 overflow-hidden rounded-lg'>
               <CustomImage
                 alt={coverImage.title}
-                sizes='400px'
+                sizes='500px'
                 src={coverImage.url}
                 style={{
                   objectFit: 'cover'

@@ -32,7 +32,8 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
     return (
       <Tag className='group relative flex items-center' id={headingId}>
         <a
-          aria-hidden
+          // eslint-disable-next-line @typescript-eslint/no-base-to-string, @typescript-eslint/restrict-template-expressions
+          aria-label={`${dict.articles.permalink}: ${props.children}`}
           className='absolute -left-5 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
           href={`#${headingId}`}
         >

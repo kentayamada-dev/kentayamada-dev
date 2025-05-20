@@ -1,10 +1,10 @@
-import type { CareerListProps } from '@/components/designSystem/molecules';
 import { HomeTemplate } from '@/components/designSystem/templates';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getAbout, getCareers, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
+import type { CareerListProps } from '@/components/designSystem/molecules';
 import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
@@ -19,8 +19,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     title,
     { alt: coverImage.title, url: coverImage.url },
     new Date(sys.publishedAt),
-    new Date(sys.firstPublishedAt),
-    false
+    new Date(sys.firstPublishedAt)
   );
 };
 

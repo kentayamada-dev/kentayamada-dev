@@ -5,6 +5,8 @@ export type { CareerListProps } from './careerList/types';
 export { NotFound } from './notFound';
 export { ProjectsList } from './projectsList';
 export type { ProjectsListProps, ProjectsListType } from './projectsList/types';
+export { Switcher } from './switcher';
+export type { SwitcherProps } from './switcher/types';
 export { UtilitiesList } from './utilitiesList';
 export type { UtilitiesListProps, UtilitiesListType } from './utilitiesList/types';
 export { default as articlesListStory } from './articlesList/index.stories';

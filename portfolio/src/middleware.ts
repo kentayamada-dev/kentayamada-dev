@@ -4,7 +4,7 @@ import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18
 import { setLocaleCookie } from '@/lib/cookies-next';
 import { isValueInArray } from '@/typeGuards';
 import { isPathStartingWith } from '@/utils';
-import type { MiddlewareConfig, NextMiddleware, NextRequest } from 'next/server';
+import type { MiddlewareConfig, NextMiddleware } from 'next/server';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
 const getLocale = (acceptLanguage: string | null, cookieLocale: string | null): LocaleKeyType => {
@@ -23,7 +23,7 @@ export const config: MiddlewareConfig = {
 };
 
 // eslint-disable-next-line import/group-exports
-export const middleware: NextMiddleware = async (request: NextRequest) => {
+export const middleware: NextMiddleware = async (request) => {
   const { pathname } = request.nextUrl;
   const cookieStore = await cookies();
   let response = NextResponse.next();

@@ -7,7 +7,7 @@ const HomeTemplate: HomeTemplateType = (props) => {
   const aboutDict = dictionaries[props.locale].about;
 
   return (
-    <main className='m-5 grid max-w-6xl gap-4 self-center md:grid-cols-5'>
+    <main className='m-5 grid max-w-7xl gap-4 self-center md:grid-cols-5'>
       <div className='order-2 md:order-1 md:col-span-3 md:row-span-2'>
         <h1 className='text-primary text-5xl font-bold tracking-tight'>{props.title.main}</h1>
         <p className='text-secondary mt-10 text-lg'>{props.title.sub}</p>
@@ -17,7 +17,7 @@ const HomeTemplate: HomeTemplateType = (props) => {
           <CustomImage
             alt={props.coverImage.title}
             priority
-            sizes='400px'
+            sizes='500px'
             src={props.coverImage.url}
             style={{
               objectFit: 'contain'

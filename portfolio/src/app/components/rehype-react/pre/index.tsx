@@ -1,7 +1,7 @@
 import type { PreType } from './types';
 
 const Pre: PreType = (props) => {
-  return <pre {...props} tabIndex={-1} />;
+  return <pre tabIndex={-1} {...props} />;
 };
 
 export { Pre };

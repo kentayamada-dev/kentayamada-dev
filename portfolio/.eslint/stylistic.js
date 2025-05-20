@@ -4,6 +4,7 @@ import { getExtend, addPrefixRule, validateRules } from './utils.js';
 const stylisticPrefix = '@stylistic';
 
 const stylisticRule = addPrefixRule(stylisticPrefix, {
+  'no-multiple-empty-lines': ['error', { 'max': 1 }],
   'padding-line-between-statements': [
     'error',
     { blankLine: 'always', prev: '*', next: 'return' },

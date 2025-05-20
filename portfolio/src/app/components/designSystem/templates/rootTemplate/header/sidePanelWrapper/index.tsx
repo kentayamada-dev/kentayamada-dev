@@ -6,6 +6,7 @@ import { navigationItems } from '@/constants/navigation';
 import { useMediaQuery } from '@/hooks';
 import { getFirstPathSegmentAfterLocale } from '@/utils';
 import { SidePanel } from './sidePanel';
+import type { SidePanelProps } from './sidePanel/types';
 import type { SidePanelWrapperType } from './types';
 
 const SidePanelWrapper: SidePanelWrapperType = (props) => {
@@ -13,7 +14,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
   const pathname = usePathname();
   const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
 
-  const handleToggle: VoidFunction = () => {
+  const handleToggle: SidePanelProps['handleToggle'] = () => {
     setIsOpened((prev) => {
       return !prev;
     });

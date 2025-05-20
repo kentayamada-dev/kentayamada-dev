@@ -1,6 +1,6 @@
 import type { ArticlesListProps } from '@/components/designSystem/molecules';
-import type { ArticleProps } from './article/types';
 import type { ComponentType } from '@/types/components';
+import type { ArticleProps } from './article/types';
 
 type ArticleTemplateProps = ArticleProps &
   ArticlesListProps & {

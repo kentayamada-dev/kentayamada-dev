@@ -16,6 +16,7 @@ type DictionaryType = {
   articles: {
     footnotes: string;
     latest: string;
+    permalink: string;
     recommend: string;
     toc: string;
   };
@@ -30,6 +31,20 @@ type DictionaryType = {
     totalProfitLoss: string;
   };
   faq: string;
+  form: {
+    email: string;
+    firstName: string;
+    lastName: string;
+    message: string;
+    phoneNumber: string;
+    phoneNumberError: string;
+    placeHolder: {
+      firstName: string;
+      lastName: string;
+      message: string;
+    };
+    recaptchaError: string;
+  };
   labels: {
     closeSidePanelLabel: string;
     githubLinkLabel: string;

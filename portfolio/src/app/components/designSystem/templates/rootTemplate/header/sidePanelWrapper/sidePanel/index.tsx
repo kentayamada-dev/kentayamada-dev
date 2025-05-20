@@ -5,8 +5,8 @@ import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/component
 import { dictionaries } from '@/constants/i18n';
 import { LinkItem } from './linkItem';
 import { NavItem } from './navItem';
-import type { SidePanelType } from './types';
 import type { JSXElementType } from '@/types/components';
+import type { SidePanelType } from './types';
 
 const StyledGithubIcon = (): JSXElementType => {
   return (

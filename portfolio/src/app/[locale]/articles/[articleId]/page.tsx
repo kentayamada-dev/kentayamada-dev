@@ -6,13 +6,13 @@ import remarkMath from 'remark-math';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import type { ArticlesListProps } from '@/components/designSystem/molecules';
 import { ArticleTemplate } from '@/components/designSystem/templates';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
+import type { ArticlesListProps } from '@/components/designSystem/molecules';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
 
 const generateStaticParams: ArticleGenerateStaticParamsType = async () => {

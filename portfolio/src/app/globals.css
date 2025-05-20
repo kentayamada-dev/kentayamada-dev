@@ -37,7 +37,7 @@
     stroke-linecap: round;
   }
   *:focus {
-    @apply outline-blue-500 focus-visible:outline-2;
+    @apply outline-blue-500! focus-visible:outline-2!;
   }
 }
 
@@ -50,6 +50,12 @@
   }
   .text-secondary {
     @apply text-slate-600 dark:text-slate-400;
+  }
+  .text-tertiary {
+    @apply text-slate-400 dark:text-slate-500;
+  }
+  .placeholder-primary {
+    @apply placeholder:text-slate-400 dark:placeholder:text-slate-600;
   }
   .bg-primary {
     @apply bg-slate-100 dark:bg-slate-800;
@@ -68,5 +74,16 @@
   }
   .section-footnotes h2 {
     @apply mt-0;
+  }
+  .shadow-primary {
+    box-shadow:
+      rgba(101, 119, 134, 0.2) 0px 0px 15px,
+      rgba(101, 119, 134, 0.15) 0px 0px 3px 1px;
+
+    @variant dark {
+      box-shadow:
+        rgba(136, 153, 166, 0.3) 0px 0px 15px,
+        rgba(136, 153, 166, 0.25) 0px 0px 3px 1px;
+    }
   }
 }

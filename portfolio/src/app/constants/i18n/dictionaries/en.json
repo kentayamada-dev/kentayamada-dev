@@ -24,7 +24,8 @@
     "toc": "Table of Contents",
     "latest": "Latest",
     "recommend": "Recommended",
-    "footnotes": "Footnotes"
+    "footnotes": "Footnotes",
+    "permalink": "Permalink"
   },
   "calculator": {
     "shares": "Shares",
@@ -35,5 +36,19 @@
     "stockProfitLoss": "Stock Profit/Loss",
     "forexProfitLoss": "Forex Profit/Loss",
     "totalProfitLoss": "Total Profit/Loss"
+  },
+  "form": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "message": "Message",
+    "phoneNumber": "Phone Number",
+    "phoneNumberError": "Please enter a valid phone number.",
+    "recaptchaError": "reCAPTCHA verification failed. Please try again.",
+    "placeHolder": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "message": "How can I help you?"
+    }
   }
 }

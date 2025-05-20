@@ -192,6 +192,17 @@ type MetadataResponseType = {
   };
 };
 
+type ContactType = {
+  subtitle: string;
+  title: string;
+};
+
+type ContactResponseType = {
+  contactCollection: {
+    items: ContactType[];
+  };
+};
+
 export type {
   AboutResponseType,
   AboutType,
@@ -202,6 +213,8 @@ export type {
   ArticlesType,
   CareersResponseType,
   CareersType,
+  ContactResponseType,
+  ContactType,
   FaqsResponseType,
   FaqsType,
   MetadataResponseType,

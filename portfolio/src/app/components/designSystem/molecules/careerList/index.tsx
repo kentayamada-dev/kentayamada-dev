@@ -15,7 +15,7 @@ const CareerList: CareerListType = (props) => {
               <div className='size-8 flex-none overflow-hidden rounded-full'>
                 <CustomImage
                   alt={logo.title}
-                  sizes='100px'
+                  sizes='32px'
                   src={logo.url}
                   style={{
                     objectFit: 'cover'

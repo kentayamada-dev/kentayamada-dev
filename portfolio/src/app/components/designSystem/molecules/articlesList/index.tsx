@@ -15,7 +15,7 @@ const ArticlesList: ArticlesListType = (props) => {
               <div className='absolute inset-0 -z-10 duration-300 group-hover:scale-110'>
                 <CustomImage
                   alt={coverImage.title}
-                  sizes='300px'
+                  sizes='500px'
                   src={coverImage.url}
                   style={{
                     objectFit: 'cover'

@@ -1,5 +1,6 @@
 export { getCurrencyPairs } from './getCurrencyPairs';
 export { getDateString } from './getDateString';
+export { getEntries } from './getEntries';
 export { getFirstPathSegmentAfterLocale } from './getFirstPathSegmentAfterLocale';
 export { getKeysFromObject } from './getKeysFromObject';
 export { getPeriod } from './getPeriod';

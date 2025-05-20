@@ -4,6 +4,7 @@ export { ClockHistoryIcon } from './clockHistoryIcon';
 export { ClockIcon } from './clockIcon';
 export { ComputerIcon } from './computerIcon';
 export { CrossIcon } from './crossIcon';
+export { EmailIcon } from './emailIcon';
 export { ForksIcon } from './forksIcon';
 export { GithubIcon } from './githubIcon';
 export { HomeIcon } from './homeIcon';

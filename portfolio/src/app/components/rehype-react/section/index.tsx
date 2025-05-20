@@ -5,10 +5,10 @@ const Section: SectionType = (props) => {
   const { className, ...rest } = props;
 
   if (className === 'footnotes') {
-    return <section {...rest} className={`${className} section-footnotes`} />;
+    return <section className={`${className} section-footnotes`} {...rest} />;
   }
 
-  return <section {...rest} className={className} />;
+  return <section className={className} {...rest} />;
 };
 
 export { Section };

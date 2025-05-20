@@ -42,10 +42,6 @@ const getCommonMetadata = (
   };
 };
 
-const getTitle = (title: string, myName: string, enableAutoTitlePrefix = true): string => {
-  return enableAutoTitlePrefix ? `${title} / ${myName}` : title;
-};
-
 const getMetadataObject = (
   type: OpenGraphType,
   path: string,
@@ -57,11 +53,10 @@ const getMetadataObject = (
     url: string;
   },
   modifiedTime: Date,
-  publishedTime: Date,
-  enableAutoTitlePrefix = true
+  publishedTime: Date
 ): Metadata => {
   const dict = dictionaries[locale];
-  const commonMetadata = getCommonMetadata(dict.myName, dict.siteName, description, getTitle(title, dict.myName, enableAutoTitlePrefix), coverImage);
+  const commonMetadata = getCommonMetadata(dict.myName, dict.siteName, description, title, coverImage);
 
   return {
     ...commonMetadata,
@@ -87,7 +82,7 @@ const getNotFoundMetadataObject = (
 ): Metadata => {
   const dict = dictionaries[locale];
 
-  return getCommonMetadata(dict.myName, dict.siteName, description, getTitle(title, dict.myName), coverImage);
+  return getCommonMetadata(dict.myName, dict.siteName, description, title, coverImage);
 };
 
 export { getMetadataObject, getNotFoundMetadataObject };

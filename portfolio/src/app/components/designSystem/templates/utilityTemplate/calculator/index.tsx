@@ -1,57 +1,47 @@
 'use client';
 
-import { motion, useSpring, useTransform } from 'framer-motion';
-import { useState } from 'react';
+import { motion } from 'framer-motion';
+import { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Input, InputWithCombobox } from '@/components/designSystem/atoms';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
+import { useAnimatedNumber } from '@/lib/framer-motion';
 import { isValueInArray } from '@/typeGuards';
 import { getCurrencyPairs } from '@/utils';
-import type { CalculatorInputsType, CalculatorType } from './types';
-import type { MotionValue } from 'framer-motion';
-import type { FormEventHandler } from 'react';
+import type { ComponentPropsWithoutRef } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
+import type { InputWithComboboxProps } from '@/components/designSystem/atoms';
 import type { CurrencyPairType, CurrencyType } from '@/constants/currencies/types';
-import type { ElementChangeEventType } from '@/types/components';
+import type { CalculatorInputsType, CalculatorType } from './types';
 
-const INITIAL_SPRING_VALUE = 0;
+const ALL_CURRENCY_PAIRS: CurrencyPairType[] = currencies.flatMap((base) => {
+  return currencies
+    .filter((quote) => {
+      return quote !== base;
+    })
+    .map((quote) => {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
+      return `${base}/${quote}` as CurrencyPairType;
+    });
+});
 
 const Calculator: CalculatorType = (props) => {
   const dict = dictionaries[props.locale];
-  const [baseCurrency, setBaseCurrency] = useState<CurrencyType>('USD');
-  const [quoteCurrency, setQuoteCurrency] = useState<CurrencyType>('JPY');
   const [currencyPair, setCurrencyPair] = useState<CurrencyPairType>('USD/JPY');
+  const [stockProfitDisplay, setStockProfit] = useAnimatedNumber();
+  const [forexProfitDisplay, setForexProfit] = useAnimatedNumber();
+  const [totalProfitDisplay, setTotalProfit] = useAnimatedNumber();
   const { handleSubmit, register } = useForm<CalculatorInputsType>();
-  const currencyPairs = getCurrencyPairs(baseCurrency, currencies);
 
-  const useCustomSpring = (): MotionValue<number> => {
-    return useSpring(INITIAL_SPRING_VALUE, { damping: 20, stiffness: 90 });
-  };
+  const [baseCurrency, quoteCurrency] = useMemo(() => {
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
+    return currencyPair.split('/') as [CurrencyType, CurrencyType];
+  }, [currencyPair]);
 
-  const useCustomTransform = (spring: MotionValue<number>): MotionValue<string> => {
-    return useTransform(spring, (current) => {
-      return Math.round(current).toLocaleString();
-    });
-  };
-
-  const allCurrencyPairs = currencies.flatMap((base) => {
-    return currencies
-      .filter((quote) => {
-        return quote !== base;
-      })
-      .map((quote) => {
-        // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-        return `${base}/${quote}` as CurrencyPairType;
-      });
-  });
-
-  const stockProfitSpring = useCustomSpring();
-  const stockProfitDisplay = useCustomTransform(stockProfitSpring);
-  const forexProfitLossSpring = useCustomSpring();
-  const forexProfitDisplay = useCustomTransform(forexProfitLossSpring);
-  const totalProfitSpring = useCustomSpring();
-  const totalProfitDisplay = useCustomTransform(totalProfitSpring);
+  const currencyPairs = useMemo(() => {
+    return getCurrencyPairs(baseCurrency, currencies);
+  }, [baseCurrency]);
 
   const items = [
     {
@@ -72,11 +62,7 @@ const Calculator: CalculatorType = (props) => {
   ];
 
   const onSubmit: SubmitHandler<CalculatorInputsType> = (data) => {
-    const buyPrice = Number(data.buyPrice);
-    const buyRate = Number(data.buyRate);
-    const sellPrice = Number(data.sellPrice);
-    const sellRate = Number(data.sellRate);
-    const shares = Number(data.shares);
+    const { buyPrice, buyRate, sellPrice, sellRate, shares } = data;
     const totalBuyInQuoteCurrency = buyPrice * buyRate * shares;
     const totalSellInQuoteCurrency = sellPrice * sellRate * shares;
     const hypotheticalSellInQuoteCurrency = sellPrice * shares * buyRate;
@@ -84,39 +70,24 @@ const Calculator: CalculatorType = (props) => {
     const fxProfitInQuoteCurrency = totalSellInQuoteCurrency - hypotheticalSellInQuoteCurrency;
     const totalProfitInQuoteCurrency = totalSellInQuoteCurrency - totalBuyInQuoteCurrency;
 
-    stockProfitSpring.set(stockProfitInQuoteCurrency);
-    forexProfitLossSpring.set(fxProfitInQuoteCurrency);
-    totalProfitSpring.set(totalProfitInQuoteCurrency);
+    setStockProfit(stockProfitInQuoteCurrency);
+    setForexProfit(fxProfitInQuoteCurrency);
+    setTotalProfit(totalProfitInQuoteCurrency);
   };
 
-  const handleCurrencyChange: ElementChangeEventType<'select'> = (event): void => {
-    const newCurrency = event.target.value;
-
+  const handleCurrencyChange: InputWithComboboxProps['handleOptionChange'] = (newCurrency): void => {
     if (isValueInArray(newCurrency, currencies)) {
-      setBaseCurrency(newCurrency);
-
-      if (newCurrency === 'USD') {
-        setQuoteCurrency('JPY');
-      } else {
-        setQuoteCurrency('USD');
-      }
+      setCurrencyPair(newCurrency === 'USD' ? 'USD/JPY' : `${newCurrency}/USD`);
     }
   };
 
-  const handleCurrencyPairChange: ElementChangeEventType<'select'> = (event) => {
-    const newCurrency = event.target.value;
-    const [, quote] = newCurrency.split('/');
-
-    if (isValueInArray(quote, currencies)) {
-      setQuoteCurrency(quote);
-    }
-
-    if (isValueInArray(newCurrency, allCurrencyPairs)) {
+  const handleCurrencyPairChange: InputWithComboboxProps['handleOptionChange'] = (newCurrency): void => {
+    if (isValueInArray(newCurrency, ALL_CURRENCY_PAIRS)) {
       setCurrencyPair(newCurrency);
     }
   };
 
-  const handleFormSubmit: FormEventHandler = (event) => {
+  const handleFormSubmit: ComponentPropsWithoutRef<'form'>['onSubmit'] = (event) => {
     event.preventDefault();
 
     // eslint-disable-next-line no-void
@@ -129,76 +100,71 @@ const Calculator: CalculatorType = (props) => {
     <div className='grid grid-cols-1 gap-10 md:grid-cols-2'>
       <form className='space-y-7' onSubmit={handleFormSubmit}>
         <InputWithCombobox
-          id='buyPrice'
-          inputMode='decimal'
-          required
-          type='number'
-          {...register('buyPrice')}
           handleOptionChange={handleCurrencyChange}
+          inputMode='decimal'
           label={dict.calculator.buyPrice}
           max='1000'
           min='0.00'
           optionValue={baseCurrency}
           options={currencies}
           placeholder='0.00'
+          required
           step='0.01'
+          type='number'
+          {...register('buyPrice')}
         />
         <InputWithCombobox
-          id='sellPrice'
-          inputMode='decimal'
-          required
-          type='number'
-          {...register('sellPrice')}
           handleOptionChange={handleCurrencyChange}
+          inputMode='decimal'
           label={dict.calculator.sellPrice}
           max='1000'
           min='0.00'
           optionValue={baseCurrency}
           options={currencies}
           placeholder='0.00'
+          required
           step='0.01'
+          type='number'
+          {...register('sellPrice')}
         />
         <InputWithCombobox
-          id='buyRate'
-          inputMode='decimal'
-          required
-          type='number'
-          {...register('buyRate')}
           handleOptionChange={handleCurrencyPairChange}
+          inputMode='decimal'
           label={dict.calculator.buyRate}
           max='1000'
           min='0.00'
           optionValue={currencyPair}
           options={currencyPairs}
           placeholder='0.00'
+          required
           step='0.01'
+          type='number'
+          {...register('buyRate')}
         />
         <InputWithCombobox
-          id='sellRate'
+          handleOptionChange={handleCurrencyPairChange}
           inputMode='decimal'
           label={dict.calculator.sellRate}
-          required
-          type='number'
-          {...register('sellRate')}
-          handleOptionChange={handleCurrencyPairChange}
           max='1000'
           min='0.00'
           optionValue={currencyPair}
           options={currencyPairs}
           placeholder='0.00'
+          required
           step='0.01'
+          type='number'
+          {...register('sellRate')}
         />
         <Input
-          id='shares'
           inputMode='numeric'
           label={dict.calculator.shares}
-          required
-          type='number'
-          {...register('shares')}
           max='100000'
           min='0'
           placeholder='0'
+          required
           step='1'
+          type='number'
+          {...register('shares')}
         />
         <input className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white' type='submit' />
       </form>

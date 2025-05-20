@@ -24,7 +24,8 @@
     "toc": "目次",
     "latest": "最新記事",
     "recommend": "おすすめ記事",
-    "footnotes": "脚注"
+    "footnotes": "脚注",
+    "permalink": "パーマリンク"
   },
   "calculator": {
     "shares": "株数",
@@ -35,5 +36,19 @@
     "stockProfitLoss": "株式損益",
     "forexProfitLoss": "為替損益",
     "totalProfitLoss": "合計損益"
+  },
+  "form": {
+    "firstName": "名",
+    "lastName": "姓",
+    "email": "メールアドレス",
+    "message": "メッセージ",
+    "phoneNumber": "電話番号",
+    "phoneNumberError": "有効な電話番号を入力してください。",
+    "recaptchaError": "reCAPTCHA の検証に失敗しました。お手数ですが再度お試しください。",
+    "placeHolder": {
+      "firstName": "太郎",
+      "lastName": "山田",
+      "message": "ご用件をお聞かせください"
+    }
   }
 }

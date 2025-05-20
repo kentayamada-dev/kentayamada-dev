@@ -3,7 +3,6 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    id: 'id',
     label: 'Label'
   },
   component: Input

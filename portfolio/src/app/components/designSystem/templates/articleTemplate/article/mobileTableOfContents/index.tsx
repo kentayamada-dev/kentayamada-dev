@@ -1,21 +1,21 @@
 'use client';
 
 import { Transition, TransitionChild } from '@headlessui/react';
-import { useRef, useState } from 'react';
+import { useState } from 'react';
 import { CrossIcon, TableOfContentsIcon } from '@/components/icons';
 import { useMediaQuery } from '@/hooks';
 import { TableOfContents } from '../tableOfContents';
+import type { ComponentPropsWithoutRef } from 'react';
 import type { MobileTableOfContentsType } from './types';
 
 const MobileTableOfContents: MobileTableOfContentsType = (props) => {
   const [isOpened, setIsOpened] = useState(false);
-  const tocContainerRef = useRef<HTMLDivElement>(null);
 
-  const closeDrawer: VoidFunction = () => {
+  const closeDrawer: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
     setIsOpened(false);
   };
 
-  const openDrawer: VoidFunction = () => {
+  const openDrawer: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
     setIsOpened(true);
   };
 
@@ -43,14 +43,14 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
             leaveTo='translate-y-full'
           >
             <div className='w-72 rounded-t-lg bg-white p-5 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:ring-slate-300/10'>
-              <div className='flex items-center justify-between pb-3'>
+              <div className='flex items-center justify-between px-1 pb-3'>
                 <div className='text-primary text-lg font-semibold'>{props.title}</div>
                 <button className='btn-icon ml-auto w-6' onClick={closeDrawer} type='button'>
                   <CrossIcon />
                 </button>
               </div>
-              <div className='max-h-72 overflow-auto' ref={tocContainerRef}>
-                <TableOfContents articleClassName={props.articleClassName} tocContainerRef={tocContainerRef} />
+              <div className='max-h-72 overflow-auto'>
+                <TableOfContents articleClassName={props.articleClassName} />
               </div>
             </div>
           </TransitionChild>
