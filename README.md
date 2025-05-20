@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bbac0d3cad48ec726deb19913648429.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed36a9af3f32fb5852cb2759c649433c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44c28f736bd3ea49f772721103dda39c57b815dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-16597711-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=438&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ガザに支援物資入る、イスラエルが11週間ぶり容認　「大海の一滴」と国連
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5951c4f64e499c6fcd8e08c5520d0d8c931f1082>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000051-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン氏と電話会談をしたトランプ氏「ウクライナ終戦交渉、進展なければ外れる」
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c17d1dce2445e1a53c551ecce6a877df06deaa4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000058-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「もう一度思い出して」吉川友梨さん不明22年　両親や捜査員が情報提供呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/014091fa456e4ef7c50dbfabc1e602f65c45b489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a88ac0665f29249d18be3cf656eee17be8817e3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000074-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 橋幸夫アルツハイマー型認知症の診断　所属事務所「１００％お楽しみいただけるステージをお届けできる状態ではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/176b30f5c56aa75bc62fef9e089f621841546738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 日欧など22か国、ガザ支援「全面再開」をイスラエルに要請
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000057-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=583&ch=583&exp=10800&fmt=webp> ＜独自＞新名神逆走で逮捕のペルー人男も「外免切替」　相次ぐ重大事故　警察庁見直し検討
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/57a1b23dc161566d6a4004ffee25611b478c527bbb2f88fa667e62018bb1d232.jpg> 悪質ホスト規制 改正風営法が成立
+      <a href=https://news.yahoo.co.jp/pickup/6539391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/db7253df6d95aca4844f487094851f24e0b2b3a39825fe6328a144f3fb50f2a4.jpg> コメ発言の農水相 SNS朝まで見た
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0ca7ab4ff2a09453f48a681250b5570d716b1b9597dabb97374a1e8f0e3b3728.jpg> 露原油上限50ドル案 EUが提起へ
+      <a href=https://news.yahoo.co.jp/pickup/6539374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1348976e8a838642da351e94d5cf9f4940d4a26102fcbd0044552bdd9fdfa39a.jpg> いわき信用組合の不正 取引先憤り
       </a>
     </td>
   </tr>
@@ -412,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539394>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/55cb89cc30baae6d213e3c15f80780d2add742e15de2667356306824a0090bf8.jpg> 千葉の立てこもり 男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/ebee8a4edc07072e93e7d2e2870f85076b9d890fa808990a1d515473b72fc60e.jpg> 小4不明22年 不審車両の画像公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/47fc10772b31cd6c6c527b5b04fe4b0c06fec81d475f424eff83a62b15fa95db.jpg> 威圧的な校歌指導 埼玉3校で確認
       </a>
     </td>
   </tr>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/5a28cf196ea3546fbace90ffb22106c4b97f55d55a12cac657bb9e35440fe247.jpg> 大谷が17号 再びMLB単独トップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539398>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/1271e44779fca189519e3cfe6a388e707ef39133f275185cde2643665305948e.jpg> 橋幸夫 アルツハイマー型認知症に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/08d1ae00a5dbf08d8d86e9c38c3b791bf8088147be72985f15f2bd7129710c72.jpg> 蒼井優 娘にバレぬよう声変え好演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/20 15:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/20 16:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
