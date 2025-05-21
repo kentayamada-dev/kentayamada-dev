@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4609b8b3e2374d3bc6d7aff3f9de62d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd757e5cbda630296caba1a620d3e4ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/584488f27065669058b6918ca8e61bc822cb388b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Ｃｒｅｅｐｙ　Ｎｕｔｓ「ＢＢＢＢ」が一気７冠！Ｒ―指定「一番想像してへんのが中学生の時の自分」
+      <a href=https://news.yahoo.co.jp/articles/ec40b276385aa872394eb744804ca5d83346d8ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010034-annd-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「外免切替」を厳格化へ　試験問題数の増加などで運用見直し検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa1d2443507fb460813b376d9faf0cbbb6a836bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博のユスリカ大量発生問題　吉村知事がアース製薬社長に協力直談判
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ba73ba6e984ea1bbd9b67009afd330dc0e9d760b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-01265063-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 吉沢亮×横浜流星『国宝』圧巻の歌舞伎舞踊シーン含む場面写真が解禁！高畑充希・田中泯ら共演者の姿も明らかに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bd3636309b63eb377b1eb79dc01239a56570832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000047-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=1200&ch=1200&exp=10800&fmt=webp> 大阪万博「大量の虫」に殺虫スプレーで対抗の場当たり感…壁に張りつきあちこち死骸で予期される「さらなる客足減」
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dabcb48277d03a15cd030c3348785466123ae4119c42a5060019b222c201a3a4.jpg> 産後うつから殺人事件も 母の孤立
+      <a href=https://news.yahoo.co.jp/pickup/6539544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/297b5951fbbba5bc905e5ae8eefb3e55c8e23e830fa10e64e84f4aa9cf7064c8.jpg> 皇族の確保策 対応を麻生氏に一任
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9aa80efa827a0c9a1e6f2e9ad8282f0355da0a7be6ccee4b5acd773b0f195c37.jpg> 性暴行口止め 元検事正からの文書
+      <a href=https://news.yahoo.co.jp/pickup/6539550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8fe93562e50acc2fde84c895cb262d9803215c10734c5b6a23363674bd1f332a.jpg> 男女遺体 女児は数日1人で生活か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/69713e9ab226305cc99d7f9087ca02c4be108014997ca52313cb99896b329ce8.jpg> 外食で異物 中学生の胃にガラス片
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539540>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e8ad7b5487586e2a742d324ce1e14bb57b166025b31e9eba7e81e483e58b4179.jpg> 高級中華料理「聘珍樓」が破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1e95cb58abd1eabd1ed8755c06d17becadc8c9904630ac2b8704d022a79ed933.jpg> 由伸7回1安打 ノーノーは意識せず
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 19:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 20:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
