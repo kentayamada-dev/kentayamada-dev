@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07716b8b7f3b02deae1008d98bfc1fea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4609b8b3e2374d3bc6d7aff3f9de62d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe3f964f68a7d72bafa444784d57ace1036c9b86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05753983-kkt-000-2-thumb.jpg?exp=10800&fmt=webp> 「コメは買ったことがない」農水相辞任 配慮を欠く発言に熊本の消費者は
+      <a href=https://news.yahoo.co.jp/articles/584488f27065669058b6918ca8e61bc822cb388b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Ｃｒｅｅｐｙ　Ｎｕｔｓ「ＢＢＢＢ」が一気７冠！Ｒ―指定「一番想像してへんのが中学生の時の自分」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c372dcf9e67ee7bee82c2145c04ab5115206022>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975213-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「私の命に代えてやめていただくよう」　大地検の検事正による大スキャンダル　大阪地検元検事正の”直筆”手紙を被害者が公開　 ”口止め示唆”
+      <a href=https://news.yahoo.co.jp/articles/ba73ba6e984ea1bbd9b67009afd330dc0e9d760b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-01265063-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 吉沢亮×横浜流星『国宝』圧巻の歌舞伎舞踊シーン含む場面写真が解禁！高畑充希・田中泯ら共演者の姿も明らかに
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/cdd53a3d1fd9e486940de887b8458e2309d0a6c00f1faf72e4a8be244dd1272a.jpg> 首相 コメ5kg3000円台でなければ
+      <a href=https://news.yahoo.co.jp/pickup/6539538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/3d281e90fae73145c2e4e621c218717e57a6b2d41e25dc17e0333a036a58c5b5.jpg> 小泉氏農相就任 菅氏が決断後押し
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b2c27a8da545d3625ac650def563ecaa397124c594a91364ffd419acf76f806c.jpg> 国内最高齢の女性 2人相次ぎ死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539540>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e8ad7b5487586e2a742d324ce1e14bb57b166025b31e9eba7e81e483e58b4179.jpg> 高級中華料理「聘珍樓」が破産
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/47f29ba4386068c9617263143d8bf160d347f47cb059a57e432e1e4655a0d58b.jpg> 宇良の「必殺技」国技館は大歓声
+      <a href=https://news.yahoo.co.jp/pickup/6539546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1e95cb58abd1eabd1ed8755c06d17becadc8c9904630ac2b8704d022a79ed933.jpg> 由伸7回1安打 ノーノーは意識せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d7a55f85105025cc9c894f7dcac83f57f7d990c7b0a247c2d93669465601c7d6.jpg> MUSIC AWARDS JAPAN 初日結果
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 19:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 19:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
