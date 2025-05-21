@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53417d4085e8c6dcf83107f8dc6b8dd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e354484e2e1a1545544a0a0d1aaea5f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1d353ee2720ef7eed4a67b05a13bd6c7f86b31f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-35210640-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=661&ch=661&exp=10800&fmt=webp> 江藤拓氏の農相更迭背景「立憲民主党単独で…それが最後の決め手」田崎史郎氏がミヤネ屋で解説
+      <a href=https://news.yahoo.co.jp/articles/7d6e4ee9d3bce1e8678ed77bb17a6bf23e1c23c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 農相辞任も「国民をバカにすんな」　SNSで石破首相の判断に批判も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e8ba8e8b81c0f99d08828f5ac6968a7c6671af0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000006-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> システム障害で一時運転免許手続きできず　昼すぎに復旧　午後から窓口再開【岩手】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e99f49f08fcba5caebb549a9666711453138a6ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000053-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> ローマ教皇、停戦交渉仲介に意欲　ウクライナ巡り伊首相が確認
+      <a href=https://news.yahoo.co.jp/articles/d903c673df11f472378c036a22ee89d304b3f4cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000134-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=666&ch=666&exp=10800&fmt=webp> メルカリ不正被害全額補償　利用者保護、詐欺に対応
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/daad333f7aa8fea7fffbd56bb980265b4d2cb66b2cdb54c4f4814e6131e3b10e.jpg> ガソリン定額補助 22日から開始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539506>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/97b9a99b51be5ce07095d45defa7e266336f0dfc56287d0b2139f26c0e5688f8.jpg> ドラム缶の中に女性遺体 夫を逮捕
       </a>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e10bc8bb0e869356f791be98d8d587ab86b42410c91750fff07e102a6aeb842c.jpg> 米ファンド・ダルトンがフジ訪問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/hamadashunya/02216547/title-1747749826202.jpeg?exp=10800> チケット転売 強い姿勢示す主催者
+      <a href=https://news.yahoo.co.jp/pickup/6539507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/efb7be38b11bdabec62980234352a4a583eea4e017283182ef959ce189384fdb.jpg> 川崎遺体 親族は近隣警察にも相談
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 15:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 15:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
