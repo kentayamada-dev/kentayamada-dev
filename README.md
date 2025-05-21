@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c5ca8cb4954813513140bfa1752e04bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fca64ce61137a2df2bd7c78eb70ab3f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a18709d00a3ec253461043282233b333e91a262>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 「コメ担当」小泉農相に与党は局面打開の期待感、野党は「成果を挙げて全国行脚されたら…」
+      <a href=https://news.yahoo.co.jp/articles/f6e171e0b2f1e4f8cb2eb231d83277e6b1a5f243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975462-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 走行列車に農業用ハウスが衝突…乗客の56歳男性死亡、2人けが　急ブレーキ間に合わず　風で飛ばされたか…付近に屋根とみられるものなど散乱　長野・須坂市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4445d4a0479e97168a7ea826c3ff279617f339a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975453-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 走る列車に“農業用ハウス”衝突、乗客1人死亡・2人けが…強風で飛ばされてきたか　長野・須坂市
+      <a href=https://news.yahoo.co.jp/articles/99543a8637d3086f5059e679ec067e02d50ad8eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000233-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 「コメ価格高騰の遠因作った」国民民主・玉木代表が江藤農水相の後任、小泉氏手腕に懐疑的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc481401c1d29f8b079e681c1596d53feb6056b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00345448-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1187&ch=1187&exp=10800&fmt=webp> 【夏場所】豊昇龍が大の里を２差追走　秀ノ山親方は一人横綱にゲキ「最高位との存在感を示してほしい」
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/034b64e38cc54510425f94221f25c201ef7d13a1eeebde8d439e245071ad5a39.jpg> 小泉農相 備蓄米放出「無制限に」
+      <a href=https://news.yahoo.co.jp/pickup/6539581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c50fad3e99a30abcc6402e600a9a13d74e03667df94ad37363f63a67f58c5824.jpg> 小泉農相に与党 局面打開の期待感
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/cd0fbfccdc897d2ce74cb9c456af873fd743dab25ea4f6239646d780ffe2a543.jpg> ウ元大統領側近 マドリードで射殺
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539574>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dd08d3e394b81fd68c7eed214663ba56d391bc191e66ea9ef21ce4d0e6766252.jpg> 列車のガラス割れ死亡 小屋衝突か
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cde71e0c60e9302b0de9470f6f9a116bd92c8fb25f818edd4088c1cd9107ce97.jpg> ジャーナリスト 田畑光永さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6539583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ddf600ae0f660a0c2483e725b9b86f9553bb7d17ff0c24b4895269598bd5f90a.jpg> 棋譜の無断利用に賠償責任 初判断
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
+      <a href=https://news.yahoo.co.jp/pickup/6539578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cde71e0c60e9302b0de9470f6f9a116bd92c8fb25f818edd4088c1cd9107ce97.jpg> ジャーナリスト 田畑光永さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/878cc968ab6122f2f20c037977b0cf9e5ac9ce9bb2ad385aed55bb7213211a7c.jpg> 横浜FM クラブ史上初の泥沼7連敗
+      <a href=https://news.yahoo.co.jp/pickup/6539582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7b7dd82c219c4fa7f04484903d11aaf8ea307ea4f06a0db4fac295c6a1d74b74.jpg> 横綱・豊昇龍 日本国籍を取得へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 07:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 07:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
