@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f53a8014e226b097e6431a7e0dc78635.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa29a94d307b1dd6817b1cf95140d7e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7b4283d9c1913adc6ec092f67dd16c2e0151498>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000089-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1729&ch=1729&exp=10800&fmt=webp> 「国民の思いくみ取れなかった」　江藤氏が失言陳謝、成果強調も
+      <a href=https://news.yahoo.co.jp/articles/3f4978c8af312659c6c71b525310da842bcbac71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=626&ch=626&exp=10800&fmt=webp> 石破首相「国民に深くおわび」　農相の辞任受け、参院本会議で陳謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cad7c2f22cc60af0f492bd6546980ff0e03934ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00974789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】米露首脳電話会談もウクライナ即時停戦実現せず…迅速な成果求めるトランプに時間的余裕を見せつけるプーチン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f47109c8683efad9fa22509252d13a336f297226>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000020-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=315&ch=315&exp=10800&fmt=webp> トランプ大統領「宇宙からミサイル撃つゴールデンドーム、在任中に配備」…中ロ朝の脅威に対応
+      <a href=https://news.yahoo.co.jp/articles/2dd0bb366642aff9ad3c650f3d5cc3c177651e72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00050068-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=493&ch=493&exp=10800&fmt=webp> トラック荷台にパワーショベル積む作業中に横倒し、２人死亡…相模原市
       </a>
     </td>
   </tr>
@@ -410,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ef68824b97622f8ba968d76e132f492b0c1a0997e7b102097639d09261d7d185.jpg> ネタバレ記事を公開疑い 書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d31cd02c3d2112d13ad70fdd819b5332c4e828c967fa6a31209ade1ad6731317.jpg> 富山湾でシロエビ激減 海中の現象
+      <a href=https://news.yahoo.co.jp/pickup/6539464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/72d23c250e13af89bbc6bc4d40025385f591446de5cd531bf49b0e47612d599f.jpg> ケンタの売れ残りチキン 活用先は
       </a>
     </td>
   </tr>
@@ -448,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/047edca7976624ac309bbcd97af27496fd0b4e649b0c072f56f066e787d1f819.jpg> 高比良くるま 22日地上波復帰へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 11:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 11:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
