@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cab8206f75a3d9ae21ea29a1d16a33a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac47cae5f107219a53c36e89d2ede480.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a498f53ec716527ea3b546bc2cc7a5d50f66c050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92895d8355d3093ce7e7a064adb08f4db6b2a3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-06566543-ybs-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> リニア実験線で車両から出火 電源装置から火花と煙上がる 走行後の点検中に 山梨
+      <a href=https://news.yahoo.co.jp/articles/c7b6488af5a0262aabab9aca3f49854475b93b12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-03334638-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【解説】続投から一転“更迭”に…首相決断の裏側は？
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9473401e7e4d6c08dc980df10114f1fe6397d5ba316a26529e38ae436e0ac325.jpg> 小泉農相「コメに集中したい」
+      <a href=https://news.yahoo.co.jp/pickup/6539565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
+      <a href=https://news.yahoo.co.jp/pickup/6539549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ad2f205a1477ad089703012aea1e9faa69593f8236db43557966665021a13d30.jpg> 江藤氏更迭 地元ではあきれと憤り
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/41714436586a426dfcf124c1586198b00cc9362aa34669e700b4cbf0211ad513.jpg> 中華「聘珍樓」破産 負債計32億円
+      <a href=https://news.yahoo.co.jp/pickup/6539571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/6c8efd8d7763171452c5748891deb3bfaf5a6d431eceaac23ddeae8e0094362a.jpg> FW宮市亮「肉離れです情けない」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 23:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 23:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
