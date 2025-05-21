@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecb7257716a73b886d325c982c3c4169.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb287efac5592dfe63973843e4e45002.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a06319c984fda21c9a2e260f55972aae8c9ecff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000113-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 走行中の列車に強風で飛ばされた農業用ハウスが衝突 乗客1人死亡 長野
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a498f53ec716527ea3b546bc2cc7a5d50f66c050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 01:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 01:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
