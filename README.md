@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa29a94d307b1dd6817b1cf95140d7e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52adfab35a0a0abd2c10f24053ac06bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f4978c8af312659c6c71b525310da842bcbac71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=626&ch=626&exp=10800&fmt=webp> 石破首相「国民に深くおわび」　農相の辞任受け、参院本会議で陳謝
+      <a href=https://news.yahoo.co.jp/articles/bed86838053eb30cb4b7940fef560814a2a2d303>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010010-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 農水大臣"更迭"　今後のコメ政策への影響は？  価格下がるか見通せず…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dd0bb366642aff9ad3c650f3d5cc3c177651e72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00050068-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=493&ch=493&exp=10800&fmt=webp> トラック荷台にパワーショベル積む作業中に横倒し、２人死亡…相模原市
+      <a href=https://news.yahoo.co.jp/articles/476dca8256ba83518f99ed142e87a6a978414964>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-04569652-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=394&ch=394&exp=10800&fmt=webp> フジ「新しいカギ」ドイツ国際映像祭で銀賞 受賞企画はせいや母校凱旋「学校かくれんぼ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cad7c2f22cc60af0f492bd6546980ff0e03934ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00974789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】米露首脳電話会談もウクライナ即時停戦実現せず…迅速な成果求めるトランプに時間的余裕を見せつけるプーチン
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/79e7ff60db31e0405fa5656990d8cd886376b68b513a3fc083a82765264ff068.jpg> 農相辞職 石破首相「私の責任」
+      <a href=https://news.yahoo.co.jp/pickup/6539488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ce3ef9f85dd9793f74b7101a5089c5b9c05fd364dab938d30ebce3ddc44c31be.jpg> 楽観が一転 農相辞任で政権に打撃
       </a>
     </td>
   </tr>
@@ -394,6 +402,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/349caf1146393c8daf31c6d8d8afd88bfd9b951ed07e2c15a0324abe82f25139.jpg> 北海道・東北6県 免許更新できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/63f7b2bd57412b61f38b1f72031421c9f7350e1d8b560ff77dcba28775f67944.jpg> 刃物で負傷させた疑い 高校生逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1be0425c5ee605046b1798dfb06f0edc461e526543537ba588a4bf32187a9526.jpg> 夫作り置き 泣いて食べた事故遺族
       </a>
@@ -402,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/72d23c250e13af89bbc6bc4d40025385f591446de5cd531bf49b0e47612d599f.jpg> ケンタの売れ残りチキン 活用先は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539471>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02216088/title-1747723239648.jpeg?exp=10800> 中村悠一Switch2落選 なぜ話題に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c4a1f1e1640b161bb2b56a520a7c77cc98e2112e36dd8a90b8407fd64a0ca768.jpg> 鈴木誠也が豪快2ラン 敵地騒然
+      <a href=https://news.yahoo.co.jp/pickup/6539487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ced28469b80e73dfb3a4244ef9bffad91ec0e8cf776b9a9136d0af745c788923.jpg> 新型RAV4発表 今年度中に発売
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 11:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 12:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
