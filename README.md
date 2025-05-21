@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb7a25895b54acf8a87094c3fcb85eab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2874e5c9b76f514f4dd902a264eb95cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97367fb37b59f3f068d3625b61099fd215804acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-21928771-sbcv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【速報】長野電鉄の走行中の列車に農業用ハウスが接触した事故　乗客の男性1人が死亡　男性2人けが　窓ガラスが割れる　強風の影響か　当時、県北部に竜巻注意情報　長野・須坂市
+      <a href=https://news.yahoo.co.jp/articles/389cba3d60ee952b781fd1f6dcd2eb9c7d19ef4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010006-tvtokyos-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 世界9位の伊藤美誠 今大会初ゲームを奪われるも4回戦進出！ポーランドのエースを破る【世界卓球】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a62af6b9aa80c9655cc8bcc998a43dfa7aa7e12b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
+      <a href=https://news.yahoo.co.jp/articles/3384dba20a26b95e6712d2063243ce3400756b02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000500-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=123&cw=837&ch=837&exp=10800&fmt=webp> 【現場レポ】万博「ユスリカ」大量発生、大屋根リング下の現状　吉村知事は「やれることを全てやりたい」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/cd0fbfccdc897d2ce74cb9c456af873fd743dab25ea4f6239646d780ffe2a543.jpg> ウ元大統領側近 マドリードで射殺
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539561>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1fe037260b9777d7bb01a63b796f7a9c48aef68d749305b5f59bc8992bd403b6.jpg> 電車の走行中ガラス割れ 1人死亡
       </a>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539550>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8fe93562e50acc2fde84c895cb262d9803215c10734c5b6a23363674bd1f332a.jpg> 男女遺体 女児は数日1人で生活か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/24da50f44f5abe45323e4c96ae4ea3139e9943e87f9d7f660c8f8604bae32649.jpg> 50代兄ひきこもり 親亡き後の不安
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 22:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 22:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
