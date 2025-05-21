@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00ef9ab7cea881498f2fb2ce1f53e1da.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/204a5dc5c068ce8e9914cc779b0b5d1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8f8ce307fc07f4753fad9eeb9bc4df74d1c154e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000067-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=860&ch=860&exp=10800&fmt=webp> 小泉進次郎氏「コメ担当大臣」　更迭・江藤農相の後任　石破首相「改革に向けた情熱持っている」
+      <a href=https://news.yahoo.co.jp/articles/5061074ad8acb3fe6520913bfdbe92acbf0ac026>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975450-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉新農水相「コメに尽きる」　備蓄米放出「需要あれば無制限」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b252dce54ec18348117b7247d88906983fb082c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000229-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平がロバーツ監督の〝勝負手〟に応えサヨナラホーム踏む　投手調整ではスライダー＆カーブ解禁
       </a>
     </td>
   </tr>
@@ -372,14 +380,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/034b64e38cc54510425f94221f25c201ef7d13a1eeebde8d439e245071ad5a39.jpg> 小泉農相 備蓄米放出「無制限に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/df56fa22635f3d1c9dfffd4461edc3195d0b2d91464cd87a1e89772c1f3ac6e7.jpg> 野党 首相に突きつけた「数の力」
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ff829e055adaca7b03195c43684f55ae195aceee95345d8fc5995a8a5b5a6c3c.jpg> 包丁投げ落としたか 殺人未遂事件
+      <a href=https://news.yahoo.co.jp/pickup/6539578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cde71e0c60e9302b0de9470f6f9a116bd92c8fb25f818edd4088c1cd9107ce97.jpg> ジャーナリスト 田畑光永さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/54b232d972cc803e5b23c531982cfc0f6bbd59540695767b87b2679185a32d27.jpg> 20代で「終活」増加中 葬儀社調査
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8708ab9be1f7cb03baac3cfad78daae975d7229dd33e6e73d5fea33997f1d53b.jpg> G浅野 阪神森下のバットで先制打
+      <a href=https://news.yahoo.co.jp/pickup/6539577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 06:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 06:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
