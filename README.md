@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd757e5cbda630296caba1a620d3e4ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/300964d8c90fe31e691ed3d0d77633d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec40b276385aa872394eb744804ca5d83346d8ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010034-annd-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「外免切替」を厳格化へ　試験問題数の増加などで運用見直し検討
+      <a href=https://news.yahoo.co.jp/articles/d6a8f5e315a2cf99d65a497a0c0210e179a10fae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90019567-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 家に送る車内で『降りるか体で払え』迫ったか　15歳女子中学生に性的暴行疑い　大商大野球部員の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa1d2443507fb460813b376d9faf0cbbb6a836bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博のユスリカ大量発生問題　吉村知事がアース製薬社長に協力直談判
+      <a href=https://news.yahoo.co.jp/articles/a62af6b9aa80c9655cc8bcc998a43dfa7aa7e12b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d7a55f85105025cc9c894f7dcac83f57f7d990c7b0a247c2d93669465601c7d6.jpg> MUSIC AWARDS JAPAN 初日結果
+      <a href=https://news.yahoo.co.jp/pickup/6539554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0c966b15bfca09ee231b19249cc96ef9722039dc3e0c7fe6f3c6bc9ae491b0ac.jpg> FW宮市亮が負傷 担架で運ばれる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/226fab69bfb48c4bdf29400a3718142e21cc9e581ebc4ca5293441afc4171c0f.jpg> NHK 永野芽郁の大河降板を説明
+      <a href=https://news.yahoo.co.jp/pickup/6539545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d7a55f85105025cc9c894f7dcac83f57f7d990c7b0a247c2d93669465601c7d6.jpg> MUSIC AWARDS JAPAN 初日結果
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 20:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 20:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
