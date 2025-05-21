@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a81a64546c99519fb5fd27b556d46c1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f007f67b86be9909bc7d37b1721c94da.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e51d3f30907a045eaf4608b8b517de54fb3871fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00051331-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> パナソニックが電動メンズシェーバー約３７万台をリコール　水濡れで充電すると発熱　やけどの恐れ
+      <a href=https://news.yahoo.co.jp/articles/2d635481321c5c7ee04c96d330d3943503b45f1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-06128137-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【急転】コメ巡る発言で波紋…江藤農水相 釈明からの辞任劇舞台裏は？後任・小泉氏起用と政局含め専門家が解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7cf4122a9a3dc10bfd49cbaefaa38c5397adbdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000253-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 「たけし軍団」タレント　小泉進次郎氏の農相後任報道をバッサリ「バカも休み休み言え」「喋る蟻地獄」
+      <a href=https://news.yahoo.co.jp/articles/ba998cd946ae99ed48fc7afca17dc273fa9432af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000109-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博会場に群がる羽虫　ユスリカか　人に害は与えずとも来場者が不快感　協会が対策進める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/893d178721884a72f6f9f02fc5f0f827706bb9a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975080-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「おととい辞めさせていれば100倍よかった」自民党内から批判も…江藤氏「続投」から一転「更迭」に　小泉氏起用の背景に“改革色”
       </a>
     </td>
   </tr>
@@ -402,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/efb7be38b11bdabec62980234352a4a583eea4e017283182ef959ce189384fdb.jpg> 川崎遺体 親族は近隣警察にも相談
+      <a href=https://news.yahoo.co.jp/pickup/6539518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/63716c6b343c48c101f4cc4ab0d041316c05bb833c171dfe0a53e2257b13c26d.jpg> 殺人未遂疑いで生徒逮捕 高校陳謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/63716c6b343c48c101f4cc4ab0d041316c05bb833c171dfe0a53e2257b13c26d.jpg> 殺人未遂疑いで生徒逮捕 高校陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6539525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/f648d510741444fb90c200c160af180cc7f2dc7026d3e56c15f7bccdc3934805.jpg> 万博の虫 アース製薬に協力要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/224ee4ad7c6a18ac451c6f4a1485b9ab3e0aadf19fd15ee4e200b69cd7a8c39b.jpg> パナ シェーバー巡るリコール発表
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/bc7de8dd236500bda5cb2988a5e1ccc5c8842cf1c6e80c697e78de36caa8ea30.jpg> 万博 警備員の「スカウター」話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/51a14da9dc90bc520a085dfdada30a8d9937e8bc472f610b39d850359383c302.jpg> 大谷生還 ド軍が逆転サヨナラ勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6539529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8da30263074f38f6e75525cfcacc15d16ba039e0c539d438180cb0ec590055bc.jpg> 国内最高齢になった翌日 女性死去
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 16:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 17:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
