@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3e7b8fa9ba34f36d9b1dd53e7359640.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6801f8fdc784fa9be26f14e5d1c61796.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06ec416e85ce6481c9340f5be997821364bb2527>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000056-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「コメ買ったことがない」発言に批判集中　江藤大臣、更迭へ
+      <a href=https://news.yahoo.co.jp/articles/fa16e97a7bf2655af437456a18525a889c03bc61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000192-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 江藤拓農相、ブログでお詫び「一兵卒として原点に立ち返り、努力精進してまいる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/429c157e3d4f096abe9a99bfac69cf3a00b93f08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00799583-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 気象予報士の元AKB48・武藤十夢、情報セキュリティマネジメント試験を一発突破　合格率50～70％台も「すごく難しい勉強」
+      <a href=https://news.yahoo.co.jp/articles/e99f49f08fcba5caebb549a9666711453138a6ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000053-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> ローマ教皇、停戦交渉仲介に意欲　ウクライナ巡り伊首相が確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6005dbf6e025a88236f0c0b127e1af196fe98d04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-21926238-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏 停戦協議から「手を引く」発言で“仲介やめる”可能性を示唆　ロシア・ウクライナと電話会談も遠のく停戦　専門家の見方は?【news23】
+      <a href=https://news.yahoo.co.jp/articles/1d8a1bbefe5e9e169187a4e1974d23aaa7caf422>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000041-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 妻の遺体をドラム缶に入れて10年以上放置か　容疑で50歳男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b859a978c31eae0cc5238b765d6326d16d589355>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女性親族「県警動いてくれない」　警視庁に相談、川崎の20歳遺棄
       </a>
     </td>
   </tr>
@@ -394,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/82e47a4316ecf2649770abed61b64a18362ab8ebc2ecd0e4375a4752d5e76953.jpg> 米 新ミサイル防衛システム構想
+      <a href=https://news.yahoo.co.jp/pickup/6539505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d4feb0445b492c06840de03edecd335f312978e1c18c330164a33f6368eb112d.jpg> 九州や四国 滝のような雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/97b9a99b51be5ce07095d45defa7e266336f0dfc56287d0b2139f26c0e5688f8.jpg> ドラム缶の中に女性遺体 夫を逮捕
       </a>
     </td>
   </tr>
@@ -410,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c9850404455021ce7f4b8ab3af32a0571a776f3979b09ed939aa97f3e0d74f95.jpg> 水道基本料0円 東京だから可能?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ced28469b80e73dfb3a4244ef9bffad91ec0e8cf776b9a9136d0af745c788923.jpg> 新型RAV4発表 今年度中に発売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539492>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8a02eba8308819616b9da9b0f47b75b7df8688c0a423b1be1167d7807d5e70ae.jpg> 「ドコモ絵文字」サービス終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/207e998760d7ca63c7d83d165c77054aa781f903b750e442fc7ec1d7bca64ed4.jpg> 米高騰 相撲部屋のちゃんこに変化
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/6903046baba9d3a95aec86cc01915c7b652d2d2b24b9cba635462862f4678842.jpg> フジ新しいカギ 国際映像祭で銀賞
+      <a href=https://news.yahoo.co.jp/pickup/6539504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/cdb41e2dde271a6ed3a2ee42ea2c9d8657924b199e024ccaaf92667f84f0a351.jpg> 武藤十夢 4個目の国家資格を取得
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 14:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 14:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
