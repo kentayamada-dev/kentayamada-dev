@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/300964d8c90fe31e691ed3d0d77633d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b795581bac835fe8a804e0efede8cdeb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6a8f5e315a2cf99d65a497a0c0210e179a10fae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90019567-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 家に送る車内で『降りるか体で払え』迫ったか　15歳女子中学生に性的暴行疑い　大商大野球部員の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/b3dca05a4875dd9af7cb024fc1d311cb0d10af9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-35211382-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 進次郎農相が“江藤路線”を早くも修正　来週の備蓄米入札いったん中止「惰性では効果出ない！」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a62af6b9aa80c9655cc8bcc998a43dfa7aa7e12b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/3d281e90fae73145c2e4e621c218717e57a6b2d41e25dc17e0333a036a58c5b5.jpg> 小泉氏農相就任 菅氏が決断後押し
+      <a href=https://news.yahoo.co.jp/pickup/6539558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/df49fa70bb8cba90bf7973585181fdfaf9c6bcf1a4f4e8dd7b42e5c254e2c06d.jpg> 小泉新農相 備蓄米の入札一旦中止
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/29cee1a9ae6b9497f358d173b1195091fa978691cd97bb9453b088a3bc3dc4ca.jpg> 日本の大腸がん 5割が細菌原因か
+      <a href=https://news.yahoo.co.jp/pickup/6539547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/08b433bdfaed447452122c87e278416c0e43ac4d7bb427b6c6ea9ef32d7118da.jpg> 河合塾の講師 授業15分ストライキ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d7a55f85105025cc9c894f7dcac83f57f7d990c7b0a247c2d93669465601c7d6.jpg> MUSIC AWARDS JAPAN 初日結果
+      <a href=https://news.yahoo.co.jp/pickup/6539557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e58dbbdf918517dff01cc47b27ae02d195788962026748c02e6df44660756217.jpg> 池田エライザ主演ドラマ 独で金賞
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 20:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 21:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
