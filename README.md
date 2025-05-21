@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/664fecba23234bb5674a905d77047795.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a81a64546c99519fb5fd27b556d46c1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea033e2149a8f3e2776a8ad2d8b4e0803e832e81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「殺そうと思って刺した」と女子生徒
+      <a href=https://news.yahoo.co.jp/articles/e51d3f30907a045eaf4608b8b517de54fb3871fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00051331-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> パナソニックが電動メンズシェーバー約３７万台をリコール　水濡れで充電すると発熱　やけどの恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28730099e60e00180b9d2d6e6628f0d55d71f9f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-11643016-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=527&ch=527&exp=10800&fmt=webp> 泉房穂氏、江藤発言で苦境の石破首相に「急転直下の更迭より減税を」「減税無しなら総理の存在意味ない」
+      <a href=https://news.yahoo.co.jp/articles/e7cf4122a9a3dc10bfd49cbaefaa38c5397adbdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000253-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 「たけし軍団」タレント　小泉進次郎氏の農相後任報道をバッサリ「バカも休み休み言え」「喋る蟻地獄」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b859a978c31eae0cc5238b765d6326d16d589355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女性親族「県警動いてくれない」　警視庁に相談、川崎の20歳遺棄
+      <a href=https://news.yahoo.co.jp/articles/f9be943c1d1df4f981ff890b096a9e0eff54d97a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-07237966-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 川崎市の20歳女性遺棄事件　「神奈川県警が動いてくれない」女性の親族が警視庁にも相談　神奈川県警・川崎臨港署は「適正にやっている」と回答
       </a>
     </td>
   </tr>
@@ -386,32 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9c979599e10509014a0c664156b7a91b80c25bb504250a73a8efa3f3ab94b7fa.jpg> とにかくコメ 首相が小泉氏に指示
+      <a href=https://news.yahoo.co.jp/pickup/6539520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/67a88c0c95c6172d751c13f9407e21f9eefbbde030f5c0aa6aadf4fd0b7849f6.jpg> 小泉氏 コメ担当大臣という思いで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/daad333f7aa8fea7fffbd56bb980265b4d2cb66b2cdb54c4f4814e6131e3b10e.jpg> ガソリン定額補助 22日から開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/16d23a8f8a26ede49238a2160eef9311aee04c7e0e1d946bc11d916e809baa3f.jpg> 岐阜・飛騨市で猛暑日 今年全国初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/97b9a99b51be5ce07095d45defa7e266336f0dfc56287d0b2139f26c0e5688f8.jpg> ドラム缶の中に女性遺体 夫を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e094d14d20241746e81a51985ed95cd12ed6b496e18e2d30bf92a096d9795758.jpg> 米と協議翌日 露の強硬発言相次ぐ
       </a>
     </td>
   </tr>
@@ -426,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/63716c6b343c48c101f4cc4ab0d041316c05bb833c171dfe0a53e2257b13c26d.jpg> 殺人未遂疑いで生徒逮捕 高校陳謝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539516>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8c89d0f9a2cd9db5cb6a285c74bb89c7c0ddc84b14dd50c6bca639343203184e.jpg> メルカリ 不正利用者を徹底排除へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/bc7de8dd236500bda5cb2988a5e1ccc5c8842cf1c6e80c697e78de36caa8ea30.jpg> 万博 警備員の「スカウター」話題
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/cdb41e2dde271a6ed3a2ee42ea2c9d8657924b199e024ccaaf92667f84f0a351.jpg> 武藤十夢 4個目の国家資格を取得
+      <a href=https://news.yahoo.co.jp/pickup/6539522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1d81da4935f5d58f295a4a703fddf091cb005a7ad668b1f5ddcd4726019373bc.jpg> 認知症公表 橋幸夫マイク握り一変
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 16:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 16:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
