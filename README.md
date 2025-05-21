@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55a5a4c99b0b78d905e4b8940b3883ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c933b3e9dde05b2f0c6ee2bab774de23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cb92cbfec9a8d8a93183e5121984debb6b32b8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-01758458-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ブルペンでもスライダー解禁　ノーワインドアップで4球…復帰へ準備着々
+      <a href=https://news.yahoo.co.jp/articles/c5bb7ac6dbadd8b313ebe1aad7bb5b19c71f9837>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-01758472-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍指揮官、大谷翔平のライブBPについて「見守ろう」　土曜日に予定「進展があるかも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6de665aa67bc8940e60b3eb5745f5eb46dfd1881>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000022-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米・南ア首脳、「白人迫害」巡り応酬　トランプ氏、持論展開で映像公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61d5ff0afeb7e2012f97da6d2d8c8044ea1f16ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍の外交団への警告射撃を欧州各国が非難　仏、伊は大使呼び出しへ
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc481401c1d29f8b079e681c1596d53feb6056b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00345448-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1187&ch=1187&exp=10800&fmt=webp> 【夏場所】豊昇龍が大の里を２差追走　秀ノ山親方は一人横綱にゲキ「最高位との存在感を示してほしい」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539585>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585564275_1585564246_aflo_108134983.jpg> 東京都議選 270人超が立候補へ
       </a>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dd08d3e394b81fd68c7eed214663ba56d391bc191e66ea9ef21ce4d0e6766252.jpg> 列車のガラス割れ死亡 小屋衝突か
+      <a href=https://news.yahoo.co.jp/pickup/6539587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/30731df2c3389cbd5a64da07022101ddb7a3f6a1f42e853f4c67ae429471ba9c.jpg> TOEIC替え玉「日本だけ」と業者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f8fdfe3ff293c421e05267cf46595e1dd124432104455ecce04b521242ffb322.jpg> 万博で虫大量発生「気持ち悪い」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 08:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 08:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
