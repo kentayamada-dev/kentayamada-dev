@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a79b6d200c3a829aec8e67fd194541ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3e7b8fa9ba34f36d9b1dd53e7359640.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e36ad36a0852135106ccb7f4dc53451c95146c37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000057-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 小泉進次郎氏「コメ高騰対応に全力」「スピード感をもって対応」　農水相就任へ
+      <a href=https://news.yahoo.co.jp/articles/06ec416e85ce6481c9340f5be997821364bb2527>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000056-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「コメ買ったことがない」発言に批判集中　江藤大臣、更迭へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99d314bb40891e94db5362b21ee9bab82df61fb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90019548-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 5歳女児「父と母けんか」通報きっかけに刺し傷ある男女2人遺体発見　遺体は死後数日経過　女児にも刺し傷
+      <a href=https://news.yahoo.co.jp/articles/429c157e3d4f096abe9a99bfac69cf3a00b93f08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00799583-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 気象予報士の元AKB48・武藤十夢、情報セキュリティマネジメント試験を一発突破　合格率50～70％台も「すごく難しい勉強」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 13:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
