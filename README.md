@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/204a5dc5c068ce8e9914cc779b0b5d1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5ca8cb4954813513140bfa1752e04bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5061074ad8acb3fe6520913bfdbe92acbf0ac026>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975450-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉新農水相「コメに尽きる」　備蓄米放出「需要あれば無制限」
+      <a href=https://news.yahoo.co.jp/articles/0a18709d00a3ec253461043282233b333e91a262>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 「コメ担当」小泉農相に与党は局面打開の期待感、野党は「成果を挙げて全国行脚されたら…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b252dce54ec18348117b7247d88906983fb082c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000229-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平がロバーツ監督の〝勝負手〟に応えサヨナラホーム踏む　投手調整ではスライダー＆カーブ解禁
+      <a href=https://news.yahoo.co.jp/articles/4445d4a0479e97168a7ea826c3ff279617f339a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975453-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 走る列車に“農業用ハウス”衝突、乗客1人死亡・2人けが…強風で飛ばされてきたか　長野・須坂市
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1874a61cba042fe07d0dafca0ec7eee9898df9acc64960a65bc4a6b9eb66fade.jpg> 逮捕 大商大野球部で不祥事相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6539577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
+      <a href=https://news.yahoo.co.jp/pickup/6539580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/878cc968ab6122f2f20c037977b0cf9e5ac9ce9bb2ad385aed55bb7213211a7c.jpg> 横浜FM クラブ史上初の泥沼7連敗
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 07:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
