@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b795581bac835fe8a804e0efede8cdeb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0bc108c3396dcf8c1c863e1a4a7e69d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3dca05a4875dd9af7cb024fc1d311cb0d10af9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-35211382-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 進次郎農相が“江藤路線”を早くも修正　来週の備蓄米入札いったん中止「惰性では効果出ない！」
+      <a href=https://news.yahoo.co.jp/articles/97367fb37b59f3f068d3625b61099fd215804acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-21928771-sbcv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【速報】長野電鉄の走行中の列車に農業用ハウスが接触した事故　乗客の男性1人が死亡　男性2人けが　窓ガラスが割れる　強風の影響か　当時、県北部に竜巻注意情報　長野・須坂市
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a62af6b9aa80c9655cc8bcc998a43dfa7aa7e12b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba73ba6e984ea1bbd9b67009afd330dc0e9d760b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-01265063-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 吉沢亮×横浜流星『国宝』圧巻の歌舞伎舞踊シーン含む場面写真が解禁！高畑充希・田中泯ら共演者の姿も明らかに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000172-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=725&ch=725&exp=10800&fmt=webp> 万博に群がる羽虫、アース製薬と協力し対策　パーク＆ライド料金半額提案　大阪・吉村知事
       </a>
     </td>
   </tr>
@@ -394,8 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/297b5951fbbba5bc905e5ae8eefb3e55c8e23e830fa10e64e84f4aa9cf7064c8.jpg> 皇族の確保策 対応を麻生氏に一任
+      <a href=https://news.yahoo.co.jp/pickup/6539552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/f53634810df196de1100de099e1a12f14fb5c7c9589338b8a071e52f3e1e1bd3.jpg> 「外免切替」見直し方針明らかに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1fe037260b9777d7bb01a63b796f7a9c48aef68d749305b5f59bc8992bd403b6.jpg> 電車の走行中ガラス割れ 1人死亡
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/69713e9ab226305cc99d7f9087ca02c4be108014997ca52313cb99896b329ce8.jpg> 外食で異物 中学生の胃にガラス片
+      <a href=https://news.yahoo.co.jp/pickup/6539555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1874a61cba042fe07d0dafca0ec7eee9898df9acc64960a65bc4a6b9eb66fade.jpg> 逮捕 大商大野球部で不祥事相次ぐ
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e8ad7b5487586e2a742d324ce1e14bb57b166025b31e9eba7e81e483e58b4179.jpg> 高級中華料理「聘珍樓」が破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0c966b15bfca09ee231b19249cc96ef9722039dc3e0c7fe6f3c6bc9ae491b0ac.jpg> FW宮市亮が負傷 担架で運ばれる
+      <a href=https://news.yahoo.co.jp/pickup/6539559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/41714436586a426dfcf124c1586198b00cc9362aa34669e700b4cbf0211ad513.jpg> 中華「聘珍樓」破産 負債計32億円
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 21:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 21:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
