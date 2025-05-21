@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/453748b74c6786b3ae564e44cc00ce49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f53a8014e226b097e6431a7e0dc78635.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9143e9114222be57f77f617a9caa5b4cee21aa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-35210201-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=661&ch=661&exp=10800&fmt=webp> 田崎史郎氏が江藤農相を猛批判「真に受けない方がいい」「２世議員」「感覚が欠如」「期待外れ」
+      <a href=https://news.yahoo.co.jp/articles/d7b4283d9c1913adc6ec092f67dd16c2e0151498>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000089-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1729&ch=1729&exp=10800&fmt=webp> 「国民の思いくみ取れなかった」　江藤氏が失言陳謝、成果強調も
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fd8093866a5e9428bd426ad149686e61b399d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-10179409-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 石破総理「全て任命権者たる私の責任」「後任は現在検討中だが、農政の改革に意欲・識見を持った方」…江藤農水大臣の“更迭”受けコメント
+      <a href=https://news.yahoo.co.jp/articles/f47109c8683efad9fa22509252d13a336f297226>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000020-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=315&ch=315&exp=10800&fmt=webp> トランプ大統領「宇宙からミサイル撃つゴールデンドーム、在任中に配備」…中ロ朝の脅威に対応
       </a>
     </td>
   </tr>
@@ -386,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0a95033a8c3795f51e6a70a13933ad08c0c54f0b2fac1c02b9fb3d6129334744.jpg> 江藤農相の後任 小泉氏を起用へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/02ddc31bcdb2e93ba64ece225d26d1c0279ea621d2b857de46927735feddd6da.jpg> 関税交渉 車の相互認証枠組み提案
+      <a href=https://news.yahoo.co.jp/pickup/6539476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/79e7ff60db31e0405fa5656990d8cd886376b68b513a3fc083a82765264ff068.jpg> 農相辞職 石破首相「私の責任」
       </a>
     </td>
   </tr>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539461>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4375c3af6b192f604a54027ab3be0b65df22b1370137e4790a0cf4124ffb43f8.jpg> 日鉄副会長 トランプ氏の懸念解消
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1be0425c5ee605046b1798dfb06f0edc461e526543537ba588a4bf32187a9526.jpg> 夫作り置き 泣いて食べた事故遺族
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c4a1f1e1640b161bb2b56a520a7c77cc98e2112e36dd8a90b8407fd64a0ca768.jpg> 鈴木誠也12号2ラン 豪快123m弾
+      <a href=https://news.yahoo.co.jp/pickup/6539479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c4a1f1e1640b161bb2b56a520a7c77cc98e2112e36dd8a90b8407fd64a0ca768.jpg> 鈴木誠也が豪快2ラン 敵地騒然
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 10:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 11:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
