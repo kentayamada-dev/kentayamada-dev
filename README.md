@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fca64ce61137a2df2bd7c78eb70ab3f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55a5a4c99b0b78d905e4b8940b3883ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7cb92cbfec9a8d8a93183e5121984debb6b32b8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-01758458-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ブルペンでもスライダー解禁　ノーワインドアップで4球…復帰へ準備着々
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6e171e0b2f1e4f8cb2eb231d83277e6b1a5f243>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dd08d3e394b81fd68c7eed214663ba56d391bc191e66ea9ef21ce4d0e6766252.jpg> 列車のガラス割れ死亡 小屋衝突か
+      <a href=https://news.yahoo.co.jp/pickup/6539585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585564275_1585564246_aflo_108134983.jpg> 東京都議選 270人超が立候補へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ddf600ae0f660a0c2483e725b9b86f9553bb7d17ff0c24b4895269598bd5f90a.jpg> 棋譜の無断利用に賠償責任 初判断
+      <a href=https://news.yahoo.co.jp/pickup/6539574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dd08d3e394b81fd68c7eed214663ba56d391bc191e66ea9ef21ce4d0e6766252.jpg> 列車のガラス割れ死亡 小屋衝突か
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7b7dd82c219c4fa7f04484903d11aaf8ea307ea4f06a0db4fac295c6a1d74b74.jpg> 横綱・豊昇龍 日本国籍を取得へ
+      <a href=https://news.yahoo.co.jp/pickup/6539584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/067842a59f68e7a84418afc00641196bf1730fb5d5dffe8d86a7607036a0d9b7.jpg> 巨大な「モンスター銀河」を発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3acc9a65e5c9de70b84bd24b016aebca951d956249c77d09ba16c2999e1b12ed.jpg> 大谷翔平 二刀流復活へ最終段階か
+      <a href=https://news.yahoo.co.jp/pickup/6539586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0f497b45a67f71c54f8edb2c4fc6cbe84d0f273cb7d07e510fed2fed8369fbbb.jpg> バスケ富永啓生 Bリーグ入りへ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 08:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
