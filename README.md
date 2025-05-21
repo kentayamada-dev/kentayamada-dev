@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1512ddce04a09b041cd3828f6240514e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/453748b74c6786b3ae564e44cc00ce49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/824f239d2ca357e51f5c285c588f0a1c7996dcec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010000-senkyocom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 「米買ったことない発言」で農水大臣を辞任した江藤拓氏の経歴は？
+      <a href=https://news.yahoo.co.jp/articles/b9143e9114222be57f77f617a9caa5b4cee21aa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-35210201-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=661&ch=661&exp=10800&fmt=webp> 田崎史郎氏が江藤農相を猛批判「真に受けない方がいい」「２世議員」「感覚が欠如」「期待外れ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bb3f58437c0f1988b0552477870c0fc4c48d356>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000004-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> ド軍・ロバーツ監督、大谷翔平のスライダー解禁に「進展している」　25日の本格投球は「アップ＆ダウンをこなすと思う」
+      <a href=https://news.yahoo.co.jp/articles/cad7c2f22cc60af0f492bd6546980ff0e03934ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00974789-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】米露首脳電話会談もウクライナ即時停戦実現せず…迅速な成果求めるトランプに時間的余裕を見せつけるプーチン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fd8093866a5e9428bd426ad149686e61b399d2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-10179409-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 石破総理「全て任命権者たる私の責任」「後任は現在検討中だが、農政の改革に意欲・識見を持った方」…江藤農水大臣の“更迭”受けコメント
       </a>
     </td>
   </tr>
@@ -394,32 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/2375035906fd866bfa68a71bd45bee264a823e536ec08c40717b4981553302b2.jpg> 韓国野党候補 日本と仲良くしたい
+      <a href=https://news.yahoo.co.jp/pickup/6539461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4375c3af6b192f604a54027ab3be0b65df22b1370137e4790a0cf4124ffb43f8.jpg> 日鉄副会長 トランプ氏の懸念解消
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b841e6480f40b7093bc43fe941c1d1bbf7be691b761730befe07d20ca75f26c8.jpg> 新名神逆走 「道に迷った」と供述
+      <a href=https://news.yahoo.co.jp/pickup/6539474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ef68824b97622f8ba968d76e132f492b0c1a0997e7b102097639d09261d7d185.jpg> ネタバレ記事を公開疑い 書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/50ac273292a85c2404a05881512675aed076865edd3c9811a52ed3f5338877c2.jpg> タクシー客に性的暴行疑い 逮捕へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/38b0bcde80b4e42147209947f353a24f1b75112b8aa447ed16abfe99c3f97450.jpg> 台頭する巨大EC ロフトの新戦略
+      <a href=https://news.yahoo.co.jp/pickup/6539472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d31cd02c3d2112d13ad70fdd819b5332c4e828c967fa6a31209ade1ad6731317.jpg> 富山湾でシロエビ激減 海中の現象
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539471>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02216088/title-1747723239648.jpeg?exp=10800> 中村悠一Switch2落選 なぜ話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c4a1f1e1640b161bb2b56a520a7c77cc98e2112e36dd8a90b8407fd64a0ca768.jpg> 鈴木誠也12号2ラン 豪快123m弾
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 10:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 10:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
