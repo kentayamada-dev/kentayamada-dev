@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac47cae5f107219a53c36e89d2ede480.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f2172f624e7a002fb40a6a3216f1e3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a498f53ec716527ea3b546bc2cc7a5d50f66c050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
+      <a href=https://news.yahoo.co.jp/articles/c5bf82138fbb2dbaed05801e2f31e168e5d9cb0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小泉新農水大臣「入札をいったん中止」　備蓄米の“無制限の放出”も示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7b6488af5a0262aabab9aca3f49854475b93b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-03334638-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【解説】続投から一転“更迭”に…首相決断の裏側は？
+      <a href=https://news.yahoo.co.jp/articles/6b815204023461bd820c097ecee0b08d865e06f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍がヨルダン川西岸を視察の外交団に発砲　日本も参加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a498f53ec716527ea3b546bc2cc7a5d50f66c050>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
       </a>
     </td>
   </tr>
@@ -410,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/817b4731cd1b277262e11e6d3d9a0a4da6b7f8d0faa807e4bf3c1a78dc41f18d.jpg> 日産「ノート」の輸出を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ff829e055adaca7b03195c43684f55ae195aceee95345d8fc5995a8a5b5a6c3c.jpg> 包丁投げ落としたか 殺人未遂事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/08b433bdfaed447452122c87e278416c0e43ac4d7bb427b6c6ea9ef32d7118da.jpg> 河合塾の講師 授業15分ストライキ
+      <a href=https://news.yahoo.co.jp/pickup/6539569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/066f06bb549511f68128fb334d85b11b05cf24769c0141dce278f8391fc94d81.jpg> 受刑者和気あいあい 変わる刑務所
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/937374c3cd63dae7073e1ac56c34ddc276773761c630f280345b14f7252305de.jpg> 破産の聘珍樓 炎の料理人にゆかり
       </a>
     </td>
   </tr>
@@ -432,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e58dbbdf918517dff01cc47b27ae02d195788962026748c02e6df44660756217.jpg> 池田エライザ主演ドラマ 独で金賞
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 23:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 23:52:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
