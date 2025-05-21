@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dbdc2b3a67bf1b4545459fb6c20bf3d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7873ab9533f147a6a6d2ccadb9162c79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68b1327dd72513cebd86df4321401b79ce184e45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000245-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=885&ch=885&exp=10800&fmt=webp> 農水相後任に小泉進次郎氏起用へ　石破茂首相、方針固める
+      <a href=https://news.yahoo.co.jp/articles/1c0b3c7fa44e983904cc19bb0d9c0ec1d13f37c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=1000&ch=1000&exp=10800&fmt=webp> 「石破総理は…リカバリー不可能だと認識」…「モーニングショー」田崎史郎氏、江藤拓農水相「辞任」背景を解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b422cf9b10607ff088658ded9fe5244594684acd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000107-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> スライダー“解禁”大谷翔平は「次のフェーズに入ってきた」ド軍指揮官　次回ブルペン変化球「投げる予定」
+      <a href=https://news.yahoo.co.jp/articles/782b64936f3c61348d08f5176dfe6b3cfc98080e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000001-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 大谷翔平がスライダー＆カーブを解禁　ロバーツ監督は対打者の投球に「ゴーサイン待っている段階」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/bc4b4f62fd7c95792a6b94102335c32834b5584fac9363815205f1db53b52d80.jpg> 江藤農水相 首相に辞表を提出
+      <a href=https://news.yahoo.co.jp/pickup/6539468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0a95033a8c3795f51e6a70a13933ad08c0c54f0b2fac1c02b9fb3d6129334744.jpg> 江藤農相の後任 小泉氏を起用へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e70bacfb6611e926906cd68a558d7abc27e8f6fd3bdb3701366d2d18c202c968.jpg> Google 検索AIモードを米で開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6539467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/38b0bcde80b4e42147209947f353a24f1b75112b8aa447ed16abfe99c3f97450.jpg> 台頭する巨大EC ロフトの新戦略
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d788e6e1cd0257875bdb08e386b68e24c95854b3279417035199625fbd73db42.jpg> 大谷がスライダー解禁 手術後初
+      <a href=https://news.yahoo.co.jp/pickup/6539470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4835795664befbb36c06b734aa6b16c4f212f2fd1dd1ae145e252174f6025f80.jpg> 大谷に感じた「疑問」 専門家指摘
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 09:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 09:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
