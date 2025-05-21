@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09bb829987aea862b96967e9b5466b84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dbdc2b3a67bf1b4545459fb6c20bf3d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38f286bdf4adf6dcd22de7ceead299f18ced083e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】江藤農水相の後任に小泉進次郎氏の起用固まる　自民党農林部会長の経験など買われ起用　コメ高騰対策へ指導力期待
+      <a href=https://news.yahoo.co.jp/articles/68b1327dd72513cebd86df4321401b79ce184e45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250520-00000245-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=885&ch=885&exp=10800&fmt=webp> 農水相後任に小泉進次郎氏起用へ　石破茂首相、方針固める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ee23c70d18b37e9587df9a699f010863119c254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-10179398-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 江藤農水大臣が辞表提出「国民の皆様方に心からおわび」石破総理が受理
+      <a href=https://news.yahoo.co.jp/articles/b422cf9b10607ff088658ded9fe5244594684acd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000107-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> スライダー“解禁”大谷翔平は「次のフェーズに入ってきた」ド軍指揮官　次回ブルペン変化球「投げる予定」
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/02ddc31bcdb2e93ba64ece225d26d1c0279ea621d2b857de46927735feddd6da.jpg> 関税交渉 車の相互認証枠組み提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539458>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/2375035906fd866bfa68a71bd45bee264a823e536ec08c40717b4981553302b2.jpg> 韓国野党候補 日本と仲良くしたい
       </a>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/88edff34897899d9b4b40c90dbad64b21f2775b00f52dccdc00bb0ea32a29600.jpg> 資材置き場に死体遺棄疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b841e6480f40b7093bc43fe941c1d1bbf7be691b761730befe07d20ca75f26c8.jpg> 新名神逆走 「道に迷った」と供述
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0300d3b303bb28d618720d8f88624dcf421174eb329bcb3d177c357cb6f9cd8d.jpg> 楽天 元パドレスの大砲候補獲得へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b7fd111204b49e3b25a2d53c31b6818257da689de16dffea8517f372b451c430.jpg> 木村文乃&ラウール 連ドラで共演
+      <a href=https://news.yahoo.co.jp/pickup/6539465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d788e6e1cd0257875bdb08e386b68e24c95854b3279417035199625fbd73db42.jpg> 大谷がスライダー解禁 手術後初
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 08:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 09:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
