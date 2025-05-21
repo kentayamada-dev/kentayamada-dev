@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f2172f624e7a002fb40a6a3216f1e3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44f4aa771508ef91699740e6c624d701.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5bf82138fbb2dbaed05801e2f31e168e5d9cb0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小泉新農水大臣「入札をいったん中止」　備蓄米の“無制限の放出”も示唆
+      <a href=https://news.yahoo.co.jp/articles/2a06319c984fda21c9a2e260f55972aae8c9ecff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000113-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 走行中の列車に強風で飛ばされた農業用ハウスが衝突 乗客1人死亡 長野
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
+      <a href=https://news.yahoo.co.jp/pickup/6539572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/034b64e38cc54510425f94221f25c201ef7d13a1eeebde8d439e245071ad5a39.jpg> 小泉農相 備蓄米放出「無制限に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ad2f205a1477ad089703012aea1e9faa69593f8236db43557966665021a13d30.jpg> 江藤氏更迭 地元ではあきれと憤り
+      <a href=https://news.yahoo.co.jp/pickup/6539573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/df56fa22635f3d1c9dfffd4461edc3195d0b2d91464cd87a1e89772c1f3ac6e7.jpg> 野党 首相に突きつけた「数の力」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1fe037260b9777d7bb01a63b796f7a9c48aef68d749305b5f59bc8992bd403b6.jpg> 電車の走行中ガラス割れ 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dd08d3e394b81fd68c7eed214663ba56d391bc191e66ea9ef21ce4d0e6766252.jpg> 列車のガラス割れ死亡 小屋衝突か
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/066f06bb549511f68128fb334d85b11b05cf24769c0141dce278f8391fc94d81.jpg> 受刑者和気あいあい 変わる刑務所
+      <a href=https://news.yahoo.co.jp/pickup/6539555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1874a61cba042fe07d0dafca0ec7eee9898df9acc64960a65bc4a6b9eb66fade.jpg> 逮捕 大商大野球部で不祥事相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/937374c3cd63dae7073e1ac56c34ddc276773761c630f280345b14f7252305de.jpg> 破産の聘珍樓 炎の料理人にゆかり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/6c8efd8d7763171452c5748891deb3bfaf5a6d431eceaac23ddeae8e0094362a.jpg> FW宮市亮「肉離れです情けない」
+      <a href=https://news.yahoo.co.jp/pickup/6539576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8708ab9be1f7cb03baac3cfad78daae975d7229dd33e6e73d5fea33997f1d53b.jpg> G浅野 阪神森下のバットで先制打
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 23:52:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 00:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
