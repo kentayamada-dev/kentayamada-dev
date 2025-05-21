@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7873ab9533f147a6a6d2ccadb9162c79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1512ddce04a09b041cd3828f6240514e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c0b3c7fa44e983904cc19bb0d9c0ec1d13f37c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05211023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=1000&ch=1000&exp=10800&fmt=webp> 「石破総理は…リカバリー不可能だと認識」…「モーニングショー」田崎史郎氏、江藤拓農水相「辞任」背景を解説
+      <a href=https://news.yahoo.co.jp/articles/824f239d2ca357e51f5c285c588f0a1c7996dcec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010000-senkyocom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 「米買ったことない発言」で農水大臣を辞任した江藤拓氏の経歴は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/782b64936f3c61348d08f5176dfe6b3cfc98080e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000001-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 大谷翔平がスライダー＆カーブを解禁　ロバーツ監督は対打者の投球に「ゴーサイン待っている段階」
+      <a href=https://news.yahoo.co.jp/articles/8bb3f58437c0f1988b0552477870c0fc4c48d356>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000004-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> ド軍・ロバーツ監督、大谷翔平のスライダー解禁に「進展している」　25日の本格投球は「アップ＆ダウンをこなすと思う」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8992f498624d12433af4c7236bee425d650d23b4e05cb5fba57106e258e60572.jpg> TOEIC替え玉 容疑者は2度受験か
+      <a href=https://news.yahoo.co.jp/pickup/6539467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/38b0bcde80b4e42147209947f353a24f1b75112b8aa447ed16abfe99c3f97450.jpg> 台頭する巨大EC ロフトの新戦略
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/38b0bcde80b4e42147209947f353a24f1b75112b8aa447ed16abfe99c3f97450.jpg> 台頭する巨大EC ロフトの新戦略
+      <a href=https://news.yahoo.co.jp/pickup/6539471>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02216088/title-1747723239648.jpeg?exp=10800> 中村悠一Switch2落選 なぜ話題に
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 09:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 10:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
