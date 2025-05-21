@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b79ebb067aad41b0dfd6839c682f02ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a79b6d200c3a829aec8e67fd194541ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ec442cb8a8ae7b19bfb722f7b09ce1febf256f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010001-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 江藤農相が辞任　後任に小泉進次郎氏を起用へ
+      <a href=https://news.yahoo.co.jp/articles/e36ad36a0852135106ccb7f4dc53451c95146c37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000057-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 小泉進次郎氏「コメ高騰対応に全力」「スピード感をもって対応」　農水相就任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99d314bb40891e94db5362b21ee9bab82df61fb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90019548-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 5歳女児「父と母けんか」通報きっかけに刺し傷ある男女2人遺体発見　遺体は死後数日経過　女児にも刺し傷
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02528f237a72f6053dd07cee54397d36ed61d6b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025370-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 東京都　水道基本料金を4カ月間無償化　「エアコン使って」最大5840円の負担軽減
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,32 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/ce3ef9f85dd9793f74b7101a5089c5b9c05fd364dab938d30ebce3ddc44c31be.jpg> 楽観が一転 農相辞任で政権に打撃
+      <a href=https://news.yahoo.co.jp/pickup/6539498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9c979599e10509014a0c664156b7a91b80c25bb504250a73a8efa3f3ab94b7fa.jpg> とにかくコメ 首相が小泉氏に指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/27c70f5d751e01899eacbd3cf864cf3f39d774a4aed74279ffb364005cc371cc.jpg> ローマ教皇 ウ和平交渉主催の用意
+      <a href=https://news.yahoo.co.jp/pickup/6539480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/82e47a4316ecf2649770abed61b64a18362ab8ebc2ecd0e4375a4752d5e76953.jpg> 米 新ミサイル防衛システム構想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0ca66088bdb7a95682817f4282e4fede68bc30021d789fc8175a9d1ddb449fef.jpg> トラックとショベル横転 2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1be0425c5ee605046b1798dfb06f0edc461e526543537ba588a4bf32187a9526.jpg> 夫作り置き 泣いて食べた事故遺族
+      <a href=https://news.yahoo.co.jp/pickup/6539499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d2039322929db050f045d7c072e1e10eaed058fb79b7a5c959d460bbafce2ccd.jpg> 住宅2遺体 保護女児の背に刺し傷
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/6b1230fc44cf6387ae812fb58f24a1641d6f2ca52855cbbb29c33c5d91c342da.jpg> 速報 山本由伸が7回を終え無失点
+      <a href=https://news.yahoo.co.jp/pickup/6539492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8a02eba8308819616b9da9b0f47b75b7df8688c0a423b1be1167d7807d5e70ae.jpg> 「ドコモ絵文字」サービス終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/701bf653048326d8bb97c12eced65327fe73d43273fa9d74903eda19bbbeca51.jpg> 圧巻投球 由伸が7回1安打で降板
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 13:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 13:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
