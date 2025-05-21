@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e354484e2e1a1545544a0a0d1aaea5f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/664fecba23234bb5674a905d77047795.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d6e4ee9d3bce1e8678ed77bb17a6bf23e1c23c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 農相辞任も「国民をバカにすんな」　SNSで石破首相の判断に批判も
+      <a href=https://news.yahoo.co.jp/articles/ea033e2149a8f3e2776a8ad2d8b4e0803e832e81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「殺そうと思って刺した」と女子生徒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d903c673df11f472378c036a22ee89d304b3f4cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000134-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=666&ch=666&exp=10800&fmt=webp> メルカリ不正被害全額補償　利用者保護、詐欺に対応
+      <a href=https://news.yahoo.co.jp/articles/28730099e60e00180b9d2d6e6628f0d55d71f9f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-11643016-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=527&ch=527&exp=10800&fmt=webp> 泉房穂氏、江藤発言で苦境の石破首相に「急転直下の更迭より減税を」「減税無しなら総理の存在意味ない」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/d4feb0445b492c06840de03edecd335f312978e1c18c330164a33f6368eb112d.jpg> 九州や四国 滝のような雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6539515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/daad333f7aa8fea7fffbd56bb980265b4d2cb66b2cdb54c4f4814e6131e3b10e.jpg> ガソリン定額補助 22日から開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/daad333f7aa8fea7fffbd56bb980265b4d2cb66b2cdb54c4f4814e6131e3b10e.jpg> ガソリン定額補助 22日から開始
+      <a href=https://news.yahoo.co.jp/pickup/6539514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/16d23a8f8a26ede49238a2160eef9311aee04c7e0e1d946bc11d916e809baa3f.jpg> 岐阜・飛騨市で猛暑日 今年全国初
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/207e998760d7ca63c7d83d165c77054aa781f903b750e442fc7ec1d7bca64ed4.jpg> 米高騰 相撲部屋のちゃんこに変化
+      <a href=https://news.yahoo.co.jp/pickup/6539516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8c89d0f9a2cd9db5cb6a285c74bb89c7c0ddc84b14dd50c6bca639343203184e.jpg> メルカリ 不正利用者を徹底排除へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 15:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 16:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
