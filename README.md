@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb682332b8a8106d70d6e663164d93b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07716b8b7f3b02deae1008d98bfc1fea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6dc2bcdc62848cb4fbb2554ae6e47930c8f88b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-01872387-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 農水相後任に小泉氏「コメ担当大臣という思い」　江藤氏は事実上の更迭
+      <a href=https://news.yahoo.co.jp/articles/fe3f964f68a7d72bafa444784d57ace1036c9b86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-05753983-kkt-000-2-thumb.jpg?exp=10800&fmt=webp> 「コメは買ったことがない」農水相辞任 配慮を欠く発言に熊本の消費者は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/480889bd352d73e849663a7ea4e3c69649e41118>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975160-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「私のためというより大阪地検のため」元検事正から“口止め”…被害訴える女性が書面を公開
+      <a href=https://news.yahoo.co.jp/articles/9c372dcf9e67ee7bee82c2145c04ab5115206022>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975213-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「私の命に代えてやめていただくよう」　大地検の検事正による大スキャンダル　大阪地検元検事正の”直筆”手紙を被害者が公開　 ”口止め示唆”
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/f648d510741444fb90c200c160af180cc7f2dc7026d3e56c15f7bccdc3934805.jpg> 万博の虫 アース製薬に協力要請
+      <a href=https://news.yahoo.co.jp/pickup/6539537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9aa80efa827a0c9a1e6f2e9ad8282f0355da0a7be6ccee4b5acd773b0f195c37.jpg> 性暴行口止め 元検事正からの文書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9aa80efa827a0c9a1e6f2e9ad8282f0355da0a7be6ccee4b5acd773b0f195c37.jpg> 性暴行口止め 元検事正からの文書
+      <a href=https://news.yahoo.co.jp/pickup/6539539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/29cee1a9ae6b9497f358d173b1195091fa978691cd97bb9453b088a3bc3dc4ca.jpg> 日本の大腸がん 5割が細菌原因か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/c648f1531be63fef9f2de24cce369d0b33a6c8513615002084b74cf3a6597b18.jpg> 大谷に二盗指示 監督勝負の一手
+      <a href=https://news.yahoo.co.jp/pickup/6539543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/47f29ba4386068c9617263143d8bf160d347f47cb059a57e432e1e4655a0d58b.jpg> 宇良の「必殺技」国技館は大歓声
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 18:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 19:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
