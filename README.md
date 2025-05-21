@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2874e5c9b76f514f4dd902a264eb95cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cab8206f75a3d9ae21ea29a1d16a33a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/389cba3d60ee952b781fd1f6dcd2eb9c7d19ef4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010006-tvtokyos-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> 世界9位の伊藤美誠 今大会初ゲームを奪われるも4回戦進出！ポーランドのエースを破る【世界卓球】
+      <a href=https://news.yahoo.co.jp/articles/a498f53ec716527ea3b546bc2cc7a5d50f66c050>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000386-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 家族で万博来場の青木源太アナ“虫大量発生”問題に言及　特に数が多いエリアも明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3384dba20a26b95e6712d2063243ce3400756b02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000500-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=123&cw=837&ch=837&exp=10800&fmt=webp> 【現場レポ】万博「ユスリカ」大量発生、大屋根リング下の現状　吉村知事は「やれることを全てやりたい」
+      <a href=https://news.yahoo.co.jp/articles/92895d8355d3093ce7e7a064adb08f4db6b2a3fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-06566543-ybs-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> リニア実験線で車両から出火 電源装置から火花と煙上がる 走行後の点検中に 山梨
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/df49fa70bb8cba90bf7973585181fdfaf9c6bcf1a4f4e8dd7b42e5c254e2c06d.jpg> 小泉新農相 備蓄米の入札一旦中止
+      <a href=https://news.yahoo.co.jp/pickup/6539568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9473401e7e4d6c08dc980df10114f1fe6397d5ba316a26529e38ae436e0ac325.jpg> 小泉農相「コメに集中したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/f53634810df196de1100de099e1a12f14fb5c7c9589338b8a071e52f3e1e1bd3.jpg> 「外免切替」見直し方針明らかに
+      <a href=https://news.yahoo.co.jp/pickup/6539565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/a14823a167e6373773fdb63183bfb273778ae72cb0ffe24cc285b201c2d72a5e.jpg> イスラエル軍 視察の外交団に発砲
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8fe93562e50acc2fde84c895cb262d9803215c10734c5b6a23363674bd1f332a.jpg> 男女遺体 女児は数日1人で生活か
+      <a href=https://news.yahoo.co.jp/pickup/6539560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/817b4731cd1b277262e11e6d3d9a0a4da6b7f8d0faa807e4bf3c1a78dc41f18d.jpg> 日産「ノート」の輸出を検討
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 22:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 23:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
