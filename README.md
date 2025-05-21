@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52adfab35a0a0abd2c10f24053ac06bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec358a79c5bd0db94e22e96fc5bd63af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bed86838053eb30cb4b7940fef560814a2a2d303>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010010-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 農水大臣"更迭"　今後のコメ政策への影響は？  価格下がるか見通せず…
+      <a href=https://news.yahoo.co.jp/articles/15c0503aed00171cbfda7fd25714996be0af559c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90019973-sagatv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 後任は小泉進次郎氏か…「コメを買ったことがない」江藤農水相が辞任 続投方針から一転【佐賀県】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/476dca8256ba83518f99ed142e87a6a978414964>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-04569652-mdpr-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=394&ch=394&exp=10800&fmt=webp> フジ「新しいカギ」ドイツ国際映像祭で銀賞 受賞企画はせいや母校凱旋「学校かくれんぼ」
+      <a href=https://news.yahoo.co.jp/articles/02528f237a72f6053dd07cee54397d36ed61d6b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025370-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 東京都　水道基本料金を4カ月間無償化　「エアコン使って」最大5840円の負担軽減
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4375c3af6b192f604a54027ab3be0b65df22b1370137e4790a0cf4124ffb43f8.jpg> 日鉄副会長 トランプ氏の懸念解消
+      <a href=https://news.yahoo.co.jp/pickup/6539491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/27c70f5d751e01899eacbd3cf864cf3f39d774a4aed74279ffb364005cc371cc.jpg> ローマ教皇 ウ和平交渉主催の用意
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/349caf1146393c8daf31c6d8d8afd88bfd9b951ed07e2c15a0324abe82f25139.jpg> 北海道・東北6県 免許更新できず
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/1be7e4ae043a53129ef950ab43e208f2fff15c9a98b8ca7cd9de065153f51da8.jpg> 北海道・東北6県 免許更新できず
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539490>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/63f7b2bd57412b61f38b1f72031421c9f7350e1d8b560ff77dcba28775f67944.jpg> 刃物で負傷させた疑い 高校生逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/0ca66088bdb7a95682817f4282e4fede68bc30021d789fc8175a9d1ddb449fef.jpg> トラックとショベル横転 2人死亡
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/4835795664befbb36c06b734aa6b16c4f212f2fd1dd1ae145e252174f6025f80.jpg> 大谷に感じた「疑問」 専門家指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/047edca7976624ac309bbcd97af27496fd0b4e649b0c072f56f066e787d1f819.jpg> 高比良くるま 22日地上波復帰へ
+      <a href=https://news.yahoo.co.jp/pickup/6539489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/6903046baba9d3a95aec86cc01915c7b652d2d2b24b9cba635462862f4678842.jpg> フジ新しいカギ 国際映像祭で銀賞
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 12:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 12:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
