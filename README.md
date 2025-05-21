@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7fc48954ea7ea075455eeb4e8a1e30b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb682332b8a8106d70d6e663164d93b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/200afd5300d0ec3ffff1838e06d5c7252e702e2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000290-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=661&ch=661&exp=10800&fmt=webp> 辛坊治郎氏　「米袋有料化はやめて」ネットざわつく中…“米価格の行方”を読み解く「予言しておきます」
+      <a href=https://news.yahoo.co.jp/articles/a6dc2bcdc62848cb4fbb2554ae6e47930c8f88b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-01872387-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 農水相後任に小泉氏「コメ担当大臣という思い」　江藤氏は事実上の更迭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/480889bd352d73e849663a7ea4e3c69649e41118>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975160-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「私のためというより大阪地検のため」元検事正から“口止め”…被害訴える女性が書面を公開
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bd3636309b63eb377b1eb79dc01239a56570832>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000047-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=1200&ch=1200&exp=10800&fmt=webp> 大阪万博「大量の虫」に殺虫スプレーで対抗の場当たり感…壁に張りつきあちこち死骸で予期される「さらなる客足減」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c8e93a95d2d944e1d901dc0aa3b8ea3bcf50232>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00799671-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「この件はフジテレビと同じ構図」　性的暴行被害訴える女性検事が涙…元検事正の“口止め”直筆書面を公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9be943c1d1df4f981ff890b096a9e0eff54d97a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-07237966-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 川崎市の20歳女性遺棄事件　「神奈川県警が動いてくれない」女性の親族が警視庁にも相談　神奈川県警・川崎臨港署は「適正にやっている」と回答
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b4fafc8bce03d3cd6f7c366f7f564b80778d5deb7aedea6c776142de1215fe38.jpg> メキシコ市長の側近2人銃撃 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/dabcb48277d03a15cd030c3348785466123ae4119c42a5060019b222c201a3a4.jpg> 産後うつから殺人事件も 母の孤立
       </a>
     </td>
   </tr>
@@ -418,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/224ee4ad7c6a18ac451c6f4a1485b9ab3e0aadf19fd15ee4e200b69cd7a8c39b.jpg> パナ シェーバー巡るリコール発表
+      <a href=https://news.yahoo.co.jp/pickup/6539537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/9aa80efa827a0c9a1e6f2e9ad8282f0355da0a7be6ccee4b5acd773b0f195c37.jpg> 性暴行口止め 元検事正からの文書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/783263e3a2970e534c2cd56891c53f51b70650198bcbbcabf7b3a2b876785fb1.jpg> 富士山ヘリ救助 山梨が有料化検討
+      <a href=https://news.yahoo.co.jp/pickup/6539541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/b2c27a8da545d3625ac650def563ecaa397124c594a91364ffd419acf76f806c.jpg> 国内最高齢の女性 2人相次ぎ死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8da30263074f38f6e75525cfcacc15d16ba039e0c539d438180cb0ec590055bc.jpg> 国内最高齢になった翌日 女性死去
+      <a href=https://news.yahoo.co.jp/pickup/6539540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/e8ad7b5487586e2a742d324ce1e14bb57b166025b31e9eba7e81e483e58b4179.jpg> 高級中華料理「聘珍樓」が破産
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 18:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 18:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
