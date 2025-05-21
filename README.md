@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f007f67b86be9909bc7d37b1721c94da.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be577eb5a817998b31a595f2beae9527.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d635481321c5c7ee04c96d330d3943503b45f1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-06128137-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【急転】コメ巡る発言で波紋…江藤農水相 釈明からの辞任劇舞台裏は？後任・小泉氏起用と政局含め専門家が解説
+      <a href=https://news.yahoo.co.jp/articles/20b925803385045cf848796c49a3fbadc19e1e2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00010004-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 農水大臣に小泉進次郎氏起用で自民党農政は真っ二つ！？　改革の石破総理VS農水族の”ドン”森山幹事長の構図に　コメの価格高騰はどうなる　専門家解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f162c112fc3ec3f5b7e3927b3a0caaafb85eb6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-15910528-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ゼレンスキー氏、ロシアが停戦交渉を遅らせるため「時間稼ぎ」と非難
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ba998cd946ae99ed48fc7afca17dc273fa9432af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000109-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博会場に群がる羽虫　ユスリカか　人に害は与えずとも来場者が不快感　協会が対策進める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000109-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博会場に群がる羽虫　ユスリカか　人に害は与えずとも来場者が不快感　協会が対策進める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/893d178721884a72f6f9f02fc5f0f827706bb9a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00975080-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「おととい辞めさせていれば100倍よかった」自民党内から批判も…江藤氏「続投」から一転「更迭」に　小泉氏起用の背景に“改革色”
+      <a href=https://news.yahoo.co.jp/articles/ecc3032b43f3880852705bc82140c6c8c0b08e8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000256-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=941&ch=941&exp=10800&fmt=webp> 大谷翔平　吠える由伸と赤ちゃんライオン重ねる　インスタでイジり投稿　ファン「仲良しすぎて癒やされる」
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8c89d0f9a2cd9db5cb6a285c74bb89c7c0ddc84b14dd50c6bca639343203184e.jpg> メルカリ 不正利用者を徹底排除へ
+      <a href=https://news.yahoo.co.jp/pickup/6539529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8da30263074f38f6e75525cfcacc15d16ba039e0c539d438180cb0ec590055bc.jpg> 国内最高齢になった翌日 女性死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/8da30263074f38f6e75525cfcacc15d16ba039e0c539d438180cb0ec590055bc.jpg> 国内最高齢になった翌日 女性死去
+      <a href=https://news.yahoo.co.jp/pickup/6539532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/21/226fab69bfb48c4bdf29400a3718142e21cc9e581ebc4ca5293441afc4171c0f.jpg> NHK 永野芽郁の大河降板を説明
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 17:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/21 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
