@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a7fcdd5a7e127f4b1904b2dd18dfb69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f03625d0b3eca4af62e39dd62bc76fa4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ea41f1abee1767fd432b9ff87ec5e1ead15052f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230084-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委の中居正広氏の性暴力認定「適切でも手続的正義に反する場合もあり…」紀藤正樹氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230084-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委の中居正広氏の性暴力認定「適切でも手続的正義に反する場合もあり…」紀藤正樹氏
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1bc2d804e741d48d2f722920cb2b4180ffbbf6df7985946c40fa8c528b958e50.jpg> 北海道で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6539702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bdbf20b74e21e258c0477851946fa067437664d147886d0cc309af96737a9a05.jpg> 赤沢氏 30日軸に米財務長官と協議
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f76805b2025741523116c3d7174e168f19577def59ccf7184c16127aaad62258.jpg> シャトレーゼを書類送検 労基署
+      <a href=https://news.yahoo.co.jp/pickup/6539700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/da3d0d2f8cd533ef9a707c1c7a3a7ea4cf5c90961a3159e0c4c48cd284d726c1.jpg> 競輪・平原康多が電撃引退へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
+      <a href=https://news.yahoo.co.jp/pickup/6539701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ae39b423fa500b574e96c90b3038cf2866ac16672caf2c7a8cf2cce224324740.jpg> かつて「鬼嫁キャラ」カイヤの今
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 07:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 08:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
