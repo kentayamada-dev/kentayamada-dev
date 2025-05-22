@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee60587099ab72dc48f8e51950d01916.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aef832c0b238c2e527df6f5062c95464.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5071e59ceb218217c3c9892e26e4ac7845eb1848>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高3のアマ中嶋がホールインワン　「携帯電話を買い替えたい」
+      <a href=https://news.yahoo.co.jp/articles/83f510ae5014ff0cff2ebf8b1262896e6e682830>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジ第三者委「性暴力の認定は適切」　中居氏側に回答　証拠は非開示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d4d58fb9b7ab0850294fb9075852d29d44d7ab6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21931318-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ギモン解決!】「5キロ3000円台」実現はいつ?小泉進次郎 農水大臣が備蓄米放出ルール変更へ 競争入札から随意契約へ
+      <a href=https://news.yahoo.co.jp/articles/df354917be8c76cada2748efd3834e4e072e8115>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000014-gdo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマとしてツアー史上初の2回目ホールインワン　17歳の中嶋月葉「新しいiPhoneを買いたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad14ee7ae8c72a511c62c439a4039f7ec4f39681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000088-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 中居氏“反論”に第三者委が回答「公平性欠ける部分ない」
+      <a href=https://news.yahoo.co.jp/articles/18a41dc2ecc67c811db083b46237275524df1ee7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90019588-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【悲鳴】万博に大量発生した「虫」防虫スプレーは効果期待できず　アース製薬に「緊急」援助要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f10217c159dd24d4703e6c4755f9ed9c628da42e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07445694-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 無料のものが2500円「色々試しても取れなくて…辛い」人気のイタリア館やくら寿司で予約の転売横行　万博会場では「ユスリカ」大量発生も
+      <a href=https://news.yahoo.co.jp/articles/4b90d88a8af36e56c4e3bc303f29bde499185710>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050213-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア・ウクライナ実務者協議、バチカン開催が浮上…レオ１４世が紛争の平和的解決を訴え
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/309085134794d11661276dd96d1521df378693b07c9c9bb98cc1f192c9457761.jpg> 内閣支持20.9%で最低更新 時事
+      <a href=https://news.yahoo.co.jp/pickup/6539668>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 露ウ 来週バチカンで実務者協議か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/18610e9ee390cb105693181dea98b2fbb659a66223cbee1a148da8f7d1c2b2e6.jpg> ガソリン補助開始 価格下がるのか
+      <a href=https://news.yahoo.co.jp/pickup/6539650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/89db0a0b8b29f1a3388ef4e666fc4f9e45381bcd582b945f960364becb736b96.jpg> 不登校は欠点ではない 高3の挑戦
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a9711897cac0cf9819d32afc70b2bd5c4a858edab0ecf8034a02c24f18841c0c.jpg> 万博の虫 アース製薬が現地調査へ
+      <a href=https://news.yahoo.co.jp/pickup/6539667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f7c767220068d1ad8fc1d11bba2497472459109f53a92218dbb66fd3dec42176.jpg> カルピス500ml値上げへ 200円台
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f42fb08cca97bc8e44b85fc1f1bd0e3905352a4396331df2f710edc6d92d23db.jpg> NEWS増田貴久 活動再開を発表
+      <a href=https://news.yahoo.co.jp/pickup/6539666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ed7ba043ed78aeb3f01360a0d9ec83bd7665183c18a0da26621bca6f0891d9de.jpg> MUSIC AWARDS JAPANのX反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 19:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 20:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
