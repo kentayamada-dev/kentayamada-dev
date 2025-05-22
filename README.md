@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a81c59ace003c1d899a337a09a7dbb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0bc3f470ad70e9cc67fee3799d3ec941.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/402863e26f9bad74d55e3601c816572eeec37e3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000132-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【MUSIC AWARDS JAPAN】Mrs. GREEN APPLEが最優秀アーティスト賞に輝く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae9de714e276c15dbdbba0751f97d048b4125818>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農相　コメ高騰に「スピード重視で」随意契約　横浜市内のスーパーは
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/831a9b7e55b9c1e49f42b73fbfb88de33c6b30bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000234-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=506&cy=0&cw=1520&ch=1520&exp=10800&fmt=webp> 練習機の搭乗隊員2人、死亡確認　愛知・犬山の空自機墜落事故で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33d42587cd64d3fc1c2be2bd76a8e4014f53bcd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07494396-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 都議選まで1か月　焦点は？【#きっかけ解説】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07494396-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 都議選まで1か月　焦点は？【#きっかけ解説】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f7847fecccafbf31789c1d5dae909d7303b38d3b9dd5e2c645e274b4b235d7bb.jpg> 電気ガス補助 月千円負担減で調整
+      <a href=https://news.yahoo.co.jp/pickup/6539679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 裏金 下村氏を27日にも予算委招致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c6e91581d0e76c970a125c264fae0ee1b152326b7dda2fbe5ce133dcf2bf60db.jpg> 農相引き継ぎ 冒頭取材急きょNG
+      <a href=https://news.yahoo.co.jp/pickup/6539682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/70663ffc086fb7f8e5b514c5ff3e523e2fc4f7da4cdc25aa2237b62ac75cda56.jpg> USS買収 トランプ氏の最終判断へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f7c767220068d1ad8fc1d11bba2497472459109f53a92218dbb66fd3dec42176.jpg> カルピス500ml値上げへ 200円台
+      <a href=https://news.yahoo.co.jp/pickup/6539683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/186931a73d4990c7646da2073a0fdd7b2d8b1d1b04a9bf091d273e563b584659.jpg> 生地薄くなった?UNIQLOに聞いた
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/2b16b4e644f04ce7ac37dd03b6cf749c4b8e48b90d9485ba995414d336287d17.jpg> 大沢あかね 美容ハマってよかった
+      <a href=https://news.yahoo.co.jp/pickup/6539686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cc2a062f4d4acb2800488df804dd5200f61ed7cb0d0127fc604638e9addbe244.jpg> ミセス MAJ最優秀アーティスト賞
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 22:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 23:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
