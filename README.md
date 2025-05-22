@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e4937effab77ee831d7670636f6b39e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7dafb413703b6297e20524f2f810dd2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac4c78bea27614d884211ddb6d359fea81855f65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90028923-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=438&ch=438&exp=10800&fmt=webp> 【続報】広島空港 全日空機が工事区間に誤進入 機体一部を損傷　乗員・乗客にけがなし
+      <a href=https://news.yahoo.co.jp/articles/9aee3d3ff3b65a8c1106ca42f3c7dbbd957cc759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21931711-rccv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】新千歳発広島行ANA1272便　コンクリート製の台座乗り越え停止か　着陸した後工事区間に誤進入とみられる　広島空港
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 01:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 01:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
