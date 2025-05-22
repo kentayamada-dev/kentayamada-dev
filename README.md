@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7787bbb3c8317580eb402baded0d59e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07bc64ab3c2bd48cbdb651702775ec63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa3371ab133c2c5aa32494e4a8d4982660242ecc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238347-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 広島空港でANA機が“走行禁止エリア”に誤進入　機体を一部損傷し走行不能に　けが人なし
+      <a href=https://news.yahoo.co.jp/articles/a0fa77e9f02f5b1525a0dcfc465a10b9a06bc104>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35221241-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委員会、性暴力認定は「適切」中居氏の代理人弁護士へ回答　WHOの定義使用を主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a9f45d6fb537e58b87b3132e8ae9cf6522cddd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050055-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ山手線が始発から運転見合わせ…京浜東北線の一部区間も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35b08afa18f6870821942e73d09f81d6b2e82d43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21931730-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【動画有】全日空機　広島空港で工事場所に誤進入　コンクリート製の台座乗り越え停止　けが人はなし
       </a>
     </td>
   </tr>
@@ -380,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539682>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/70663ffc086fb7f8e5b514c5ff3e523e2fc4f7da4cdc25aa2237b62ac75cda56.jpg> USS買収 トランプ氏の最終判断へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/573efcdbf3223c7ed06cd19bef74a9f8e286c7e3fa359155410046e2f79ff0a0.jpg> 山手線外回り 始発から見合わせ
       </a>
     </td>
   </tr>
@@ -418,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/524a3cfd5707dd3790198aea3b21646d530ea420838934110adea405604f86d5.jpg> 米国 ゴールドカードビザ開始へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 05:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 05:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
