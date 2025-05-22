@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b540c91114d3828cd172f5ea0e9749a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f14e989a2703fec24ed7b966c35b3bae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad33388f951fefeea26b652233236b10c25ee94e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00051361-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ヘルメット未着用の男子中学生　転倒して意識不明の重体　兵庫・西宮市
+      <a href=https://news.yahoo.co.jp/articles/1361971b13cc89a73dd9cd0aa7462c34cb523dad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976057-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 維新・前原氏「首を取れる時に取りに行かなければ」　内閣不信任に慎重な立憲に「本質は戦。手を緩めた方が負け」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae9de714e276c15dbdbba0751f97d048b4125818>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農相　コメ高騰に「スピード重視で」随意契約　横浜市内のスーパーは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33d42587cd64d3fc1c2be2bd76a8e4014f53bcd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07494396-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 都議選まで1か月　焦点は？【#きっかけ解説】
+      <a href=https://news.yahoo.co.jp/articles/4efb1f408489edd718be32e4194ae47571dc1c97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07396442-htv-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】「急ブレーキで止まって衝撃があった」　全日空機が誤って工事中の滑走路に入り走行不能に　広島空港
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/fedf1c3c7fc8cd869da3b6e638df95dfe508fbe14b4af00dbbf98a94fa020ace.jpg> JPドラゴンの日本人7人 比で拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/663c52c91f781696ebdc5e7f3aadedd8e11b184f31264450f8c5d45e118203d6.jpg> 自転車の中2転倒 意識不明の重体
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3e3c6a517c17b988512ae87c0a3aaac17b2b37551eb3fd2e261807a75d229bad.jpg> 山手線外回り 22日の運転取りやめ
+      <a href=https://news.yahoo.co.jp/pickup/6539655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f76805b2025741523116c3d7174e168f19577def59ccf7184c16127aaad62258.jpg> シャトレーゼを書類送検 労基署
       </a>
     </td>
   </tr>
@@ -450,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/2fde6da204f874dcc18c7fb4b50c62545b37e5d56889c0a5299ea112202e5309.jpg> 停電で試合中止 B2ダブル優勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 23:52:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 00:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
