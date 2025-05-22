@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f03625d0b3eca4af62e39dd62bc76fa4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15770e3b0b05c95905b4090d773a97d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/002ab51ccfe38d9297650a5f33921e1e85b6d15e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> モドリッチがレアル退団　スペイン・サッカー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97bfdfcd34e3df54be47f4ef57e1f5cc73906eca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000119-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表「そもそも『コメは余っている』のではなく、『コメは不足』しているとの認識が必要だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ea41f1abee1767fd432b9ff87ec5e1ead15052f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230084-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委の中居正広氏の性暴力認定「適切でも手続的正義に反する場合もあり…」紀藤正樹氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c71b323b3e8036d218d7a9543b362af3883f7ac0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000017-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政権浮沈カギ握る小泉氏　米価下げへ「スピード感」　農協と対立再燃も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f2380f8db7330ddcb866dff20f6f259e8a089f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-05221289-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 村上義弘氏がねぎらいの言葉…関東を背負う後輩たちの大きな成長も功績
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/725b381995000b3d109208a98e6c12601ad97f4878734aa5221ee00f3eb7ef88.jpg> 受刑者の出産支援 初の子ども誕生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7b3eb46d97f3c0cc69830632d0840f7c642a7f0c40ee90db5698bfb2b42c929a.jpg> 山手線外回り 9時頃に再開見込み
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/046f7d1a62cb24b2be5eeca31b3e6dce16eeeb3b513cff0bbb50db180631342f.jpg> 山手線外回り 9時頃に再開見込み
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/663c52c91f781696ebdc5e7f3aadedd8e11b184f31264450f8c5d45e118203d6.jpg> 自転車の中2転倒 意識不明の重体
+      <a href=https://news.yahoo.co.jp/pickup/6539707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f6198ba8d66330006b6b9b87ca053b4b97d0ce56d58257742329ac0bcdefe7f5.jpg> トラックなど5台絡む事故 1人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bd7c9160a1f8ceafcbff0b61c5c1ba60f87145ee7f50e6d1326ed2551df0a23e.jpg> 万博パーク&ライド 割引の方針
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/da3d0d2f8cd533ef9a707c1c7a3a7ea4cf5c90961a3159e0c4c48cd284d726c1.jpg> 競輪・平原康多が電撃引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6539706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ed9b2c7e49f9e7a7ec1a31ba2d6184773d58faa4f4441a6d1930370cda952e6e.jpg> モドリッチ Rマドリード退団へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 08:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 08:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
