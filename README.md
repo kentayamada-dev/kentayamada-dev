@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07bc64ab3c2bd48cbdb651702775ec63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aca3307a202fd3cd98f6d3e6fb1861f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0fa77e9f02f5b1525a0dcfc465a10b9a06bc104>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35221241-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委員会、性暴力認定は「適切」中居氏の代理人弁護士へ回答　WHOの定義使用を主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35221241-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委員会、性暴力認定は「適切」中居氏の代理人弁護士へ回答　WHOの定義使用を主張
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 05:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 06:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
