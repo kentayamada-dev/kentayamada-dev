@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c933b3e9dde05b2f0c6ee2bab774de23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3732c013125cc698d24d9dcf020d51e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5bb7ac6dbadd8b313ebe1aad7bb5b19c71f9837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-01758472-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍指揮官、大谷翔平のライブBPについて「見守ろう」　土曜日に予定「進展があるかも」
+      <a href=https://news.yahoo.co.jp/articles/02db7ef05e2ba4bf8a06087523b4febaff128749>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-05221031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平がブルペンでもスライダー解禁、ロバーツ監督「少し前進するかも…」　近日中に打者と対戦の可能性も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47414ed18aefb4fe36c49eb1115c31d852988403>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00257087-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 小泉進次郎氏は都会育ちが評価された？　石破首相が「コメ買ったことない」江藤農水大臣“更迭”を決めた舞台裏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61a9e77af02df8e703f66318dd0fa1ada0302772>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000275-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ガザで乏しい物資搬入…住民の苦境続く　イスラエルのネタニヤフ首相は戦闘継続の意向
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6de665aa67bc8940e60b3eb5745f5eb46dfd1881>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000022-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米・南ア首脳、「白人迫害」巡り応酬　トランプ氏、持論展開で映像公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61d5ff0afeb7e2012f97da6d2d8c8044ea1f16ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍の外交団への警告射撃を欧州各国が非難　仏、伊は大使呼び出しへ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000022-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米・南ア首脳、「白人迫害」巡り応酬　トランプ氏、持論展開で映像公開
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6e171e0b2f1e4f8cb2eb231d83277e6b1a5f243>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975462-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 走行列車に農業用ハウスが衝突…乗客の56歳男性死亡、2人けが　急ブレーキ間に合わず　風で飛ばされたか…付近に屋根とみられるものなど散乱　長野・須坂市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99543a8637d3086f5059e679ec067e02d50ad8eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-00000233-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 「コメ価格高騰の遠因作った」国民民主・玉木代表が江藤農水相の後任、小泉氏手腕に懐疑的
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539581>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c50fad3e99a30abcc6402e600a9a13d74e03667df94ad37363f63a67f58c5824.jpg> 小泉農相に与党 局面打開の期待感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/63a4ad295530181de3c388d4e7d7652168c3f4e8d92ff63bfc3cd64c6f81d9dc.jpg> 米・南ア首脳「白人迫害」で応酬
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cde71e0c60e9302b0de9470f6f9a116bd92c8fb25f818edd4088c1cd9107ce97.jpg> ジャーナリスト 田畑光永さん死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539584>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/067842a59f68e7a84418afc00641196bf1730fb5d5dffe8d86a7607036a0d9b7.jpg> 巨大な「モンスター銀河」を発見
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 08:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 09:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
