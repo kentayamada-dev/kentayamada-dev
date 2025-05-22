@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac196509f63072671b3a927afd1dfbee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a7fcdd5a7e127f4b1904b2dd18dfb69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f9c5037328e36163e4c8e8114e1e1899d7d5e19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 北海道で震度4　M5.6、津波心配なし
+      <a href=https://news.yahoo.co.jp/articles/3ea41f1abee1767fd432b9ff87ec5e1ead15052f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230084-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委の中居正広氏の性暴力認定「適切でも手続的正義に反する場合もあり…」紀藤正樹氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c71b323b3e8036d218d7a9543b362af3883f7ac0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000017-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政権浮沈カギ握る小泉氏　米価下げへ「スピード感」　農協と対立再燃も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f2380f8db7330ddcb866dff20f6f259e8a089f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-05221289-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 村上義弘氏がねぎらいの言葉…関東を背負う後輩たちの大きな成長も功績
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fccbc6c7b2da648e317bd471831df9b904c41934>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976087-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事区間に誤進入　乗客・乗員1時間半降りられず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0fa77e9f02f5b1525a0dcfc465a10b9a06bc104>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35221241-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委員会、性暴力認定は「適切」中居氏の代理人弁護士へ回答　WHOの定義使用を主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976087-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事区間に誤進入　機体の一部損傷し乗客乗員1時間半降りられず「急ブレーキがかかり止まった」広島空港
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/573efcdbf3223c7ed06cd19bef74a9f8e286c7e3fa359155410046e2f79ff0a0.jpg> 山手線外回り 始発から見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6539699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7b3eb46d97f3c0cc69830632d0840f7c642a7f0c40ee90db5698bfb2b42c929a.jpg> 山手線外回り 9時頃に再開見込み
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 07:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 07:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
