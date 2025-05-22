@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43f552d49cef9bb503092e4bc0ff43a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b540c91114d3828cd172f5ea0e9749a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62bda1c76eaa24eeeac24da569b635f4c95a073c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000101-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 小泉農水大臣、備蓄米 随意契約の制度設計「22日中に財務省と調整」
+      <a href=https://news.yahoo.co.jp/articles/ad33388f951fefeea26b652233236b10c25ee94e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00051361-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ヘルメット未着用の男子中学生　転倒して意識不明の重体　兵庫・西宮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad33388f951fefeea26b652233236b10c25ee94e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00051361-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ヘルメット未着用の男子中学生　転倒して意識不明の重体　兵庫・西宮市
+      <a href=https://news.yahoo.co.jp/articles/ae9de714e276c15dbdbba0751f97d048b4125818>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農相　コメ高騰に「スピード重視で」随意契約　横浜市内のスーパーは
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3ccc93e92d6d3638cb4b5a3e137e0ee2cab55fe88342d8fffca565d2ff59ef27.jpg> 広島空港でANA機が立ち往生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0a5ec7311cfcf14e62edbe7f72469149721c20b3c84e0a04c4d85066f1e8b86d.jpg> 山手線外回り 22日の運転取りやめ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3e3c6a517c17b988512ae87c0a3aaac17b2b37551eb3fd2e261807a75d229bad.jpg> 山手線外回り 22日の運転取りやめ
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
+      <a href=https://news.yahoo.co.jp/pickup/6539678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/524a3cfd5707dd3790198aea3b21646d530ea420838934110adea405604f86d5.jpg> 米国 ゴールドカードビザ開始へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/1bc1697df21631181381fc508afbfc61bd045f6974f247e1fb5edfd8d595a787.jpg> 唐沢寿明 結婚生活の不満「ない」
+      <a href=https://news.yahoo.co.jp/pickup/6539674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/2fde6da204f874dcc18c7fb4b50c62545b37e5d56889c0a5299ea112202e5309.jpg> 停電で試合中止 B2ダブル優勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 23:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 23:52:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
