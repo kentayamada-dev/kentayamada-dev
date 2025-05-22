@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7430394ee1b5dd921e797ce7165c9b78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d85a9f3361e41cbdf37f43cb6b592f3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4801f633f669a75e24b579d4fc2e0adacf4a2e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050193-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 吉本のお笑い芸人６人を略式起訴、海外オンラインカジノの賭博罪…東京地検
+      <a href=https://news.yahoo.co.jp/articles/bb759df278ae63c71c91b3f31ee62df745904d42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238243-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 天候悪く“一時運転見合わせ後に”事故発生　長野電鉄の列車と小屋が衝突で3人死傷事故 長野・須坂市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa742964d35f8e23f9da60877da85746e1576240>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90040492-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「コメは買ったことがない」前大臣から“コメ担当大臣”へ 小泉新農水相に農家から期待の声「圧力に負けず突っ走って」
+      <a href=https://news.yahoo.co.jp/articles/1e76f7f1abf20674772df6459ba7d598e664ebdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000119-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【フジ】第三者委　中居氏の生証言と説明　被害女性Ａアナに複数外食と誘い「実際には誰にも声をかけず」「お店に電話をかけるなどしなかった」→中居氏しか知りえない重要証言と
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f7b558ac6f67e086e7fcb623ec80652f26a4a27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975773-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 強風で“鉄パイプ製の小屋”が飛ばされ列車に衝突…トタン屋根・シートで覆われた簡易の小屋　先頭車両の56歳男性客死亡　長野・須坂市
+      <a href=https://news.yahoo.co.jp/articles/e84ad8b782cb0a701bfb18fbb0c383b552e25a76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238252-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「スピード感と強度で結果を出す」小泉進次郎新農水大臣が“コメ問題”で職員に訓示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/305d40c0cca34a0df66a5eee1024cb72e46f02a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-08366972-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「性暴力の認定は適切」フジテレビ第三者委員会が中居正広さん側の“反論”に対し回答
+      <a href=https://news.yahoo.co.jp/articles/ec136d58cfefccf387c04c0b6b584462e5f9b496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90022709-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がブルペンでスライダー解禁　二刀流復活へ前進
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c668eacff9b7f1e481724bac51d287325bc0796>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-03414246-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 【危機一髪】大谷翔平もビックリ！自身の鋭い打球が警備員を襲う　パイプ椅子を片手に飛びのいた警備員も苦笑い
+      <a href=https://news.yahoo.co.jp/articles/43baa7c1332cff50e7b6bf1782531e02e9245c04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975777-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=530&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉進次郎農水大臣就任で米価格下がるか“安倍番記者”岩田明子氏「政治生命に関わる正念場」ポスト石破になれるか
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3224a7ac9cf109fe3dfcf501457a4169eb8c6553b6fe7d8309b4aa1949881faa.jpg> 外免切替 観光滞在は認めずで検討
+      <a href=https://news.yahoo.co.jp/pickup/6539639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/309085134794d11661276dd96d1521df378693b07c9c9bb98cc1f192c9457761.jpg> 内閣支持20.9%で最低更新 時事
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/76492ab081f443cf091d61407c5b18d25a2704d390ccbbf8e0850bab95a3c18f.jpg> e-Taxで還付金詐取疑い 10人逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539651>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/d1900f9c4ccfd8e55e168b50a95a9017f22820517db89d37fa2eb72110de659e.jpg> 吉本所属6人を略式起訴 賭博の罪
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/32c0e6cc2eab124a948503aa49a2d3bf3685449d62056bc717587539941ddb55.jpg> 速度超過50キロ疑い 巡査書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6539655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f76805b2025741523116c3d7174e168f19577def59ccf7184c16127aaad62258.jpg> シャトレーゼを書類送検 労基署
       </a>
     </td>
   </tr>
@@ -443,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539654>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 農林中金 運用失敗で赤字過去最大
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/1977d72d5f2e587cd7ec91c4678e37985a30ccf070028b0aff9398ca22115e78.jpg> 農林中金 運用失敗で赤字過去最大
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539635>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b7c9dadec8229a416259c26c31876aad0f69ac0d67f264788be8deb76015963e.jpg> 破産の聘珍樓 予約客1000組に影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f1732fc4c27d8b8e290bdfe3d4a0c5e6003dbb30232a364e5f03c6f3421e45e2.jpg> 中学で新教科を創設へ AIなど学習
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 18:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 18:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
