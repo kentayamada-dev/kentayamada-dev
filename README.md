@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0bc3f470ad70e9cc67fee3799d3ec941.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43f552d49cef9bb503092e4bc0ff43a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/402863e26f9bad74d55e3601c816572eeec37e3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000132-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【MUSIC AWARDS JAPAN】Mrs. GREEN APPLEが最優秀アーティスト賞に輝く
+      <a href=https://news.yahoo.co.jp/articles/62bda1c76eaa24eeeac24da569b635f4c95a073c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000101-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 小泉農水大臣、備蓄米 随意契約の制度設計「22日中に財務省と調整」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae9de714e276c15dbdbba0751f97d048b4125818>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農相　コメ高騰に「スピード重視で」随意契約　横浜市内のスーパーは
+      <a href=https://news.yahoo.co.jp/articles/ad33388f951fefeea26b652233236b10c25ee94e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00051361-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ヘルメット未着用の男子中学生　転倒して意識不明の重体　兵庫・西宮市
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/d7511c62869905b9e1c38f43d8cc7e975f0d562c56afd62881a345bc4d1b3461.jpg> 自衛隊機墜落 隊員2人の死亡確認
+      <a href=https://news.yahoo.co.jp/pickup/6539689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/663c52c91f781696ebdc5e7f3aadedd8e11b184f31264450f8c5d45e118203d6.jpg> 自転車の中2転倒 意識不明の重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/741a9e4ccd2db5b778ebb69054804cabed9fc7d01db92fd749756ac6cbf0b8c6.jpg> 広島空港でANA機急停止 誤侵入か
+      <a href=https://news.yahoo.co.jp/pickup/6539691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3ccc93e92d6d3638cb4b5a3e137e0ee2cab55fe88342d8fffca565d2ff59ef27.jpg> 広島空港でANA機が立ち往生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0a5ec7311cfcf14e62edbe7f72469149721c20b3c84e0a04c4d85066f1e8b86d.jpg> 山手線外回り 22日の運転取りやめ
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c3673b2197296b3cf886e7f39628da14402bdd53dfd7a3392ae67ae613a3c20b.jpg> MLB球場の客転落巡り 21歳を訴追
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/cc2a062f4d4acb2800488df804dd5200f61ed7cb0d0127fc604638e9addbe244.jpg> ミセス MAJ最優秀アーティスト賞
+      <a href=https://news.yahoo.co.jp/pickup/6539684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/1bc1697df21631181381fc508afbfc61bd045f6974f247e1fb5edfd8d595a787.jpg> 唐沢寿明 結婚生活の不満「ない」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 23:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 23:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
