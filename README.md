@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b977f497c76d429a9011a3ed400b2163.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3826947acabb0f0a11d8001f95737e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d52ffc63b6812169b2500273cffc5502369f3f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975901-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 吉本芸人6人略式起訴　オンラインカジノで賭博した疑い「違法性はグレーと思っていた」「ハマった時はほぼ毎日」全員容疑認める
+      <a href=https://news.yahoo.co.jp/articles/cb7948ee458845e8d896c8f9664443d37b634046>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35221314-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=1130&ch=1130&exp=10800&fmt=webp> 中居氏側の今後の対応は…これで幕引きとすることも、訴訟を起こすことも／若狭勝弁護士が解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83f510ae5014ff0cff2ebf8b1262896e6e682830>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジ第三者委「性暴力の認定は適切」　中居氏側に回答　証拠は非開示
+      <a href=https://news.yahoo.co.jp/articles/a22ffa678823e658ba9946d18d73942294f2ba9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「お詫び申し上げます」所属芸人6人略式起訴で吉本興業がコメント　順次芸能活動再開も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18a41dc2ecc67c811db083b46237275524df1ee7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90019588-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【悲鳴】万博に大量発生した「虫」防虫スプレーは効果期待できず　アース製薬に「緊急」援助要請
+      <a href=https://news.yahoo.co.jp/articles/060dbf5d78f6190bd41f0a49286c399d298952f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050220-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=376&ch=376&exp=10800&fmt=webp> コメ高騰で小泉農相「価格破壊起こさないと世の中の空気変わらない」「備蓄米、需要あれば無制限に出す」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86f467fe92282766addfdaf6bf8258871cd273fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00976022-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「気持ち悪い!しつこい!」万博に大量発生した「ユスリカ」に逃げ回る来場者　防虫スプレーは効果期待できず　アース製薬に「緊急」援助要請
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec136d58cfefccf387c04c0b6b584462e5f9b496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90022709-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がブルペンでスライダー解禁　二刀流復活へ前進
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539668>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 露ウ 来週バチカンで実務者協議か
+      <a href=https://news.yahoo.co.jp/pickup/6539672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f7847fecccafbf31789c1d5dae909d7303b38d3b9dd5e2c645e274b4b235d7bb.jpg> 電気ガス補助 月千円負担減で調整
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9685f5ce065df3d669779310ae39fda13f7e11ae53bd3440096768cdb96ea9e5.jpg> 吉本興業 芸人6人の略式起訴謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6539673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9685f5ce065df3d669779310ae39fda13f7e11ae53bd3440096768cdb96ea9e5.jpg> 吉本興業 6人の略式起訴受け謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 20:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 21:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
