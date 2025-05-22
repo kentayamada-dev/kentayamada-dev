@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb9c131c4a2c708942b08974e299bfe0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7430394ee1b5dd921e797ce7165c9b78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2843b6abb634552290d8ea32348caafc8595450c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90019118-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 20代女性巡査が時速100キロ超！パトカー追跡、停止呼びかけも逃走…「早く帰って寝たかった」【長崎】
+      <a href=https://news.yahoo.co.jp/articles/4801f633f669a75e24b579d4fc2e0adacf4a2e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050193-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 吉本のお笑い芸人６人を略式起訴、海外オンラインカジノの賭博罪…東京地検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66c6cb0769b5383baa29a7b5c1909f06ed9484ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000287-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　中居正広氏問題「公平性の観点からコメント控えたい」　中居氏関係者に「意見したことが」と説明
+      <a href=https://news.yahoo.co.jp/articles/aa742964d35f8e23f9da60877da85746e1576240>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90040492-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「コメは買ったことがない」前大臣から“コメ担当大臣”へ 小泉新農水相に農家から期待の声「圧力に負けず突っ走って」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e42d49bb10c5a960716f21e407a118d00ebdbd30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000156-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=624&ch=624&exp=10800&fmt=webp> 首相、コメ抑制・年金改革に注力　終盤国会、参院選へ政権浮揚課題
+      <a href=https://news.yahoo.co.jp/articles/5f7b558ac6f67e086e7fcb623ec80652f26a4a27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975773-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 強風で“鉄パイプ製の小屋”が飛ばされ列車に衝突…トタン屋根・シートで覆われた簡易の小屋　先頭車両の56歳男性客死亡　長野・須坂市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a21b7706580f8e08974d9834f4c36d271acc59e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000151-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 列車は農機保管小屋と衝突か　長野電鉄3人死傷事故
+      <a href=https://news.yahoo.co.jp/articles/305d40c0cca34a0df66a5eee1024cb72e46f02a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-08366972-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「性暴力の認定は適切」フジテレビ第三者委員会が中居正広さん側の“反論”に対し回答
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/49a604168cbd9be36f89713f5ad438b5f1e9ff4568d6b08b57c14cfc0d8edb4d.jpg> 江藤氏釈明は「失敗」? 記者分析
+      <a href=https://news.yahoo.co.jp/pickup/6539644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/18610e9ee390cb105693181dea98b2fbb659a66223cbee1a148da8f7d1c2b2e6.jpg> ガソリン補助開始 価格下がるのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7ee36379b07185b320e3b5f6b6f197826c548af28440042c5fc03b435792b860.jpg> 列車に衝突 小屋1カ月前に建設
+      <a href=https://news.yahoo.co.jp/pickup/6539647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/76492ab081f443cf091d61407c5b18d25a2704d390ccbbf8e0850bab95a3c18f.jpg> e-Taxで還付金詐取疑い 10人逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/d1900f9c4ccfd8e55e168b50a95a9017f22820517db89d37fa2eb72110de659e.jpg> 吉本所属6人を略式起訴 賭博の罪
       </a>
     </td>
   </tr>
@@ -434,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539654>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 農林中金 運用失敗で赤字過去最大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539635>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b7c9dadec8229a416259c26c31876aad0f69ac0d67f264788be8deb76015963e.jpg> 破産の聘珍樓 予約客1000組に影響
       </a>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a2bf9ead046e5ac178a1e119ef2b57b93e396a899cf14ba6aac37e9a6579c6bc.jpg> 石田三成ゆかりのマツ 折れて放置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0f416034086927777b45f60acc1419ffc77a654f4b2689b10ae9c61b44620d54.jpg> 阪神が10人入れ替え 桐敷ら抹消
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/56b91eda1ca92a0eaf228b8da7aca5dde09c97bb99e01447c4d1802a54514333.jpg> 大河代役は白石聖 NHKが正式発表
+      <a href=https://news.yahoo.co.jp/pickup/6539653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/799127c7d30b8a5b398e28aac1d1990bd4c70f3cd4f67905026b76b4fceaaa10.jpg> 米米CLUB石井 始球式また土下座
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 18:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
