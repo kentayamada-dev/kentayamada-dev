@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6aab4c77fd81166fab575953229ee73a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e57a6f6925ecc68320e51b7bd304dcd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ec88d4d40f1023f44b899ca597402a0496fcfb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本駆け込み寺」を家宅捜索　事務局長コカイン所持疑い
+      <a href=https://news.yahoo.co.jp/articles/02f3c4e9c9826ba0ea47d33acff94b940cfbea1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 金総書記が叱責「犯罪的行為だ」　駆逐艦進水式で“重大事故”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39a7239cefd956719963f5109969a27ca78012b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010000-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車窓ガラスが割れ乗客死亡　強風でパイプで組んだ小屋が飛ばされたか　運輸安全委員会の事故調査官が現地入り【長野・須坂市】
+      <a href=https://news.yahoo.co.jp/articles/894907d5ddaa430caa296ae59ec01988883a3e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010003-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=604&ch=604&exp=10800&fmt=webp> 【農相更迭の舞台裏】コメ失言「辞めるような話ではない」一転…多数野党が見せつけた“権力”に首相絶句
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0388d5d2a278ee430116c859d7cb9b95c5fd04b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000014-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第1打席は空振り三振　21年サイ・ヤング賞右腕と対戦　試合前は術後初めてブルペンでスライダー解禁
+      <a href=https://news.yahoo.co.jp/articles/bc6039f62ae2f4ca11370bcdd325b3750ba7dad6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07714483-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 運輸安全委が事故調査官を派遣へ　長野電鉄パイプ小屋衝突事故…乗客3人死傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0fbdec9ab8a84c13837546af83eb6a936c41d46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220254-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1382&ch=1382&exp=10800&fmt=webp> 笠井信輔アナ、小泉進次郎氏の農協改革に期待「今こそメスを入れられるとしたら」
+      <a href=https://news.yahoo.co.jp/articles/aebd1ccd814f9d3c8626918553079b527c8add51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220260-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、Ｄバックスの大エースと激突　第１打席はワンバウンドにバットが出て空振り三振
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/e3e350855fdf00191227ba2f5a3531cce084c669992ca3f701a2afbb8661ee5a.jpg> イスラエル首相 戦闘継続の意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539602>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/223f0ef6646180d420ab94a0b6a8b743160585f393bb1b49193621a09aff8313.jpg> 精神障害に寄り添う 心療介助犬
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/28a38127f82edb5721bd235a784f532443242d817a11f0d7797b78c14ecdcea6.jpg> 日本駆け込み寺を家宅捜索 警視庁
+      <a href=https://news.yahoo.co.jp/pickup/6539607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c36b4434292908685e918324ab7367636a904c04c054a076c90d8e46d3c0f2c1.jpg> 死刑執行 刑務官の「必ず通る道」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3952b3c38adad143e693ca2fdff0586677c3e0046366332410d15747d22db79f.jpg> 東京・新橋の区道が陥没 深さ1.2m
+      <a href=https://news.yahoo.co.jp/pickup/6539611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ff80760c2ba3b03e3a1fa7fc58bfdc2fa29b574a49fbd7c395432f3e59d636db.jpg> 母が突然「要介護5」日常は一変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/28a38127f82edb5721bd235a784f532443242d817a11f0d7797b78c14ecdcea6.jpg> 日本駆け込み寺を家宅捜索 警視庁
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/92e61a685478497ce23694a71b6cd921dbbec38a8bad45958165637e9695be66.jpg> 薬物解禁のスポーツ大会 来年開催
+      <a href=https://news.yahoo.co.jp/pickup/6539608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b4c2e48052ecc60fa6549ebe1518a79f385361357348a3b1030ebfcdbe7387a5.jpg> さくらまや 法学部を選んだ理由
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 11:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 12:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
