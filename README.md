@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1efb2dc712a9e6f765dd53714a2f62f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b24c9812b9ac504d916f43637046693.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0270fbba6f605c338cde9abce978cdf1fc4fc48a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農相更迭、福島県の消費者ら苦言「庶民感覚ない」　小泉氏には「農業者が意欲持てる政策を」
+      <a href=https://news.yahoo.co.jp/articles/1aef17935758aa5323c9c2cf27caf6918f072408>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民代表、野党結束の成果アピール　「数で政治は変わる」　農水相更迭
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d9b99a31e68540324ec986749f25a3df209d6c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220146-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1288&ch=1288&exp=10800&fmt=webp> 大谷翔平がブルペンで21球　スライダーを４球　25日に「少し進歩が見られるかも」と監督
+      <a href=https://news.yahoo.co.jp/articles/0315a11a01c6edae3c2a4a194c43d7c80a4fa843>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975486-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 走行電車の窓ガラスが割れる　乗客の56歳男性が死亡、2人けが　農業用ハウスのようなものが衝突　当時、現場周辺は強風　長野県北部に「竜巻注意情報」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/657b88462f297c6695e221f50637105dc9bcce04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000048-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1086&ch=1086&exp=10800&fmt=webp> 大谷ブルペンでスライダー　23年9月の手術後初めて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/70b5cdcf014ba1425337bce3de2933deebb138f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000351-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=420&ch=420&exp=10800&fmt=webp> マクドナルド・ハッピーセット、購入時に“1人4セット”制限を発表「多くのお子様にお届けするため」
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/868d574ba79001542bf4e5f9c78ceeb602922785>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220110-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1494&ch=1494&exp=10800&fmt=webp> 令和ロマンくるま「テレビ難しい…」オンカジ賭博の活動自粛後の初出演で大立ち回りも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e171e0b2f1e4f8cb2eb231d83277e6b1a5f243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975462-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 走行列車に農業用ハウスが衝突…乗客の56歳男性死亡、2人けが　急ブレーキ間に合わず　風で飛ばされたか…付近に屋根とみられるものなど散乱　長野・須坂市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c50fad3e99a30abcc6402e600a9a13d74e03667df94ad37363f63a67f58c5824.jpg> 小泉農相に与党 局面打開の期待感
+      <a href=https://news.yahoo.co.jp/pickup/6539600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7799aa3e679ee94c75a0bec273b83e6480b92e860e5ebc8f147e9a3670b05929.jpg> 続投から一転 江藤氏なぜ「更迭」
       </a>
     </td>
   </tr>
@@ -411,15 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c7d21b7bffb691dc26390f39ced7d9d3e6de96a6fc11e320a2ef280cd7c56270.jpg> 米 カタールから約575億円航空機
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ab5e7b3b8f3eef66314e1e6a8d6c1f50bc5e1422b1b09b7cb4221e1d07e716f9.jpg> 米 カタールから約575億円航空機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/30731df2c3389cbd5a64da07022101ddb7a3f6a1f42e853f4c67ae429471ba9c.jpg> TOEIC替え玉「日本だけ」と業者
+      <a href=https://news.yahoo.co.jp/pickup/6539601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3952b3c38adad143e693ca2fdff0586677c3e0046366332410d15747d22db79f.jpg> 東京・新橋の区道が陥没 深さ1.2m
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f8fdfe3ff293c421e05267cf46595e1dd124432104455ecce04b521242ffb322.jpg> 万博で虫大量発生「気持ち悪い」
+      <a href=https://news.yahoo.co.jp/pickup/6539592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/8c43ed65b931c51256109f8b56ac6912d9de04c9e224be6780f935df3ff3caff.jpg> クマ遭遇時にうずくまる 大丈夫?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/8c43ed65b931c51256109f8b56ac6912d9de04c9e224be6780f935df3ff3caff.jpg> クマ遭遇時にうずくまる 大丈夫?
+      <a href=https://news.yahoo.co.jp/pickup/6539599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/92e61a685478497ce23694a71b6cd921dbbec38a8bad45958165637e9695be66.jpg> 薬物解禁のスポーツ大会 来年開催
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 10:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 10:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
