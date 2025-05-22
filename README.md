@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a975e53cbcc3dde319e2602285655173.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f952ba1cc71ee395afa00858d98bdaf6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe35171cc8bb82c06cae237949c26210d5dd1d7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00345490-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ第三者委が証拠開示を拒否　中居正広氏「守秘義務解除」の生々しいやりとり公表
+      <a href=https://news.yahoo.co.jp/articles/870fdfd85f603a16bc897c33264f90d37c1a4039>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-09348879-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「土曜日どうなるか見てみたい」大谷翔平の二刀流復活へ…ロバーツ監督が敵地ブルペンで状態を確認予定　スライダーも解禁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b182a01ba1b8ce6a03ec9225223fc8c0d07738e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新旧農相、事務引き継ぎ式で握手　備蓄米売り渡しは従来方針を転換
+      <a href=https://news.yahoo.co.jp/articles/cd043206c27b7f394a1741bb22877c91e7c0332d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010013-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「滑り大臣」更迭　小泉進次郎農水相の待ったなし米価対策　「火中の栗をプリンスに？」参議院選挙までに手腕問われる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/975af1255866860b5676ef67e910d90dd23ca55d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010019-baseballc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 打ち取られてなお驚異！ドジャース・大谷翔平、4打数無安打でも見せた”衝撃の打球”
+      <a href=https://news.yahoo.co.jp/articles/291555803e74df0c45d5b1564ecb8a711c81580b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010003-chibatopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 【速報】ZOZOマリン新築移転を千葉市が正式発表　幕張メッセ駐車場に　2034年開業目指す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac6307b0df337e503a871e1522ff6a8354ff3e2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000032-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自公立、年金法案の修正協議スタート　基礎年金の「底上げ」焦点に
+      <a href=https://news.yahoo.co.jp/articles/25eb0b91b3482b931b8ffa2e27685e7519bbfa76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000055-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “性暴力”認定は「適切」　中居正広さん側の反論に回答　フジ第三者委
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/6b0605643f02d17699fe316516abae4582e28472cb3b50d439b9e21e38ebbe21.jpg> 年金法案修正協議「底上げ」焦点
+      <a href=https://news.yahoo.co.jp/pickup/6539620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585578368_1585578355_aflo_78349671.jpg> 都議選 国政選挙の先行指標とも
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7c8cc1123cc15450f777185734062a9bfbc5eb013acf3190cb1ff73095eb6f5a.jpg> 公園の子供の声は魅力＞騒音 研究
+      <a href=https://news.yahoo.co.jp/pickup/6539628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/95ca461fdf37af4b926e3f0ada108d5102d0d02729102fee38ace3d77cb5a4d9.jpg> 新マリン球場34年開場目指す 市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539617>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02216667/title-1747759749531.jpeg?exp=10800> 志望理由を生成AIで 大学どう対応
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/722bc34fbeb9704d8227a1c3ede02fa3cec0c24c4e42c71c25bef57335ad679f.jpg> 舞台ハリポタ 開演15分前に中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 15:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
