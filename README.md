@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aca3307a202fd3cd98f6d3e6fb1861f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0cc9980e0ebc2295168c64b0b9a23d38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60acaabb110305c76099e828fa653156f27555f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976081-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権が受け入れ停止措置　ハーバード大学外国人留学生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9760ad85d14261a956410d59ccc1913b399e9789>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000005-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事現場に誤進入　広島空港で立ち往生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0fa77e9f02f5b1525a0dcfc465a10b9a06bc104>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35221241-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委員会、性暴力認定は「適切」中居氏の代理人弁護士へ回答　WHOの定義使用を主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a9f45d6fb537e58b87b3132e8ae9cf6522cddd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050055-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＪＲ山手線が始発から運転見合わせ…京浜東北線の一部区間も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35b08afa18f6870821942e73d09f81d6b2e82d43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21931730-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【動画有】全日空機　広島空港で工事場所に誤進入　コンクリート製の台座乗り越え停止　けが人はなし
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/70663ffc086fb7f8e5b514c5ff3e523e2fc4f7da4cdc25aa2237b62ac75cda56.jpg> USS買収 トランプ氏の最終判断へ
+      <a href=https://news.yahoo.co.jp/pickup/6539693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/725b381995000b3d109208a98e6c12601ad97f4878734aa5221ee00f3eb7ef88.jpg> 受刑者の出産支援 初の子ども誕生
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ec63a67a4ae35053b998f8b974899fbacb4cbcbf94292f561dc56e0a51c9ec32.jpg> ハーバード大の留学受け入れ禁止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/663c52c91f781696ebdc5e7f3aadedd8e11b184f31264450f8c5d45e118203d6.jpg> 自転車の中2転倒 意識不明の重体
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/186931a73d4990c7646da2073a0fdd7b2d8b1d1b04a9bf091d273e563b584659.jpg> 生地薄くなった?UNIQLOに聞いた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539675>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 06:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 06:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
