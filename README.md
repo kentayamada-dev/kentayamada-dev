@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e166cab0177d3393c95e77d26599b6f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c8328c656173026550b9fd15b08d0c4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68b13776633ad9835e17b53698bad3d5d8cd9132>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 墜落機搭乗の空自隊員2人の死亡確認
+      <a href=https://news.yahoo.co.jp/articles/32ddc2f61f43cb7c59595a5b371bd4ce11be9c51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07684193-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【単独取材】「価格破壊起こさないと」小泉農水相　コメ3000円台いつ実現？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8be9a942c27bde43e7452d1eae32332ec7f48064>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21931563-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “失言”で辞任 なぜ後を絶たず? 過去にはすぐさま更迭も、永田町に伝わる失言防止6つの「た」とは?【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/831a9b7e55b9c1e49f42b73fbfb88de33c6b30bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 練習機の搭乗隊員2人、死亡確認　愛知・犬山の空自機墜落事故で
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/745f9026a86d974c1a0b8a41f56ab973d79ea7304283d21b350b9efd3d6a9d60.jpg> 自衛隊機墜落 隊員2人の死亡確認
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/d7511c62869905b9e1c38f43d8cc7e975f0d562c56afd62881a345bc4d1b3461.jpg> 自衛隊機墜落 隊員2人の死亡確認
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/81734ba4ca83550b3cd554fb9f7525d793126c4413a9f6e65f0d5500179b93be.jpg> OpenAI AIデバイス開発に本腰か
+      <a href=https://news.yahoo.co.jp/pickup/6539664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/4a2e19a3569edebc92498494f100a548a1bdc590f733f0e285e30f72110a0922.jpg> 快挙 アマ2度目のホールインワン
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ed7ba043ed78aeb3f01360a0d9ec83bd7665183c18a0da26621bca6f0891d9de.jpg> MUSIC AWARDS JAPANのX反応
+      <a href=https://news.yahoo.co.jp/pickup/6539677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/2b16b4e644f04ce7ac37dd03b6cf749c4b8e48b90d9485ba995414d336287d17.jpg> 大沢あかね 美容ハマってよかった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 21:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 22:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
