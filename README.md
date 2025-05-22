@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b24c9812b9ac504d916f43637046693.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/523e9f9794e4177c9c0550c93764a620.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aef17935758aa5323c9c2cf27caf6918f072408>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民代表、野党結束の成果アピール　「数で政治は変わる」　農水相更迭
+      <a href=https://news.yahoo.co.jp/articles/07ea44a5bcbd9455371795da333aa554574c3b5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975493-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 立憲・野田代表「2世議員が大臣で民のかまどの感覚わからなかった。4世がわかるのか」小泉新農水相を疑問視　コメ対策「結果を早く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/358a22520c2b3badc78af8befbd710bed9d7362d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238120-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】公益社団法人「日本駆け込み寺」を家宅捜索　事務局長(44)をコカイン所持の疑いで逮捕していた事件で　警視庁
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0315a11a01c6edae3c2a4a194c43d7c80a4fa843>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975486-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 走行電車の窓ガラスが割れる　乗客の56歳男性が死亡、2人けが　農業用ハウスのようなものが衝突　当時、現場周辺は強風　長野県北部に「竜巻注意情報」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975486-fnnprimev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 走行電車の窓ガラスが割れる　乗客の56歳男性が死亡、2人けが　農業用ハウスのようなものが衝突　当時、現場周辺は強風　長野県北部に「竜巻注意情報」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/657b88462f297c6695e221f50637105dc9bcce04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000048-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1086&ch=1086&exp=10800&fmt=webp> 大谷ブルペンでスライダー　23年9月の手術後初めて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70b5cdcf014ba1425337bce3de2933deebb138f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000351-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=420&ch=420&exp=10800&fmt=webp> マクドナルド・ハッピーセット、購入時に“1人4セット”制限を発表「多くのお子様にお届けするため」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000048-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1086&ch=1086&exp=10800&fmt=webp> 大谷、ブルペンでスライダー解禁　23年9月の手術後初めて
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ab5e7b3b8f3eef66314e1e6a8d6c1f50bc5e1422b1b09b7cb4221e1d07e716f9.jpg> 米 カタールから約575億円航空機
+      <a href=https://news.yahoo.co.jp/pickup/6539594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/3/6/e3e350855fdf00191227ba2f5a3531cce084c669992ca3f701a2afbb8661ee5a.jpg> イスラエル首相 戦闘継続の意向
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/8c43ed65b931c51256109f8b56ac6912d9de04c9e224be6780f935df3ff3caff.jpg> クマ遭遇時にうずくまる 大丈夫?
+      <a href=https://news.yahoo.co.jp/pickup/6539604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/6e2d737fcfc552f8e5fe3fda520f9ad07535229c650b3ba175978bc47137efd9.jpg> ハッピーセット 購入時の制限発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ccb7a8f7bd4e5f2538c39db12acd5f5d7753cb735b119a722cd21da63b971005.jpg> ド軍監督 スタメンを妻に怒られた
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/6c9d1313615d5fe23505f49f6df551d0df1f0cffccc50dc20a1ba483986b2bad.jpg> 高比良くるまが地上波復帰 自虐も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 10:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 11:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
