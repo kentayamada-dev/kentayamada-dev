@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f91878f02f9dfe8522827f0b2ccebdb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb9c131c4a2c708942b08974e299bfe0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/660c79eea3e97511bc694f53e83457a1d29ce7e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000280-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　備蓄米、物流問題の解決策「ライドシェアやったらいいんですよ。小泉さんは賛成派ですから」
+      <a href=https://news.yahoo.co.jp/articles/2843b6abb634552290d8ea32348caafc8595450c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90019118-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 20代女性巡査が時速100キロ超！パトカー追跡、停止呼びかけも逃走…「早く帰って寝たかった」【長崎】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01e18d5477429a6c0ae52a80c8f7f980078ae044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000071-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 白石聖が大河ドラマ「豊臣兄弟！」出演、永野芽郁に代わって主人公の幼なじみ役
+      <a href=https://news.yahoo.co.jp/articles/66c6cb0769b5383baa29a7b5c1909f06ed9484ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000287-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　中居正広氏問題「公平性の観点からコメント控えたい」　中居氏関係者に「意見したことが」と説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e5fcf598d9ba8137e197a2d6e9a880fa943c3c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000105-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【フジ】第三者委　中居氏側が女性Ａアナの「新たな情報流布」等に強い懸念→中居氏の「Ｋ弁護士」から守秘義務解除応じない最終回答あった
+      <a href=https://news.yahoo.co.jp/articles/e42d49bb10c5a960716f21e407a118d00ebdbd30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000156-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=624&ch=624&exp=10800&fmt=webp> 首相、コメ抑制・年金改革に注力　終盤国会、参院選へ政権浮揚課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a21b7706580f8e08974d9834f4c36d271acc59e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000151-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 列車は農機保管小屋と衝突か　長野電鉄3人死傷事故
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2c668eacff9b7f1e481724bac51d287325bc0796>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-03414246-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 【危機一髪】大谷翔平もビックリ！自身の鋭い打球が警備員を襲う　パイプ椅子を片手に飛びのいた警備員も苦笑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3bd2eb43d9966bee415c8c0860ec8b814d8eef7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000052-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 万博で「ユスリカ」が大量発生　吉村知事「アース製薬に協力要請」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/abad1a7dc8b000e0258f8c0c5c715f2c8a3148ce01865bdfd5aa41abd6ee8cee.jpg> 「ポスト・トランプ」早くも火花
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539631>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7ee36379b07185b320e3b5f6b6f197826c548af28440042c5fc03b435792b860.jpg> 列車に衝突 小屋1カ月前に建設
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/95ca461fdf37af4b926e3f0ada108d5102d0d02729102fee38ace3d77cb5a4d9.jpg> 新マリン球場34年開場目指す 市
+      <a href=https://news.yahoo.co.jp/pickup/6539645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/32c0e6cc2eab124a948503aa49a2d3bf3685449d62056bc717587539941ddb55.jpg> 速度超過50キロ疑い 巡査書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ca28d69752ada03a7dfce26c221618db9485efc9725aed84a45ed4cbe7ab1b9c.jpg> えきねっとセール 発売日を変更
+      <a href=https://news.yahoo.co.jp/pickup/6539635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b7c9dadec8229a416259c26c31876aad0f69ac0d67f264788be8deb76015963e.jpg> 破産の聘珍樓 予約客1000組に影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a2bf9ead046e5ac178a1e119ef2b57b93e396a899cf14ba6aac37e9a6579c6bc.jpg> 石田三成ゆかりのマツ 折れて放置
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 17:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
