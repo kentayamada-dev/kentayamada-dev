@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8328c656173026550b9fd15b08d0c4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a81c59ace003c1d899a337a09a7dbb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32ddc2f61f43cb7c59595a5b371bd4ce11be9c51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07684193-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【単独取材】「価格破壊起こさないと」小泉農水相　コメ3000円台いつ実現？
+      <a href=https://news.yahoo.co.jp/articles/ae9de714e276c15dbdbba0751f97d048b4125818>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農相　コメ高騰に「スピード重視で」随意契約　横浜市内のスーパーは
       </a>
     </td>
   </tr>
@@ -366,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/831a9b7e55b9c1e49f42b73fbfb88de33c6b30bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 練習機の搭乗隊員2人、死亡確認　愛知・犬山の空自機墜落事故で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000234-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=506&cy=0&cw=1520&ch=1520&exp=10800&fmt=webp> 練習機の搭乗隊員2人、死亡確認　愛知・犬山の空自機墜落事故で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33d42587cd64d3fc1c2be2bd76a8e4014f53bcd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07494396-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 都議選まで1か月　焦点は？【#きっかけ解説】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb7948ee458845e8d896c8f9664443d37b634046>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35221314-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=1130&ch=1130&exp=10800&fmt=webp> 中居氏側の今後の対応は…これで幕引きとすることも、訴訟を起こすことも／若狭勝弁護士が解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b90d88a8af36e56c4e3bc303f29bde499185710>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050213-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア・ウクライナ実務者協議、バチカン開催が浮上…レオ１４世が紛争の平和的解決を訴え
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c63e477cb4238d847c2ca2fd557c6405e259651248b6702872e10416205c9c56.jpg> 賞与の給与化じわり拡大 識者解説
+      <a href=https://news.yahoo.co.jp/pickup/6539681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/741a9e4ccd2db5b778ebb69054804cabed9fc7d01db92fd749756ac6cbf0b8c6.jpg> 広島空港でANA機急停止 誤侵入か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/4a2e19a3569edebc92498494f100a548a1bdc590f733f0e285e30f72110a0922.jpg> 快挙 アマ2度目のホールインワン
+      <a href=https://news.yahoo.co.jp/pickup/6539637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c3673b2197296b3cf886e7f39628da14402bdd53dfd7a3392ae67ae613a3c20b.jpg> MLB球場の客転落巡り 21歳を訴追
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 22:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
