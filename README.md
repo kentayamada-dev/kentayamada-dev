@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d06aaedf689430ae37f959a6c318ae2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4feb3a1425a6ecfa1ddfdf06759ffdaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57bf2fabf6ebd4346d001e6eab1c32ebe2581e83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03166318-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 旅客機が工事中の滑走路に侵入、走行不能に　広島空港
+      <a href=https://news.yahoo.co.jp/articles/e555fd60bb03a21a451f005a6b965e276e3306df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90025527-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 農業政策を“大転換”へ…小泉“コメ担当大臣”が描く『随意契約』その効果と課題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1361971b13cc89a73dd9cd0aa7462c34cb523dad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976057-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 維新・前原氏「首を取れる時に取りに行かなければ」　内閣不信任に慎重な立憲に「本質は戦。手を緩めた方が負け」
+      <a href=https://news.yahoo.co.jp/articles/57bf2fabf6ebd4346d001e6eab1c32ebe2581e83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03166318-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 旅客機が工事中の滑走路に侵入、走行不能に　広島空港
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 02:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 03:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
