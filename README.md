@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c65fb4efa88b7659680c2260eceb84d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5be5c0794b375597b0372a415dbec9c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd6dfea190cfc2edbbc92f14182a641b6cffa592>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975597-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車に衝突した雨よけの小屋は1カ月前に線路脇に建てられたもの…3人死傷の長野電鉄事故　長野・須坂市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acb79d67152ffec46df1dc82bc57a7cd08b98542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220386-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、第３打席は右翼席めがける特大飛球もあと一歩…Ｄバックスのエース右腕からノーヒット
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eb09d535301b5f9ac82b880e0b8982670d9883a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-04570567-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=348&ch=348&exp=10800&fmt=webp> 舞台「ハリポタ」昼公演が急遽中止「公演関係者の体調不良により」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d71297ac605fa61f8b03c65801656ad76575ecb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000007-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 万博での「ユスリカ」大量発生の原因と対策　「いのち」に配慮の防虫徹底も...対策担当の専門家「やむを得ない事象では」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e174aa3f7133bad244841753f0785a963ad0fa12>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220278-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 郵政民営化の再来か…小泉進次郎農相に「再び劇場型政治、主演俳優を決めた」小沢一郎氏が警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec8d30c2f98612564c882036650c82a4428de3ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000082-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2000&ch=2000&exp=10800&fmt=webp> 長野電鉄の3人死傷、実況見分　県警、運輸安全委も調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9228c0bf77d682b6a2eb7409203f4844b89c77f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-05221063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平が１打席２度の自打球でもん絶ヒヤリ　サイ・ヤング賞右腕の前に２打席凡退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1801208fa1e7202d2edf13ab90729c32d56fca64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238137-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民党「旧姓に法的効力」を盛り込んだ案提示　選択的夫婦別姓制度をめぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29cee38f1515a8bb0abb349a4fc1bf58797479fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00137684-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> あのトランプもネタニヤフにはもうウンザリ…中東歴訪で見せたアメリカの政策転換、優先したのは「戦争よりもビジネス」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c2f19098708d5bde1e62757d0e2a99e6aa67b74ace2d3565f7a74e064d4abc72.jpg> 旧姓の単独使用可 自民WTが原案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/223f0ef6646180d420ab94a0b6a8b743160585f393bb1b49193621a09aff8313.jpg> 精神障害に寄り添う 心療介助犬
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/722bc34fbeb9704d8227a1c3ede02fa3cec0c24c4e42c71c25bef57335ad679f.jpg> 舞台ハリポタ 開演15分前に中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539608>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b4c2e48052ecc60fa6549ebe1518a79f385361357348a3b1030ebfcdbe7387a5.jpg> さくらまや 法学部を選んだ理由
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 12:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 13:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
