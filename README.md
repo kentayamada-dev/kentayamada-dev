@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a994bd0ee07967cbdb44c1dce45e450a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1efb2dc712a9e6f765dd53714a2f62f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0270fbba6f605c338cde9abce978cdf1fc4fc48a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 江藤農相更迭、福島県の消費者ら苦言「庶民感覚ない」　小泉氏には「農業者が意欲持てる政策を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d9b99a31e68540324ec986749f25a3df209d6c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220146-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1288&ch=1288&exp=10800&fmt=webp> 大谷翔平がブルペンで21球　スライダーを４球　25日に「少し進歩が見られるかも」と監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29cee38f1515a8bb0abb349a4fc1bf58797479fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00137684-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> あのトランプもネタニヤフにはもうウンザリ…中東歴訪で見せたアメリカの政策転換、優先したのは「戦争よりもビジネス」
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/868d574ba79001542bf4e5f9c78ceeb602922785>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220110-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1494&ch=1494&exp=10800&fmt=webp> 令和ロマンくるま「テレビ難しい…」オンカジ賭博の活動自粛後の初出演で大立ち回りも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d01cb6eabff10f8ec6191350f47df3c3dad34be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010002-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】失言で農相更迭　コメ政策の立て直し急げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02db7ef05e2ba4bf8a06087523b4febaff128749>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-05221031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平がブルペンでもスライダー解禁、ロバーツ監督「少し前進するかも…」　近日中に打者と対戦の可能性も
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/63a4ad295530181de3c388d4e7d7652168c3f4e8d92ff63bfc3cd64c6f81d9dc.jpg> 米・南ア首脳「白人迫害」で応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c7d21b7bffb691dc26390f39ced7d9d3e6de96a6fc11e320a2ef280cd7c56270.jpg> 米 カタールから約575億円航空機
       </a>
@@ -434,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/4aaa417a76e1aaa5f2046e5ccd24f8c5b563e09eb94e100e245bc45d8eaa905d.jpg> 業界衝撃 中華「聘珍樓」なぜ破産
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/831ce4795344c27c3c72d7026102ac9cb031b41e311a09dd4bba259941e08ab1.jpg> タイの万博展示 自国で批判続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539589>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f8fdfe3ff293c421e05267cf46595e1dd124432104455ecce04b521242ffb322.jpg> 万博で虫大量発生「気持ち悪い」
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/726b728ca12e6d176b958b04643167cd3aba4d1f58619a113c7d9656bb47db51.jpg> 先発のDeNAバウアー発熱していた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0f497b45a67f71c54f8edb2c4fc6cbe84d0f273cb7d07e510fed2fed8369fbbb.jpg> バスケ富永啓生 Bリーグ入りへ
+      <a href=https://news.yahoo.co.jp/pickup/6539592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/8c43ed65b931c51256109f8b56ac6912d9de04c9e224be6780f935df3ff3caff.jpg> クマ遭遇時にうずくまる 大丈夫?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 09:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 10:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
