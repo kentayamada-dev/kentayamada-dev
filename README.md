@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/634098942ca6f9360904bd5d95486110.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec14fdd783b224709fb6a16ee03f8260.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a7747df73b3c1614a8666d2033f21dd4c757c61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=889&ch=889&exp=10800&fmt=webp> ドジャース　大谷翔平は4打数無安打もT・ヘルナンデスの3ランで逆転勝利　4連敗の後に2連勝
+      <a href=https://news.yahoo.co.jp/articles/2422fc3a26bd0c7ec7d4332b3fb93cb9961ae916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「性暴力」認定は「適切」　フジ第三者委が回答　中居氏側要求に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6410694526ce6ea537699e8d2242ca7a879f5134>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220424-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、大飛球や超速打球も４試合ぶりノーヒット　サイ・ヤング右腕の投球術に翻弄される
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac6307b0df337e503a871e1522ff6a8354ff3e2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自公立、年金法案の修正協議スタート　基礎年金の「底上げ」焦点に
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95bbe7a9cf195825341fd270b90b0069130f2523>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000028-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 維新・前原氏「首は取れる時に取らないと」　不信任案で「経験則」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd6dfea190cfc2edbbc92f14182a641b6cffa592>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975597-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車に衝突した小屋は雨よけとして1カ月前に線路脇に建てられたもの…3人死傷の長野電鉄事故　長野・須坂市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb09d535301b5f9ac82b880e0b8982670d9883a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-04570567-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=348&ch=348&exp=10800&fmt=webp> 舞台「ハリポタ」昼公演が急遽中止「公演関係者の体調不良により」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a46df69a4011202ff97aee0b566685a973d79a5b4daf06c5b482146e78839e91.jpg> 中居氏反論に第三者委 認定は適切
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539612>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3883ddff89b246f89a5b29bcba9a7e246e1d6660db68a131c603c3be5177e080.jpg> 北朝鮮の進水式で事故 正恩氏激怒
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 黒字でも 上場企業の人員削減増加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/80efd112afee3bb1f057175d3401c0c1aa98c40076ccc3c7a58a01e5df925013.jpg> なぜ「服」売る? ファミマの戦略
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/6e2d737fcfc552f8e5fe3fda520f9ad07535229c650b3ba175978bc47137efd9.jpg> ハッピーセット 購入時の制限発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ccb7a8f7bd4e5f2538c39db12acd5f5d7753cb735b119a722cd21da63b971005.jpg> ド軍監督 スタメンを妻に怒られた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 13:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 14:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
