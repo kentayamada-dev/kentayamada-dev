@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5be5c0794b375597b0372a415dbec9c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/634098942ca6f9360904bd5d95486110.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd6dfea190cfc2edbbc92f14182a641b6cffa592>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975597-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車に衝突した雨よけの小屋は1カ月前に線路脇に建てられたもの…3人死傷の長野電鉄事故　長野・須坂市
+      <a href=https://news.yahoo.co.jp/articles/4a7747df73b3c1614a8666d2033f21dd4c757c61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=889&ch=889&exp=10800&fmt=webp> ドジャース　大谷翔平は4打数無安打もT・ヘルナンデスの3ランで逆転勝利　4連敗の後に2連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acb79d67152ffec46df1dc82bc57a7cd08b98542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220386-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、第３打席は右翼席めがける特大飛球もあと一歩…Ｄバックスのエース右腕からノーヒット
+      <a href=https://news.yahoo.co.jp/articles/95bbe7a9cf195825341fd270b90b0069130f2523>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000028-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 維新・前原氏「首は取れる時に取らないと」　不信任案で「経験則」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd6dfea190cfc2edbbc92f14182a641b6cffa592>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975597-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車に衝突した小屋は雨よけとして1カ月前に線路脇に建てられたもの…3人死傷の長野電鉄事故　長野・須坂市
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d71297ac605fa61f8b03c65801656ad76575ecb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000007-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 万博での「ユスリカ」大量発生の原因と対策　「いのち」に配慮の防虫徹底も...対策担当の専門家「やむを得ない事象では」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e174aa3f7133bad244841753f0785a963ad0fa12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220278-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 郵政民営化の再来か…小泉進次郎農相に「再び劇場型政治、主演俳優を決めた」小沢一郎氏が警鐘
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 万博での「ユスリカ」大量発生の原因と対策　「いのち」に配慮の防虫徹底も...対策担当の専門家「やむを得ない事象では」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c36b4434292908685e918324ab7367636a904c04c054a076c90d8e46d3c0f2c1.jpg> 死刑執行 刑務官の「必ず通る道」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539611>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ff80760c2ba3b03e3a1fa7fc58bfdc2fa29b574a49fbd7c395432f3e59d636db.jpg> 母が突然「要介護5」日常は一変
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/8c8b8c486863dc674074ed75d0d891305fc4bcb04a2828bae59a1a038e92594b.jpg> 米で銃撃 イスラエル大使館員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539612>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3883ddff89b246f89a5b29bcba9a7e246e1d6660db68a131c603c3be5177e080.jpg> 北朝鮮の進水式で事故 正恩氏激怒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/80efd112afee3bb1f057175d3401c0c1aa98c40076ccc3c7a58a01e5df925013.jpg> なぜ「服」売る? ファミマの戦略
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b4c2e48052ecc60fa6549ebe1518a79f385361357348a3b1030ebfcdbe7387a5.jpg> さくらまや 法学部を選んだ理由
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 13:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 13:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
