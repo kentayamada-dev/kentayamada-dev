@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec14fdd783b224709fb6a16ee03f8260.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cbb9cc446e30560112271c9873f0db1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2422fc3a26bd0c7ec7d4332b3fb93cb9961ae916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「性暴力」認定は「適切」　フジ第三者委が回答　中居氏側要求に
+      <a href=https://news.yahoo.co.jp/articles/6eb43d993c29adf1fbb51559073f68f7a0553851>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21928916-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “失言”江藤農水大臣が辞任　後任に小泉進次郎氏「とにかくコメ、コメ担当大臣の思いで」と意気込み　備蓄米放出は“随意契約”へ　今後のコメ価格どうなる?【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6410694526ce6ea537699e8d2242ca7a879f5134>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220424-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、大飛球や超速打球も４試合ぶりノーヒット　サイ・ヤング右腕の投球術に翻弄される
+      <a href=https://news.yahoo.co.jp/articles/2422fc3a26bd0c7ec7d4332b3fb93cb9961ae916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000052-jij-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=929&ch=929&exp=10800&fmt=webp> 「性暴力」認定は「適切」　フジ第三者委が回答　中居氏側要求に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f6688fa1f7e8c5e2842e582d8a7f5e8f97ed579>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000195-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> 岩村明憲氏　4戦ぶり無安打に終わった大谷翔平を分析「小休止」と悲観せずも「内角ちょっと意識しすぎた」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac6307b0df337e503a871e1522ff6a8354ff3e2a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自公立、年金法案の修正協議スタート　基礎年金の「底上げ」焦点に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95bbe7a9cf195825341fd270b90b0069130f2523>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000028-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 維新・前原氏「首は取れる時に取らないと」　不信任案で「経験則」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c2f19098708d5bde1e62757d0e2a99e6aa67b74ace2d3565f7a74e064d4abc72.jpg> 旧姓の単独使用可 自民WTが原案
+      <a href=https://news.yahoo.co.jp/pickup/6539622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/6b0605643f02d17699fe316516abae4582e28472cb3b50d439b9e21e38ebbe21.jpg> 年金法案修正協議「底上げ」焦点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9232a72d63a9bb9f8a48cbd707fd14268fb33303a0f63d56bf49d12dd4165872.jpg> 除染土 首相官邸敷地で再利用検討
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 黒字でも 上場企業の人員削減増加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/80efd112afee3bb1f057175d3401c0c1aa98c40076ccc3c7a58a01e5df925013.jpg> なぜ「服」売る? ファミマの戦略
+      <a href=https://news.yahoo.co.jp/pickup/6539613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7c8cc1123cc15450f777185734062a9bfbc5eb013acf3190cb1ff73095eb6f5a.jpg> 公園の子供の声は魅力＞騒音 研究
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 14:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 14:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
