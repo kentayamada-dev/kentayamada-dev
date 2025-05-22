@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0cc9980e0ebc2295168c64b0b9a23d38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac196509f63072671b3a927afd1dfbee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60acaabb110305c76099e828fa653156f27555f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976081-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権が受け入れ停止措置　ハーバード大学外国人留学生
+      <a href=https://news.yahoo.co.jp/articles/6f9c5037328e36163e4c8e8114e1e1899d7d5e19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 北海道で震度4　M5.6、津波心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9760ad85d14261a956410d59ccc1913b399e9789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000005-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事現場に誤進入　広島空港で立ち往生
+      <a href=https://news.yahoo.co.jp/articles/fccbc6c7b2da648e317bd471831df9b904c41934>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976087-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事区間に誤進入　乗客・乗員1時間半降りられず
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 裏金 下村氏を27日にも予算委招致
+      <a href=https://news.yahoo.co.jp/pickup/6539696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1bc2d804e741d48d2f722920cb2b4180ffbbf6df7985946c40fa8c528b958e50.jpg> 北海道で震度4 津波の心配なし
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/fedf1c3c7fc8cd869da3b6e638df95dfe508fbe14b4af00dbbf98a94fa020ace.jpg> JPドラゴンの日本人7人 比で拘束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539694>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ec63a67a4ae35053b998f8b974899fbacb4cbcbf94292f561dc56e0a51c9ec32.jpg> ハーバード大の留学受け入れ禁止
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/663c52c91f781696ebdc5e7f3aadedd8e11b184f31264450f8c5d45e118203d6.jpg> 自転車の中2転倒 意識不明の重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/99a48c09a91ef59e5da0ead543f19c94e8c89bbe3f12ca5d256ffc43d902db5c.jpg> 英語キャンプトラブル 元職員の声
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 06:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 07:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
