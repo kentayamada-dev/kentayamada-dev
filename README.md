@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c875fca205f6a4175c0814496d754e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f91878f02f9dfe8522827f0b2ccebdb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/660c79eea3e97511bc694f53e83457a1d29ce7e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000280-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　備蓄米、物流問題の解決策「ライドシェアやったらいいんですよ。小泉さんは賛成派ですから」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01e18d5477429a6c0ae52a80c8f7f980078ae044>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000071-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 白石聖が大河ドラマ「豊臣兄弟！」出演、永野芽郁に代わって主人公の幼なじみ役
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e5fcf598d9ba8137e197a2d6e9a880fa943c3c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000105-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【フジ】第三者委　中居氏側が女性Ａアナの「新たな情報流布」等に強い懸念→中居氏の「Ｋ弁護士」から守秘義務解除応じない最終回答あった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c668eacff9b7f1e481724bac51d287325bc0796>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-03414246-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 【危機一髪】大谷翔平もビックリ！自身の鋭い打球が警備員を襲う　パイプ椅子を片手に飛びのいた警備員も苦笑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3bd2eb43d9966bee415c8c0860ec8b814d8eef7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 万博で「ユスリカ」が大量発生　吉村知事「アース製薬に協力要請」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/346d210a021df25cc348ea8148f94a0353238a09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238200-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 長野電鉄3人死傷事故　列車と衝突したのは突風で飛んだ農機具小屋か　運輸安全委員会・気象庁が調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/870fdfd85f603a16bc897c33264f90d37c1a4039>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-09348879-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「土曜日どうなるか見てみたい」大谷翔平の二刀流復活へ…ロバーツ監督が敵地ブルペンで状態を確認予定　スライダーも解禁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd043206c27b7f394a1741bb22877c91e7c0332d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010013-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「滑り大臣」更迭　小泉進次郎農水相の待ったなし米価対策　「火中の栗をプリンスに？」参議院選挙までに手腕問われる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25eb0b91b3482b931b8ffa2e27685e7519bbfa76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000055-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “性暴力”認定は「適切」　中居正広さん側の反論に回答　フジ第三者委
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000052-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 万博で「ユスリカ」が大量発生　吉村知事「アース製薬に協力要請」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585578368_1585578355_aflo_78349671.jpg> 都議選 国政選挙の先行指標とも
+      <a href=https://news.yahoo.co.jp/pickup/6539636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3224a7ac9cf109fe3dfcf501457a4169eb8c6553b6fe7d8309b4aa1949881faa.jpg> 外免切替 観光滞在は認めずで検討
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a46df69a4011202ff97aee0b566685a973d79a5b4daf06c5b482146e78839e91.jpg> 中居氏反論に第三者委 認定は適切
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539628>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/95ca461fdf37af4b926e3f0ada108d5102d0d02729102fee38ace3d77cb5a4d9.jpg> 新マリン球場34年開場目指す 市
       </a>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539617>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02216667/title-1747759749531.jpeg?exp=10800> 志望理由を生成AIで 大学どう対応
+      <a href=https://news.yahoo.co.jp/pickup/6539633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/ca28d69752ada03a7dfce26c221618db9485efc9725aed84a45ed4cbe7ab1b9c.jpg> えきねっとセール 発売日を変更
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/fe8d229ebac2fcaa668fc87ba171000cf6bbfeb0f939c6945a5b5a57ef70da84.jpg> 大谷絶叫 自打球2発に苦悶の表情
+      <a href=https://news.yahoo.co.jp/pickup/6539638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0f416034086927777b45f60acc1419ffc77a654f4b2689b10ae9c61b44620d54.jpg> 阪神が10人入れ替え 桐敷ら抹消
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/56b91eda1ca92a0eaf228b8da7aca5dde09c97bb99e01447c4d1802a54514333.jpg> 大河代役は白石聖 NHKが正式発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 16:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 17:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
