@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1879f97d468b3e8a437ee1c551b6a88.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee60587099ab72dc48f8e51950d01916.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ae1228de05baf0ca51afbbff27d913d74100b4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000082-ann-000-1-thumb.jpg?exp=10800&fmt=webp> コメ安くなる？ 小泉新大臣が職員に訓示　備蓄米“随意契約”メリットは
+      <a href=https://news.yahoo.co.jp/articles/5071e59ceb218217c3c9892e26e4ac7845eb1848>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高3のアマ中嶋がホールインワン　「携帯電話を買い替えたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29df8a07537410379eb2dcdf22521428f5723a1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21930942-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 「お医者さんはいますか」【長野電鉄・乗客3人死傷事故】車内は緊迫　国の運輸安全委が調査開始
+      <a href=https://news.yahoo.co.jp/articles/5d4d58fb9b7ab0850294fb9075852d29d44d7ab6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21931318-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ギモン解決!】「5キロ3000円台」実現はいつ?小泉進次郎 農水大臣が備蓄米放出ルール変更へ 競争入札から随意契約へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbc17f7b1bb62c7438373a3202d71e768872b787>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010821-pinzuba-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 【性暴力認定は「適切」】中居正広氏の反撃、第三者委員会が拒絶で「会見すべき」論再燃　反論の裏側分析も
+      <a href=https://news.yahoo.co.jp/articles/ad14ee7ae8c72a511c62c439a4039f7ec4f39681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000088-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 中居氏“反論”に第三者委が回答「公平性欠ける部分ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f10217c159dd24d4703e6c4755f9ed9c628da42e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07445694-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 無料のものが2500円「色々試しても取れなくて…辛い」人気のイタリア館やくら寿司で予約の転売横行　万博会場では「ユスリカ」大量発生も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec136d58cfefccf387c04c0b6b584462e5f9b496>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90022709-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がブルペンでスライダー解禁　二刀流復活へ前進
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ad2795c8ee71186550dcfdca7680dad81f2183e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-90019584-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】万博の「虫」大量発生　アース製薬が博覧会協会に「駆除対策製品を送付」　吉村知事が協力要請
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/0e365bb014b6835d3313a6f5d10fb77744ec7cd29c767daebe99ebccdc0a18e8.jpg> 守秘義務 フジ第三者委が経緯公表
+      <a href=https://news.yahoo.co.jp/pickup/6539652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/b3b603306a4227f97d7874adb59c2da7ed279839a0b1e8c969d0956d539c66e9.jpg> 無免許疑いの73歳逮捕 小2大けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a9711897cac0cf9819d32afc70b2bd5c4a858edab0ecf8034a02c24f18841c0c.jpg> 万博の虫 アース製薬が殺虫剤提供
+      <a href=https://news.yahoo.co.jp/pickup/6539660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c63e477cb4238d847c2ca2fd557c6405e259651248b6702872e10416205c9c56.jpg> 賞与の給与化じわり拡大 識者解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/a9711897cac0cf9819d32afc70b2bd5c4a858edab0ecf8034a02c24f18841c0c.jpg> 万博の虫 アース製薬が現地調査へ
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/1977d72d5f2e587cd7ec91c4678e37985a30ccf070028b0aff9398ca22115e78.jpg> 農林中金 運用失敗で赤字過去最大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/799127c7d30b8a5b398e28aac1d1990bd4c70f3cd4f67905026b76b4fceaaa10.jpg> 米米CLUB石井 始球式また土下座
+      <a href=https://news.yahoo.co.jp/pickup/6539663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f42fb08cca97bc8e44b85fc1f1bd0e3905352a4396331df2f710edc6d92d23db.jpg> NEWS増田貴久 活動再開を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 19:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 19:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
