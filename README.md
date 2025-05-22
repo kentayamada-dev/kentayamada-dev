@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/523e9f9794e4177c9c0550c93764a620.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6aab4c77fd81166fab575953229ee73a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07ea44a5bcbd9455371795da333aa554574c3b5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975493-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 立憲・野田代表「2世議員が大臣で民のかまどの感覚わからなかった。4世がわかるのか」小泉新農水相を疑問視　コメ対策「結果を早く」
+      <a href=https://news.yahoo.co.jp/articles/5ec88d4d40f1023f44b899ca597402a0496fcfb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「日本駆け込み寺」を家宅捜索　事務局長コカイン所持疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/358a22520c2b3badc78af8befbd710bed9d7362d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238120-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】公益社団法人「日本駆け込み寺」を家宅捜索　事務局長(44)をコカイン所持の疑いで逮捕していた事件で　警視庁
+      <a href=https://news.yahoo.co.jp/articles/39a7239cefd956719963f5109969a27ca78012b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010000-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 列車窓ガラスが割れ乗客死亡　強風でパイプで組んだ小屋が飛ばされたか　運輸安全委員会の事故調査官が現地入り【長野・須坂市】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0315a11a01c6edae3c2a4a194c43d7c80a4fa843>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00975486-fnnprimev-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 走行電車の窓ガラスが割れる　乗客の56歳男性が死亡、2人けが　農業用ハウスのようなものが衝突　当時、現場周辺は強風　長野県北部に「竜巻注意情報」
+      <a href=https://news.yahoo.co.jp/articles/0388d5d2a278ee430116c859d7cb9b95c5fd04b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000014-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第1打席は空振り三振　21年サイ・ヤング賞右腕と対戦　試合前は術後初めてブルペンでスライダー解禁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/657b88462f297c6695e221f50637105dc9bcce04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000048-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1086&ch=1086&exp=10800&fmt=webp> 大谷、ブルペンでスライダー解禁　23年9月の手術後初めて
+      <a href=https://news.yahoo.co.jp/articles/c0fbdec9ab8a84c13837546af83eb6a936c41d46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220254-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1382&ch=1382&exp=10800&fmt=webp> 笠井信輔アナ、小泉進次郎氏の農協改革に期待「今こそメスを入れられるとしたら」
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/223f0ef6646180d420ab94a0b6a8b743160585f393bb1b49193621a09aff8313.jpg> 精神障害に寄り添う 心療介助犬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/28a38127f82edb5721bd235a784f532443242d817a11f0d7797b78c14ecdcea6.jpg> 日本駆け込み寺を家宅捜索 警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539601>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3952b3c38adad143e693ca2fdff0586677c3e0046366332410d15747d22db79f.jpg> 東京・新橋の区道が陥没 深さ1.2m
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/4aaa417a76e1aaa5f2046e5ccd24f8c5b563e09eb94e100e245bc45d8eaa905d.jpg> 業界衝撃 中華「聘珍樓」なぜ破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/831ce4795344c27c3c72d7026102ac9cb031b41e311a09dd4bba259941e08ab1.jpg> タイの万博展示 自国で批判続出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 11:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 11:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
