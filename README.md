@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e57a6f6925ecc68320e51b7bd304dcd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c65fb4efa88b7659680c2260eceb84d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02f3c4e9c9826ba0ea47d33acff94b940cfbea1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010009-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 金総書記が叱責「犯罪的行為だ」　駆逐艦進水式で“重大事故”
+      <a href=https://news.yahoo.co.jp/articles/e174aa3f7133bad244841753f0785a963ad0fa12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220278-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 郵政民営化の再来か…小泉進次郎農相に「再び劇場型政治、主演俳優を決めた」小沢一郎氏が警鐘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/894907d5ddaa430caa296ae59ec01988883a3e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010003-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=604&ch=604&exp=10800&fmt=webp> 【農相更迭の舞台裏】コメ失言「辞めるような話ではない」一転…多数野党が見せつけた“権力”に首相絶句
+      <a href=https://news.yahoo.co.jp/articles/ec8d30c2f98612564c882036650c82a4428de3ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000082-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2000&ch=2000&exp=10800&fmt=webp> 長野電鉄の3人死傷、実況見分　県警、運輸安全委も調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc6039f62ae2f4ca11370bcdd325b3750ba7dad6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07714483-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 運輸安全委が事故調査官を派遣へ　長野電鉄パイプ小屋衝突事故…乗客3人死傷
+      <a href=https://news.yahoo.co.jp/articles/9228c0bf77d682b6a2eb7409203f4844b89c77f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-05221063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平が１打席２度の自打球でもん絶ヒヤリ　サイ・ヤング賞右腕の前に２打席凡退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aebd1ccd814f9d3c8626918553079b527c8add51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35220260-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、Ｄバックスの大エースと激突　第１打席はワンバウンドにバットが出て空振り三振
+      <a href=https://news.yahoo.co.jp/articles/1801208fa1e7202d2edf13ab90729c32d56fca64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238137-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民党「旧姓に法的効力」を盛り込んだ案提示　選択的夫婦別姓制度をめぐり
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7799aa3e679ee94c75a0bec273b83e6480b92e860e5ebc8f147e9a3670b05929.jpg> 続投から一転 江藤氏なぜ「更迭」
+      <a href=https://news.yahoo.co.jp/pickup/6539614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c2f19098708d5bde1e62757d0e2a99e6aa67b74ace2d3565f7a74e064d4abc72.jpg> 旧姓の単独使用可 自民WTが原案
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/28a38127f82edb5721bd235a784f532443242d817a11f0d7797b78c14ecdcea6.jpg> 日本駆け込み寺を家宅捜索 警視庁
+      <a href=https://news.yahoo.co.jp/pickup/6539612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/3883ddff89b246f89a5b29bcba9a7e246e1d6660db68a131c603c3be5177e080.jpg> 北朝鮮の進水式で事故 正恩氏激怒
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 12:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 12:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
