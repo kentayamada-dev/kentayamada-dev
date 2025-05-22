@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f952ba1cc71ee395afa00858d98bdaf6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c875fca205f6a4175c0814496d754e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3bd2eb43d9966bee415c8c0860ec8b814d8eef7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 万博で「ユスリカ」が大量発生　吉村知事「アース製薬に協力要請」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/346d210a021df25cc348ea8148f94a0353238a09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-07238200-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 長野電鉄3人死傷事故　列車と衝突したのは突風で飛んだ農機具小屋か　運輸安全委員会・気象庁が調査
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/870fdfd85f603a16bc897c33264f90d37c1a4039>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/291555803e74df0c45d5b1564ecb8a711c81580b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010003-chibatopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 【速報】ZOZOマリン新築移転を千葉市が正式発表　幕張メッセ駐車場に　2034年開業目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/25eb0b91b3482b931b8ffa2e27685e7519bbfa76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000055-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “性暴力”認定は「適切」　中居正広さん側の反論に回答　フジ第三者委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d71297ac605fa61f8b03c65801656ad76575ecb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 万博での「ユスリカ」大量発生の原因と対策　「いのち」に配慮の防虫徹底も...対策担当の専門家「やむを得ない事象では」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00000055-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “性暴力”認定は「適切」　中居正広さん側の反論に回答　フジ第三者委
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9232a72d63a9bb9f8a48cbd707fd14268fb33303a0f63d56bf49d12dd4165872.jpg> 除染土 首相官邸敷地で再利用検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9635332ddeb64108a50b5b556c1e4a36ce5b4853443ed5a071793a290109e47f.jpg> イスラエル大使員銃撃 容疑者拘束
+      <a href=https://news.yahoo.co.jp/pickup/6539629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/49a604168cbd9be36f89713f5ad438b5f1e9ff4568d6b08b57c14cfc0d8edb4d.jpg> 江藤氏釈明は「失敗」? 記者分析
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539624>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/abad1a7dc8b000e0258f8c0c5c715f2c8a3148ce01865bdfd5aa41abd6ee8cee.jpg> 「ポスト・トランプ」早くも火花
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/7ee36379b07185b320e3b5f6b6f197826c548af28440042c5fc03b435792b860.jpg> 列車に衝突 小屋1カ月前に建設
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 16:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 16:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
