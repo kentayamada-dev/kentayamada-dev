@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f14e989a2703fec24ed7b966c35b3bae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e4937effab77ee831d7670636f6b39e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac4c78bea27614d884211ddb6d359fea81855f65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90028923-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=438&ch=438&exp=10800&fmt=webp> 【続報】広島空港 全日空機が工事区間に誤進入 機体一部を損傷　乗員・乗客にけがなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1361971b13cc89a73dd9cd0aa7462c34cb523dad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976057-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 維新・前原氏「首を取れる時に取りに行かなければ」　内閣不信任に慎重な立憲に「本質は戦。手を緩めた方が負け」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4efb1f408489edd718be32e4194ae47571dc1c97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07396442-htv-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】「急ブレーキで止まって衝撃があった」　全日空機が誤って工事中の滑走路に入り走行不能に　広島空港
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b13f296dde205b63de2c6f5341980991655cd635>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00799992-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一生分ユスリカを見た気がするが…」万博展示館関係者が悲鳴「これもう500倍くらい増えるの」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb7948ee458845e8d896c8f9664443d37b634046>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35221314-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=1130&ch=1130&exp=10800&fmt=webp> 中居氏側の今後の対応は…これで幕引きとすることも、訴訟を起こすことも／若狭勝弁護士が解説
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 00:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 01:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
