@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3826947acabb0f0a11d8001f95737e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e166cab0177d3393c95e77d26599b6f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68b13776633ad9835e17b53698bad3d5d8cd9132>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 墜落機搭乗の空自隊員2人の死亡確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8be9a942c27bde43e7452d1eae32332ec7f48064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-21931563-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “失言”で辞任 なぜ後を絶たず? 過去にはすぐさま更迭も、永田町に伝わる失言防止6つの「た」とは?【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b13f296dde205b63de2c6f5341980991655cd635>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00799992-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一生分ユスリカを見た気がするが…」万博展示館関係者が悲鳴「これもう500倍くらい増えるの」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb7948ee458845e8d896c8f9664443d37b634046>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35221314-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=1130&ch=1130&exp=10800&fmt=webp> 中居氏側の今後の対応は…これで幕引きとすることも、訴訟を起こすことも／若狭勝弁護士が解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a22ffa678823e658ba9946d18d73942294f2ba9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00010031-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「お詫び申し上げます」所属芸人6人略式起訴で吉本興業がコメント　順次芸能活動再開も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/060dbf5d78f6190bd41f0a49286c399d298952f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00050220-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=376&ch=376&exp=10800&fmt=webp> コメ高騰で小泉農相「価格破壊起こさないと世の中の空気変わらない」「備蓄米、需要あれば無制限に出す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86f467fe92282766addfdaf6bf8258871cd273fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-00976022-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「気持ち悪い!しつこい!」万博に大量発生した「ユスリカ」に逃げ回る来場者　防虫スプレーは効果期待できず　アース製薬に「緊急」援助要請
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250522-35221314-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=128&cw=1130&ch=1130&exp=10800&fmt=webp> 中居氏側の今後の対応は…これで幕引きとすることも、訴訟を起こすことも／若狭勝弁護士が解説
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/89db0a0b8b29f1a3388ef4e666fc4f9e45381bcd582b945f960364becb736b96.jpg> 不登校経験は強み 背中押した顧問
+      <a href=https://news.yahoo.co.jp/pickup/6539656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/c6e91581d0e76c970a125c264fae0ee1b152326b7dda2fbe5ce133dcf2bf60db.jpg> 農相引き継ぎ 冒頭取材急きょNG
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/68ecd3a843800ebe654606772e3bb9733152a26a5a521c1e6914402d09d39348.jpg> 小泉農相「私を使って」と訓示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/9685f5ce065df3d669779310ae39fda13f7e11ae53bd3440096768cdb96ea9e5.jpg> 吉本興業 6人の略式起訴受け謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6539676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/745f9026a86d974c1a0b8a41f56ab973d79ea7304283d21b350b9efd3d6a9d60.jpg> 自衛隊機墜落 隊員2人の死亡確認
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/f76805b2025741523116c3d7174e168f19577def59ccf7184c16127aaad62258.jpg> シャトレーゼを書類送検 労基署
+      <a href=https://news.yahoo.co.jp/pickup/6539646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/81734ba4ca83550b3cd554fb9f7525d793126c4413a9f6e65f0d5500179b93be.jpg> OpenAI AIデバイス開発に本腰か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/22/dbeaa96b6d3f74aff87502f84225994ab372ab0f06eb26eada8ad6225449e022.jpg> DeNA蝦名が涙のお立ち台 兄急死
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/22 21:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/22 21:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
