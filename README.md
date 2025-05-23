@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cfffff48922ee2b50756eada5b824a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d220e3983697162a4a852815ed9b2ae8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b53fac9e4319087a522ace528c021699defc9324>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-05641544-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】大の里優勝！横綱昇進も決定的に　喜びに沸く地元石川・津幡町から生中継！
+      <a href=https://news.yahoo.co.jp/articles/acf076379910206f35b805447f580fe66941193d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-01165643-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場に『天使の歌声』ウィーン少年合唱団コンサート　紀子さまも来場　オーストリアナショナルデー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e0d07c8791b3431a027e946378c7b55c9a8cb57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000283-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 活動再開のNEWS増田貴久　入院中に「お見舞い来てくれたの」「大好き」な「先輩」との2ショット披露
+      <a href=https://news.yahoo.co.jp/articles/a1fa0106fd1a1a280172a44d4a72544a082045a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933876-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=497&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大関・大の里が2場所連続優勝で横綱昇進へ 地元の石川・津幡町は喜び爆発 「おばさんなのにワーッとなってしまって」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab7f7b556f256e766171afa9f0f2ea60157bb4ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000467-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=407&ch=407&exp=10800&fmt=webp> 万博、自家用車→バス乗り換えの「P＆R駐車場」4つの新ルール発表　午前帯に“特典”【一覧】
+      <a href=https://news.yahoo.co.jp/articles/e3d30c77e41ea490a6c140fffaaa74fea06acfe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976397-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が精米店を視察…「楽天」三木谷会長に備蓄米ネット販売を協力要請　“2000円台”宣言に農家は「自分で価格決められる仕組み作り」の要望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60e1be8bc57fa3d4a01ae17e48a01bd9ef366a38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-10179865-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 備蓄米の価格 毎週地域ごと公表検討 小泉農水大臣
+      <a href=https://news.yahoo.co.jp/articles/185259554a536e1028d0aca12d92265dc9d0f552>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000006-awire-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 広島空港、ANA機が走行不能　5/22夜の札幌発NH1272便
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f77dfdbbf21b9b453aa4aa22dadbc2e8dbad8a980da1a0fb3dabba6af29bbdbc.jpg> 24日は気温急降下 服装に注意
+      <a href=https://news.yahoo.co.jp/pickup/6539772>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 余剰病床の削減 自公維が大筋合意
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e00c8dfe0330a635156a408ee440d0759e215a518d8d27d3cd732cb6d6e880c6.jpg> 日産 リストラ費用600億円追加か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539765>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4112462a49d95e9d9528e08e5743584c9e14ef321a3b8c89543d45e4a2963d9f.jpg> 催涙スプレーか 40人超に痛みなど
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0d16fe21107c305a8411e717b23384b523f7a7bc0a59675108855c5098ca7ba0.jpg> 外免切替厳格化へ 外国人駆け込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539764>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/185b59cf7d65a24eba7765558838470db892c0934b6ab05085fa08b675061cc7.jpg> 落雷で一生が変わった 重度の障害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539729>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 泥団子が直撃し重傷 被害者救済は
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/532909394f13127b4ce41de57898bee3881b9e4705cb4ef8468925d0896d5a35.jpg> 狩野英孝 勝俣の半ズボンで会見
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 18:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 19:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
