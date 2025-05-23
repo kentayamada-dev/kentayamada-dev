@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45ef85318346d29e66ddb79c94d7a8ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28e12d9c7a94884272c74900194f3a4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b10fc81a33900e71cd712bf4e9fca3b7dae952e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏、フジ第三者委見解「承服しかねる」
+      <a href=https://news.yahoo.co.jp/articles/1e781688b9bab48a5943c8dc565df98c7b37b8b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232099-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【巨人】「おもろすぎるやろ」“甲斐監督代行”爆誕「コメントが完全に監督のそれ」SNSざわつく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad6af37d17a33c46cc58df75b22adecf97d160d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238601-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米の店頭価格「5キロあたり2000円で売り渡し」 来週月曜日に随意契約にむけた公告
+      <a href=https://news.yahoo.co.jp/articles/7a098fad7e1b293fbd62b9bc5db705de194b4e4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000079-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 備蓄米放出「まず30万トン」「2千円程度に」　小泉農水相が意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fc6c18b273df5ed42a9a9eb4a0e27c58f05ccd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010019-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 佐野海舟が約1年2カ月ぶりの復帰！　6月の日本代表のメンバーが発表
+      <a href=https://news.yahoo.co.jp/articles/80ac70f5c9383ad54b5a27df525dadbfe9e90efd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00345668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏代理人が音声データを再要求「開示できるはず」 第三委の“ゼロ回答”受け
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6b2f98e9953805077a064cc268178a1abd76f14d266e362cf796387bcb60f83c.jpg> 岸田前首相 連立の組み替えに言及
+      <a href=https://news.yahoo.co.jp/pickup/6539793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3e5bf45cf8b91f8670f5214142e31165e2045e0c5f5c8f683342c802c4f79b46.jpg> トランプ氏「EUに関税50%」投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539783>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiokashoji/02219841/title-1747964415538.jpeg?exp=10800> 正恩氏激怒の進水式 いら立つ背景
+      <a href=https://news.yahoo.co.jp/pickup/6539792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6b2f98e9953805077a064cc268178a1abd76f14d266e362cf796387bcb60f83c.jpg> 岸田前首相 連立の組み替えに言及
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f1f4f44af72468533467f12f4b73c047233418610c3e0dcc41b892c30bf0a859.jpg> 中国系破たん ニセコバブルの行方
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539786>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/66f406d51fec73ea566db6550dd5504e13abd27047cf3d356861b9ab9b11a1b1.jpg> ちいかわコラボ 朝番に入った店員
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/92a517f2ca8e8d85d758b1945d9bc6bfacd90fef7bbe88eca781ac06aa742e83.jpg> 大の里が横綱昇進へ 地元喜び爆発
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 22:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
