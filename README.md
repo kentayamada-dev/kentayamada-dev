@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d60972602a9c923cbddd23f75b19f99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/444da076e7b81c44c3138600db688ba0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d830b8def701eb14d8f2ab770f9f3fea0a7904af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90050984-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【5キロ2000円台!?】小泉農水相の発言で高止まりのコメ価格に動きは＿「助かるし早く安く」「現実的にどうかな」道民から“期待と不安の声”…SNSでは安くておいしいと北海道の『ブレンド米』が話題に
+      <a href=https://news.yahoo.co.jp/articles/9caa2121a4a6993e767a0a4fa33c72e6096464cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000368-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 【卓球】早田ひな　2大会連続メダルならず…世界3位・中国選手に完敗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3740f8dab58dd5a6b84cef3356d8ab1aed986df5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000009-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 横綱へ大きく前進！海洋高校出身・大の里が優勝決めた！糸魚川も大歓声【新潟】
+      <a href=https://news.yahoo.co.jp/articles/6a67f528a62b10a5430a8739788eaea0419b6cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90025575-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 総理「コメ3000円台」実現可能？　当事者に聞いてみた
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5eb2756fbd029ad8830877af24f3b86d0cfd66790335a2d37a54f6351d35333f.jpg> 仏映画祭 トランプ関税の批判続々
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3834e13680925ce47c33acf7dba1027678d8b45d332542ffbe9d89fcd709b0b2.jpg> 羽田滑走路1本を運用制限 火災
+      <a href=https://news.yahoo.co.jp/pickup/6539783>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiokashoji/02219841/title-1747964415538.jpeg?exp=10800> 正恩氏激怒の進水式 いら立つ背景
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/185b59cf7d65a24eba7765558838470db892c0934b6ab05085fa08b675061cc7.jpg> 落雷で一生が変わった 重度の障害
+      <a href=https://news.yahoo.co.jp/pickup/6539785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5fb6c8c25147ab506e058aca1a1617f9d9ecad420e7b734afc64072a7295bd39.jpg> AIきっかけでうつ発症 専門家警鐘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e78f8bf43adac8c274abfbc38e853d54932ff301979f21e5c328acc5e26521bc.jpg> 駅伝部集団転校 唯一残った3年生
+      <a href=https://news.yahoo.co.jp/pickup/6539786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/66f406d51fec73ea566db6550dd5504e13abd27047cf3d356861b9ab9b11a1b1.jpg> ちいかわコラボ 朝番に入った店員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/92a517f2ca8e8d85d758b1945d9bc6bfacd90fef7bbe88eca781ac06aa742e83.jpg> 大の里が横綱昇進へ 地元喜び爆発
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 20:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 21:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
