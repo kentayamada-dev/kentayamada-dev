@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80bec730c6214532b5ad7ce5cb91248b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b246b42beb63087313e897129124d3ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d960bed91cdb4975f7a2ebac74b67fab4a478301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238447-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 楽天・三木谷社長“コメ5キロ2000円台”「頑張りたい」　備蓄米「随意契約」に意欲　小泉進次郎農水大臣はスーパー視察
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238447-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 楽天・三木谷社長“コメ5キロ2000円台”「頑張りたい」　備蓄米「随意契約」に意欲　小泉進次郎農水大臣はスーパー視察
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0df8f1a070abf409db3e74876f9e7ee00a558416dd780295febfad9024bbf146.jpg> 教員免許 必要単位減で見直す方針
+      <a href=https://news.yahoo.co.jp/pickup/6539737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6a1929431e104abef86e00adb43afa8feb6eaf64fc9faca9ae266416fe60e8e8.jpg> コメ価格 前年同月比で98.4%上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b4692ea5c9cd88b676313f23a634637842891d490da9e2fd3f746654512511e8.jpg> 週末 西-東日本で警報級大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6539739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a414cbd5fcfdc16b3cf4032e6cece979c4718d403cbd9f47e664dc4ffc209feb.jpg> 備蓄米 楽天が随意契約参加の意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0df8f1a070abf409db3e74876f9e7ee00a558416dd780295febfad9024bbf146.jpg> 教員免許 必要単位減で見直す方針
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/691315b56c324ea9113370db89089bb029c96de256775fb97fef76a1e9922194.jpg> 万博撮影が目的 周辺海域に停留船
+      <a href=https://news.yahoo.co.jp/pickup/6539741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5eb32eb37f1733cd5606592331961907af68fb51c51ec46c488a76968eee0339.jpg> 広島ドミンゲス 出産巡り一時帰国
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/856913c5492ace8fc19afc9ed7a52bbe75b3c6bed183727f4ed1a6060bc12612.jpg> 行司が土俵下へ転落 担架で退場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 14:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 14:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
