@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a3c26e52bd2f538a23efadea2cef60c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/801a22fa5e27fae1d3f71123c4fded3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e233dad97febbcba55112316b6404e87c128c6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西から天気下り坂　週末は西・東日本で激しい雷雨に注意　警報級の大雨のおそれも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ff88c4daa606dfdd323293617bc4e063fd3646d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=592&ch=592&exp=10800&fmt=webp> 赤沢氏が渡米　自動車などで交渉前進目指す　トランプ関税協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c64289c4536a43117ea86dcaefe2b23fd1b2decf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博、車＆バス方式を一部値下げ　利用低迷で、当日枠新設
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4990bc4908db0c3ec19f8ba604272fc5c7113151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000059-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1532&ch=1532&exp=10800&fmt=webp> お互い納得の内容でないと合意できない、接点探す＝日米交渉で赤沢再生相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccf85f7ff19607fc3d77e9c2f768d69261a485cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010010-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> JR山手線 朝にようやく再開　国交大臣「原因の究明」指示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000098-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1376&ch=1376&exp=10800&fmt=webp> 万博、車＆バス方式を一部値下げ　利用低迷で、当日枠新設
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8e968352d74912bc76eaccc3c62aa72c9d87ae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000022-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 裏金問題で安倍派元幹部の下村氏招致へ　野党と公明が予算委で賛成
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000022-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 裏金問題で安倍派元幹部の下村氏招致へ　野党と公明が予算委で賛成
       </a>
     </td>
   </tr>
@@ -394,32 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a3ff62b5b6e8654b78361a767643f9724463c7e639eb66d285a38818ee5f28e2.jpg> 「裏金」下村氏の参考人招致議決
+      <a href=https://news.yahoo.co.jp/pickup/6539727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b4692ea5c9cd88b676313f23a634637842891d490da9e2fd3f746654512511e8.jpg> 週末 西-東日本で警報級大雨恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e50a43e13dc4dcc5a90e8523706841f085b2f7f67924165ca20f90d992215a59.jpg> 「白人迫害」映像は無関係と判明
+      <a href=https://news.yahoo.co.jp/pickup/6539723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/5b18dec23921d7d493e606c7c4b04c186847daccfdbf271cbc5acbe4e954eced.jpg> 経産相 今夏節電要請行わない予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f04ea00a53487097628fb51012d9ee5b9155d870d2ace4ded300a6af6cecfd1e.jpg> 農相 備蓄米5kg2000円台目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c70d33368f4209ffd16b79f05cdb56b8988627f43ab01ec835e5f87879836761.jpg> ハーバード大 米政権の声明に反発
+      <a href=https://news.yahoo.co.jp/pickup/6539725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/085a23a6564d70b76899459e447444a65869946f016290bba9ebad5d41df573e.jpg> 山手線列車21本 パンタグラフ異常
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b41ef0cab88d959e8836e51f72fc140814ee7e6c83f064b78fb7df0088a66151.jpg> JR津田沼駅の再開発 一時中断
+      <a href=https://news.yahoo.co.jp/pickup/6539724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/89e89daaa07b1e779e752763537d36f23ba56af365cb439509aacda3185e5eb8.jpg> 大卒就職率98% 過去2番目の高水準
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/83676dfa140a6a699cc397b7d34d71010ae002253d6798e3bb5d7ee5fc0cdac7.jpg> 薬物容認の大会「危険」非難の声
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 11:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
