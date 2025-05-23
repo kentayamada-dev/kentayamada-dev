@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d220e3983697162a4a852815ed9b2ae8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83afc7c42e3c2f46f218a5dcc680c400.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acf076379910206f35b805447f580fe66941193d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-01165643-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場に『天使の歌声』ウィーン少年合唱団コンサート　紀子さまも来場　オーストリアナショナルデー
+      <a href=https://news.yahoo.co.jp/articles/3740f8dab58dd5a6b84cef3356d8ab1aed986df5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000009-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 横綱へ大きく前進！海洋高校出身・大の里が優勝決めた！糸魚川も大歓声【新潟】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1fa0106fd1a1a280172a44d4a72544a082045a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933876-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=497&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大関・大の里が2場所連続優勝で横綱昇進へ 地元の石川・津幡町は喜び爆発 「おばさんなのにワーッとなってしまって」
+      <a href=https://news.yahoo.co.jp/articles/7c8f2a9c35d1ff803a9f56b20ce79a1b92fafb66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238521-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉農水大臣の備蓄米“6月上旬には5キロあたり2000円台”の目標に…街の声「可能だったらやってほしい。買い物も楽になる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3d30c77e41ea490a6c140fffaaa74fea06acfe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976397-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が精米店を視察…「楽天」三木谷会長に備蓄米ネット販売を協力要請　“2000円台”宣言に農家は「自分で価格決められる仕組み作り」の要望
+      <a href=https://news.yahoo.co.jp/articles/418c079ce1c074b42103664582e53f9485ba0b83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90019618-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 利用伸びない「パーク＆ライド」午後3時以降駐車で半額・当日予約も可能に【大阪・関西万博】
       </a>
     </td>
   </tr>
@@ -410,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3834e13680925ce47c33acf7dba1027678d8b45d332542ffbe9d89fcd709b0b2.jpg> 羽田滑走路1本を閉鎖 対岸で火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/703cd502661723e0442ef3e05b237b4af6015ee146381af4928d45773fcc3f45.jpg> 日産 横浜の本社ビル売却を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539765>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4112462a49d95e9d9528e08e5743584c9e14ef321a3b8c89543d45e4a2963d9f.jpg> 催涙スプレーか 40人超に痛みなど
       </a>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539729>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 泥団子が直撃し重傷 被害者救済は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c43c16f7214d38755f531d03dfe85a8a870fc29db9d6a10da75e25c58536b503.jpg> トイプー警察犬 不明者発見に貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bbb3c1fc09cac5628125228664efd20559a67ae607aa010e025a2480f9f84d69.jpg> 大の里が横綱昇進へ 2場所連続V
+      <a href=https://news.yahoo.co.jp/pickup/6539776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e78f8bf43adac8c274abfbc38e853d54932ff301979f21e5c328acc5e26521bc.jpg> 駅伝部集団転校 唯一残った3年生
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 19:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 19:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
