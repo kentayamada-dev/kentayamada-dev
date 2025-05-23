@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b246b42beb63087313e897129124d3ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b2492821c85102ba4cf67ea9ad453b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2d9f090c6aa9c20501572cdedcbbe8a1b6f55ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21932607-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ツートライブ】「THE SECOND」優勝後も変わらぬ家族に感謝　周平魂妻「調子に乗るな」たかのり4歳娘「何を成し遂げたの?」
+      <a href=https://news.yahoo.co.jp/articles/b713a10a37d2cff46639be8de25e58185f15e109>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎女性遺体、元交際相手を起訴　神奈川県警、死亡への関与捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d960bed91cdb4975f7a2ebac74b67fab4a478301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238447-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 楽天・三木谷社長“コメ5キロ2000円台”「頑張りたい」　備蓄米「随意契約」に意欲　小泉進次郎農水大臣はスーパー視察
+      <a href=https://news.yahoo.co.jp/articles/7d2b8aaa4b4489c8bee304b9c19ab29acd9c1b78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-10179861-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=649&cy=0&cw=950&ch=950&exp=10800&fmt=webp> “備蓄米6月上旬2000円台”は可能？ スーパー視察の小泉農水大臣「相当大胆なことをやらなければ状況は変わらない」「“この値段で買ってもらいたい”といった形で流す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f012b2011eaf771130682522b6e40805de7a52f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976254-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相がトランプ氏と電話会談　G7サミットのカナダで対面会談を確認　赤沢氏訪米で「生産的な協議に期待」
+      <a href=https://news.yahoo.co.jp/articles/1b730151ad67354037693c0b4ad2e20aa5e267d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000035-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領－石破首相、４５分間の電話会談…関税など懸案を協議
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e512a1d924921f1b5bc2a5f6f5253b8dec3fa81236cea6552c9869de6aa8be88.jpg> 川崎遺体 遺棄罪などで男を起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539739>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a414cbd5fcfdc16b3cf4032e6cece979c4718d403cbd9f47e664dc4ffc209feb.jpg> 備蓄米 楽天が随意契約参加の意向
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/024e83eed9ab0e9d00f043b2f503d2cbca82b9ddec72326d9fb43323e817bfad.jpg> 示談金1300万円渡さず 弁護士除名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539729>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 泥団子が直撃し重傷 被害者救済は
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5eb32eb37f1733cd5606592331961907af68fb51c51ec46c488a76968eee0339.jpg> 広島ドミンゲス 出産巡り一時帰国
+      <a href=https://news.yahoo.co.jp/pickup/6539742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e26f2f29130135695a6790ad175f854b3e5334e82144a0dcc63e5645b07f884d.jpg> 森保ジャパン MF佐野海舟が復帰
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 14:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 15:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
