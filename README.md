@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/997c7c2a84fb1fa350b3bae3ae2589a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0032094afb86fb56e45231243b201cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db159ec51e472158d78fc75ab9ea3b21081cddb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日米関税３回目交渉に向け赤沢経済再生相が米へ出発…ベッセント財務長官は欠席の見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ec05dbb1c11722283d54ddcc7a6a1b97b51c21d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> アドベンチャーワールドのパンダ4頭、6月28日に帰国　和歌山
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000044-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> アドベンチャーワールドのパンダ4頭、6月28日に帰国　和歌山
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7be357c495331bd740e7c3becf5c7a374334c0de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03974667-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「値下げはやるべき。車で行きたい人は多い」万博パーク＆ライドの午後3時以降の割引「需要と供給のバランスとれる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03974667-ytv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「値下げはやるべき。車で行きたい人は多い」万博パーク＆ライドの午後3時以降の割引「需要と供給のバランスとれる」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cdc13ec90aa9757b1c994f8f6a2abd870406fe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000112-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 日米首脳が電話会談　高関税政策で意思疎通か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9f7a33f62fb11d9bd1d93d3357fa6e93a5523701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7a4082c4016edcd1355f1a6f916e09d9f9250667a51a16e9f11f1a554d14be24.jpg> イスラエル大使館員銃撃 男を訴追
+      <a href=https://news.yahoo.co.jp/pickup/6539709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0df8f1a070abf409db3e74876f9e7ee00a558416dd780295febfad9024bbf146.jpg> 教員免許 必要単位減で見直す方針
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/856913c5492ace8fc19afc9ed7a52bbe75b3c6bed183727f4ed1a6060bc12612.jpg> 行司が土俵下へ転落 担架で退場
+      <a href=https://news.yahoo.co.jp/pickup/6539735>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02218536/title-1747884434538.jpeg?exp=10800> 悪役女子レスラー 出演番組なぜ増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5d91f3791313e0d7bde4458089b711624ac6b4a4ed1551e82efbc15b36413fa3.jpg> クレしん声優語る 娘の中学受験
+      <a href=https://news.yahoo.co.jp/pickup/6539732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/856913c5492ace8fc19afc9ed7a52bbe75b3c6bed183727f4ed1a6060bc12612.jpg> 行司が土俵下へ転落 担架で退場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 13:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
