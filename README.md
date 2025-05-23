@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0032094afb86fb56e45231243b201cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80bec730c6214532b5ad7ce5cb91248b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db159ec51e472158d78fc75ab9ea3b21081cddb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日米関税３回目交渉に向け赤沢経済再生相が米へ出発…ベッセント財務長官は欠席の見通し
+      <a href=https://news.yahoo.co.jp/articles/a2d9f090c6aa9c20501572cdedcbbe8a1b6f55ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21932607-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ツートライブ】「THE SECOND」優勝後も変わらぬ家族に感謝　周平魂妻「調子に乗るな」たかのり4歳娘「何を成し遂げたの?」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ec05dbb1c11722283d54ddcc7a6a1b97b51c21d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000044-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> アドベンチャーワールドのパンダ4頭、6月28日に帰国　和歌山
+      <a href=https://news.yahoo.co.jp/articles/d960bed91cdb4975f7a2ebac74b67fab4a478301>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238447-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 楽天・三木谷社長“コメ5キロ2000円台”「頑張りたい」　備蓄米「随意契約」に意欲　小泉進次郎農水大臣はスーパー視察
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f012b2011eaf771130682522b6e40805de7a52f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976254-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相がトランプ氏と電話会談　G7サミットのカナダで対面会談を確認　赤沢氏訪米で「生産的な協議に期待」
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7be357c495331bd740e7c3becf5c7a374334c0de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03974667-ytv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「値下げはやるべき。車で行きたい人は多い」万博パーク＆ライドの午後3時以降の割引「需要と供給のバランスとれる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03974667-ytv-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「値下げはやるべき。車で行きたい人は多い」万博パーク＆ライドの午後3時以降の割引「需要と供給のバランスとれる」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f7a33f62fb11d9bd1d93d3357fa6e93a5523701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/5b18dec23921d7d493e606c7c4b04c186847daccfdbf271cbc5acbe4e954eced.jpg> 経産相 今夏節電要請行わない予定
+      <a href=https://news.yahoo.co.jp/pickup/6539736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/d7146db1e5287f33d1a382c770a93eb2b2bba12dcbf7324a770e448d1c77fdab.jpg> 日米首脳 6月に対面で会談へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539735>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02218536/title-1747884434538.jpeg?exp=10800> 悪役女子レスラー 出演番組なぜ増
+      <a href=https://news.yahoo.co.jp/pickup/6539738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02218536/title-1747884434538.jpeg?exp=10800> レスラー上谷沙弥 番組出演で注目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 13:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 14:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
