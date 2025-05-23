@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a469d060f872822962c6a203907a6618.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15c293744f5359fcb285e49328393aee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c1a7fecb41d03e951a28c32344a5813203371ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-90025609-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「反ユダヤ　共産党が侵入」トランプ政権の執拗な攻撃　ハーバード大学“留学停止”　
+      <a href=https://news.yahoo.co.jp/articles/326fc9890e8232981ea7be9559eb57de02dcc969>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02189738-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相“来月上旬には5キロ 2000円”に　備蓄米を一気に放出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028596746d519fbef0bf0ea1848b6e1c2245329f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976628-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の店頭価格5kg2000円に　小泉農水相 ネット販売協力要請も
+      <a href=https://news.yahoo.co.jp/articles/d411989c36b8d8cb281b0ea62b2cbc7dd271712d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ハーバード大留学生「受け入れ禁止」措置を一時差し止め　米裁判所
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 01:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 02:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
