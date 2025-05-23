@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/989e6ee1012ac39dfee1d3f18a783d61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a3c26e52bd2f538a23efadea2cef60c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30b03d5140582b7a9df6226edd8d137b641964bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000085-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 下村元文科相の参考人招致を議決　衆院予算委、自民党派閥裏金事件
+      <a href=https://news.yahoo.co.jp/articles/c64289c4536a43117ea86dcaefe2b23fd1b2decf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博、車＆バス方式を一部値下げ　利用低迷で、当日枠新設
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/640df8f1a9589b668c95c8775ad56698259687b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07769992-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博 P＆R（パーク＆ライド）料金を午後3時から半額程度に　当日予約も可能に
+      <a href=https://news.yahoo.co.jp/articles/4990bc4908db0c3ec19f8ba604272fc5c7113151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000059-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1532&ch=1532&exp=10800&fmt=webp> お互い納得の内容でないと合意できない、接点探す＝日米交渉で赤沢再生相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15c97a43106ee0cbdfc225f63deb0da6250e3cf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 橋下徹「僕は第三者委が中居さんへの人権侵害の可能性大と。ヒアリングをやり直せ、と思います」…フジの調査報告書、何が起きていたのか
+      <a href=https://news.yahoo.co.jp/articles/ccf85f7ff19607fc3d77e9c2f768d69261a485cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010010-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> JR山手線 朝にようやく再開　国交大臣「原因の究明」指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2da82a54b2c5a8038fd093f51f6fb7a1b887645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000020-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落事故で隊員2人の死亡を発表　防衛省 事故原因の調査続く
+      <a href=https://news.yahoo.co.jp/articles/f8e968352d74912bc76eaccc3c62aa72c9d87ae5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000022-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 裏金問題で安倍派元幹部の下村氏招致へ　野党と公明が予算委で賛成
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/755a8b69a240251ab101ea2ca56284d7d2669b980fd22cd48c1d8692e973b2f4.jpg> 政権浮沈 カギ握る小泉農水相
+      <a href=https://news.yahoo.co.jp/pickup/6539721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a3ff62b5b6e8654b78361a767643f9724463c7e639eb66d285a38818ee5f28e2.jpg> 「裏金」下村氏の参考人招致議決
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3f9bcec5149bf2a152a5f4596326e8ee3f4bdb7845d73e1ff57c9e796588d012.jpg> 万博パーク&ライド 割引を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539715>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b41ef0cab88d959e8836e51f72fc140814ee7e6c83f064b78fb7df0088a66151.jpg> JR津田沼駅の再開発 一時中断
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/2ded5e106450f1001af8ac96da71f0311f1c99d157acbe63997a1e284c7b9441.jpg> ベーグル専門店各地に続々 なぜ今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 10:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
