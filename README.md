@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b20dc87860fdcc2204f32f7c5aa4b5bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d0360dacb363faa06628721cbb8fbd8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13cded44c53affb4d34f4cb40ad07a199d8ecb75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000009-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日鉄とUSスチールの「提携」支持　雇用や経済効果期待
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a125e26c9bdbb8a807850d0a31181362eb151a3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c1bda410caca10d85edd740802433479a39dfe76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ハーバード大、留学生受け入れ資格の取り消し　連邦地裁が一時的に差し止め
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-04838311-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米ハーバード大、留学生受け入れ資格の取り消し　連邦地裁が一時的に差し止め
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e579fb1366f8554cf2097c93249f71d67ece4727>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050199-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日米電話会談、造船など経済安保の協力推進で一致…石破首相の関税撤廃要請にトランプ氏言及せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb3613d982f771b43b4cc8c9d7d595bfb3692cfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000082-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=300&cw=900&ch=900&exp=10800&fmt=webp> 小泉進次郎農相　6月初旬にも「米5キロ2000円台」　閣議後会見で表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00050199-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日米電話会談、造船など経済安保の協力推進で一致…石破首相の関税撤廃要請にトランプ氏言及せず
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/8f89fd30c5862b49cdc4418339ccd20e692aa2cea3a85112195b8703e6275d9e.jpg> 独軍 第2次大戦後初の外国駐留
+      <a href=https://news.yahoo.co.jp/pickup/6539808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b5c61d0f6f8ebd875b69d3d1f827b3db82e6ea830ae7be3256c7ae1fc0b24b14.jpg> 米大統領がUSS買収承認と関係者
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539802>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/17fc86cc42f24c3bab09a603a72615900d3422db813b4e0708c2b0655526def3.jpg> ハーバード大 留学生巡り政権提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/8f89fd30c5862b49cdc4418339ccd20e692aa2cea3a85112195b8703e6275d9e.jpg> 独軍 第2次大戦後初の外国駐留
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/80770561941f19008b6dcfcbcf9ea0858b29ef4804591793d6dce1a7d541b605.jpg> DQ3 ラリホー強すぎ問題にメス
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 06:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 06:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
