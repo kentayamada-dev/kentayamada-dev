@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20d31569123cee6993279305f82a4ef1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/989e6ee1012ac39dfee1d3f18a783d61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/640df8f1a9589b668c95c8775ad56698259687b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07769992-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博 P＆R（パーク＆ライド）料金を午後3時から半額に 当日予約も可能に
+      <a href=https://news.yahoo.co.jp/articles/30b03d5140582b7a9df6226edd8d137b641964bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000085-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 下村元文科相の参考人招致を議決　衆院予算委、自民党派閥裏金事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ea1ca2d45e22ec523f9512271e74f8da110e7b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=1558&ch=1558&exp=10800&fmt=webp> 南ア国民、トランプ氏の「白人ジェノサイド」主張に激怒
+      <a href=https://news.yahoo.co.jp/articles/640df8f1a9589b668c95c8775ad56698259687b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07769992-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博 P＆R（パーク＆ライド）料金を午後3時から半額程度に　当日予約も可能に
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fccbc6c7b2da648e317bd471831df9b904c41934>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976087-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 全日空機が工事区間に誤進入　機体の一部損傷し乗客乗員1時間半降りられず「急ブレーキがかかり止まった」広島空港
+      <a href=https://news.yahoo.co.jp/articles/f2da82a54b2c5a8038fd093f51f6fb7a1b887645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000020-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 自衛隊機墜落事故で隊員2人の死亡を発表　防衛省 事故原因の調査続く
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/40adba5b1d7a668caa47da6d326ed3ee1bac98f2987e57805ed46dc49d6f3766.jpg> 造船業再生 ドック建設など国支援
+      <a href=https://news.yahoo.co.jp/pickup/6539718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e50a43e13dc4dcc5a90e8523706841f085b2f7f67924165ca20f90d992215a59.jpg> 「白人迫害」映像は無関係と判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/97df5f179a0129804f4782262a568a31bcc8b6127ffc5511ba1f8672c90e5174.jpg> 山手線が運転再開 本数減らし運行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6230ee87278489c1ee98dd6ec20c6fbf12d8cc06b947617f231dd0ff2d314995.jpg> 信金不正 架空融資相次ぎ取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6539719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f04ea00a53487097628fb51012d9ee5b9155d870d2ace4ded300a6af6cecfd1e.jpg> 農相 備蓄米5kg2000円台目指す
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539715>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b41ef0cab88d959e8836e51f72fc140814ee7e6c83f064b78fb7df0088a66151.jpg> JR津田沼駅の再開発 一時中断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7e7cd53c78b70c59e8879d24790db1fbd9db82d6394aaf13d94ab5a5cb6040c3.jpg> リアリティー番組出て中傷 心に穴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 10:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 10:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
