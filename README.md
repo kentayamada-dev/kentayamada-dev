@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1d8deadf2a0db02f7fe680099295935.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb2f92dcc9d90b14e243a28fcc8def01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028596746d519fbef0bf0ea1848b6e1c2245329f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976628-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の店頭価格5kg2000円に　小泉農水相 ネット販売協力要請も
+      <a href=https://news.yahoo.co.jp/articles/3c1a7fecb41d03e951a28c32344a5813203371ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-90025609-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「反ユダヤ　共産党が侵入」トランプ政権の執拗な攻撃　ハーバード大学“留学停止”　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5e93ca88097b4e2298ac355b63f61769d3f10a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 外国人留学生の受け入れ資格取り消し　憲法違反として提訴　ハーバード大学
+      <a href=https://news.yahoo.co.jp/articles/028596746d519fbef0bf0ea1848b6e1c2245329f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976628-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の店頭価格5kg2000円に　小泉農水相 ネット販売協力要請も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 00:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 01:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
