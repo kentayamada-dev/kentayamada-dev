@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15770e3b0b05c95905b4090d773a97d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61b0f3222bbd78e8bdfc6e6d15aab933.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/002ab51ccfe38d9297650a5f33921e1e85b6d15e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> モドリッチがレアル退団　スペイン・サッカー
+      <a href=https://news.yahoo.co.jp/articles/c5bf5404db94a18cd04ad0aeb664bdb9ca7da48c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 山手線外回りも運転再開　本数は大幅に減らす　ダイヤに大きな乱れ　JR東日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97bfdfcd34e3df54be47f4ef57e1f5cc73906eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000119-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表「そもそも『コメは余っている』のではなく、『コメは不足』しているとの認識が必要だ」
+      <a href=https://news.yahoo.co.jp/articles/0bc9058fff23c778c5e2d737eab6cacb69dd8786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230144-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=518&ch=518&exp=10800&fmt=webp> 「問題はそこじゃない」「政局より未来を優先して」三崎優太氏　江藤拓農相更迭は当然
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/046f7d1a62cb24b2be5eeca31b3e6dce16eeeb3b513cff0bbb50db180631342f.jpg> 山手線外回り 9時頃に再開見込み
+      <a href=https://news.yahoo.co.jp/pickup/6539703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/40adba5b1d7a668caa47da6d326ed3ee1bac98f2987e57805ed46dc49d6f3766.jpg> 造船業再生 ドック建設など国支援
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/97df5f179a0129804f4782262a568a31bcc8b6127ffc5511ba1f8672c90e5174.jpg> 山手線が運転再開 本数減らし運行
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f6198ba8d66330006b6b9b87ca053b4b97d0ce56d58257742329ac0bcdefe7f5.jpg> トラックなど5台絡む事故 1人重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bd7c9160a1f8ceafcbff0b61c5c1ba60f87145ee7f50e6d1326ed2551df0a23e.jpg> 万博パーク&ライド 割引の方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/99a48c09a91ef59e5da0ead543f19c94e8c89bbe3f12ca5d256ffc43d902db5c.jpg> 英語キャンプトラブル 元職員の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/553b3729f90471c0453c70f4721c1d447ac8c0e70fc53adaa75bf04d2148f26b.jpg> 23歳ココイチFC社長 友達減った
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ae2441e0c3223eb8397ad2c529231565f820ee6e678fb6f12def95f38ceeffaf.jpg> 吉田正尚が60日間のILへ移行
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ae39b423fa500b574e96c90b3038cf2866ac16672caf2c7a8cf2cce224324740.jpg> かつて「鬼嫁キャラ」カイヤの今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 08:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 09:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
