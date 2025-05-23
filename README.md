@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83afc7c42e3c2f46f218a5dcc680c400.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bdc15e2cfc9ffd4ca22757fa10293db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3740f8dab58dd5a6b84cef3356d8ab1aed986df5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000009-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 横綱へ大きく前進！海洋高校出身・大の里が優勝決めた！糸魚川も大歓声【新潟】
+      <a href=https://news.yahoo.co.jp/articles/052eaf590e44671622a241151f06912b88dedeba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-06552569-knb-000-2-thumb.jpg?exp=10800&fmt=webp> 自己破産のユニオン・ランチ　従業員に対応説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c8f2a9c35d1ff803a9f56b20ce79a1b92fafb66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238521-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉農水大臣の備蓄米“6月上旬には5キロあたり2000円台”の目標に…街の声「可能だったらやってほしい。買い物も楽になる」
+      <a href=https://news.yahoo.co.jp/articles/99b5c3a14649c45bee360103df36632946092822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933877-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「早ければ6月頭に2000円台」小泉農水大臣の“備蓄米改革” 今後どのように安くなっていくのか?透明性の確保も課題
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/487f156473404aa5ef7b9ce4b013782b9b8328240c2d65fa53a626fed5b42262.jpg> 基礎年金底上げ 与党受け入れ検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539775>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3834e13680925ce47c33acf7dba1027678d8b45d332542ffbe9d89fcd709b0b2.jpg> 羽田滑走路1本を閉鎖 対岸で火災
       </a>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4112462a49d95e9d9528e08e5743584c9e14ef321a3b8c89543d45e4a2963d9f.jpg> 催涙スプレーか 40人超に痛みなど
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0d16fe21107c305a8411e717b23384b523f7a7bc0a59675108855c5098ca7ba0.jpg> 外免切替厳格化へ 外国人駆け込み
+      <a href=https://news.yahoo.co.jp/pickup/6539778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/553b3729f90471c0453c70f4721c1d447ac8c0e70fc53adaa75bf04d2148f26b.jpg> 23歳ココイチFC社長 友達減った
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539776>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e78f8bf43adac8c274abfbc38e853d54932ff301979f21e5c328acc5e26521bc.jpg> 駅伝部集団転校 唯一残った3年生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e7857523c76907636ad406bde3f8091fa62c5aa8b67bc2bd69f7552f05ab4dc3.jpg> DJ KOO体調不良 安静必要と診断
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 19:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 20:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
