@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e183dfb7f03262ad8e1e74472587475d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4bff4e94bd0fd61c84648522770c9288.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86aecef789f8227ce193115adc654dd52c9b8482>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000449-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=745&ch=745&exp=10800&fmt=webp> 佐藤栞里、初の出演映画舞台あいさつで感動の涙　主演・寺尾聰の言葉に感銘「すごく希望をもらった」
+      <a href=https://news.yahoo.co.jp/articles/89b931bffe194ae6a908b857aa4832d3099735ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933160-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 誘導路で走行不能の全日空機　損傷したタイヤを交換　着陸後工事区間に誤進入し停止　広島空港
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba77702c1ed6b221ad95492aec294de990b84ca7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976274-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ガラスがバーンと」頭に破片が刺さる　列車の窓が割れ…乗客3人死傷　事故直後の緊迫の様子「ドクター、看護師が心臓マッサージ」けがを負った男性が語る　走行中に小屋が衝突
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd0d22019b3591919e9b7ca9547feab36e43a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000001-hometvv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ANA機　工事現場に誤進入　広島空港ほぼ通常通り運航
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539747>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1fe781a61fa7e8ca7dfe5554e7277256038fe3f9e14a59aa1f7e373194fbac63.jpg> ハーバード大留学生問題 林氏注視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4dde4b4193392aea6552675a830c963a7ff978c30b8357d7b2f060737826b308.jpg> 列車で3人死傷 小屋衝突時の緊迫
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5c6c9a8fa8f1226705ab9623e9d41bedacf032eac18b5b26243c503b487b988b.jpg> 映画コナン 後付け映像を30日追加
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 16:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 16:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
