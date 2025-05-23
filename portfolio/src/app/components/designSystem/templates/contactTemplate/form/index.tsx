@@ -182,25 +182,23 @@ const Form: FormType = (props) => {
         rows={4}
         {...register('message')}
       />
-      <div className='mb-10'>
-        <div className='text-secondary mb-3 text-sm'>
-          This site is protected by reCAPTCHA and the Google&nbsp;
-          <Link className='text-blue-500' href='https://policies.google.com/privacy'>
-            Privacy Policy
-          </Link>
-          &nbsp;and&nbsp;
-          <Link className='text-blue-500' href='https://policies.google.com/terms'>
-            Terms of Service
-          </Link>
-          &nbsp;apply.
-        </div>
-        <input
-          className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
-          disabled={isPending}
-          type='submit'
-        />
-        {state.errors?.formErrors ? <p className='mt-2 flex justify-center text-red-600'>{dict.form.recaptchaError}</p> : null}
+      <div className='text-secondary mb-3 text-sm'>
+        This site is protected by reCAPTCHA and the Google&nbsp;
+        <Link className='text-blue-500' href='https://policies.google.com/privacy'>
+          Privacy Policy
+        </Link>
+        &nbsp;and&nbsp;
+        <Link className='text-blue-500' href='https://policies.google.com/terms'>
+          Terms of Service
+        </Link>
+        &nbsp;apply.
       </div>
+      <input
+        className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
+        disabled={isPending}
+        type='submit'
+      />
+      {state.errors?.formErrors ? <p className='mt-2 flex justify-center text-red-600'>{dict.form.recaptchaError}</p> : null}
     </form>
   );
 };

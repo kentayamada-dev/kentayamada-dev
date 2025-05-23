@@ -1,5 +1,4 @@
 import { StorybookConfig } from '@storybook/nextjs';
-import { envClient } from '../src/app/constants/env';
 
 const config: StorybookConfig = {
   stories: ['../src/app/components/**/index.stories.tsx'],
@@ -16,11 +15,9 @@ const config: StorybookConfig = {
   ],
   framework: '@storybook/nextjs',
   env: (config) => {
-    const { NEXT_PUBLIC_IS_PRODUCTION, ...clientEnv } = envClient;
-
     return {
       ...config,
-      ...clientEnv
+      NEXT_PUBLIC_RECAPTCHA_SITE_KEY: 'NEXT_PUBLIC_RECAPTCHA_SITE_KEY'
     };
   },
   core: {

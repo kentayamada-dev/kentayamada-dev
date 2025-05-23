@@ -7,7 +7,6 @@ export { InputWithCombobox } from './inputWithCombobox';
 export type { InputWithComboboxProps } from './inputWithCombobox/types';
 export { ListItem } from './listItem';
 export type { ListItemProps } from './listItem/types';
-export { Logo } from './logo';
 export { NotFoundAnimation } from './notFoundAnimation';
 export { TextArea } from './textArea';
 export { YoutubeEmbed } from './youtubeEmbed';

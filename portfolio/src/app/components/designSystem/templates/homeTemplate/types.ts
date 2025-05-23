@@ -1,17 +1,13 @@
-import type { CareerListProps } from '@/components/designSystem/molecules';
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ComponentType, StrictOmitType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
+import type { IntroProps } from './intro/types';
 
-type HomeTemplateProps = StrictOmitType<CareerListProps, 'labels'> & {
+type HomeTemplateProps = IntroProps & {
   coverImage: {
     title: string;
     url: string;
   };
   locale: LocaleKeyType;
-  title: {
-    main: string;
-    sub: string;
-  };
 };
 
 type HomeTemplateType = ComponentType<HomeTemplateProps>;

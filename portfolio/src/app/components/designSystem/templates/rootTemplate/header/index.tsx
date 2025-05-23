@@ -1,6 +1,5 @@
 import Link from 'next/link';
-import { Logo } from '@/components/designSystem/atoms';
-import { GithubIcon, StorybookIcon } from '@/components/icons';
+import { GithubIcon, KyIcon, StorybookIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { LocaleSwitcherWrapper } from './localeSwitcherWrapper';
 import { NavItemsWrapper } from './navItemsWrapper';
@@ -12,11 +11,11 @@ const Header: HeaderType = (props) => {
   const { githubLinkLabel, homeLinkLabel, storybookLinkLabel } = dictionaries[props.locale].labels;
 
   return (
-    <header className='border-primary sticky top-0 z-10 flex justify-between border-b bg-white/75 px-4 py-4 backdrop-blur-sm md:px-8 dark:bg-slate-900/75'>
+    <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-4 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
       <span className='flex items-center'>
         <SidePanelWrapper author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} locale={props.locale} />
-        <Link aria-label={homeLinkLabel} className='text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
-          <Logo isJapanese={props.locale === 'ja'} />
+        <Link aria-label={homeLinkLabel} className='w-10 text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
+          <KyIcon />
         </Link>
       </span>
       <span className='flex space-x-4 space-x-reverse md:space-x-4'>

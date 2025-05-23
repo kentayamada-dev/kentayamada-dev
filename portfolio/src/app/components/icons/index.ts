@@ -9,6 +9,7 @@ export { ForksIcon } from './forksIcon';
 export { GithubIcon } from './githubIcon';
 export { HomeIcon } from './homeIcon';
 export { JapanFlagIcon } from './japanFlagIcon';
+export { KyIcon } from './kyIcon';
 export { LinkIcon } from './linkIcon';
 export { MinusIcon } from './minusIcon';
 export { MoonIcon } from './moonIcon';

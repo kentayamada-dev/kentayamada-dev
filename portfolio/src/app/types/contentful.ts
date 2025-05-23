@@ -17,6 +17,7 @@ type AboutType = {
     title: string;
     url: string;
   };
+  paragraph: string;
   subtitle: string;
   title: string;
 };
@@ -58,17 +59,6 @@ type FaqsType = {
   question: string;
 }[];
 
-type CareersType = {
-  endDate: string;
-  logo: {
-    title: string;
-    url: string;
-  };
-  organization: string;
-  role: string;
-  startDate: string;
-}[];
-
 type ArticlesType = {
   coverImage: {
     title: string;
@@ -93,12 +83,6 @@ type UtilitiesType = {
 type FaqsResponseType = {
   faqCollection: {
     items: FaqsType;
-  };
-};
-
-type CareersResponseType = {
-  careerCollection: {
-    items: CareersType;
   };
 };
 
@@ -211,8 +195,6 @@ export type {
   ArticleType,
   ArticlesResponseType,
   ArticlesType,
-  CareersResponseType,
-  CareersType,
   ContactResponseType,
   ContactType,
   FaqsResponseType,

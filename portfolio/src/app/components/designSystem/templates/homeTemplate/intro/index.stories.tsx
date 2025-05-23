@@ -1,22 +1,24 @@
-import { Logo } from '.';
+import { Intro } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
   args: {
-    isJapanese: true
+    paragraph: 'Paragraph',
+    subtitle: 'Subtitle',
+    title: 'Title'
   },
-  component: Logo,
+  component: Intro,
   decorators: [
     (Story): JSXElementType => {
       return (
-        <div className='text-black dark:text-white'>
+        <div className='flex min-h-screen flex-col'>
           <Story />
         </div>
       );
     }
   ]
-} satisfies Meta<typeof Logo>;
+} satisfies Meta<typeof Intro>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

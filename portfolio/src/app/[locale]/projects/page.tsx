@@ -4,26 +4,31 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getMetadata, getProjects } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
+import { throwColoredError } from '@/utils';
 import type { ProjectsListProps } from '@/components/designSystem/molecules';
-import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
+import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(locale, contentfulType.metadata.projects);
+  const metadata = await getMetadata(locale, contentfulType.metadata.projects);
+
+  if (metadata === null) {
+    return throwColoredError(`metadata <${contentfulType.metadata.projects}> is empty`, 'red');
+  }
 
   return getMetadataObject(
     'website',
     navigationItems.projects.href,
     locale,
-    description,
-    title,
-    { alt: coverImage.title, url: coverImage.url },
-    new Date(sys.publishedAt),
-    new Date(sys.firstPublishedAt)
+    metadata.description,
+    metadata.title,
+    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
   );
 };
 
-const Page: ArticlesPageType = async (props) => {
+const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const title = dictionaries[locale].projects;
 

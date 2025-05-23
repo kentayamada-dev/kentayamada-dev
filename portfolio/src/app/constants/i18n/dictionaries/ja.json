@@ -13,13 +13,6 @@
     "githubLinkLabel": "GitHubを開く",
     "homeLinkLabel": "ホームへ行く"
   },
-  "about": {
-    "career": "経歴",
-    "present": "現在",
-    "organization": "会社名",
-    "role": "役職",
-    "period": "期間"
-  },
   "articles": {
     "toc": "目次",
     "latest": "最新記事",

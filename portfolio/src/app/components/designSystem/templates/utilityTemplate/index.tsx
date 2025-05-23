@@ -5,8 +5,8 @@ import type { UtilityTemplateType } from './types';
 
 const UtilityTemplate: UtilityTemplateType = (props) => {
   return (
-    <main className='my-10 w-full self-center px-5 sm:px-10 md:max-w-4xl'>
-      <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-5xl'>{props.title}</h1>
+    <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
+      <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{props.title}</h1>
       <Calculator locale={props.locale} />
       <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>
         <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{props.faqLabel}</h2>

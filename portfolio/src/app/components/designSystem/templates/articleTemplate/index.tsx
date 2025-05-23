@@ -14,7 +14,7 @@ const ArticleTemplate: ArticleTemplateType = (props) => {
         updatedAt={props.updatedAt}
       />
       <div className='mt-20 w-full px-5 sm:px-0'>
-        <h2 className='text-primary mb-8 text-2xl font-extrabold sm:text-4xl'>{props.articlesListTitle}</h2>
+        <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{props.articlesListTitle}</h2>
         <ArticlesList articles={props.articles} articlesHref={props.articlesHref} locale={props.locale} />
       </div>
     </main>

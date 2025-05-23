@@ -1,3 +1,4 @@
+import { notFound } from 'next/navigation';
 import rehypeKatex from 'rehype-katex';
 import rehypePrettyCode from 'rehype-pretty-code';
 import rehypeReact from 'rehype-react';
@@ -13,7 +14,8 @@ import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type { ArticleGenerateMetadataType, ArticlePageType, UtilityGenerateStaticParamsType } from '@/types/components';
+import { throwColoredError } from '@/utils';
+import type { UtilityGenerateMetadataType, UtilityGenerateStaticParamsType, UtilityPageType } from '@/types/components';
 
 const generateStaticParams: UtilityGenerateStaticParamsType = async () => {
   const utilitySlugs = await getUtilitySlugs();
@@ -25,26 +27,34 @@ const generateStaticParams: UtilityGenerateStaticParamsType = async () => {
   });
 };
 
-const generateMetadata: ArticleGenerateMetadataType = async (props) => {
-  const { articleId, locale } = await props.params;
-  const { coverImage, subtitle, sys, title } = await getUtilityBySlug(locale, articleId);
+const generateMetadata: UtilityGenerateMetadataType = async (props) => {
+  const { locale, utilityId } = await props.params;
+  const utility = await getUtilityBySlug(locale, utilityId);
+
+  if (utility === null) {
+    return throwColoredError(`utility <${utilityId}> is empty`, 'red');
+  }
 
   return getMetadataObject(
     'website',
-    `${navigationItems.articles.href}/${articleId}`,
+    `${navigationItems.articles.href}/${utilityId}`,
     locale,
-    subtitle,
-    title,
-    { alt: coverImage.title, url: coverImage.url },
-    new Date(sys.publishedAt),
-    new Date(sys.firstPublishedAt)
+    utility.subtitle,
+    utility.title,
+    { alt: utility.coverImage.title, url: utility.coverImage.url },
+    new Date(utility.sys.publishedAt),
+    new Date(utility.sys.firstPublishedAt)
   );
 };
 
-const Page: ArticlePageType = async (props) => {
-  const { articleId, locale } = await props.params;
-  const { sys, title } = await getUtilityBySlug(locale, articleId);
+const Page: UtilityPageType = async (props) => {
+  const { locale, utilityId } = await props.params;
+  const utility = await getUtilityBySlug(locale, utilityId);
   const faqLabel = dictionaries[locale].faq;
+
+  if (utility === null) {
+    return notFound();
+  }
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const faqs = await Promise.all(
@@ -67,7 +77,7 @@ const Page: ArticlePageType = async (props) => {
   );
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
-  return <UtilityTemplate faqLabel={faqLabel} faqs={faqs} locale={locale} publishedAt={new Date(sys.publishedAt)} title={title} />;
+  return <UtilityTemplate faqLabel={faqLabel} faqs={faqs} locale={locale} publishedAt={new Date(utility.sys.publishedAt)} title={utility.title} />;
 };
 
 export { Page as default, generateMetadata, generateStaticParams };

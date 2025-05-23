@@ -39,6 +39,7 @@
   svg {
     stroke-width: 2;
     stroke-linecap: round;
+    stroke-linejoin: round;
   }
   *:focus {
     @apply outline-blue-500! focus-visible:outline-2!;

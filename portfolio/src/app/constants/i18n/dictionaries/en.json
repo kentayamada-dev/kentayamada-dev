@@ -13,13 +13,6 @@
     "githubLinkLabel": "Open GitHub",
     "homeLinkLabel": "Go to Home"
   },
-  "about": {
-    "career": "Career",
-    "present": "Present",
-    "organization": "Organization",
-    "role": "Role",
-    "period": "Period"
-  },
   "articles": {
     "toc": "Table of Contents",
     "latest": "Latest",

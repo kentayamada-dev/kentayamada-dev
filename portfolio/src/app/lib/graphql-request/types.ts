@@ -4,7 +4,6 @@ import type {
   AboutType,
   ArticleType,
   ArticlesType,
-  CareersType,
   ContactType,
   FaqsType,
   MetadataType,
@@ -27,21 +26,19 @@ type GetSitemapType = GetContentType<SitemapType>;
 
 type GetProjectsType = GetContentType<ProjectItemsType>;
 
-type GetContactType = GetContentByLocaleType<ContactType>;
+type GetContactType = GetContentByLocaleType<ContactType | null>;
 
 type GetArticlesType = GetContentByLocaleType<ArticlesType>;
 
-type GetCareersType = GetContentByLocaleType<CareersType>;
-
 type GetUtilitiesType = GetContentByLocaleType<UtilitiesType>;
 
-type GetAboutType = GetContentByLocaleType<AboutType>;
+type GetAboutType = GetContentByLocaleType<AboutType | null>;
 
-type GetMetadataType = GetContentBySlugType<MetadataType>;
+type GetMetadataType = GetContentBySlugType<MetadataType | null>;
 
-type GetArticleBySlugType = GetContentBySlugType<ArticleType>;
+type GetArticleBySlugType = GetContentBySlugType<ArticleType | null>;
 
-type GetUtilityBySlugType = GetContentBySlugType<UtilityType>;
+type GetUtilityBySlugType = GetContentBySlugType<UtilityType | null>;
 
 type GetFaqsType = GetContentBySlugType<FaqsType>;
 
@@ -49,7 +46,6 @@ export type {
   GetAboutType,
   GetArticleBySlugType,
   GetArticlesType,
-  GetCareersType,
   GetContactType,
   GetFaqsType,
   GetMetadataType,

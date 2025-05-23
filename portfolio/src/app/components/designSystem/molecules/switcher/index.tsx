@@ -27,7 +27,7 @@ const Switcher: SwitcherType = (props) => {
                   const { focus, selected } = args;
 
                   return (
-                    <div className={`${focus && 'bg-slate-100 dark:bg-slate-600/30'} cursor-pointer px-6 py-2`}>
+                    <div className={`${focus && 'bg-slate-100 dark:bg-slate-600/30'} cursor-pointer px-6 py-2 text-sm sm:text-base`}>
                       <ListItem icon={icon} isActive={selected} title={name} />
                     </div>
                   );

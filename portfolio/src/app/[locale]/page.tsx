@@ -1,56 +1,50 @@
+import { notFound } from 'next/navigation';
 import { HomeTemplate } from '@/components/designSystem/templates';
 import { contentfulType } from '@/constants/contentful';
-import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getAbout, getCareers, getMetadata } from '@/lib/graphql-request';
+import { getAbout, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import type { CareerListProps } from '@/components/designSystem/molecules';
-import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
+import { throwColoredError } from '@/utils';
+import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(locale, contentfulType.metadata.kentaYamada);
+  const metadata = await getMetadata(locale, contentfulType.metadata.kentaYamada);
+
+  if (metadata === null) {
+    return throwColoredError(`metadata <${contentfulType.metadata.kentaYamada}> is empty`, 'red');
+  }
 
   return getMetadataObject(
     'profile',
     navigationItems.home.href,
     locale,
-    description,
-    title,
-    { alt: coverImage.title, url: coverImage.url },
-    new Date(sys.publishedAt),
-    new Date(sys.firstPublishedAt)
+    metadata.description,
+    metadata.title,
+    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
   );
 };
 
-const Page: ArticlesPageType = async (props) => {
+const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const { coverImage, subtitle, title } = await getAbout(locale);
-  const aboutDict = dictionaries[locale].about;
+  const about = await getAbout(locale);
 
-  const careers: CareerListProps['careers'] = (await getCareers(locale)).map((career) => {
-    return {
-      endDate: new Date(career.endDate),
-      logo: career.logo,
-      organization: career.organization,
-      role: career.role,
-      startDate: new Date(career.startDate)
-    };
-  });
+  if (about === null) {
+    return notFound();
+  }
 
   return (
     <HomeTemplate
-      careerListTitle={aboutDict.career}
-      careers={careers}
       coverImage={{
-        title: coverImage.title,
-        url: coverImage.url
+        title: about.coverImage.title,
+        url: about.coverImage.url
       }}
       locale={locale}
-      title={{
-        main: title,
-        sub: subtitle
-      }}
+      paragraph={about.paragraph}
+      subtitle={about.subtitle}
+      title={about.title}
     />
   );
 };

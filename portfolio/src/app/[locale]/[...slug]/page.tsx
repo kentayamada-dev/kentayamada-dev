@@ -2,15 +2,20 @@ import { notFound } from 'next/navigation';
 import { contentfulType } from '@/constants/contentful';
 import { getMetadata } from '@/lib/graphql-request';
 import { getNotFoundMetadataObject } from '@/lib/nextjs';
+import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const { coverImage, description, title } = await getMetadata(locale, contentfulType.metadata.pageNotFound);
+  const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
 
-  return getNotFoundMetadataObject(locale, description, title, {
-    alt: coverImage.title,
-    url: coverImage.url
+  if (metadata === null) {
+    return throwColoredError(`metadata <${contentfulType.metadata.pageNotFound}> is null`, 'red');
+  }
+
+  return getNotFoundMetadataObject(locale, metadata.description, metadata.title, {
+    alt: metadata.coverImage.title,
+    url: metadata.coverImage.url
   });
 };
 

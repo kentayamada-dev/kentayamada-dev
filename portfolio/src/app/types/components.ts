@@ -54,25 +54,33 @@ type ArticlePageProps = {
   params: Promise<LayoutGenerateStaticParams & ArticleGenerateStaticParams>;
 };
 
+type UtilityPageProps = {
+  params: Promise<LayoutGenerateStaticParams & UtilityGenerateStaticParams>;
+};
+
 type NextLayoutProps = PageProps & ConditionalPickType<PropsWithChildren, 'children'>;
 
 type ComponentType<P = object> = (props: DeepReadonlyType<P>) => JSXElementType;
 
 type AsyncMetadataComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncMetadataType;
 
-type AsyncArticlePageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
+type AsyncPageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
 
 type GenerateMetadataType = AsyncMetadataComponentType<PageProps>;
 
-type ArticlePageType = AsyncArticlePageComponentType<ArticlePageProps>;
+type ArticlePageType = AsyncPageComponentType<ArticlePageProps>;
 
-type ArticlesPageType = AsyncArticlePageComponentType<PageProps>;
+type UtilityPageType = AsyncPageComponentType<UtilityPageProps>;
 
-type LayoutPageType = AsyncArticlePageComponentType<NextLayoutProps>;
+type PageType = AsyncPageComponentType<PageProps>;
 
-type NotFoundPageType = AsyncArticlePageComponentType;
+type LayoutPageType = AsyncPageComponentType<NextLayoutProps>;
+
+type NotFoundPageType = AsyncPageComponentType;
 
 type ArticleGenerateMetadataType = AsyncMetadataComponentType<ArticlePageProps>;
+
+type UtilityGenerateMetadataType = AsyncMetadataComponentType<UtilityPageProps>;
 
 type LayoutGenerateStaticParamsType = () => LayoutGenerateStaticParams[];
 
@@ -84,7 +92,6 @@ export type {
   ArticleGenerateMetadataType,
   ArticleGenerateStaticParamsType,
   ArticlePageType,
-  ArticlesPageType,
   ComponentType,
   ConditionalPickType,
   DeepReadonlyType,
@@ -95,7 +102,10 @@ export type {
   LayoutPageType,
   NextLayoutProps,
   NotFoundPageType,
+  PageType,
   RequiredCallbackType,
   StrictOmitType,
-  UtilityGenerateStaticParamsType
+  UtilityGenerateMetadataType,
+  UtilityGenerateStaticParamsType,
+  UtilityPageType
 };

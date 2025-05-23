@@ -4,25 +4,30 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
+import { throwColoredError } from '@/utils';
+import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const { coverImage, description, sys, title } = await getMetadata(locale, contentfulType.metadata.articles);
+  const metadata = await getMetadata(locale, contentfulType.metadata.articles);
+
+  if (metadata === null) {
+    return throwColoredError(`metadata <${contentfulType.metadata.articles}> is empty`, 'red');
+  }
 
   return getMetadataObject(
     'website',
     navigationItems.articles.href,
     locale,
-    description,
-    title,
-    { alt: coverImage.title, url: coverImage.url },
-    new Date(sys.publishedAt),
-    new Date(sys.firstPublishedAt)
+    metadata.description,
+    metadata.title,
+    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
   );
 };
 
-const Page: ArticlesPageType = async (props) => {
+const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const title = dictionaries[locale].articles.latest;
   const articlesHref = `/${locale}/${navigationItems.articles.href}`;

@@ -1,12 +1,10 @@
 import { gql } from 'graphql-request';
-import { throwColoredError } from '@/utils';
 import { apiRequest } from './client';
 import type {
   AboutResponseType,
   ArticleResponseType,
   ArticleSlugsResponseType,
   ArticlesResponseType,
-  CareersResponseType,
   ContactResponseType,
   FaqsResponseType,
   MetadataResponseType,
@@ -22,7 +20,6 @@ import type {
   GetAboutType,
   GetArticleBySlugType,
   GetArticlesType,
-  GetCareersType,
   GetContactType,
   GetFaqsType,
   GetMetadataType,
@@ -165,7 +162,7 @@ const getMetadata: GetMetadataType = async (locale, id) => {
   ).metaDataCollection.items;
 
   if (!metadata) {
-    return throwColoredError('metadata is empty', 'red');
+    return null;
   }
 
   return metadata;
@@ -201,34 +198,6 @@ const getArticles: GetArticlesType = async (locale) => {
   return articles;
 };
 
-const getCareers: GetCareersType = async (locale) => {
-  const query = gql`
-    query Query($order: [CareerOrder]!, $locale: String!) {
-      careerCollection(order: $order, locale: $locale) {
-        items {
-          startDate
-          role
-          organization
-          endDate
-          logo {
-            url
-            title
-          }
-        }
-      }
-    }
-  `;
-
-  const careers = (
-    await apiRequest<CareersResponseType>('contentful', query, {
-      locale,
-      order: 'startDate_DESC'
-    })
-  ).careerCollection.items;
-
-  return careers;
-};
-
 const getContact: GetContactType = async (locale) => {
   const query = gql`
     query Query($locale: String!) {
@@ -248,7 +217,7 @@ const getContact: GetContactType = async (locale) => {
   ).contactCollection.items;
 
   if (!contact) {
-    return throwColoredError('contact is empty', 'red');
+    return null;
   }
 
   return contact;
@@ -295,6 +264,7 @@ const getAbout: GetAboutType = async (locale) => {
           }
           title
           subtitle
+          paragraph
         }
       }
     }
@@ -307,7 +277,7 @@ const getAbout: GetAboutType = async (locale) => {
   ).aboutCollection.items;
 
   if (!about) {
-    return throwColoredError('about is empty', 'red');
+    return null;
   }
 
   return about;
@@ -344,7 +314,7 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   ).articleCollection.items;
 
   if (!article) {
-    return throwColoredError('article is empty', 'red');
+    return null;
   }
 
   return article;
@@ -381,7 +351,7 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   ).utilityCollection.items;
 
   if (!utility) {
-    return throwColoredError('utility is empty', 'red');
+    return null;
   }
 
   return utility;
@@ -418,7 +388,6 @@ export {
   getArticleBySlug,
   getArticleSlugs,
   getArticles,
-  getCareers,
   getContact,
   getFaqs,
   getMetadata,
