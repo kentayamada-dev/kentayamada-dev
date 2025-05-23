@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61b0f3222bbd78e8bdfc6e6d15aab933.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0bf9b3191991c461ba1db9ebe668aa50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5bf5404db94a18cd04ad0aeb664bdb9ca7da48c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 山手線外回りも運転再開　本数は大幅に減らす　ダイヤに大きな乱れ　JR東日本
+      <a href=https://news.yahoo.co.jp/articles/15c97a43106ee0cbdfc225f63deb0da6250e3cf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 橋下徹「僕は第三者委が中居さんへの人権侵害の可能性大と。ヒアリングをやり直せ、と思います」…フジの調査報告書、何が起きていたのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bc9058fff23c778c5e2d737eab6cacb69dd8786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230144-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=518&ch=518&exp=10800&fmt=webp> 「問題はそこじゃない」「政局より未来を優先して」三崎優太氏　江藤拓農相更迭は当然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ea41f1abee1767fd432b9ff87ec5e1ead15052f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230084-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> フジ第三者委の中居正広氏の性暴力認定「適切でも手続的正義に反する場合もあり…」紀藤正樹氏
+      <a href=https://news.yahoo.co.jp/articles/49b89936adfc8ccc91d7844e73efbf9cd5fef14c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010001-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=928&ch=928&exp=10800&fmt=webp> ハーバード大学「留学生の受け入れ維持する」　トランプ政権の”受け入れ停止”声明に反発
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bdbf20b74e21e258c0477851946fa067437664d147886d0cc309af96737a9a05.jpg> 赤沢氏 30日軸に米財務長官と協議
+      <a href=https://news.yahoo.co.jp/pickup/6539703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/40adba5b1d7a668caa47da6d326ed3ee1bac98f2987e57805ed46dc49d6f3766.jpg> 造船業再生 ドック建設など国支援
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/40adba5b1d7a668caa47da6d326ed3ee1bac98f2987e57805ed46dc49d6f3766.jpg> 造船業再生 ドック建設など国支援
+      <a href=https://news.yahoo.co.jp/pickup/6539705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6230ee87278489c1ee98dd6ec20c6fbf12d8cc06b947617f231dd0ff2d314995.jpg> 信金不正 架空融資相次ぎ取り消し
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ec63a67a4ae35053b998f8b974899fbacb4cbcbf94292f561dc56e0a51c9ec32.jpg> ハーバード大の留学受け入れ禁止
+      <a href=https://news.yahoo.co.jp/pickup/6539712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c70d33368f4209ffd16b79f05cdb56b8988627f43ab01ec835e5f87879836761.jpg> ハーバード大 米政権の声明に反発
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ae2441e0c3223eb8397ad2c529231565f820ee6e678fb6f12def95f38ceeffaf.jpg> 吉田正尚が60日間のILへ移行
+      <a href=https://news.yahoo.co.jp/pickup/6539713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/2ded5e106450f1001af8ac96da71f0311f1c99d157acbe63997a1e284c7b9441.jpg> ベーグル専門店各地に続々 なぜ今
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ed9b2c7e49f9e7a7ec1a31ba2d6184773d58faa4f4441a6d1930370cda952e6e.jpg> モドリッチ Rマドリード退団へ
+      <a href=https://news.yahoo.co.jp/pickup/6539708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/ae2441e0c3223eb8397ad2c529231565f820ee6e678fb6f12def95f38ceeffaf.jpg> 吉田正尚が60日間のILへ移行
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 09:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 09:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
