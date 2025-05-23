@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a6deb9c2589d091356ca8ae1e0d9b67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51e3cfa2764a6807e39f4212a3d9b187.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89b931bffe194ae6a908b857aa4832d3099735ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933160-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 誘導路で走行不能の全日空機　損傷したタイヤを交換　着陸後工事区間に誤進入し停止　広島空港
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25eeb0f5e9b61b3ce2371d0dbbf354dd44297d8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230911-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=335&ch=335&exp=10800&fmt=webp> 【日本代表】佐野海舟が声明「ご迷惑をかけてしまった事、大変申し訳ございませんでした」と謝罪
+      <a href=https://news.yahoo.co.jp/articles/ab7f7b556f256e766171afa9f0f2ea60157bb4ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000467-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=407&ch=407&exp=10800&fmt=webp> 万博、自家用車→バス乗り換えの「P＆R駐車場」4つの新ルール発表　午前帯に“特典”【一覧】
       </a>
     </td>
   </tr>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4f140f69db90eb70b6fb516a6da03fc7d40aa4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010013-yomosaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=357&ch=357&exp=10800&fmt=webp> 万博のパーク＆ライド割引、午後3時以降は半額以下に…当日予約も
+      <a href=https://news.yahoo.co.jp/articles/258958722c0d75747e3e252d1fccd7b0a35eb5ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-10179857-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=537&ch=537&exp=10800&fmt=webp> 自民派閥裏金 下村氏の参考人招致を議決 27日にも実施の見通し
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b730151ad67354037693c0b4ad2e20aa5e267d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000035-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領－石破首相、４５分間の電話会談…関税など懸案を協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cdda1bcf13882c460deaa47e017d07bcd6a290a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000012-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パンサー尾形＆狩野英孝、秘湯発見もマイナス効果続出「目ヤニが止まらない」「しっかり風邪ひいた」
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/978b67ee167b6178eebbea39f00aa552d529b7494c96699fdd4f51c59781db81.jpg> 催涙スプレー噴射 32人が体調不良
+      <a href=https://news.yahoo.co.jp/pickup/6539755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f77dfdbbf21b9b453aa4aa22dadbc2e8dbad8a980da1a0fb3dabba6af29bbdbc.jpg> 24日は気温急降下 服装に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539761>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 催涙スプレーか 30人超が体調不良
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539748>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3739df439da955fe1eeb23ac76bbc7a7005305f7f980282711f9fa773a09605a.jpg> 仁和寺前にホテル 取り消し認めず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/68d1199f8ce3754cf7e35a4dc8bac0f5e478149408cb927ad58e76845478ba6d.jpg> 「毎年消える」山菜 悲しむ小学生
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6fa97d7a3be1080bd6c428866c2ca25e719f1de04af28c7e06957b63d5cf6e11.jpg> ディーンフジオカ金髪に 会場驚き
+      <a href=https://news.yahoo.co.jp/pickup/6539759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/532909394f13127b4ce41de57898bee3881b9e4705cb4ef8468925d0896d5a35.jpg> 狩野英孝 勝俣の半ズボンで会見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 17:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 17:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
