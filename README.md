@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c825594f107d543eee1d272ddefba9ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/997c7c2a84fb1fa350b3bae3ae2589a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd0d22019b3591919e9b7ca9547feab36e43a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000001-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ANA機　工事現場に誤進入　広島空港ほぼ通常通り運航
+      <a href=https://news.yahoo.co.jp/articles/1ec05dbb1c11722283d54ddcc7a6a1b97b51c21d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> アドベンチャーワールドのパンダ4頭、6月28日に帰国　和歌山
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4073ea49b5c32b66ba57eac20fbc58986924923>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010007-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博「パークアンドライド」値下げに吉村知事「1歩進んだ。非常に重要な役割」
+      <a href=https://news.yahoo.co.jp/articles/7be357c495331bd740e7c3becf5c7a374334c0de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-03974667-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「値下げはやるべき。車で行きたい人は多い」万博パーク＆ライドの午後3時以降の割引「需要と供給のバランスとれる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cfd0d22019b3591919e9b7ca9547feab36e43a8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000001-hometvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ANA機　工事現場に誤進入　広島空港ほぼ通常通り運航
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2cdc13ec90aa9757b1c994f8f6a2abd870406fe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000112-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 日米首脳が電話会談　高関税政策で意思疎通か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9fac4241ee289160a2de2bc2d6d6958ee1a1734>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00065907-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> パンダ４頭「６月２８日」に返還　５月２６日から隔離検疫で“ガラス越し公開”に　返還前日には歓送セレモニー開催　アドベンチャーワールド
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000112-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=602&ch=602&exp=10800&fmt=webp> 日米首脳が電話会談　高関税政策で意思疎通か
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9f7a33f62fb11d9bd1d93d3357fa6e93a5523701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7e7cd53c78b70c59e8879d24790db1fbd9db82d6394aaf13d94ab5a5cb6040c3.jpg> リアリティー番組出て中傷 心に穴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c0e14e0a107e9fd8a4597753692c04d1d84d108d44e066d594dfac767d791c7a.jpg> 和歌山のパンダ4頭 6/28帰国決定
+      <a href=https://news.yahoo.co.jp/pickup/6539734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/691315b56c324ea9113370db89089bb029c96de256775fb97fef76a1e9922194.jpg> 万博撮影が目的 周辺海域に停留船
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5d91f3791313e0d7bde4458089b711624ac6b4a4ed1551e82efbc15b36413fa3.jpg> クレしん声優語る 娘の中学受験
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 12:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
