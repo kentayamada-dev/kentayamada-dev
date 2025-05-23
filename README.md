@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b2492821c85102ba4cf67ea9ad453b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1076fb13fd895073b59fb1f45dd6c98e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b713a10a37d2cff46639be8de25e58185f15e109>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎女性遺体、元交際相手を起訴　神奈川県警、死亡への関与捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d2b8aaa4b4489c8bee304b9c19ab29acd9c1b78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-10179861-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=649&cy=0&cw=950&ch=950&exp=10800&fmt=webp> “備蓄米6月上旬2000円台”は可能？ スーパー視察の小泉農水大臣「相当大胆なことをやらなければ状況は変わらない」「“この値段で買ってもらいたい”といった形で流す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b730151ad67354037693c0b4ad2e20aa5e267d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000035-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領－石破首相、４５分間の電話会談…関税など懸案を協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3e16ed17cec9f0ff73b450b017459fc47da1e93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000058-ann-000-10-thumb.jpg?exp=10800&fmt=webp> 小泉農水大臣「世の中に知っていただく」 備蓄米店頭価格　毎週地域ごとに公表検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f618c7a8d476428bc4f06825c7945a16fca383e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=250&ch=250&exp=10800&fmt=webp> 世界遺産・仁和寺前のホテル計画、建設許可取り消し認めず　京都地裁
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e512a1d924921f1b5bc2a5f6f5253b8dec3fa81236cea6552c9869de6aa8be88.jpg> 川崎遺体 遺棄罪などで男を起訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539739>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a414cbd5fcfdc16b3cf4032e6cece979c4718d403cbd9f47e664dc4ffc209feb.jpg> 備蓄米 楽天が随意契約参加の意向
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/0df8f1a070abf409db3e74876f9e7ee00a558416dd780295febfad9024bbf146.jpg> 教員免許 必要単位減で見直す方針
+      <a href=https://news.yahoo.co.jp/pickup/6539747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1fe781a61fa7e8ca7dfe5554e7277256038fe3f9e14a59aa1f7e373194fbac63.jpg> ハーバード大留学生問題 林氏注視
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539729>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 泥団子が直撃し重傷 被害者救済は
+      <a href=https://news.yahoo.co.jp/pickup/6539743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e512a1d924921f1b5bc2a5f6f5253b8dec3fa81236cea6552c9869de6aa8be88.jpg> 川崎遺体 遺棄罪などで男を起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1a401b0b4b37307a7fb1ea41c695159ba9f1abe087fbb2e045d55db65852abe8.jpg> 「ちいかわ」コラボ GU注意喚起
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02218536/title-1747884434538.jpeg?exp=10800> レスラー上谷沙弥 番組出演で注目
+      <a href=https://news.yahoo.co.jp/pickup/6539746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5c6c9a8fa8f1226705ab9623e9d41bedacf032eac18b5b26243c503b487b988b.jpg> 映画コナン 後付け映像を30日追加
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 15:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 15:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
