@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/801a22fa5e27fae1d3f71123c4fded3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/083e39df950344ad402200087f38d6eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e233dad97febbcba55112316b6404e87c128c6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西から天気下り坂　週末は西・東日本で激しい雷雨に注意　警報級の大雨のおそれも
+      <a href=https://news.yahoo.co.jp/articles/78f7bf6415689af4cec10906b2ceac6874f7dac7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238386-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ガザのためにやった」米ワシントンのイスラエル大使館職員銃殺事件　当局は“ヘイトクライムやテロ犯罪か”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ff88c4daa606dfdd323293617bc4e063fd3646d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=592&ch=592&exp=10800&fmt=webp> 赤沢氏が渡米　自動車などで交渉前進目指す　トランプ関税協議
+      <a href=https://news.yahoo.co.jp/articles/10f0835779c10980b5b7df6521543941dc330506>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90019605-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 最大7500円で利用伸び悩む万博「パークアンドライド」“半額以上”の割り引き・“当日枠”開設も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c64289c4536a43117ea86dcaefe2b23fd1b2decf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000098-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1376&ch=1376&exp=10800&fmt=webp> 万博、車＆バス方式を一部値下げ　利用低迷で、当日枠新設
+      <a href=https://news.yahoo.co.jp/articles/d6f1cba723647393ce637f40011ad30c998951e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000052-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=927&ch=927&exp=10800&fmt=webp> 日米双方の「接点探す」　関税交渉で訪米出発　赤沢担当相
       </a>
     </td>
   </tr>
@@ -387,19 +387,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f7a33f62fb11d9bd1d93d3357fa6e93a5523701>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000018-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米「5キロ2千円台で店頭に」小泉農水相が見通し示す　6月にも
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b4692ea5c9cd88b676313f23a634637842891d490da9e2fd3f746654512511e8.jpg> 週末 西-東日本で警報級大雨恐れ
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539723>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/085a23a6564d70b76899459e447444a65869946f016290bba9ebad5d41df573e.jpg> 山手線列車21本 パンタグラフ異常
+      <a href=https://news.yahoo.co.jp/pickup/6539728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/7a4082c4016edcd1355f1a6f916e09d9f9250667a51a16e9f11f1a554d14be24.jpg> イスラエル大使館員銃撃 男を訴追
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3f9bcec5149bf2a152a5f4596326e8ee3f4bdb7845d73e1ff57c9e796588d012.jpg> 万博パーク&ライド 割引を発表
+      <a href=https://news.yahoo.co.jp/pickup/6539727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b4692ea5c9cd88b676313f23a634637842891d490da9e2fd3f746654512511e8.jpg> 週末 西-東日本で警報級大雨恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/085a23a6564d70b76899459e447444a65869946f016290bba9ebad5d41df573e.jpg> 山手線列車21本 パンタグラフ異常
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/553b3729f90471c0453c70f4721c1d447ac8c0e70fc53adaa75bf04d2148f26b.jpg> 23歳ココイチFC社長 友達減った
+      <a href=https://news.yahoo.co.jp/pickup/6539729>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 泥団子が直撃し重傷 被害者救済は
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 11:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 12:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
