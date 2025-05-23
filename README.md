@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/444da076e7b81c44c3138600db688ba0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45ef85318346d29e66ddb79c94d7a8ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9caa2121a4a6993e767a0a4fa33c72e6096464cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000368-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 【卓球】早田ひな　2大会連続メダルならず…世界3位・中国選手に完敗
+      <a href=https://news.yahoo.co.jp/articles/b10fc81a33900e71cd712bf4e9fca3b7dae952e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏、フジ第三者委見解「承服しかねる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a67f528a62b10a5430a8739788eaea0419b6cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90025575-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=478&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 総理「コメ3000円台」実現可能？　当事者に聞いてみた
+      <a href=https://news.yahoo.co.jp/articles/ad6af37d17a33c46cc58df75b22adecf97d160d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238601-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米の店頭価格「5キロあたり2000円で売り渡し」 来週月曜日に随意契約にむけた公告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fc6c18b273df5ed42a9a9eb4a0e27c58f05ccd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010019-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 佐野海舟が約1年2カ月ぶりの復帰！　6月の日本代表のメンバーが発表
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/185259554a536e1028d0aca12d92265dc9d0f552>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000006-awire-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 広島空港、ANA機が走行不能　5/22夜の札幌発NH1272便
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/b755fd10a30ef3e8f3ccf1637b851cb6ee82a21130e3a1e156c7ebd9e816ee80.jpg> 早く店頭に 小泉農相スーパー視察
+      <a href=https://news.yahoo.co.jp/pickup/6539792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6b2f98e9953805077a064cc268178a1abd76f14d266e362cf796387bcb60f83c.jpg> 岸田前首相 連立の組み替えに言及
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/703cd502661723e0442ef3e05b237b4af6015ee146381af4928d45773fcc3f45.jpg> 日産 横浜の本社ビル売却を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f9cfb1f3cb1627f5ef76cd13f55a6f1ab9988b0a6dde7e35463d8361ff027f16.jpg> 中居氏側 第三者委回答に強く反発
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/92a517f2ca8e8d85d758b1945d9bc6bfacd90fef7bbe88eca781ac06aa742e83.jpg> 大の里が横綱昇進へ 地元喜び爆発
+      <a href=https://news.yahoo.co.jp/pickup/6539788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6e103d70ddd6405032f139a8673a6620fa42435a998bd73360dbac6f0bee953c.jpg> 伊藤美誠が涙 世界卓球メダル確定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e7857523c76907636ad406bde3f8091fa62c5aa8b67bc2bd69f7552f05ab4dc3.jpg> DJ KOO体調不良 安静必要と診断
+      <a href=https://news.yahoo.co.jp/pickup/6539784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/92a517f2ca8e8d85d758b1945d9bc6bfacd90fef7bbe88eca781ac06aa742e83.jpg> 大の里が横綱昇進へ 地元喜び爆発
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 21:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 21:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
