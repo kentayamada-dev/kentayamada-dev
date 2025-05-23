@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4f7437cc0861c49bf124dfe8cbc374f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a7ded5574ca058f522892b90844f54d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5949f40d8413e19f8c878b41ffc60313b75d79e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 大谷翔平の実戦形式登板を決めた“３者会談”「非常にうまく調整できている」　あすライブＢＰ登板へ
+      <a href=https://news.yahoo.co.jp/articles/14b8947740a0bc04e32fbf70f926bed86bb809ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976656-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> USスチール買収“トランプ大統領承認”と現地報道　日本製鉄「ご英断に心より敬意」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5889798040cfe9a6d0ff0554c93f09956d47e894>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000018-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1436&ch=1436&exp=10800&fmt=webp> 日本製鉄「パートナーシップ承認の決断歓迎」、トランプ大統領の投稿に
+      <a href=https://news.yahoo.co.jp/articles/4db7c8bffc9444bd4d7fb92588490014e5a68460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷、25日に実戦形式登板へ　打者相手の投球は手術後初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c82e70c75b4986b776c04229a73691be3bb08adc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000209-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 小泉進次郎農水相、スーパー・米穀店を視察　「今までの流通では届かない」と危機感露わ
+      <a href=https://news.yahoo.co.jp/articles/e9eb9bbd4fe41799c4e5fc06316309cabb108b5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-10179911-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=973&ch=973&exp=10800&fmt=webp> トランプ政権の“留学生受け入れ停止”にハーバード大反発 教育経済学者「早ければ72時間以内に進展の可能性」 アカデミアへの締め付けで“頭脳流出”も？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd2c0b36a9ecd6127ca04fc955f3430bdf0edc2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-07238638-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権によるハーバード大留学生の受け入れ資格停止　米連邦地裁は一時差し止める決定
+      <a href=https://news.yahoo.co.jp/articles/02371b096efcdd2f66bf2230eb9466c7ecd93184>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01074370-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表メンバーの大幅刷新を喜べない理由 新顔ばかりのチームでは今後のテストにならない
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a125e26c9bdbb8a807850d0a31181362eb151a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0958c91b52ec8088c92fce32d2d4cd3d22bab5eef9e6a7f9d1a8ecaa92ed7ac1.jpg> 西～東日本 あすにかけて大雨警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/cfaa5018c9bad047ad05344dd3d767c697bbcea45668533c9760e9f1afd76c9a.jpg> 日産 栃木工場の一部売却を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/17fc86cc42f24c3bab09a603a72615900d3422db813b4e0708c2b0655526def3.jpg> ハーバード大 留学生巡り政権提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/8f89fd30c5862b49cdc4418339ccd20e692aa2cea3a85112195b8703e6275d9e.jpg> 独軍 第2次大戦後初の外国駐留
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/816757ff024f13037a8e889a91cf21a687a9c820c217bebbf469a80294882922.jpg> 列車の屋根に遺体 身元と死因判明
+      <a href=https://news.yahoo.co.jp/pickup/6539818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/dd5bc4135e6d236b3bb7c7e0a9240c425136e9c4decf4d2e287e399ef7e1c401.jpg> スプレーでけがさせた疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8162787ed9a21deb475e14f791e92480083badfc2aada5585c9b10ecb206c316.jpg> ひし美ゆり子が結婚 熊本に移住へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 07:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 08:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
