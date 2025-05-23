@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51e3cfa2764a6807e39f4212a3d9b187.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6bc1de7a500bf0b255449d5adab3206.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/922dbdbf5d7f08396ca8ffc528ccb7f2b5feccad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976365-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】「塩酸のような匂いがする」ショッピングモールで“催涙スプレー”噴射 逃走犯の身柄確保　42人が体調不良訴え3人搬送　千葉・印西市
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab7f7b556f256e766171afa9f0f2ea60157bb4ed>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/258958722c0d75747e3e252d1fccd7b0a35eb5ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-10179857-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=537&ch=537&exp=10800&fmt=webp> 自民派閥裏金 下村氏の参考人招致を議決 27日にも実施の見通し
+      <a href=https://news.yahoo.co.jp/articles/b6f2e1ad1df0a5deb5e0d0d85e63d3a17c922891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010003-chibatelev-000-1-thumb.jpg?exp=10800&fmt=webp> 千葉で“試合中止”B2プレーオフ　両チーム優勝が決定　それぞれに賞金1千万円
       </a>
     </td>
   </tr>
@@ -387,35 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cdda1bcf13882c460deaa47e017d07bcd6a290a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000012-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パンサー尾形＆狩野英孝、秘湯発見もマイナス効果続出「目ヤニが止まらない」「しっかり風邪ひいた」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/fc89b69c490bc9c7324d06919cdabf0408960318b5e2e4771ec3114379e1f2b9.jpg> 備蓄米 地域ごとの価格公表を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1fe781a61fa7e8ca7dfe5554e7277256038fe3f9e14a59aa1f7e373194fbac63.jpg> ハーバード大留学生問題 林氏注視
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539755>
@@ -426,16 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539761>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 催涙スプレーか 30人超が体調不良
+      <a href=https://news.yahoo.co.jp/pickup/6539744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/fc89b69c490bc9c7324d06919cdabf0408960318b5e2e4771ec3114379e1f2b9.jpg> 備蓄米 地域ごとの価格公表を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/3739df439da955fe1eeb23ac76bbc7a7005305f7f980282711f9fa773a09605a.jpg> 仁和寺前にホテル 取り消し認めず
+      <a href=https://news.yahoo.co.jp/pickup/6539762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f76869befb3da4073a4b9e4f622df76dda60ff4265ecf7ada506337e9c62f866.jpg> 愛子さま 11月に初の海外公式訪問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4112462a49d95e9d9528e08e5743584c9e14ef321a3b8c89543d45e4a2963d9f.jpg> 催涙スプレーか 40人超に痛みなど
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/185b59cf7d65a24eba7765558838470db892c0934b6ab05085fa08b675061cc7.jpg> 落雷で一生が変わった 重度の障害
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 17:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 18:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
