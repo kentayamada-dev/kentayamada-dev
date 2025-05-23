@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0a7ded5574ca058f522892b90844f54d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7c901a3711c5a6f9d63a4b244ec2038.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3799220483c1bf06dd91febc778d7c3fd18a849>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00050051-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=377&ch=377&exp=10800&fmt=webp> 大谷翔平、打者相手に実戦形式の投球練習へ…ロバーツ監督「ショウヘイにとって前進だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2ef5c4ffed56930807869b8409f88b20761bc85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01672283-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 勝利監督インタビューに甲斐拓也　巨人・阿部監督が“粋な？”計らい　「一度は断った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14b8947740a0bc04e32fbf70f926bed86bb809ce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976656-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> USスチール買収“トランプ大統領承認”と現地報道　日本製鉄「ご英断に心より敬意」
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4db7c8bffc9444bd4d7fb92588490014e5a68460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷、25日に実戦形式登板へ　打者相手の投球は手術後初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9eb9bbd4fe41799c4e5fc06316309cabb108b5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-10179911-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=973&ch=973&exp=10800&fmt=webp> トランプ政権の“留学生受け入れ停止”にハーバード大反発 教育経済学者「早ければ72時間以内に進展の可能性」 アカデミアへの締め付けで“頭脳流出”も？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02371b096efcdd2f66bf2230eb9466c7ecd93184>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01074370-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表メンバーの大幅刷新を喜べない理由 新顔ばかりのチームでは今後のテストにならない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a125e26c9bdbb8a807850d0a31181362eb151a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e37060f68a8033c110efd174e79dd78b35562015>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> B・ジョエルさん公演中止　脳に疾患、治療のため
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6e7193b3dcd1d40b8601f21f4c493dfada6c897574078229740f15123452713b.jpg> 基礎年金底上げ 与党が受け入れへ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539808>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/cfaa5018c9bad047ad05344dd3d767c697bbcea45668533c9760e9f1afd76c9a.jpg> 日産 栃木工場の一部売却を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539811>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/52a2d8da2ae109ff67240d5c2f46040d1e76e4b12ad5ee6bc930a42b81e5f929.jpg> 基地局巡り 楽天モバイル行政指導
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/306c599aa535b9f44b515e853b03a4c05beab9d1dc60ecbb071e50e2db456a07.jpg> 兵庫県 元総務部長を懲戒処分へ
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/7a22cfd1c35c0fe946f77e4686b6ecd37cc103f38e57b2c7ead3505f27d81f76.jpg> ビリー・ジョエル 脳疾患を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539812>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8162787ed9a21deb475e14f791e92480083badfc2aada5585c9b10ecb206c316.jpg> ひし美ゆり子が結婚 熊本に移住へ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 08:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 08:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
