@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28e12d9c7a94884272c74900194f3a4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65b071cd9ef5630487a33b708b14a923.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/224fcf304ba4f805c97acd7ef44b32ad9346ee91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000393-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 小泉進次郎農相「やっぱり日本は凄いなと思うのは」　コメの緊急事態に“利益度外視”の問い合わせ続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6eda681c68fc043c4f923f39a991f57d29006e0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 本人音声の開示など求める　中居氏代理人、フジ第三者委に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1e781688b9bab48a5943c8dc565df98c7b37b8b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232099-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【巨人】「おもろすぎるやろ」“甲斐監督代行”爆誕「コメントが完全に監督のそれ」SNSざわつく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a098fad7e1b293fbd62b9bc5db705de194b4e4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000079-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 備蓄米放出「まず30万トン」「2千円程度に」　小泉農水相が意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80ac70f5c9383ad54b5a27df525dadbfe9e90efd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00345668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏代理人が音声データを再要求「開示できるはず」 第三委の“ゼロ回答”受け
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232099-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【巨人】「おもろすぎるやろ」“甲斐監督代行”爆誕「コメントが完全に監督のそれ」SNSざわつく
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/306c599aa535b9f44b515e853b03a4c05beab9d1dc60ecbb071e50e2db456a07.jpg> 兵庫県 元総務部長を懲戒処分へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539778>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
       </a>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5fb6c8c25147ab506e058aca1a1617f9d9ecad420e7b734afc64072a7295bd39.jpg> AIきっかけでうつ発症 専門家警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539794>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f1f4f44af72468533467f12f4b73c047233418610c3e0dcc41b892c30bf0a859.jpg> 中国系破たん ニセコバブルの行方
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/66f406d51fec73ea566db6550dd5504e13abd27047cf3d356861b9ab9b11a1b1.jpg> ちいかわコラボ 朝番に入った店員
+      <a href=https://news.yahoo.co.jp/pickup/6539799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/eb7da2a19470c128a505bb482bf6a4e4f81d63a93f436962955cd30b045aa699.jpg> 報道陣ざわつく 監督インタに代打
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 22:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
