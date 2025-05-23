@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/t10JYxos1m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/625e5f59929677beec8b37891329611c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3bbca6f6f7faedae836791e9f601edb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b22af83026cc285c5b7b44ec8cc7a2fa7d075541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025352-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “コメ発言”石破総理どう対応？野党・江藤大臣の更迭要求　不信任決議案提出も検討
+      <a href=https://news.yahoo.co.jp/articles/aa037579be5f90ea3cc6b5daad573f6c5283a982>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米、3回目の関税交渉　6月首脳会談へ閣僚で道筋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9e27b53b8b05a1a9531256a35c1a1d8bd095eaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250521-90025354-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「何も起きなければ手を引く」トランプ氏“仲介撤退”示唆　ロシア“30日停戦”拒否
+      <a href=https://news.yahoo.co.jp/articles/fb3613d982f771b43b4cc8c9d7d595bfb3692cfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000082-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=300&cw=900&ch=900&exp=10800&fmt=webp> 小泉進次郎農相　6月初旬にも「米5キロ2000円台」　閣議後会見で表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3dfc0d778d1d6c046963183a87d1ffc3ec60d697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ政権のハーバード大学留学生受け入れ資格停止について連邦裁判所が差し止め
       </a>
     </td>
   </tr>
@@ -378,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/3116af61f862f0d4bcee4ab7642d502b4733eb4b90eeaf23a2380d8c27d7b5c9.jpg> 首相 コメ発言の農水相を更迭へ
+      <a href=https://news.yahoo.co.jp/pickup/6539806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/8f89fd30c5862b49cdc4418339ccd20e692aa2cea3a85112195b8703e6275d9e.jpg> 独軍 第2次大戦後初の外国駐留
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/c444f8f146f41245f44b677c8bbb8649acf864dda5e04e0719d1c03a91e4d9aa.jpg> バイデン氏の衰え隠した? 疑う声
+      <a href=https://news.yahoo.co.jp/pickup/6539802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/17fc86cc42f24c3bab09a603a72615900d3422db813b4e0708c2b0655526def3.jpg> ハーバード大 留学生巡り政権提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/06b2c93971cd51dca9c43e700a0dcc6c44fa985c3f547c2fb7d5541f7d1a5946.jpg> 資材置き場に遺体 不明の男性か
+      <a href=https://news.yahoo.co.jp/pickup/6539797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/306c599aa535b9f44b515e853b03a4c05beab9d1dc60ecbb071e50e2db456a07.jpg> 兵庫県 元総務部長を懲戒処分へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539440>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博で虫が大量発生 当分続くか
+      <a href=https://news.yahoo.co.jp/pickup/6539778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/0659f0438f7794fd69e2bf31733b9686dede90c1aaabb62f22543b9bf9815d8b.jpg> 今夏の都水道基本料0 いくらお得
+      <a href=https://news.yahoo.co.jp/pickup/6539807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/816757ff024f13037a8e889a91cf21a687a9c820c217bebbf469a80294882922.jpg> 列車の屋根に遺体 身元と死因判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/b9a0725e8ee366cb0962d7195bb04f62df78ae9f27dd1920924a53cf14723cc7.jpg> 浅村欠場 楽天監督は苦渋の決断
+      <a href=https://news.yahoo.co.jp/pickup/6539780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/99c451abf11f763583fc3f2f4a915cb9d90a6511ab502bcd3883b49ce6e3aaf8.jpg> ミュゼ元従業員 未払いに悲痛訴え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/f3bf53eaff718b5a15caf0549e9baebd5ec968dcfa5db91533d1826311eaf5ad.jpg> 鈴木福 始球式でアンダースロー
+      <a href=https://news.yahoo.co.jp/pickup/6539790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f9cfb1f3cb1627f5ef76cd13f55a6f1ab9988b0a6dde7e35463d8361ff027f16.jpg> 中居氏側 第三者委回答に強く反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/20/42dda08d592c36fb87433a3dabec2022a1d3c3cad638890766df250f480f9e76.jpg> 横浜流星ら涙 カンヌで6分間拍手
+      <a href=https://news.yahoo.co.jp/pickup/6539804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/80770561941f19008b6dcfcbcf9ea0858b29ef4804591793d6dce1a7d541b605.jpg> DQ3 ラリホー強すぎ問題にメス
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/21 03:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 05:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
