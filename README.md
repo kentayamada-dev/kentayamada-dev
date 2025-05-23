@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65b071cd9ef5630487a33b708b14a923.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d82e09b6f3d8c27b6cfc24267a07cfea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/224fcf304ba4f805c97acd7ef44b32ad9346ee91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000393-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 小泉進次郎農相「やっぱり日本は凄いなと思うのは」　コメの緊急事態に“利益度外視”の問い合わせ続々
+      <a href=https://news.yahoo.co.jp/articles/dbef52db94b7a5b894f1224e12f5a799b1288dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238621-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「備蓄米5キロ2000円はやってみなければ分からない」 小泉農水大臣は「5キロあたり2000円」と表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6eda681c68fc043c4f923f39a991f57d29006e0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 本人音声の開示など求める　中居氏代理人、フジ第三者委に
+      <a href=https://news.yahoo.co.jp/articles/0bce4e7b147fd01660907a4aa340367a788efcce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232203-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏の代理人弁護士「釈明要求に全く答えていない」フジ第三者委に再回答要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e781688b9bab48a5943c8dc565df98c7b37b8b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232099-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【巨人】「おもろすぎるやろ」“甲斐監督代行”爆誕「コメントが完全に監督のそれ」SNSざわつく
+      <a href=https://news.yahoo.co.jp/articles/7a35ec62b40ad9a51fd7c9493dabe611b3752248>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000103-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハーバード大学　米政権による留学生受け入れ資格停止撤回を求め連邦裁判所に提訴
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6b2f98e9953805077a064cc268178a1abd76f14d266e362cf796387bcb60f83c.jpg> 岸田前首相 連立の組み替えに言及
+      <a href=https://news.yahoo.co.jp/pickup/6539802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/713c0f357f9944dd57dcfc9805e9b458607e58f9bfa6e42b1f98c5329cad9998.jpg> ハーバード大 留学生巡り政権提訴
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c1740b8118b908e51b2163e8e8ae66e7cf5f8673863dcce8695f840c9b60e205.jpg> 殴られ死亡 タクシー運転手を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f9cfb1f3cb1627f5ef76cd13f55a6f1ab9988b0a6dde7e35463d8361ff027f16.jpg> 中居氏側 第三者委回答に強く反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f9cfb1f3cb1627f5ef76cd13f55a6f1ab9988b0a6dde7e35463d8361ff027f16.jpg> 中居氏側 第三者委回答に強く反発
+      <a href=https://news.yahoo.co.jp/pickup/6539764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/185b59cf7d65a24eba7765558838470db892c0934b6ab05085fa08b675061cc7.jpg> 落雷で一生が変わった 重度の障害
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/eb7da2a19470c128a505bb482bf6a4e4f81d63a93f436962955cd30b045aa699.jpg> 報道陣ざわつく 監督インタに代打
+      <a href=https://news.yahoo.co.jp/pickup/6539801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/9505e20dda00e270ca04081d8fa200138dabc802ca308153bef9aa89be3a7a55.jpg> コンビニ「値下げ」の動き広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/6e103d70ddd6405032f139a8673a6620fa42435a998bd73360dbac6f0bee953c.jpg> 伊藤美誠が涙 世界卓球メダル確定
+      <a href=https://news.yahoo.co.jp/pickup/6539799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/eb7da2a19470c128a505bb482bf6a4e4f81d63a93f436962955cd30b045aa699.jpg> 報道陣ざわつく 監督インタに代打
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
