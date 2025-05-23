@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bff4e94bd0fd61c84648522770c9288.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a6deb9c2589d091356ca8ae1e0d9b67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89b931bffe194ae6a908b857aa4832d3099735ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933160-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 誘導路で走行不能の全日空機　損傷したタイヤを交換　着陸後工事区間に誤進入し停止　広島空港
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-21933160-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 誘導路で走行不能の全日空機　損傷したタイヤを交換　着陸後工事区間に誤進入し停止　広島空港
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba77702c1ed6b221ad95492aec294de990b84ca7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976274-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ガラスがバーンと」頭に破片が刺さる　列車の窓が割れ…乗客3人死傷　事故直後の緊迫の様子「ドクター、看護師が心臓マッサージ」けがを負った男性が語る　走行中に小屋が衝突
+      <a href=https://news.yahoo.co.jp/articles/25eeb0f5e9b61b3ce2371d0dbbf354dd44297d8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35230911-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=335&ch=335&exp=10800&fmt=webp> 【日本代表】佐野海舟が声明「ご迷惑をかけてしまった事、大変申し訳ございませんでした」と謝罪
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/a414cbd5fcfdc16b3cf4032e6cece979c4718d403cbd9f47e664dc4ffc209feb.jpg> 備蓄米 楽天が随意契約参加の意向
+      <a href=https://news.yahoo.co.jp/pickup/6539744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/fc89b69c490bc9c7324d06919cdabf0408960318b5e2e4771ec3114379e1f2b9.jpg> 備蓄米 地域ごとの価格公表を検討
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/4dde4b4193392aea6552675a830c963a7ff978c30b8357d7b2f060737826b308.jpg> 列車で3人死傷 小屋衝突時の緊迫
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e512a1d924921f1b5bc2a5f6f5253b8dec3fa81236cea6552c9869de6aa8be88.jpg> 川崎遺体 遺棄罪などで男を起訴
+      <a href=https://news.yahoo.co.jp/pickup/6539756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/978b67ee167b6178eebbea39f00aa552d529b7494c96699fdd4f51c59781db81.jpg> 催涙スプレー噴射 32人が体調不良
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/68d1199f8ce3754cf7e35a4dc8bac0f5e478149408cb927ad58e76845478ba6d.jpg> 「毎年消える」山菜 悲しむ小学生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539745>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1a401b0b4b37307a7fb1ea41c695159ba9f1abe087fbb2e045d55db65852abe8.jpg> 「ちいかわ」コラボ GU注意喚起
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/47f11ffd57575fd96e8d6f4cc8fa3e5852dc3d1f1f2a04568c708c7f7481fb8f.jpg> 角田夏実に軽々投げられ 男性驚嘆
+      <a href=https://news.yahoo.co.jp/pickup/6539757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5f7c470d680ae37a395e51394fc65b3716446720abdb710ef5f554e8b0eddece.jpg> MF佐野海舟が代表復帰 声明発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 16:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 17:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
