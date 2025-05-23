@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6bc1de7a500bf0b255449d5adab3206.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cfffff48922ee2b50756eada5b824a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/922dbdbf5d7f08396ca8ffc528ccb7f2b5feccad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00976365-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】「塩酸のような匂いがする」ショッピングモールで“催涙スプレー”噴射 逃走犯の身柄確保　42人が体調不良訴え3人搬送　千葉・印西市
+      <a href=https://news.yahoo.co.jp/articles/b53fac9e4319087a522ace528c021699defc9324>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-05641544-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】大の里優勝！横綱昇進も決定的に　喜びに沸く地元石川・津幡町から生中継！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e0d07c8791b3431a027e946378c7b55c9a8cb57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000283-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 活動再開のNEWS増田貴久　入院中に「お見舞い来てくれたの」「大好き」な「先輩」との2ショット披露
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6f2e1ad1df0a5deb5e0d0d85e63d3a17c922891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00010003-chibatelev-000-1-thumb.jpg?exp=10800&fmt=webp> 千葉で“試合中止”B2プレーオフ　両チーム優勝が決定　それぞれに賞金1千万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b730151ad67354037693c0b4ad2e20aa5e267d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000035-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領－石破首相、４５分間の電話会談…関税など懸案を協議
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/fc89b69c490bc9c7324d06919cdabf0408960318b5e2e4771ec3114379e1f2b9.jpg> 備蓄米 地域ごとの価格公表を検討
+      <a href=https://news.yahoo.co.jp/pickup/6539767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/487f156473404aa5ef7b9ce4b013782b9b8328240c2d65fa53a626fed5b42262.jpg> 基礎年金底上げ 与党受け入れ検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f76869befb3da4073a4b9e4f622df76dda60ff4265ecf7ada506337e9c62f866.jpg> 愛子さま 11月に初の海外公式訪問
+      <a href=https://news.yahoo.co.jp/pickup/6539763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/e00c8dfe0330a635156a408ee440d0759e215a518d8d27d3cd732cb6d6e880c6.jpg> 日産 リストラ費用600億円追加か
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/1a401b0b4b37307a7fb1ea41c695159ba9f1abe087fbb2e045d55db65852abe8.jpg> 「ちいかわ」コラボ GU注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6539766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/c43c16f7214d38755f531d03dfe85a8a870fc29db9d6a10da75e25c58536b503.jpg> トイプー警察犬 不明者発見に貢献
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/5f7c470d680ae37a395e51394fc65b3716446720abdb710ef5f554e8b0eddece.jpg> MF佐野海舟が代表復帰 声明発表
+      <a href=https://news.yahoo.co.jp/pickup/6539769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/bbb3c1fc09cac5628125228664efd20559a67ae607aa010e025a2480f9f84d69.jpg> 大の里が横綱昇進へ 2場所連続V
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 18:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/23 18:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
