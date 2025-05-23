@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3926770fedf22a11db67f2bce18fe78c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1d8deadf2a0db02f7fe680099295935.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3e4535ba1ec30082eed7efd7e573ce84c9452ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000122-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ハーバード大、トランプ政権を提訴　留学生受け入れ資格取り消し巡り
+      <a href=https://news.yahoo.co.jp/articles/028596746d519fbef0bf0ea1848b6e1c2245329f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976628-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の店頭価格5kg2000円に　小泉農水相 ネット販売協力要請も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbef52db94b7a5b894f1224e12f5a799b1288dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-07238621-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「備蓄米5キロ2000円はやってみなければ分からない」 小泉農水大臣は「5キロあたり2000円」と表明
+      <a href=https://news.yahoo.co.jp/articles/f5e93ca88097b4e2298ac355b63f61769d3f10a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 外国人留学生の受け入れ資格取り消し　憲法違反として提訴　ハーバード大学
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bce4e7b147fd01660907a4aa340367a788efcce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-35232203-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏の代理人弁護士「釈明要求に全く答えていない」フジ第三者委に再回答要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/418c079ce1c074b42103664582e53f9485ba0b83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-90019618-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 利用伸びない「パーク＆ライド」午後3時以降駐車で半額・当日予約も可能に【大阪・関西万博】
       </a>
     </td>
   </tr>
@@ -403,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/713c0f357f9944dd57dcfc9805e9b458607e58f9bfa6e42b1f98c5329cad9998.jpg> ハーバード大 留学生巡り政権提訴
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/17fc86cc42f24c3bab09a603a72615900d3422db813b4e0708c2b0655526def3.jpg> ハーバード大 留学生巡り政権提訴
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f16d312d19d662857c7d9b293c870db44d354ea3762206be4e01bd3803463b0c.jpg> 山手線 施工不十分で架線断線か
+      <a href=https://news.yahoo.co.jp/pickup/6539807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/816757ff024f13037a8e889a91cf21a687a9c820c217bebbf469a80294882922.jpg> 列車の屋根に遺体 身元と死因判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/99c451abf11f763583fc3f2f4a915cb9d90a6511ab502bcd3883b49ce6e3aaf8.jpg> ミュゼ元従業員 未払いに悲痛訴え
       </a>
     </td>
   </tr>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539790>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/f9cfb1f3cb1627f5ef76cd13f55a6f1ab9988b0a6dde7e35463d8361ff027f16.jpg> 中居氏側 第三者委回答に強く反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/23/9505e20dda00e270ca04081d8fa200138dabc802ca308153bef9aa89be3a7a55.jpg> コンビニ「値下げ」の動き広がる
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/23 23:51:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 00:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
