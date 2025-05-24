@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ae628992fb92470d3a3b82011fc2508.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/574f7856463615fd86becab19df569cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ebce550a5b450163811025190908bec4ba97d54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000018-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 37歳カーショーが2回無失点も無念の降板　1時間38分の雨天中断経てドジャース―メッツ戦が再開
+      <a href=https://news.yahoo.co.jp/articles/3f742a7c511a6cf94b3a3a69bdcda1a464bd9c74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00345726-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が現地時間２４日に実戦形式登板　２３年１０月の右ヒジ手術後初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adb2da3e27eaab9c76c86364be3be4defc99fd4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=573&ch=573&exp=10800&fmt=webp> トランプ氏、日鉄との「提携」承認　NY市場はUSスチール株21％上昇
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c069d601f403069e8de8ee4dbb64ce7c49e0793>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 関税交渉加速へ　赤沢氏「突っ込んだやり取りできた」　日米閣僚協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3a2d41d8ae53d00257c61d39d445a8965f440c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02983824-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ大統領、日本製鉄とUSスチールの提携を支持　買収計画めぐり
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bd37fa6fcaa8577194b463cb44bde1685c70dcc995189fc0c3dcf71337ea6866.jpg> 日米関税 G7での合意視野に協議
+      <a href=https://news.yahoo.co.jp/pickup/6539823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539833>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/be56473b936c26814376e294aaa66abd755578a795fa26365ee3fc7f12cf6b96.jpg> 証券口座 闇サイトなどに14万件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/62f14d7997e3ceb1e46773792bb66c7f63001d488c2711928ba38ce258f8b395.jpg> ひし美ゆり子 移住婚のきっかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539839>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bdc229f7d97929d289dd9fcd042caae9685e7298227fb52d5c3e56dcce7259d9.jpg> 河北麻友子 第2子の妊娠を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 11:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 11:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
