@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4435b6e99641c726cbca5b9d500c9b7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6aeef4c7d555020fb62266e0b39f7d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb84c67754cbb6118d60708351ef858f7d947053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000059-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> 大谷翔平のライブBPは1日延期　午前0時56分に試合終了で睡眠を優先に　ロバーツ監督、トレーナーらと決定
+      <a href=https://news.yahoo.co.jp/articles/022e201c61da5e21f687b3c6a51f146900bc7849>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-10180019-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 米・ハーバード大学の留学生受け入れ資格停止を“差し止め” 連邦裁判所
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f8818f21b268f6e9e77daa074aa877fa0058c3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000011-gdo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “前代未聞”のクマ出没で競技中止　ルーキー前田羚菜がプロ初V／女子下部
+      <a href=https://news.yahoo.co.jp/articles/c828d9c0c710b873da326eec6ace30ee26f93533>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00050095-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平の実戦形式の投球練習は１日先送り…ロバーツ監督、未明までの延長戦出場を考慮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc46729641382bece602634f96016279d10cedef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976690-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権のハーバード大学留学停止を連邦地裁が“一時差し止め”「回復不能な損害をかぶることになる」とする大学側の主張を認めたため
+      <a href=https://news.yahoo.co.jp/articles/e5d8267ca7827fac3299b39894d1fc93157cff4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> ミャンマー拠点の特殊詐欺事件　「かけ子」容疑で男子高校生を逮捕
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/f8c3624133fae630662742854b556f5ca0ba74cc090dd719e11951562a69adff.jpg> 歩道にクレーン車突っ込み4人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539855>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0574670ac6e8f371a88e0838a4b8814c6326263d7f55748b359ce1c5127392b2.jpg> 3台絡む事故 車残し複数人が逃走
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c6f301a421e67462c634697c4f49e2fc4032de4dbf9a5b5eeb7b9c03ef81258e.jpg> 作家・岸田奈美さん 結婚を公表
+      <a href=https://news.yahoo.co.jp/pickup/6539869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/38c9804038b7e3b9b0d784633d23f050974c65afade0759e852bfc60e68d350e.jpg> 異例 クマ出没でゴルフ競技中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3620255dde7df606bce4e564c062653ca593c5e311c746aaa27af0db9e556e4e.jpg> ド軍 日付またぐ死闘制し3連勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8dcf1f66896d07e0a4af6c6e58b3cbed21b5162f5e836cb9db5d8ec630436f94.jpg> 浅村栄斗が2000安打 平成生まれ初
+      <a href=https://news.yahoo.co.jp/pickup/6539873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3620255dde7df606bce4e564c062653ca593c5e311c746aaa27af0db9e556e4e.jpg> ドジャース3連勝 日付またぐ死闘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 15:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 15:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
