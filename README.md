@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55dba37c0802b5a624b8b60b81ab72a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c4cc1ba48fa7bfbf7a2d73264ab5b74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10b14e379ea972ca672388f1a6426791ce261217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000151-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=1294&ch=1294&exp=10800&fmt=webp> 【解説】阪神・藤川監督なぜ苦言？疑念につながった井上監督の抗議　審判説明も、ルール通りなら退場の可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0d4e8e9c316a0aacb730d4d1c7f85f7b9b137c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0614a4c3db04662a971d170ab3adb7fb378cb0e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-11-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
+      <a href=https://news.yahoo.co.jp/articles/a723dc37daa7c334d711f47dab01a123bdbb4c31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000161-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 亀田和毅は判定負けも、現役続行を示唆　「バチバチにやられたわけではなく、自信になった。もう少しの工夫でいける」
       </a>
     </td>
   </tr>
@@ -394,16 +378,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bbbfa19f9f21f85f99862634b9fc736cdb4413c26df157d8ba5117e92d04319c.jpg> 日米関税交渉の打開策は 状況混沌
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539887>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02221032/title-1748052104683.jpeg?exp=10800> この夏台風ラッシュの可能性 解説
+      <a href=https://news.yahoo.co.jp/pickup/6539924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/928589513f4c5a0a1947c3287d4be8315628d355d38fc222d16e14223fbd762f.jpg> 揺れる「日産の街」広がる不安
       </a>
     </td>
   </tr>
@@ -418,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/394b8461073b51ca770124e919252ecd8921098f0ced5a74acb5c27c6f3d4cb4.jpg> 離婚後の母子住宅確保 弁護士の技
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539915>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/9a51bbd0072920c2128d8eacb73fdf87a809ff5847949846c0a4c1acc4debc0f.jpg> 給食エレベーター故障 保護者運ぶ
       </a>
@@ -426,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/176084397463bcc7eba3cd76c0ebfc94da7aa2c5f16b22e99a4eef58e5019328.jpg> 世界を席巻 中国発のぬいぐるみ
+      <a href=https://news.yahoo.co.jp/pickup/6539929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/176084397463bcc7eba3cd76c0ebfc94da7aa2c5f16b22e99a4eef58e5019328.jpg> 中国発「ラブブ」世界中で熱狂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/32ebe1ef2bee5ef61c181df157bae1c0ba3e4deaf1a74b729e599a5b5ce36557.jpg> ミセス グループ初MC冠番組決定
+      <a href=https://news.yahoo.co.jp/pickup/6539923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/dd34dd0050efce3d37ff24e3718ca62b1467aeb9f4e8f24fe31496266957b7b3.jpg> 阪神監督が苦言 中日の抗議に疑念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/1c42133ee35e344158ac4ffbde9ddb923f3b963689e87e0bb4b15996580080e3.jpg> 島田紳助氏リングに登場 場内騒然
+      <a href=https://news.yahoo.co.jp/pickup/6539922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/e27c8ffe7f2b3cb93f87c017f1ef3a066381bdb6828b2c91ba30116b384a3bf4.jpg> 伊藤美誠 世界女王・孫穎莎に完敗
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 21:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 22:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
