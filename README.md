@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e103ee1215365d50614df0c969b08028.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3943c08bb87a3377415fc5a0aa9bf740.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50a0934dc810d02c4d0f7a27b6d6ce868215f2f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251004-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」スタメン　午前０時５６分試合終了翌戦に１８号＆ライブBP登板へ弾みなるか
+      <a href=https://news.yahoo.co.jp/articles/d41f48f6dd74728e073ed80a2e08d501e079eec4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000029-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1511&ch=1511&exp=10800&fmt=webp> 亀田和毅の試合に島田紳助さんサプライズ登場「亀田家最終章は絶対に来なあかんと思って」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 05:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 05:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
