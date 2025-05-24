@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/574f7856463615fd86becab19df569cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfc69052a8a1c27838f1892f70247791.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f742a7c511a6cf94b3a3a69bdcda1a464bd9c74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00345726-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が現地時間２４日に実戦形式登板　２３年１０月の右ヒジ手術後初
+      <a href=https://news.yahoo.co.jp/articles/1cdc49110b2b23829b48f80161f2a6aae59c1cd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-07238656-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日本製鉄のUSスチール買収計画 “トランプ大統領が提携を支持”“買収承認”との報道も　日本製鉄「英断に心より敬意」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adb2da3e27eaab9c76c86364be3be4defc99fd4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=573&ch=573&exp=10800&fmt=webp> トランプ氏、日鉄との「提携」承認　NY市場はUSスチール株21％上昇
+      <a href=https://news.yahoo.co.jp/articles/d858abf7666ec7fa7a5657083d0e210d6e02eba7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241059-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が９打席連続無安打で打率３割切る　ブーイング浴びて雨の中４打席目まで安打なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ef27487eb05e3fff6f2857b273bda6c3f77be61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00050070-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 日米関税交渉で赤沢経済再生相、６月合意視野に協議進める考え…３回目交渉「突っ込んだやりとりできた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c73b0a1af8b39a5ff3d584f03c332fb37b56a19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000119-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブスとマイナー契約の前田健太　移籍後2度目登板も4回途中7安打5失点　防御率は14.29
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c069d601f403069e8de8ee4dbb64ce7c49e0793>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 関税交渉加速へ　赤沢氏「突っ込んだやり取りできた」　日米閣僚協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2176c9e07d7207531a510396f8f4d2a8b92a3c48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00254053-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 「山尾隠し」で参院選に新人を大量擁立し始めた国民民主、本当の狙いは「衆参ダブル選」か…玉木代表の天下取りのゆくえ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6ae7fffe2c31266584b5e253a95d189007a8c5ce7bce045fdf6c7873f019e4ac.jpg> 日鉄 トランプ氏の「英断に敬意」
+      <a href=https://news.yahoo.co.jp/pickup/6539845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bce244ca401dd65bcc6c68e890f6022e075e23cd6ae0e293dfcda7ccb59f14e3.jpg> トランプ氏がUSS買収承認 米報道
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/be56473b936c26814376e294aaa66abd755578a795fa26365ee3fc7f12cf6b96.jpg> 証券口座 闇サイトなどに14万件
+      <a href=https://news.yahoo.co.jp/pickup/6539831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6149d548d2ad7450361b1f60c8c6b185b0dcae97d6f693b7ca5f424151fc53c0.jpg> 表参道が火の海に 空襲生きた15歳
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/62f14d7997e3ceb1e46773792bb66c7f63001d488c2711928ba38ce258f8b395.jpg> ひし美ゆり子 移住婚のきっかけ
+      <a href=https://news.yahoo.co.jp/pickup/6539846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/f8d6c62bdfd9f40d2cf0c1bd9e4544b96333506c55e041746ba7c007ec4c6c76.jpg> 前田健太 マイナーで初回5失点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 11:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 12:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
