@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97447107d8fb5bc3956cf2a8bbda23d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb21fd57ee0043dc82eb971cf96a3c76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63f001393d0107bf28f72bf1ed56d1605f4e785d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-21934987-utyv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 【続報】16歳の男子高校生「殺そうとしたことに間違いない」自宅で69歳の父親を刃物で切り付け殺人未遂容疑で緊急逮捕　父親は心肺停止
+      <a href=https://news.yahoo.co.jp/articles/5f03d8739e6a8bc326fdf6dfff12c51f92133421>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241225-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1057&ch=1057&exp=10800&fmt=webp> 島田紳助さんがリングに登場「最後まで感動させてください」、亀田興毅、涙ぐみながら「和毅、根性出せや！」
       </a>
     </td>
   </tr>
@@ -386,24 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/7dc04a608b7e5fe967454ea4009ba19c01b39cf6f982dfe9f458263477308f39.jpg> トランプ氏 原発新増設の大統領令
+      <a href=https://news.yahoo.co.jp/pickup/6539884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/74cdd2e48eda99edf4510c13cf467a56b94c294da8fd96d00152283b617542bf.jpg> 失言対応で露呈 政権の危機管理力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ba66357697413ea145695d3ac26b7feb2e1ce021d4a1bce8226f1c9f9f6f48ae.jpg> 「突風」関東で多い 6月から注意
+      <a href=https://news.yahoo.co.jp/pickup/6539856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5aea00e3758dba0fe5f1d0355ddf1a4240a04800fe17c1a50503a5bb6784c47c.jpg> 訪日客の消費税免税の廃止案 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c1ccf846f36bf57a25433576b9da667ccc39bf279d75b17e14d4c41e4474e1f6.jpg> 住基ネット 大阪市でトラブル頻発
+      <a href=https://news.yahoo.co.jp/pickup/6539896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/47355cc20120d0878d955f550a3f8ff91574fdd534c2139c7f06758962245181.jpg> 父親を殺人未遂疑い 16歳少年逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/63e3c237e69c3010489551f565de0ed8b64f06e9be126009e42325699d33b037.jpg> 伝統行事参加の馬死ぬ 列車と衝突
+      <a href=https://news.yahoo.co.jp/pickup/6539893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bc08f456abcadef13b1db54ec2f02d9d45e55a143e399c1c1e028e2feca3a524.jpg> 重岡銀次朗意識もうろう 救急搬送
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 17:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 18:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
