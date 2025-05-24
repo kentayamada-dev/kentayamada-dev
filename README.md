@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/025ebb92276316fcc42ad6a8d1085a10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49f3e78ac7832b3339758be83c46232a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc365402dcab3553fa400c88858d0642bd31ff20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00097002-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 「まじで69歳には見えん！」ボクシング世界戦に島田紳助氏がサプライズ登場でネット騒然！「めっちゃ若いな」「あんま変わってない」
+      <a href=https://news.yahoo.co.jp/articles/c3ce3e05f26f114b0695d669e35d63182bdad2c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029936-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 晴れる日が多く汗ばむ陽気に　九州から関東甲信は梅雨前の日差しを有効に　2週間天気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82813730ac81f73dda60fd765a101cac7cbd6d5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 巨額投資でこう着打開　日鉄、米国での成長に執念
       </a>
     </td>
   </tr>
@@ -378,16 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a08028ef3c24c4e59b1394ccff215e669591b9bfb515fa760043147568c1e66b.jpg> 関東 雨のあと気温大幅に上昇か
+      <a href=https://news.yahoo.co.jp/pickup/6539928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4beed6c7bd5c40c83d51660426154c77c9e9c813d8b2e3c4dd6c99170d54efe9.jpg> ロヒンギャの船難破 427人死亡か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4beed6c7bd5c40c83d51660426154c77c9e9c813d8b2e3c4dd6c99170d54efe9.jpg> ロヒンギャの船難破 427人死亡か
+      <a href=https://news.yahoo.co.jp/pickup/6539946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5df6b944c012b1104e80c019a52f1bd6ca7452b6a7f38ebbc6adf85638dbabc4.jpg> カンヌで大規模停電 放火原因か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/758e34a44583d209c5a6b00f9f06d9e04876bdc1a22f5a5fa7d040f4dad5c3d8.jpg> 警官居眠り 容疑者が署を一時逃走
       </a>
     </td>
   </tr>
@@ -402,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6f2e4db9be71cc385d92ce4c927b1392b4b11d7b38bb82552c88cdec76a4de01.jpg> 1歳息子が難病 母は目の前真っ暗
+      <a href=https://news.yahoo.co.jp/pickup/6539947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/91510280c01bbf55e041c90770cb5e81da96cff03b74464f53a2e1ab1185bf9d.jpg> 偉業 ジョコビッチがツアー100勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bc08f456abcadef13b1db54ec2f02d9d45e55a143e399c1c1e028e2feca3a524.jpg> 重岡銀次朗意識もうろう 救急搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/f054f40a5c4a21505fe13f07df5c41cd90f924e3fd64f6a73a372c29e8d0ba38.jpg> 島田紳助氏リングイン 涙でエール
+      <a href=https://news.yahoo.co.jp/pickup/6539949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/39961f7266776446ed3b6357b89ccf3e564e4371950ca976a5ef6343638ecb56.jpg> RYOKI BE:FIRSTでの活動休止へ
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 07:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 07:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
