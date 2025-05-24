@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17b0c73f388b5304ad19a5e4081510ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/355cbb61975edbc6c3dd6905e31ac1e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14e8df6b0ec429118ed024315c627242fbd020fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000031-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の投手復活、ドジャースが慎重に進めてきた理由… 実戦登板が決定、復帰は７月20日が有力か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d0007e76d2cccd0798abc65dfbf1a672401cebe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00010002-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 北九州市の資材置き場に遺体を埋めて遺棄した疑いで女を逮捕…被害者の息子と共謀か、家族ぐるみの付き合い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78918b4c3fcbb662e7c7094b1725ef058df7cf88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000021-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自民党内で消費税の勉強会開催　高市氏「食料品を0％に」　石破総理は否定的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c069d601f403069e8de8ee4dbb64ce7c49e0793>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 関税交渉加速へ　赤沢氏「突っ込んだやり取りできた」　日米閣僚協議
       </a>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a3a2d41d8ae53d00257c61d39d445a8965f440c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02983824-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ大統領、日本製鉄とUSスチールの提携を支持　買収計画めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85112ba6faa772a90c4df04a9929e05792ed4e71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35240202-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 山本由伸、ラフなトレーナー姿で千賀滉大が待つ敵地へ　まさかの白黒加工で味わい深い１枚に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c04d0b0e186df2cd0b448e7ab513078ac8ec8d30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00257069-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=483&ch=483&exp=10800&fmt=webp> 米国で突然「留学ビザ」を失う悪夢　猶予はわずか15日、家族連れの邦人男性が「国外退去」を免れた理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2176c9e07d7207531a510396f8f4d2a8b92a3c48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00254053-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 「山尾隠し」で参院選に新人を大量擁立し始めた国民民主、本当の狙いは「衆参ダブル選」か…玉木代表の天下取りのゆくえ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02983824-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ大統領、日本製鉄とUSスチールの提携を支持　買収計画めぐり
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6ae7fffe2c31266584b5e253a95d189007a8c5ce7bce045fdf6c7873f019e4ac.jpg> 日鉄 トランプ氏の「英断に敬意」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539834>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6ae7fffe2c31266584b5e253a95d189007a8c5ce7bce045fdf6c7873f019e4ac.jpg> 日鉄 トランプ氏の「英断に敬意」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6e7193b3dcd1d40b8601f21f4c493dfada6c897574078229740f15123452713b.jpg> 基礎年金底上げ 与党が受け入れへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539824>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/47d410221e83487f305f6baa115665fa13d87603d218695e2de307efbedfb87c.jpg> 神戸児童殺傷 加害者へ憤り募る父
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/67103eba2fd263f2383682b8d54db648215f0bb23905e296bd96470abb699cbe.jpg> 神奈川知事 工場報道で日産に要望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c95081a2e0f2a39913123c42ae519a307950a3996e62d69bf2df71643bcf9261.jpg> 資材置き場に遺体 新たに女を逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/864bd172be61003d53d0c635ffd683c8adfaa05f7b3501f57a1b97ce7ffa56cb.jpg> 由伸が千賀を15分出待ち 38分談笑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/cd1c08d605a1dfb93f9a8be1ab97d099cd92a26888d7130246b9249c5a2020ae.jpg> 南野陽子 大学客員教授に就任へ
+      <a href=https://news.yahoo.co.jp/pickup/6539839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bdc229f7d97929d289dd9fcd042caae9685e7298227fb52d5c3e56dcce7259d9.jpg> 河北麻友子 第2子の妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 10:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 10:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
