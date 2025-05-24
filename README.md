@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bfc69052a8a1c27838f1892f70247791.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f167ef18c87a6765f14c5784690f18c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cdc49110b2b23829b48f80161f2a6aae59c1cd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-07238656-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日本製鉄のUSスチール買収計画 “トランプ大統領が提携を支持”“買収承認”との報道も　日本製鉄「英断に心より敬意」
+      <a href=https://news.yahoo.co.jp/articles/34d4421502070947efa1869819c14fadd2e26c67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241069-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が１０打席ぶり安打で打率３割復活　５打席目にようやく初安打も盗塁死
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d858abf7666ec7fa7a5657083d0e210d6e02eba7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241059-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が９打席連続無安打で打率３割切る　ブーイング浴びて雨の中４打席目まで安打なし
+      <a href=https://news.yahoo.co.jp/articles/8a64b5b7d2a5a1307fbd5837345bf2ba8566fc0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000032-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 赤沢大臣、トランプ関税見直し要請「前回以上に突っ込んだやりとり」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ef27487eb05e3fff6f2857b273bda6c3f77be61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00050070-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 日米関税交渉で赤沢経済再生相、６月合意視野に協議進める考え…３回目交渉「突っ込んだやりとりできた」
+      <a href=https://news.yahoo.co.jp/articles/140cb371ab48ac9e98ed0cc422957d1327268c09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976688-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄とUSスチールの提携“歓迎”する意向　USスチール「リーダーシップと配慮に深く感謝する」 日本製鉄も「ご英断に心より敬意」とコメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c73b0a1af8b39a5ff3d584f03c332fb37b56a19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000119-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブスとマイナー契約の前田健太　移籍後2度目登板も4回途中7安打5失点　防御率は14.29
+      <a href=https://news.yahoo.co.jp/articles/101fdb6f41325c65ab0252c7c31c77317bcc8926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000052-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=1649&ch=1649&exp=10800&fmt=webp> 巨人・大城卓が２軍の試合前練習に合流　川相２軍野手総合コーチからバントの指導を受ける場面も
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bce244ca401dd65bcc6c68e890f6022e075e23cd6ae0e293dfcda7ccb59f14e3.jpg> トランプ氏がUSS買収承認 米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6149d548d2ad7450361b1f60c8c6b185b0dcae97d6f693b7ca5f424151fc53c0.jpg> 表参道が火の海に 空襲生きた15歳
       </a>
@@ -426,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/67103eba2fd263f2383682b8d54db648215f0bb23905e296bd96470abb699cbe.jpg> 神奈川知事 工場報道で日産に要望
+      <a href=https://news.yahoo.co.jp/pickup/6539850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0bbcd793544dfac660d92776692d9452e27ba3d753cac77ac579440e39cc9642.jpg> 殺害された保護司に会い更生 思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/f8d6c62bdfd9f40d2cf0c1bd9e4544b96333506c55e041746ba7c007ec4c6c76.jpg> 前田健太 マイナーで初回5失点
+      <a href=https://news.yahoo.co.jp/pickup/6539843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2629637f10c9a8bf4f5b42d6d42d8472253daf50f729e81608cb43510d4d6ce7.jpg> 息子のスーツ忘れた母 小さな奇跡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/683e279ac3f24dbb723f80fe968e3257d97b297400d3de1f833291c57e98114c.jpg> 大の里の父 親子で泣いた4年前
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 12:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 12:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
