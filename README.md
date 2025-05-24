@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3686d87156ee421ae05ab33e6d5bb3b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be42958b2336d5b3e1facb7ee9a10ab6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43e69cf9b9946362a529d95a95a4bfcac9805e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000164-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=692&ch=692&exp=10800&fmt=webp> 「６９歳に見えない」久々登場の島田紳助氏の姿にＳＮＳも反応「何か若くなった」前日に激変ぶり話題も「変わってない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000164-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=692&ch=692&exp=10800&fmt=webp> 「６９歳に見えない」久々登場の島田紳助氏の姿にＳＮＳも反応「何か若くなった」前日に激変ぶり話題も「変わってない」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562310105_1562310073_aflo_92042562.jpg> 戸籍に読み仮名 新制度で詐欺警戒
+      <a href=https://news.yahoo.co.jp/pickup/6539928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4beed6c7bd5c40c83d51660426154c77c9e9c813d8b2e3c4dd6c99170d54efe9.jpg> ロヒンギャの船難破 427人死亡か
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6f2e4db9be71cc385d92ce4c927b1392b4b11d7b38bb82552c88cdec76a4de01.jpg> 母は絶望と悲観 1歳息子が難病に
+      <a href=https://news.yahoo.co.jp/pickup/6539942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6f2e4db9be71cc385d92ce4c927b1392b4b11d7b38bb82552c88cdec76a4de01.jpg> 1歳息子が難病 母は目の前真っ暗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/efd545c746d6b389ea834fa5f33404807deb8a6921915b06d5f8ed90bbc50ce4.jpg> マック「マイクラ」も完全終了
+      <a href=https://news.yahoo.co.jp/pickup/6539933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8056900464114ca2c0c372df352dac096c4cbf759ebe729d00b0e281608425af.jpg> 珍名馬「サラダ」豪快ごぼう抜き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/176084397463bcc7eba3cd76c0ebfc94da7aa2c5f16b22e99a4eef58e5019328.jpg> 中国発「ラブブ」世界中で熱狂
+      <a href=https://news.yahoo.co.jp/pickup/6539943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8cd81ce37e83ec328630aee013652bf1075b188bd4e4d2b94d919be3cc7e7782.jpg> 優木まおみ 芸能活動を一時休止へ
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 23:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
