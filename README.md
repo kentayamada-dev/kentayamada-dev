@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05e9825408d0c1ce7030f3a0f492da67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ede70ba9fad96cc00357c5f627e295d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2e5682219070245910407019f213a780be7277c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000166-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1035&ch=1035&exp=10800&fmt=webp> 亀田和毅「俺の実力が落ちてやられてるわけじゃない。ちょっとの工夫でいけると思う」 -
+      <a href=https://news.yahoo.co.jp/articles/46570b13a09bf49e26d4e1844b2764bae44cf491>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国内統括団体が解散　パラアーチェリー
       </a>
     </td>
   </tr>
@@ -378,32 +378,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/95b228c85875ee67646021a877e715187c5d967df9dfe92a7c61a70e5702f25f.jpg> コメ高止まり 備蓄米の流通解説
+      <a href=https://news.yahoo.co.jp/pickup/6539936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a2607c429bdc6c717859f10ce7bc8ed68b7fb81ba3e436af3b7d20328aaf6b90.jpg> 森山氏 コメ安ければいいではない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/928589513f4c5a0a1947c3287d4be8315628d355d38fc222d16e14223fbd762f.jpg> 揺れる「日産の街」広がる不安
+      <a href=https://news.yahoo.co.jp/pickup/6539932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ef7a2ec4d75480896fb87e55863806cf33938f7c5237f4449e02b865ca997bdc.jpg> 兵庫県庁離れ加速 愛想尽きたの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b8c0064524942135870ca3667334bb6a9bfc91fa711df6cd0bc92eca6dceaae8.jpg> 山梨のコストコ盛況 思わぬ弊害も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/9a51bbd0072920c2128d8eacb73fdf87a809ff5847949846c0a4c1acc4debc0f.jpg> 給食エレベーター故障 保護者運ぶ
+      <a href=https://news.yahoo.co.jp/pickup/6539888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/efd545c746d6b389ea834fa5f33404807deb8a6921915b06d5f8ed90bbc50ce4.jpg> マック「マイクラ」も完全終了
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539929>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/176084397463bcc7eba3cd76c0ebfc94da7aa2c5f16b22e99a4eef58e5019328.jpg> 中国発「ラブブ」世界中で熱狂
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c663ea85a325bd2bf8d4105721131c71404243c0e0651b44d31bebaf883c9099.jpg> 重岡銀次朗 判定聞いて意識が遠く
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 22:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 23:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
