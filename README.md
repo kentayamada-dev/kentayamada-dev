@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3c7183df7ae72b8c88bec3aad64aeb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/117d8323bb7a478bd5c900e438835116.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96f96cc6ff7ece3b8030a51b5497624d59a50e18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男性失踪直後に重機を操縦　逮捕の長男、遺体を遺棄か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/524e22286fea8e4257d69df8f9e7faf62e4f1de9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-06172951-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大谷翔平が“千賀先輩”をいじる　ガン無視からの深々と丁寧なおじぎで挨拶　山本由伸も思わず笑う
       </a>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0614a4c3db04662a971d170ab3adb7fb378cb0e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b87de1e6c946ce2f970696f3743ff06a944c13d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02685173-mmt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 2000安打達成！浅村、涙のヒーローインタビュー【楽天】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5aea00e3758dba0fe5f1d0355ddf1a4240a04800fe17c1a50503a5bb6784c47c.jpg> 訪日客の消費税免税の廃止案 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3f43744e4dec984f863ba4220d7ea1e2b3a9f4267a313a7693e5a215c317d621.jpg> 離職増の海保 背景に「転勤NG」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2760b15420000f2e84efc1f9307bed15e838482f071190d9d3c2f4a38dedb74b.jpg> マイナカード運用 医療現場の反発
+      <a href=https://news.yahoo.co.jp/pickup/6539894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8bb3f01a995914083d2addd6b07aabee46b1a4b2e0c22cebe6fdc6ff08786cf8.jpg> 懲役と禁錮を「拘禁刑」に 背景
       </a>
     </td>
   </tr>
@@ -428,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539902>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/61ae83400846a781761f5b1ada507c3aa427c9ec479e70b3dccd0d6a9f825f73.jpg> ハーバード大留学 王女にも影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/eef2dddafcc2dbee6bc025c2733a03a5bfbcf18c8f24f734469f259642083df9.jpg> 資材置き場に男性遺棄 重機使用か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ed9312d7334063c3f7d4c2421efa08d8e9385f3102c4554d1641eb4b4f2d60bc.jpg> 教材の水俣病記述巡り トライ謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 19:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 19:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
