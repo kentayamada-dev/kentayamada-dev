@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51930ab562b4702e849c231c8a114374.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55dba37c0802b5a624b8b60b81ab72a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0d4e8e9c316a0aacb730d4d1c7f85f7b9b137c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
+      <a href=https://news.yahoo.co.jp/articles/10b14e379ea972ca672388f1a6426791ce261217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000151-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=1294&ch=1294&exp=10800&fmt=webp> 【解説】阪神・藤川監督なぜ苦言？疑念につながった井上監督の抗議　審判説明も、ルール通りなら退場の可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5399e85787e93880edc4b3a397d1c3b41c2d5e06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 伊藤、世界1位に敗れ3位　張本美、木原組も銅―世界卓球
+      <a href=https://news.yahoo.co.jp/articles/b0d4e8e9c316a0aacb730d4d1c7f85f7b9b137c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bbbfa19f9f21f85f99862634b9fc736cdb4413c26df157d8ba5117e92d04319c.jpg> 日米関税交渉の打開策は 状況混沌
+      <a href=https://news.yahoo.co.jp/pickup/6539920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/63d65cf2b320802eb5209470d3738e031ab55ccf1666ec6add981537c33d270a.jpg> 四国-関東甲信 警報級大雨の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/81d60471df3d04f17373648ac2215b8655f190c1954b04562789cdd4923a4835.jpg> 野田氏 石破氏との討論切なくなる
+      <a href=https://news.yahoo.co.jp/pickup/6539918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bbbfa19f9f21f85f99862634b9fc736cdb4413c26df157d8ba5117e92d04319c.jpg> 日米関税交渉の打開策は 状況混沌
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/db5ebcdedde480a15c94e234497e4a63961530811b5dc2b3d5b348cd0f3135e9.jpg> 刃物で切られて父親死亡 16歳逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/40496a00c37293a83a0354a30fd72f6eb3ca259b09c478c46a785ddccfb9a864.jpg> 刃物で切られて父親死亡 16歳逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bc08f456abcadef13b1db54ec2f02d9d45e55a143e399c1c1e028e2feca3a524.jpg> 重岡銀次朗意識もうろう 救急搬送
+      <a href=https://news.yahoo.co.jp/pickup/6539908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/176084397463bcc7eba3cd76c0ebfc94da7aa2c5f16b22e99a4eef58e5019328.jpg> 世界を席巻 中国発のぬいぐるみ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 21:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 21:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
