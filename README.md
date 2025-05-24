@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fec596b12a3cc54898ebbf89b65bf29b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3c7183df7ae72b8c88bec3aad64aeb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c789ebd9149e1da9d94bb0fafbc801c4624da0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000086-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=905&ch=905&exp=10800&fmt=webp> 64歳誕生日の哀川翔、「感覚的に20代。まだまだいけますよ」主演映画「オールドカー」舞台あいさつでサプライズ祝福
+      <a href=https://news.yahoo.co.jp/articles/60f478f56cafb27a1da4256e38a39c95a057325b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00003548-kab-000-1-thumb.jpg?exp=10800&fmt=webp> 「家庭教師のトライ」運営会社　教材で「水俣病は遺伝する」と誤表現
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfb6df7ffd8df871ba6769af672e351bcbbd59e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000392-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=420&ch=420&exp=10800&fmt=webp> マクドナルド、ハッピーセット「ちいかわ」「マインクラフト」早期販売終了　対応策に「過去販売したおもちゃ」も
+      <a href=https://news.yahoo.co.jp/articles/524e22286fea8e4257d69df8f9e7faf62e4f1de9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-06172951-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大谷翔平が“千賀先輩”をいじる　ガン無視からの深々と丁寧なおじぎで挨拶　山本由伸も思わず笑う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eec920b6a0fcbd90e75449219519d1e5050125f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000053-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 投手大谷、打者に投球へ　右肘手術後初めて―米大リーグ・ドジャース
+      <a href=https://news.yahoo.co.jp/articles/0614a4c3db04662a971d170ab3adb7fb378cb0e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b87de1e6c946ce2f970696f3743ff06a944c13d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02685173-mmt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 2000安打達成！浅村、涙のヒーローインタビュー【楽天】
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/74cdd2e48eda99edf4510c13cf467a56b94c294da8fd96d00152283b617542bf.jpg> 失言対応で露呈 政権の危機管理力
+      <a href=https://news.yahoo.co.jp/pickup/6539898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/1c835294c0688c3ce6b0655b287725cc57f9b62cb0aa2ebdc0fd6a4b403071bf.jpg> 日鉄の計画承認 傾いたトランプ氏
       </a>
     </td>
   </tr>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539856>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5aea00e3758dba0fe5f1d0355ddf1a4240a04800fe17c1a50503a5bb6784c47c.jpg> 訪日客の消費税免税の廃止案 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/47355cc20120d0878d955f550a3f8ff91574fdd534c2139c7f06758962245181.jpg> 父親を殺人未遂疑い 16歳少年逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5bf11049223875b90ffacee7a2608899043319c43444faf1f1eceac4183fad3e.jpg> chocoZAP 悪質利用者に措置実施
+      <a href=https://news.yahoo.co.jp/pickup/6539902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/61ae83400846a781761f5b1ada507c3aa427c9ec479e70b3dccd0d6a9f825f73.jpg> ハーバード大留学 王女にも影響か
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/1c42133ee35e344158ac4ffbde9ddb923f3b963689e87e0bb4b15996580080e3.jpg> 島田紳助氏リングに登場 場内騒然
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 18:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 19:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
