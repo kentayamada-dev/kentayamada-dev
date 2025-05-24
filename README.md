@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/k1A1qj1WTz4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8f19c1bbce41468e2cad7cbdb09c108.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17b0c73f388b5304ad19a5e4081510ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ae653348b60dbd7b6575e6c72541c89b990dbfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、日鉄・USスチールのパートナーシップ承認意向　「7万人雇用と効果2兆円」
+      <a href=https://news.yahoo.co.jp/articles/5c069d601f403069e8de8ee4dbb64ce7c49e0793>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> 関税交渉加速へ　赤沢氏「突っ込んだやり取りできた」　日米閣僚協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/431dec4edeb8e33a8d04eb2cf25b0af9c9824f0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-10179985-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 小泉農林水産大臣、備蓄米5kgで2000円を想定
+      <a href=https://news.yahoo.co.jp/articles/a3a2d41d8ae53d00257c61d39d445a8965f440c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-02983824-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ大統領、日本製鉄とUSスチールの提携を支持　買収計画めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b93177d3676577781e5fac0b84b3ce81da5d04e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000003-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース―メッツ戦は雨脚強まり午後8時前に中断　大谷翔平が四球→タッチアップ後に…　深夜ゲーム必至
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/141c53eead826bd8284a112f8f0ee8eb5c1ac52e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000108-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=835&ch=835&exp=10800&fmt=webp> ドジャース―メッツ　3回ド軍攻撃中に雨が強まり試合中断　大谷翔平は投ゴロ、四球
+      <a href=https://news.yahoo.co.jp/articles/85112ba6faa772a90c4df04a9929e05792ed4e71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35240202-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 山本由伸、ラフなトレーナー姿で千賀滉大が待つ敵地へ　まさかの白黒加工で味わい深い１枚に
       </a>
     </td>
   </tr>
@@ -395,11 +387,35 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2176c9e07d7207531a510396f8f4d2a8b92a3c48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00254053-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 「山尾隠し」で参院選に新人を大量擁立し始めた国民民主、本当の狙いは「衆参ダブル選」か…玉木代表の天下取りのゆくえ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bd37fa6fcaa8577194b463cb44bde1685c70dcc995189fc0c3dcf71337ea6866.jpg> 日米関税 G7での合意視野に協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/be56473b936c26814376e294aaa66abd755578a795fa26365ee3fc7f12cf6b96.jpg> 証券口座 闇サイトなどに14万件
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539829>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0958c91b52ec8088c92fce32d2d4cd3d22bab5eef9e6a7f9d1a8ecaa92ed7ac1.jpg> 西～東日本 あすにかけて大雨警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/76d24726594d7dd48ac65a7f874932d6e500b52d6e15d5285b9ef1b618aab3bb.jpg> 日本からハーバード大 留学生不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/64c646a62537d31a7de7d96002d1a66a20faf7487889583fe4df35f86bd897d4.jpg> 日産 マリノスと野球部は継続方針
+      <a href=https://news.yahoo.co.jp/pickup/6539824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/47d410221e83487f305f6baa115665fa13d87603d218695e2de307efbedfb87c.jpg> 神戸児童殺傷 加害者へ憤り募る父
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/864bd172be61003d53d0c635ffd683c8adfaa05f7b3501f57a1b97ce7ffa56cb.jpg> 由伸が千賀を出待ち 長時間談笑
+      <a href=https://news.yahoo.co.jp/pickup/6539835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/864bd172be61003d53d0c635ffd683c8adfaa05f7b3501f57a1b97ce7ffa56cb.jpg> 由伸が千賀を15分出待ち 38分談笑
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 09:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 10:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
