@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a126076e4026b6b28a0b3c43f0b07cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4435b6e99641c726cbca5b9d500c9b7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c436008e36e88f38fb85a149333860d5e35837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241112-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷翔平の２５日のライブＢＰ登板延期が決定　ロバーツ監督が明言…雨天１時間３８分中断＆延長１３回の死闘による体調面を考慮
+      <a href=https://news.yahoo.co.jp/articles/eb84c67754cbb6118d60708351ef858f7d947053>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000059-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> 大谷翔平のライブBPは1日延期　午前0時56分に試合終了で睡眠を優先に　ロバーツ監督、トレーナーらと決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a157d24399a642fb8ec00a408109fcb61d230225>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976691-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 各地で警報級大雨の恐れ…宮崎県と鹿児島県に大雨警報が発表　土砂災害や河川の増水、氾濫などに警戒
+      <a href=https://news.yahoo.co.jp/articles/8f8818f21b268f6e9e77daa074aa877fa0058c3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000011-gdo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> “前代未聞”のクマ出没で競技中止　ルーキー前田羚菜がプロ初V／女子下部
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4e046c1f9f7d90a4215d2a1cb18a96de06f5f2485c0e1dcdb6bc3cf35b86a0f8.jpg> 内閣不信任案巡り 悩む立憲代表
+      <a href=https://news.yahoo.co.jp/pickup/6539854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/05a5c43cb560016b2869107e524be6aec034042721d79d0b4d3727d5272d2e25.jpg> 日産社長 黒字化計画に「覚悟」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/d61b89f130a0e9f53b1f39e0656923e912e4c576678819b6e848a4cda6bb60a5.jpg> ドイツの駅で無差別刺傷 女を拘束
+      <a href=https://news.yahoo.co.jp/pickup/6539866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a9166e1a75fc6dfcb01a05b6eb506272cc490ebb97e72e7a28d308fb003a47c2.jpg> USスチール「トランプ氏に感謝」
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a5c45f8643f542337ab33438769a4512fbd3be4c56afb0054170eb2ea880cd68.jpg> 菊池雄星、待望の移籍後初勝利
+      <a href=https://news.yahoo.co.jp/pickup/6539865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3620255dde7df606bce4e564c062653ca593c5e311c746aaa27af0db9e556e4e.jpg> ド軍 日付またぐ死闘制し3連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b57a5cfbbfb67a068c0c4fa120aedffd087739b26267b63fbe1cc4925518d912.jpg> 巨人・小林誠司が今季初昇格へ
+      <a href=https://news.yahoo.co.jp/pickup/6539867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8dcf1f66896d07e0a4af6c6e58b3cbed21b5162f5e836cb9db5d8ec630436f94.jpg> 浅村栄斗が2000安打 平成生まれ初
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 14:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 15:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
