@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f167ef18c87a6765f14c5784690f18c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16ce0b23e507554eb8ef1f62e93d776b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a64b5b7d2a5a1307fbd5837345bf2ba8566fc0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000032-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 赤沢大臣、トランプ関税見直し要請「前回以上に突っ込んだやりとり」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 赤沢大臣、トランプ関税見直し要請「前回以上に突っ込んだやりとり」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6149d548d2ad7450361b1f60c8c6b185b0dcae97d6f693b7ca5f424151fc53c0.jpg> 表参道が火の海に 空襲生きた15歳
+      <a href=https://news.yahoo.co.jp/pickup/6539823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
+      <a href=https://news.yahoo.co.jp/pickup/6539844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3c1743e15f5f5d80efaed1ea2f75c988660fb68532c09028bbb14813bf5b1e41.jpg> 独身税と批判も 子を巡る支援制度
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2849c514be646ef1ab900cb2c588c3e8d951dbcf3a5c17e187d179466fe10e9d.jpg> ちいかわ早期販売終了 マック謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6539852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/db8dc2331356545d2c8bc6a69f07a04e30d6f52e4d0b2937b4e149241ea354ed.jpg> 初め怖かったが ミャクミャク魅力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2629637f10c9a8bf4f5b42d6d42d8472253daf50f729e81608cb43510d4d6ce7.jpg> 息子のスーツ忘れた母 小さな奇跡
+      <a href=https://news.yahoo.co.jp/pickup/6539841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ed860cf27b21e566dd93a588f4ff09c07a7f0b791cda6964c4cfa9f380afc410.jpg> かつて不評「インディカ米」の今
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/683e279ac3f24dbb723f80fe968e3257d97b297400d3de1f833291c57e98114c.jpg> 大の里の父 親子で泣いた4年前
+      <a href=https://news.yahoo.co.jp/pickup/6539851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b57a5cfbbfb67a068c0c4fa120aedffd087739b26267b63fbe1cc4925518d912.jpg> 巨人・小林誠司が今季初昇格へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 12:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 13:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
