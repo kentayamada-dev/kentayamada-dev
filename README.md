@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d929fd12abffaeeeaa3ccc02e2553b66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/724d367d169256fb9726abef60dd18a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46570b13a09bf49e26d4e1844b2764bae44cf491>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国内統括団体が解散　パラアーチェリー
+      <a href=https://news.yahoo.co.jp/articles/43e69cf9b9946362a529d95a95a4bfcac9805e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000164-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=692&ch=692&exp=10800&fmt=webp> 「６９歳に見えない」久々登場の島田紳助氏の姿にＳＮＳも反応「何か若くなった」前日に激変ぶり話題も「変わってない」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 02:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 02:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
