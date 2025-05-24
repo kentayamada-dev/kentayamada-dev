@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fffc1248ba99a08fcccb68a3fe3ec12d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51930ab562b4702e849c231c8a114374.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0d4e8e9c316a0aacb730d4d1c7f85f7b9b137c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3039d752e1621dfbea9255055366fadb26766916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000052-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ミセスの新番組「テレビ×ミセス」放送、大森元貴と鎮西寿々歌が“疑惑”の真相をお話しします
+      <a href=https://news.yahoo.co.jp/articles/5399e85787e93880edc4b3a397d1c3b41c2d5e06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 伊藤、世界1位に敗れ3位　張本美、木原組も銅―世界卓球
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0614a4c3db04662a971d170ab3adb7fb378cb0e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000045-ann-000-11-thumb.jpg?exp=10800&fmt=webp> 「日鉄とUSスチールの提携を支持」トランプ大統領 経済効果を強調
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539887>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02221032/title-1748052104683.jpeg?exp=10800> この夏台風ラッシュの可能性 解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539913>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/db5ebcdedde480a15c94e234497e4a63961530811b5dc2b3d5b348cd0f3135e9.jpg> 刃物で切られて父親死亡 16歳逮捕
       </a>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/61ae83400846a781761f5b1ada507c3aa427c9ec479e70b3dccd0d6a9f825f73.jpg> ハーバード大留学 王女にも影響か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c24a8a76b8f25ff4e6acf970f33cc19e42cd892b60223b5237781e13d9a46cc2.jpg> 勝手にボランティア登録 市議謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8892cd4bf5091843d7e36785f65ab780837843af62ffc75b676d1c19ec17c454.jpg> 浅村19秒絶句「苦しかった」と涙
+      <a href=https://news.yahoo.co.jp/pickup/6539915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/9a51bbd0072920c2128d8eacb73fdf87a809ff5847949846c0a4c1acc4debc0f.jpg> 給食エレベーター故障 保護者運ぶ
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539893>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bc08f456abcadef13b1db54ec2f02d9d45e55a143e399c1c1e028e2feca3a524.jpg> 重岡銀次朗意識もうろう 救急搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/32ebe1ef2bee5ef61c181df157bae1c0ba3e4deaf1a74b729e599a5b5ce36557.jpg> ミセス グループ初MC冠番組決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 20:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 21:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
