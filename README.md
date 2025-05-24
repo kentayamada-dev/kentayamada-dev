@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f5387f78cad248ed7742e01f22bed68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac93b871a2d4d8a0aefad5791fe8be45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e69cf9b9946362a529d95a95a4bfcac9805e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000164-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=692&ch=692&exp=10800&fmt=webp> 「６９歳に見えない」久々登場の島田紳助氏の姿にＳＮＳも反応「何か若くなった」前日に激変ぶり話題も「変わってない」
+      <a href=https://news.yahoo.co.jp/articles/67ba41283a54f204ace15de224694a2735af6271>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-21935338-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 【洪水警報】三重県・伊勢市に発表 25日01:40時点
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 03:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 03:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
