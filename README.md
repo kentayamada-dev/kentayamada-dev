@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb21fd57ee0043dc82eb971cf96a3c76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fec596b12a3cc54898ebbf89b65bf29b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f03d8739e6a8bc326fdf6dfff12c51f92133421>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241225-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1057&ch=1057&exp=10800&fmt=webp> 島田紳助さんがリングに登場「最後まで感動させてください」、亀田興毅、涙ぐみながら「和毅、根性出せや！」
+      <a href=https://news.yahoo.co.jp/articles/6c789ebd9149e1da9d94bb0fafbc801c4624da0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000086-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=905&ch=905&exp=10800&fmt=webp> 64歳誕生日の哀川翔、「感覚的に20代。まだまだいけますよ」主演映画「オールドカー」舞台あいさつでサプライズ祝福
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eec920b6a0fcbd90e75449219519d1e5050125f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 投手大谷、打者に投球へ　右肘手術後初めて―米大リーグ・ドジャース
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000053-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 投手大谷、打者に投球へ　右肘手術後初めて―米大リーグ・ドジャース
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/847367175a31f78e641afe5209fbecd6ff477b048b6e1e5f628eb2fba414168b.jpg> オンラインカジノ 全て失った男性
+      <a href=https://news.yahoo.co.jp/pickup/6539889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3f43744e4dec984f863ba4220d7ea1e2b3a9f4267a313a7693e5a215c317d621.jpg> 離職増の海保 背景に「転勤NG」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2760b15420000f2e84efc1f9307bed15e838482f071190d9d3c2f4a38dedb74b.jpg> マイナカード運用 医療現場の反発
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0b217a5a2335d51b6fd7f261620634ff786738b8773eb44b07ffb038a323da81.jpg> 浅村2000安打 妻「人として尊敬」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 18:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 18:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
