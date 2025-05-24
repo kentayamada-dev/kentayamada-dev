@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7b5475cb2e4a99aaa0251c1963264f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/147065e880b23845a974e5f9d5106be9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18160786bdaf6b217bab2370bdd0c5b9ffb378fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-90025644-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 高橋一生「とても幸福な事」と感謝！飯豊まりえは「ちょっとズルをして…」とぶっちゃけ
+      <a href=https://news.yahoo.co.jp/articles/eec920b6a0fcbd90e75449219519d1e5050125f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 投手大谷、打者に投球へ　右肘手術後初めて―米大リーグ・ドジャース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2dfae7df440196d7cf8aba86c254ccab2609c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷、26日に実戦形式の登板　右肘手術後初めて打者に投球へ
+      <a href=https://news.yahoo.co.jp/articles/18160786bdaf6b217bab2370bdd0c5b9ffb378fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-90025644-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 高橋一生「とても幸福な事」と感謝！飯豊まりえは「ちょっとズルをして…」とぶっちゃけ
       </a>
     </td>
   </tr>
@@ -379,22 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bad26dc3385f6f2119d60247bf1154bef99bbd6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976689-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相3回目となる日米関税交渉…ラトニック商務長官と個別協議も　6月のG7に合わせた合意も視野に協議進める考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/140cb371ab48ac9e98ed0cc422957d1327268c09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976688-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄とUSスチールの提携“歓迎”する意向　USスチール「リーダーシップと配慮に深く感謝する」 日本製鉄も「ご英断に心より敬意」とコメント
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,32 +386,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/51fc03836106663f6d85e6284adb1cedb3eda9dc72b1c71f47544df15a9a66ad.jpg> 小泉氏 コメ価格巡り生産者と懇談
+      <a href=https://news.yahoo.co.jp/pickup/6539872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/7dc04a608b7e5fe967454ea4009ba19c01b39cf6f982dfe9f458263477308f39.jpg> トランプ氏 原発新増設の大統領令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a9166e1a75fc6dfcb01a05b6eb506272cc490ebb97e72e7a28d308fb003a47c2.jpg> USスチール「トランプ氏に感謝」
+      <a href=https://news.yahoo.co.jp/pickup/6539876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5d7acb8ef404037df1c48fafd15e9cd716dd2124d0beb708088b7d0ac851fef1.jpg> 万博23日の来場者最多 開幕日超え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/efbf0db467c4808beef6048976f4e8b36510feafdc93dc5a4650e9195cf173d4.jpg> ミャンマー拠点詐欺 16歳生徒逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c1ccf846f36bf57a25433576b9da667ccc39bf279d75b17e14d4c41e4474e1f6.jpg> 住基ネット 大阪市でトラブル頻発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/9460169c02ec50b9efbc004d88ad5bddc7a9984d4d6082fccda8fef19037c1ff.jpg> ボーナスの給与化 メリデメは
+      <a href=https://news.yahoo.co.jp/pickup/6539883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/847367175a31f78e641afe5209fbecd6ff477b048b6e1e5f628eb2fba414168b.jpg> オンラインカジノ 全て失った男性
       </a>
     </td>
   </tr>
@@ -450,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3343ffc9943d916b6b218d0128f0f8f81b2f84b44d9d8c09c039afde84113643.jpg> 横浜高の連勝止まる 球場どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6539886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0b217a5a2335d51b6fd7f261620634ff786738b8773eb44b07ffb038a323da81.jpg> 浅村2000安打 妻が祝福メッセージ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/38c9804038b7e3b9b0d784633d23f050974c65afade0759e852bfc60e68d350e.jpg> 異例 クマ出没でゴルフ競技中止
+      <a href=https://news.yahoo.co.jp/pickup/6539881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/52b6f246c559078965102195e79af747e8f6e3c17eec22487501d6c00db1c18a.jpg> 行司が土俵から転落 親方が説明
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 16:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 17:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
