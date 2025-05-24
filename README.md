@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfee63373a1853274c84143f775ba2cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a126076e4026b6b28a0b3c43f0b07cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f592b22f43df611e55dc4cd4fb44578e092885cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241083-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースが日またぎの延長１３回死闘制して３連勝　大谷翔平１０打席ぶり安打で５の１…試合終了は午前０時５５分
+      <a href=https://news.yahoo.co.jp/articles/76c436008e36e88f38fb85a149333860d5e35837>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241112-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷翔平の２５日のライブＢＰ登板延期が決定　ロバーツ監督が明言…雨天１時間３８分中断＆延長１３回の死闘による体調面を考慮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab6c2592c6fff13ac0063494081f7ff328a0c934>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01713235-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> エンゼルスは破竹の8連勝で勝率5割　菊池雄星が6回途中無失点で待望の今季初勝利
+      <a href=https://news.yahoo.co.jp/articles/a157d24399a642fb8ec00a408109fcb61d230225>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976691-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 各地で警報級大雨の恐れ…宮崎県と鹿児島県に大雨警報が発表　土砂災害や河川の増水、氾濫などに警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc46729641382bece602634f96016279d10cedef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976690-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権のハーバード大学留学停止を連邦地裁が“一時差し止め”「回復不能な損害をかぶることになる」とする大学側の主張を認めたため
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78918b4c3fcbb662e7c7094b1725ef058df7cf88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000021-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自民党内で消費税の勉強会開催　高市氏「食料品を0％に」　石破総理は否定的
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4a106730941d3f00297c042410c4e2713023856de61a9897ac3afeb33202b573.jpg> 西日本を中心に激しい雨 警戒を
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539832>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/3c1743e15f5f5d80efaed1ea2f75c988660fb68532c09028bbb14813bf5b1e41.jpg> 独身税と批判も 子を巡る支援制度
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0bbcd793544dfac660d92776692d9452e27ba3d753cac77ac579440e39cc9642.jpg> 殺害された保護司に会い更生 思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539849>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/d61b89f130a0e9f53b1f39e0656923e912e4c576678819b6e848a4cda6bb60a5.jpg> ドイツの駅で無差別刺傷 女を拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/124711a2f441083dc9fec126a66bf5a7ab1693b2ab05ee74c9058937e10fbb0f.jpg> 園でリンゴ詰まり意識不明 父望み
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 14:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 14:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
