@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/117d8323bb7a478bd5c900e438835116.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f9b1397571806ad62dd83b8e771aa7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60f478f56cafb27a1da4256e38a39c95a057325b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00003548-kab-000-1-thumb.jpg?exp=10800&fmt=webp> 「家庭教師のトライ」運営会社　教材で「水俣病は遺伝する」と誤表現
+      <a href=https://news.yahoo.co.jp/articles/634a213a7d0d9057f95a7602c3019d1a937aae52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山梨の住宅、心肺停止の男性が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96f96cc6ff7ece3b8030a51b5497624d59a50e18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 男性失踪直後に重機を操縦　逮捕の長男、遺体を遺棄か
+      <a href=https://news.yahoo.co.jp/articles/949e2e19ce451d0ad24a1116a08c1463b42094e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000013-kumanichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「水俣病が遺伝する事実はない」　誤り配信でトライグループがおわび掲載　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/524e22286fea8e4257d69df8f9e7faf62e4f1de9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-06172951-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大谷翔平が“千賀先輩”をいじる　ガン無視からの深々と丁寧なおじぎで挨拶　山本由伸も思わず笑う
+      <a href=https://news.yahoo.co.jp/articles/049e6587a66d33d6df159a54d89a4953d53578ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35241529-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、計５時間46分の激闘　手術後初実戦形式の投球練習は延期に…ロバーツ監督理由明かす
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/db5ebcdedde480a15c94e234497e4a63961530811b5dc2b3d5b348cd0f3135e9.jpg> 刃物で切られて父親死亡 16歳逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539902>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/61ae83400846a781761f5b1ada507c3aa427c9ec479e70b3dccd0d6a9f825f73.jpg> ハーバード大留学 王女にも影響か
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/eef2dddafcc2dbee6bc025c2733a03a5bfbcf18c8f24f734469f259642083df9.jpg> 資材置き場に男性遺棄 重機使用か
+      <a href=https://news.yahoo.co.jp/pickup/6539904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c24a8a76b8f25ff4e6acf970f33cc19e42cd892b60223b5237781e13d9a46cc2.jpg> 勝手にボランティア登録 市議謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ed9312d7334063c3f7d4c2421efa08d8e9385f3102c4554d1641eb4b4f2d60bc.jpg> 教材の水俣病記述巡り トライ謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/efd545c746d6b389ea834fa5f33404807deb8a6921915b06d5f8ed90bbc50ce4.jpg> マック「マイクラ」も完全終了
+      <a href=https://news.yahoo.co.jp/pickup/6539901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/003bc9b2ed11814644368d8606e60d62eb0bcbbf12293eb810375f3ce833710c.jpg> 浅村19秒絶句「苦しかった」と涙
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 19:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 20:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
