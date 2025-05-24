@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c4cc1ba48fa7bfbf7a2d73264ab5b74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05e9825408d0c1ce7030f3a0f492da67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a723dc37daa7c334d711f47dab01a123bdbb4c31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000161-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 亀田和毅は判定負けも、現役続行を示唆　「バチバチにやられたわけではなく、自信になった。もう少しの工夫でいける」
+      <a href=https://news.yahoo.co.jp/articles/b2e5682219070245910407019f213a780be7277c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000166-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1035&ch=1035&exp=10800&fmt=webp> 亀田和毅「俺の実力が落ちてやられてるわけじゃない。ちょっとの工夫でいけると思う」 -
       </a>
     </td>
   </tr>
@@ -378,6 +378,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/95b228c85875ee67646021a877e715187c5d967df9dfe92a7c61a70e5702f25f.jpg> コメ高止まり 備蓄米の流通解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539924>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/928589513f4c5a0a1947c3287d4be8315628d355d38fc222d16e14223fbd762f.jpg> 揺れる「日産の街」広がる不安
       </a>
@@ -386,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/40496a00c37293a83a0354a30fd72f6eb3ca259b09c478c46a785ddccfb9a864.jpg> 刃物で切られて父親死亡 16歳逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/394b8461073b51ca770124e919252ecd8921098f0ced5a74acb5c27c6f3d4cb4.jpg> 離婚後の母子住宅確保 弁護士の技
+      <a href=https://news.yahoo.co.jp/pickup/6539927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b8c0064524942135870ca3667334bb6a9bfc91fa711df6cd0bc92eca6dceaae8.jpg> 山梨のコストコ盛況 思わぬ弊害も
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/e27c8ffe7f2b3cb93f87c017f1ef3a066381bdb6828b2c91ba30116b384a3bf4.jpg> 伊藤美誠 世界女王・孫穎莎に完敗
+      <a href=https://news.yahoo.co.jp/pickup/6539930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/e4c3a214f75975c1235695ba9f420569ee318227f55b752e8072c3d14317913e.jpg> 紳助氏リングに 亀田興毅氏涙ぐむ
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 22:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 22:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
