@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16ce0b23e507554eb8ef1f62e93d776b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24135f2e916fe33739825728d0c3baf6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34d4421502070947efa1869819c14fadd2e26c67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241069-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が１０打席ぶり安打で打率３割復活　５打席目にようやく初安打も盗塁死
+      <a href=https://news.yahoo.co.jp/articles/a65e5b330fa3ed11372f1a7adf3c282c06112d90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000041-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャースは今季2度目の〝日跨ぎ〟試合　1時間38分中断＆延長突入　守護神が九回に炎上して3失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bdb766f1d4444b8d515c5f5ee0152e6b931f2655>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35240478-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> 【巨人】田中将大が２軍調整後２度目の登板、捕手大城卓　坂本は「２番DH」で復帰／スタメン
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/140cb371ab48ac9e98ed0cc422957d1327268c09>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976688-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄とUSスチールの提携“歓迎”する意向　USスチール「リーダーシップと配慮に深く感謝する」 日本製鉄も「ご英断に心より敬意」とコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/101fdb6f41325c65ab0252c7c31c77317bcc8926>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000052-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=1649&ch=1649&exp=10800&fmt=webp> 巨人・大城卓が２軍の試合前練習に合流　川相２軍野手総合コーチからバントの指導を受ける場面も
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0574670ac6e8f371a88e0838a4b8814c6326263d7f55748b359ce1c5127392b2.jpg> 3台絡む事故 車残し複数人が逃走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539842>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/fb94f01a47e60b16e89c01cfb844efbbe49ccbd6ce26bf770fe08318efc770d3.jpg> 汚物片手に抗議の住民 悩む公務員
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/db8dc2331356545d2c8bc6a69f07a04e30d6f52e4d0b2937b4e149241ea354ed.jpg> 初め怖かったが ミャクミャク魅力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ed860cf27b21e566dd93a588f4ff09c07a7f0b791cda6964c4cfa9f380afc410.jpg> かつて不評「インディカ米」の今
+      <a href=https://news.yahoo.co.jp/pickup/6539843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2629637f10c9a8bf4f5b42d6d42d8472253daf50f729e81608cb43510d4d6ce7.jpg> 息子のスーツ忘れた母 小さな奇跡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 13:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 13:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
