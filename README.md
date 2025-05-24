@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7c901a3711c5a6f9d63a4b244ec2038.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1fff0ed3450600359a8eb942110b783.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3799220483c1bf06dd91febc778d7c3fd18a849>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00050051-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=377&ch=377&exp=10800&fmt=webp> 大谷翔平、打者相手に実戦形式の投球練習へ…ロバーツ監督「ショウヘイにとって前進だ」
+      <a href=https://news.yahoo.co.jp/articles/3c181abe69c5436de429f69196c85b8f17fb19c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000255-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第2打席は四球で出塁　試合前に千賀滉大、山本由伸らと談笑　26日には千賀と今季初対戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2ef5c4ffed56930807869b8409f88b20761bc85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01672283-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 勝利監督インタビューに甲斐拓也　巨人・阿部監督が“粋な？”計らい　「一度は断った」
+      <a href=https://news.yahoo.co.jp/articles/0760ba86f45d52c3fd1f88ebe71f53b40b1234f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00317861-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 日本製鉄のUSスチール買収、トランプ大統領が承認の意向　日鉄も歓迎コメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14b8947740a0bc04e32fbf70f926bed86bb809ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976656-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> USスチール買収“トランプ大統領承認”と現地報道　日本製鉄「ご英断に心より敬意」
+      <a href=https://news.yahoo.co.jp/articles/c04d0b0e186df2cd0b448e7ab513078ac8ec8d30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00257069-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=483&ch=483&exp=10800&fmt=webp> 米国で突然「留学ビザ」を失う悪夢　猶予はわずか15日、家族連れの邦人男性が「国外退去」を免れた理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50a17932e22e0b4d740248842b7cbefde007f7b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976661-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 神戸・連続児童殺傷事件から28年…被害者の土師淳君の父親が手記を公開「次男への思いは変わることはありません」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a125e26c9bdbb8a807850d0a31181362eb151a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e37060f68a8033c110efd174e79dd78b35562015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> B・ジョエルさん公演中止　脳に疾患、治療のため
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/52a2d8da2ae109ff67240d5c2f46040d1e76e4b12ad5ee6bc930a42b81e5f929.jpg> 基地局巡り 楽天モバイル行政指導
+      <a href=https://news.yahoo.co.jp/pickup/6539825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/64c646a62537d31a7de7d96002d1a66a20faf7487889583fe4df35f86bd897d4.jpg> 日産 マリノスと野球部は継続方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/dd5bc4135e6d236b3bb7c7e0a9240c425136e9c4decf4d2e287e399ef7e1c401.jpg> スプレーでけがさせた疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6539819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/23c4a3c5517f2533ee6ebc4bd5bfc7031730de557b6d619528c953a8ba3d74f9.jpg> 広島女学院大 共学化し名称変更へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2d63226f8d2c41b8830f9b381dc90387a6f9d5f7c8259331a0f2028cc91bcb9b.jpg> 大谷翔平 25日に実戦形式で登板へ
+      <a href=https://news.yahoo.co.jp/pickup/6539828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2849c514be646ef1ab900cb2c588c3e8d951dbcf3a5c17e187d179466fe10e9d.jpg> ちいかわ早期販売終了 マック謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 08:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 09:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
