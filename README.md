@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1fff0ed3450600359a8eb942110b783.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8f19c1bbce41468e2cad7cbdb09c108.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c181abe69c5436de429f69196c85b8f17fb19c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250523-00000255-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第2打席は四球で出塁　試合前に千賀滉大、山本由伸らと談笑　26日には千賀と今季初対戦
+      <a href=https://news.yahoo.co.jp/articles/4ae653348b60dbd7b6575e6c72541c89b990dbfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、日鉄・USスチールのパートナーシップ承認意向　「7万人雇用と効果2兆円」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0760ba86f45d52c3fd1f88ebe71f53b40b1234f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00317861-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 日本製鉄のUSスチール買収、トランプ大統領が承認の意向　日鉄も歓迎コメント
+      <a href=https://news.yahoo.co.jp/articles/431dec4edeb8e33a8d04eb2cf25b0af9c9824f0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-10179985-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 小泉農林水産大臣、備蓄米5kgで2000円を想定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b93177d3676577781e5fac0b84b3ce81da5d04e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000003-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース―メッツ戦は雨脚強まり午後8時前に中断　大谷翔平が四球→タッチアップ後に…　深夜ゲーム必至
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/141c53eead826bd8284a112f8f0ee8eb5c1ac52e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000108-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=835&ch=835&exp=10800&fmt=webp> ドジャース―メッツ　3回ド軍攻撃中に雨が強まり試合中断　大谷翔平は投ゴロ、四球
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50a17932e22e0b4d740248842b7cbefde007f7b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976661-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 神戸・連続児童殺傷事件から28年…被害者の土師淳君の父親が手記を公開「次男への思いは変わることはありません」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a125e26c9bdbb8a807850d0a31181362eb151a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000345-oric-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 中居正広氏側、フジ第三者委の回答に猛反発「到底承服いたしかねます」　証拠開示を再要求
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6e7193b3dcd1d40b8601f21f4c493dfada6c897574078229740f15123452713b.jpg> 基礎年金底上げ 与党が受け入れへ
+      <a href=https://news.yahoo.co.jp/pickup/6539829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6ae7fffe2c31266584b5e253a95d189007a8c5ce7bce045fdf6c7873f019e4ac.jpg> 日鉄 トランプ氏の「英断に敬意」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/b5c61d0f6f8ebd875b69d3d1f827b3db82e6ea830ae7be3256c7ae1fc0b24b14.jpg> 米大統領がUSS買収承認と関係者
+      <a href=https://news.yahoo.co.jp/pickup/6539815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6e7193b3dcd1d40b8601f21f4c493dfada6c897574078229740f15123452713b.jpg> 基礎年金底上げ 与党が受け入れへ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/64c646a62537d31a7de7d96002d1a66a20faf7487889583fe4df35f86bd897d4.jpg> 日産 マリノスと野球部は継続方針
+      <a href=https://news.yahoo.co.jp/pickup/6539817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/76d24726594d7dd48ac65a7f874932d6e500b52d6e15d5285b9ef1b618aab3bb.jpg> 日本からハーバード大 留学生不安
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/23c4a3c5517f2533ee6ebc4bd5bfc7031730de557b6d619528c953a8ba3d74f9.jpg> 広島女学院大 共学化し名称変更へ
+      <a href=https://news.yahoo.co.jp/pickup/6539825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/64c646a62537d31a7de7d96002d1a66a20faf7487889583fe4df35f86bd897d4.jpg> 日産 マリノスと野球部は継続方針
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/7a22cfd1c35c0fe946f77e4686b6ecd37cc103f38e57b2c7ead3505f27d81f76.jpg> ビリー・ジョエル 脳疾患を発表
+      <a href=https://news.yahoo.co.jp/pickup/6539826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/864bd172be61003d53d0c635ffd683c8adfaa05f7b3501f57a1b97ce7ffa56cb.jpg> 由伸が千賀を出待ち 長時間談笑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8162787ed9a21deb475e14f791e92480083badfc2aada5585c9b10ecb206c316.jpg> ひし美ゆり子が結婚 熊本に移住へ
+      <a href=https://news.yahoo.co.jp/pickup/6539822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/cd1c08d605a1dfb93f9a8be1ab97d099cd92a26888d7130246b9249c5a2020ae.jpg> 南野陽子 大学客員教授に就任へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 09:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 09:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
