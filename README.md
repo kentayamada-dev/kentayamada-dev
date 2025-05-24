@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24135f2e916fe33739825728d0c3baf6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfee63373a1853274c84143f775ba2cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a65e5b330fa3ed11372f1a7adf3c282c06112d90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000041-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャースは今季2度目の〝日跨ぎ〟試合　1時間38分中断＆延長突入　守護神が九回に炎上して3失点
+      <a href=https://news.yahoo.co.jp/articles/f592b22f43df611e55dc4cd4fb44578e092885cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-05241083-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースが日またぎの延長１３回死闘制して３連勝　大谷翔平１０打席ぶり安打で５の１…試合終了は午前０時５５分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdb766f1d4444b8d515c5f5ee0152e6b931f2655>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35240478-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> 【巨人】田中将大が２軍調整後２度目の登板、捕手大城卓　坂本は「２番DH」で復帰／スタメン
+      <a href=https://news.yahoo.co.jp/articles/ab6c2592c6fff13ac0063494081f7ff328a0c934>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01713235-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> エンゼルスは破竹の8連勝で勝率5割　菊池雄星が6回途中無失点で待望の今季初勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a64b5b7d2a5a1307fbd5837345bf2ba8566fc0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 赤沢大臣、トランプ関税見直し要請「前回以上に突っ込んだやりとり」
+      <a href=https://news.yahoo.co.jp/articles/bad26dc3385f6f2119d60247bf1154bef99bbd6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00976689-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相3回目となる日米関税交渉…ラトニック商務長官と個別協議も　6月のG7に合わせた合意も視野に協議進める考え示す
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/22bf2e44288386092650eea85d4a1bb65bf1d070ba75f183cafcca0b4255e838.jpg> 備蓄米5kg2000円方針 首相の見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0bbcd793544dfac660d92776692d9452e27ba3d753cac77ac579440e39cc9642.jpg> 殺害された保護司に会い更生 思い
+      <a href=https://news.yahoo.co.jp/pickup/6539832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4e046c1f9f7d90a4215d2a1cb18a96de06f5f2485c0e1dcdb6bc3cf35b86a0f8.jpg> 内閣不信任案巡り 悩む立憲代表
       </a>
     </td>
   </tr>
@@ -426,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0bbcd793544dfac660d92776692d9452e27ba3d753cac77ac579440e39cc9642.jpg> 殺害された保護司に会い更生 思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/d61b89f130a0e9f53b1f39e0656923e912e4c576678819b6e848a4cda6bb60a5.jpg> ドイツの駅で無差別刺傷 女を拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539855>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/0574670ac6e8f371a88e0838a4b8814c6326263d7f55748b359ce1c5127392b2.jpg> 3台絡む事故 車残し複数人が逃走
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/fb94f01a47e60b16e89c01cfb844efbbe49ccbd6ce26bf770fe08318efc770d3.jpg> 汚物片手に抗議の住民 悩む公務員
+      <a href=https://news.yahoo.co.jp/pickup/6539859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c6f301a421e67462c634697c4f49e2fc4032de4dbf9a5b5eeb7b9c03ef81258e.jpg> 作家・岸田奈美さん 結婚を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/2629637f10c9a8bf4f5b42d6d42d8472253daf50f729e81608cb43510d4d6ce7.jpg> 息子のスーツ忘れた母 小さな奇跡
+      <a href=https://news.yahoo.co.jp/pickup/6539858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a5c45f8643f542337ab33438769a4512fbd3be4c56afb0054170eb2ea880cd68.jpg> 菊池雄星、待望の移籍後初勝利
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bdc229f7d97929d289dd9fcd042caae9685e7298227fb52d5c3e56dcce7259d9.jpg> 河北麻友子 第2子の妊娠を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 13:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 14:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
