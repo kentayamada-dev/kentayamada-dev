@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f21e89c780a4a2e12d88233c855714f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7b5475cb2e4a99aaa0251c1963264f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83aa3765470a669ace7368dfc5ad82464157a2fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000039-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【イベントレポート】岸辺露伴の“整っていない”という魅力、高橋一生「そこにシビれる！あこがれるゥ！」
+      <a href=https://news.yahoo.co.jp/articles/18160786bdaf6b217bab2370bdd0c5b9ffb378fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-90025644-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 高橋一生「とても幸福な事」と感謝！飯豊まりえは「ちょっとズルをして…」とぶっちゃけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29298226f90c723ca24cd1da36d3a526845b3a0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-01759775-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が先輩に取った“まさかの行動”　真顔でボケる姿に「クソガキだな笑」
+      <a href=https://news.yahoo.co.jp/articles/db2dfae7df440196d7cf8aba86c254ccab2609c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷、26日に実戦形式の登板　右肘手術後初めて打者に投球へ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/05a5c43cb560016b2869107e524be6aec034042721d79d0b4d3727d5272d2e25.jpg> 日産社長 黒字化計画に「覚悟」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a9166e1a75fc6dfcb01a05b6eb506272cc490ebb97e72e7a28d308fb003a47c2.jpg> USスチール「トランプ氏に感謝」
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/124711a2f441083dc9fec126a66bf5a7ab1693b2ab05ee74c9058937e10fbb0f.jpg> 園でリンゴ詰まり意識不明 父望み
+      <a href=https://news.yahoo.co.jp/pickup/6539868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/9460169c02ec50b9efbc004d88ad5bddc7a9984d4d6082fccda8fef19037c1ff.jpg> ボーナスの給与化 メリデメは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/5bf11049223875b90ffacee7a2608899043319c43444faf1f1eceac4183fad3e.jpg> chocoZAP 悪質利用者に措置実施
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/63e3c237e69c3010489551f565de0ed8b64f06e9be126009e42325699d33b037.jpg> 伝統行事参加の馬死ぬ 列車と衝突
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/caec59afe0ec7c49e23e210ca04f9222d0dbda67b5668237bc44c20eff3a9016.jpg> 飯豊まりえ イタリア語撮影でズル
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 16:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 16:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
