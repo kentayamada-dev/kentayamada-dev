@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49f3e78ac7832b3339758be83c46232a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c7279527a64c0be0beb09ce4021cf38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -378,24 +378,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/885aa02567d99cfbb35ac1a825c3bb450b207cfe9e0eb1354b5ca9a8a689c267.jpg> 森山氏 コメ安ければいいではない
+      <a href=https://news.yahoo.co.jp/pickup/6539952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/677a251e69d445b147e199ffe6dd1535f9f595cf5ba90398f3a5f0d4f155195c.jpg> 巨額投資でこう着打開 日鉄の執念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4beed6c7bd5c40c83d51660426154c77c9e9c813d8b2e3c4dd6c99170d54efe9.jpg> ロヒンギャの船難破 427人死亡か
+      <a href=https://news.yahoo.co.jp/pickup/6539950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/40a01bb850c1f9f83bc5c7e79880946e7da0917e91983241a910df53b7a2a19b.jpg> ガザの医師宅に攻撃 子供9人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5df6b944c012b1104e80c019a52f1bd6ca7452b6a7f38ebbc6adf85638dbabc4.jpg> カンヌで大規模停電 放火原因か
+      <a href=https://news.yahoo.co.jp/pickup/6539951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/e44c49a399de8d3b9eee05a384ec9493fee2f7b411ea79673c5c9b602a55a52d.jpg> 倒木にトラック衝突 運転手死亡
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ef7a2ec4d75480896fb87e55863806cf33938f7c5237f4449e02b865ca997bdc.jpg> 兵庫県庁離れ加速 愛想尽きたの声
+      <a href=https://news.yahoo.co.jp/pickup/6539946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5df6b944c012b1104e80c019a52f1bd6ca7452b6a7f38ebbc6adf85638dbabc4.jpg> カンヌで大規模停電 放火原因か
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 07:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 08:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
