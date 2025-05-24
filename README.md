@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ede70ba9fad96cc00357c5f627e295d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3686d87156ee421ae05ab33e6d5bb3b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46570b13a09bf49e26d4e1844b2764bae44cf491>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国内統括団体が解散　パラアーチェリー
+      <a href=https://news.yahoo.co.jp/articles/43e69cf9b9946362a529d95a95a4bfcac9805e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000164-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=692&ch=692&exp=10800&fmt=webp> 「６９歳に見えない」久々登場の島田紳助氏の姿にＳＮＳも反応「何か若くなった」前日に激変ぶり話題も「変わってない」
       </a>
     </td>
   </tr>
@@ -370,8 +370,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/63d65cf2b320802eb5209470d3738e031ab55ccf1666ec6add981537c33d270a.jpg> 四国-関東甲信 警報級大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6539940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/82c52b2d7b687d2d20b2c7c3d093c3c66deea92cbaa39efa99781b6680747f5d.jpg> 電気ガス支援 予備費3900億円予定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562310105_1562310073_aflo_92042562.jpg> 戸籍に読み仮名 新制度で詐欺警戒
       </a>
     </td>
   </tr>
@@ -379,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a2607c429bdc6c717859f10ce7bc8ed68b7fb81ba3e436af3b7d20328aaf6b90.jpg> 森山氏 コメ安ければいいではない
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/885aa02567d99cfbb35ac1a825c3bb450b207cfe9e0eb1354b5ca9a8a689c267.jpg> 森山氏 コメ安ければいいではない
       </a>
     </td>
   </tr>
@@ -388,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539932>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/ef7a2ec4d75480896fb87e55863806cf33938f7c5237f4449e02b865ca997bdc.jpg> 兵庫県庁離れ加速 愛想尽きたの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/6f2e4db9be71cc385d92ce4c927b1392b4b11d7b38bb82552c88cdec76a4de01.jpg> 母は絶望と悲観 1歳息子が難病に
       </a>
     </td>
   </tr>
@@ -410,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/c663ea85a325bd2bf8d4105721131c71404243c0e0651b44d31bebaf883c9099.jpg> 重岡銀次朗 判定聞いて意識が遠く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/dd34dd0050efce3d37ff24e3718ca62b1467aeb9f4e8f24fe31496266957b7b3.jpg> 阪神監督が苦言 中日の抗議に疑念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/e4c3a214f75975c1235695ba9f420569ee318227f55b752e8072c3d14317913e.jpg> 紳助氏リングに 亀田興毅氏涙ぐむ
+      <a href=https://news.yahoo.co.jp/pickup/6539941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/f054f40a5c4a21505fe13f07df5c41cd90f924e3fd64f6a73a372c29e8d0ba38.jpg> 島田紳助氏リングイン 涙でエール
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 23:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 23:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
