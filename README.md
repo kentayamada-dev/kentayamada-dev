@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f9b1397571806ad62dd83b8e771aa7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fffc1248ba99a08fcccb68a3fe3ec12d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/634a213a7d0d9057f95a7602c3019d1a937aae52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山梨の住宅、心肺停止の男性が死亡
+      <a href=https://news.yahoo.co.jp/articles/b0d4e8e9c316a0aacb730d4d1c7f85f7b9b137c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000141-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 大谷翔平、2戦ぶり「H」も試合時間5時間46分で疲労困憊…ライブBP登板は1日延期し26日に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/949e2e19ce451d0ad24a1116a08c1463b42094e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000013-kumanichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「水俣病が遺伝する事実はない」　誤り配信でトライグループがおわび掲載　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/049e6587a66d33d6df159a54d89a4953d53578ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-35241529-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、計５時間46分の激闘　手術後初実戦形式の投球練習は延期に…ロバーツ監督理由明かす
+      <a href=https://news.yahoo.co.jp/articles/3039d752e1621dfbea9255055366fadb26766916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250524-00000052-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ミセスの新番組「テレビ×ミセス」放送、大森元貴と鎮西寿々歌が“疑惑”の真相をお話しします
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/1c835294c0688c3ce6b0655b287725cc57f9b62cb0aa2ebdc0fd6a4b403071bf.jpg> 日鉄の計画承認 傾いたトランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6539918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bbbfa19f9f21f85f99862634b9fc736cdb4413c26df157d8ba5117e92d04319c.jpg> 日米関税交渉の打開策は 状況混沌
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8bb3f01a995914083d2addd6b07aabee46b1a4b2e0c22cebe6fdc6ff08786cf8.jpg> 懲役と禁錮を「拘禁刑」に 背景
+      <a href=https://news.yahoo.co.jp/pickup/6539900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/81d60471df3d04f17373648ac2215b8655f190c1954b04562789cdd4923a4835.jpg> 野田氏 石破氏との討論切なくなる
       </a>
     </td>
   </tr>
@@ -435,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/003bc9b2ed11814644368d8606e60d62eb0bcbbf12293eb810375f3ce833710c.jpg> 浅村19秒絶句「苦しかった」と涙
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8892cd4bf5091843d7e36785f65ab780837843af62ffc75b676d1c19ec17c454.jpg> 浅村19秒絶句「苦しかった」と涙
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 20:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/24 20:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
