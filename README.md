@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be42958b2336d5b3e1facb7ee9a10ab6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec203c48e262249a927abea4360e544e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -370,8 +370,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/82c52b2d7b687d2d20b2c7c3d093c3c66deea92cbaa39efa99781b6680747f5d.jpg> 電気ガス支援 予備費3900億円予定
+      <a href=https://news.yahoo.co.jp/pickup/6539936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/885aa02567d99cfbb35ac1a825c3bb450b207cfe9e0eb1354b5ca9a8a689c267.jpg> 森山氏 コメ安ければいいではない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/a08028ef3c24c4e59b1394ccff215e669591b9bfb515fa760043147568c1e66b.jpg> 関東 雨のあと気温大幅に上昇か
       </a>
     </td>
   </tr>
@@ -380,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539928>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/4beed6c7bd5c40c83d51660426154c77c9e9c813d8b2e3c4dd6c99170d54efe9.jpg> ロヒンギャの船難破 427人死亡か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/885aa02567d99cfbb35ac1a825c3bb450b207cfe9e0eb1354b5ca9a8a689c267.jpg> 森山氏 コメ安ければいいではない
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8056900464114ca2c0c372df352dac096c4cbf759ebe729d00b0e281608425af.jpg> 珍名馬「サラダ」豪快ごぼう抜き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8cd81ce37e83ec328630aee013652bf1075b188bd4e4d2b94d919be3cc7e7782.jpg> 優木まおみ 芸能活動を一時休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6539893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/bc08f456abcadef13b1db54ec2f02d9d45e55a143e399c1c1e028e2feca3a524.jpg> 重岡銀次朗意識もうろう 救急搬送
       </a>
     </td>
   </tr>
@@ -432,11 +424,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8cd81ce37e83ec328630aee013652bf1075b188bd4e4d2b94d919be3cc7e7782.jpg> 優木まおみ 芸能活動を一時休止へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/24 23:52:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 00:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
