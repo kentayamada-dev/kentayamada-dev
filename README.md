@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b17f53fea4f3dcc34cb5c3cbdee4019e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f51b2f2c945eb842256cf0a6f7190e7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/129cd7a44f82325f8acb00dcb5ac80af2d67b147>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01760780-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 大谷翔平は「自信に満ちていた」…641日ぶり打者相手に22球　ド軍投手コーチ「総合的にみれば成功」
+      <a href=https://news.yahoo.co.jp/articles/fdb5eb57857d92ebfb39792d6f484920b4564bf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05251304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 大の里が「唯一無二」に込めた思い　「勉強」１敗、来場所こそ「次の地位で全勝優勝」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/235db013fdb1cbbb8f1e39aa1861ca0f7236abe7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977033-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相が石破首相に直接報告　3回目の関税交渉終え帰国
+      <a href=https://news.yahoo.co.jp/articles/1bd4fd8f93d9bdb31e09234e23141174b81f7763>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000172-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 大谷翔平は「かなりエグい球投げていた」と投手コーチ証言　全球種使い「両サイドにボール動かせていた」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 04:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 05:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
