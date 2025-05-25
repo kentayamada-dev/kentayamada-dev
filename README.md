@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a80ed4397e79819f61b857cd8a24bd7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2361bc5ea92856e4f9a01054c26075e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/346c0dc12394f66cd2dda3a895963c2996e7edf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000343-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 三山凌輝、所属事務所「Flash Up etoile」から独立へ「既に決定しているお仕事は当社がサポート」　BE:FIRST・RYOKIとしても活動を一時休止【3者コメント全文掲載】
+      <a href=https://news.yahoo.co.jp/articles/ace23f265346df091060e21393f07574cde9094d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00801141-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SKY-HIがBE:FIRST・RYOKIの活動休止に胸中「悩み続け」…今後についても言及「向き合っていきたい」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ed5d9fe2380fa76a6a9b23ecd8a2af33b6a62d1328b83d1149901cf6a4ef818a.jpg> ご当地ナンバー カラー一本化検討
+      <a href=https://news.yahoo.co.jp/pickup/6539966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/187d1233bd7b031c0ad218eb5dd7a8519196facf37269c882959ae82ba107051.jpg> ガザ子ども7万人 深刻な栄養失調
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f9b3d0c1b581b4a48a3eb3c6b40fa18f58fe71187661fe23179de1b76750398d.jpg> 東京9週連続で週末雨 行楽地悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6539956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/450e414b6b42797f896689d301006518a897a7c11de2f9423daea8570025a6ae.jpg> スポーツ教室の倒産が高水準 分析
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f49200cbce2d380842cf05c13632a57b34308047442073eccbfc76153e16a17d.jpg> ヤ軍ジャッジ18号HR 敵地も騒然
+      <a href=https://news.yahoo.co.jp/pickup/6539965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/e6059efb655f13e9583899bbf636ac6f889ad54eaef4de8862706297819e5864.jpg> 子が脳性まひ 診断に母「ホッと」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 09:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 10:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
