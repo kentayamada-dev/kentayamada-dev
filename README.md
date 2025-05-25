@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe8e59a521cf9062c5499ef6c4a87342.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/178bb44091d433205ec472e51471f29b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bd842cad00d79efe935da410434a02f422ba1cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10535781-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=685&ch=685&exp=10800&fmt=webp> ドジャース・大谷翔平が二刀流復帰へ前進　641日ぶりの実戦登板で最速156キロ　打者5人に対して22球、1安打2三振
+      <a href=https://news.yahoo.co.jp/articles/13215bd2e3dc4bcf601c0369e571eace49a19243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01760783-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の641日ぶりの雄姿に「ちょっと泣けてくるな」　早朝の日本が歓喜した“22球”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fee7caf77ccc89cb3f9db07cb23f019c3bbe055>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 日本を含む海外勢に“9試合敗北”。世界卓球で苦杯を喫した卓球王国にかつてない危機感「中国代表の優位性は衰えつつある」
+      <a href=https://news.yahoo.co.jp/articles/48d704610f54185bd3184b80d1c24fcee5045f93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00345935-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【卓球】男子ダブルス64年ぶり金メダルの快挙　戸上隼輔が熱く語っていた「プロレス愛」
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/23f128af5fd1fe824f997fa59e43bcb652735ade4f19b8a40af6fdc6991ffa0b.jpg> 障害年金 報道受けひそかに再判定
+      <a href=https://news.yahoo.co.jp/pickup/6540060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aee5a937cbcaaaf2960df3fdb7b2ca913d7d1079c47771c8154c2d6b14df3f73.jpg> 刺され死亡の男性 トラブル仲裁か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aee5a937cbcaaaf2960df3fdb7b2ca913d7d1079c47771c8154c2d6b14df3f73.jpg> 刺され死亡の男性 トラブル仲裁か
+      <a href=https://news.yahoo.co.jp/pickup/6540065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d0f823a1ed730003e8379f3a67c23a9de9affa7cd6e7d81afa9cecbddb69eaf4.jpg> ひき逃げ疑いで米兵逮捕 4人軽傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aad519be2209f201a6d1f93b2dcf1363ed1eda90a6676bdcfbc9945a4efc24a9.jpg> 77歳の男性 クマに襲われ重傷
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 人間よりもAIに悩み相談 リスクは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/420f5ae4cd65247fe1326a03eddf489b5094799b2086c058841aa500a2817d4d.jpg> 大の里の優勝副賞コメ1t どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6540064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/0e43aab11fc6cb7c4b4d1b149ec83690e27fd5832ffa706530e1aad9ec1ff598.jpg> 大谷「ライブBP」登板 手術後初
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 06:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 06:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
