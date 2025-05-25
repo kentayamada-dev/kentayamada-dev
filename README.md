@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5a021696f679f6cf4a58132b5542903.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de5ea60c7423161e33dfbed5ee6aa9fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/136a996cbc05d7d31f70233d93d91a9beaf44aef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-10180115-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=778&ch=778&exp=10800&fmt=webp> コメ高騰 “減反”見直し 政府「農政改革」会合再始動へ
+      <a href=https://news.yahoo.co.jp/articles/19e960761dedca52e9c221c0c35e0a71512cdcf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-21935620-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ担当大臣”小泉新農水大臣、コメ不足認め「減反やめる」　農政のタブーに挑戦、過去の反発乗り越えられるか【サンデーモーニング】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd03f7a438a349dafcb7c4ffa030262a1a65ac74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250685-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、投手復帰は後半戦　ロバーツ監督「ごく自然に進める」26日は手術後初の実戦形式登板
+      <a href=https://news.yahoo.co.jp/articles/1aabbdc9c30d934b7da4db83002261d78e8219d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00097015-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の投手復帰は「大きな出来事」。ドジャース同僚が投手陣に援護を呼びかけ「後押しが必要だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d56542691e3a0ee9f4d4a071ac0379133d2faf60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05963559-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 優木まおみ、8月に娘2人とマレーシアに移住へ　芸能活動は「長期で休む」と発表　不安を明かす
+      <a href=https://news.yahoo.co.jp/articles/2f8a764beeb3f2737e0035afd2d38859de907955>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345853-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 【阪神】藤川球児監督が中日・井上一樹監督と笑顔で握手　スタンドからは拍手起きる
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c73a83a6acc671b88f375109888455e0141ca8dc4bfc683541e9bc6207a9cd1c.jpg> ヤクルト 監督が異例の円陣声出し
+      <a href=https://news.yahoo.co.jp/pickup/6540014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/edf3a791ce3492b390a4e55552629afb98f9517a38447b788d319f60fe69ebf9.jpg> カムニャックが優勝 オークス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/31905dbddc0fb5f894af6e8aeb26209c9d518efce49a2d75ae79e498166de2d6.jpg> 28.8kgの大食いタレント 食生活は
+      <a href=https://news.yahoo.co.jp/pickup/6539991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/94bcf164c59f45b4f7bcb701224c6b35da0198826d752c0c390c32527d9a72fe.jpg> peco 息子に伝えた「自分守る」術
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 15:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 16:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
