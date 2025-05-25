@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f018df25d72e9f3a535173863101d803.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b85cb2f22037c4a50a0edd70df5d25d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,14 +373,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2edab2782d2a10cdeb62deff7b61b3c10a29a96f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251843-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> 【阪神】藤川監督の疑念も解ける　メンバー交換で審判から説明と謝罪「互いにリスペクトしている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95ab161e77365b3a0320ea1b7a49063fdfa55a39>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00096113-president-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=516&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> JA農協は小泉進次郎を鼻で笑っている…「備蓄米5㎏2000円を目指す」コメ担当大臣でも値段は下げられないワケ
       </a>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/e257ef6ddc05402e772d0b0d42d300b5cb4f5a3039bce8aceb9886017a3ba7a5.jpg> 日米交渉 赤沢氏「集中的に協議」
+      <a href=https://news.yahoo.co.jp/pickup/6540039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aaf9cc5d04e8bdd426d80ee56cea6cb1da40c41ed3a69f8ac36a7c8302f3ad63.jpg> 関税 サミット念頭に議論と首相
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fcd854d57f1f6c7da6468839d28a8c86c92118f953cdd24e0074ccbcabed75ea.jpg> あの手この手 高速道路の逆走対策
+      <a href=https://news.yahoo.co.jp/pickup/6540040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1f3947d34cd4a6734eed0f9d040e782cfdeec774431859edfcdda3f5a853ef9b.jpg> 障害ではない 「境界知能」とは
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b045729c43e7d5d26bc4311103c5c4b4dc3e1edb3ff0c2bad7d47d3181b1527c.jpg> いじめ耐えた小中 難聴の日本代表
+      <a href=https://news.yahoo.co.jp/pickup/6540033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/2fee20cbb443fbea789cda6adfe16e9aea9863b4b39a1ecf9a9074ec9a815d25.jpg> 力士は生保加入難しい?親方語る
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 20:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 20:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
