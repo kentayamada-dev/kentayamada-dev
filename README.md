@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/602bce9b955b7e34bb6ad6f999968f37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a30d26d6d01c33868973c522e41151d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f20fb89090f6efea14bb3dfca0749893912fc39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261030-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、６４１日ぶりのマウンドからの投球にファン感激「泣けます」「ワインドアップになってる！」
+      <a href=https://news.yahoo.co.jp/articles/84ef190a2569f4f06120bc00e229b5c2b8a95c15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261034-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=697&ch=697&exp=10800&fmt=webp> 大谷翔平の実戦登板にロバーツ監督「見ていて楽しかった」「とてもエキサイティング」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dff96f8f00492197032180fc18fb521d215d687>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977049-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大会ボランティアに“名刺交換した人”の個人情報を無断提出…名古屋市議会・上園副議長「26人の方、同意を得ずに提出してしまった」
+      <a href=https://news.yahoo.co.jp/articles/2f73ae94d50b6d95bdfe8d66c83c51d63103f4fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977056-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 市民の個人情報を無断提出…来年開催アジア・アジパラ競技大会のボランティア募集難航し　名古屋市議会の副議長“自分のためている名刺の中から使ってしまいました”
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aad519be2209f201a6d1f93b2dcf1363ed1eda90a6676bdcfbc9945a4efc24a9.jpg> 77歳の男性 クマに襲われ重傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540066>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3487eb0f2459c4fd23e7760669c23eb06f7e3290bd5a6338bd182c799a59424b.jpg> サントリーニ島 観光客数を制限
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540058>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 1日100回子の吸引 言えない孤独
+      <a href=https://news.yahoo.co.jp/pickup/6540069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/fd5a17ac0b1ed5cd7484dcb8f432a4c219744359255d29e9e298ca390ad4698b.jpg> ミャクミャク靴反響 ミズノの開発
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/13f20bfdaa67caf3a30240f9421d26c183c3e2c28dbaa2430f7550050e969606.jpg> 村上信五 会社を起業していた
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 07:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 07:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
