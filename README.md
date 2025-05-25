@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/471453531ab32160976af56f469e6d97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7500acc59a6d9fa64f019362f9e58989.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a539318d5cc82e5243c68a9f21ff11dc72915401>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345833-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平の投手復帰は「現実的には球宴明け」とロバーツ監督　マイナー登板も視野
+      <a href=https://news.yahoo.co.jp/articles/caa46f1538efe9868bbb5796093604cda0e97528>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000012-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャースは連勝3でストップ　大谷翔平が同一投手に3三振喫するのは今季初　左腕ピーダーソンに大苦戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ba341b1a28ddf19b027d2b7d59e77f0f67f8b64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-04572559-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=466&ch=466&exp=10800&fmt=webp> RYOKI（三山凌輝）、BE:FIRSTの活動休止へ「Flash Up etoile」からの独立も報告
+      <a href=https://news.yahoo.co.jp/articles/59c3e298a2a9c947e0e63c930ea91aa1878e75f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345835-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＳＫＹ―ＨＩ　「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩの独立受け「今後の彼とも向き合っていきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bb57d73f79c0021c88cbf4562c6cf54e231263e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029937-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 25日(日)は北日本は雨や風が強まる　関東～九州は天気回復も土砂災害に注意
+      <a href=https://news.yahoo.co.jp/articles/8dd1f309827b80452a92c6ab612880e4a10c01ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029938-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 西日本や東日本では200ミリ以上の大雨　雨の範囲は北日本へ　北海道では雪も?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82813730ac81f73dda60fd765a101cac7cbd6d5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000009-jij-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨額投資でこう着打開　日鉄、米国での成長に執念
+      <a href=https://news.yahoo.co.jp/articles/3fdbe2871b58472be2a241fe8db3e6b48cfe74b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000010-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/187d1233bd7b031c0ad218eb5dd7a8519196facf37269c882959ae82ba107051.jpg> ガザ子ども7万人 深刻な栄養失調
+      <a href=https://news.yahoo.co.jp/pickup/6539978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f9411fc87ff2d5a962f102f9fd49046769bd4809d4bc48a1938f9531a7d403f1.jpg> 好感度低下 マスク氏政治色払拭へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539975>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅に2人組の強盗 男性殴り逃走
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6ebc5524fdd9613b32a2a17dff05b79ac20821283d786e1244508ed3ae16a8ef.jpg> 天下一品 なぜ都内で閉店ラッシュ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/e6059efb655f13e9583899bbf636ac6f889ad54eaef4de8862706297819e5864.jpg> 子が脳性まひ 診断に母「ホッと」
+      <a href=https://news.yahoo.co.jp/pickup/6539954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/a8847057df657b92f79810ca13ee16e2bfd7945485afb4a021623852743df0bd.jpg> 睡眠時無呼吸 パンサー菅の治療記
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 10:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 11:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
