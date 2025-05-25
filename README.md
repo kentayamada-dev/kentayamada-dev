@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50fbb13c8e3c5816a8241dff247e401a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f018df25d72e9f3a535173863101d803.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5588a3cb5b6df876ebcafd4424591be919f888c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000370-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【卓球】戸上・篠塚組の64年ぶり快挙に列島沸く「凄すぎて頭がショート」「マジで偉業」「すげえええ」
+      <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
+      <a href=https://news.yahoo.co.jp/articles/ce633f67a9daa8e4bd0669cefe4f9437731b3886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00065953-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「さみしい。また会いたい」パンダとの別れ惜しむ来園者…あすからは“ガラス越しでの公開”予定　和歌山・アドベンチャーワールド
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aad519be2209f201a6d1f93b2dcf1363ed1eda90a6676bdcfbc9945a4efc24a9.jpg> 77歳の男性 クマに襲われ軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6540022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fcd854d57f1f6c7da6468839d28a8c86c92118f953cdd24e0074ccbcabed75ea.jpg> あの手この手 高速道路の逆走対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/d9370fa8baa3969ac3e7887fc1f53cc5702c22e272829b8372365bba4066c9a6.jpg> ラブブ巡り混乱 英で一時販売停止
+      <a href=https://news.yahoo.co.jp/pickup/6540037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/d999d7a20d6ba3e7a933e6dfce58516e9b9398da23416dfaf6e7500d1f19c4d6.jpg> 最後の屋外パンダ 待ち時間200分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/63eed130e4fb1adfdff6b3a58cb309fc3a0883edda5639c872a4ff19cb141f0a.jpg> 快挙 卓球の戸上・篠塚ペアが金
+      <a href=https://news.yahoo.co.jp/pickup/6540038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/63eed130e4fb1adfdff6b3a58cb309fc3a0883edda5639c872a4ff19cb141f0a.jpg> 卓球男子複 日本勢64年ぶりの金
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 19:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 20:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
