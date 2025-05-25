@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/178bb44091d433205ec472e51471f29b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/602bce9b955b7e34bb6ad6f999968f37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13215bd2e3dc4bcf601c0369e571eace49a19243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01760783-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の641日ぶりの雄姿に「ちょっと泣けてくるな」　早朝の日本が歓喜した“22球”
+      <a href=https://news.yahoo.co.jp/articles/8f20fb89090f6efea14bb3dfca0749893912fc39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261030-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、６４１日ぶりのマウンドからの投球にファン感激「泣けます」「ワインドアップになってる！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48d704610f54185bd3184b80d1c24fcee5045f93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00345935-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【卓球】男子ダブルス64年ぶり金メダルの快挙　戸上隼輔が熱く語っていた「プロレス愛」
+      <a href=https://news.yahoo.co.jp/articles/4dff96f8f00492197032180fc18fb521d215d687>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977049-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大会ボランティアに“名刺交換した人”の個人情報を無断提出…名古屋市議会・上園副議長「26人の方、同意を得ずに提出してしまった」
       </a>
     </td>
   </tr>
@@ -386,16 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/478dad7e90fbe58983c583e9c4fb72723ada2fea7bfd771f0cce7f92a8a390a0.jpg> 英首相邸放火 当局は露の関与疑う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aee5a937cbcaaaf2960df3fdb7b2ca913d7d1079c47771c8154c2d6b14df3f73.jpg> 刺され死亡の男性 トラブル仲裁か
+      <a href=https://news.yahoo.co.jp/pickup/6540067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 選手への中傷「深刻」92% 調査
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540063>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aad519be2209f201a6d1f93b2dcf1363ed1eda90a6676bdcfbc9945a4efc24a9.jpg> 77歳の男性 クマに襲われ重傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3487eb0f2459c4fd23e7760669c23eb06f7e3290bd5a6338bd182c799a59424b.jpg> サントリーニ島 観光客数を制限
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 06:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 07:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
