@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2361bc5ea92856e4f9a01054c26075e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/471453531ab32160976af56f469e6d97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ace23f265346df091060e21393f07574cde9094d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00801141-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SKY-HIがBE:FIRST・RYOKIの活動休止に胸中「悩み続け」…今後についても言及「向き合っていきたい」
+      <a href=https://news.yahoo.co.jp/articles/a539318d5cc82e5243c68a9f21ff11dc72915401>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345833-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平の投手復帰は「現実的には球宴明け」とロバーツ監督　マイナー登板も視野
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ba341b1a28ddf19b027d2b7d59e77f0f67f8b64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-04572559-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=466&ch=466&exp=10800&fmt=webp> RYOKI（三山凌輝）、BE:FIRSTの活動休止へ「Flash Up etoile」からの独立も報告
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b57d4199ae752d8c9b677080acbe1fdf504c8b0b2320d98690815da7245ba29e.jpg> 戸籍読み仮名あすから通知 注意点
+      <a href=https://news.yahoo.co.jp/pickup/6539969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/59795d8427c9a75b2e286a6c9189de2784252bf784bba7649cb92b1cdd05e5e9.jpg> 小泉氏に洗礼 野党党首一斉追及へ
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/450e414b6b42797f896689d301006518a897a7c11de2f9423daea8570025a6ae.jpg> スポーツ教室の倒産が高水準 分析
+      <a href=https://news.yahoo.co.jp/pickup/6539968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ea5efd17aed44707f49f66a677b6923104d1ed1ae730f8c82c222454dd2352fd.jpg> 相次ぐ「指導死」現役教員の本音
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/39961f7266776446ed3b6357b89ccf3e564e4371950ca976a5ef6343638ecb56.jpg> RYOKI BE:FIRSTでの活動休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6539974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/21647e3240e826c6bbf2d8f2db9b4bb6aabdafc58cb1b7dee9408e64240354e2.jpg> 大谷はリハビリ中 活躍に監督驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/eadeb43b4a310ab9e1d9bc75e8522e9089033eaf8735eac6364866906cbb200f.jpg> 優木ら 相次ぐ芸能人の海外移住
+      <a href=https://news.yahoo.co.jp/pickup/6539971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ecad436ac7e69aa361243c68cfdacf61597e1cff0db613ab864d5dbe25d0de61.jpg> RYOKI活動休止へ SKY-HI苦悩の末
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 10:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 10:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
