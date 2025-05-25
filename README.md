@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eda01704075e8afaae2d7ce9b10a97f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd68cae77d5929531fb8f6447743e862.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdfcb9ddc3d14dcc15904de6401e0e13d05c9cb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251192-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 【中日】井上一樹監督、藤川球児監督と審判団との会話を明かす「すれ違い」　判定への抗議なし　笑顔で握手
+      <a href=https://news.yahoo.co.jp/articles/6167462f009cefa635a8a6287b9820eb0e56dbd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000080-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大の里敗れ14勝V　横綱昇進へ、夏場所
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1328472b7c4ad9379503fe37a3b57dc18d54182c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05973746-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ビッグステップだ」ロバーツ監督も心待ち　大谷翔平がついに実戦形式の登板へ　ラッシング、キム・ヘソンらと対戦
+      <a href=https://news.yahoo.co.jp/articles/437a48e371663fd86867e20bea6642cf451cdece>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760802-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”「改めてバケモノ」　指揮官の指摘にファン同調「だから彼は」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/456ce3d3eaaea6cb25f10f940b21a8c4ddad216f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> クマに襲われ77歳男性けが　兵庫の山中、命別条なし
+      <a href=https://news.yahoo.co.jp/articles/f88a870fcae2e7bc6a372219d5fe2ea19cc8e059>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760874-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神戦、“疑惑”の判定は「すれ違い」　試合前に2分間の異例対応…井上監督「ズレを確認」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714ee5ce354a8f1efff7398ad923d63de290861b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000385-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=759&ch=759&exp=10800&fmt=webp> ビートたけし、小泉進次郎農水相“期待論”ピシャリ「なんか人気取り臭くてなぁ…」
+      <a href=https://news.yahoo.co.jp/articles/dd1ce56d5ebabee91c17f0c9397ead3a8a864385>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-10180135-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 小泉進次郎氏の起用は石破総理“最大の復讐劇”のはじまり「改革したらいずれはぶつかる」立ちはだかる農政トライアングルの壁
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/d9370fa8baa3969ac3e7887fc1f53cc5702c22e272829b8372365bba4066c9a6.jpg> ラブブ巡り混乱 英で一時販売停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540021>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/864f8fb3c1c37445e7c58c37a15352e0af69ef452aae176edc4c09ec1c44e9ae.jpg> 自転車世界一周 空腹で牛丼を想像
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/35325a0d52af92aa1df09f3b23f9bea162f94041f29c1d5d70a7a0e534517c67.jpg> リバティアイランド 遺骨で帰国
+      <a href=https://news.yahoo.co.jp/pickup/6540026>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大の里が横綱昇進 事実上決定
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b31145cf4bdacfd6ee07752a3e1bdfb9cd90ef880c3491e2ace04e30641d97e4.jpg> チャンス大城 年齢詐称しNSC入学
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 17:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 18:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
