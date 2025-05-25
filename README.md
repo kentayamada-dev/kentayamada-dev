@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63af041399174341884d131a1742d315.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cf410f381b0e0e118f93c4f575f88ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1451a556abeb089bafb0a200365afaad06771736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250391-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=941&ch=941&exp=10800&fmt=webp> 「BE：FIRST」デビュー知る日テレ森圭介アナ、三山凌輝の活動休止と独立に「決断を応援」
+      <a href=https://news.yahoo.co.jp/articles/136e2ebfce748148670bce9f0a793e2c3f563c7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025686-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> SKY-HI、活動休止＆独立するBE:FIRST・RYOKIへ「今後の彼とも向き合っていきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74a6c6305245b4f153880621e379ea2fc3b37ec2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000031-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=886&ch=886&exp=10800&fmt=webp> 大谷翔平から3三振のメッツ左腕「9人の打者のうちの一人」〝攻略法〟は「教えられないよ」と上機嫌
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f0dc101deae32402da8ed436b0b0302e0df35c3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010001-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本海側と太平洋側で気温に落差　関東周辺は夏日続出し30℃近い所も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9d80fd270c60798acb2f8c7ffc09073035589c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> ド軍指揮官　大谷翔平の投手復帰は球宴後と改めて明言「自然な流れ。それより前になるとは思えない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6793163683f6f0126f72aae5905d798be9528933>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025675-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/59795d8427c9a75b2e286a6c9189de2784252bf784bba7649cb92b1cdd05e5e9.jpg> 小泉氏に洗礼 野党党首一斉追及へ
+      <a href=https://news.yahoo.co.jp/pickup/6539989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6984eb4109959bc7363b19666cebed70ec43949b441eda16bd6caccb7808e19e.jpg> コメ値下げの成否 参院選を左右
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/060060b707de6a55a481d2a8bd475d4290b09d1d2a6be7b70b067d5d4422754f.jpg> 5kg2千円台では米作れない 生産者
+      <a href=https://news.yahoo.co.jp/pickup/6539988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5c9c2b03c8fe0e35654373aab2c5207a6be63cbedaef59d742fe726ea10c18cb.jpg> タクシー免許「3日で取れる」懸念
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 12:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 12:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
