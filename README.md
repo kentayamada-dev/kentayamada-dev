@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/044791b2616dadfe9804fdb09294e442.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/37693213a2030099da4fcff32d1acb33.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70cb18a9e5c4585ffd4fc28fdac4d5c99472efb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261038-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 大谷翔平のライブＢＰで球団職員が打席に立った理由「非常にいい関係にあるので…」　四球選ぶサプライズも
+      <a href=https://news.yahoo.co.jp/articles/c49269f597692e7fc04567147dfe4c571369e990>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000141-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ライブBP後の大谷翔平の先頭打者弾に米メディア驚がく「レーザービームのよう」「疲れなかったようだ」
       </a>
     </td>
   </tr>
@@ -376,14 +376,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9214752c5d9430ce118c63d6aa9d1bada8ae47ad35d3d8cb2c24da7064c4ebb3.jpg> 中露声明 対日けん制削除していた
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540073>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540065>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d0f823a1ed730003e8379f3a67c23a9de9affa7cd6e7d81afa9cecbddb69eaf4.jpg> ひき逃げ疑いで米兵逮捕 4人軽傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ad72d26e64fa159f47cf1a0aff32ba566299e204daa166431cd3077b3e63ef8f.jpg> 牛舎実習で高2事故死 親が提訴へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 08:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 08:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
