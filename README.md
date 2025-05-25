@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a30d26d6d01c33868973c522e41151d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/044791b2616dadfe9804fdb09294e442.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84ef190a2569f4f06120bc00e229b5c2b8a95c15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261034-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=697&ch=697&exp=10800&fmt=webp> 大谷翔平の実戦登板にロバーツ監督「見ていて楽しかった」「とてもエキサイティング」
+      <a href=https://news.yahoo.co.jp/articles/70cb18a9e5c4585ffd4fc28fdac4d5c99472efb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261038-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 大谷翔平のライブＢＰで球団職員が打席に立った理由「非常にいい関係にあるので…」　四球選ぶサプライズも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f73ae94d50b6d95bdfe8d66c83c51d63103f4fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977056-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 市民の個人情報を無断提出…来年開催アジア・アジパラ競技大会のボランティア募集難航し　名古屋市議会の副議長“自分のためている名刺の中から使ってしまいました”
+      <a href=https://news.yahoo.co.jp/articles/31c8a9db2cc4cfc8bdf9457ad91dbabed80ac94c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000006-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> アジア大会ボランティア　市議が26人無断応募、「罪悪感無かった」
       </a>
     </td>
   </tr>
@@ -380,6 +380,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540057>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9214752c5d9430ce118c63d6aa9d1bada8ae47ad35d3d8cb2c24da7064c4ebb3.jpg> 中露声明 対日けん制削除していた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/830faadbf991816b680e78284b3e3d4604d757220c4632fc139178f1cc30580d.jpg> コメ安値は根本解決ならず 小川氏
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/0e43aab11fc6cb7c4b4d1b149ec83690e27fd5832ffa706530e1aad9ec1ff598.jpg> 大谷「ライブBP」登板 手術後初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/8c595ee3c5d2cb61dbc394aeec3a5095472df8a9c5f58aca85bd51399d227de6.jpg> ヌーブラヤッホーで活躍 44歳の今
+      <a href=https://news.yahoo.co.jp/pickup/6540071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/57346ff454a2ad8bb7dc79c3d158f7d6d6f73d19c6812c107b8ab7bc0868ffb0.jpg> 大谷の実戦形式登板 監督「興奮」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 07:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 08:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
