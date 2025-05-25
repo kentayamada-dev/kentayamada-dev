@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd68cae77d5929531fb8f6447743e862.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e576a5a0b52e2e71357d1a253041d2ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6167462f009cefa635a8a6287b9820eb0e56dbd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000080-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大の里敗れ14勝V　横綱昇進へ、夏場所
+      <a href=https://news.yahoo.co.jp/articles/7bc8922029cb6e0e3cb464c86f95fe4a3a52a0e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251210-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=942&ch=942&exp=10800&fmt=webp> 【阪神】藤川球児監督、審判団から２４日の疑惑判定の説明受け「お互いリスペクト持ってやっている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95ab161e77365b3a0320ea1b7a49063fdfa55a39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00096113-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=516&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> JA農協は小泉進次郎を鼻で笑っている…「備蓄米5㎏2000円を目指す」コメ担当大臣でも値段は下げられないワケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d57008ce0d63358f18756c49ed1d0dfdf6b92a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00976949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「引き続き集中的に協議を」3回目の関税交渉終え赤沢経済再生相が帰国　30日にも再訪米しベッセント長官と交渉へ
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/437a48e371663fd86867e20bea6642cf451cdece>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760802-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”「改めてバケモノ」　指揮官の指摘にファン同調「だから彼は」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f88a870fcae2e7bc6a372219d5fe2ea19cc8e059>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760874-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神戦、“疑惑”の判定は「すれ違い」　試合前に2分間の異例対応…井上監督「ズレを確認」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd1ce56d5ebabee91c17f0c9397ead3a8a864385>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-10180135-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 小泉進次郎氏の起用は石破総理“最大の復讐劇”のはじまり「改革したらいずれはぶつかる」立ちはだかる農政トライアングルの壁
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760802-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”「改めてバケモノ」　指揮官の指摘にファン同調「だから彼は」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fb4d27827d089f31b6e8611301cb81257bef6a3e02fc37c45aedca4f2f415643.jpg> 政府「農政改革」会合再始動へ
+      <a href=https://news.yahoo.co.jp/pickup/6540028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/e257ef6ddc05402e772d0b0d42d300b5cb4f5a3039bce8aceb9886017a3ba7a5.jpg> 日米交渉 赤沢氏「集中的に協議」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
+      <a href=https://news.yahoo.co.jp/pickup/6540023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aad519be2209f201a6d1f93b2dcf1363ed1eda90a6676bdcfbc9945a4efc24a9.jpg> 77歳の男性 クマに襲われ軽傷
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/864f8fb3c1c37445e7c58c37a15352e0af69ef452aae176edc4c09ec1c44e9ae.jpg> 自転車世界一周 空腹で牛丼を想像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540026>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大の里が横綱昇進 事実上決定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/dafbb1134660b74aa58932a57c83f48c50264c6dce986546dd2e3ff26f965498.jpg> 大の里が横綱昇進 事実上決定
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/31905dbddc0fb5f894af6e8aeb26209c9d518efce49a2d75ae79e498166de2d6.jpg> 28.8kgの大食いタレント 食生活は
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 18:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 18:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
