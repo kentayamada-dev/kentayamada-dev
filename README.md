@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cf410f381b0e0e118f93c4f575f88ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/501ebadce3733593e6746287a05a562e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/136e2ebfce748148670bce9f0a793e2c3f563c7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025686-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> SKY-HI、活動休止＆独立するBE:FIRST・RYOKIへ「今後の彼とも向き合っていきたい」
+      <a href=https://news.yahoo.co.jp/articles/aa437e7fe9da34f5f72607dff15839e757c38ef5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平から３奪三振、メッツ技巧派左腕「攻略法？ 教えられないよ（笑）」… 敵将もご満悦「大谷も人間だった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74a6c6305245b4f153880621e379ea2fc3b37ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000031-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=886&ch=886&exp=10800&fmt=webp> 大谷翔平から3三振のメッツ左腕「9人の打者のうちの一人」〝攻略法〟は「教えられないよ」と上機嫌
+      <a href=https://news.yahoo.co.jp/articles/2ad50c90d280dd9b2e506e61ea91195ed6650bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 大谷翔平の投手復帰、７月のオールスター戦後の見通し…ロバーツ監督「彼の体調が判断材料」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f7907e9fc5ab348c834332bb56a7c6daecac747c4bab2f4c84a23acd56bb9e00.jpg> 能登の被災建物に石綿 ボラ制限
+      <a href=https://news.yahoo.co.jp/pickup/6539992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/748a3be285e5355feeab049bcbe5ded64daaf6383c9e1ebf7482562ed29e4d79.jpg> 正恩氏激怒の駆逐艦事故 技師拘束
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5c9c2b03c8fe0e35654373aab2c5207a6be63cbedaef59d742fe726ea10c18cb.jpg> タクシー免許「3日で取れる」懸念
+      <a href=https://news.yahoo.co.jp/pickup/6539967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/743b00f89aa77c012fe15ef871bba50afb7ac56ce1b0a7841999eff12ecd46d7.jpg> 通信システムに侵入し車盗難 対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fef05e477f7ee9bf43e0d3d29a763feaf5cb25afca56ff7e7d8708f092af3f96.jpg> ファミマ なぜパンを「白く」した
+      <a href=https://news.yahoo.co.jp/pickup/6539988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5c9c2b03c8fe0e35654373aab2c5207a6be63cbedaef59d742fe726ea10c18cb.jpg> タクシー免許「3日で取れる」懸念
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1fd22da4ba0d402cd37301338ac7fc01ff4d81eab5935d2866f3055209878ea6.jpg> 最古参力士が引退 初土俵は1992年
+      <a href=https://news.yahoo.co.jp/pickup/6539994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/a116646db44c845e23ddaa06fd3aa989c9a3e7246615ab0966c239629e50ddfe.jpg> 大谷3三振 敵地ブーイング歓声に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ecad436ac7e69aa361243c68cfdacf61597e1cff0db613ab864d5dbe25d0de61.jpg> RYOKI活動休止へ SKY-HI苦悩の末
+      <a href=https://news.yahoo.co.jp/pickup/6539977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1fd22da4ba0d402cd37301338ac7fc01ff4d81eab5935d2866f3055209878ea6.jpg> 最古参力士が引退 初土俵は1992年
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 12:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 13:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
