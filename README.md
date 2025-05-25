@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7500acc59a6d9fa64f019362f9e58989.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00b8c6aceddd6bb02095978bfeae8a3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caa46f1538efe9868bbb5796093604cda0e97528>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000012-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャースは連勝3でストップ　大谷翔平が同一投手に3三振喫するのは今季初　左腕ピーダーソンに大苦戦
+      <a href=https://news.yahoo.co.jp/articles/2c85b199ec4afd22e6313aea1e7f2240ddf06cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 大谷翔平の投手メジャー復帰は後半戦？　ロバーツ監督「そう思う」…あす６４１日ぶり実戦登板
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3fdbe2871b58472be2a241fe8db3e6b48cfe74b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000010-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000010-ann-000-10-thumb.jpg?exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/a8847057df657b92f79810ca13ee16e2bfd7945485afb4a021623852743df0bd.jpg> 睡眠時無呼吸 パンサー菅の治療記
+      <a href=https://news.yahoo.co.jp/pickup/6539977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1fd22da4ba0d402cd37301338ac7fc01ff4d81eab5935d2866f3055209878ea6.jpg> 最古参力士が引退 初土俵は1992年
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 11:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 11:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
