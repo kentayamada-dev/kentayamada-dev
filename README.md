@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c63e64f52a0ff6b3a3680287cbc0837.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c319e6c962897b420d0dc8e4c9e89af5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -370,16 +370,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/720b641e0b56070836573065eccc480540b4c8c51c3ad30b8b3442e78456a6f8.jpg> 関東甲信など 梅雨入りはいつ?
+      <a href=https://news.yahoo.co.jp/pickup/6540054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/49015c5e745ecde7a7bfb5b94cc0488b92aff3e6133e4d3603563ff02546466c.jpg> 終戦から80年 親族が劇的対面
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/3cc4cf0fb43282b1db6d7147fa8cf36a0ccfa7c168180b496f6495bc2028f548.jpg> 万博の閉場時間延長 高いハードル
+      <a href=https://news.yahoo.co.jp/pickup/6540057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9214752c5d9430ce118c63d6aa9d1bada8ae47ad35d3d8cb2c24da7064c4ebb3.jpg> 中露声明 対日けん制削除していた
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 22:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 23:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
