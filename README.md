@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba5fa0bd0d2f199669bf12874a498bd5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84b065e4466a51ce04b3d8ad647c94ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebde81469e780f734a71a634275b7e032b56fcfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760505-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平へ異次元の注目　ド軍監督取材は“8/15”、敵軍投手も「絶対見に行く」
+      <a href=https://news.yahoo.co.jp/articles/fd03f7a438a349dafcb7c4ffa030262a1a65ac74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250685-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、投手復帰は後半戦　ロバーツ監督「ごく自然に進める」26日は手術後初の実戦形式登板
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa3c527fda02abdf1e450ca15943167bcbfc20cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 和歌山のパンダ、返還控え屋外はきょうが最後「寂しい」「また来る」
+      <a href=https://news.yahoo.co.jp/articles/c8d58caf9e99f0a4377ecd21d28d4106320e478e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010000-yomosaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1503&ch=1503&exp=10800&fmt=webp> 来場者増え「並ぶ万博」に不満や戸惑い…人気パビリオンは待ち時間4時間超・当日予約取れず
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c7b4e9c48586c24dbf8cfc8eb49be1421d711edf30a65f9ca57442dd20cfd31c.jpg> 外部コーチが暴言 生徒は競技断念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1e96dd30f25e21cc304d80852fd0013981e4731c365c5da9b7ae6cdb79afb377.jpg> 「良くない睡眠」唾液で判定 研究
+      <a href=https://news.yahoo.co.jp/pickup/6540003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1e7c0ece7e9b7dfbf612fd85d7e3d5121ab53caa3beb46bcc0dce944bf07eeae.jpg> 「ありがとう」屋外パンダ見納め
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539973>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9d03076e831a9f46c83b6c4a41e49337aabe28de6c44217b36c587e7efcdfdc3.jpg> 「デコピン」商標出願増 登録は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/51f50e183414b6cb7267c033e57e0e204a9c079769210dd16a8e254de8bd7ba3.jpg> プロレス 観客の女性が選手に暴挙
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 14:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 15:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
