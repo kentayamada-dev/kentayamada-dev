@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e576a5a0b52e2e71357d1a253041d2ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/705034b85ba14e56240f48dffd60c317.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bc8922029cb6e0e3cb464c86f95fe4a3a52a0e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251210-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=942&ch=942&exp=10800&fmt=webp> 【阪神】藤川球児監督、審判団から２４日の疑惑判定の説明受け「お互いリスペクト持ってやっている」
+      <a href=https://news.yahoo.co.jp/articles/2edab2782d2a10cdeb62deff7b61b3c10a29a96f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251843-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> 【阪神】藤川監督の疑念も解ける　メンバー交換で審判から説明と謝罪「互いにリスペクトしている」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95ab161e77365b3a0320ea1b7a49063fdfa55a39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00096113-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=516&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> JA農協は小泉進次郎を鼻で笑っている…「備蓄米5㎏2000円を目指す」コメ担当大臣でも値段は下げられないワケ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00096113-president-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=516&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> JA農協は小泉進次郎を鼻で笑っている…「備蓄米5㎏2000円を目指す」コメ担当大臣でも値段は下げられないワケ
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4d57008ce0d63358f18756c49ed1d0dfdf6b92a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00976949-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「引き続き集中的に協議を」3回目の関税交渉終え赤沢経済再生相が帰国　30日にも再訪米しベッセント長官と交渉へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00976949-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「引き続き集中的に協議を」3回目の関税交渉終え赤沢経済再生相が帰国　30日にも再訪米しベッセント長官と交渉へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/dafbb1134660b74aa58932a57c83f48c50264c6dce986546dd2e3ff26f965498.jpg> 大の里が横綱昇進 事実上決定
+      <a href=https://news.yahoo.co.jp/pickup/6540025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b045729c43e7d5d26bc4311103c5c4b4dc3e1edb3ff0c2bad7d47d3181b1527c.jpg> いじめ耐えた小中 難聴の日本代表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/51f50e183414b6cb7267c033e57e0e204a9c079769210dd16a8e254de8bd7ba3.jpg> プロレス 観客の女性が選手に暴挙
+      <a href=https://news.yahoo.co.jp/pickup/6540027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5c949da7833d15e5e42c3d604687d88c31f2702dde92f17709a73fbda3d4eb1b.jpg> 朝ドラ描く結婚 お見合いから変化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 18:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 19:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
