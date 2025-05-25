@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/30a2dfaa6dd8b01c00f030f19ca878df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e48556618ede0a18b2c77ac17e3c93d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88e63caa2a207d2745088d4b1877711194d9072a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000267-spnannex-000-4-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【オークス】カムニャック“3強”蹴散らしV　シュタルケ万感「私の夢がかない日本でG1を勝ちました」
+      <a href=https://news.yahoo.co.jp/articles/8a1eac97cfbaada4e658109f0d60c690b29842c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000283-spnannex-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【オークス】日本のG1悲願初制覇！シュタルケ一問一答「彼女（カムニャック）に感謝したいなと…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f716aac8ceec998e47b6ff407c8b59e05b725c1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相、造船分野で対米協力に意欲　砕氷船技術の提供に言及
+      <a href=https://news.yahoo.co.jp/articles/6cc5714d19cd0da8a37855ba6fd216adc2a3e7e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000112-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1854&ch=1854&exp=10800&fmt=webp> 審判団から阪神と中日の両監督へ説明　前日の判定巡り「我々の不手際により混乱が生じた」と反省
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f8a764beeb3f2737e0035afd2d38859de907955>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345853-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 【阪神】藤川球児監督が中日・井上一樹監督と笑顔で握手　スタンドからは拍手起きる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/21e14ea94e890f9e485a457d2e78601cfb3b78e15a4e3cf57b4a55972efeae10.jpg> 6月の熱中症死増 過去10年で564人
+      <a href=https://news.yahoo.co.jp/pickup/6540010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02222220/title-1748140069613.jpeg?exp=10800> 駆逐艦事故巡り拘束 正恩氏思惑は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02222220/title-1748140069613.jpeg?exp=10800> 駆逐艦事故巡り拘束 正恩氏思惑は
+      <a href=https://news.yahoo.co.jp/pickup/6540009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/cbd58722969970dd24cd95ae5d81e83c65993123b5e147435dc6c1c48460f04a.jpg> UAEで51.6℃観測 5月の最高更新
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540015>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02220771/title-1748027081698.jpeg?exp=10800> 公立高併願 文科相言及の課題とは
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ce480f5c0553ae2af7737215129e2f2a9ac40ed884335ba3abd660454c33112f.jpg> 畳める「布製浴槽」話題 開発背景
+      <a href=https://news.yahoo.co.jp/pickup/6540018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/35325a0d52af92aa1df09f3b23f9bea162f94041f29c1d5d70a7a0e534517c67.jpg> リバティアイランド 遺骨で帰国
       </a>
     </td>
   </tr>
@@ -450,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b31145cf4bdacfd6ee07752a3e1bdfb9cd90ef880c3491e2ace04e30641d97e4.jpg> 山埋められた チャンス大城の転機
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/4518f6837cc7911b2c93268900c2f81284515dc67901bf12395712d2ea062e57.jpg> 梅田サイファーKZ痛く苦しい青春
+      <a href=https://news.yahoo.co.jp/pickup/6540020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b31145cf4bdacfd6ee07752a3e1bdfb9cd90ef880c3491e2ace04e30641d97e4.jpg> チャンス大城 年齢詐称しNSC入学
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 16:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 17:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
