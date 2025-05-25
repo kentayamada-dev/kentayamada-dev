@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e48556618ede0a18b2c77ac17e3c93d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eda01704075e8afaae2d7ce9b10a97f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a1eac97cfbaada4e658109f0d60c690b29842c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000283-spnannex-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【オークス】日本のG1悲願初制覇！シュタルケ一問一答「彼女（カムニャック）に感謝したいなと…」
+      <a href=https://news.yahoo.co.jp/articles/bdfcb9ddc3d14dcc15904de6401e0e13d05c9cb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251192-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 【中日】井上一樹監督、藤川球児監督と審判団との会話を明かす「すれ違い」　判定への抗議なし　笑顔で握手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cc5714d19cd0da8a37855ba6fd216adc2a3e7e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000112-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1854&ch=1854&exp=10800&fmt=webp> 審判団から阪神と中日の両監督へ説明　前日の判定巡り「我々の不手際により混乱が生じた」と反省
+      <a href=https://news.yahoo.co.jp/articles/1328472b7c4ad9379503fe37a3b57dc18d54182c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05973746-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ビッグステップだ」ロバーツ監督も心待ち　大谷翔平がついに実戦形式の登板へ　ラッシング、キム・ヘソンらと対戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/456ce3d3eaaea6cb25f10f940b21a8c4ddad216f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> クマに襲われ77歳男性けが　兵庫の山中、命別条なし
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/714ee5ce354a8f1efff7398ad923d63de290861b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000385-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=759&ch=759&exp=10800&fmt=webp> ビートたけし、小泉進次郎農水相“期待論”ピシャリ「なんか人気取り臭くてなぁ…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63e015f29155efeaeb287ed6f78b2bfb96e160d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “球界の常識”が当てはまらない「投手・大谷」　ド軍首脳陣が熟考し続けるリハビリが示す異能の存在感「完全なる例外だった」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540010>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02222220/title-1748140069613.jpeg?exp=10800> 駆逐艦事故巡り拘束 正恩氏思惑は
+      <a href=https://news.yahoo.co.jp/pickup/6540024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6e65c919c59a812ac82defca8e50b19fe3d13a0ed6d8fa1d75fb8a8dca097d67.jpg> 共同親権 DVで離婚した女性不安
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02220771/title-1748027081698.jpeg?exp=10800> 公立高併願 文科相言及の課題とは
+      <a href=https://news.yahoo.co.jp/pickup/6540004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
+      <a href=https://news.yahoo.co.jp/pickup/6540021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/864f8fb3c1c37445e7c58c37a15352e0af69ef452aae176edc4c09ec1c44e9ae.jpg> 自転車世界一周 空腹で牛丼を想像
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 17:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 17:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
