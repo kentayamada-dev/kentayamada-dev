@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3ae928bacbe0dafcae925332c020604.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe8e59a521cf9062c5499ef6c4a87342.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542cd6952b781aeff271d84302ecb6f539d464e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05251306-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大の里「何とかこの人たちのために」故郷・石川から「たくさんパワーをいただいた」
+      <a href=https://news.yahoo.co.jp/articles/3bd842cad00d79efe935da410434a02f422ba1cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10535781-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=685&ch=685&exp=10800&fmt=webp> ドジャース・大谷翔平が二刀流復帰へ前進　641日ぶりの実戦登板で最速156キロ　打者5人に対して22球、1安打2三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bd4fd8f93d9bdb31e09234e23141174b81f7763>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000172-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 大谷翔平は「かなりエグい球投げていた」と投手コーチ証言　全球種使い「両サイドにボール動かせていた」
+      <a href=https://news.yahoo.co.jp/articles/3fee7caf77ccc89cb3f9db07cb23f019c3bbe055>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 日本を含む海外勢に“9試合敗北”。世界卓球で苦杯を喫した卓球王国にかつてない危機感「中国代表の優位性は衰えつつある」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 05:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 06:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
