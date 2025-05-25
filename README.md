@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc90f422fdcd52bfeb42bb3407623e9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24f1680b7afbb860f214286fe719b47e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a208aea1bbe9e6c5094f2e47110df6c4a74bd4e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05251273-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=876&ch=876&exp=10800&fmt=webp> 大谷翔平、投手復帰Ｘデーは７・２０か？！　毎週日曜“投球練習デー”積み重ねた先の後半開幕２試合目
+      <a href=https://news.yahoo.co.jp/articles/893008ae0e9b4cbb46be7a7e1dbec0a204baa394>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000167-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> 大谷翔平　今季の投手調整詳細　左肩手術受け開幕後に復帰プログラム本格始動　ブルペン13度の調整内容とは
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 03:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 04:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
