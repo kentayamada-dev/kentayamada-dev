@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de5ea60c7423161e33dfbed5ee6aa9fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30a2dfaa6dd8b01c00f030f19ca878df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19e960761dedca52e9c221c0c35e0a71512cdcf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-21935620-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “コメ担当大臣”小泉新農水大臣、コメ不足認め「減反やめる」　農政のタブーに挑戦、過去の反発乗り越えられるか【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/88e63caa2a207d2745088d4b1877711194d9072a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000267-spnannex-000-4-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【オークス】カムニャック“3強”蹴散らしV　シュタルケ万感「私の夢がかない日本でG1を勝ちました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aabbdc9c30d934b7da4db83002261d78e8219d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00097015-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の投手復帰は「大きな出来事」。ドジャース同僚が投手陣に援護を呼びかけ「後押しが必要だ」
+      <a href=https://news.yahoo.co.jp/articles/f716aac8ceec998e47b6ff407c8b59e05b725c1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相、造船分野で対米協力に意欲　砕氷船技術の提供に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/714ee5ce354a8f1efff7398ad923d63de290861b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000385-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=759&ch=759&exp=10800&fmt=webp> ビートたけし、小泉進次郎農水相“期待論”ピシャリ「なんか人気取り臭くてなぁ…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63e015f29155efeaeb287ed6f78b2bfb96e160d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “球界の常識”が当てはまらない「投手・大谷」　ド軍首脳陣が熟考し続けるリハビリが示す異能の存在感「完全なる例外だった」
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa3c527fda02abdf1e450ca15943167bcbfc20cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 和歌山のパンダ、返還控え屋外はきょうが最後「寂しい」「また来る」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f60955385729010122887508e52a618a5562345f5e834c98432a0e9ea148b096.jpg> 農水省「コメ対策チーム」発足へ
+      <a href=https://news.yahoo.co.jp/pickup/6540011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fb4d27827d089f31b6e8611301cb81257bef6a3e02fc37c45aedca4f2f415643.jpg> 政府「農政改革」会合再始動へ
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/97d7019f736688c0658c6ea39ecc01a1aee08aa4afb82aae4eb57c6f4783c389.jpg> 停車中 トレーラーに追突され死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
+      <a href=https://news.yahoo.co.jp/pickup/6539984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ce480f5c0553ae2af7737215129e2f2a9ac40ed884335ba3abd660454c33112f.jpg> 畳める「布製浴槽」話題 開発背景
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/edf3a791ce3492b390a4e55552629afb98f9517a38447b788d319f60fe69ebf9.jpg> カムニャックが優勝 オークス
+      <a href=https://news.yahoo.co.jp/pickup/6540017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/b31145cf4bdacfd6ee07752a3e1bdfb9cd90ef880c3491e2ace04e30641d97e4.jpg> 山埋められた チャンス大城の転機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/94bcf164c59f45b4f7bcb701224c6b35da0198826d752c0c390c32527d9a72fe.jpg> peco 息子に伝えた「自分守る」術
+      <a href=https://news.yahoo.co.jp/pickup/6539982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/4518f6837cc7911b2c93268900c2f81284515dc67901bf12395712d2ea062e57.jpg> 梅田サイファーKZ痛く苦しい青春
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 16:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 16:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
