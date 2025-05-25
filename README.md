@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afa2ac0a614c68571610b56e9fd78bcb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c63e64f52a0ff6b3a3680287cbc0837.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f042088540e1e12820e22d10dbff6e29a6dba76b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050088-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=280&ch=280&exp=10800&fmt=webp> 名古屋市議会の副議長が市民ら２６人をボランティアに無断登録、生年月日は推測…来年のアジア大会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050088-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=280&ch=280&exp=10800&fmt=webp> 名古屋市議会の副議長が市民ら２６人をボランティアに無断登録、生年月日は推測…来年のアジア大会
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/325841876502c303f0179bd3b3e0f51d45f54276a56dde3dcf7f50e875316b06.jpg> 年収1千万円の米農家も 格差なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6540052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/3cc4cf0fb43282b1db6d7147fa8cf36a0ccfa7c168180b496f6495bc2028f548.jpg> 万博の閉場時間延長 高いハードル
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/63eed130e4fb1adfdff6b3a58cb309fc3a0883edda5639c872a4ff19cb141f0a.jpg> 卓球男子複 日本勢64年ぶりの金
+      <a href=https://news.yahoo.co.jp/pickup/6540053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/420f5ae4cd65247fe1326a03eddf489b5094799b2086c058841aa500a2817d4d.jpg> 大の里の優勝副賞コメ1t どよめき
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 22:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 22:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
