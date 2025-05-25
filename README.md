@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00b8c6aceddd6bb02095978bfeae8a3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63af041399174341884d131a1742d315.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c85b199ec4afd22e6313aea1e7f2240ddf06cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05251063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 大谷翔平の投手メジャー復帰は後半戦？　ロバーツ監督「そう思う」…あす６４１日ぶり実戦登板
+      <a href=https://news.yahoo.co.jp/articles/1451a556abeb089bafb0a200365afaad06771736>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250391-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=941&ch=941&exp=10800&fmt=webp> 「BE：FIRST」デビュー知る日テレ森圭介アナ、三山凌輝の活動休止と独立に「決断を応援」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59c3e298a2a9c947e0e63c930ea91aa1878e75f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00345835-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＳＫＹ―ＨＩ　「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩの独立受け「今後の彼とも向き合っていきたい」
+      <a href=https://news.yahoo.co.jp/articles/4f0dc101deae32402da8ed436b0b0302e0df35c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010001-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本海側と太平洋側で気温に落差　関東周辺は夏日続出し30℃近い所も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dd1f309827b80452a92c6ab612880e4a10c01ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029938-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 西日本や東日本では200ミリ以上の大雨　雨の範囲は北日本へ　北海道では雪も?
+      <a href=https://news.yahoo.co.jp/articles/e9d80fd270c60798acb2f8c7ffc09073035589c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000175-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> ド軍指揮官　大谷翔平の投手復帰は球宴後と改めて明言「自然な流れ。それより前になるとは思えない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fdbe2871b58472be2a241fe8db3e6b48cfe74b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000010-ann-000-10-thumb.jpg?exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
+      <a href=https://news.yahoo.co.jp/articles/6793163683f6f0126f72aae5905d798be9528933>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025675-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、USスチール提携支持　電話会談で次世代戦闘機言及も 石破氏に関心確認か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c718f1c64d9009f1ca51f0b9890c277709b77dda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025667-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 備蓄米「随意契約」26日開始　「1週間で店頭5キロ2000円」　コメ生産者に理解求める
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f9411fc87ff2d5a962f102f9fd49046769bd4809d4bc48a1938f9531a7d403f1.jpg> 好感度低下 マスク氏政治色払拭へ
+      <a href=https://news.yahoo.co.jp/pickup/6539983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f7907e9fc5ab348c834332bb56a7c6daecac747c4bab2f4c84a23acd56bb9e00.jpg> 能登の被災建物に石綿 ボラ制限
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539975>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅に2人組の強盗 男性殴り逃走
+      <a href=https://news.yahoo.co.jp/pickup/6539986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c7b4e9c48586c24dbf8cfc8eb49be1421d711edf30a65f9ca57442dd20cfd31c.jpg> 外部コーチが暴言 生徒は競技断念
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ea5efd17aed44707f49f66a677b6923104d1ed1ae730f8c82c222454dd2352fd.jpg> 相次ぐ「指導死」現役教員の本音
+      <a href=https://news.yahoo.co.jp/pickup/6539987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/fef05e477f7ee9bf43e0d3d29a763feaf5cb25afca56ff7e7d8708f092af3f96.jpg> ファミマ なぜパンを「白く」した
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6539972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/4db1a37683f048f25400fa9f5bcba4b5146f779e658fea415932d19719c48142.jpg> 婚活アプリで独身と嘘 裁判相次ぐ
       </a>
     </td>
   </tr>
@@ -436,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539977>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1fd22da4ba0d402cd37301338ac7fc01ff4d81eab5935d2866f3055209878ea6.jpg> 最古参力士が引退 初土俵は1992年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/21647e3240e826c6bbf2d8f2db9b4bb6aabdafc58cb1b7dee9408e64240354e2.jpg> 大谷はリハビリ中 活躍に監督驚き
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 11:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 12:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
