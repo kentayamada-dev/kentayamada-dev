@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f51b2f2c945eb842256cf0a6f7190e7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3ae928bacbe0dafcae925332c020604.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdb5eb57857d92ebfb39792d6f484920b4564bf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05251304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 大の里が「唯一無二」に込めた思い　「勉強」１敗、来場所こそ「次の地位で全勝優勝」
+      <a href=https://news.yahoo.co.jp/articles/542cd6952b781aeff271d84302ecb6f539d464e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05251306-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大の里「何とかこの人たちのために」故郷・石川から「たくさんパワーをいただいた」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 05:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 05:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
