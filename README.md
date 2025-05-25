@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c319e6c962897b420d0dc8e4c9e89af5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f4aeb966ac38ca44a871a9d60a34c74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f042088540e1e12820e22d10dbff6e29a6dba76b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050088-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=280&ch=280&exp=10800&fmt=webp> 名古屋市議会の副議長が市民ら２６人をボランティアに無断登録、生年月日は推測…来年のアジア大会
+      <a href=https://news.yahoo.co.jp/articles/0313e5f666d30a0717fa868d2b9e2d6a20b2e6d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 路上で男性刺され死亡　異性トラブル仲裁か、男逮捕　茨城県警
       </a>
     </td>
   </tr>
@@ -386,24 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1f3947d34cd4a6734eed0f9d040e782cfdeec774431859edfcdda3f5a853ef9b.jpg> 障害ではない 「境界知能」とは
+      <a href=https://news.yahoo.co.jp/pickup/6540059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/23f128af5fd1fe824f997fa59e43bcb652735ade4f19b8a40af6fdc6991ffa0b.jpg> 障害年金 報道受けひそかに再判定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540044>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で男性が刺され死亡 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aee5a937cbcaaaf2960df3fdb7b2ca913d7d1079c47771c8154c2d6b14df3f73.jpg> 刺され死亡の男性 トラブル仲裁か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c9d3ba5aa9ef35f2a12b5225a32fa06e62cd6590299c7551a1698092d3e3eae4.jpg> 勝手にボラ登録 市議ノルマに焦り
+      <a href=https://news.yahoo.co.jp/pickup/6540058>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 1日100回子の吸引 言えない孤独
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 23:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 23:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
