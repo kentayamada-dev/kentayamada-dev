@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2500d24a81e594a60a385ff37bc49b27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/afa2ac0a614c68571610b56e9fd78bcb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7591155b33d04a19d2d4ea46b618e19b3292ad3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000012-ibaraki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=242&ch=242&exp=10800&fmt=webp> 男女トラブル仲裁の男性　包丁で胸刺され死亡　容疑で土木作業員の男逮捕　茨城県警竜ケ崎署
+      <a href=https://news.yahoo.co.jp/articles/f042088540e1e12820e22d10dbff6e29a6dba76b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050088-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=280&ch=280&exp=10800&fmt=webp> 名古屋市議会の副議長が市民ら２６人をボランティアに無断登録、生年月日は推測…来年のアジア大会
       </a>
     </td>
   </tr>
@@ -378,24 +378,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/720b641e0b56070836573065eccc480540b4c8c51c3ad30b8b3442e78456a6f8.jpg> 関東甲信など 梅雨入りはいつ?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540035>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/325841876502c303f0179bd3b3e0f51d45f54276a56dde3dcf7f50e875316b06.jpg> 年収1千万円の米農家も 格差なぜ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/3559d847b1843ae601b64f31ab2903b3e8e70ca0dfa15a5344a4c9e68520ba22.jpg> 露とウ 1000人ずつの捕虜交換完了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540044>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で男性が刺され死亡 男を逮捕
       </a>
     </td>
   </tr>
@@ -410,8 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/d999d7a20d6ba3e7a933e6dfce58516e9b9398da23416dfaf6e7500d1f19c4d6.jpg> 最後の屋外パンダ 待ち時間200分
+      <a href=https://news.yahoo.co.jp/pickup/6540044>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で男性が刺され死亡 男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c9d3ba5aa9ef35f2a12b5225a32fa06e62cd6590299c7551a1698092d3e3eae4.jpg> 勝手にボラ登録 市議ノルマに焦り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/51f50e183414b6cb7267c033e57e0e204a9c079769210dd16a8e254de8bd7ba3.jpg> プロレス 観客の女性が選手に暴挙
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540030>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moritayasushi/02222406/title-1748150869399.jpeg?exp=10800> 佐野海舟が復帰の森保J 識者分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6fb2b6f72710536ff662871d28bd96eba59d04e597e7fa66aa898cc7a18238bb.jpg> SKY-HI 今後のRYOKIとも向き合う
+      <a href=https://news.yahoo.co.jp/pickup/6540048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/8c595ee3c5d2cb61dbc394aeec3a5095472df8a9c5f58aca85bd51399d227de6.jpg> ヌーブラヤッホーで活躍 44歳の今
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 21:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 22:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
