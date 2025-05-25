@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24f1680b7afbb860f214286fe719b47e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b17f53fea4f3dcc34cb5c3cbdee4019e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/893008ae0e9b4cbb46be7a7e1dbec0a204baa394>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000167-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=1009&ch=1009&exp=10800&fmt=webp> 大谷翔平　今季の投手調整詳細　左肩手術受け開幕後に復帰プログラム本格始動　ブルペン13度の調整内容とは
+      <a href=https://news.yahoo.co.jp/articles/129cd7a44f82325f8acb00dcb5ac80af2d67b147>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01760780-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 大谷翔平は「自信に満ちていた」…641日ぶり打者相手に22球　ド軍投手コーチ「総合的にみれば成功」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 04:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 04:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
