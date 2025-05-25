@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b85cb2f22037c4a50a0edd70df5d25d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2eff9888d86cee79b50a5b98ac26661.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
+      <a href=https://news.yahoo.co.jp/articles/7591155b33d04a19d2d4ea46b618e19b3292ad3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000012-ibaraki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=242&ch=242&exp=10800&fmt=webp> 男女トラブル仲裁の男性　包丁で胸刺され死亡　容疑で土木作業員の男逮捕　茨城県警竜ケ崎署
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce633f67a9daa8e4bd0669cefe4f9437731b3886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00065953-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「さみしい。また会いたい」パンダとの別れ惜しむ来園者…あすからは“ガラス越しでの公開”予定　和歌山・アドベンチャーワールド
+      <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/aaf9cc5d04e8bdd426d80ee56cea6cb1da40c41ed3a69f8ac36a7c8302f3ad63.jpg> 関税 サミット念頭に議論と首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540035>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/325841876502c303f0179bd3b3e0f51d45f54276a56dde3dcf7f50e875316b06.jpg> 年収1千万円の米農家も 格差なぜ
       </a>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f5d65df6fa55a04b2ee5e534e1238e59ee7777b6f01094dd7ce13a72c065f0b9.jpg> 執行直前の死刑囚 緊迫した拘置所
+      <a href=https://news.yahoo.co.jp/pickup/6540043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/3559d847b1843ae601b64f31ab2903b3e8e70ca0dfa15a5344a4c9e68520ba22.jpg> 露とウ 1000人ずつの捕虜交換完了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540044>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で男性が刺され死亡 男を逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/2fee20cbb443fbea789cda6adfe16e9aea9863b4b39a1ecf9a9074ec9a815d25.jpg> 力士は生保加入難しい?親方語る
+      <a href=https://news.yahoo.co.jp/pickup/6540042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6fb2b6f72710536ff662871d28bd96eba59d04e597e7fa66aa898cc7a18238bb.jpg> SKY-HI 今後のRYOKIとも向き合う
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 20:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 21:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
