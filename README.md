@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2eff9888d86cee79b50a5b98ac26661.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2500d24a81e594a60a385ff37bc49b27.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44a9d8143c7379a53ff188b20b6805751ee29403>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35251184-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「二刀流」復活プランいよいよ本格再稼働、７月球宴後の投手復帰へ実戦形式の練習開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95ab161e77365b3a0320ea1b7a49063fdfa55a39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00096113-president-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=516&cy=0&cw=1563&ch=1563&exp=10800&fmt=webp> JA農協は小泉進次郎を鼻で笑っている…「備蓄米5㎏2000円を目指す」コメ担当大臣でも値段は下げられないワケ
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6fb2b6f72710536ff662871d28bd96eba59d04e597e7fa66aa898cc7a18238bb.jpg> SKY-HI 今後のRYOKIとも向き合う
+      <a href=https://news.yahoo.co.jp/pickup/6540030>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moritayasushi/02222406/title-1748150869399.jpeg?exp=10800> 佐野海舟が復帰の森保J 識者分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/435cc6e3893629f8e245f2bacd44ef471f41003ec4e069f5caa66da4935e5dad.jpg> B'zをサポート 明石昌夫さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6540042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6fb2b6f72710536ff662871d28bd96eba59d04e597e7fa66aa898cc7a18238bb.jpg> SKY-HI 今後のRYOKIとも向き合う
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 21:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 21:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
