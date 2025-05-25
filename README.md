@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c7279527a64c0be0beb09ce4021cf38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4501757f0e449566470cd929f4c3fa2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3ce3e05f26f114b0695d669e35d63182bdad2c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029936-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 晴れる日が多く汗ばむ陽気に　九州から関東甲信は梅雨前の日差しを有効に　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/346c0dc12394f66cd2dda3a895963c2996e7edf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000343-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 三山凌輝、所属事務所「Flash Up etoile」から独立へ「既に決定しているお仕事は当社がサポート」　BE:FIRST・RYOKIとしても活動を一時休止【3者コメント全文掲載】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bb57d73f79c0021c88cbf4562c6cf54e231263e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00029937-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 25日(日)は北日本は雨や風が強まる　関東～九州は天気回復も土砂災害に注意
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/40a01bb850c1f9f83bc5c7e79880946e7da0917e91983241a910df53b7a2a19b.jpg> ガザの医師宅に攻撃 子供9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6539958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/ed5d9fe2380fa76a6a9b23ecd8a2af33b6a62d1328b83d1149901cf6a4ef818a.jpg> ご当地ナンバー カラー一本化検討
       </a>
     </td>
   </tr>
@@ -402,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/758e34a44583d209c5a6b00f9f06d9e04876bdc1a22f5a5fa7d040f4dad5c3d8.jpg> 警官居眠り 容疑者が署を一時逃走
+      <a href=https://news.yahoo.co.jp/pickup/6539962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f9b3d0c1b581b4a48a3eb3c6b40fa18f58fe71187661fe23179de1b76750398d.jpg> 東京9週連続で週末雨 行楽地悲鳴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/5df6b944c012b1104e80c019a52f1bd6ca7452b6a7f38ebbc6adf85638dbabc4.jpg> カンヌで大規模停電 放火原因か
+      <a href=https://news.yahoo.co.jp/pickup/6539961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6ebc5524fdd9613b32a2a17dff05b79ac20821283d786e1244508ed3ae16a8ef.jpg> 天下一品 なぜ都内で閉店ラッシュ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/91510280c01bbf55e041c90770cb5e81da96cff03b74464f53a2e1ab1185bf9d.jpg> 偉業 ジョコビッチがツアー100勝
+      <a href=https://news.yahoo.co.jp/pickup/6539959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f49200cbce2d380842cf05c13632a57b34308047442073eccbfc76153e16a17d.jpg> ヤ軍ジャッジ18号HR 敵地も騒然
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/24/8cd81ce37e83ec328630aee013652bf1075b188bd4e4d2b94d919be3cc7e7782.jpg> 優木まおみ 芸能活動を一時休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6539960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/eadeb43b4a310ab9e1d9bc75e8522e9089033eaf8735eac6364866906cbb200f.jpg> 優木ら 相次ぐ芸能人の海外移住
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 08:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 09:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
