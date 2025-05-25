@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ce37adc2bdf9488b981fe9465a373ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba5fa0bd0d2f199669bf12874a498bd5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f79d635a45d34f547f4de8cee540572fff090fa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250553-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 大谷翔平を「１人の打者に過ぎない」３三振、無安打に抑えたメッツ左腕がクールに答える
+      <a href=https://news.yahoo.co.jp/articles/ebde81469e780f734a71a634275b7e032b56fcfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-01760505-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平へ異次元の注目　ド軍監督取材は“8/15”、敵軍投手も「絶対見に行く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d56542691e3a0ee9f4d4a071ac0379133d2faf60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-05963559-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 優木まおみ、8月に娘2人とマレーシアに移住へ　芸能活動は「長期で休む」と発表　不安を明かす
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1e4017d3122098a24317af83acc8513127730a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025688-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 一家でマレーシア移住予定の優木まおみ、スケージュールを公表　一時休職も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ad50c90d280dd9b2e506e61ea91195ed6650bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 大谷翔平の投手復帰、７月のオールスター戦後の見通し…ロバーツ監督「彼の体調が判断材料」
+      <a href=https://news.yahoo.co.jp/articles/fa3c527fda02abdf1e450ca15943167bcbfc20cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 和歌山のパンダ、返還控え屋外はきょうが最後「寂しい」「また来る」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/6984eb4109959bc7363b19666cebed70ec43949b441eda16bd6caccb7808e19e.jpg> コメ値下げの成否 参院選を左右
+      <a href=https://news.yahoo.co.jp/pickup/6540000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c1a50497832baff538d9f4ab0bd45caabd4e796a9cd50209c460ce081e353366.jpg> 農水省「コメ対策チーム」発足へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/a116646db44c845e23ddaa06fd3aa989c9a3e7246615ab0966c239629e50ddfe.jpg> 大谷3三振 敵地ブーイング歓声に
+      <a href=https://news.yahoo.co.jp/pickup/6539973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9d03076e831a9f46c83b6c4a41e49337aabe28de6c44217b36c587e7efcdfdc3.jpg> 「デコピン」商標出願増 登録は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 14:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 14:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
