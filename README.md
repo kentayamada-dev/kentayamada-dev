@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84b065e4466a51ce04b3d8ad647c94ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5a021696f679f6cf4a58132b5542903.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/136a996cbc05d7d31f70233d93d91a9beaf44aef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-10180115-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=778&ch=778&exp=10800&fmt=webp> コメ高騰 “減反”見直し 政府「農政改革」会合再始動へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd03f7a438a349dafcb7c4ffa030262a1a65ac74>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b40b131f856af9eb84a3cb5c2bd16915d3315294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000203-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=749&ch=749&exp=10800&fmt=webp> 杉村太蔵　農家にとって米価上昇「希望の光」「3000円台と言われるとキツい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d58caf9e99f0a4377ecd21d28d4106320e478e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00010000-yomosaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1503&ch=1503&exp=10800&fmt=webp> 来場者増え「並ぶ万博」に不満や戸惑い…人気パビリオンは待ち時間4時間超・当日予約取れず
+      <a href=https://news.yahoo.co.jp/articles/fa3c527fda02abdf1e450ca15943167bcbfc20cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000032-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 和歌山のパンダ、返還控え屋外はきょうが最後「寂しい」「また来る」
       </a>
     </td>
   </tr>
@@ -395,15 +395,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c1a50497832baff538d9f4ab0bd45caabd4e796a9cd50209c460ce081e353366.jpg> 農水省「コメ対策チーム」発足へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/f60955385729010122887508e52a618a5562345f5e834c98432a0e9ea148b096.jpg> 農水省「コメ対策チーム」発足へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/748a3be285e5355feeab049bcbe5ded64daaf6383c9e1ebf7482562ed29e4d79.jpg> 正恩氏激怒の駆逐艦事故 技師拘束
+      <a href=https://news.yahoo.co.jp/pickup/6540002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/21e14ea94e890f9e485a457d2e78601cfb3b78e15a4e3cf57b4a55972efeae10.jpg> 6月の熱中症死増 過去10年で564人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kohyoungki/02222220/title-1748140069613.jpeg?exp=10800> 駆逐艦事故巡り拘束 正恩氏思惑は
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1e7c0ece7e9b7dfbf612fd85d7e3d5121ab53caa3beb46bcc0dce944bf07eeae.jpg> 「ありがとう」屋外パンダ見納め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/9d03076e831a9f46c83b6c4a41e49337aabe28de6c44217b36c587e7efcdfdc3.jpg> 「デコピン」商標出願増 登録は
+      <a href=https://news.yahoo.co.jp/pickup/6540004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/76f9052bc8c65bf4fce4e8222e37773a7b352f51905094ede7f1e9accfc5872a.jpg> 足が棒 「並ぶ万博」4h超待ちも
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/435cc6e3893629f8e245f2bacd44ef471f41003ec4e069f5caa66da4935e5dad.jpg> B'zをサポート 明石昌夫さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6540006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/c73a83a6acc671b88f375109888455e0141ca8dc4bfc683541e9bc6207a9cd1c.jpg> ヤクルト 監督が異例の円陣声出し
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 15:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 15:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
