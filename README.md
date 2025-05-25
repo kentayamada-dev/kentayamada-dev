@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/204a880187b7e3becdec3648e497c7ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ce37adc2bdf9488b981fe9465a373ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f79d635a45d34f547f4de8cee540572fff090fa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-35250553-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 大谷翔平を「１人の打者に過ぎない」３三振、無安打に抑えたメッツ左腕がクールに答える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b40b131f856af9eb84a3cb5c2bd16915d3315294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000203-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=749&ch=749&exp=10800&fmt=webp> 杉村太蔵　農家にとって米価上昇「希望の光」「3000円台と言われるとキツい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1e4017d3122098a24317af83acc8513127730a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025688-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 一家でマレーシア移住予定の優木まおみ、スケージュールを公表　一時休職も
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa437e7fe9da34f5f72607dff15839e757c38ef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平から３奪三振、メッツ技巧派左腕「攻略法？ 教えられないよ（笑）」… 敵将もご満悦「大谷も人間だった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ad50c90d280dd9b2e506e61ea91195ed6650bce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=352&ch=352&exp=10800&fmt=webp> 大谷翔平の投手復帰、７月のオールスター戦後の見通し…ロバーツ監督「彼の体調が判断材料」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c718f1c64d9009f1ca51f0b9890c277709b77dda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250525-90025667-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 備蓄米「随意契約」26日開始　「1週間で店頭5キロ2000円」　コメ生産者に理解求める
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6539972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/4db1a37683f048f25400fa9f5bcba4b5146f779e658fea415932d19719c48142.jpg> 婚活アプリで独身と嘘 裁判相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539980>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/1e96dd30f25e21cc304d80852fd0013981e4731c365c5da9b7ae6cdb79afb377.jpg> 「良くない睡眠」唾液で判定 研究
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/435cc6e3893629f8e245f2bacd44ef471f41003ec4e069f5caa66da4935e5dad.jpg> B'zをサポート 明石昌夫さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6539995>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/25/31905dbddc0fb5f894af6e8aeb26209c9d518efce49a2d75ae79e498166de2d6.jpg> 28.8kgの大食いタレント 食生活は
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/25 13:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/25 14:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
