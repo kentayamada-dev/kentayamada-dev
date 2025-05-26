@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4910c1803dd394e2f6275e3868b3728b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/784af6f1f506e74c761138913658fd8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2436588d56fd45c698fb38dcb52ddd0b497db4c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000083-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ地元紙、早くも秋のドジャース戦へ燃える １年越しリベンジ「健康な千賀滉大ならば…」
+      <a href=https://news.yahoo.co.jp/articles/ffd532492494cbe911115014ebf7d8d67881f5c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010002-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 日本製鉄のUSスチール買収、真に問われるのは「石炭依存のビジネスモデル」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b57dceb2d0ef3e936b32aef3d2481b2d00a04236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-09824927-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】備蓄米の随意契約　価格は２１６０円　早ければ６月上旬から店頭に　専門家は課題指摘
+      <a href=https://news.yahoo.co.jp/articles/d02ce2a3da1b72e3104e46e4c4d266870fbfa29d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35261035-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=691&ch=691&exp=10800&fmt=webp> 近田春夫、小泉進次郎新農相を“見直し”「評価すべきなのではないかなぁ？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/431f3cbccba59a7a596c7891063e971dfe1288d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977292-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】70代男性が“60代”男に刺される　男は逃走…付近に公務執行妨害で現行犯逮捕の男　神奈川・厚木市
+      <a href=https://news.yahoo.co.jp/articles/b984a04d5e55dfe828625fd8f7db45ec0f58b785>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ボランティア無断応募で市長陳謝　名古屋、26年アジア大会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0bbc2b1c4e34e6392340ecc74e29f7356c49c7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/dk/yvpub-bucket001-west/contents/yvpub-content-b085479092578c9c82c2622f22194fe8/20557029-a22379feb8c83fe4ab02331ec8834c64/img/1748243503/thumbnail.jpg?exp=10800&fmt=webp> アジア大会のボラ無断登録「よろしくない」　名古屋・広沢市長が会見
+      <a href=https://news.yahoo.co.jp/articles/f00b229b6259551d34a21111a44e743854edb07a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10180282-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 大谷翔平 防御率ナ・リーグトップ争いの千賀滉大と対戦 5試合ぶりのホームラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac53016fabda9a4f4ef49b6a2d79c5cd3aee33c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000059-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=756&ch=756&exp=10800&fmt=webp> USスチール「部分所有」　日鉄の買収、詳細言及せず　米大統領
+      <a href=https://news.yahoo.co.jp/articles/23d2e2ba1b3dccad4df610932b0807ece46e071e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90019658-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】自転車の9歳男子小学生を無免許運転の車ではね　逃走した疑い　40歳自称アルバイトの男を逮捕
       </a>
     </td>
   </tr>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/54119c5fd97c33f416c188ca0cb5848a9ea78412e59799b75c94a120f8e3fe1f.jpg> 備蓄米契約の事業者は公表 小泉氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a57d9a880bdbed6c4f3ee9645db4339b6638259b3bde5cae669d0d10b7d48640.jpg> 電気料金補助 1kWh2円程度で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540108>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3a6b7a6e5efbc03bacc16d7d06235c1cc1f72477764969ce0f185c82a5d814db.jpg> 東大 ハーバード留学生受け入れへ
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/f32085e42c664f7334c9742bfca6dae8bba8de9a2e01bb49100e9069592a80be.jpg> 川に2人の遺体 山菜採りの男性か
+      <a href=https://news.yahoo.co.jp/pickup/6540124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8f2dcdbf7b360169e159c8564529d72c64172fd36aa1860e00d5dba34b161324.jpg> 万博で虫大量発生 対策本部を設置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d47c6a3c73bc0a0f907e74aa0dc66e0361bf1ba3fed3526624abd696af0c652b.jpg> 9歳男児はね逃走した疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540111>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02223396/title-1748227102623.jpeg?exp=10800> 中国発のキャラ なぜ世界で人気
+      <a href=https://news.yahoo.co.jp/pickup/6540125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/0ddac223c21cddffc5290c5788cbfeec4e34264b9a573585d366c8d562adfd96.jpg> 最下位から一転 好調西武に名参謀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9e8ceef65eed437bc89ad99b8c61013c7c4bebee66be043987cd2f297a4727ce.jpg> 戸郷2軍降格の夜 バウアーからDM
+      <a href=https://news.yahoo.co.jp/pickup/6540127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/05b7922d1a571af221d14a26f01ac9e8551ac19d28f706eb72eaa5a208b41093.jpg> 安村アナ医学部入学 社長がエール
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/35d879706593dded0f2d25ef48109591a6e6933c21eb3752c5bcbd1f4e6b04e2.jpg> 火垂るの墓 7年ぶり地上波放送へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 16:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 17:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
