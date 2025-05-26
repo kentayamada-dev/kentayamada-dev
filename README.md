@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/37693213a2030099da4fcff32d1acb33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/713a148303ef5bd13255360269ebd668.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c49269f597692e7fc04567147dfe4c571369e990>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000141-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ライブBP後の大谷翔平の先頭打者弾に米メディア驚がく「レーザービームのよう」「疲れなかったようだ」
+      <a href=https://news.yahoo.co.jp/articles/cf8c1bca0e55b9b4dbf333c34b2b538a1a13f5e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000147-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=926&ch=926&exp=10800&fmt=webp> 千賀滉大　3回は大谷翔平から空振り三振奪い規定投球回到達　山本由伸抜き防御率1.52でリーグトップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/872c65ef9b9466c8a7f90f37a537642b51566711>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050007-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「反政権」イラン監督がパルムドール、抑圧下の映画界に金字塔…政権には手痛い打撃
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 選手への中傷「深刻」92% 調査
+      <a href=https://news.yahoo.co.jp/pickup/6540074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d976f11270c3161c0346c41efe7a7da0e2098a142e2a7b97a4d0589b0a3746b0.jpg> 戸籍に「読み仮名」記載 運用開始
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/57346ff454a2ad8bb7dc79c3d158f7d6d6f73d19c6812c107b8ab7bc0868ffb0.jpg> 大谷の実戦形式登板 監督「興奮」
+      <a href=https://news.yahoo.co.jp/pickup/6540080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e0ecb42245a7befd2ba4d09dd13de7d79768ac95e80a5ddd46e2a145fd26f6a1.jpg> 大谷18号 千賀撃ちでMLB首位並ぶ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 08:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 09:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
