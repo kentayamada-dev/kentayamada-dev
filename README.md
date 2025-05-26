@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25816748bc1c0166768ca7e1a70d2996.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4910c1803dd394e2f6275e3868b3728b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2436588d56fd45c698fb38dcb52ddd0b497db4c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000083-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ地元紙、早くも秋のドジャース戦へ燃える １年越しリベンジ「健康な千賀滉大ならば…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b57dceb2d0ef3e936b32aef3d2481b2d00a04236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-09824927-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】備蓄米の随意契約　価格は２１６０円　早ければ６月上旬から店頭に　専門家は課題指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/431f3cbccba59a7a596c7891063e971dfe1288d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977292-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】70代男性が“60代”男に刺される　男は逃走…付近に公務執行妨害で現行犯逮捕の男　神奈川・厚木市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0bbc2b1c4e34e6392340ecc74e29f7356c49c7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/dk/yvpub-bucket001-west/contents/yvpub-content-b085479092578c9c82c2622f22194fe8/20557029-a22379feb8c83fe4ab02331ec8834c64/img/1748243503/thumbnail.jpg?exp=10800&fmt=webp> アジア大会のボラ無断登録「よろしくない」　名古屋・広沢市長が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac53016fabda9a4f4ef49b6a2d79c5cd3aee33c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000059-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=756&ch=756&exp=10800&fmt=webp> USスチール「部分所有」　日鉄の買収、詳細言及せず　米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5371ebae23a8ac6eea471943b559bad16f37f9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977276-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【独自】備蓄米「随意契約」大手スーパー「イオン」「ライフ」や「ドン・キホーテ」契約参加の方向で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcc4093a3fcd7c6a0bbe765ea18027c4c5dd4900>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90025642-tncv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 見つかった遺体は“山菜採り”で行方不明の男性（84）と判明　歯形などから確認　16日に牛頸山に出かけたまま帰宅せず　福岡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d18521c79baa3d7d93b3953f180b1f4f1eb81a72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21937001-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手18号ホームランでメジャートップタイに　試合前にはライブBPに登板　156キロを計測
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd9c8544c38ff660a4fac2b3e14c86c0096c84d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90030279-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 名古屋市議がアジア大会ボランティアを無断登録、広沢市長「極めて残念」 今後は本人に参加意思確認へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000059-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=756&ch=756&exp=10800&fmt=webp> USスチール「部分所有」　日鉄の買収、詳細言及せず　米大統領
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b5e727ca8bac9f95f66b29ad43348890b1720cf9b268fe88545c9fa6a275e73e.jpg> 基礎年金底上げ案 2兆円の財源は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540113>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/54119c5fd97c33f416c188ca0cb5848a9ea78412e59799b75c94a120f8e3fe1f.jpg> 備蓄米契約の事業者は公表 小泉氏
       </a>
@@ -411,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/cd1e1e47dbbd244dedd814ddfcae554bf538528521b957308f1c9ae68d6bf24d.jpg> 電気料金補助 1kWh2円程度で調整
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a57d9a880bdbed6c4f3ee9645db4339b6638259b3bde5cae669d0d10b7d48640.jpg> 電気料金補助 1kWh2円程度で調整
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/818acdf0fc5988574511040f552c01c5366f0fcd60301a8f0a7a95392095e43d.jpg> 花火大会など 猛暑で続く日程変更
+      <a href=https://news.yahoo.co.jp/pickup/6540118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/f32085e42c664f7334c9742bfca6dae8bba8de9a2e01bb49100e9069592a80be.jpg> 川に2人の遺体 山菜採りの男性か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/38cd7f00edd459006badc3c0653695bda4c89ad9422d8b2721d7a0da86a87e62.jpg> 刃物で刺されけが 付近で男逮捕
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8745f0f5d66aec42333037f18be754d21b78544401a9c7d9868faac67691160f.jpg> 山梨学院高サッカー部 数人が飲酒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540115>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9e8ceef65eed437bc89ad99b8c61013c7c4bebee66be043987cd2f297a4727ce.jpg> 戸郷2軍降格の夜 バウアーからDM
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a64a1781bf2dff4ebb1a723d44ba24072517326662dbcd232ba6de4f6fef86fb.jpg> 初登板から150試合負けず SB大江
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 16:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 16:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
