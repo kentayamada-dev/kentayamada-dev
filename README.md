@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c42903c4dfade488afa296450377ad16.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b016f135402a49b6eadf900c6319f800.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cf72bd3fb78ef87d56974fd13fb44e8f79a8d29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270033-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> リバプールの優勝パレードに車突っ込む　53歳男を逮捕　英首相「ぞっとするほど恐ろしい」
+      <a href=https://news.yahoo.co.jp/articles/ea02e529350b1c9864d25ed30823677cec9112f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平の『秒速弾』に日本のファンお目覚め…「エグすぎ」「モーニングコールのよう」…試合開始初球を185キロ弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d756146ed3f8dbcf9a2290f91ccfd1fe4369a645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 射程制限「もうない」　ウクライナ供与の兵器　独首相
+      <a href=https://news.yahoo.co.jp/articles/78c9fbe86461dcf7e1f8dc09cd5bed5329474a53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180375-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ウクライナ供与の兵器 独首相「射程制限は撤廃された」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b421c847f10593d80484a7bde9d330bf9395af9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346034-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大相撲】大の里に厳格指導を！　二所ノ関親方の元兄弟子が要請「横綱になると誰も何も言えなくなる」
+      <a href=https://news.yahoo.co.jp/articles/c35eff2623b8380ce14f361e4bcd9bc54f850c8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271011-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸、初回２奪三振で３者凡退の好発進　大谷翔平の援護弾に応える　ガーディアンズ戦は２年目で初登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72f26bd1a0f1a971d9c6680eb21cf43218160f27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180331-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 歓喜のド軍ナインと対照的？フリーマン＆大谷翔平、HR直後のやり取りがアツい！ 大谷が「ペコリ」中継が捉えた“仕草”に注目
+      <a href=https://news.yahoo.co.jp/articles/b2ce458fc0e69d2bc8f21a42e0ed4861f3679834>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000005-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 年金引き金「大連立」臆測　自民一部に期待、立民火消し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e088eea9d05865363bc2ef3f9cd578976a36dd1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドンキ、アイリスが名乗り
+      <a href=https://news.yahoo.co.jp/articles/d7d437a4654123d998428de2c73e11a0ee4e95c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000003-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=800&ch=800&exp=10800&fmt=webp> コメ価格、抑制効果は不透明　備蓄米「随意契約」導入で
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a545fb130f7ba4bd9cce9b714ee821a23656c1168a544948167f165d47724344.jpg> 野田氏 内閣不信任案の見送り示唆
+      <a href=https://news.yahoo.co.jp/pickup/6540166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b5dea6b8c7662d88b255fcfdba41f3fa62452953239f0a745e84e030ef61a495.jpg> 独 ウに供与兵器で露領の攻撃容認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/66744d0aa20ed0009dff8186339653c1ba8caaf6d3ac09444e8e0ea6d9c10213.jpg> 備蓄米 アイリス6月2日販売目指す
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540153>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d462f864e91215d403ab3453449adf683f38f8023baeb5aa6a00006eaafc8e26.jpg> 自転車で車道に転倒 はねられ死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/df47a6f03278f3b3a17a1cba114bd7b821edd81df8a8c150bb64a93a5b6e236b.jpg> 横須賀事故 ひき逃げ疑いで再逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5b0fff4d8b1b8b126e8c73d445ad375d4153202c293b39d1ed5835262d46374c.jpg> 朗希 昨季もインピンジメント診断
+      <a href=https://news.yahoo.co.jp/pickup/6540170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 先頭打者弾に敵地騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/981d5d082fdd29f50ec6dbe6929b687991df1e55561e8beb560b1ab4cd6027c3.jpg> 大坂なおみ敗退で涙 会見一時退席
+      <a href=https://news.yahoo.co.jp/pickup/6540161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5b0fff4d8b1b8b126e8c73d445ad375d4153202c293b39d1ed5835262d46374c.jpg> 朗希 昨季もインピンジメント診断
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 07:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 07:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
