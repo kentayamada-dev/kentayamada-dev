@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/912c8385c084eceffc625835410d1f91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c42903c4dfade488afa296450377ad16.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b421c847f10593d80484a7bde9d330bf9395af9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346034-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大相撲】大の里に厳格指導を！　二所ノ関親方の元兄弟子が要請「横綱になると誰も何も言えなくなる」
+      <a href=https://news.yahoo.co.jp/articles/8cf72bd3fb78ef87d56974fd13fb44e8f79a8d29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270033-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> リバプールの優勝パレードに車突っ込む　53歳男を逮捕　英首相「ぞっとするほど恐ろしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acda16f0f60718a2da45f975dafabf7203c1a9e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35233455-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=675&ch=675&exp=10800&fmt=webp> サッカーの優勝パレードで車が群衆に突っ込む、男を逮捕　英リバプール
+      <a href=https://news.yahoo.co.jp/articles/d756146ed3f8dbcf9a2290f91ccfd1fe4369a645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 射程制限「もうない」　ウクライナ供与の兵器　独首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b421c847f10593d80484a7bde9d330bf9395af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346034-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大相撲】大の里に厳格指導を！　二所ノ関親方の元兄弟子が要請「横綱になると誰も何も言えなくなる」
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9bccedc6e21d802921d00d420dc41f6ebce1f3f01ed810ad24ef1c6a76878895.jpg> ドラゴンアイ開眼目前 登山客殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540160>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ea25a861790bcae486342a469554b2559c82e33c608fda6b6a4d9adfda09e2a0.jpg> 推しに会うため34kg減 女性の決意
       </a>
@@ -456,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/981d5d082fdd29f50ec6dbe6929b687991df1e55561e8beb560b1ab4cd6027c3.jpg> 大坂なおみ敗退で涙 会見一時退席
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 06:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 07:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
