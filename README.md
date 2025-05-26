@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f7600657624d83816ad34aa328fc623.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/878c26d69c62488073d46771ff146c3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de3e0a638fd71005ef7ba3b9f013ca0a133fd567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000124-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「年金で騒がれるのが一番きつい」自民、年金法案で立民に歩み寄り　不信任案防ぐ狙いも
+      <a href=https://news.yahoo.co.jp/articles/a0946f9aac40aa145d424be6ca3417c1cf4bf912>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 備蓄米「随意契約」説明に約320社が参加 イトーヨーカドーやドン・キホーテ運営会社などが申し込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eb00d9bdf2dfd3149248e44c36efa4d38ab3cfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21937927-tbcv-000-1-view.jpg?pri=l&w=168&h=168&order=c2r&cx=66&cy=0&cw=168&ch=168&exp=10800&fmt=webp> アイリスオーヤマ備蓄米の随意契約決定　申し込んだ全量での契約
+      <a href=https://news.yahoo.co.jp/articles/de3e0a638fd71005ef7ba3b9f013ca0a133fd567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000124-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「年金で騒がれるのが一番きつい」自民、年金法案で立民に歩み寄り　不信任案防ぐ狙いも
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/5644f087e9d5d5781fb23febf46ec1f7111b07fb2b52383c58be547dd703f1b8.jpg> 初診→難病判明に平均3.4年 分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b4102c3b39b0614724d53d57ae7bbde8ec7f27b6136aaac87454b65e0ac5443a.jpg> 国民幹事長「博多の女性きれい」
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/f07a784fd0452833607a0ada237a09f92e59160661b6a996aceaf602fc98f1cf.jpg> 新人 スモモモモモモモモで初勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/05b7922d1a571af221d14a26f01ac9e8551ac19d28f706eb72eaa5a208b41093.jpg> 安村アナ医学部入学 社長がエール
+      <a href=https://news.yahoo.co.jp/pickup/6540150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e4d87902c83eaea14319f45d95ef9b2c35f00a0e8d4a7d2e9092533aac909fa7.jpg> 大の里 ラーメン店で気づかれず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 21:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 22:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
