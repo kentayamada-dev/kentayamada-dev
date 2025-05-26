@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39733c1cd6766c805c04340e329cc558.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7e04ff5266fd2b4de38f18426415bfc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3aae8383ca74c3da822c0fb788a4cdc052513090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000218-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> コメ流通専門家　コメ5キロの適正価格に言及「3000円～3500円で最後は着地するのでは」
+      <a href=https://news.yahoo.co.jp/articles/a78759a603ce327f8c124d4e6763f0eeaa38a540>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000039-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 「どんな手でも使って価格を抑制していく」小泉進次郎氏、備蓄米新方式発表会見の一問一答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/845e6c00ed659a6c9caa2ac41643ffcd4c2be5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010006-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「USスチールは米国が管理」と強調、日本製鉄は「部分的に所有」
+      <a href=https://news.yahoo.co.jp/articles/9b06bbb31483be5b67ce02d0386d6347434db0d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238878-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=522&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府　日鉄のUSスチール買収計画「関係者間の意思疎通促進に努力」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 13:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
