@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9750b60558b2ad8b7b015a7d020a7cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/120e378f997fe512b520e41466d1c01d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7341c09393a2d40a30ded65772e5b75b7dc78f26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238908-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=744&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】コメの適正価格めぐり 小泉農相「消費者と生産者の思いを一致させる議論の始まりとしたい」 就任後初の国会初答弁
+      <a href=https://news.yahoo.co.jp/articles/e39d314b1b22f2ac6b92b8b9f449a062cf82dfc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全日空機、乗客の騒ぎで米空港着陸
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18bcde22350814c90d846d9130d58da67f4c059b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261116-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の衝撃的登板、同僚から驚きの声続出「二度と対戦したくない」「みんな見たがっている」「うれしかった」
+      <a href=https://news.yahoo.co.jp/articles/d18521c79baa3d7d93b3953f180b1f4f1eb81a72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21937001-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手18号ホームランでメジャートップタイに　試合前にはライブBPに登板　156キロを計測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d336d6dc29c77cf6e0e900b9c5c3399b3af31286>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000073-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大は『脱出王』、5安打4四球も6回途中1失点で「“どうにかしてピンチを切り抜けてしまう男”として知られつつある」と米メディア
+      <a href=https://news.yahoo.co.jp/articles/683a763070edfb72d768fcd525e488a110a407c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90025762-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> コメの適正価格は？　農家の本音「一番怖いのは…」　小泉大臣「異常な高値抑え込む」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c8d8812518df226af05867f66dbfdd4f3e45eb9ebe1624d3fc554a72507118b8.jpg> 小泉氏 備蓄米放出の新方式を発表
+      <a href=https://news.yahoo.co.jp/pickup/6540113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/54119c5fd97c33f416c188ca0cb5848a9ea78412e59799b75c94a120f8e3fe1f.jpg> 備蓄米契約の事業者は公表 小泉氏
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/9/26/2b7223a6c3904c8be43b47b2dee43420d29f5deb07718fe1a5667649a4536e96.jpg> 職員が喫煙 病院が診療報酬返還へ
+      <a href=https://news.yahoo.co.jp/pickup/6540112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/818acdf0fc5988574511040f552c01c5366f0fcd60301a8f0a7a95392095e43d.jpg> 花火大会など 猛暑で続く日程変更
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/818acdf0fc5988574511040f552c01c5366f0fcd60301a8f0a7a95392095e43d.jpg> 花火大会など 猛暑で続く日程変更
+      <a href=https://news.yahoo.co.jp/pickup/6540111>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02223396/title-1748227102623.jpeg?exp=10800> 中国発のキャラ なぜ世界で人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 15:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
