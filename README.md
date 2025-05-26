@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80b8541231dc9b3edee23113a3c97c48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0828b349add00d80f81ce070b78fd147.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b54997fb5d33c24acbff65e99c0e4c8b42ce7e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90025804-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『ドンキ』『アイリスオーヤマ』契約に名乗り…備蓄米“５キロ２０００円”実現は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b3a26d32cc8be5d666ebae52ee44cea4ca77ba7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000056-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ドジャース・大谷　先頭弾18号！2年ぶりのメッツ・千賀との対決でいきなり2階席へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2698512cbf58378c86ff8862d5dd61b9dc7199cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 茨城県、千葉県で最大震度2の地震　茨城県・水戸市、笠間市、ひたちなか市、大洗町、東海村、茨城鹿嶋市
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da003325cc129ab92a19ddbacf712c6d2e482a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05261221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=800&ch=800&exp=10800&fmt=webp> これぞ大谷翔平！ライブＢＰ終了４時間半後に千賀撃ち先頭弾…二刀流での連続世界一挑戦「もちろん楽しみ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bf1dc7b588dd0c8c4fc9a5395827d1f2fc5ec36>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261251-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 銅メダルの伊藤美誠「新たな挑戦をしていきたい」　世界卓球から帰国　女子ダブルス再挑戦を明言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/356e548261ad32de4d3b8907c3914a49c6c79202>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977607-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」 説明会に300社超　“5kg2000円”で店頭へ　スーパーのコメ価格は5kg4285円と過去最高値更新
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 01:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 02:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
