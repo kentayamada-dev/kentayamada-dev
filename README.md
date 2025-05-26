@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7fc8b9f5908cd36a316956e1a9237726.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/092b8a85ae2851e2175a94cb15aa18ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/712ee1cc106a93b4467a055c84bd555818bfe5f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000069-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “JAからの電話”農水族議員に…備蓄米放出で問い合わせ相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/88b2e9755894237d93382b6b8736d039420e2158>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博を悩ます羽虫「ユスリカ」大量飛来に対策本部設置　会場西側に2カ所の喫煙所設置も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e393774f6a943f63f6e26895e116db54b525ed9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051419-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博協会が「ユスリカ対策本部」設置　対応の進捗状況など確認　発生源は調査中
+      <a href=https://news.yahoo.co.jp/articles/712ee1cc106a93b4467a055c84bd555818bfe5f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000069-ann-000-3-thumb.jpg?exp=10800&fmt=webp> “JAからの電話”農水族議員に…備蓄米放出で問い合わせ相次ぐ
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bdeceec42db334be7d95f2760e19e9ea22f05b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 日本最大のドラッグストア連合誕生へ　ツルハHD、株主総会でウエルシアHDとの経営統合案を可決
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-htbv-000-4-thumb.jpg?exp=10800&fmt=webp> 日本最大のドラッグストア連合誕生へ　ツルハHD、株主総会でウエルシアHDとの経営統合案を可決
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/420cc852d48f2979dffe4db783b89bda09fcbe4a18891bba68b956f5c72dbc3c.jpg> 備蓄米 イオンなど契約参加で調整
+      <a href=https://news.yahoo.co.jp/pickup/6540141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/4572dd64fe1a34dd4f3bc36399de5e0f8a55bea351fdf536470b8e776854f0f3.jpg> ツルハ 株主総会で統合案を承認
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540133>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/956fb0da30cfc8d51080d64aae812ae5d7baf7484b21b4ab2feedda793bc9c2c.jpg> 日本酒の製造免許 規制緩和を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b4102c3b39b0614724d53d57ae7bbde8ec7f27b6136aaac87454b65e0ac5443a.jpg> 国民幹事長「博多の女性きれい」
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/77cde7131dfdadf2448acc0f69313c90459c84d5ac1c4eb9b9b4e72ccb2029b9.jpg> 審議わずか6分 大の里を横綱推薦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540127>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/05b7922d1a571af221d14a26f01ac9e8551ac19d28f706eb72eaa5a208b41093.jpg> 安村アナ医学部入学 社長がエール
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 19:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 20:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
