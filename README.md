@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0902230afbfc65c27526a5cbadc7c92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15b38a8f4df97e603682dbc08d1445e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c12a5158aa9e43d0fe8b7d239a7a521c0242200>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00097034-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が日本人右腕から強烈な挨拶代わりの一発！ 18号先頭打者打者アーチで先制もドジャースは惜敗。メッツ先発・千賀滉大は５勝目、防御率1.46でリーグ首位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/379bbea57b861d27c02d7c7e6ce8b3553b632658>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01761231-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ライブBP「納得できる内容」　試合では5戦ぶり18号、MLBトップ再浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4c0be924aefc44f32fee24b132745841019edd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000035-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1436&ch=1436&exp=10800&fmt=webp> トランプ氏、ＵＳスチールは「米国が管理」と強調　日鉄巡る質問に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea152ae3b162a906e7c8ce8aa130e3ce94d6d9d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07864192-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ安く」スピード感で…緊急調査「コメ価格」現場の本音は？【バンキシャ！】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b91a9ad630a48a6d51cd04c90461b72eb831e21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050038-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「ＵＳスチールは米国が支配」「日鉄は部分的な所有」…数十億ドル投資の予定と言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c3b21796d30fe495d872177bd012db7498fb09d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261048-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平が先頭弾から３打席連続凡退…千賀滉大は大谷に先頭弾被弾も６回途中１失点で５勝目権利＆防御率リーグトップ浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71a7f0a6c6232698b1f04862b212c6c9dd35ef69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00345947-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が１８号先頭打者弾　メッツ・千賀滉大からメジャー初アーチ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07864192-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ安く」スピード感で…緊急調査「コメ価格」現場の本音は？【バンキシャ！】
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9b5bfb4dc74da6ff94a56e937afdb45210f108a78cc2e04f504deb24fb039899.jpg> 千賀 大谷からHR被弾も三振奪う
+      <a href=https://news.yahoo.co.jp/pickup/6540089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9b5bfb4dc74da6ff94a56e937afdb45210f108a78cc2e04f504deb24fb039899.jpg> 千賀の防御率 由伸抜きリーグ首位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 10:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 11:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
