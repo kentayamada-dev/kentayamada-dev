@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd4330e7acdbeee46eaca362dad77f86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/912c8385c084eceffc625835410d1f91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97662ede82a3a8d881d6ab51ff368594b3772eb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01126637-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」各社名乗り　コメの平均価格はまた最高値…いつ下がる？
+      <a href=https://news.yahoo.co.jp/articles/8b421c847f10593d80484a7bde9d330bf9395af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346034-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大相撲】大の里に厳格指導を！　二所ノ関親方の元兄弟子が要請「横綱になると誰も何も言えなくなる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a70a029b658037ce5374c2ae2c34e91cbf85b33c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05261226-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=973&ch=973&exp=10800&fmt=webp> 「文句なし」横綱昇進の大の里に横審が大谷級の活躍期待　大島委員長「“大豊時代”と言っていいでしょうか」
+      <a href=https://news.yahoo.co.jp/articles/acda16f0f60718a2da45f975dafabf7203c1a9e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35233455-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=675&ch=675&exp=10800&fmt=webp> サッカーの優勝パレードで車が群衆に突っ込む、男を逮捕　英リバプール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e4e6591d99e6d081962f48a983ed03681cdb892>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761623-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　2試合連発19号なるか、山本由伸は6勝目へ…スタメン発表
+      <a href=https://news.yahoo.co.jp/articles/72f26bd1a0f1a971d9c6680eb21cf43218160f27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180331-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 歓喜のド軍ナインと対照的？フリーマン＆大谷翔平、HR直後のやり取りがアツい！ 大谷が「ペコリ」中継が捉えた“仕草”に注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e088eea9d05865363bc2ef3f9cd578976a36dd1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドンキ、アイリスが名乗り
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a545fb130f7ba4bd9cce9b714ee821a23656c1168a544948167f165d47724344.jpg> 野田氏 内閣不信任案の見送り示唆
+      <a href=https://news.yahoo.co.jp/pickup/6540162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/4727ab3856226657d8adb940fe3e76b0e9f5ca9759a734f48527e74a7791812e.jpg> 英 優勝パレード中に車突っ込む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c8f69924827f4473beba864cb4cdc4da9902aea215f5fe64f9d9e730b9291179.jpg> 備蓄米 契約説明会に約320社参加
+      <a href=https://news.yahoo.co.jp/pickup/6540148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a545fb130f7ba4bd9cce9b714ee821a23656c1168a544948167f165d47724344.jpg> 野田氏 内閣不信任案の見送り示唆
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/58225135a7b584ff4d704b75ff6eacad50ea24c94cf03ebf315732872c4bda55.jpg> みまひな 五輪での再結成へ意欲
+      <a href=https://news.yahoo.co.jp/pickup/6540161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5b0fff4d8b1b8b126e8c73d445ad375d4153202c293b39d1ed5835262d46374c.jpg> 朗希 昨季もインピンジメント診断
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 06:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 06:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
