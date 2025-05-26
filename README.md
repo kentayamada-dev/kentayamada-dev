@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15b38a8f4df97e603682dbc08d1445e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18449d837727a24e24069629e26dbecd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c12a5158aa9e43d0fe8b7d239a7a521c0242200>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00097034-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が日本人右腕から強烈な挨拶代わりの一発！ 18号先頭打者打者アーチで先制もドジャースは惜敗。メッツ先発・千賀滉大は５勝目、防御率1.46でリーグ首位
+      <a href=https://news.yahoo.co.jp/articles/cb113961816082aa09a341312a215ca964bdae6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000180-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 大谷翔平「甘い球をしっかり打てた」千賀から米初アーチ18号先頭打者も…中飛の3打席目「悔やまれる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/379bbea57b861d27c02d7c7e6ce8b3553b632658>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01761231-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ライブBP「納得できる内容」　試合では5戦ぶり18号、MLBトップ再浮上
+      <a href=https://news.yahoo.co.jp/articles/bae959b20ef4e426859c607e9649cf09ec0010d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000179-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1172&ch=1172&exp=10800&fmt=webp> 千賀滉大　大谷翔平との注目対決は「楽しくはないです」と苦笑い　先頭弾被弾も6回途中1失点で5勝目
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4c0be924aefc44f32fee24b132745841019edd6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000035-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1436&ch=1436&exp=10800&fmt=webp> トランプ氏、ＵＳスチールは「米国が管理」と強調　日鉄巡る質問に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea152ae3b162a906e7c8ce8aa130e3ce94d6d9d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07864192-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ安く」スピード感で…緊急調査「コメ価格」現場の本音は？【バンキシャ！】
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/66ac87accbf6facce2487c20b70d5b6c443ab7c481b4225b9c847fbeb3b9bed9.jpg> USSは米国がコントロール 大統領
+      <a href=https://news.yahoo.co.jp/pickup/6540083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> EUへ50%関税発動の期限延長 米
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/aeb5b7b9a0d478f746775c28c792523f0f1547f043cbfbd28035c5f9874eae56.jpg> 日本の新米 英で5kg3千円台の背景
+      <a href=https://news.yahoo.co.jp/pickup/6540092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/faab7f6cf64f9bff6787db715140696d074d2dc5e2454ecb4cce776d4f4f1a91.jpg> 7桁番号で住所識別 日本郵便導入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ad72d26e64fa159f47cf1a0aff32ba566299e204daa166431cd3077b3e63ef8f.jpg> 牛舎実習で高2事故死 親が提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6540085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/aeb5b7b9a0d478f746775c28c792523f0f1547f043cbfbd28035c5f9874eae56.jpg> 日本の新米 英で5kg3千円台の背景
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/7bf90b3ea2014a6560496270da9d48b296cb7538c1737248e57bb44b3c4d1649.jpg> 狩猟免許 ペーパーハンターなぜ増
+      <a href=https://news.yahoo.co.jp/pickup/6540084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8abf0819541c866548d98c4141db765f2f40f326724e6e4ff949d406b5ff6159.jpg> 万博関係者 名前「san呼び」好評
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 11:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 11:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
