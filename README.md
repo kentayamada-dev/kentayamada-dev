@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03ed2bf5eb7d474bcb0e8eddee599841.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fd915ae5ba7468f7020238c4749b291.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39a469bc191660e8ee187c77f39e10fd1f437f45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 備蓄米説明会に320社　小売り、ネット通販意欲
+      <a href=https://news.yahoo.co.jp/articles/8ed135e4bd28c956a0f061ea1fd125a1ba16f3c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00259000-tvtnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米購入　初日に放出の1割申し込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1315fc3f29679306df442d690bec825fff5d9c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051420-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・太田房江氏が夏の参院選不出馬を表明　「事実無根の誹謗中傷で体調を崩した」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de3e0a638fd71005ef7ba3b9f013ca0a133fd567>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000124-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「年金で騒がれるのが一番きつい」自民、年金法案で立民に歩み寄り　不信任案防ぐ狙いも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e8e8b8b49c53a74e4afe836715f938621a90042>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000191-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=553&ch=553&exp=10800&fmt=webp> 自民・太田房江氏、出馬見送り　参院大阪、体調不良理由に
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b4102c3b39b0614724d53d57ae7bbde8ec7f27b6136aaac87454b65e0ac5443a.jpg> 国民幹事長「博多の女性きれい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540153>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d462f864e91215d403ab3453449adf683f38f8023baeb5aa6a00006eaafc8e26.jpg> 自転車で車道に転倒 はねられ死亡
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/4e353f262087cf80dc5c9161380a28451234a624024be33c8e0dfe127e36ac06.jpg> ドローンでスカイツリー映像 炎上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540149>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9bccedc6e21d802921d00d420dc41f6ebce1f3f01ed810ad24ef1c6a76878895.jpg> ドラゴンアイ開眼目前 登山客殺到
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e4d87902c83eaea14319f45d95ef9b2c35f00a0e8d4a7d2e9092533aac909fa7.jpg> 大の里 ラーメン店で気づかれず
+      <a href=https://news.yahoo.co.jp/pickup/6540155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/6a806a2c048b76bcd7a91e05904b93d12894c93cd30246fe75c6613a0ecddf2d.jpg> 珍事 大坂なおみ試合中ネイル処理
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 22:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 23:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
