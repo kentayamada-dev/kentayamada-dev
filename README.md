@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/209ae2413ca2bda62758afed848f4525.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0902230afbfc65c27526a5cbadc7c92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9458f268bec98ec383df1466950af41c58611f96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000157-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1172&ch=1172&exp=10800&fmt=webp> 千賀滉大　6回途中1失点で5勝目の権利　大谷翔平には先頭弾被弾も由伸抜き防御率1.46でリーグトップ
+      <a href=https://news.yahoo.co.jp/articles/ea152ae3b162a906e7c8ce8aa130e3ce94d6d9d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07864192-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ安く」スピード感で…緊急調査「コメ価格」現場の本音は？【バンキシャ！】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91de8ccd331a82fc8dfa7fccdd63c3d3b7d53c57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1485&ch=1485&exp=10800&fmt=webp> 日本製鉄株が大幅高、米大統領のＵＳスチール買収計画承認を好感
+      <a href=https://news.yahoo.co.jp/articles/0b91a9ad630a48a6d51cd04c90461b72eb831e21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050038-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「ＵＳスチールは米国が支配」「日鉄は部分的な所有」…数十億ドル投資の予定と言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c3b21796d30fe495d872177bd012db7498fb09d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261048-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平が先頭弾から３打席連続凡退…千賀滉大は大谷に先頭弾被弾も６回途中１失点で５勝目権利＆防御率リーグトップ浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71a7f0a6c6232698b1f04862b212c6c9dd35ef69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00345947-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が１８号先頭打者弾　メッツ・千賀滉大からメジャー初アーチ
       </a>
     </td>
   </tr>
@@ -394,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/1b647f528411ecec83ed90f46872c8be8a71b18c3bf7c4324a8716b64d39d2d0.jpg> 先端研究 情報流出の防止へ指針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540079>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3d4a2a519246be286747fdb77d7c4662c364d8330b4cb53f64aabf0e6632d2ad.jpg> 国民民主 支持率の下落に危機感
       </a>
@@ -402,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d976f11270c3161c0346c41efe7a7da0e2098a142e2a7b97a4d0589b0a3746b0.jpg> 戸籍に「読み仮名」記載 運用開始
+      <a href=https://news.yahoo.co.jp/pickup/6540085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/aeb5b7b9a0d478f746775c28c792523f0f1547f043cbfbd28035c5f9874eae56.jpg> 日本の新米 英で5kg3千円台の背景
       </a>
     </td>
   </tr>
@@ -434,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/fd5a17ac0b1ed5cd7484dcb8f432a4c219744359255d29e9e298ca390ad4698b.jpg> ミャクミャク靴反響 ミズノの開発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e0ecb42245a7befd2ba4d09dd13de7d79768ac95e80a5ddd46e2a145fd26f6a1.jpg> 大谷18号 千賀撃ちでMLB首位並ぶ
+      <a href=https://news.yahoo.co.jp/pickup/6540086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9b5bfb4dc74da6ff94a56e937afdb45210f108a78cc2e04f504deb24fb039899.jpg> 千賀 大谷からHR被弾も三振奪う
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 10:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 10:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
