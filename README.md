@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63b3c5de3150769fa04b42f7c8340bdc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecaee0a2a3ce19e3234dfba3683e833b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da003325cc129ab92a19ddbacf712c6d2e482a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05261221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=800&ch=800&exp=10800&fmt=webp> これぞ大谷翔平！ライブＢＰ終了４時間半後に千賀撃ち先頭弾…二刀流での連続世界一挑戦「もちろん楽しみ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9bf1dc7b588dd0c8c4fc9a5395827d1f2fc5ec36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261251-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 銅メダルの伊藤美誠「新たな挑戦をしていきたい」　世界卓球から帰国　女子ダブルス再挑戦を明言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/356e548261ad32de4d3b8907c3914a49c6c79202>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977607-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」 説明会に300社超　“5kg2000円”で店頭へ　スーパーのコメ価格は5kg4285円と過去最高値更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e135ce43a13ecab37e862488e5fd1e6b57f640d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21938013-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度2の地震　北海道・千歳市、白老町、安平町、新冠町、新ひだか町、浦河町、幕別町、浦幌町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e974a8631fe625b439e552e684b4c05a870bb2c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00346028-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【卓球】銅メダルの張本美和、木原美悠が世界選手権を回想　張本美和「シングルスでも表彰台に」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88b2e9755894237d93382b6b8736d039420e2158>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博を悩ます羽虫「ユスリカ」大量飛来に対策本部設置　会場西側に2カ所の喫煙所設置も
+      <a href=https://news.yahoo.co.jp/articles/d4455bc5a903335f93a3378beb7c43ff45a61f6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90040542-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「本人確認」必要なく…アジア大会のボランティア募集に『特例枠』ノルマ達成へ“無断で登録”も可能に
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/58225135a7b584ff4d704b75ff6eacad50ea24c94cf03ebf315732872c4bda55.jpg> みまひな 五輪での再結成へ意欲
+      <a href=https://news.yahoo.co.jp/pickup/6540160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ea25a861790bcae486342a469554b2559c82e33c608fda6b6a4d9adfda09e2a0.jpg> 推しに会うため34kg減 女性の決意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/6a806a2c048b76bcd7a91e05904b93d12894c93cd30246fe75c6613a0ecddf2d.jpg> 珍事 大坂なおみ試合中ネイル処理
+      <a href=https://news.yahoo.co.jp/pickup/6540159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/58225135a7b584ff4d704b75ff6eacad50ea24c94cf03ebf315732872c4bda55.jpg> みまひな 五輪での再結成へ意欲
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 23:52:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 00:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
