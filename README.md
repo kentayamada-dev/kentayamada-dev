@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33fe3a648376c4a8d55f174f1c1979c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c0a17149bcec8d635d3205d3bc634ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00e4935428efab454620200913d9584e5d359538>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239050-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 年金法案「基礎年金底上げ」再び盛り込むことで与野党大筋合意　今週中に衆議院を通過する公算大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d6f3143aae7e6ce4148fcefbc3f82b3ebcc3c75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239057-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約に7社申し込み　小泉農水大臣「初日の出だしはかなり好調な状況」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e4e6591d99e6d081962f48a983ed03681cdb892>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761623-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　2試合連発19号なるか、山本由伸は6勝目へ…スタメン発表
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b54997fb5d33c24acbff65e99c0e4c8b42ce7e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90025804-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『ドンキ』『アイリスオーヤマ』契約に名乗り…備蓄米“５キロ２０００円”実現は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2698512cbf58378c86ff8862d5dd61b9dc7199cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 茨城県、千葉県で最大震度2の地震　茨城県・水戸市、笠間市、ひたちなか市、大洗町、東海村、茨城鹿嶋市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bf1dc7b588dd0c8c4fc9a5395827d1f2fc5ec36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261251-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 銅メダルの伊藤美誠「新たな挑戦をしていきたい」　世界卓球から帰国　女子ダブルス再挑戦を明言
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 03:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 04:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
