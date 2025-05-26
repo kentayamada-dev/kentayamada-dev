@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6fb33d1167da48a6a9f17f60d6b90d55.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f7600657624d83816ad34aa328fc623.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de3e0a638fd71005ef7ba3b9f013ca0a133fd567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000124-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「年金で騒がれるのが一番きつい」自民、年金法案で立民に歩み寄り　不信任案防ぐ狙いも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4eb00d9bdf2dfd3149248e44c36efa4d38ab3cfe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21937927-tbcv-000-1-view.jpg?pri=l&w=168&h=168&order=c2r&cx=66&cy=0&cw=168&ch=168&exp=10800&fmt=webp> アイリスオーヤマ備蓄米の随意契約決定　申し込んだ全量での契約
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/88b2e9755894237d93382b6b8736d039420e2158>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博を悩ます羽虫「ユスリカ」大量飛来に対策本部設置　会場西側に2カ所の喫煙所設置も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfb29de04d8ab87348c2710e286d5f481b280713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女性経営者宅で1億円窃盗疑い　外出直後被害、匿流から指示か
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/4572dd64fe1a34dd4f3bc36399de5e0f8a55bea351fdf536470b8e776854f0f3.jpg> ツルハ 株主総会で統合案を承認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b4102c3b39b0614724d53d57ae7bbde8ec7f27b6136aaac87454b65e0ac5443a.jpg> 国民幹事長「博多の女性きれい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/90815d2573cd02efd25e473e1217fddd13426e448cb4c6217613f1c4467dcedb.jpg> 車後退 車体ごと崖から転落し死亡
       </a>
     </td>
   </tr>
@@ -450,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/7b8250fd0ca2abfdfba640178dea1de7b57ea171ff83c1d753072c6f815dcabc.jpg> 教頭 修学旅行費など1300万円着服
+      <a href=https://news.yahoo.co.jp/pickup/6540147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9fa94484e0659b12c6eff0327bb43a7d92e29586b42f93c95d521705b82d280a.jpg> 留守宅から1億円盗んだ疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9bccedc6e21d802921d00d420dc41f6ebce1f3f01ed810ad24ef1c6a76878895.jpg> ドラゴンアイ開眼目前 登山客殺到
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/05b7922d1a571af221d14a26f01ac9e8551ac19d28f706eb72eaa5a208b41093.jpg> 安村アナ医学部入学 社長がエール
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 21:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 21:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
