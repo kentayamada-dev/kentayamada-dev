@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/784af6f1f506e74c761138913658fd8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a26451f39db9ffdb152664db5b1ef9eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffd532492494cbe911115014ebf7d8d67881f5c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010002-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 日本製鉄のUSスチール買収、真に問われるのは「石炭依存のビジネスモデル」
+      <a href=https://news.yahoo.co.jp/articles/3ff0ca8864386735fd00695d7e511000e4903021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260755-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 大谷翔平、千賀滉大から18号先頭打者弾　手術後初の実戦形式投球が刺激した「二刀流」の感性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d02ce2a3da1b72e3104e46e4c4d266870fbfa29d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35261035-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=691&ch=691&exp=10800&fmt=webp> 近田春夫、小泉進次郎新農相を“見直し”「評価すべきなのではないかなぁ？」
+      <a href=https://news.yahoo.co.jp/articles/ef636f1d205d7612d6077cb4310459cfb87b4a78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000136-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=751&ch=751&exp=10800&fmt=webp> 日本製鉄株が一時急伸、7％高　USスチール巡り思惑交錯
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b984a04d5e55dfe828625fd8f7db45ec0f58b785>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ボランティア無断応募で市長陳謝　名古屋、26年アジア大会
+      <a href=https://news.yahoo.co.jp/articles/3e96794ba033fb8e52f49daf2247f40f61512358>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメ4285円、2週連続最高値　17円上昇、ブレンド米も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f00b229b6259551d34a21111a44e743854edb07a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10180282-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 大谷翔平 防御率ナ・リーグトップ争いの千賀滉大と対戦 5試合ぶりのホームラン
+      <a href=https://news.yahoo.co.jp/articles/df0edada2f0a51ddbb78e673f5f1146366eabdba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-09446651-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 名古屋市議がボランティアに無断登録　過去に名刺交換した26人を勝手に　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23d2e2ba1b3dccad4df610932b0807ece46e071e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90019658-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】自転車の9歳男子小学生を無免許運転の車ではね　逃走した疑い　40歳自称アルバイトの男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/644c95bc2f506fb9763b5fbcdc918af992c61034>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051409-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 「親にバレたら怒られると思った」　自宅で出産した男児遺体を遺棄か　２６歳女を逮捕　兵庫・三木市
       </a>
     </td>
   </tr>
@@ -402,6 +402,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 北海道で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/420cc852d48f2979dffe4db783b89bda09fcbe4a18891bba68b956f5c72dbc3c.jpg> 備蓄米 イオンなど契約参加で調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540120>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b5e727ca8bac9f95f66b29ad43348890b1720cf9b268fe88545c9fa6a275e73e.jpg> 基礎年金底上げ案 2兆円の財源は
       </a>
@@ -410,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3a6b7a6e5efbc03bacc16d7d06235c1cc1f72477764969ce0f185c82a5d814db.jpg> 東大 ハーバード留学生受け入れへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8f2dcdbf7b360169e159c8564529d72c64172fd36aa1860e00d5dba34b161324.jpg> 万博で虫大量発生 対策本部を設置
+      <a href=https://news.yahoo.co.jp/pickup/6540126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ef105d4ab3f3b434c289c8ade51b12078d1b2822b8a49b93637676a928ebbbec.jpg> トランプ氏 ハーバード大を批判
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/35d879706593dded0f2d25ef48109591a6e6933c21eb3752c5bcbd1f4e6b04e2.jpg> 火垂るの墓 7年ぶり地上波放送へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 17:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 18:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
