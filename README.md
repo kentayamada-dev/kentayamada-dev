@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7e04ff5266fd2b4de38f18426415bfc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16a466e8669b1ce4d82e535ae6d00925.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a78759a603ce327f8c124d4e6763f0eeaa38a540>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000039-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 「どんな手でも使って価格を抑制していく」小泉進次郎氏、備蓄米新方式発表会見の一問一答
+      <a href=https://news.yahoo.co.jp/articles/af49493f6ba47f66d931c63070709f2fbb3898f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238893-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=707&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】就任後、初の国会論戦　小泉農水大臣“需要があれば60万トン全て放出”　備蓄米の放出「店頭価格は2000円」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc2539a2bd78648e98966213c7089ba9e0629213>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000067-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ監督、６イニング１失点のエース千賀滉大に感謝 「絶好調じゃなく、しかも相手はドジャース。それなのに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52204be24f15539f576468f29f085e7f9b55a41d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10180224-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、敵地ブーイングを歓声に変える18号ホームランに解説も「笑うしかない」状態に…朝の列島を“目覚めさせる”豪快アーチの瞬間
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b06bbb31483be5b67ce02d0386d6347434db0d0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238878-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=522&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府　日鉄のUSスチール買収計画「関係者間の意思疎通促進に努力」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ff05ecb83754ec2aaa6e9151947032c76661f5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000058-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大、「大谷翔平との対戦は楽しんだ？」質問に苦笑い… 「たまたま彼だったというだけであって」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d3bb05e7986a11c672428bbd652c75a3b32447a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000205-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 大谷の先頭打者弾で「チームに活気が戻ったと…」ド軍監督「それ以上は何もできなかった」逆転負けに落胆
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e0a57df4ad45a6263843998b0db2b5a7c35510d8ba9b826c05ffde4324c4564b.jpg> 小泉氏 備蓄米放出の新方式を発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c8d8812518df226af05867f66dbfdd4f3e45eb9ebe1624d3fc554a72507118b8.jpg> 小泉氏 備蓄米放出の新方式を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 13:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 14:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
