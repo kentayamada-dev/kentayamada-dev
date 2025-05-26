@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2600de0b9e7646429e5f5d12d3fe8b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63b3c5de3150769fa04b42f7c8340bdc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ed135e4bd28c956a0f061ea1fd125a1ba16f3c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00259000-tvtnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米購入　初日に放出の1割申し込み
+      <a href=https://news.yahoo.co.jp/articles/356e548261ad32de4d3b8907c3914a49c6c79202>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977607-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」 説明会に300社超　“5kg2000円”で店頭へ　スーパーのコメ価格は5kg4285円と過去最高値更新
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e135ce43a13ecab37e862488e5fd1e6b57f640d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21938013-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度2の地震　北海道・千歳市、白老町、安平町、新冠町、新ひだか町、浦河町、幕別町、浦幌町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e974a8631fe625b439e552e684b4c05a870bb2c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00346028-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【卓球】銅メダルの張本美和、木原美悠が世界選手権を回想　張本美和「シングルスでも表彰台に」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1315fc3f29679306df442d690bec825fff5d9c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051420-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・太田房江氏が夏の参院選不出馬を表明　「事実無根の誹謗中傷で体調を崩した」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8da83ebc567366659a52e47431d7d334e2793497>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010006-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 メジャートップタイの先制18号本塁打を放つ！ しかし打線はメッツ先発・千賀滉大に抑え込まれ連敗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92d8a7f9ce9286f175d0164eba2af5fc301875b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01583345-kyt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 小学4年の男児をひき逃げ疑い　無免許の自称アルバイト男を逮捕
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/34bf565858be6c2c7b1366356432f11bb5bd1113b454f15a1d6aaa22e869bd0c.jpg> 自民・太田房江氏 参院選に不出馬
+      <a href=https://news.yahoo.co.jp/pickup/6540153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d462f864e91215d403ab3453449adf683f38f8023baeb5aa6a00006eaafc8e26.jpg> 自転車で車道に転倒 はねられ死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d462f864e91215d403ab3453449adf683f38f8023baeb5aa6a00006eaafc8e26.jpg> 自転車で車道に転倒 はねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/df47a6f03278f3b3a17a1cba114bd7b821edd81df8a8c150bb64a93a5b6e236b.jpg> 横須賀事故 ひき逃げ疑いで再逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/6a806a2c048b76bcd7a91e05904b93d12894c93cd30246fe75c6613a0ecddf2d.jpg> 珍事 大坂なおみ試合中ネイル処理
+      <a href=https://news.yahoo.co.jp/pickup/6540159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/58225135a7b584ff4d704b75ff6eacad50ea24c94cf03ebf315732872c4bda55.jpg> みまひな 五輪での再結成へ意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/1e37e4a8212c45d29fc0ad94db0e610e85e739aae05fad4ec08f40ae9f78e63a.jpg> キムタク主演「教場」映画化決定
+      <a href=https://news.yahoo.co.jp/pickup/6540155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/6a806a2c048b76bcd7a91e05904b93d12894c93cd30246fe75c6613a0ecddf2d.jpg> 珍事 大坂なおみ試合中ネイル処理
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 23:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 23:52:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
