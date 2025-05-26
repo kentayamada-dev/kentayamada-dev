@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49390225283cc8f8fa67a785da1fe0d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4051923c5a33651fb044ee9597fdf725.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0e06f0be1236d5e178cddaccec8224e60cb992e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01856544-hokkoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=714&ch=714&exp=10800&fmt=webp> 横綱大の里、満場一致　横審が推薦、２８日正式決定　「日々勉強、追求する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d6f3143aae7e6ce4148fcefbc3f82b3ebcc3c75>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239057-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約に7社申し込み　小泉農水大臣「初日の出だしはかなり好調な状況」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e4e6591d99e6d081962f48a983ed03681cdb892>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761623-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　2試合連発19号なるか、山本由伸は6勝目へ…スタメン発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d257f5569732ae93be6077a7029174a6db4380e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000058-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> メッツ・千賀　ドジャース・大谷に被弾も粘投5勝目　グラブの色注意も何の！リーグトップ防御率1.46
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 05:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 05:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
