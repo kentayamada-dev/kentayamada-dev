@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/vZIChK3ZQ48?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df6552dcabc78d1e08e5a4b1be9bd5e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/209ae2413ca2bda62758afed848f4525.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9458f268bec98ec383df1466950af41c58611f96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000157-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1172&ch=1172&exp=10800&fmt=webp> 千賀滉大　6回途中1失点で5勝目の権利　大谷翔平には先頭弾被弾も由伸抜き防御率1.46でリーグトップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91de8ccd331a82fc8dfa7fccdd63c3d3b7d53c57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000021-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1485&ch=1485&exp=10800&fmt=webp> 日本製鉄株が大幅高、米大統領のＵＳスチール買収計画承認を好感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/95ee76614ea75b4315a8578cccb6f80f298e27f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 名古屋市議が市民を勝手にボランティア登録
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/781d2bb318b208393641437920d56dd29a72be2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261042-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ千賀滉大、大谷翔平を３球三振…初回本塁打のお返し、２回から３者連続奪三振
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/883d259b8f0a1955ce87b011b43a63a5a2e57392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000006-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1321&ch=1321&exp=10800&fmt=webp> ＜磯村勇斗＞「僕達はまだその星の校則を知らない」で民放連ドラ初主演　稲垣吾郎は9年ぶり民放連ドラ出演
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 名古屋市議が市民を勝手にボランティア登録
       </a>
     </td>
   </tr>
@@ -387,15 +387,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a861c6b47fa4f27211a234e7483640be4a6af0976140c44e3542b2e4bb19f5b1.jpg> USSは米国がコントロール 大統領
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/66ac87accbf6facce2487c20b70d5b6c443ab7c481b4225b9c847fbeb3b9bed9.jpg> USSは米国がコントロール 大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/830faadbf991816b680e78284b3e3d4604d757220c4632fc139178f1cc30580d.jpg> コメ安値は根本解決ならず 小川氏
+      <a href=https://news.yahoo.co.jp/pickup/6540079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3d4a2a519246be286747fdb77d7c4662c364d8330b4cb53f64aabf0e6632d2ad.jpg> 国民民主 支持率の下落に危機感
       </a>
     </td>
   </tr>
@@ -418,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/4782818989783fe94cde82b0bd97b690c0239d74c1bdf8ea328b7fcae7ade8c8.jpg> カンヌの最高賞 イラン政権に打撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/7bf90b3ea2014a6560496270da9d48b296cb7538c1737248e57bb44b3c4d1649.jpg> 狩猟免許 ペーパーハンターなぜ増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540069>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/fd5a17ac0b1ed5cd7484dcb8f432a4c219744359255d29e9e298ca390ad4698b.jpg> ミャクミャク靴反響 ミズノの開発
       </a>
@@ -432,27 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c860d7eb926ecf242a4c9b16a6d52bd5fbe00f38a0677267a7f67bc8cd4d5fd8.jpg> 稲垣吾郎 9年ぶり民放連ドラ出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/13f20bfdaa67caf3a30240f9421d26c183c3e2c28dbaa2430f7550050e969606.jpg> 村上信五 会社を起業していた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 09:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 10:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
