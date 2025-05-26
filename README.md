@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b016f135402a49b6eadf900c6319f800.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcbf2a4b5ce6e914b405b5b8ab154241.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea02e529350b1c9864d25ed30823677cec9112f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平の『秒速弾』に日本のファンお目覚め…「エグすぎ」「モーニングコールのよう」…試合開始初球を185キロ弾
+      <a href=https://news.yahoo.co.jp/articles/2ced84054f75ca431140154c2a0d9679903bf1d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000123-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 大谷翔平　チーム54戦目で19号到達は球団2位タイ、史上4人目　初回に両リーグ単独トップ19号初球弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24970e8d23996ce8dd6c34e417261616d7a63ff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761593-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の「気持ちは理解できる」　指揮官が本音、IL入り舞台裏…明かした復帰プラン
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/78c9fbe86461dcf7e1f8dc09cd5bed5329474a53>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180375-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ウクライナ供与の兵器 独首相「射程制限は撤廃された」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c35eff2623b8380ce14f361e4bcd9bc54f850c8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271011-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸、初回２奪三振で３者凡退の好発進　大谷翔平の援護弾に応える　ガーディアンズ戦は２年目で初登板
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d462f864e91215d403ab3453449adf683f38f8023baeb5aa6a00006eaafc8e26.jpg> 自転車で車道に転倒 はねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/04d50921a81e683f172ffe709c903b55878194ea7ac943a7ba099709480f2066.jpg> UFJ銀 生保出向受け入れ原則廃止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/162434fb7ff7f84b233d5bd53ab3aa929788fec355d46d7fb4059f7d5650ed7d.jpg> 仏大統領が夫婦げんか? 映像話題
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ea25a861790bcae486342a469554b2559c82e33c608fda6b6a4d9adfda09e2a0.jpg> 推しに会うため34kg減 女性の決意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 先頭打者弾に敵地騒然
+      <a href=https://news.yahoo.co.jp/pickup/6540173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 2試合連続先頭打者弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 07:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 08:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
