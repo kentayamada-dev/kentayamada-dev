@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a26451f39db9ffdb152664db5b1ef9eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77060161f74ebfcbd35e3af446095092.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ff0ca8864386735fd00695d7e511000e4903021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260755-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 大谷翔平、千賀滉大から18号先頭打者弾　手術後初の実戦形式投球が刺激した「二刀流」の感性
+      <a href=https://news.yahoo.co.jp/articles/48a9baf39de82a056167809e6954a5328d7525cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07898425-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【コメが高い】また過去最高値を更新　備蓄米の「随意契約」に販売店「信用していいのか」専門家に聞く今後の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef636f1d205d7612d6077cb4310459cfb87b4a78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000136-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=751&ch=751&exp=10800&fmt=webp> 日本製鉄株が一時急伸、7％高　USスチール巡り思惑交錯
+      <a href=https://news.yahoo.co.jp/articles/397dcbe120eea3b5f69bf8c97f81eaeb5f29edf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-08794734-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「最高の誕生日！」万博・総来場者数500万人突破　ユスリカ大量発生に対策本部設置「全力で対応」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e96794ba033fb8e52f49daf2247f40f61512358>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメ4285円、2週連続最高値　17円上昇、ブレンド米も
+      <a href=https://news.yahoo.co.jp/articles/0b12c7d3c9b50c318ec70614c548a11150440b59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000084-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 大の里の横綱昇進が確定　横審「見事な成績、文句なし」　満場一致で推薦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df0edada2f0a51ddbb78e673f5f1146366eabdba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-09446651-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 名古屋市議がボランティアに無断登録　過去に名刺交換した26人を勝手に　
+      <a href=https://news.yahoo.co.jp/articles/f6e72d3c8df953c0f0c14a659be0f93a075a87d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238921-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> “買収か、あくまで巨額投資か”　日本製鉄によるUSスチールの買収計画　トランプ大統領は完全子会社化は認めない考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/644c95bc2f506fb9763b5fbcdc918af992c61034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051409-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 「親にバレたら怒られると思った」　自宅で出産した男児遺体を遺棄か　２６歳女を逮捕　兵庫・三木市
+      <a href=https://news.yahoo.co.jp/articles/d589bf9037217f893e6f707b45d635e8510247cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-06126313-stv-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】浦河町で震度４　十勝南部を震源とする地震　津波の心配なし　けが人の情報なし　北海道
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 北海道で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540131>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/420cc852d48f2979dffe4db783b89bda09fcbe4a18891bba68b956f5c72dbc3c.jpg> 備蓄米 イオンなど契約参加で調整
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/b5e727ca8bac9f95f66b29ad43348890b1720cf9b268fe88545c9fa6a275e73e.jpg> 基礎年金底上げ案 2兆円の財源は
+      <a href=https://news.yahoo.co.jp/pickup/6540133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/956fb0da30cfc8d51080d64aae812ae5d7baf7484b21b4ab2feedda793bc9c2c.jpg> 日本酒の製造免許 規制緩和を検討
       </a>
     </td>
   </tr>
@@ -434,24 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d47c6a3c73bc0a0f907e74aa0dc66e0361bf1ba3fed3526624abd696af0c652b.jpg> 9歳男児はね逃走した疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/90815d2573cd02efd25e473e1217fddd13426e448cb4c6217613f1c4467dcedb.jpg> 車後退 車体ごと崖から転落し死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/38cd7f00edd459006badc3c0653695bda4c89ad9422d8b2721d7a0da86a87e62.jpg> 刃物で刺されけが 付近で男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/7b8250fd0ca2abfdfba640178dea1de7b57ea171ff83c1d753072c6f815dcabc.jpg> 教頭 修学旅行費など1300万円着服
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/0ddac223c21cddffc5290c5788cbfeec4e34264b9a573585d366c8d562adfd96.jpg> 最下位から一転 好調西武に名参謀
+      <a href=https://news.yahoo.co.jp/pickup/6540134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d19c1384e75935c37762b4e1853ef85b20c51a1cb724a5136b3b86d4f3ae7a28.jpg> バイオリニスト 小林武史さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/77cde7131dfdadf2448acc0f69313c90459c84d5ac1c4eb9b9b4e72ccb2029b9.jpg> 審議わずか6分 大の里を横綱推薦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 18:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 19:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
