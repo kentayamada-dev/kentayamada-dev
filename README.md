@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16a466e8669b1ce4d82e535ae6d00925.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9750b60558b2ad8b7b015a7d020a7cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af49493f6ba47f66d931c63070709f2fbb3898f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238893-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=707&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】就任後、初の国会論戦　小泉農水大臣“需要があれば60万トン全て放出”　備蓄米の放出「店頭価格は2000円」
+      <a href=https://news.yahoo.co.jp/articles/7341c09393a2d40a30ded65772e5b75b7dc78f26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238908-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=744&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】コメの適正価格めぐり 小泉農相「消費者と生産者の思いを一致させる議論の始まりとしたい」 就任後初の国会初答弁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc2539a2bd78648e98966213c7089ba9e0629213>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000067-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ監督、６イニング１失点のエース千賀滉大に感謝 「絶好調じゃなく、しかも相手はドジャース。それなのに」
+      <a href=https://news.yahoo.co.jp/articles/18bcde22350814c90d846d9130d58da67f4c059b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261116-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の衝撃的登板、同僚から驚きの声続出「二度と対戦したくない」「みんな見たがっている」「うれしかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52204be24f15539f576468f29f085e7f9b55a41d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-10180224-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=449&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、敵地ブーイングを歓声に変える18号ホームランに解説も「笑うしかない」状態に…朝の列島を“目覚めさせる”豪快アーチの瞬間
+      <a href=https://news.yahoo.co.jp/articles/d336d6dc29c77cf6e0e900b9c5c3399b3af31286>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000073-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大は『脱出王』、5安打4四球も6回途中1失点で「“どうにかしてピンチを切り抜けてしまう男”として知られつつある」と米メディア
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/faab7f6cf64f9bff6787db715140696d074d2dc5e2454ecb4cce776d4f4f1a91.jpg> 7桁番号で住所識別 日本郵便導入
+      <a href=https://news.yahoo.co.jp/pickup/6540110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/cd1e1e47dbbd244dedd814ddfcae554bf538528521b957308f1c9ae68d6bf24d.jpg> 電気料金補助 1kWh2円程度で調整
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/818acdf0fc5988574511040f552c01c5366f0fcd60301a8f0a7a95392095e43d.jpg> 花火大会など 猛暑で続く日程変更
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540103>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/84bf2d915f449048bf9572af0cea8d3d279a21a579e67a4c7ab620d057909931.jpg> 千賀困惑 審判がグラブ変更を要求
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3ce61ce98fe4b9c96a48f0ac923b3436db9e491062b19f7590d97ef17ffca2b7.jpg> 漫才師・昭和のいるさん死去 88歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9f4039c6dab83933b6ee15e4322ac6e125bb9766d1387efa56a69a04373ce5fc.jpg> ワンピ 竹中直人16年ぶりにシキ役
+      <a href=https://news.yahoo.co.jp/pickup/6540107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8745f0f5d66aec42333037f18be754d21b78544401a9c7d9868faac67691160f.jpg> 山梨学院高サッカー部 数人が飲酒
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 14:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
