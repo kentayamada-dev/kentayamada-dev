@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fd915ae5ba7468f7020238c4749b291.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2600de0b9e7646429e5f5d12d3fe8b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ed135e4bd28c956a0f061ea1fd125a1ba16f3c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00259000-tvtnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米購入　初日に放出の1割申し込み
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00259000-tvtnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】小泉農水大臣　備蓄米購入　初日に放出の1割申し込み
       </a>
     </td>
   </tr>
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de3e0a638fd71005ef7ba3b9f013ca0a133fd567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000124-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「年金で騒がれるのが一番きつい」自民、年金法案で立民に歩み寄り　不信任案防ぐ狙いも
+      <a href=https://news.yahoo.co.jp/articles/8da83ebc567366659a52e47431d7d334e2793497>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010006-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 メジャートップタイの先制18号本塁打を放つ！ しかし打線はメッツ先発・千賀滉大に抑え込まれ連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92d8a7f9ce9286f175d0164eba2af5fc301875b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-01583345-kyt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 小学4年の男児をひき逃げ疑い　無免許の自称アルバイト男を逮捕
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c34264084ee74ebed1123f7143fb7617e074b5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道で震度4　マグニチュード5.3
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/56b2abbd670e3c951d0071952463c0a99884cffc26ade84c95e9ccce19a62cb4.jpg> 自公立 年金法案修正で大筋合意
+      <a href=https://news.yahoo.co.jp/pickup/6540148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a545fb130f7ba4bd9cce9b714ee821a23656c1168a544948167f165d47724344.jpg> 野田氏 内閣不信任案の見送り示唆
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9fa94484e0659b12c6eff0327bb43a7d92e29586b42f93c95d521705b82d280a.jpg> 留守宅から1億円盗んだ疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540156>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/4e353f262087cf80dc5c9161380a28451234a624024be33c8e0dfe127e36ac06.jpg> ドローンでスカイツリー映像 炎上
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/1e37e4a8212c45d29fc0ad94db0e610e85e739aae05fad4ec08f40ae9f78e63a.jpg> キムタク主演「教場」映画化決定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 23:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 23:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
