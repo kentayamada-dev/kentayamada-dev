@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53c44bbc6d8b53a9be65ccd95cc9b366.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6fb33d1167da48a6a9f17f60d6b90d55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8757039f1a9fbf0ff33e508015a4bebfcb8fcac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000059-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 備蓄米、毎日先着順で随意契約　事業者名も公表へ　6月店頭目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a52ee39eb925a3af0125c63748d404a24053d3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000106-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 自公・立民、基礎年金底上げで大筋合意　近く年金改革法修正案を共同提出、週内衆院通過へ
+      <a href=https://news.yahoo.co.jp/articles/4eb00d9bdf2dfd3149248e44c36efa4d38ab3cfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21937927-tbcv-000-1-view.jpg?pri=l&w=168&h=168&order=c2r&cx=66&cy=0&cw=168&ch=168&exp=10800&fmt=webp> アイリスオーヤマ備蓄米の随意契約決定　申し込んだ全量での契約
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/88b2e9755894237d93382b6b8736d039420e2158>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=894&ch=894&exp=10800&fmt=webp> 万博を悩ます羽虫「ユスリカ」大量飛来に対策本部設置　会場西側に2カ所の喫煙所設置も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfb29de04d8ab87348c2710e286d5f481b280713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女性経営者宅で1億円窃盗疑い　外出直後被害、匿流から指示か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 20:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 21:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
