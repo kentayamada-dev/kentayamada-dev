@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70eb9d6425b6f2c7a3d170004e75425b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80b8541231dc9b3edee23113a3c97c48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/356e548261ad32de4d3b8907c3914a49c6c79202>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00977607-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」 説明会に300社超　“5kg2000円”で店頭へ　スーパーのコメ価格は5kg4285円と過去最高値更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1315fc3f29679306df442d690bec825fff5d9c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051420-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・太田房江氏が夏の参院選不出馬を表明　「事実無根の誹謗中傷で体調を崩した」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 01:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 01:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
