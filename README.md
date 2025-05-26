@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4051923c5a33651fb044ee9597fdf725.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd4330e7acdbeee46eaca362dad77f86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0e06f0be1236d5e178cddaccec8224e60cb992e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01856544-hokkoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=714&ch=714&exp=10800&fmt=webp> 横綱大の里、満場一致　横審が推薦、２８日正式決定　「日々勉強、追求する」
+      <a href=https://news.yahoo.co.jp/articles/97662ede82a3a8d881d6ab51ff368594b3772eb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01126637-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」各社名乗り　コメの平均価格はまた最高値…いつ下がる？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d6f3143aae7e6ce4148fcefbc3f82b3ebcc3c75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239057-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約に7社申し込み　小泉農水大臣「初日の出だしはかなり好調な状況」
+      <a href=https://news.yahoo.co.jp/articles/a70a029b658037ce5374c2ae2c34e91cbf85b33c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05261226-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=973&ch=973&exp=10800&fmt=webp> 「文句なし」横綱昇進の大の里に横審が大谷級の活躍期待　大島委員長「“大豊時代”と言っていいでしょうか」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 05:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 06:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
