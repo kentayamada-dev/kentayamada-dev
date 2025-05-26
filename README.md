@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/406b13ca8fa3f30684a07e61a6e230d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/272331809ca55a0036387e4699242586.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1cfe1c887f259f6d4923806cef5e4077c5731e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010008-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=320&ch=320&exp=10800&fmt=webp> いきなりの衝撃弾！ドジャース・大谷翔平、千賀滉大から第18号先頭打者ホームラン！
+      <a href=https://news.yahoo.co.jp/articles/1d3bb05e7986a11c672428bbd652c75a3b32447a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000205-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 大谷の先頭打者弾で「チームに活気が戻ったと…」ド軍監督「それ以上は何もできなかった」逆転負けに落胆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f08c91a52f5ad21db850155958546de4c374e3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-21936172-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 名刺交換した26人の個人情報を“無断登録”  勝手にアジア大会のボランティアに…  名古屋市議会・上園晋介副議長
+      <a href=https://news.yahoo.co.jp/articles/fd9c8544c38ff660a4fac2b3e14c86c0096c84d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-90030279-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 名古屋市議がアジア大会ボランティアを無断登録、広沢市長「極めて残念」 今後は本人に参加意思確認へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/667dbdaee412ee29c0d908caac134a0e4be4da6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260427-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 政府備蓄米放出の新方式詳細は…この５項目　コメ問題に特化した「集中対応チーム」も発足
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a06855c8984134a50a03ab50ce543c324e084a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260403-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 千賀滉大、審判から注意でグラブ交換　カラーに関するルール把握も「言われたことはなかった」
+      <a href=https://news.yahoo.co.jp/articles/70f8056275d31cbd172cfb01f5deaaacd05c23dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260461-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 小泉進次郎農相「５キロ2000円程度」備蓄米の新たな放出方法を正式発表　６月上旬にも店頭へ
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01d6f41500d1cf80eaabdec87daad57c33522867>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000046-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1621&ch=1621&exp=10800&fmt=webp> 日米交渉、双方の利益実現に調整加速　6月の首脳会談視野に＝林官房長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d3a8125c093a90d9072ca42e1816b9d067560db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000026-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1328&ch=1328&exp=10800&fmt=webp> 全日空機が米で緊急着陸　「飛行中に乗客が出口ドア開けようと」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3d4a2a519246be286747fdb77d7c4662c364d8330b4cb53f64aabf0e6632d2ad.jpg> 国民民主 支持率の下落に危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540092>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/faab7f6cf64f9bff6787db715140696d074d2dc5e2454ecb4cce776d4f4f1a91.jpg> 7桁番号で住所識別 日本郵便導入
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c8d4a2c2b1dbeed19b28198fa21357f9b5c6ae0bcb16dfcb32bcd7cd8bf3c27d.jpg> 返礼品の産地偽装 苦境に立つ市
+      <a href=https://news.yahoo.co.jp/pickup/6540104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/69e8f8a5017bbfc8dae6082760b71388f6139330d3a046bf772f8b244d31bcbc.jpg> 首に包丁が刺さった女性発見 倉敷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8b8a0d4321b3ff71ff174813a52243b0a3a24679f3676a0e604b18c6578d3dc8.jpg> ANA機で客がドア開けようと騒ぎ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/9/26/2b7223a6c3904c8be43b47b2dee43420d29f5deb07718fe1a5667649a4536e96.jpg> 職員が喫煙 病院が診療報酬返還へ
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540084>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8abf0819541c866548d98c4141db765f2f40f326724e6e4ff949d406b5ff6159.jpg> 万博関係者 名前「san呼び」好評
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/9b5bfb4dc74da6ff94a56e937afdb45210f108a78cc2e04f504deb24fb039899.jpg> 千賀の防御率 由伸抜きリーグ首位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 12:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 12:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
