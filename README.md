@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a548278dfe2ca033a24bfb133d2a8485.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49390225283cc8f8fa67a785da1fe0d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00e4935428efab454620200913d9584e5d359538>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239050-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 年金法案「基礎年金底上げ」再び盛り込むことで与野党大筋合意　今週中に衆議院を通過する公算大
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d6f3143aae7e6ce4148fcefbc3f82b3ebcc3c75>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2698512cbf58378c86ff8862d5dd61b9dc7199cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938041-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 茨城県、千葉県で最大震度2の地震　茨城県・水戸市、笠間市、ひたちなか市、大洗町、東海村、茨城鹿嶋市
+      <a href=https://news.yahoo.co.jp/articles/d257f5569732ae93be6077a7029174a6db4380e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000058-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> メッツ・千賀　ドジャース・大谷に被弾も粘投5勝目　グラブの色注意も何の！リーグトップ防御率1.46
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 04:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 05:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
