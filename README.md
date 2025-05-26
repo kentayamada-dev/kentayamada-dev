@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0828b349add00d80f81ce070b78fd147.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9130a6b2177df3e9af6e8bee86e7ed73.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b3a26d32cc8be5d666ebae52ee44cea4ca77ba7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000056-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ドジャース・大谷　先頭弾18号！2年ぶりのメッツ・千賀との対決でいきなり2階席へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000056-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=846&ch=846&exp=10800&fmt=webp> ドジャース・大谷　先頭弾18号！2年ぶりのメッツ・千賀との対決でいきなり2階席へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 02:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 02:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
