@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77060161f74ebfcbd35e3af446095092.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7fc8b9f5908cd36a316956e1a9237726.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48a9baf39de82a056167809e6954a5328d7525cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07898425-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【コメが高い】また過去最高値を更新　備蓄米の「随意契約」に販売店「信用していいのか」専門家に聞く今後の見通し
+      <a href=https://news.yahoo.co.jp/articles/712ee1cc106a93b4467a055c84bd555818bfe5f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000069-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “JAからの電話”農水族議員に…備蓄米放出で問い合わせ相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/397dcbe120eea3b5f69bf8c97f81eaeb5f29edf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-08794734-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「最高の誕生日！」万博・総来場者数500万人突破　ユスリカ大量発生に対策本部設置「全力で対応」
+      <a href=https://news.yahoo.co.jp/articles/e393774f6a943f63f6e26895e116db54b525ed9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00051419-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博協会が「ユスリカ対策本部」設置　対応の進捗状況など確認　発生源は調査中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b12c7d3c9b50c318ec70614c548a11150440b59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000084-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 大の里の横綱昇進が確定　横審「見事な成績、文句なし」　満場一致で推薦
+      <a href=https://news.yahoo.co.jp/articles/8c34264084ee74ebed1123f7143fb7617e074b5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道で震度4　マグニチュード5.3
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e72d3c8df953c0f0c14a659be0f93a075a87d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-07238921-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> “買収か、あくまで巨額投資か”　日本製鉄によるUSスチールの買収計画　トランプ大統領は完全子会社化は認めない考え示す
+      <a href=https://news.yahoo.co.jp/articles/15ae0fcb85d8aa2bf26ca7a326e14432396cdf4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000010-courrier-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> 米紙の報道「日鉄とUSスチールの"パートナーシップ"とは何を意味するのか？」　トランプの買収「容認」SNS投稿の波紋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d589bf9037217f893e6f707b45d635e8510247cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-06126313-stv-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】浦河町で震度４　十勝南部を震源とする地震　津波の心配なし　けが人の情報なし　北海道
+      <a href=https://news.yahoo.co.jp/articles/9bdeceec42db334be7d95f2760e19e9ea22f05b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 日本最大のドラッグストア連合誕生へ　ツルハHD、株主総会でウエルシアHDとの経営統合案を可決
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540133>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/956fb0da30cfc8d51080d64aae812ae5d7baf7484b21b4ab2feedda793bc9c2c.jpg> 日本酒の製造免許 規制緩和を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ef105d4ab3f3b434c289c8ade51b12078d1b2822b8a49b93637676a928ebbbec.jpg> トランプ氏 ハーバード大を批判
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/f07a784fd0452833607a0ada237a09f92e59160661b6a996aceaf602fc98f1cf.jpg> 新人 スモモモモモモモモで初勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540139>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/77cde7131dfdadf2448acc0f69313c90459c84d5ac1c4eb9b9b4e72ccb2029b9.jpg> 審議わずか6分 大の里を横綱推薦
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 19:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 19:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
