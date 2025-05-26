@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/713a148303ef5bd13255360269ebd668.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df6552dcabc78d1e08e5a4b1be9bd5e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf8c1bca0e55b9b4dbf333c34b2b538a1a13f5e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000147-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=926&ch=926&exp=10800&fmt=webp> 千賀滉大　3回は大谷翔平から空振り三振奪い規定投球回到達　山本由伸抜き防御率1.52でリーグトップ
+      <a href=https://news.yahoo.co.jp/articles/95ee76614ea75b4315a8578cccb6f80f298e27f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000014-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 名古屋市議が市民を勝手にボランティア登録
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/872c65ef9b9466c8a7f90f37a537642b51566711>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050007-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「反政権」イラン監督がパルムドール、抑圧下の映画界に金字塔…政権には手痛い打撃
+      <a href=https://news.yahoo.co.jp/articles/781d2bb318b208393641437920d56dd29a72be2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-05261042-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ千賀滉大、大谷翔平を３球三振…初回本塁打のお返し、２回から３者連続奪三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31c8a9db2cc4cfc8bdf9457ad91dbabed80ac94c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000006-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> アジア大会ボランティア　市議が26人無断応募、「罪悪感無かった」
+      <a href=https://news.yahoo.co.jp/articles/883d259b8f0a1955ce87b011b43a63a5a2e57392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000006-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1321&ch=1321&exp=10800&fmt=webp> ＜磯村勇斗＞「僕達はまだその星の校則を知らない」で民放連ドラ初主演　稲垣吾郎は9年ぶり民放連ドラ出演
       </a>
     </td>
   </tr>
@@ -384,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/a861c6b47fa4f27211a234e7483640be4a6af0976140c44e3542b2e4bb19f5b1.jpg> USSは米国がコントロール 大統領
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540073>
@@ -402,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/d0f823a1ed730003e8379f3a67c23a9de9affa7cd6e7d81afa9cecbddb69eaf4.jpg> ひき逃げ疑いで米兵逮捕 4人軽傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540075>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/ad72d26e64fa159f47cf1a0aff32ba566299e204daa166431cd3077b3e63ef8f.jpg> 牛舎実習で高2事故死 親が提訴へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3487eb0f2459c4fd23e7760669c23eb06f7e3290bd5a6338bd182c799a59424b.jpg> サントリーニ島 観光客数を制限
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/c860d7eb926ecf242a4c9b16a6d52bd5fbe00f38a0677267a7f67bc8cd4d5fd8.jpg> 稲垣吾郎 9年ぶり民放連ドラ出演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540068>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/13f20bfdaa67caf3a30240f9421d26c183c3e2c28dbaa2430f7550050e969606.jpg> 村上信五 会社を起業していた
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 09:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 09:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
