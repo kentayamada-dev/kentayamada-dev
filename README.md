@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/272331809ca55a0036387e4699242586.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39733c1cd6766c805c04340e329cc558.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,30 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3aae8383ca74c3da822c0fb788a4cdc052513090>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000218-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> コメ流通専門家　コメ5キロの適正価格に言及「3000円～3500円で最後は着地するのでは」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/845e6c00ed659a6c9caa2ac41643ffcd4c2be5cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00010006-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「USスチールは米国が管理」と強調、日本製鉄は「部分的に所有」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ff05ecb83754ec2aaa6e9151947032c76661f5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000058-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大、「大谷翔平との対戦は楽しんだ？」質問に苦笑い… 「たまたま彼だったというだけであって」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d3bb05e7986a11c672428bbd652c75a3b32447a>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70f8056275d31cbd172cfb01f5deaaacd05c23dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-35260461-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 小泉進次郎農相「５キロ2000円程度」備蓄米の新たな放出方法を正式発表　６月上旬にも店頭へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01d6f41500d1cf80eaabdec87daad57c33522867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000046-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1621&ch=1621&exp=10800&fmt=webp> 日米交渉、双方の利益実現に調整加速　6月の首脳会談視野に＝林官房長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d3a8125c093a90d9072ca42e1816b9d067560db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00000026-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1328&ch=1328&exp=10800&fmt=webp> 全日空機が米で緊急着陸　「飛行中に乗客が出口ドア開けようと」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540096>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/e0a57df4ad45a6263843998b0db2b5a7c35510d8ba9b826c05ffde4324c4564b.jpg> 小泉氏 備蓄米放出の新方式を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> EUへ50%関税発動の期限延長 米
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/8abf0819541c866548d98c4141db765f2f40f326724e6e4ff949d406b5ff6159.jpg> 万博関係者 名前「san呼び」好評
+      <a href=https://news.yahoo.co.jp/pickup/6540103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/84bf2d915f449048bf9572af0cea8d3d279a21a579e67a4c7ab620d057909931.jpg> 千賀困惑 審判がグラブ変更を要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/26/3ce61ce98fe4b9c96a48f0ac923b3436db9e491062b19f7590d97ef17ffca2b7.jpg> 漫才師・昭和のいるさん死去 88歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/26 12:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/26 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
