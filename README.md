@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c49539304b26d7ea14e9834e7c2b468.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a6433eddf31a13d49fa342f28447ddf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a45e50ef7eb4143018034227cd8a273517465e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180499-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もはや人間じゃない！ 大谷翔平、とんでもない“初球アーチ”「カッコよすぎ」「ヤバい」 185キロ弾丸ライナー→ゆっくり“確信歩き”「気持ち良さそう」
+      <a href=https://news.yahoo.co.jp/articles/c78df9763e597a141b508706cee5bbe4a7dbc6e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-06469155-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 農水省、備蓄米の随意契約による売り渡し“申し込み一旦休止”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57d99c4daff2ff0fa8a168ef3c6f504a0d17ad5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01114426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約にスーパーなど19社申し込み　“5キロ2000円”まもなく？　精米業者からは悲鳴が…
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1550258c52c2f4338dfab82dc4cefa0f63a0c28>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「もはや目的が理解できない」　ドイツ首相、異例のイスラエル批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0aac75a0a8e1be096531740f8b8385523033db3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90051069-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【備蓄米】店頭にいつ？2000円？北海道にも店舗あるスーパー・ドラッグストア含む19社が"随意契約"申し込み 事業者に直撃すると…高騰の救世主か？消費者は「何年産でも気にしない」「本当に価格下がるか」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b445b8557319e93f424070ce4a5971110f8b796>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08666416-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 住宅工事現場で爆発火災　住人が語る恐怖「窓ガラス飛び込んできた」　爆発音“ディズニー”近くまで…
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540266>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米の随意契約 受付を一旦休止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540256>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/2850a8a2969edc0716845411d58a0940281ce1a61ebec677d248665ec0967b3b.jpg> 防衛白書 トランプ政策の影響指摘
       </a>
@@ -410,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ae8a79de65890d7ae2ae14c3fead1e928205cd8ba592f6391019cb127bf76fc4.jpg> 露大統領 西側企業「締め付ける」
+      <a href=https://news.yahoo.co.jp/pickup/6540253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c4ff5c8202430d14a10d5865aaf527d1ca61d410149fc2485b8237fa5d439dd8.jpg> 下村氏 還流再開求める声を伝達
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f0c7013e789d808e77aca8313cc0524713c84dc4f94eed13debb952b844ba140.jpg> コメ高騰耐え切れず 卸売業者破産
+      <a href=https://news.yahoo.co.jp/pickup/6540237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/885667ec7829852646b361edf7b0c2e343830fc9dd9c4a40b90fde76d144f95d.jpg> 週の熱中症搬送者 今年初1000人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f73f63871d9e1b0ad818b17c2f90dc29a3ff338849b974f0ea8a9ed6d06325b2.jpg> 保育園前で車と衝突 2歳男児重体
       </a>
     </td>
   </tr>
@@ -428,22 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540261>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/011b84519f46194dc101c1a6645c43023af1a3bc9133fc2c21306a6d7594b18d.jpg> 江戸川区で爆発 瞬間の映像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/8cdafbd4ef122ef881ef2a51dce9002ca24a1666f1bd6c0d2106988f11b3fddf.jpg> 兵庫県 立花孝志氏のXに削除要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 22:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 22:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
