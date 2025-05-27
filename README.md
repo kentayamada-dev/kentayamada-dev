@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12c442468ce61514389799c453e431cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1c67139bada7fe55cdddb88389f8089.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0191726489dc2d29e96a324891642fe7e16b620b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=864&ch=864&exp=10800&fmt=webp> ドジャース・大谷翔平、打撃フォーム修正し自身2度目2戦連続先頭弾　メジャー単独トップ19号
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/753adb069960d5f54eeb9b2ba2101c35b370c423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米、随意契約分全て受け付け終了　古米の人気なさ浮き彫りに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000086-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米、随意契約分全て受け付け終了　大手小売業者、申請殺到で
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a653a0d2bdf6b068bf01f4a76ff21596107df75c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01175614-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小泉農相、備蓄米放出「菅内閣を支えた経験生きている」　コロナワクチン接種の手法を参考
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 23:52:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 00:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
