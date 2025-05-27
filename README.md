@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ca185a9473a1027197cbc83cf4ff47b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/204229b823f2c50da927ce9f02999960.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23d235cd1f5aae1c3f829701bab23c66d5e1c8c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90026345-oxv-000-1-thumb.jpg?exp=10800&fmt=webp> 「５キロ２１６０円」へ　アイリスオーヤマが政府備蓄米１万トン購入　インターネットなどで販売〈仙台市〉
+      <a href=https://news.yahoo.co.jp/articles/a2e6f8d580800323655783c4f36d6b1dde9a4892>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938045-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米「6月上旬に店頭で2160円」小泉農水大臣「すでに6社が申請」新米“争奪戦”で価格3極化か　町のコメ店からは「農水省のコメ屋いじめ」との声も【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/085f1eb49fae0190ddd725261018a5acee9fd559>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050103-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 大阪・堺市の工事現場で「３人倒れた」と通報…男性３人搬送、うち１人が一時意識不明
+      <a href=https://news.yahoo.co.jp/articles/0ba3c823233697fcc13347985b543c0e6b1243a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000042-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 堺市 解体工事中に3人倒れる 1人意識不明で搬送　「密室で発電機使った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efd127bc18bd4ee0e951c481a14d835171ed4a22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762052-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵ファンが思わず…大谷翔平の19号で生まれた“異様な光景”「やっぱりすごい」
+      <a href=https://news.yahoo.co.jp/articles/715799c759a30af46e28f6a4368256696dbeba17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938838-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手量産モードへ　2試合連続先頭打者ホームラン　チームは7対2で勝利
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/619ffa669cad9f4e35a468ea0890820a8044fc0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-16640317-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ロシア、トランプ氏は「感情的」と　プーチン氏を「狂った」と非難したことを受け
+      <a href=https://news.yahoo.co.jp/articles/89ab185bd1b7d8b5afce086b40c6bafc1b3451ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01869473-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「非常に難しい課題だができる限り対策」万博会場“虫の大量発生”に協会『対策本部』設置
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/524d6ff2adedb2f7da53a72715efac7eb7262d5ba501b5ff922f6fb1af64404a.jpg> 解体現場でCO中毒か 3人倒れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c680c4a2c4ef341448044f1b743a1cd54622992876eeea6100f70203030d4d56.jpg> 沖縄県内 米海兵隊員の逮捕相次ぐ
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/cc8e89cb46083d8eb4e315918a4c872ba8299259f7ad2130f84518c836d66df5.jpg> 重機がガス管損傷し爆発か 江戸川
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02222529/title-1748156743365.jpeg?exp=10800> 女子大の定員割れ コロナ後に変化
+      <a href=https://news.yahoo.co.jp/pickup/6540206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0f9104e41260e2d7f0cf38138830b66cc99509890f6f3f5abc27dea89aedf1fa.jpg> 由伸は「エースと確信」監督絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 13:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 14:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
