@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11aab3b55108a86448ccb73410e0d358.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dea0e878677403373262e41f683db9fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63344a6cd4810af88d7f1829b7b475caaf917bf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 私的情報漏えい　斎藤知事、自らの処分「給与カット含め検討」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b63365482224498198ba90e96f8f48c1290dacc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-09711483-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 2000円台で販売に懸念「適正価格があると思う」備蓄米の随意契約　流通に期待の声も　北海道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-09711483-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 2000円台で販売に懸念「適正価格があると思う」備蓄米の随意契約　流通に期待の声も　北海道
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/888ab462978985d378936e89bda84d537682c93d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000011-ryu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 【独自】昨年5月の女性暴行「事実も存在しない」米兵が無罪主張へ　6月2日に初公判　沖縄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/122422ba0ce5d05133e4f870ab41da7049dd0136d9e5eddc30cff8bd517f0022.jpg> 基礎年金底上げ 自公立が正式合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540214>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1369e8172eec09501c4f156e901a9afefd1c4f2d1d25c14cf77e5bf41d99b550.jpg> 安倍氏銃撃 初公判「今秋以降」か
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/39d66cff6253c30b122d3bf96f934e5a0a8e07233e2685247ca9730ff8ff046d.jpg> 軽油販売 6社が価格カルテル疑い
+      <a href=https://news.yahoo.co.jp/pickup/6540221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/30e9024e0ec5c1c1b5a54281b478a34d5ab216ac3f1806c725ed53364de73975.jpg> 斎藤知事 漏洩「指示していない」
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0ba4e4dc65e14cdaa86455303d402f7f593d1463961a4922765dc8dbcbab623e.jpg> 兵庫知事が情報漏洩指示か 報告書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d89c262614543a19876bd11ffe1952b3a9ca0edbeb52010bb162a76f943db6ce.jpg> 千葉女性殺害 15歳少年を鑑定留置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540211>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/4b4e2ef72e807bb3861fea428df84ebe086f6df40b5cb746734c346629365d7d.jpg> ハーバード大 日本人教員語る混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/091cb1631c1e41970bf0eb782bcf8f17080ef2b95893a70dab6ddcd01bf9421b.jpg> ファミマ備蓄米販売へ 1キロ400円
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0f9104e41260e2d7f0cf38138830b66cc99509890f6f3f5abc27dea89aedf1fa.jpg> 由伸は「エースと確信」監督絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6540219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/4345e82f239639e1043d8411a9669c0647036db2d5dc2b6b5b7db4835498735a.jpg> 女性アナが社長就任へ テレビ宮崎
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 16:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 17:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
