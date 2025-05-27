@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21da44f4d65e9eabdb3d3ed2c975f24e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abcc9ba9acf81f64f5943368b2affa2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/663a150a85fb14b6c2bbc4b873997b120099c94c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=750&ch=750&exp=10800&fmt=webp> 大谷翔平プレーボール弾はガ軍ファンがゲット！子供6人とドジャース「見に来た」「サインももらえれば…」
+      <a href=https://news.yahoo.co.jp/articles/f482e43769dabe2e1ba3004a316bcab9385bfeba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271020-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が先頭弾＆２四球　山本由伸も５回１失点で６勝目権利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fb421099534ccd22e96be23bca29e7e4911a54d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=552&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ウクライナの主要支援国、長射程兵器での対ロ攻撃容認 メルツ・ドイツ首相
+      <a href=https://news.yahoo.co.jp/articles/be0d2ba93c83b23ab5b7bbb195b835be3d13e20d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ首相「射程制限設けず」　ウクライナへのミサイル支援、長距離タウルス供与に布石か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2ce458fc0e69d2bc8f21a42e0ed4861f3679834>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000005-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 年金引き金「大連立」臆測　自民一部に期待、立民火消し
+      <a href=https://news.yahoo.co.jp/articles/e008f9e0a9652e8f790ff861951d7d7c5c6ec60c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000134-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　コメ価格、また過去最高値更新「短期的なこととともに長期的な視点でもコメ農政を考えてほしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7d437a4654123d998428de2c73e11a0ee4e95c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000003-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=800&ch=800&exp=10800&fmt=webp> コメ価格、抑制効果は不透明　備蓄米「随意契約」導入で
+      <a href=https://news.yahoo.co.jp/articles/605a19b52bca6f92e0e7421c02d72b349037f4fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050195-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=245&ch=245&exp=10800&fmt=webp> 基礎年金底上げで立民修正案「丸のみ」、少数与党は「不信任」回避の思惑…立民側は成果作り優先
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d2942033be66536fd6a0f9bc6e9ca038930982cf96be086897c3ed10ae6802d4.jpg> ドイツ首相 異例のイスラエル批判
+      <a href=https://news.yahoo.co.jp/pickup/6540176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3435ee53dbe1889936cbc5a3cfd8daf2e0e5687d4a9adb2f6257ba3a283e4d13.jpg> 英パレード群衆に車突入 27人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3435ee53dbe1889936cbc5a3cfd8daf2e0e5687d4a9adb2f6257ba3a283e4d13.jpg> 英パレード群衆に車突入 27人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6540174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e081524e3f55518412fc468083eae881ca0d0bd9449aff952f094afe320d9303.jpg> 中国が調査か 沖ノ鳥島周辺EEZ内
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/162434fb7ff7f84b233d5bd53ab3aa929788fec355d46d7fb4059f7d5650ed7d.jpg> 仏大統領が夫婦げんか? 映像話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540173>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 2試合連続先頭打者弾
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c0a6749330c6ae48a1b89236216d97af7e8808d165a6ea643dbb8c6b934bea7a.jpg> 櫻井翔主演「占拠」第3弾は放送局
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 08:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 09:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
