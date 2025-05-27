@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c746397cbb8ba03f0e1332aa646899f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3faec19368dcbfd8ef4227c4fa0005a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02ad4db289033c9e061cdad4b7da4f3fddb71dcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000003-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> 元県民局長の私的情報、前総務部長の漏えい認定　議会への根回しで斎藤知事から指示か　兵庫県第三者委報告書
+      <a href=https://news.yahoo.co.jp/articles/92efa065112d9c2d14ffdca88a68a113de46f9f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180340-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=596&ch=596&exp=10800&fmt=webp> “反知性主義”や“中国への情報流出対策”が背景に？ トランプ政権の「留学生の受け入れ資格の認定取り消し」発表したワケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85e7c98e0f2aa9f801e2f13d7282d06c611e1381>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762036-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃19号から1時間…スポンサーがまさかの“特別仕様”「キラキラさせざるを」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91a66797c724aafd959ca9945129c9ae991597e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ドジャース・ロバーツ監督、大谷翔平の19号先頭弾を絶賛「ショウヘイのナイトロ・ゾーン」… 羽虫の大量発生に乱されず「秒の一撃」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/524d6ff2adedb2f7da53a72715efac7eb7262d5ba501b5ff922f6fb1af64404a.jpg> 解体現場でCO中毒か 3人倒れる
+      <a href=https://news.yahoo.co.jp/pickup/6540207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1345d02569d3c28e66a7361c2e4696362fd31bd2619a713656424ab85bb55eeb.jpg> 坂本龍馬ゆかりの神木倒れる 京都
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 14:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 15:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
