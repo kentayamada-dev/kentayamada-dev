@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa3fc5d5ea642a7ba11ec0bc47e5bc7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12c442468ce61514389799c453e431cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
+      <a href=https://news.yahoo.co.jp/articles/a653a0d2bdf6b068bf01f4a76ff21596107df75c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01175614-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小泉農相、備蓄米放出「菅内閣を支えた経験生きている」　コロナワクチン接種の手法を参考
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81fba005df86ee2adf83ba8942ba95d7b32f03b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000371-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1100&ch=1100&exp=10800&fmt=webp> 梅宮アンナの再婚相手　7歳年上アートディレクター・世継恭規さんはどんな人？海外でも活躍　国内では
+      <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d3d17acde2090d3ce84a0ff187e9cdbd01e89ec41763f8b50bc51eff30b31a3c.jpg> 年金法案 与党が立憲案「丸のみ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540266>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/57cdd66ad7bb596507c6639ecb4c244ca897d7ad7bfa910205d6c84bf0527a12.jpg> 備蓄米の随意契約 受付を一旦休止
       </a>
@@ -394,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5973858fd747a2a44c75215b46c2ed9059d61eafb3d742071e921661ce87c42c.jpg> 露 和平合意の覚書草案を策定中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f73f63871d9e1b0ad818b17c2f90dc29a3ff338849b974f0ea8a9ed6d06325b2.jpg> 保育園前で車と衝突 2歳男児重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e7103985d5d5dee055d0333ac604bc5a2dcd9cfa3231d27afe26cf9edcaa0084.jpg> 家宅捜索中に40歳男が逃走 愛知
+      <a href=https://news.yahoo.co.jp/pickup/6540270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/90cc3f7b36b785360bd89e2f0ba9acc04de1aa37b1b05ededd14c5230eb726ed.jpg> 「忖度しない」小泉氏 JA反発か
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/7f8bb79f2a6085615388d26b57fcbfb1228c21dca5f66aa924fa759ed400cf3d.jpg> 中日監督が猛抗議 審判に詰め寄る
+      <a href=https://news.yahoo.co.jp/pickup/6540271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c52a108c031290c7c27ee22d7643a1ec547809059a8cd271ca1da9ec0747933a.jpg> 大の里 横綱になると月給300万円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 23:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 23:52:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
