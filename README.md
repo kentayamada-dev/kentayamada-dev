@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2910e03fcd8a3214d226f3fad4fed7d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f9f37194db6da75302828873ec58dd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52a8f1871ee8e435288498d72896a6a2874c3948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978250-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約　受付一時休止　申請が殺到…小泉農水相が発表
+      <a href=https://news.yahoo.co.jp/articles/788008717c96e0e4401c4ce88c432519fc295e35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280050-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 備蓄米５キロ2160円実現　6月2日発売をアイリスオーヤマ発表　29日～通販予約　３店舗でも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8625d9e5a902117da8e652e332f072dd4b6ed220>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180497-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、185キロ弾丸アーチで”まさかの光景”「怖すぎ…」「めっちゃ危ない」 野手の頭上を“爆速通過”→スタンドに突き刺さる
+      <a href=https://news.yahoo.co.jp/articles/90bd2735eabb5d12145828b4209fcc3fdedd1cd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180494-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=589&cy=0&cw=1230&ch=1230&exp=10800&fmt=webp> 今度は逆方向！ 鈴木誠也、強烈“ラインドライブ”打球でスタンドが一気に沸騰「連日、大活躍してる」右越え二塁打へ称賛続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/762d7322a8ceb276bef7bfb042b15bed8a32fb49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000022-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 住宅で乳児溺死か、千葉　「子ども殺した」女性聴取
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52a8f1871ee8e435288498d72896a6a2874c3948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978250-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約　受付一時休止　申請が殺到…小泉農水相が発表
       </a>
     </td>
   </tr>
@@ -378,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d3d17acde2090d3ce84a0ff187e9cdbd01e89ec41763f8b50bc51eff30b31a3c.jpg> 年金法案 与党が立憲案「丸のみ」
+      <a href=https://news.yahoo.co.jp/pickup/6540274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7e4d751810ad50fe5f7cce9d071e1502ba46ff6cb670bf98bef9a3535d10df27.jpg> 日米関税交渉 米半導体の購入提案
       </a>
     </td>
   </tr>
@@ -410,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/011b84519f46194dc101c1a6645c43023af1a3bc9133fc2c21306a6d7594b18d.jpg> 江戸川区で爆発 瞬間の映像
+      <a href=https://news.yahoo.co.jp/pickup/6540275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8fe774407220ea0f0a6fa05f7f45cce7c5f4e287a66bef1878db9eca6cbb7878.jpg> 住宅で赤ちゃん溺死 女性を聴取
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
+      <a href=https://news.yahoo.co.jp/pickup/6540273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fe9eabce76491523520f243f4e784167e1c29eb90dd79999b4593097513b6d2f.jpg> 重岡銀次朗が手術 原因究明が急務
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 07:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
