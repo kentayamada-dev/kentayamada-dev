@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6bf45f8bdeba8daacf6a43edff8c058.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa3fc5d5ea642a7ba11ec0bc47e5bc7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/753adb069960d5f54eeb9b2ba2101c35b370c423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米、随意契約分全て受け付け終了　古米の人気なさ浮き彫りに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
       </a>
@@ -365,32 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d99c4daff2ff0fa8a168ef3c6f504a0d17ad5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01114426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約にスーパーなど19社申し込み　“5キロ2000円”まもなく？　精米業者からは悲鳴が…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d0edc0e729513edf528f5a0855ac9e2f373a32a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000080-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> かゆみ薬で東レの特許を侵害　沢井製薬などに217億円賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1550258c52c2f4338dfab82dc4cefa0f63a0c28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「もはや目的が理解できない」　ドイツ首相、異例のイスラエル批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80f4efb1c5597b1a06daab2e0049fb32c5673810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000048-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 木村拓哉『教場』映画化、視聴者が察していた “予兆”…出演が予想される “イメチェン” 若手俳優とは
+      <a href=https://news.yahoo.co.jp/articles/81fba005df86ee2adf83ba8942ba95d7b32f03b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000371-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1100&ch=1100&exp=10800&fmt=webp> 梅宮アンナの再婚相手　7歳年上アートディレクター・世継恭規さんはどんな人？海外でも活躍　国内では
       </a>
     </td>
   </tr>
@@ -418,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/885667ec7829852646b361edf7b0c2e343830fc9dd9c4a40b90fde76d144f95d.jpg> 週の熱中症搬送者 今年初1000人超
+      <a href=https://news.yahoo.co.jp/pickup/6540263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f73f63871d9e1b0ad818b17c2f90dc29a3ff338849b974f0ea8a9ed6d06325b2.jpg> 保育園前で車と衝突 2歳男児重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f73f63871d9e1b0ad818b17c2f90dc29a3ff338849b974f0ea8a9ed6d06325b2.jpg> 保育園前で車と衝突 2歳男児重体
+      <a href=https://news.yahoo.co.jp/pickup/6540267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e7103985d5d5dee055d0333ac604bc5a2dcd9cfa3231d27afe26cf9edcaa0084.jpg> 家宅捜索中に40歳男が逃走 愛知
       </a>
     </td>
   </tr>
@@ -442,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3b2491298df16e6c312ff00833bc1352d330a7372025e8398d97e26468e7288b.jpg> 「船井電機新社」を申請 再雇用も
+      <a href=https://news.yahoo.co.jp/pickup/6540265>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沢井製薬など 217億円の賠償命令
       </a>
     </td>
   </tr>
@@ -458,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/58f8bef67caeca227a7bb8351948df815d27a639ca98e05aae03e5a08a589111.jpg> 梅宮アンナ電撃結婚 出会って10日
+      <a href=https://news.yahoo.co.jp/pickup/6540269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e9a00a54954ca8329b6fd7955d10e430d63bec74119c819f6537d5215a2f20fd.jpg> 梅宮アンナ再婚 世継氏はどんな人
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 23:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 23:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
