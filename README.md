@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1412d2504888b144fe094d1d9880c948.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5375dd2cee86b89eb9729b96c7aed476.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/900df1dc351677e82ddc278b35d9f1b220102893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239295-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 年金制度改革関連法案の修正案きょう国会に提出へ　基礎年金の底上げ盛り込む　今週中に衆院通過の見通し
+      <a href=https://news.yahoo.co.jp/articles/8f0bb648b8956bfd48604436b9f8f6a196e29287>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000068-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 備蓄米ネット販売　コメ詐欺に要注意　販売サイトに関する相談続々
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 04:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 05:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
