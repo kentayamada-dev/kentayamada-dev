@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f806d5816e4c4503d4417c792b779ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cebe1afe099327bb2b07d160f450abe3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73e17f25ae61344be78da9ee0e8c6d5980a3edb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-11644579-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> アイリスオーヤマが政府備蓄米を１万トン購入　６月２日からの販売目指す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcb940e44d205e6231aa9ec6e7a3777a68180978>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000004-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャースのキム・ヘソン、せっかくスタメン出場したのに「無安打＆失策」...韓国メディア失望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0de34c4790930a2f370b0984ed88f549e73a3cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938342-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 男子ダブルス64年ぶり金の戸上隼輔・篠塚が互いを賞賛「メンタルお化け」「安心感」ロス五輪での金誓う
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f7bf66d72b364701134358674605f9d812e5bbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小泉農水相、随意契約の新方式を発表　備蓄米5キロ2000円・6月初旬にも店頭に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/414c1b744168c75e489c1b6be9f8b4f997226ebc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 軽油販売6社がカルテル疑い、公取立ち入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24ad78e89b5762966a8717eb42a1f6cfb93d5002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761663-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「得意なゾーンに投げてしまった」　ド軍監督がプレーボール弾に賛辞
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e22b1e4bca15b4d8f6151a950fc7894705895b51a557412dc02d6a3aa6faa16a.jpg> 電気ガス代支援3カ月で3000円程度
+      <a href=https://news.yahoo.co.jp/pickup/6540195>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米の随契 申し込み19社を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/53f03b032a67ad100398ac018e02c8c1e3f24785ed7079465920f739ac8277c2.jpg> 年金 立憲案「丸のみ」与党に思惑
+      <a href=https://news.yahoo.co.jp/pickup/6540190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e22b1e4bca15b4d8f6151a950fc7894705895b51a557412dc02d6a3aa6faa16a.jpg> 電気ガス代支援3カ月で3000円程度
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/146184aa00fcdc65220f0279bfefd6dd45e50661cfee1e1e3451820efdf2c1a1.jpg> 冷房「-1℃」と「強」お得なのは
+      <a href=https://news.yahoo.co.jp/pickup/6540191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02222529/title-1748156743365.jpeg?exp=10800> 女子大の定員割れ コロナ後に変化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/7601b6079e63c1a3bcfd0a32d6535605d5113162ea343ef9e265b7eef1e867de.jpg> 由伸が6勝目 羽虫発生も影響なし
+      <a href=https://news.yahoo.co.jp/pickup/6540196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c8046dd10222dee0d11f7bbc95d77b743f9560afbe6716aec9fe6f95a36f4df9.jpg> ド軍退団 エ軍でいきなり8番中堅
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 11:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 12:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
