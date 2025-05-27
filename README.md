@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f9f37194db6da75302828873ec58dd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b313d60a135f68b4d96175f1ae47134f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/788008717c96e0e4401c4ce88c432519fc295e35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280050-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 備蓄米５キロ2160円実現　6月2日発売をアイリスオーヤマ発表　29日～通販予約　３店舗でも
+      <a href=https://news.yahoo.co.jp/articles/a2feff99dade55e0ef2110f9292d592851689c52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280065-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1019&ch=1019&exp=10800&fmt=webp> 大谷翔平、３試合連続の先頭打者アーチはならず…第１打席は見逃し三振に倒れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90bd2735eabb5d12145828b4209fcc3fdedd1cd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180494-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=589&cy=0&cw=1230&ch=1230&exp=10800&fmt=webp> 今度は逆方向！ 鈴木誠也、強烈“ラインドライブ”打球でスタンドが一気に沸騰「連日、大活躍してる」右越え二塁打へ称賛続々
+      <a href=https://news.yahoo.co.jp/articles/c65ed34fd75070dcad82e80e4749ec8d505e7643>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00050007-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=210&ch=210&exp=10800&fmt=webp> 年金修正合意で「部分連合」３野党と成果…首相、参院選見据え連携相手の選択肢確保
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/762d7322a8ceb276bef7bfb042b15bed8a32fb49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000022-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 住宅で乳児溺死か、千葉　「子ども殺した」女性聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52a8f1871ee8e435288498d72896a6a2874c3948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978250-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約　受付一時休止　申請が殺到…小泉農水相が発表
+      <a href=https://news.yahoo.co.jp/articles/39076070efa24dca385d53e06a0ab6d06d2e4b56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=733&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> カブス鈴木が週間MVP　22年4月以来2度目
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540265>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沢井製薬など 217億円の賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6540277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8e69a6173211a15dc83ce74aad888d9ba1fbbb3374c52dcfb45a990678e3506a.jpg> 鈴木誠也 3年ぶり週間MVP受賞
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e9a00a54954ca8329b6fd7955d10e430d63bec74119c819f6537d5215a2f20fd.jpg> 梅宮アンナ再婚 世継氏はどんな人
+      <a href=https://news.yahoo.co.jp/pickup/6540276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/44345b8966ca44bbb5bb884b45dbb3f224815f1e07eed7e3b704ae76ed5a21ef.jpg> 米ロック デリンジャーさん死去
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 07:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 07:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
