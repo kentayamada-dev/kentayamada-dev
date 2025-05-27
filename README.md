@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84df13200fe4c76e84d2f43deaf95387.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/047afe9fbc9bb6c560ec0948ae557e74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/992af1fae30c7b63615978395f396652d8fc9636>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 02:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 03:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
