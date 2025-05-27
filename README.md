@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3faec19368dcbfd8ef4227c4fa0005a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/586b62a5ad119615857fd0689905fe69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92efa065112d9c2d14ffdca88a68a113de46f9f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180340-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=596&ch=596&exp=10800&fmt=webp> “反知性主義”や“中国への情報流出対策”が背景に？ トランプ政権の「留学生の受け入れ資格の認定取り消し」発表したワケ
+      <a href=https://news.yahoo.co.jp/articles/9da99653a9df5c10e1a1c533c7835012521c4144>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-04442779-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2試合連続先頭打者HRで19号放ち20号まであと1発　54HRでホームラン王の昨季はいつ20本目打った？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85e7c98e0f2aa9f801e2f13d7282d06c611e1381>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762036-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の衝撃19号から1時間…スポンサーがまさかの“特別仕様”「キラキラさせざるを」
+      <a href=https://news.yahoo.co.jp/articles/5048e1a1d344234be79ebfeb1505ce4ee6d175ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00155588-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【コメ高騰】備蓄米随意契約に中小スーパー不安「今ある備蓄米が在庫になってしまう」「結局大手しか…」5kg2000円台にコメ農家「本当に厳しい価格」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a243bbf6be6abca84c43efa404a835e77261b7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000074-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ＤＪ　ＫＯＯ、退院を報告　２０日に医師から「安静が必要」と　病名も公表
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d6c1e6f20923de3147b45df51fd244ce1bc16a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00977618-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米30万トン販売「随意契約」にドンキ・ライフ・イオンが名乗り　“小泉米”5キロ2000円程度の見通し　契約対象外の中小店「最初からやって」と在庫懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89ab185bd1b7d8b5afce086b40c6bafc1b3451ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01869473-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「非常に難しい課題だができる限り対策」万博会場“虫の大量発生”に協会『対策本部』設置
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/12edb1e5dd368033acc3dcaf087a3d6672e86160220bac442f2534b3afb247d9.jpg> 大島優子に第2子「未来が楽しみ」
+      <a href=https://news.yahoo.co.jp/pickup/6540213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/fae66d0286b90e9d31f857618753b6354c68ab8f97d5655f0c9fa35b6f420b64.jpg> DJ KOO 28日からの活動再開報告
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 15:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 15:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
