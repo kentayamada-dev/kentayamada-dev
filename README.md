@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/586b62a5ad119615857fd0689905fe69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ea257e52d7427f1389a108635c3ed59.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9da99653a9df5c10e1a1c533c7835012521c4144>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-04442779-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2試合連続先頭打者HRで19号放ち20号まであと1発　54HRでホームラン王の昨季はいつ20本目打った？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-04442779-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2試合連続先頭打者HRで19号放ち20号まであと1発　54HRでホームラン王の昨季はいつ20本目打った？
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a243bbf6be6abca84c43efa404a835e77261b7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000074-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ＤＪ　ＫＯＯ、退院を報告　２０日に医師から「安静が必要」と　病名も公表
+      <a href=https://news.yahoo.co.jp/articles/30ac02616fe77f933799e73e651fb19bc970e458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 安倍元首相銃撃事件、初公判は「今秋以降」か　日程決まらず
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1369e8172eec09501c4f156e901a9afefd1c4f2d1d25c14cf77e5bf41d99b550.jpg> 安倍氏銃撃 初公判「今秋以降」か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540209>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e77075b2d6a264be103a7b0bbc1cad4ae3619355ba9f6e0cbe925607bd50bd84.jpg> 日産 内田前社長らに報酬6億円
       </a>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/6a1b87b6099b581f4285f1613d96dd892ecffb30f076049538ac609fd4947907.jpg> 詐欺G統括を逮捕 計53億円詐取か
+      <a href=https://news.yahoo.co.jp/pickup/6540212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d89c262614543a19876bd11ffe1952b3a9ca0edbeb52010bb162a76f943db6ce.jpg> 千葉女性殺害 15歳少年を鑑定留置
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1345d02569d3c28e66a7361c2e4696362fd31bd2619a713656424ab85bb55eeb.jpg> 坂本龍馬ゆかりの神木倒れる 京都
+      <a href=https://news.yahoo.co.jp/pickup/6540211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/4b4e2ef72e807bb3861fea428df84ebe086f6df40b5cb746734c346629365d7d.jpg> ハーバード大 日本人教員語る混乱
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/fae66d0286b90e9d31f857618753b6354c68ab8f97d5655f0c9fa35b6f420b64.jpg> DJ KOO 28日からの活動再開報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 15:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 16:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
