@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d26178621b57415abe85ee683c67a247.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0088e5cd0ba544ce88ac208aaba5399.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1f96c0e9b1122e0d0693ec74861bddc3c83cc7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00977984-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元県民局長の私的情報　当時の総務部長が漏洩　第三者委員会「斎藤知事や片山前副知事の指示の可能性高い」
+      <a href=https://news.yahoo.co.jp/articles/80f4efb1c5597b1a06daab2e0049fb32c5673810>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000048-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 木村拓哉『教場』映画化、視聴者が察していた “予兆”…出演が予想される “イメチェン” 若手俳優とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ce0a05ad35b5c3920c4f7fca037bc6dac6bebec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90012947-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 政府備蓄米の“随意契約”　JA福井県が“生産者への影響”と“緊急時の備え”へ不安漏らす
+      <a href=https://news.yahoo.co.jp/articles/6e73dc3b580a5483120982a3023a92a207fd5733>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アイリスオーヤマ、備蓄米はネット中心に販売　随意契約を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d52f293721390c78fb9dd671c28d5b40c03df87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762051-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”　19号で米データ会社がリマインド「馬鹿げてる」
+      <a href=https://news.yahoo.co.jp/articles/0472f63dd87b4e16b563f162cd640b799312a903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000074-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 新聞記者 飲酒運転し事故　4日後に警察へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17bfca6ad3ceb34304ca478067f4d94dbe68a3fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21939983-tbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=474&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 張本美和選手　世界卓球銅メダル帰国会見　兄・智和選手もさらなる成長誓う
+      <a href=https://news.yahoo.co.jp/articles/7f45bd6c2bad259746e2f537b53f4c97b78cea1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270833-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ロバーツ監督が絶賛「ニトロゾーンに引き込んだ」大谷翔平２戦連続先頭打者弾＆米通算600打点
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540216>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iizukamakiko/02224449/title-1748279505603.jpeg?exp=10800> USS巡るトランプ氏発言 何を意味
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1e45196d05e593e371f6ee0f5b179c92ffc404b0164caeee8fbfdb9870b3d659.jpg> 英首相邸の放火 露政府が関与否定
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d1943861aa5e00f9a5ab61b1352b4c58f1de2c6108ed2968a1699ecdb3db6c8b.jpg> DQ1&2の発売日決定 新キャラも
+      <a href=https://news.yahoo.co.jp/pickup/6540243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d1943861aa5e00f9a5ab61b1352b4c58f1de2c6108ed2968a1699ecdb3db6c8b.jpg> ドラクエ サマルトリアの妹姫参戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3ee2e012e39cf29ad17037c7a4959790907257ad334c7fbafbe8d9e632d152e5.jpg> 重岡銀次朗引退へ 緊急の開頭手術
+      <a href=https://news.yahoo.co.jp/pickup/6540242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b814a2954706847a541e0bce9c71aac7900593d5857bdda063aed97575a75e5e.jpg> 園子温さん会見 もう一度映画を
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 19:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 19:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
