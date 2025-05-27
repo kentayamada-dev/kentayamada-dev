@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b6adfbaf58e2ad4749061c6a789f9f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a3928219e4eba526d39da3be74697d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9c5834c32822f2755cc00fe051a9f01965d1066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-05281002-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平史上４人目の３試合連続先頭弾で２０号１番乗りなるか　「１番ＤＨ」でスタメン入り
+      <a href=https://news.yahoo.co.jp/articles/9466f1f0e37141ee62655c364c932106fcc084f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01762127-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　初の3試合連続先頭弾で20号到達なるか…スタメン発表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 03:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 04:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
