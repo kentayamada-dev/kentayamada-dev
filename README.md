@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d253ce55c2f682d42d8e3d3f1f98b1f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee8f7a3e81f7f02ad227f5bf113d7aec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12fae176a5f8e3f146dae645fc10fbabaadfd81e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27968eb379e9cdaa1d729f3c3ef0907ef4bddb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民・河野氏「毒入りあんこ」　年金法案修正を批判
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000098-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=977&ch=977&exp=10800&fmt=webp> 自民・河野氏「毒入りあんこ」　年金法案修正を批判
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/12b03a68a681837f3f1c753b6861fb65522dfa61e2febc06f408657882ce6554.jpg> 年金 3党合意に首相「意義深い」
+      <a href=https://news.yahoo.co.jp/pickup/6540247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/eac66d70aadf55ad10fffc7620eb5d3f89bfb262a07c41604898a12b1e26b7ca.jpg> 年金法案 受給減世代は怒りや嘆き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iizukamakiko/02224449/title-1748279505603.jpeg?exp=10800> USS巡るトランプ氏発言 何を意味
+      <a href=https://news.yahoo.co.jp/pickup/6540250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ae8a79de65890d7ae2ae14c3fead1e928205cd8ba592f6391019cb127bf76fc4.jpg> 露大統領 西側企業「締め付ける」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/9ae10545c3d33e90eaa6b164ac01c275ae5e3ecb16be01b8abd43ea27647f943.jpg> 斎藤知事 自身の給与カットを検討
+      <a href=https://news.yahoo.co.jp/pickup/6540249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f0c7013e789d808e77aca8313cc0524713c84dc4f94eed13debb952b844ba140.jpg> コメ高騰耐え切れず 卸売業者破産
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/23e9ae3c275147049c7afd0508c33bdfb44c85c8a1d8ea60976d5d323fcc567a.jpg> ドラマ恋は闇 ロケ地巡り注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6540252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/58f8bef67caeca227a7bb8351948df815d27a639ca98e05aae03e5a08a589111.jpg> 梅宮アンナ電撃結婚 出会って10日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b814a2954706847a541e0bce9c71aac7900593d5857bdda063aed97575a75e5e.jpg> 園子温さん会見 もう一度映画を
+      <a href=https://news.yahoo.co.jp/pickup/6540248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/23e9ae3c275147049c7afd0508c33bdfb44c85c8a1d8ea60976d5d323fcc567a.jpg> ドラマ恋は闇 ロケ地巡り注意喚起
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 20:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 20:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
