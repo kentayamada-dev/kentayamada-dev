@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/047afe9fbc9bb6c560ec0948ae557e74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b6adfbaf58e2ad4749061c6a789f9f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9c5834c32822f2755cc00fe051a9f01965d1066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-05281002-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平史上４人目の３試合連続先頭弾で２０号１番乗りなるか　「１番ＤＨ」でスタメン入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa550471bcd2896dbaf08325baa29876d1bf06b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025897-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 精米どうする？“玄米のまま”販売も…“随契”申し込み続々で「いったん休止」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/992af1fae30c7b63615978395f396652d8fc9636>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/753adb069960d5f54eeb9b2ba2101c35b370c423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000086-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米、随意契約分全て受け付け終了　大手小売業者、申請殺到で
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 03:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 03:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
