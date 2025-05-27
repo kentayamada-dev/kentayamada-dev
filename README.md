@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e63ae365c148cdfd94d0568f84019d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ca185a9473a1027197cbc83cf4ff47b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c665ccd5538580b8012be2a1efe373b0ebb1fbc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180418-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、相手監督に“強烈すぎる”ご挨拶…にっこり笑顔で会釈→即ホームランが「不憫すぎ」視聴者も同情
+      <a href=https://news.yahoo.co.jp/articles/23d235cd1f5aae1c3f829701bab23c66d5e1c8c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90026345-oxv-000-1-thumb.jpg?exp=10800&fmt=webp> 「５キロ２１６０円」へ　アイリスオーヤマが政府備蓄米１万トン購入　インターネットなどで販売〈仙台市〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/085f1eb49fae0190ddd725261018a5acee9fd559>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050103-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 大阪・堺市の工事現場で「３人倒れた」と通報…男性３人搬送、うち１人が一時意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efd127bc18bd4ee0e951c481a14d835171ed4a22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762052-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵ファンが思わず…大谷翔平の19号で生まれた“異様な光景”「やっぱりすごい」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2f63317c4368c27b40d132996c9ca07f64d3f06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000008-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=186&cw=1200&ch=1200&exp=10800&fmt=webp> 卓球・伊藤美誠、中国代表選手らと自撮り姿にファン「ほっこり」...「四姉妹のよう」「こういう交流は素晴らしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cffef1d135394f6db12de010e188a5922df6d26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ水俣病誤記「非常に残念」　浅尾環境相、教材に「遺伝する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a45d5806956b434a1ddff949a1e980a30c0ffba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08155297-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> 6月2日販売開始へ、アイリスオーヤマが1万トンの購入申し込み…備蓄米「随意契約」による売り渡し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000008-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=186&cw=1200&ch=1200&exp=10800&fmt=webp> 卓球・伊藤美誠、中国代表選手らと自撮り姿にファン「ほっこり」...「四姉妹のよう」「こういう交流は素晴らしい」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/aec190cda436e58cf86790d6eeef84f2072981a9e76688585153a63a40ceda27.jpg> 日本の対外純資産 世界2位に転落
+      <a href=https://news.yahoo.co.jp/pickup/6540201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d143408f7bcb60bfc9a3f5ed6d685a3bd0fde1158c43226ad30c65d0e06daeb5.jpg> 水俣病誤表記 トライに説明求める
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/cc8e89cb46083d8eb4e315918a4c872ba8299259f7ad2130f84518c836d66df5.jpg> 重機がガス管損傷し爆発か 江戸川
+      <a href=https://news.yahoo.co.jp/pickup/6540200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c680c4a2c4ef341448044f1b743a1cd54622992876eeea6100f70203030d4d56.jpg> 沖縄県内 米海兵隊員の逮捕相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/28c032133f4f4d34f1665794e605ca46081a7d90f364808097557afbc129093a.jpg> 日本の給与「6割が平均以下」実態
+      <a href=https://news.yahoo.co.jp/pickup/6540198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/cc8e89cb46083d8eb4e315918a4c872ba8299259f7ad2130f84518c836d66df5.jpg> 重機がガス管損傷し爆発か 江戸川
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e09ddf25ac9f5ee215e553fd1e3ca37a19fde0ce342742eb03fcc7082a308b95.jpg> 大島優子&林遣都 第2子誕生報告
+      <a href=https://news.yahoo.co.jp/pickup/6540202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/12edb1e5dd368033acc3dcaf087a3d6672e86160220bac442f2534b3afb247d9.jpg> 大島優子に第2子「未来が楽しみ」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 13:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 13:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
