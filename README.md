@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43d6e6d2e487828931f010d326374bcf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa609badac0ec8f62b4b354af3fd4463.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a4f1079367183094e17a4e9d7e25e1a542acd18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280076-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、２回の第２打席で早くも申告敬遠…　１発が出れば昨季を上回る58本ペースに
+      <a href=https://news.yahoo.co.jp/articles/3fa535b53ec73fb6a54b79e475cf29e32a6086b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000102-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之　ヌートバーに痛恨被弾…　初回から持ち味の安定感を欠き、2回までに3失点
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e747df3b95b1176b87e1ee0cbee5d52cfb45c431>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10538621-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カブス・鈴木誠也が3年ぶり2度目の週間MVP受賞　MLBトップの打率.480＆OPS1.552
+      <a href=https://news.yahoo.co.jp/articles/7190571950e493b4f3a88cbf251d7a7230a8af0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180578-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=782&ch=782&exp=10800&fmt=webp> USスチール買収計画めぐり 米政府「黄金株」保有案が浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7190571950e493b4f3a88cbf251d7a7230a8af0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180578-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=782&ch=782&exp=10800&fmt=webp> USスチール買収計画めぐり 米政府「黄金株」保有案が浮上
+      <a href=https://news.yahoo.co.jp/articles/807dba9396924d3848656848ef9a68edbe9eca84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-08364527-stv-000-1-thumb.jpg?exp=10800&fmt=webp> スーパー社長「喉から手が出るほど欲しい」　安価な備蓄米流通で反応さまざま　北海道
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/90cc3f7b36b785360bd89e2f0ba9acc04de1aa37b1b05ededd14c5230eb726ed.jpg> 「忖度しない」小泉氏 JA反発か
+      <a href=https://news.yahoo.co.jp/pickup/6540282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/6f98a5af86f30759c8df89a853a05abcb853cc5041bc570a10d64ed0fb828e54.jpg> 自転車で9歳女児ひき逃げ 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eb45fc1bf04b5a1fafc7b96fc78bef863a9098289fca4d9f7484f762d28b79d9.jpg> 歩道で倒れていた男性死亡 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6540281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eb45fc1bf04b5a1fafc7b96fc78bef863a9098289fca4d9f7484f762d28b79d9.jpg> 歩道で男性刺され死亡 知人逮捕へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8fe774407220ea0f0a6fa05f7f45cce7c5f4e287a66bef1878db9eca6cbb7878.jpg> 住宅で赤ちゃん溺死 女性を聴取
+      <a href=https://news.yahoo.co.jp/pickup/6540280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5df8be298d9ce81dba15d3fef380a2b95216c5fe6f39c6754aa98dbf0f5bb767.jpg> 韓国チキンバーガー店 善戦の訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 08:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 08:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
