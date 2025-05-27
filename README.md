@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20dcd035e3a1f52eea0def9be0df7476.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c49539304b26d7ea14e9834e7c2b468.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e3e778a9088358303f7b63e5feffa73e18dd612>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271460-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【中日】金丸夢斗援護できず連敗、借金今季ワースト６　ブライト適時打で一時同点も勝野つかまる
+      <a href=https://news.yahoo.co.jp/articles/1a45e50ef7eb4143018034227cd8a273517465e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180499-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もはや人間じゃない！ 大谷翔平、とんでもない“初球アーチ”「カッコよすぎ」「ヤバい」 185キロ弾丸ライナー→ゆっくり“確信歩き”「気持ち良さそう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1550258c52c2f4338dfab82dc4cefa0f63a0c28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「もはや目的が理解できない」　ドイツ首相、異例のイスラエル批判
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b16b066eada011eac8e95caf8d27db64ccc8953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00541113-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山本由伸、大谷19号に送った一言が話題　「いや、あなたもよ」「今さら言っちゃう」普段とは逆の展開に
+      <a href=https://news.yahoo.co.jp/articles/2b445b8557319e93f424070ce4a5971110f8b796>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08666416-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 住宅工事現場で爆発火災　住人が語る恐怖「窓ガラス飛び込んできた」　爆発音“ディズニー”近くまで…
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/eac66d70aadf55ad10fffc7620eb5d3f89bfb262a07c41604898a12b1e26b7ca.jpg> 年金法案 受給減世代は怒りや嘆き
+      <a href=https://news.yahoo.co.jp/pickup/6540256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/2850a8a2969edc0716845411d58a0940281ce1a61ebec677d248665ec0967b3b.jpg> 防衛白書 トランプ政策の影響指摘
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b22a381145b6da1eefa0a19670c59e3be073e82d874d7437365a9c097ddd2555.jpg> 70km/hでバック2人死傷 懲役12年
+      <a href=https://news.yahoo.co.jp/pickup/6540261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/011b84519f46194dc101c1a6645c43023af1a3bc9133fc2c21306a6d7594b18d.jpg> 江戸川区で爆発 瞬間の映像
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/7f8bb79f2a6085615388d26b57fcbfb1228c21dca5f66aa924fa759ed400cf3d.jpg> 中日監督が猛抗議 審判に詰め寄る
+      <a href=https://news.yahoo.co.jp/pickup/6540242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
+      <a href=https://news.yahoo.co.jp/pickup/6540260>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d34cb274347f11d57c2e307b961c4175b591417b555cc42453ceb613892e4b29.jpg> 俳優・沢竜二さんが死去 89歳
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 21:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 22:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
