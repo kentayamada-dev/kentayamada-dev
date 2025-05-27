@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a6433eddf31a13d49fa342f28447ddf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6bf45f8bdeba8daacf6a43edff8c058.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c78df9763e597a141b508706cee5bbe4a7dbc6e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-06469155-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 農水省、備蓄米の随意契約による売り渡し“申し込み一旦休止”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c85546a89a4a089aad4ae046a09c18af1c296597>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180458-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> やってらんねえ！ 大谷翔平、先頭打者初球アーチで“異変”「泣きそう」「やる気ないw」相手投手の被弾リアクションが話題に「もはや可哀想」
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57d99c4daff2ff0fa8a168ef3c6f504a0d17ad5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01114426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約にスーパーなど19社申し込み　“5キロ2000円”まもなく？　精米業者からは悲鳴が…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d0edc0e729513edf528f5a0855ac9e2f373a32a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000080-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> かゆみ薬で東レの特許を侵害　沢井製薬などに217億円賠償命令
       </a>
     </td>
   </tr>
@@ -403,23 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540266>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米の随意契約 受付を一旦休止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/57cdd66ad7bb596507c6639ecb4c244ca897d7ad7bfa910205d6c84bf0527a12.jpg> 備蓄米の随意契約 受付を一旦休止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/2850a8a2969edc0716845411d58a0940281ce1a61ebec677d248665ec0967b3b.jpg> 防衛白書 トランプ政策の影響指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c4ff5c8202430d14a10d5865aaf527d1ca61d410149fc2485b8237fa5d439dd8.jpg> 下村氏 還流再開求める声を伝達
+      <a href=https://news.yahoo.co.jp/pickup/6540259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5973858fd747a2a44c75215b46c2ed9059d61eafb3d742071e921661ce87c42c.jpg> 露 和平合意の覚書草案を策定中
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d34cb274347f11d57c2e307b961c4175b591417b555cc42453ceb613892e4b29.jpg> 俳優・沢竜二さんが死去 89歳
+      <a href=https://news.yahoo.co.jp/pickup/6540254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3b2491298df16e6c312ff00833bc1352d330a7372025e8398d97e26468e7288b.jpg> 「船井電機新社」を申請 再雇用も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/7f8bb79f2a6085615388d26b57fcbfb1228c21dca5f66aa924fa759ed400cf3d.jpg> 中日監督が猛抗議 審判に詰め寄る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 22:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 23:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
