@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ea257e52d7427f1389a108635c3ed59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11aab3b55108a86448ccb73410e0d358.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9da99653a9df5c10e1a1c533c7835012521c4144>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-04442779-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2試合連続先頭打者HRで19号放ち20号まであと1発　54HRでホームラン王の昨季はいつ20本目打った？
+      <a href=https://news.yahoo.co.jp/articles/b63365482224498198ba90e96f8f48c1290dacc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-09711483-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 2000円台で販売に懸念「適正価格があると思う」備蓄米の随意契約　流通に期待の声も　北海道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5048e1a1d344234be79ebfeb1505ce4ee6d175ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00155588-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【コメ高騰】備蓄米随意契約に中小スーパー不安「今ある備蓄米が在庫になってしまう」「結局大手しか…」5kg2000円台にコメ農家「本当に厳しい価格」
+      <a href=https://news.yahoo.co.jp/articles/045bdadbe464db0b5b0142784f72028c66a539e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00541031-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷が打ったのにLA実況席が黙ってしまう　「ハッハー！」大はしゃぎ→沈黙のギャップ、敵地は淡々
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30ac02616fe77f933799e73e651fb19bc970e458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 安倍元首相銃撃事件、初公判は「今秋以降」か　日程決まらず
+      <a href=https://news.yahoo.co.jp/articles/888ab462978985d378936e89bda84d537682c93d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000011-ryu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 【独自】昨年5月の女性暴行「事実も存在しない」米兵が無罪主張へ　6月2日に初公判　沖縄
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0ba4e4dc65e14cdaa86455303d402f7f593d1463961a4922765dc8dbcbab623e.jpg> 兵庫知事が情報漏洩指示か 報告書
+      <a href=https://news.yahoo.co.jp/pickup/6540214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1369e8172eec09501c4f156e901a9afefd1c4f2d1d25c14cf77e5bf41d99b550.jpg> 安倍氏銃撃 初公判「今秋以降」か
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1369e8172eec09501c4f156e901a9afefd1c4f2d1d25c14cf77e5bf41d99b550.jpg> 安倍氏銃撃 初公判「今秋以降」か
+      <a href=https://news.yahoo.co.jp/pickup/6540209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e77075b2d6a264be103a7b0bbc1cad4ae3619355ba9f6e0cbe925607bd50bd84.jpg> 日産 内田前社長らに報酬6億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e77075b2d6a264be103a7b0bbc1cad4ae3619355ba9f6e0cbe925607bd50bd84.jpg> 日産 内田前社長らに報酬6億円
+      <a href=https://news.yahoo.co.jp/pickup/6540210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0ba4e4dc65e14cdaa86455303d402f7f593d1463961a4922765dc8dbcbab623e.jpg> 兵庫知事が情報漏洩指示か 報告書
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/a276b122f7c8b3eab68cc84b61bf411c100fbdc4ef25c63d5d5e7ed66b21d1ac.jpg> カピバラ脱走 すぐそばの森で捕獲
+      <a href=https://news.yahoo.co.jp/pickup/6540215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3ee2e012e39cf29ad17037c7a4959790907257ad334c7fbafbe8d9e632d152e5.jpg> 重岡銀次朗引退へ 緊急の開頭手術
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 16:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 16:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
