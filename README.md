@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a3928219e4eba526d39da3be74697d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1412d2504888b144fe094d1d9880c948.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9466f1f0e37141ee62655c364c932106fcc084f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01762127-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　初の3試合連続先頭弾で20号到達なるか…スタメン発表
+      <a href=https://news.yahoo.co.jp/articles/900df1dc351677e82ddc278b35d9f1b220102893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239295-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 年金制度改革関連法案の修正案きょう国会に提出へ　基礎年金の底上げ盛り込む　今週中に衆院通過の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa550471bcd2896dbaf08325baa29876d1bf06b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025897-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 精米どうする？“玄米のまま”販売も…“随契”申し込み続々で「いったん休止」
+      <a href=https://news.yahoo.co.jp/articles/9466f1f0e37141ee62655c364c932106fcc084f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01762127-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「1番・DH」　初の3試合連続先頭弾で20号到達なるか…スタメン発表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 04:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 04:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
