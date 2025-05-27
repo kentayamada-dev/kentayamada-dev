@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ada5bacd0c9c7d477ddab7f8265d2991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/202999c22a129810df024120c4b41678.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5be4c065e7ca7ec1e53913aa9bb8972fc5f87b10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761869-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山本由伸の「危なげない6イニング」　相棒も称賛…好守備は「素晴らしい身体能力」
+      <a href=https://news.yahoo.co.jp/articles/7f296d5ca8bb898661580804076a3210849f938c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「本当に心強い」　山本由伸が先頭打者アーチの先輩に感謝　自身の最近４登板で３本塁打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aba4e6f76837e68c8e231430e13578a4a2c5972>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000008-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、単独キング弾＆山本由伸6勝でド軍連敗ストップ　3戦連続先頭打者アーチならMLB史上4人目の快挙
+      <a href=https://news.yahoo.co.jp/articles/b362771fbe81187b5968fd7f3bc22c1a4a1616f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90025821-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米販売「利益求めない」5kg2000円　随意契約に流通大手が次々名乗り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae6cefbd9e0fd7b6934352fbc29948a97545107a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-06486553-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 備蓄米“随意契約”で……「5キロ2000円程度」、小泉大臣のリーダーシップで実現？　業者どう選ぶ？【#みんなのギモン】
+      <a href=https://news.yahoo.co.jp/articles/06dbd4cb8b5fce6557d54846f28506bada2a4918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050060-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ウクライナの「ロシア国内の軍事拠点攻撃」容認…ドイツが供与する長射程兵器の制限撤廃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1b5b3dedcfe2f754a9759746dab8785ba29d779>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346063-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が２試合連続の先頭打者弾！ １９号は両リーグトップ　３得点で連敗ストップに貢献
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be0d2ba93c83b23ab5b7bbb195b835be3d13e20d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ首相「射程制限設けず」　ウクライナへのミサイル支援、長距離タウルス供与に布石か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/966b032a75baa9f1622f14088fc594b50bb583ad2e39177b7622a0955234a8de.jpg> 防災庁誘致 12道府県市など名乗り
+      <a href=https://news.yahoo.co.jp/pickup/6540190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e22b1e4bca15b4d8f6151a950fc7894705895b51a557412dc02d6a3aa6faa16a.jpg> 電気ガス代支援3カ月で3000円程度
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3435ee53dbe1889936cbc5a3cfd8daf2e0e5687d4a9adb2f6257ba3a283e4d13.jpg> 英パレード群衆に車突入 27人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6540184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/53f03b032a67ad100398ac018e02c8c1e3f24785ed7079465920f739ac8277c2.jpg> 年金 立憲案「丸のみ」与党に思惑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/aec190cda436e58cf86790d6eeef84f2072981a9e76688585153a63a40ceda27.jpg> 日本の対外純資産 世界2位に転落
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540180>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/28c032133f4f4d34f1665794e605ca46081a7d90f364808097557afbc129093a.jpg> 日本の給与「6割が平均以下」実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5164afb6b92939a52f0a76422d754807c367f058c5b7f9a5da4eb57523c46e95.jpg> キユーピー マヨネーズなど値上げ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 10:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 11:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
