@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cebe1afe099327bb2b07d160f450abe3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5ff901360cf90db7c6cc42084937105.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73e17f25ae61344be78da9ee0e8c6d5980a3edb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-11644579-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> アイリスオーヤマが政府備蓄米を１万トン購入　６月２日からの販売目指す
+      <a href=https://news.yahoo.co.jp/articles/b290df002fcf2ff56fe51e05e1cf3496cea4765b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270355-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、打球速度115マイル以上の本塁打は2021年以降トップ26度目　２戦連続先頭弾19号
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcb940e44d205e6231aa9ec6e7a3777a68180978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000004-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャースのキム・ヘソン、せっかくスタメン出場したのに「無安打＆失策」...韓国メディア失望
+      <a href=https://news.yahoo.co.jp/articles/a65936a6c0ea66a6aec83df0901203d1b4524d14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346082-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 【卓球】早田ひなが世界選手権で感じた手応え「暗闇のトンネルの中ではあるけど…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0de34c4790930a2f370b0984ed88f549e73a3cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938342-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 男子ダブルス64年ぶり金の戸上隼輔・篠塚が互いを賞賛「メンタルお化け」「安心感」ロス五輪での金誓う
+      <a href=https://news.yahoo.co.jp/articles/2cc085590e1001d7da32e268c7e35cf3692fbc83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08255814-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ガス管工事現場で複数回爆発　8人ケガ、周辺にも被害　東京・江戸川区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/414c1b744168c75e489c1b6be9f8b4f997226ebc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 軽油販売6社がカルテル疑い、公取立ち入り
+      <a href=https://news.yahoo.co.jp/articles/9a45d5806956b434a1ddff949a1e980a30c0ffba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08155297-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> 6月2日販売開始へ、アイリスオーヤマが1万トンの購入申し込み…備蓄米「随意契約」による売り渡し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06dbd4cb8b5fce6557d54846f28506bada2a4918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050060-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ウクライナの「ロシア国内の軍事拠点攻撃」容認…ドイツが供与する長射程兵器の制限撤廃
+      <a href=https://news.yahoo.co.jp/articles/619ffa669cad9f4e35a468ea0890820a8044fc0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-16640317-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> ロシア、トランプ氏は「感情的」と　プーチン氏を「狂った」と非難したことを受け
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540195>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米の随契 申し込み19社を発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/49b96c37967a3329df72787af22d59ad03086b14f11b426744c82add42948e5b.jpg> 備蓄米の随契 申し込み19社を発表
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/739919925d5d333e3d67039bbe444b4197ce4ad6b510387d59021dd539cceabe.jpg> 江戸川区で爆発か 車両など燃える
+      <a href=https://news.yahoo.co.jp/pickup/6540198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/cc8e89cb46083d8eb4e315918a4c872ba8299259f7ad2130f84518c836d66df5.jpg> 重機がガス管損傷し爆発か 江戸川
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 12:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 12:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
