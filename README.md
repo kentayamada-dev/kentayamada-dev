@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee8f7a3e81f7f02ad227f5bf113d7aec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9219d56f57aec38494f44c4f3e1c0b4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5fffb3a178ea3906321378f8abc5eb8c5dccbdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000113-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 中日・ブライト健太、幻のホームラン直後…気迫の一振り同点打　重苦しいムード吹き飛ばし、金丸の負けも消した
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c022b73843dd2c9fa3d989b280e24c07390c9d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050177-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 備蓄米、ドンキ・サンドラッグ・オーケーは「１万トン超」申し込み…６月１週目にも店頭へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12fae176a5f8e3f146dae645fc10fbabaadfd81e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27968eb379e9cdaa1d729f3c3ef0907ef4bddb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000098-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=977&ch=977&exp=10800&fmt=webp> 自民・河野氏「毒入りあんこ」　年金法案修正を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/568d147e006cfb9eb2e35d213e9dd60e7c9bf2a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21940321-rkbv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」申請開始　福岡のディスカウントストアも申請「5キロ1000円台を目指す」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/38cc10d0bf38341f17615295a3c4ac897eee3f209de2981937753317ca29c94d.jpg> 「ヤクルト1000」苦戦 ブーム一巡
+      <a href=https://news.yahoo.co.jp/pickup/6540251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/8cdafbd4ef122ef881ef2a51dce9002ca24a1666f1bd6c0d2106988f11b3fddf.jpg> 兵庫県 立花孝志氏のXに削除要請
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 20:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 21:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
