@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1ca7b800230c2e8c872e6c30bcbfa37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84df13200fe4c76e84d2f43deaf95387.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa550471bcd2896dbaf08325baa29876d1bf06b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025897-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 精米どうする？“玄米のまま”販売も…“随契”申し込み続々で「いったん休止」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/992af1fae30c7b63615978395f396652d8fc9636>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/753adb069960d5f54eeb9b2ba2101c35b370c423>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000086-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米、随意契約分全て受け付け終了　大手小売業者、申請殺到で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a653a0d2bdf6b068bf01f4a76ff21596107df75c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01175614-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小泉農相、備蓄米放出「菅内閣を支えた経験生きている」　コロナワクチン接種の手法を参考
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 02:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 02:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
