@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abcc9ba9acf81f64f5943368b2affa2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a743093c113e1b1ee8338f2d77c5fda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f482e43769dabe2e1ba3004a316bcab9385bfeba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271020-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が先頭弾＆２四球　山本由伸も５回１失点で６勝目権利
+      <a href=https://news.yahoo.co.jp/articles/2fa9256254adf05e68523d0f0c827140c481b528>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270202-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 小泉進次郎農相「予想以上の好スタートでした」備蓄米の随意契約初日　社数と数量を公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5cb87edd9ad92a2b9e83c254946112174446f760>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761889-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の19号に「See you later」　敵地放送局8秒沈黙で“お手上げ”「アンビリーバブル」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3ec0aa780cb22706bc2e4d57bcf1f4cde1387b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239091-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 年金制度改革めぐり「基礎年金底上げ」修正案　きょう午後に与党・立憲の党首会談で正式合意へ
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be0d2ba93c83b23ab5b7bbb195b835be3d13e20d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドイツ首相「射程制限設けず」　ウクライナへのミサイル支援、長距離タウルス供与に布石か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e008f9e0a9652e8f790ff861951d7d7c5c6ec60c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000134-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　コメ価格、また過去最高値更新「短期的なこととともに長期的な視点でもコメ農政を考えてほしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/605a19b52bca6f92e0e7421c02d72b349037f4fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250526-00050195-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=245&ch=245&exp=10800&fmt=webp> 基礎年金底上げで立民修正案「丸のみ」、少数与党は「不信任」回避の思惑…立民側は成果作り優先
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/66744d0aa20ed0009dff8186339653c1ba8caaf6d3ac09444e8e0ea6d9c10213.jpg> 備蓄米 アイリス6月2日販売目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540169>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/04d50921a81e683f172ffe709c903b55878194ea7ac943a7ba099709480f2066.jpg> UFJ銀 生保出向受け入れ原則廃止
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 2試合連続先頭打者弾
+      <a href=https://news.yahoo.co.jp/pickup/6540179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5164afb6b92939a52f0a76422d754807c367f058c5b7f9a5da4eb57523c46e95.jpg> キユーピー マヨネーズなど値上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/5b0fff4d8b1b8b126e8c73d445ad375d4153202c293b39d1ed5835262d46374c.jpg> 朗希 昨季もインピンジメント診断
+      <a href=https://news.yahoo.co.jp/pickup/6540168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/6ce5352416207fa9fa89490cebb72ebeaeebb2cb02a4d432185b75736f2a9a24.jpg> 行司が力士会の積立金を横領疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 2試合連続先頭打者弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 09:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 09:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
