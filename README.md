@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f9681c8a7cb3bb1680bd95a2dbf2abb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d26178621b57415abe85ee683c67a247.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f1714ee23ddf43338a4c6c54800109a0e7340cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 備蓄米の随意契約、中小スーパーや米穀店にも　円滑なコメ供給へ
+      <a href=https://news.yahoo.co.jp/articles/a1f96c0e9b1122e0d0693ec74861bddc3c83cc7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00977984-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元県民局長の私的情報　当時の総務部長が漏洩　第三者委員会「斎藤知事や片山前副知事の指示の可能性高い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b49138997f226abe8cd41183d17c194880ec022a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=570&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 年金改革法案　3党党首会談で修正で合意　将来的に基礎年金底上げも
+      <a href=https://news.yahoo.co.jp/articles/8ce0a05ad35b5c3920c4f7fca037bc6dac6bebec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90012947-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 政府備蓄米の“随意契約”　JA福井県が“生産者への影響”と“緊急時の備え”へ不安漏らす
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4d52f293721390c78fb9dd671c28d5b40c03df87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762051-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”　19号で米データ会社がリマインド「馬鹿げてる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01762051-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“忘れていた事実”　19号で米データ会社がリマインド「馬鹿げてる」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d1f3a96a6f841168b5a10ef72a1ad5acdd43d2b1800ccebcd4450e15a7b60891.jpg> 給食にビニール片 5歳食べ気づく
+      <a href=https://news.yahoo.co.jp/pickup/6540225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/38cc10d0bf38341f17615295a3c4ac897eee3f209de2981937753317ca29c94d.jpg> 「ヤクルト1000」苦戦 ブーム一巡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/38cc10d0bf38341f17615295a3c4ac897eee3f209de2981937753317ca29c94d.jpg> 「ヤクルト1000」苦戦 ブーム一巡
+      <a href=https://news.yahoo.co.jp/pickup/6540239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d1943861aa5e00f9a5ab61b1352b4c58f1de2c6108ed2968a1699ecdb3db6c8b.jpg> DQ1&2の発売日決定 新キャラも
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 18:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 19:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
