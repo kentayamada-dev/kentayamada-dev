@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abe5037115e26d44555efb94c8d845e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/557bfe90329ade79ca3fcd5ecda638c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86d4c52122ea4da28bbac041ab2d467ec5e5baac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-05271245-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 大谷翔平　２戦連続初回先頭弾でイチロー、松井秀喜に続くメジャー通算６００打点
+      <a href=https://news.yahoo.co.jp/articles/992af1fae30c7b63615978395f396652d8fc9636>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000033-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 大谷　2戦連続先頭打者弾でMLB単独トップ！プレーボールから7・6秒の衝撃音　投手心理を熟知
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 01:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 01:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
