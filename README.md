@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/202999c22a129810df024120c4b41678.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f806d5816e4c4503d4417c792b779ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f296d5ca8bb898661580804076a3210849f938c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-05271046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「本当に心強い」　山本由伸が先頭打者アーチの先輩に感謝　自身の最近４登板で３本塁打
+      <a href=https://news.yahoo.co.jp/articles/b0de34c4790930a2f370b0984ed88f549e73a3cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938342-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 男子ダブルス64年ぶり金の戸上隼輔・篠塚が互いを賞賛「メンタルお化け」「安心感」ロス五輪での金誓う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b362771fbe81187b5968fd7f3bc22c1a4a1616f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90025821-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米販売「利益求めない」5kg2000円　随意契約に流通大手が次々名乗り
+      <a href=https://news.yahoo.co.jp/articles/3f7bf66d72b364701134358674605f9d812e5bbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 小泉農水相、随意契約の新方式を発表　備蓄米5キロ2000円・6月初旬にも店頭に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/414c1b744168c75e489c1b6be9f8b4f997226ebc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 軽油販売6社がカルテル疑い、公取立ち入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24ad78e89b5762966a8717eb42a1f6cfb93d5002>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761663-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「得意なゾーンに投げてしまった」　ド軍監督がプレーボール弾に賛辞
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06dbd4cb8b5fce6557d54846f28506bada2a4918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050060-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ウクライナの「ロシア国内の軍事拠点攻撃」容認…ドイツが供与する長射程兵器の制限撤廃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1b5b3dedcfe2f754a9759746dab8785ba29d779>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346063-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が２試合連続の先頭打者弾！ １９号は両リーグトップ　３得点で連敗ストップに貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3ec0aa780cb22706bc2e4d57bcf1f4cde1387b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-07239091-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 年金制度改革めぐり「基礎年金底上げ」修正案　きょう午後に与党・立憲の党首会談で正式合意へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050060-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ウクライナの「ロシア国内の軍事拠点攻撃」容認…ドイツが供与する長射程兵器の制限撤廃
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ea524e0a7a82fb8b3e74d2097b1094d65d66f4f2c77134c326fe110e70abb8fa.jpg> 東京駅で広告費お菓子箱だけ なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6540183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/146184aa00fcdc65220f0279bfefd6dd45e50661cfee1e1e3451820efdf2c1a1.jpg> 冷房「-1℃」と「強」お得なのは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 11:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
