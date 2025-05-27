@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dea0e878677403373262e41f683db9fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23081a35068bcf2d943d34a39adefebb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63344a6cd4810af88d7f1829b7b475caaf917bf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 私的情報漏えい　斎藤知事、自らの処分「給与カット含め検討」
+      <a href=https://news.yahoo.co.jp/articles/3193311e535b5b7939767a656c30eb19a7784596>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08842432-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【備蓄米】ミスターマックス「税抜きで5キロ1000円台」目指す　仕入れられない店からは諦めの声も　福岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63365482224498198ba90e96f8f48c1290dacc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-09711483-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 2000円台で販売に懸念「適正価格があると思う」備蓄米の随意契約　流通に期待の声も　北海道
+      <a href=https://news.yahoo.co.jp/articles/03ba6a2991bc53b46796b35eb3bcd6f9e8889399>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00977902-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】第三者委員会「知事らの指示受けた可能性高い」兵庫県・斎藤知事に関する告発者の私的情報漏えい問題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/045bdadbe464db0b5b0142784f72028c66a539e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00541031-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷が打ったのにLA実況席が黙ってしまう　「ハッハー！」大はしゃぎ→沈黙のギャップ、敵地は淡々
+      <a href=https://news.yahoo.co.jp/articles/30ac3d5efa1e54b5ae8ca46cefd530ab6df74847>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-06915719-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が今季5度目の先頭打者HR　5月は12本塁打で現在57本ペースでHRを量産
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
+      <a href=https://news.yahoo.co.jp/articles/546b801c1105f0b7d4d535ffe407fb79d7691363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000049-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 立憲・小沢氏「不信任案が通るなら出さない?　国民を馬鹿にした話」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/1369e8172eec09501c4f156e901a9afefd1c4f2d1d25c14cf77e5bf41d99b550.jpg> 安倍氏銃撃 初公判「今秋以降」か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540221>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/30e9024e0ec5c1c1b5a54281b478a34d5ab216ac3f1806c725ed53364de73975.jpg> 斎藤知事 漏洩「指示していない」
       </a>
@@ -418,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e77075b2d6a264be103a7b0bbc1cad4ae3619355ba9f6e0cbe925607bd50bd84.jpg> 日産 内田前社長らに報酬6億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/4b4e2ef72e807bb3861fea428df84ebe086f6df40b5cb746734c346629365d7d.jpg> ハーバード大 日本人教員語る混乱
+      <a href=https://news.yahoo.co.jp/pickup/6540217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b17c7d07fbf7a0369aa35d8a402a92086f99fc0c96d458d49c51eb2c720f7a19.jpg> 女性暴行の公判 米兵が無罪主張へ
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/a42d32ecf797182c0645c11f629790606a4cf171ce83d5b662e9ad67018696e3.jpg> 心ない言葉も トイレ清掃ボラ30年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540215>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/3ee2e012e39cf29ad17037c7a4959790907257ad334c7fbafbe8d9e632d152e5.jpg> 重岡銀次朗引退へ 緊急の開頭手術
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0e8ab5da31472a3a37939f27a869925045a4fae9081361670d9e7205c7006349.jpg> 2025年 著名人の出産報告が相次ぐ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 17:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 17:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
