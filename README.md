@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9219d56f57aec38494f44c4f3e1c0b4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20dcd035e3a1f52eea0def9be0df7476.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5fffb3a178ea3906321378f8abc5eb8c5dccbdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000113-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 中日・ブライト健太、幻のホームラン直後…気迫の一振り同点打　重苦しいムード吹き飛ばし、金丸の負けも消した
+      <a href=https://news.yahoo.co.jp/articles/1e3e778a9088358303f7b63e5feffa73e18dd612>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271460-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【中日】金丸夢斗援護できず連敗、借金今季ワースト６　ブライト適時打で一時同点も勝野つかまる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c022b73843dd2c9fa3d989b280e24c07390c9d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00050177-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 備蓄米、ドンキ・サンドラッグ・オーケーは「１万トン超」申し込み…６月１週目にも店頭へ
+      <a href=https://news.yahoo.co.jp/articles/a0aac75a0a8e1be096531740f8b8385523033db3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-90051069-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【備蓄米】店頭にいつ？2000円？北海道にも店舗あるスーパー・ドラッグストア含む19社が"随意契約"申し込み 事業者に直撃すると…高騰の救世主か？消費者は「何年産でも気にしない」「本当に価格下がるか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12fae176a5f8e3f146dae645fc10fbabaadfd81e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
+      <a href=https://news.yahoo.co.jp/articles/7b16b066eada011eac8e95caf8d27db64ccc8953>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00541113-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山本由伸、大谷19号に送った一言が話題　「いや、あなたもよ」「今さら言っちゃう」普段とは逆の展開に
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/7f8bb79f2a6085615388d26b57fcbfb1228c21dca5f66aa924fa759ed400cf3d.jpg> 中日監督が猛抗議 審判に詰め寄る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540242>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/23e9ae3c275147049c7afd0508c33bdfb44c85c8a1d8ea60976d5d323fcc567a.jpg> ドラマ恋は闇 ロケ地巡り注意喚起
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 21:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 21:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
