@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a743093c113e1b1ee8338f2d77c5fda.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7fce377388a11635fde227ca7a69c600.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fa9256254adf05e68523d0f0c827140c481b528>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270202-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 小泉進次郎農相「予想以上の好スタートでした」備蓄米の随意契約初日　社数と数量を公開
+      <a href=https://news.yahoo.co.jp/articles/7ebd2f8e3a2e9063acca9f5b3b1a656ee927cd54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270233-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、第５打席は捕邪飛　２試合連続の19号先頭打者アーチ、メジャー通算６００打点に到達
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cb87edd9ad92a2b9e83c254946112174446f760>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-01761889-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の19号に「See you later」　敵地放送局8秒沈黙で“お手上げ”「アンビリーバブル」
+      <a href=https://news.yahoo.co.jp/articles/2fa9256254adf05e68523d0f0c827140c481b528>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270202-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=910&ch=910&exp=10800&fmt=webp> 小泉進次郎農相「予想以上の好スタートです」備蓄米の随意契約初日に手応え　社数と数量を公開
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d168f56337e39b1a2b90d57aebe8efaf4e99075>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000010-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 櫻井翔主演ドラマ“占拠シリーズ”最新作は「放送局占拠」、大病院＆新空港に続いて3カ所目
+      <a href=https://news.yahoo.co.jp/articles/a685d427c9ab54777fbe20eb88e0f758b401944a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000003-ibaraki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 大の里　横綱確定　「実感湧いてきた」　横審推薦　日本出身、稀勢以来
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/04d50921a81e683f172ffe709c903b55878194ea7ac943a7ba099709480f2066.jpg> UFJ銀 生保出向受け入れ原則廃止
+      <a href=https://news.yahoo.co.jp/pickup/6540180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/28c032133f4f4d34f1665794e605ca46081a7d90f364808097557afbc129093a.jpg> 日本の給与「6割が平均以下」実態
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ea524e0a7a82fb8b3e74d2097b1094d65d66f4f2c77134c326fe110e70abb8fa.jpg> 東京駅で広告費お菓子箱だけ なぜ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540168>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/6ce5352416207fa9fa89490cebb72ebeaeebb2cb02a4d432185b75736f2a9a24.jpg> 行司が力士会の積立金を横領疑い
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/ca501b250168c4c5ec78549b028dd5f8449e45ac942e9b5e9d78505aac7a75de.jpg> 大谷が19号 2試合連続先頭打者弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c0a6749330c6ae48a1b89236216d97af7e8808d165a6ea643dbb8c6b934bea7a.jpg> 櫻井翔主演「占拠」第3弾は放送局
+      <a href=https://news.yahoo.co.jp/pickup/6540182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/f8e804f600529dc4a8dc167e53ab9f21d6a30f8642c49887e2063709378fdcce.jpg> 由伸ファインプレー ピンチしのぐ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 09:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 10:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
