@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0088e5cd0ba544ce88ac208aaba5399.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d253ce55c2f682d42d8e3d3f1f98b1f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12fae176a5f8e3f146dae645fc10fbabaadfd81e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35271192-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平が弾丸19号　21年以降、速度115マイル超え弾はメジャートップ26度目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/27968eb379e9cdaa1d729f3c3ef0907ef4bddb83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民・河野氏「毒入りあんこ」　年金法案修正を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/568d147e006cfb9eb2e35d213e9dd60e7c9bf2a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21940321-rkbv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」申請開始　福岡のディスカウントストアも申請「5キロ1000円台を目指す」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80f4efb1c5597b1a06daab2e0049fb32c5673810>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000048-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 木村拓哉『教場』映画化、視聴者が察していた “予兆”…出演が予想される “イメチェン” 若手俳優とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e73dc3b580a5483120982a3023a92a207fd5733>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アイリスオーヤマ、備蓄米はネット中心に販売　随意契約を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0472f63dd87b4e16b563f162cd640b799312a903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000074-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 新聞記者 飲酒運転し事故　4日後に警察へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f45bd6c2bad259746e2f537b53f4c97b78cea1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270833-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ロバーツ監督が絶賛「ニトロゾーンに引き込んだ」大谷翔平２戦連続先頭打者弾＆米通算600打点
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/091cb1631c1e41970bf0eb782bcf8f17080ef2b95893a70dab6ddcd01bf9421b.jpg> ファミマ備蓄米販売へ 1キロ400円
+      <a href=https://news.yahoo.co.jp/pickup/6540240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/9ae10545c3d33e90eaa6b164ac01c275ae5e3ecb16be01b8abd43ea27647f943.jpg> 斎藤知事 自身の給与カットを検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/9df97129eb81938392b71fc231793532434be032f8560adafe626071e0fe0058.jpg> BYD株続落 激しい値引き合戦懸念
+      <a href=https://news.yahoo.co.jp/pickup/6540245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/b22a381145b6da1eefa0a19670c59e3be073e82d874d7437365a9c097ddd2555.jpg> 70km/hでバック2人死傷 懲役12年
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d1943861aa5e00f9a5ab61b1352b4c58f1de2c6108ed2968a1699ecdb3db6c8b.jpg> ドラクエ サマルトリアの妹姫参戦
+      <a href=https://news.yahoo.co.jp/pickup/6540242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/857c95712e0cc4b888b0921ededfca14c045d1e3dbf9368573d49d017c4cf262.jpg> 重岡銀次朗が緊急開頭手術 ICUに
+      <a href=https://news.yahoo.co.jp/pickup/6540248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/23e9ae3c275147049c7afd0508c33bdfb44c85c8a1d8ea60976d5d323fcc567a.jpg> ドラマ恋は闇 ロケ地巡り注意喚起
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 19:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 20:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
