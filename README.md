@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCY0JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5ff901360cf90db7c6cc42084937105.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e63ae365c148cdfd94d0568f84019d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b290df002fcf2ff56fe51e05e1cf3496cea4765b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270355-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、打球速度115マイル以上の本塁打は2021年以降トップ26度目　２戦連続先頭弾19号
+      <a href=https://news.yahoo.co.jp/articles/c665ccd5538580b8012be2a1efe373b0ebb1fbc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-10180418-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、相手監督に“強烈すぎる”ご挨拶…にっこり笑顔で会釈→即ホームランが「不憫すぎ」視聴者も同情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a65936a6c0ea66a6aec83df0901203d1b4524d14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00346082-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 【卓球】早田ひなが世界選手権で感じた手応え「暗闇のトンネルの中ではあるけど…」
+      <a href=https://news.yahoo.co.jp/articles/e2f63317c4368c27b40d132996c9ca07f64d3f06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000008-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=186&cw=1200&ch=1200&exp=10800&fmt=webp> 卓球・伊藤美誠、中国代表選手らと自撮り姿にファン「ほっこり」...「四姉妹のよう」「こういう交流は素晴らしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cc085590e1001d7da32e268c7e35cf3692fbc83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-08255814-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ガス管工事現場で複数回爆発　8人ケガ、周辺にも被害　東京・江戸川区
+      <a href=https://news.yahoo.co.jp/articles/1cffef1d135394f6db12de010e188a5922df6d26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ水俣病誤記「非常に残念」　浅尾環境相、教材に「遺伝する」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e22b1e4bca15b4d8f6151a950fc7894705895b51a557412dc02d6a3aa6faa16a.jpg> 電気ガス代支援3カ月で3000円程度
+      <a href=https://news.yahoo.co.jp/pickup/6540185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/aec190cda436e58cf86790d6eeef84f2072981a9e76688585153a63a40ceda27.jpg> 日本の対外純資産 世界2位に転落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/aec190cda436e58cf86790d6eeef84f2072981a9e76688585153a63a40ceda27.jpg> 日本の対外純資産 世界2位に転落
+      <a href=https://news.yahoo.co.jp/pickup/6540194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/67a1e279f76624af5aff12eb0cd5ff8b9e51c2f2225d999b754ac244208ed772.jpg> 百日せき 新規感染者数が過去最多
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 12:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 13:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
