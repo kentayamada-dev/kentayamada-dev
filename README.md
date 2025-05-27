@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/204229b823f2c50da927ce9f02999960.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c746397cbb8ba03f0e1332aa646899f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2e6f8d580800323655783c4f36d6b1dde9a4892>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938045-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米「6月上旬に店頭で2160円」小泉農水大臣「すでに6社が申請」新米“争奪戦”で価格3極化か　町のコメ店からは「農水省のコメ屋いじめ」との声も【news23】
+      <a href=https://news.yahoo.co.jp/articles/02ad4db289033c9e061cdad4b7da4f3fddb71dcb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000003-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> 元県民局長の私的情報、前総務部長の漏えい認定　議会への根回しで斎藤知事から指示か　兵庫県第三者委報告書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ba3c823233697fcc13347985b543c0e6b1243a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000042-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 堺市 解体工事中に3人倒れる 1人意識不明で搬送　「密室で発電機使った」
+      <a href=https://news.yahoo.co.jp/articles/d2c8c81d4eaccfcc420f6a1848573c62c0d9b342>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-35270527-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 【卓球】じわり伊藤美誠７位浮上　張本美和６位、早田ひな８位　最新女子世界ランク／主な上位選手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/715799c759a30af46e28f6a4368256696dbeba17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-21938838-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手量産モードへ　2試合連続先頭打者ホームラン　チームは7対2で勝利
+      <a href=https://news.yahoo.co.jp/articles/91a66797c724aafd959ca9945129c9ae991597e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ドジャース・ロバーツ監督、大谷翔平の19号先頭弾を絶賛「ショウヘイのナイトロ・ゾーン」… 羽虫の大量発生に乱されず「秒の一撃」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2f63317c4368c27b40d132996c9ca07f64d3f06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000008-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=186&cw=1200&ch=1200&exp=10800&fmt=webp> 卓球・伊藤美誠、中国代表選手らと自撮り姿にファン「ほっこり」...「四姉妹のよう」「こういう交流は素晴らしい」
+      <a href=https://news.yahoo.co.jp/articles/b5d6c1e6f20923de3147b45df51fd244ce1bc16a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00977618-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米30万トン販売「随意契約」にドンキ・ライフ・イオンが名乗り　“小泉米”5キロ2000円程度の見通し　契約対象外の中小店「最初からやって」と在庫懸念
       </a>
     </td>
   </tr>
@@ -402,24 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/49b96c37967a3329df72787af22d59ad03086b14f11b426744c82add42948e5b.jpg> 備蓄米の随契 申し込み19社を発表
+      <a href=https://news.yahoo.co.jp/pickup/6540210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0ba4e4dc65e14cdaa86455303d402f7f593d1463961a4922765dc8dbcbab623e.jpg> 兵庫知事が情報漏洩指示か 報告書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/d143408f7bcb60bfc9a3f5ed6d685a3bd0fde1158c43226ad30c65d0e06daeb5.jpg> 水俣病誤表記 トライに説明求める
+      <a href=https://news.yahoo.co.jp/pickup/6540193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/39d66cff6253c30b122d3bf96f934e5a0a8e07233e2685247ca9730ff8ff046d.jpg> 軽油販売 6社が価格カルテル疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/67a1e279f76624af5aff12eb0cd5ff8b9e51c2f2225d999b754ac244208ed772.jpg> 百日せき 新規感染者数が過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6540209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/e77075b2d6a264be103a7b0bbc1cad4ae3619355ba9f6e0cbe925607bd50bd84.jpg> 日産 内田前社長らに報酬6億円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/6a1b87b6099b581f4285f1613d96dd892ecffb30f076049538ac609fd4947907.jpg> 詐欺G統括を逮捕 計53億円詐取か
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c680c4a2c4ef341448044f1b743a1cd54622992876eeea6100f70203030d4d56.jpg> 沖縄県内 米海兵隊員の逮捕相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6540208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/a276b122f7c8b3eab68cc84b61bf411c100fbdc4ef25c63d5d5e7ed66b21d1ac.jpg> カピバラ脱走 すぐそばの森で捕獲
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540206>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/0f9104e41260e2d7f0cf38138830b66cc99509890f6f3f5abc27dea89aedf1fa.jpg> 由伸は「エースと確信」監督絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c8046dd10222dee0d11f7bbc95d77b743f9560afbe6716aec9fe6f95a36f4df9.jpg> ド軍退団 エ軍でいきなり8番中堅
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/27 14:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/27 14:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
