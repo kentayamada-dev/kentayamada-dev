@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1c67139bada7fe55cdddb88389f8089.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abe5037115e26d44555efb94c8d845e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0191726489dc2d29e96a324891642fe7e16b620b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250527-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=864&ch=864&exp=10800&fmt=webp> ドジャース・大谷翔平、打撃フォーム修正し自身2度目2戦連続先頭弾　メジャー単独トップ19号
+      <a href=https://news.yahoo.co.jp/articles/86d4c52122ea4da28bbac041ab2d467ec5e5baac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-05271245-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 大谷翔平　２戦連続初回先頭弾でイチロー、松井秀喜に続くメジャー通算６００打点
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 00:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 01:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
