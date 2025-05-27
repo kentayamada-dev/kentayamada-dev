@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3810877af6447cd0f29c119d172ef787.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2910e03fcd8a3214d226f3fad4fed7d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8625d9e5a902117da8e652e332f072dd4b6ed220>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180497-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、185キロ弾丸アーチで”まさかの光景”「怖すぎ…」「めっちゃ危ない」 野手の頭上を“爆速通過”→スタンドに突き刺さる
+      <a href=https://news.yahoo.co.jp/articles/52a8f1871ee8e435288498d72896a6a2874c3948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978250-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の随意契約　受付一時休止　申請が殺到…小泉農水相が発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f0bb648b8956bfd48604436b9f8f6a196e29287>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000068-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 備蓄米ネット販売　コメ詐欺に要注意　販売サイトに関する相談続々
+      <a href=https://news.yahoo.co.jp/articles/8625d9e5a902117da8e652e332f072dd4b6ed220>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180497-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、185キロ弾丸アーチで”まさかの光景”「怖すぎ…」「めっちゃ危ない」 野手の頭上を“爆速通過”→スタンドに突き刺さる
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eb45fc1bf04b5a1fafc7b96fc78bef863a9098289fca4d9f7484f762d28b79d9.jpg> 歩道で倒れていた男性死亡 捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540261>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/011b84519f46194dc101c1a6645c43023af1a3bc9133fc2c21306a6d7594b18d.jpg> 江戸川区で爆発 瞬間の映像
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540265>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沢井製薬など 217億円の賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/27/c52a108c031290c7c27ee22d7643a1ec547809059a8cd271ca1da9ec0747933a.jpg> 大の里 横綱になると月給300万円
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 06:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 06:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
