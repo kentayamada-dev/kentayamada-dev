@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b93bbc124f88c2fbc76c1fe523de07e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e2a28319c0aebb5eb95cf15e94f9425.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d48ffb964911a244714cb953c3f64ea6c1dfbb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000174-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1190&ch=1190&exp=10800&fmt=webp> ＴＵＢＥハワイ公演　開催危機に　４日前の段階でビザ取得できず
+      <a href=https://news.yahoo.co.jp/articles/b63475a08c6bc53c422aac35a53197b6befb4b69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000082-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=516&ch=516&exp=10800&fmt=webp> 自民党・岸田前首相「大きな決断ができる政治には、連立もありうる」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90af14de087d70e05140fc31a51329273158d647>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000369-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 玉木雄一郎氏　小泉進次郎農相との“対決”振り返り「モゴモゴ言っていて…はぐらかされてしまって」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01a224768d2251da3c88a6e56feed3cb0bc77837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000090-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 政府、骨太の方針原案に「コメ価格落ち着かせる」　水田政策見直しも
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c29af3461d55d44a7030d611ea49bd209a2e801285d5c314a628f6dc3697ddb8.jpg> 「通せんぼの人」に日給1.6万円
+      <a href=https://news.yahoo.co.jp/pickup/6540382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f65a82023c809339e132cbf33db568f5bf17d93ae5c90000d4e1961d97d90bfd.jpg> 渋谷や新宿を暴走 謎の自転車集団
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/401bf6323ad6c43d0241ffa249ca043b217d15a2f07958ae4b4206f1fc71a5e3.jpg> ワンピースに酷似 ゲーム販売停止
+      <a href=https://news.yahoo.co.jp/pickup/6540373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c29af3461d55d44a7030d611ea49bd209a2e801285d5c314a628f6dc3697ddb8.jpg> 「通せんぼの人」に日給1.6万円
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 22:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 23:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
