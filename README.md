@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc343aff0fc91d71831d68357d64b1ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f661525987ebe49209a2e7e8834cd5d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51ffc5dac47a93493bfbdfea00c2eda044985b90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978909-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が備蓄米の円滑流通へ協力要請　随意契約の中小枠は30日にも受付開始
+      <a href=https://news.yahoo.co.jp/articles/d1890560e61635151b21141198639b4a1e1618e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180769-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 政府備蓄米の新たな随意契約 米穀店とスーパーの“別枠調整”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef2cc4464745b509868f74e29631baa73292d7e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978907-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 留学生受け入れ“上限15％を”トランプ大統領がハーバード大巡り主張「留学生がいてアメリカ人が入学できない」留学生リストを改めて要求「アメリカを愛することができるか確認」
+      <a href=https://news.yahoo.co.jp/articles/ac56aa3acb832ea4b6abd4ca4f187d614a517cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000013-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　ハーバード大留学生は「15％程度に制限すべき」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf90208d7c26f290482f94c99cd2630172241ead>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-08211449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相、ハマス最高幹部の殺害を発表　停戦交渉にも影響の可能性
+      <a href=https://news.yahoo.co.jp/articles/1c654d1f27a069f6fabc5d8ae273dda1be57ce80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000007-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 最高幹部殺害、ハマス側は否定 「病院空爆を正当化するための虚偽」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7772f1305828cb997391c29939270beb9e4f027f3bb19ab3b327aea0cce6e146.jpg> ドコモ 住信SBIを子会社化へ調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540392>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/1c1fbe309ed1204a2f0470735c9401b945e23472fe3351fda1a4887a9756a509.jpg> 備蓄米放出 街の米店から怒りの声
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540393>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/16597f64d1877d0508f795a05e034cb392360ff70c9b22d9b94ff43da8876b99.jpg> ハーバード留学生15%に 米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/133ea37fc5f1dfea9cb59ec47bd98e2d4571ad23f474a42616d2336a311b363c.jpg> 息子2人を殺人未遂疑い 母親逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 07:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 07:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
