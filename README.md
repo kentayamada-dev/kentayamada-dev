@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e10e5502a1eccf20d392e765535c53fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc343aff0fc91d71831d68357d64b1ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf90208d7c26f290482f94c99cd2630172241ead>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-08211449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相、ハマス最高幹部の殺害を発表　停戦交渉にも影響の可能性
+      <a href=https://news.yahoo.co.jp/articles/51ffc5dac47a93493bfbdfea00c2eda044985b90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978909-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が備蓄米の円滑流通へ協力要請　随意契約の中小枠は30日にも受付開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1578c1135b6298ae2dac5df27b65da8a6447564e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00365506-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 残念ですが、小泉進次郎大臣でも米価は下げられません…「5kg2000円」の備蓄米がもたらす「悪夢のシナリオ」
+      <a href=https://news.yahoo.co.jp/articles/ef2cc4464745b509868f74e29631baa73292d7e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978907-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 留学生受け入れ“上限15％を”トランプ大統領がハーバード大巡り主張「留学生がいてアメリカ人が入学できない」留学生リストを改めて要求「アメリカを愛することができるか確認」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf90208d7c26f290482f94c99cd2630172241ead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-08211449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相、ハマス最高幹部の殺害を発表　停戦交渉にも影響の可能性
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/16597f64d1877d0508f795a05e034cb392360ff70c9b22d9b94ff43da8876b99.jpg> ハーバード留学生15%に 米大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540390>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/133ea37fc5f1dfea9cb59ec47bd98e2d4571ad23f474a42616d2336a311b363c.jpg> 息子2人を殺人未遂疑い 母親逮捕
       </a>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f65a82023c809339e132cbf33db568f5bf17d93ae5c90000d4e1961d97d90bfd.jpg> 渋谷や新宿を暴走 謎の自転車集団
+      <a href=https://news.yahoo.co.jp/pickup/6540394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dfefeb6b7dae2854e4ab7360ecb36b8b975716ae486e3c870c41ca6f6c1f0eda.jpg> 温浴施設 体調不良など訴え47件
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a461fb38511a8da7377c501eb40940ee0b0821c7b214631b6d51a902d4c9dd2.jpg> 異例 女子10000mレース途中で中断
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 06:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 07:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
