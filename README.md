@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52502192ea5869c278f7118ce49eebe9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6fda9b319e0e79c042746c34c6dc5d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6522dd2349d0fcc4510243fba99101b54f70918c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978327-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 死因は溺死か…生後4カ月の赤ちゃんを浴槽に沈めて殺害した疑いで母親逮捕「育児していく自信なくなった」容疑認める　千葉・松戸市
+      <a href=https://news.yahoo.co.jp/articles/7e964891bb31125a0de3eddd73758f863790b136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21940475-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「備蓄米」 契約相次ぎ随意契約の受付を一旦休止　見えてきた課題…「精米」「パッケージ」で目詰まりに? 重すぎて「輸送」も大変【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87d6ec45123c92cda2066eb47aeaa8cff2afe502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-06915655-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米「随意契約」一時休止　令和4年産米上限到達見込み　契約申し込みは約70社に
+      <a href=https://news.yahoo.co.jp/articles/a33217532e68f0891e4f0103181af73886e716b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=157&cw=533&ch=533&exp=10800&fmt=webp> 乳児殺害容疑で母親逮捕　「育児の自信がなくなった」　千葉・松戸
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/799250aefa0bf5248b82287e41fb6422a3f3b3718f0ff887e849f21fd53225d9.jpg> 川崎20人殺傷事件6年 現場に献花
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540306>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b89cf4e31362e71d1eb6600c71aaf5cef1608cb71638eb0f70fdfb5f5f5bc09c.jpg> 旧姓使用 海外でトラブル後絶たず
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0be7d0686f0a497a0d56bb0de554cf04cb7619d35fafde9398758719cfc66307.jpg> 路上で倒れていた男性死亡 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/a24990e755c05e7c9d35a8da5bf553d7c4a5b4880b2199aff7c7368d6062ab37.jpg> 申し込み少ない古古古米 どんな味
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/90a51d0be64f4ee7154392f892e8ea68be8a0f360b0a088d10733a97cf325a7f.jpg> 大谷20号 自己最速&年58本ペース
+      <a href=https://news.yahoo.co.jp/pickup/6540310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4e20aae02dc0e8e264187a88db07636c74dd847095c942381a8f9678e61a4f32.jpg> 綾瀬はるか 最期は笑って迎えたい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4e20aae02dc0e8e264187a88db07636c74dd847095c942381a8f9678e61a4f32.jpg> 綾瀬はるか 最期は笑って迎えたい
+      <a href=https://news.yahoo.co.jp/pickup/6540308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/799250aefa0bf5248b82287e41fb6422a3f3b3718f0ff887e849f21fd53225d9.jpg> 川崎20人殺傷事件6年 現場に献花
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 12:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 13:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
