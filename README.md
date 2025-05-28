@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d83c139f354dd57fcab6eeb2f3219552.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f8f3b495f40e572be6331b00fdee97c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd8bc467bad0d005bf12d368238963cfb3c93b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00036921-jprime-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「国民は家畜のエサでも食ってろと」小泉進次郎の“５キロ1800円・備蓄米”流通のカラクリに不信の声
+      <a href=https://news.yahoo.co.jp/articles/af5b4fbb8532acfdabc558bc1d8025ec10257eb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025946-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 海外に激安の日本米、“2000円台”の謎　逆転現象が起きた理由は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8bc580ca7bfa4621238f7572a5e622ce10870e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941443-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】国民民主党・玉木代表「どこから備蓄米を調達するのか」　小泉農水大臣に備蓄米めぐる方針に懸念示す　国会・農水委員会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e4dcc98cffdc6ee8aa2b66c6b94928dad69f9d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180653-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、レフトスタンドへ今季20号の2ランHR チームは9対5で勝利
+      <a href=https://news.yahoo.co.jp/articles/78250b3637b798484f39b26dd16f6dbcfe7061c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000004-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《結果的にまた高値になる》小泉進次郎・農水相が打ち出した備蓄米放出の新方式に潜む落とし穴　「備蓄米が尽きてコメ価格が上がるのを待つ」業者の思惑
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/07a5f3905e4960feaf1e42ac164085bb8dc8274823b3e22d88d5e45195864e7e.jpg> ホタテ高騰 バイキング店は悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6540330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a308206b0bfb6438b6c35a92c4eafb88e71b1899b431925849aa2e992fbaf8a.jpg> 電話怖い 言葉への責任感強い若者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/a3785ffa189edfbd4671e1db41f0e52470679e9422ef1ea298910ca13decf8a1.jpg> 配信者が迷惑行為 ROUND1発表
       </a>
     </td>
   </tr>
@@ -450,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0e6513e6f67b00b5e44e0e99e50fae651b4224d8ce2762eba1cce0d36b5a2b8a.jpg> 歌手の久保浩さん死去 78歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540322>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02226102/title-1748393197874.jpeg?exp=10800> 梅宮アンナ結婚 決断支持の声多く
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 15:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 15:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
