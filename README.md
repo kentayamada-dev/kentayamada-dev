@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0aec2c3bf7afb91a42088c14b6c4511e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4fdad05ba1b00b79b2d12aa400669b5d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c24c80800ce6cf34965383ad507f1249b1749b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239465-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 随意契約の備蓄米の運送で協力要請　小泉農水大臣と中野国交大臣が会談
+      <a href=https://news.yahoo.co.jp/articles/b914396f908631949b2c040f843b4357a71b1b03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239489-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「随意契約」備蓄米販売の課題“精米”“パッケージ印刷”　小泉進次郎農水大臣がコメ卸売団体に「精米フル稼働」の協力要請　円滑な流通へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/952a7384a6666f75e02ba6bd3d884454107b3abf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高速道路3社、深夜割見直し延期　4月ETC障害で、開始時期未定
+      <a href=https://news.yahoo.co.jp/articles/f7dc63f2b0e4775730cec2ef6e1c339d140afb4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00051454-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=605&ch=605&exp=10800&fmt=webp> 高速道路の深夜割引見直しさらに延期　ＥＴＣ障害受け「より慎重なシステムの整備が必要」　滞留問題解消へ対象時間拡大
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/13ae6b60828fa0a2a91161b0b8e70dca2cd7d5bb69ac2a434aee0bc625cfdda5.jpg> 大川原 裁判長は以前も画期的判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540338>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d7c71f696d688edb388641efe661ca9beb4137084bd9ccb72b18169096945ad0.jpg> 備蓄米の契約受付一旦休止 課題
       </a>
@@ -402,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/921d759a9bc8170ba0409b199e00c535bf28cccceaa65283ca76b5e0d785d38e.jpg> 部活 外部指導者にも「処分指針」
+      <a href=https://news.yahoo.co.jp/pickup/6540339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f489ed7b43ea7c2fece700b54f95c5af23a1410ff365ce4ba5b985016ef3cb8b.jpg> 斎藤知事 処分は「給与カット」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5c994195934a2d275edc937cb6e901a031f68545f5def866be356aeec6013c42.jpg> ボートで川下り中か 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/78519b7c471ffb053a5f54ab550bcf3bbc0e11445dc00cffd5f2a4d605acb864.jpg> 旅館でノロ 中学生ら36人症状訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540347>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02220702/title-1748322052289.jpeg?exp=10800> 復帰→休職 なぜ繰り返す人多い
       </a>
     </td>
   </tr>
@@ -434,22 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/a3785ffa189edfbd4671e1db41f0e52470679e9422ef1ea298910ca13decf8a1.jpg> 配信者が迷惑行為 ROUND1発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f19d889ea9872a06618ce884b354b56acbdbf5e7a99e01347ef735e000f414d5.jpg> 代表復帰のMF佐野海舟 謝罪会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540343>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/2fa07aa13d0d36656f2280610627a8386666f5684e6d2b6c5b81ad3126453566.jpg> TBS 高比良くるまの復帰経緯説明
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 17:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 17:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
