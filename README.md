@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5f6497a4820e985ca216d958499dd6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6008c5b003b1e5fb26bebaca35862f95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fbe9ee4709909c8da13bb35db69e53a557dacd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280644-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 「備蓄米」を「小泉米」と表現の一部メディアにＸ違和感「いつからブランドに？」「失礼すぎる」
+      <a href=https://news.yahoo.co.jp/articles/eacbd6335d970430a353760bb3f77199268493ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010002-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「漏えいに関する指示はしていない」斎藤知事改めて否定　元県民局長の「私的情報漏えい」　第三者委員会が「斎藤知事らの指示で行われた可能性が高い」指摘　元総務部長たちが「知事の指示あった」と話していることは「それぞれの認識を話している」と見解示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f96e7de2f675980d8d9ca71bfadf59a185012053>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00079359-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「現場を知ってるわけではない」小泉進次郎農相“コメ価格2000円”に森山裕幹事長が厳しい見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d58bfd79523ab83120f45c6b917e236c805f81ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180686-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=658&ch=658&exp=10800&fmt=webp> 小泉大臣「すみません。八幡さん初体験なので」 委員長「八幡君、ちょっとゆっくりお願いします」米価格めぐり“国会混乱”
       </a>
     </td>
   </tr>
@@ -371,35 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78250b3637b798484f39b26dd16f6dbcfe7061c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000004-moneypost-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《結果的にまた高値になる》小泉進次郎・農水相が打ち出した備蓄米放出の新方式に潜む落とし穴　「備蓄米が尽きてコメ価格が上がるのを待つ」業者の思惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a578bed70052ed6689d1fafee3863ea6a508dab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00346240-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田剛典　日本人のパスポート保有率およそ１７％に驚く「人生一度きり。ぜひ行ってほしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d2bc8081bdde3e077c047d3536c0641b8f665f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-09477949-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日鉄のUSスチール買収計画めぐり…米政府が“拒否権行使できる株式”保有案が浮上
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d7c71f696d688edb388641efe661ca9beb4137084bd9ccb72b18169096945ad0.jpg> 備蓄米の契約受付一旦休止 課題
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540327>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d7c71f696d688edb388641efe661ca9beb4137084bd9ccb72b18169096945ad0.jpg> 備蓄米の契約受付一旦休止 課題
+      <a href=https://news.yahoo.co.jp/pickup/6540340>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ボートで川下り中か 男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ef08971870bedbc34c5503c3f38bf7bf9fe1365d5dd895da6f8bc77d4da14463.jpg> 息子が母の詐欺容疑に気付く 逮捕
       </a>
     </td>
   </tr>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4cc3c121465cd146108473ea1e5e0edcc3d9b032fe328900af2825d431a714c3.jpg> 天下一品 首都圏で大量閉店の背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f19d889ea9872a06618ce884b354b56acbdbf5e7a99e01347ef735e000f414d5.jpg> 代表復帰のMF佐野海舟 謝罪会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4dbf4be66ec108f79635ca4439ab56c77c7e0a42f2ec1dfc233929d205bbfe9d.jpg> 岩田剛典 家族旅行で母うれし泣き
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 16:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 16:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
