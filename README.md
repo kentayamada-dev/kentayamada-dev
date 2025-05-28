@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18d3649235c436fbf7307bdbfd218464.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f36557962d27ced230b5204c208d11a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0000cb5c6a3ab65eddc715ef81bb1b1690a111c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07533947-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米『古古古米は5キロで1800円程度』　関西では味への懸念や「農家のこともわかって」との声も
+      <a href=https://news.yahoo.co.jp/articles/8ee2f3ca20457ccca4b99cda1b8dd6270f08257c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574719-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=466&ch=466&exp=10800&fmt=webp> NCT WISH、ホワイトスーツで登場 2年連続出演に意気込み「去年はデビューから50日目だった」【ASEA 2025 レッドカーペット】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e2d09ae4cd201ca80c0ae4066b85bc080becc6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574931-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=466&ch=466&exp=10800&fmt=webp> IVEレイ、美肌輝く純白ロングドレス姿で登場「白鳥になったような」THE BOYZジュヨンと息のあったやり取り【ASEA 2025 レッドカーペット】
+      <a href=https://news.yahoo.co.jp/articles/de04c2a01eceef720d6cebdb7f03db875ec03404>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-11645065-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 政府備蓄米　米穀店も随意契約へ　販売店は不安も　生産者は新米価格を心配
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f8628c7de3a0d3df02203b902003581ca0efa0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978577-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> 野党3党トップから備蓄米放出など政府対応に懸念の声　小泉農水相との“直接対決”終えて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d77df8689c9c92de185e8437eb7a24dd8022a9b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941788-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手3試合連続ホームランで5年連続20号　5月13本と絶好調
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/78519b7c471ffb053a5f54ab550bcf3bbc0e11445dc00cffd5f2a4d605acb864.jpg> 旅館でノロ 中学生ら36人症状訴え
+      <a href=https://news.yahoo.co.jp/pickup/6540350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/647d4892f36ee2ad3df5c2c79e67dd862d6032e4d709c9ce775b653c758884cb.jpg> セクハラ認定の市長 辞任を否定
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540351>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日枝氏 東海TV社外取締役退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6540335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e90ba9c08c29fe32935599547579ff10e9397d2f5f2c239d8bc9e4d5ef12c026.jpg> 高校バッグにじゃらじゃら 再流行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e90ba9c08c29fe32935599547579ff10e9397d2f5f2c239d8bc9e4d5ef12c026.jpg> 高校バッグにじゃらじゃら 再流行
+      <a href=https://news.yahoo.co.jp/pickup/6540359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/3b39fd077b04cf28089dfc699ae8dd814b18104a9d4e2fbc6c799d6e3821ead0.jpg> 全仏でまさか 選手ラケット忘れる
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 18:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 18:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
