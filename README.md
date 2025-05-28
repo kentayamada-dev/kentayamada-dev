@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b64fd97e24d202c3615739e2f00c4cc8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fe3a0d60fbd9ac74dae4803363477fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e985c386b39fef2f7423dae848546f25adb46cd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030321-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> “令和のコメ騒動”で街の米穀店は存続の危機「コメがなかなか手に入らない」　名古屋の米穀店の現状は…
+      <a href=https://news.yahoo.co.jp/articles/ac88c66f5ccdb5ca95c8658a7704609db9611bff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025952-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 小泉大臣の“備蓄米放出”に、街の米店から“怒りの声”
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/13ae6b60828fa0a2a91161b0b8e70dca2cd7d5bb69ac2a434aee0bc625cfdda5.jpg> 大川原 裁判長は以前も画期的判決
+      <a href=https://news.yahoo.co.jp/pickup/6540360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4a3529ff12df8238fff7c8c348e0fea9c3751176a4f2686850ef9ee4a7ba3265.jpg> ウ大統領 米露との3者会談を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4a3529ff12df8238fff7c8c348e0fea9c3751176a4f2686850ef9ee4a7ba3265.jpg> ウ大統領 米露との3者会談を提案
+      <a href=https://news.yahoo.co.jp/pickup/6540355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7d9db694b091fdef83bf0ab7939ae1d703d8ff2f1f4e8633b3f0194745301327.jpg> 新たな津波情報「欠測」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0ebfab186d307e127a486fbf475158a6866137c0cd668147cdf4e3a6f81dbcd6.jpg> 高速道の深夜割引見直し 実施延期
       </a>
     </td>
   </tr>
@@ -418,32 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ef08971870bedbc34c5503c3f38bf7bf9fe1365d5dd895da6f8bc77d4da14463.jpg> 息子が母の詐欺容疑に気付く 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eff1060b37bb43897f2bb17ed0d323b5ab07c52da82967c0af4c1e3e5316fd12.jpg> ポケモン 15兆円経済圏に成長の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e90ba9c08c29fe32935599547579ff10e9397d2f5f2c239d8bc9e4d5ef12c026.jpg> 高校バッグにじゃらじゃら 再流行
+      <a href=https://news.yahoo.co.jp/pickup/6540363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9099f86b0b8da7aff9b7f7f5a7d58fdd81dad20917d6dd84d705e9ec3de31afc.jpg> NPB11万号 Gファン場外キャッチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/3b39fd077b04cf28089dfc699ae8dd814b18104a9d4e2fbc6c799d6e3821ead0.jpg> 全仏でまさか 選手ラケット忘れる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/015d3e69f843c5490cb9599696f33ac065e99634661217dbd56d1d2acb66f1dc.jpg> 大商大野球部 全日本選手権を辞退
+      <a href=https://news.yahoo.co.jp/pickup/6540364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a461fb38511a8da7377c501eb40940ee0b0821c7b214631b6d51a902d4c9dd2.jpg> 異例 女子10000mレース途中で中断
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 19:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 20:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
