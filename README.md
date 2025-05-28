@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ff25263a0afe2fc2b5861f5d613b9e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b93bbc124f88c2fbc76c1fe523de07e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90af14de087d70e05140fc31a51329273158d647>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000369-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 玉木雄一郎氏　小泉進次郎農相との“対決”振り返り「モゴモゴ言っていて…はぐらかされてしまって」
+      <a href=https://news.yahoo.co.jp/articles/1d48ffb964911a244714cb953c3f64ea6c1dfbb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000174-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1190&ch=1190&exp=10800&fmt=webp> ＴＵＢＥハワイ公演　開催危機に　４日前の段階でビザ取得できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1281863f46b773d9f7fcf8d55ba056df13ad4953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000185-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=651&ch=651&exp=10800&fmt=webp> 「やってきたこと間違っていなかった」大川原化工機側安堵　捜査の違法性認める判決後会見
+      <a href=https://news.yahoo.co.jp/articles/90af14de087d70e05140fc31a51329273158d647>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000369-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 玉木雄一郎氏　小泉進次郎農相との“対決”振り返り「モゴモゴ言っていて…はぐらかされてしまって」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/378e29fb91f4b8561205620750e4d85fb9bae585964c3e05aa264e8145165800.jpg> 乳児死亡 逮捕の母は前日に相談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540374>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/1b93fd351057ca9b80d567d64ba9340a59ba105717ecf57ec2175c203bf941e1.jpg> 障害者に性的暴行疑い 職員逮捕
       </a>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/50bbb2ae5844c9fa658089446182571ca2407ad76438ca087d8a27d9d8c9aed7.jpg> 数万匹? 天草の海に大量の謎生物
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540370>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/401bf6323ad6c43d0241ffa249ca043b217d15a2f07958ae4b4206f1fc71a5e3.jpg> ワンピースに酷似 ゲーム販売停止
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c4dd654e978972c7ed61cda13da3bb856b05e9bbd4d9c076ad07b19034885a84.jpg> ドラマ版ハリポタ ハリー役ら決定
+      <a href=https://news.yahoo.co.jp/pickup/6540380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e86e72ec406af3a1661c38baf3c1d012e25af7009027fc3bb03a510ba06089f2.jpg> TUBE公演 ビザ許可おりず不透明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 22:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 22:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
