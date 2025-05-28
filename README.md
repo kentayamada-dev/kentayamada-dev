@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa609badac0ec8f62b4b354af3fd4463.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b181828054596df772410293560e0bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fa535b53ec73fb6a54b79e475cf29e32a6086b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000102-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之　ヌートバーに痛恨被弾…　初回から持ち味の安定感を欠き、2回までに3失点
+      <a href=https://news.yahoo.co.jp/articles/2a7190ed5ed4921be480368e5d8925993960e0f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米議員、米政府の「黄金株」に言及　USスチール買収計画で生産減少しないよう保証
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2baffec17e41c27c66c4a3d2478589ef4af5e6d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000352-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=639&ch=639&exp=10800&fmt=webp> しずちゃん、「映画アンパンマン」で蒼井優と19年ぶり共演　相方・山里亮太には「私が先でごめんな！」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9584f570471ecad7078ab72105683bcecbcfc49>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 令和の米騒動、農協は「悪玉」か？　東大・鈴木宣弘教授がファクトチェック
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7190571950e493b4f3a88cbf251d7a7230a8af0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180578-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=782&ch=782&exp=10800&fmt=webp> USスチール買収計画めぐり 米政府「黄金株」保有案が浮上
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7e4d751810ad50fe5f7cce9d071e1502ba46ff6cb670bf98bef9a3535d10df27.jpg> 日米関税交渉 米半導体の購入提案
+      <a href=https://news.yahoo.co.jp/pickup/6540286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/3d924682db669fb3fa99ed12235c1503a70b6ddc59b1a8fc1364b926df0fc2f0.jpg> 政府備蓄米 早期販売は精米に課題
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8e69a6173211a15dc83ce74aad888d9ba1fbbb3374c52dcfb45a990678e3506a.jpg> 鈴木誠也 3年ぶり週間MVP受賞
+      <a href=https://news.yahoo.co.jp/pickup/6540284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/6a19dea58cf6e60c6c390654117207a994d10422c075183f8409353c1c93975b.jpg> 菅野智之と対決 ヌートバーに快音
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fe9eabce76491523520f243f4e784167e1c29eb90dd79999b4593097513b6d2f.jpg> 重岡銀次朗が手術 原因究明が急務
+      <a href=https://news.yahoo.co.jp/pickup/6540287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c0c28dfdfae0003752df84acd799a4712b8b2a2a891ac8ec43462890be119da5.jpg> 大谷が20号ホームラン 3戦連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/44345b8966ca44bbb5bb884b45dbb3f224815f1e07eed7e3b704ae76ed5a21ef.jpg> 米ロック デリンジャーさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6540288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/04ea61cd960dd690444c1fc530cce0ac54bbe9e404ae40402951244b35ec914c.jpg> しずちゃん 蒼井優と19年ぶり共演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 09:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
