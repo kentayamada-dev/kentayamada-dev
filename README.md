@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/086c055dcc52e48ab40e1414af7ccaec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e01945dca19442c8895d60765415991.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a1acaa4fb446cc42d072b57a9a7563896ba35ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01836262-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉大臣“高速道路でどんどん流す”随意契約対象拡大へ…販売は2021年産　おコメのプロは厳しい指摘も
+      <a href=https://news.yahoo.co.jp/articles/ef010663ff492615e873a9d42424b57617b21496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000350-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=828&ch=828&exp=10800&fmt=webp> アキダイ社長「一時的に下げても…単なるパフォーマンスになっちゃう」　小泉農相の備蓄米放出に私見
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b542ee33fb4f796967029208c0d327eafd815f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030324-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 担当医師が病歴を失念　治療を受けていた女性患者が死亡　名古屋大学医学部付属病院
+      <a href=https://news.yahoo.co.jp/articles/b878f0592baca58716d231b76301bdd927388d61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025970-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=604&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> MISIAの最新曲MVに渡辺直美が出演　「夢見る少女が憧れるような感じで踊らせていただきました」
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0ebfab186d307e127a486fbf475158a6866137c0cd668147cdf4e3a6f81dbcd6.jpg> 高速道の深夜割引見直し 実施延期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fe7d5788164f1ab8d2ec44aa2df5ea2951049f9d6c0f9e54e292d8c02ecd12be.jpg> 名大病院で誤診 70代女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b578503b2c44b0ae94b05c73bb44c4963d59d01e0a0abd462afc41e09f50bedb.jpg> 小6自殺 再調査で「いじめ要因」
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/bd58e9f55696ead41aa69cd02e73c129062c35e9b4d0439d9696e40a8657d3ff.jpg> 渡辺直美 MISIAの新曲MVに出演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540372>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c4dd654e978972c7ed61cda13da3bb856b05e9bbd4d9c076ad07b19034885a84.jpg> ドラマ版ハリポタ ハリー役ら決定
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 21:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 21:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
