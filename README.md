@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f948713ee6b9b3bc9f285d2f196090dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3cef1694f11e0c42839fa97feab3bbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b91efe8b1b5c5ae4bd36d972841e3e9529e4f547>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル首相「ハマス最高幹部を殺害」　国防当局は未確認
+      <a href=https://news.yahoo.co.jp/articles/a4f4391afa5c6fdc12185422853a00755a212ced>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ハマス最高幹部を殺害か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d16b1952f8ed76b7d6c2afae24d5a256dbf1f516>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978922-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカの半導体大手エヌビディア　3カ月間の決算　売上高が過去最高
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ecd82fad7b02beb4e4b02f71017ec00b441f07e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-05291016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平３の０で４戦連発ならず　日本時間３１日からはヤンキース戦、ＷＳ制覇以来の対戦でＶＳジャッジ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c5daa007608d7769e7bed99eac9235930341eaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90025957-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 歌舞伎「刀剣乱舞」第2弾の上演決定！尾上松也、シリーズ化に意欲「そのために伏線もいくつか考えている」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7772f1305828cb997391c29939270beb9e4f027f3bb19ab3b327aea0cce6e146.jpg> ドコモ 住信SBIを子会社化へ調整
+      <a href=https://news.yahoo.co.jp/pickup/6540403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 08:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 08:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
