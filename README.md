@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/703d59c67226b926de896d8ef352973e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21d8229eb0d9711d42ef5970d25aadbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b4e71689e6affe032496a65f8608a38a9d91d2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000402-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 玉木雄一郎氏　備蓄米は「1年経ったら動物のエサ」発言が物議　「誤解があるようなので」と長文投稿
+      <a href=https://news.yahoo.co.jp/articles/894c7851b84859bba544b88262a95b09962108da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978870-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が野党3党首と論戦　コメの“適正価格”巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63475a08c6bc53c422aac35a53197b6befb4b69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000082-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=516&ch=516&exp=10800&fmt=webp> 自民党・岸田前首相「大きな決断ができる政治には、連立もありうる」
+      <a href=https://news.yahoo.co.jp/articles/03201ed8323bf40d1aa0dcba9635b927fcd87b73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01336327-teny-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 10歳未満の息子2人を軽自動車に乗せ　ガードレールや電柱に衝突させる　殺人未遂の疑いで39歳の母親を逮捕《新潟》
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b9afb35c6ba195ae4b22f0e1309398a3bbe43966f644536490938541c0ff94ce.jpg> 岸田氏 立憲との連立に慎重姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6540389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/883f9f50dc7e0f6bc6b43229e608a2883d9dd7c3ca151cf6bc519ba724e02a39.jpg> ハマス最高幹部を殺害 イスラエル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4625d74b1b9ea023ce9b3005fcde6c4bdd6a9a7cf0cb7eff67e2c0588d4dc0ef.jpg> 大川原冤罪事件の判決 識者の評価
+      <a href=https://news.yahoo.co.jp/pickup/6540385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b9afb35c6ba195ae4b22f0e1309398a3bbe43966f644536490938541c0ff94ce.jpg> 岸田氏 立憲との連立に慎重姿勢
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/1b93fd351057ca9b80d567d64ba9340a59ba105717ecf57ec2175c203bf941e1.jpg> 障害者に性的暴行疑い 職員逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/133ea37fc5f1dfea9cb59ec47bd98e2d4571ad23f474a42616d2336a311b363c.jpg> 息子2人を殺人未遂疑い 母親逮捕
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 23:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 23:51:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
