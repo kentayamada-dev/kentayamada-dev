@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21d8229eb0d9711d42ef5970d25aadbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84ac8f9fe261b1d2225437f666630887.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/894c7851b84859bba544b88262a95b09962108da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978870-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が野党3党首と論戦　コメの“適正価格”巡り
+      <a href=https://news.yahoo.co.jp/articles/288fb6b8511252a902c7f00d5957d00cabb97b4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00050225-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ハマスのガザ指導者を殺害、ネタニヤフ首相が国会で明らかに…１３日にガザ南部の病院を空爆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03201ed8323bf40d1aa0dcba9635b927fcd87b73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01336327-teny-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 10歳未満の息子2人を軽自動車に乗せ　ガードレールや電柱に衝突させる　殺人未遂の疑いで39歳の母親を逮捕《新潟》
+      <a href=https://news.yahoo.co.jp/articles/894c7851b84859bba544b88262a95b09962108da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978870-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が野党3党首と論戦　コメの“適正価格”巡り
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e86e72ec406af3a1661c38baf3c1d012e25af7009027fc3bb03a510ba06089f2.jpg> TUBE公演 ビザ許可おりず不透明
+      <a href=https://news.yahoo.co.jp/pickup/6540364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a461fb38511a8da7377c501eb40940ee0b0821c7b214631b6d51a902d4c9dd2.jpg> 異例 女子10000mレース途中で中断
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 23:51:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 00:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
