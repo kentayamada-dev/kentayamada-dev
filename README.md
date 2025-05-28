@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c533f3a9bc92fa4a062612a0997271f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e10e5502a1eccf20d392e765535c53fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf90208d7c26f290482f94c99cd2630172241ead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-08211449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相、ハマス最高幹部の殺害を発表　停戦交渉にも影響の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1578c1135b6298ae2dac5df27b65da8a6447564e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00365506-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 残念ですが、小泉進次郎大臣でも米価は下げられません…「5kg2000円」の備蓄米がもたらす「悪夢のシナリオ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ecd82fad7b02beb4e4b02f71017ec00b441f07e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-05291016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平３の０で４戦連発ならず　日本時間３１日からはヤンキース戦、ＷＳ制覇以来の対戦でＶＳジャッジ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07a6c92653f015ca939b3e47d40dda9b643ef530>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00880766-toyo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 【令和の米騒動】イオンやドンキら小売り業者が随意契約の備蓄米に殺到！ 予定数量が「速攻完売」したが、申請企業の複雑な胸中とは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8dc1cdd02d150302a20a045f3a48589e4861f4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978896-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマスの指導者ムハンマド・シンワル氏を殺害　イスラエル・ネタニヤフ首相が明らかに
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/81f94fc4e43922d6b1e5837f55d6bd3c7cf66870b27dda252faf450425d19789.jpg> 備蓄米に玉木氏「1年経ったら餌」
+      <a href=https://news.yahoo.co.jp/pickup/6540392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/1c1fbe309ed1204a2f0470735c9401b945e23472fe3351fda1a4887a9756a509.jpg> 備蓄米放出 街の米店から怒りの声
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 06:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 06:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
