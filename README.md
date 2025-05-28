@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/990b962332036f7a78340554dcdf6ce2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5bb59a6da22cf477018d9791068245ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/590567294cf369c656bfe6255c7db4906cf2db96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010004-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=568&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 備蓄米の随意契約、ミスターマックス「5kg2000円を切る価格で売りたい」…九州・山口からも続々申請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1dbc162aa9dd61528c63ba71e190837626408ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米、学生ビザ申請の面接予約を一時停止　SNS審査厳格化で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d3bfd163bc9f70b5982cf51eac1a6cfea04979c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010004-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米政府がUSスチールの「黄金株」を保有する案浮上　日本製鉄による買収計画めぐり
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bf5ddfa1f42205b228f631063d91b59f784db86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00097150-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が３戦連発&今季メジャー最速20号！ド軍専門メディアの記者も驚き「ショウヘイが再びやった！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9187d4dabea60de179c8495bd1d9ff693890d95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000007-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 埼玉からはヤオコーが最多の9944トン　カインズ、富士薬品、ベルク、酒商増田屋も申し込み　備蓄米の随意契約　埼玉からは5社が申請　「コメの高騰、消費者の暮らし圧迫」「安く多くの方に提供できる手段があれば今後も活用したい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9584f570471ecad7078ab72105683bcecbcfc49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 令和の米騒動、農協は「悪玉」か？　東大・鈴木宣弘教授がファクトチェック
+      <a href=https://news.yahoo.co.jp/articles/fce211cc15bdc63095e81ee90aa0cacd3f03befc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 「もはや神」「次の総理決定」小泉大臣、北海道でも米「2000円台、出てきた」SNS投稿！筆者に寄せられた「批判してた愚民は頭を下げろ」という誹謗
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ced9d1fce6c3b1a5bc6131dfbf8591e123361ada1903ccca6eb3809ec5afb2d7.jpg> 米政権 学生ビザ新規面接を停止か
+      <a href=https://news.yahoo.co.jp/pickup/6540295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/57f8eccca44bb5ba0fc7feff112a2f451bfdd0e2e94798f5ff563a19c70304eb.jpg> プーチン氏が火遊び 米大統領非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/56eb0ed209e49e020eca280b4705d2b7d1f16eb5ab8d4046c6fc2aa038fa137b.jpg> 韓国大統領選 保守系一本化不発か
+      <a href=https://news.yahoo.co.jp/pickup/6540301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ced9d1fce6c3b1a5bc6131dfbf8591e123361ada1903ccca6eb3809ec5afb2d7.jpg> 米政権 学生ビザ新規面接を停止
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7e9b27a7bcc7c330e175b6ee3300590c44304d4ade253ad81dce592fe2012265.jpg> 大谷20号ゲットのパパ「興奮」
+      <a href=https://news.yahoo.co.jp/pickup/6540299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e49d31a4c2d55f701f036d7c473ba1f9268ad11632aca38931827632c751276d.jpg> 大の里「唯一無二」の横綱目指す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9f573d6ca5b5e0ca90cf2cd42cb42e6a7c97c509a7b5c80e6a54088566973e20.jpg> 菅野と対決 ヌートバーホームラン
+      <a href=https://news.yahoo.co.jp/pickup/6540296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7e9b27a7bcc7c330e175b6ee3300590c44304d4ade253ad81dce592fe2012265.jpg> 大谷20号ゲットのパパ「興奮」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 10:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 11:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
