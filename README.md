@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d03ee8216d761293c0bc343e858c141.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/218299337d67157aec154d15ac69cf2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c064a738bd399daf365b6b7572e11907ea8e93d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000409-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 大谷翔平　日本人初の4試合連続本塁打ならず　3打数無安打1四球　チームは中継ぎ陣崩壊で痛恨黒星
+      <a href=https://news.yahoo.co.jp/articles/07a6c92653f015ca939b3e47d40dda9b643ef530>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00880766-toyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 【令和の米騒動】イオンやドンキら小売り業者が随意契約の備蓄米に殺到！ 予定数量が「速攻完売」したが、申請企業の複雑な胸中とは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98dd5afe3daa500e1dc4353759395ef21ea144bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239581-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマスのガザ地区トップを殺害　イスラエル首相が明らかに　ハマス さらに弱体化
+      <a href=https://news.yahoo.co.jp/articles/c8dc1cdd02d150302a20a045f3a48589e4861f4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00978896-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ハマスの指導者ムハンマド・シンワル氏を殺害　イスラエル・ネタニヤフ首相が明らかに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c064a738bd399daf365b6b7572e11907ea8e93d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000409-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 大谷翔平　日本人初の4試合連続本塁打ならず　3打数無安打1四球　チームは中継ぎ陣崩壊で痛恨黒星
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 05:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 05:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
