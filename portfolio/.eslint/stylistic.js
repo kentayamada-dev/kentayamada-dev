@@ -63,7 +63,8 @@ const stylisticRule = addPrefixRule(stylisticPrefix, {
       'ignoreUrls': true
     }
   ],
-  'padded-blocks': ['error', 'never']
+  'padded-blocks': ['error', 'never'],
+  'no-mixed-operators': 'off'
 });
 
 const stylisticPluginJsxRemovedRules = Object.fromEntries(

@@ -118,8 +118,7 @@ export default tseslintPlugin.config(
       }
     },
     rules: {
-      ...vitestRule,
-      '@typescript-eslint/no-magic-numbers': 'off'
+      ...vitestRule
     }
   },
   {

@@ -19,7 +19,7 @@ const Intro: IntroType = (props) => {
   return (
     <motion.div
       animate={isInView ? 'show' : 'hidden'}
-      className='space-y-4 sm:space-y-7'
+      className='space-y-5 sm:space-y-7'
       initial='hidden'
       ref={ref}
       variants={{
@@ -30,12 +30,14 @@ const Intro: IntroType = (props) => {
         }
       }}
     >
-      <motion.div variants={VARIANTS}>
-        <h1 className='text-primary text-4xl font-semibold tracking-tight sm:text-6xl'>{props.title}</h1>
-      </motion.div>
-      <motion.div variants={VARIANTS}>
-        <h2 className='text-primary text-2xl font-medium tracking-tight sm:text-4xl'>{props.subtitle}</h2>
-      </motion.div>
+      <div className='space-y-3'>
+        <motion.div variants={VARIANTS}>
+          <h1 className='text-primary text-4xl font-semibold tracking-tight sm:text-6xl'>{props.title}</h1>
+        </motion.div>
+        <motion.div variants={VARIANTS}>
+          <h2 className='text-primary text-2xl font-medium tracking-tight sm:text-4xl'>{props.subtitle}</h2>
+        </motion.div>
+      </div>
       <motion.div variants={VARIANTS}>
         <p className='text-secondary text-sm font-normal sm:text-lg'>{props.paragraph}</p>
       </motion.div>

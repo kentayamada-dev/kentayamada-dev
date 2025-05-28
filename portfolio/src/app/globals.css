@@ -5,13 +5,14 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --breakpoint-sm: 38rem;
-  --breakpoint-md: 56rem;
+  --breakpoint-sm: 30rem;
+  --breakpoint-md: 50rem;
 }
 
 @theme inline {
   --font-sans: var(--font-noto-sans-jp);
   --font-mono: var(--font-roboto-mono);
+  --font-pixel: var(--font-press-start-2p);
 }
 
 .grecaptcha-badge {

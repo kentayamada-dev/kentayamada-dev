@@ -23,7 +23,7 @@ const ArticlesList: ArticlesListType = (props) => {
                 />
               </div>
               <div className='absolute inset-0 -z-10 bg-gradient-to-t from-slate-800 via-slate-800/40' />
-              <div className='absolute bottom-0 m-3 flex flex-col space-y-3'>
+              <div className='absolute bottom-0 m-3 flex flex-col gap-y-1'>
                 <time className='text-xs text-slate-300' dateTime={createdAt.toISOString()} itemProp='datePublished'>
                   {getDateString(createdAt, props.locale)}
                 </time>

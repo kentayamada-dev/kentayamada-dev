@@ -14,23 +14,23 @@ const ProjectsList: ProjectsListType = (props) => {
             <h2 className='text-primary line-clamp-2 text-2xl font-bold'>{name}</h2>
             <p className='text-primary mt-2 line-clamp-5 text-sm'>{description}</p>
             <div className='mt-auto'>
-              <div className='text-secondary flex justify-between space-x-5 text-base font-semibold'>
-                <div className='flex space-x-5'>
-                  <div className='flex items-center space-x-1'>
+              <div className='text-secondary flex justify-between text-base font-semibold'>
+                <div className='flex gap-x-3'>
+                  <div className='flex items-center gap-x-1'>
                     <span className='size-5'>
                       <StarIcon />
                     </span>
                     <span className='text-secondary text-sm'>{stargazerCount}</span>
                   </div>
-                  <div className='flex items-center space-x-1'>
+                  <div className='flex items-center gap-x-1'>
                     <span className='size-5'>
                       <ForksIcon />
                     </span>
                     <span className='text-secondary text-sm'>{forkCount}</span>
                   </div>
                 </div>
-                <div>
-                  <div className='flex items-center space-x-1'>
+                <div className='flex flex-col gap-1'>
+                  <div className='flex items-center gap-x-1'>
                     <span className='size-4'>
                       <ClockHistoryIcon />
                     </span>
@@ -38,7 +38,7 @@ const ProjectsList: ProjectsListType = (props) => {
                       {getDateString(updatedAt, props.locale)}
                     </time>
                   </div>
-                  <div className='flex items-center space-x-1'>
+                  <div className='flex items-center gap-x-1'>
                     <span className='size-4'>
                       <ClockIcon />
                     </span>

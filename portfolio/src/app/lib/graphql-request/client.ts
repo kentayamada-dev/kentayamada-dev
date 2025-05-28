@@ -22,7 +22,6 @@ export const apiRequest = async <T>(api: keyof typeof API_ENDPOINTS, query: stri
   try {
     return await client.request<T>(query, variables);
   } catch (error) {
-    // eslint-disable-next-line @typescript-eslint/no-magic-numbers
     return throwColoredError('GraphQL Request Failed', 'red', JSON.stringify(error, null, 2));
   }
 };

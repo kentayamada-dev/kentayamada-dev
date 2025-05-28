@@ -5,7 +5,7 @@ import type { NavItemsType } from './types';
 const NavItems: NavItemsType = (props) => {
   return (
     <nav>
-      <ul className='flex space-x-4'>
+      <ul className='flex gap-x-4'>
         {Object.entries(props.items).map(([key, { href, title }]) => {
           return (
             <li key={key}>

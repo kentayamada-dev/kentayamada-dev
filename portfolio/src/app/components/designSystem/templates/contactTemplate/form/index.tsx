@@ -80,7 +80,7 @@ const Form: FormType = (props) => {
   }, [props.locale]);
 
   return (
-    <form action={action} className='flex flex-col space-y-10'>
+    <form action={action} className='flex flex-col space-y-6'>
       <div className='grid grid-cols-2 gap-4'>
         <Input
           autoComplete='given-name'

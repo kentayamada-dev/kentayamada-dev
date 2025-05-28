@@ -17,9 +17,9 @@ const Article: ArticleType = (props) => {
       </aside>
       <article>
         <h1 className='text-primary text-center text-3xl font-semibold sm:text-5xl'>{props.articleTitle}</h1>
-        <div className='text-secondary mt-10 flex justify-center space-x-5 text-sm'>
+        <div className='text-secondary mt-10 flex justify-center gap-x-5 text-sm'>
           {updatedAtISO !== createdAtISO && (
-            <div className='flex items-center space-x-1'>
+            <div className='flex items-center gap-x-1'>
               <span className='size-4'>
                 <ClockHistoryIcon />
               </span>
@@ -28,7 +28,7 @@ const Article: ArticleType = (props) => {
               </time>
             </div>
           )}
-          <div className='flex items-center space-x-1'>
+          <div className='flex items-center gap-x-1'>
             <span className='size-4'>
               <ClockIcon />
             </span>
