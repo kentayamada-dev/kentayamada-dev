@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ec472e0ba3963bb83a10caefd8549a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/990b962332036f7a78340554dcdf6ce2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fcbe5639890bba29eb0a287b728a8d851d1e662>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07742824-knb-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米　富山県内で広がり欠く…現状と消費者の声は
+      <a href=https://news.yahoo.co.jp/articles/8d3bfd163bc9f70b5982cf51eac1a6cfea04979c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010004-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米政府がUSスチールの「黄金株」を保有する案浮上　日本製鉄による買収計画めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/153731b7730abafaa7ea50a5d32da1cd3a8c0d57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000122-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1020&ch=1020&exp=10800&fmt=webp> 大谷翔平　第5打席は四球選びマンシーのダメ押し3ラン演出　4回に松井秀喜抜く6度目の20号到達
+      <a href=https://news.yahoo.co.jp/articles/6bf5ddfa1f42205b228f631063d91b59f784db86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00097150-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が３戦連発&今季メジャー最速20号！ド軍専門メディアの記者も驚き「ショウヘイが再びやった！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a7190ed5ed4921be480368e5d8925993960e0f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米議員、米政府の「黄金株」に言及　USスチール買収計画で生産減少しないよう保証
+      <a href=https://news.yahoo.co.jp/articles/b9187d4dabea60de179c8495bd1d9ff693890d95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000007-saitama-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 埼玉からはヤオコーが最多の9944トン　カインズ、富士薬品、ベルク、酒商増田屋も申し込み　備蓄米の随意契約　埼玉からは5社が申請　「コメの高騰、消費者の暮らし圧迫」「安く多くの方に提供できる手段があれば今後も活用したい」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ced9d1fce6c3b1a5bc6131dfbf8591e123361ada1903ccca6eb3809ec5afb2d7.jpg> 米政権 学生ビザ新規面接を停止か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540279>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/56eb0ed209e49e020eca280b4705d2b7d1f16eb5ab8d4046c6fc2aa038fa137b.jpg> 韓国大統領選 保守系一本化不発か
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f4e369cf2ede40695b3447619fe44583e052cee4ce3036722d93f518ac82dc64.jpg> 米政権 ハーバード大と契約中止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/6f98a5af86f30759c8df89a853a05abcb853cc5041bc570a10d64ed0fb828e54.jpg> 自転車で9歳女児ひき逃げ 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b18cac90b4c9ee5dcab056b332139df8cbbaadb945cc438ee160166770dc77c7.jpg> ガスト店長 最高年収1000万円超に
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c0c28dfdfae0003752df84acd799a4712b8b2a2a891ac8ec43462890be119da5.jpg> 大谷が20号ホームラン 3戦連発
+      <a href=https://news.yahoo.co.jp/pickup/6540294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9f573d6ca5b5e0ca90cf2cd42cb42e6a7c97c509a7b5c80e6a54088566973e20.jpg> 菅野と対決 ヌートバーホームラン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 10:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 10:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
