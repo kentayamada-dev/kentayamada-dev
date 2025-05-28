@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f36557962d27ced230b5204c208d11a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80a3062ff077f8bf9bb30beb0d96b84e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ee2f3ca20457ccca4b99cda1b8dd6270f08257c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574719-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=466&ch=466&exp=10800&fmt=webp> NCT WISH、ホワイトスーツで登場 2年連続出演に意気込み「去年はデビューから50日目だった」【ASEA 2025 レッドカーペット】
+      <a href=https://news.yahoo.co.jp/articles/a3b446bb75dae5bfb008e61c25e1ffc6a9f9bdf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90028257-umk-000-1-thumb.jpg?exp=10800&fmt=webp> 過去最高更新続くコメ価格　店頭価格の現状・備蓄米取り扱いへの対応は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de04c2a01eceef720d6cebdb7f03db875ec03404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-11645065-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 政府備蓄米　米穀店も随意契約へ　販売店は不安も　生産者は新米価格を心配
+      <a href=https://news.yahoo.co.jp/articles/949e6592e6d83892d0fa5983d459f707b23059ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574732-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=466&ch=466&exp=10800&fmt=webp> NEXZ、特別なステージ予告でダンスブレイク披露【ASEA 2025 レッドカーペット】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f8628c7de3a0d3df02203b902003581ca0efa0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978577-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> 野党3党トップから備蓄米放出など政府対応に懸念の声　小泉農水相との“直接対決”終えて
+      <a href=https://news.yahoo.co.jp/articles/f5cfc9f525f627243e386f2cb7e948e496148e32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000054-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「農家に失礼」備蓄米の「小泉米」呼称に疑問の声…就任1週間の“進次郎劇場”に広がる反感
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f489ed7b43ea7c2fece700b54f95c5af23a1410ff365ce4ba5b985016ef3cb8b.jpg> 斎藤知事 処分は「給与カット」
+      <a href=https://news.yahoo.co.jp/pickup/6540360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4a3529ff12df8238fff7c8c348e0fea9c3751176a4f2686850ef9ee4a7ba3265.jpg> ウ大統領 米露との3者会談を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/647d4892f36ee2ad3df5c2c79e67dd862d6032e4d709c9ce775b653c758884cb.jpg> セクハラ認定の市長 辞任を否定
+      <a href=https://news.yahoo.co.jp/pickup/6540339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f489ed7b43ea7c2fece700b54f95c5af23a1410ff365ce4ba5b985016ef3cb8b.jpg> 斎藤知事 処分は「給与カット」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 18:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 19:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
