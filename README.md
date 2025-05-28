@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dcdb7e653fbe02f46822cf79ee927dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d83c139f354dd57fcab6eeb2f3219552.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02d1a780b8b2aa8932f94c6888de70032edce12e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280625-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=124&cw=1058&ch=1058&exp=10800&fmt=webp> 50歳人気女性芸人、買うコメ聞かれ「古古古米と古古米…“一発屋”なので」とスタジオ笑わせる
+      <a href=https://news.yahoo.co.jp/articles/bd8bc467bad0d005bf12d368238963cfb3c93b12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00036921-jprime-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「国民は家畜のエサでも食ってろと」小泉進次郎の“５キロ1800円・備蓄米”流通のカラクリに不信の声
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8bc580ca7bfa4621238f7572a5e622ce10870e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941443-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】国民民主党・玉木代表「すっからかんをどう補うのか」　小泉農水大臣の「需要があれば無制限」備蓄米めぐる方針に懸念示す　国会・農水委員会
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941443-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】国民民主党・玉木代表「どこから備蓄米を調達するのか」　小泉農水大臣に備蓄米めぐる方針に懸念示す　国会・農水委員会
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e4dcc98cffdc6ee8aa2b66c6b94928dad69f9d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180653-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、レフトスタンドへ今季20号の2ランHR チームは9対5で勝利
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180653-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、レフトスタンドへ今季20号の2ランHR チームは9対5で勝利
       </a>
     </td>
   </tr>
@@ -403,15 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/30fa7cc69fdbcf3ef2541c4ee80f57e3edc646baf9733340bac360231fe14e9b.jpg> 大川原冤罪 都と国に賠償命じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5f817be499531e23b3dda87c4e1baf04ab33970b7ced978dbbeebb1a8417c49e.jpg> AIに初めて特化「AI推進法」成立
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e25fa7a7d1ec0e9e7939c2c6ab78a78fb67aa3fda0bd10d75a3ca2c689da6574.jpg> 大川原冤罪 都と国に賠償命じる
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/cef6c853e4029e47ff84120d8b0fac222c58e6c91308ffca6cdea036b2dfb103.jpg> 赤ちゃん浴槽に沈めた疑い 母逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7f62b232d34c9daa8c2247dff0f6f61c12cf5424836a2f9affbdc514bbf7ea9f.jpg> 女子生徒3人刺傷 対面授業を再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fc0b276c0114a40c28de560beffb5635691a6cb0c83a8f34fd2fd856b764d2cb.jpg> セブン抹茶パフェ 6県で自主回収
+      <a href=https://news.yahoo.co.jp/pickup/6540317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/07a5f3905e4960feaf1e42ac164085bb8dc8274823b3e22d88d5e45195864e7e.jpg> ホタテ高騰 バイキング店は悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4cc3c121465cd146108473ea1e5e0edcc3d9b032fe328900af2825d431a714c3.jpg> 天下一品 首都圏で大量閉店の背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 14:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 15:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
