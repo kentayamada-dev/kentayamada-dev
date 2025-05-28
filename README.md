@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a89c1f70becf9b5bba63c97c386aa74c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ec472e0ba3963bb83a10caefd8549a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86aefcc6af1a72f5f0f3adc0537b8241a28a65a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10538625-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=683&ch=683&exp=10800&fmt=webp> オリオールズ・菅野智之、6回途中3失点で今季5勝目の権利持って降板　ヌートバーに2ラン被弾も修正力発揮
+      <a href=https://news.yahoo.co.jp/articles/8fcbe5639890bba29eb0a287b728a8d851d1e662>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07742824-knb-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米　富山県内で広がり欠く…現状と消費者の声は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fce211cc15bdc63095e81ee90aa0cacd3f03befc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 「もはや神」「次の総理決定」小泉大臣、北海道でも米「2000円台、出てきた」SNS投稿！筆者に寄せられた「批判してた愚民は頭を下げろ」という誹謗
+      <a href=https://news.yahoo.co.jp/articles/153731b7730abafaa7ea50a5d32da1cd3a8c0d57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000122-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1020&ch=1020&exp=10800&fmt=webp> 大谷翔平　第5打席は四球選びマンシーのダメ押し3ラン演出　4回に松井秀喜抜く6度目の20号到達
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540286>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/3d924682db669fb3fa99ed12235c1503a70b6ddc59b1a8fc1364b926df0fc2f0.jpg> 政府備蓄米 早期販売は精米に課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/11e4d636061eb24510aa0904f6c3dd3d5a3cb3c08a8064a34c7c6f3c7890478e.jpg> 極寒の抑留地から生還 107歳証言
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c3d24c66aade92ae186c93d8647bba3323c84638ddc693aa6a1942c3f35c1bc2.jpg> 大の里の横綱昇進が決定 満場一致
+      <a href=https://news.yahoo.co.jp/pickup/6540296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7e9b27a7bcc7c330e175b6ee3300590c44304d4ade253ad81dce592fe2012265.jpg> 大谷20号ゲットのパパ「興奮」
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/04ea61cd960dd690444c1fc530cce0ac54bbe9e404ae40402951244b35ec914c.jpg> しずちゃん 蒼井優と19年ぶり共演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 09:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 10:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
