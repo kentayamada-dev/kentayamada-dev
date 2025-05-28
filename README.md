@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fe3a0d60fbd9ac74dae4803363477fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2953b1d93191b9232954a4b4e830f70.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac88c66f5ccdb5ca95c8658a7704609db9611bff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025952-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 小泉大臣の“備蓄米放出”に、街の米店から“怒りの声”
+      <a href=https://news.yahoo.co.jp/articles/cc7336176af2a855e098c439b52d666dd7015419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90051102-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> “2000円備蓄米”いつ北海道に？「コープさっぽろ」や「イオン」など続々名乗りを上げ6月から店頭に…流通までには課題も  “精米”どうする？ “コメ袋”間に合う？ 消費者からは「待てない」の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b542ee33fb4f796967029208c0d327eafd815f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030324-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 担当医師が病歴を失念　治療を受けていた女性患者が死亡　名古屋大学医学部付属病院
+      <a href=https://news.yahoo.co.jp/articles/ce5300088b0119e2fa937aa89ffa1627424cdfb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978690-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「リアル海賊版じゃない?」ゲームキャラクターが大人気アニメ「ワンピース」にそっくり　任天堂のストアに登場「パイレーツアニメクエスト」が物議…販売停止に
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4a3529ff12df8238fff7c8c348e0fea9c3751176a4f2686850ef9ee4a7ba3265.jpg> ウ大統領 米露との3者会談を提案
+      <a href=https://news.yahoo.co.jp/pickup/6540369>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 詐欺拠点か カンボジアで邦人拘束
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540347>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02220702/title-1748322052289.jpeg?exp=10800> 復帰→休職 なぜ繰り返す人多い
+      <a href=https://news.yahoo.co.jp/pickup/6540368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7c8b9051187580f84764403df11b9c88cf532d87703c18578ad0ca8dbd8dafb3.jpg> 日大不正巡り 通報者がイジメ訴え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eff1060b37bb43897f2bb17ed0d323b5ab07c52da82967c0af4c1e3e5316fd12.jpg> ポケモン 15兆円経済圏に成長の訳
+      <a href=https://news.yahoo.co.jp/pickup/6540370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/401bf6323ad6c43d0241ffa249ca043b217d15a2f07958ae4b4206f1fc71a5e3.jpg> ワンピースに酷似 ゲーム販売停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9099f86b0b8da7aff9b7f7f5a7d58fdd81dad20917d6dd84d705e9ec3de31afc.jpg> NPB11万号 Gファン場外キャッチ
+      <a href=https://news.yahoo.co.jp/pickup/6540371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/50bbb2ae5844c9fa658089446182571ca2407ad76438ca087d8a27d9d8c9aed7.jpg> 数万匹? 天草の海に大量の謎生物
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 20:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 20:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
