@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25d1f66399dd2a2749777c7314cef94e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e19f4c8bff822c391ca6a51896c1baea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a008d732a3c07eef4f89d67e5c88fd3caafaa35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00050077-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカへの留学生ビザ、新規の面接予約を一時停止…ＳＮＳ投稿審査厳格化の一環か
+      <a href=https://news.yahoo.co.jp/articles/8914376eddc21def131216dc493768150ec86b48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978320-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「JAを通すとコメ価格が上がる」にJA福井県が異議　5キロ2000円台の“格安備蓄米”には「適正価格は3600円程度」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5ee12bcec82a80b7363e0c0ffc8c7493074e3ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00088567-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 日鉄のUSスチール「買収」承認、日米関税交渉、水面下で何が？自動車・造船・コメ…6月「合意」は可能か
+      <a href=https://news.yahoo.co.jp/articles/6650272c926eff2732501617555a5fcceca944c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90028308-ftv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 備蓄米の随意契約　福島県内のスーパーも仕入れ見込む　マルトやブイチェーン　ヨークベニマルは参加表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1f19af7963364f953a500cb3dec9b64342463a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025909-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄「古古古米」どんな味？　専門家「それなりのおいしさ」2021年産5キロ1800円も
+      <a href=https://news.yahoo.co.jp/articles/c79b5ef1e723248b48fb45a6bd6b7bb39f83e0d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 千葉・松戸市の住宅で生後4か月の男児心肺停止の状態で発見され死亡　33歳の母親を殺人容疑で逮捕　「育児していく自信がなくなった」　千葉県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed25f810415a9b329b7784cdac4c6578d1baad71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239358-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 重要事項に拒否権ある「黄金株」 日本製鉄がアメリカ政府に付与を検討
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fce211cc15bdc63095e81ee90aa0cacd3f03befc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 「もはや神」「次の総理決定」小泉大臣、北海道でも米「2000円台、出てきた」SNS投稿！筆者に寄せられた「批判してた愚民は頭を下げろ」という誹謗
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/11e4d636061eb24510aa0904f6c3dd3d5a3cb3c08a8064a34c7c6f3c7890478e.jpg> 極寒の抑留地から生還 107歳証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ced9d1fce6c3b1a5bc6131dfbf8591e123361ada1903ccca6eb3809ec5afb2d7.jpg> 米政権 学生ビザ新規面接を停止
+      <a href=https://news.yahoo.co.jp/pickup/6540305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f8010620443ab46a54aa743c6e217a0fbcd4320677259dd90e7c00660963e0b0.jpg> 備蓄米 21年産は5kg1800円程度に
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/38daf759bd7506ab9aaa9db0a02c57209225c249073c68f5f202fefe470f17db.jpg> 大阪で絶滅危惧種 キツネの目撃増
+      <a href=https://news.yahoo.co.jp/pickup/6540308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/799250aefa0bf5248b82287e41fb6422a3f3b3718f0ff887e849f21fd53225d9.jpg> 川崎20人殺傷事件6年 現場に献花
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0be7d0686f0a497a0d56bb0de554cf04cb7619d35fafde9398758719cfc66307.jpg> 路上で倒れていた男性死亡 逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e49d31a4c2d55f701f036d7c473ba1f9268ad11632aca38931827632c751276d.jpg> 大の里「唯一無二」の横綱目指す
+      <a href=https://news.yahoo.co.jp/pickup/6540302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/90a51d0be64f4ee7154392f892e8ea68be8a0f360b0a088d10733a97cf325a7f.jpg> 大谷20号 自己最速&年58本ペース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/90a51d0be64f4ee7154392f892e8ea68be8a0f360b0a088d10733a97cf325a7f.jpg> 大谷20号 自己最速&年58本ペース
+      <a href=https://news.yahoo.co.jp/pickup/6540310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4e20aae02dc0e8e264187a88db07636c74dd847095c942381a8f9678e61a4f32.jpg> 綾瀬はるか 最期は笑って迎えたい
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 11:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 12:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
