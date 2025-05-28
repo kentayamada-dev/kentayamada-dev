@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e01945dca19442c8895d60765415991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ff25263a0afe2fc2b5861f5d613b9e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef010663ff492615e873a9d42424b57617b21496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000350-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=828&ch=828&exp=10800&fmt=webp> アキダイ社長「一時的に下げても…単なるパフォーマンスになっちゃう」　小泉農相の備蓄米放出に私見
+      <a href=https://news.yahoo.co.jp/articles/90af14de087d70e05140fc31a51329273158d647>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000369-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 玉木雄一郎氏　小泉進次郎農相との“対決”振り返り「モゴモゴ言っていて…はぐらかされてしまって」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5cd74499554f66c1739ffd0bd982d0af66e01ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21942802-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 吉村知事「コメは再生産できる適正価格で」「コンビニに寄ったらつや姫が2キロで2000円超え、うわーとなった」そう話すも価格高騰に県としての政策や動きはなし（山形）
+      <a href=https://news.yahoo.co.jp/articles/1281863f46b773d9f7fcf8d55ba056df13ad4953>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000185-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=651&ch=651&exp=10800&fmt=webp> 「やってきたこと間違っていなかった」大川原化工機側安堵　捜査の違法性認める判決後会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b878f0592baca58716d231b76301bdd927388d61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025970-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=604&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> MISIAの最新曲MVに渡辺直美が出演　「夢見る少女が憧れるような感じで踊らせていただきました」
+      <a href=https://news.yahoo.co.jp/articles/01a224768d2251da3c88a6e56feed3cb0bc77837>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000090-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 政府、骨太の方針原案に「コメ価格落ち着かせる」　水田政策見直しも
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540369>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 詐欺拠点か カンボジアで邦人拘束
+      <a href=https://news.yahoo.co.jp/pickup/6540377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d6d745576aeba0429d5951bafd07a3fff6cdb18359628e0befd59391c269e901.jpg> 詐欺拠点か 邦人20人超拘束の情報
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540367>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b578503b2c44b0ae94b05c73bb44c4963d59d01e0a0abd462afc41e09f50bedb.jpg> 小6自殺 再調査で「いじめ要因」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/81f94fc4e43922d6b1e5837f55d6bd3c7cf66870b27dda252faf450425d19789.jpg> 備蓄米に玉木氏「1年経ったら餌」
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/bd58e9f55696ead41aa69cd02e73c129062c35e9b4d0439d9696e40a8657d3ff.jpg> 渡辺直美 MISIAの新曲MVに出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540372>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c4dd654e978972c7ed61cda13da3bb856b05e9bbd4d9c076ad07b19034885a84.jpg> ドラマ版ハリポタ ハリー役ら決定
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 21:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 22:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
