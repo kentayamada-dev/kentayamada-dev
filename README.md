@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2953b1d93191b9232954a4b4e830f70.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/086c055dcc52e48ab40e1414af7ccaec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc7336176af2a855e098c439b52d666dd7015419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90051102-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> “2000円備蓄米”いつ北海道に？「コープさっぽろ」や「イオン」など続々名乗りを上げ6月から店頭に…流通までには課題も  “精米”どうする？ “コメ袋”間に合う？ 消費者からは「待てない」の声も
+      <a href=https://news.yahoo.co.jp/articles/2a1acaa4fb446cc42d072b57a9a7563896ba35ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-01836262-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉大臣“高速道路でどんどん流す”随意契約対象拡大へ…販売は2021年産　おコメのプロは厳しい指摘も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce5300088b0119e2fa937aa89ffa1627424cdfb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978690-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「リアル海賊版じゃない?」ゲームキャラクターが大人気アニメ「ワンピース」にそっくり　任天堂のストアに登場「パイレーツアニメクエスト」が物議…販売停止に
+      <a href=https://news.yahoo.co.jp/articles/b5cd74499554f66c1739ffd0bd982d0af66e01ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21942802-tuy-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 吉村知事「コメは再生産できる適正価格で」「コンビニに寄ったらつや姫が2キロで2000円超え、うわーとなった」そう話すも価格高騰に県としての政策や動きはなし（山形）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d38d2e1a6f0b4c4104fb2d3867012a3c7e6ce00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90026296-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新潟県知事 米の価格安定化へ期待「極めて異例の思い切った政策」 備蓄米“随意契約”に県内事業者も申し込み
+      <a href=https://news.yahoo.co.jp/articles/16b542ee33fb4f796967029208c0d327eafd815f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030324-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 担当医師が病歴を失念　治療を受けていた女性患者が死亡　名古屋大学医学部付属病院
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7d9db694b091fdef83bf0ab7939ae1d703d8ff2f1f4e8633b3f0194745301327.jpg> 新たな津波情報「欠測」とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0ebfab186d307e127a486fbf475158a6866137c0cd668147cdf4e3a6f81dbcd6.jpg> 高速道の深夜割引見直し 実施延期
       </a>
@@ -411,23 +403,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540362>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 名大病院で誤診 70代女性死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fe7d5788164f1ab8d2ec44aa2df5ea2951049f9d6c0f9e54e292d8c02ecd12be.jpg> 名大病院で誤診 70代女性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7c8b9051187580f84764403df11b9c88cf532d87703c18578ad0ca8dbd8dafb3.jpg> 日大不正巡り 通報者がイジメ訴え
+      <a href=https://news.yahoo.co.jp/pickup/6540374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/1b93fd351057ca9b80d567d64ba9340a59ba105717ecf57ec2175c203bf941e1.jpg> 障害者に性的暴行疑い 職員逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/401bf6323ad6c43d0241ffa249ca043b217d15a2f07958ae4b4206f1fc71a5e3.jpg> ワンピースに酷似 ゲーム販売停止
+      <a href=https://news.yahoo.co.jp/pickup/6540373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c29af3461d55d44a7030d611ea49bd209a2e801285d5c314a628f6dc3697ddb8.jpg> 「通せんぼの人」に日給1.6万円
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a461fb38511a8da7377c501eb40940ee0b0821c7b214631b6d51a902d4c9dd2.jpg> 異例 女子10000mレース途中で中断
+      <a href=https://news.yahoo.co.jp/pickup/6540370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/401bf6323ad6c43d0241ffa249ca043b217d15a2f07958ae4b4206f1fc71a5e3.jpg> ワンピースに酷似 ゲーム販売停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c4dd654e978972c7ed61cda13da3bb856b05e9bbd4d9c076ad07b19034885a84.jpg> ドラマ版ハリポタ ハリー役ら決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 20:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 21:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
