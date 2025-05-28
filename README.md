@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6008c5b003b1e5fb26bebaca35862f95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0aec2c3bf7afb91a42088c14b6c4511e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eacbd6335d970430a353760bb3f77199268493ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010002-kantele-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「漏えいに関する指示はしていない」斎藤知事改めて否定　元県民局長の「私的情報漏えい」　第三者委員会が「斎藤知事らの指示で行われた可能性が高い」指摘　元総務部長たちが「知事の指示あった」と話していることは「それぞれの認識を話している」と見解示す
+      <a href=https://news.yahoo.co.jp/articles/4c24c80800ce6cf34965383ad507f1249b1749b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239465-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 随意契約の備蓄米の運送で協力要請　小泉農水大臣と中野国交大臣が会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/952a7384a6666f75e02ba6bd3d884454107b3abf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高速道路3社、深夜割見直し延期　4月ETC障害で、開始時期未定
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f96e7de2f675980d8d9ca71bfadf59a185012053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00079359-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「現場を知ってるわけではない」小泉進次郎農相“コメ価格2000円”に森山裕幹事長が厳しい見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d58bfd79523ab83120f45c6b917e236c805f81ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180686-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=658&ch=658&exp=10800&fmt=webp> 小泉大臣「すみません。八幡さん初体験なので」 委員長「八幡君、ちょっとゆっくりお願いします」米価格めぐり“国会混乱”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00079359-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「現場を知ってるわけではない」小泉進次郎農相“コメ価格2000円”に森山裕幹事長が厳しい見解
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e25fa7a7d1ec0e9e7939c2c6ab78a78fb67aa3fda0bd10d75a3ca2c689da6574.jpg> 大川原冤罪 都と国に賠償命じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/921d759a9bc8170ba0409b199e00c535bf28cccceaa65283ca76b5e0d785d38e.jpg> 部活 外部指導者にも「処分指針」
       </a>
@@ -419,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540340>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ボートで川下り中か 男性死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5c994195934a2d275edc937cb6e901a031f68545f5def866be356aeec6013c42.jpg> ボートで川下り中か 男性死亡
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540336>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/ef08971870bedbc34c5503c3f38bf7bf9fe1365d5dd895da6f8bc77d4da14463.jpg> 息子が母の詐欺容疑に気付く 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e90ba9c08c29fe32935599547579ff10e9397d2f5f2c239d8bc9e4d5ef12c026.jpg> 高校バッグにじゃらじゃら 再流行
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/14fadcdc4ad191f66f7bdeedf39a0823bfef175ccf7ab58f1ea39863cc7af7e7.jpg> 中川翔子 楳図かずおさん別れに涙
+      <a href=https://news.yahoo.co.jp/pickup/6540343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/2fa07aa13d0d36656f2280610627a8386666f5684e6d2b6c5b81ad3126453566.jpg> TBS 高比良くるまの復帰経緯説明
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 16:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 17:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
