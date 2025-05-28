@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f8f3b495f40e572be6331b00fdee97c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5f6497a4820e985ca216d958499dd6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af5b4fbb8532acfdabc558bc1d8025ec10257eb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025946-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 海外に激安の日本米、“2000円台”の謎　逆転現象が起きた理由は？
+      <a href=https://news.yahoo.co.jp/articles/0fbe9ee4709909c8da13bb35db69e53a557dacd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280644-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 「備蓄米」を「小泉米」と表現の一部メディアにＸ違和感「いつからブランドに？」「失礼すぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d77df8689c9c92de185e8437eb7a24dd8022a9b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941788-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手3試合連続ホームランで5年連続20号　5月13本と絶好調
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/78250b3637b798484f39b26dd16f6dbcfe7061c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000004-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《結果的にまた高値になる》小泉進次郎・農水相が打ち出した備蓄米放出の新方式に潜む落とし穴　「備蓄米が尽きてコメ価格が上がるのを待つ」業者の思惑
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000004-moneypost-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《結果的にまた高値になる》小泉進次郎・農水相が打ち出した備蓄米放出の新方式に潜む落とし穴　「備蓄米が尽きてコメ価格が上がるのを待つ」業者の思惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/101b67128b4078163222f5a6347a426a53c1a079>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000002-hometvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子生徒が同級生3人刺し逮捕　1週間ぶり登校再開　被害生徒も事件前学校に相談か　広島
+      <a href=https://news.yahoo.co.jp/articles/4a578bed70052ed6689d1fafee3863ea6a508dab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00346240-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田剛典　日本人のパスポート保有率およそ１７％に驚く「人生一度きり。ぜひ行ってほしい」
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/72dfca935961f912ec8ccc69870ea6b443b97e108c684a82bcc83fd27282198c.jpg> 日産 1兆円規模の資金調達を検討
+      <a href=https://news.yahoo.co.jp/pickup/6540329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/921d759a9bc8170ba0409b199e00c535bf28cccceaa65283ca76b5e0d785d38e.jpg> 部活 外部指導者にも「処分指針」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/7f62b232d34c9daa8c2247dff0f6f61c12cf5424836a2f9affbdc514bbf7ea9f.jpg> 女子生徒3人刺傷 対面授業を再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a308206b0bfb6438b6c35a92c4eafb88e71b1899b431925849aa2e992fbaf8a.jpg> 電話怖い 言葉への責任感強い若者
+      <a href=https://news.yahoo.co.jp/pickup/6540338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d7c71f696d688edb388641efe661ca9beb4137084bd9ccb72b18169096945ad0.jpg> 備蓄米の契約受付一旦休止 課題
       </a>
     </td>
   </tr>
@@ -442,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02225943/title-1748387723818.jpeg?exp=10800> 重岡銀次朗 ダウンなく原因不明
+      <a href=https://news.yahoo.co.jp/pickup/6540334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f19d889ea9872a06618ce884b354b56acbdbf5e7a99e01347ef735e000f414d5.jpg> 代表復帰のMF佐野海舟 謝罪会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540322>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02226102/title-1748393197874.jpeg?exp=10800> 梅宮アンナ結婚 決断支持の声多く
+      <a href=https://news.yahoo.co.jp/pickup/6540337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4dbf4be66ec108f79635ca4439ab56c77c7e0a42f2ec1dfc233929d205bbfe9d.jpg> 岩田剛典 家族旅行で母うれし泣き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/14fadcdc4ad191f66f7bdeedf39a0823bfef175ccf7ab58f1ea39863cc7af7e7.jpg> 中川翔子 楳図かずおさん別れに涙
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 15:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 16:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
