@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4fdad05ba1b00b79b2d12aa400669b5d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18d3649235c436fbf7307bdbfd218464.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b914396f908631949b2c040f843b4357a71b1b03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07239489-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「随意契約」備蓄米販売の課題“精米”“パッケージ印刷”　小泉進次郎農水大臣がコメ卸売団体に「精米フル稼働」の協力要請　円滑な流通へ
+      <a href=https://news.yahoo.co.jp/articles/a0000cb5c6a3ab65eddc715ef81bb1b1690a111c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-07533947-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米『古古古米は5キロで1800円程度』　関西では味への懸念や「農家のこともわかって」との声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7dc63f2b0e4775730cec2ef6e1c339d140afb4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00051454-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=605&ch=605&exp=10800&fmt=webp> 高速道路の深夜割引見直しさらに延期　ＥＴＣ障害受け「より慎重なシステムの整備が必要」　滞留問題解消へ対象時間拡大
+      <a href=https://news.yahoo.co.jp/articles/7e2d09ae4cd201ca80c0ae4066b85bc080becc6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574931-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=466&ch=466&exp=10800&fmt=webp> IVEレイ、美肌輝く純白ロングドレス姿で登場「白鳥になったような」THE BOYZジュヨンと息のあったやり取り【ASEA 2025 レッドカーペット】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f96e7de2f675980d8d9ca71bfadf59a185012053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00079359-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「現場を知ってるわけではない」小泉進次郎農相“コメ価格2000円”に森山裕幹事長が厳しい見解
+      <a href=https://news.yahoo.co.jp/articles/7f8628c7de3a0d3df02203b902003581ca0efa0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978577-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> 野党3党トップから備蓄米放出など政府対応に懸念の声　小泉農水相との“直接対決”終えて
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/13ae6b60828fa0a2a91161b0b8e70dca2cd7d5bb69ac2a434aee0bc625cfdda5.jpg> 大川原 裁判長は以前も画期的判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/d7c71f696d688edb388641efe661ca9beb4137084bd9ccb72b18169096945ad0.jpg> 備蓄米の契約受付一旦休止 課題
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540351>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日枝氏 東海TV社外取締役退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540335>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/e90ba9c08c29fe32935599547579ff10e9397d2f5f2c239d8bc9e4d5ef12c026.jpg> 高校バッグにじゃらじゃら 再流行
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/2fa07aa13d0d36656f2280610627a8386666f5684e6d2b6c5b81ad3126453566.jpg> TBS 高比良くるまの復帰経緯説明
+      <a href=https://news.yahoo.co.jp/pickup/6540352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/015d3e69f843c5490cb9599696f33ac065e99634661217dbd56d1d2acb66f1dc.jpg> 大商大野球部 全日本選手権を辞退
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 17:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 18:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
