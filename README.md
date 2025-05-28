@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80a3062ff077f8bf9bb30beb0d96b84e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b64fd97e24d202c3615739e2f00c4cc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3b446bb75dae5bfb008e61c25e1ffc6a9f9bdf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90028257-umk-000-1-thumb.jpg?exp=10800&fmt=webp> 過去最高更新続くコメ価格　店頭価格の現状・備蓄米取り扱いへの対応は
+      <a href=https://news.yahoo.co.jp/articles/e985c386b39fef2f7423dae848546f25adb46cd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030321-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> “令和のコメ騒動”で街の米穀店は存続の危機「コメがなかなか手に入らない」　名古屋の米穀店の現状は…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/949e6592e6d83892d0fa5983d459f707b23059ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-04574732-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=466&ch=466&exp=10800&fmt=webp> NEXZ、特別なステージ予告でダンスブレイク披露【ASEA 2025 レッドカーペット】
+      <a href=https://news.yahoo.co.jp/articles/16b542ee33fb4f796967029208c0d327eafd815f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90030324-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 担当医師が病歴を失念　治療を受けていた女性患者が死亡　名古屋大学医学部付属病院
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5cfc9f525f627243e386f2cb7e948e496148e32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000054-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「農家に失礼」備蓄米の「小泉米」呼称に疑問の声…就任1週間の“進次郎劇場”に広がる反感
+      <a href=https://news.yahoo.co.jp/articles/2d38d2e1a6f0b4c4104fb2d3867012a3c7e6ce00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90026296-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新潟県知事 米の価格安定化へ期待「極めて異例の思い切った政策」 備蓄米“随意契約”に県内事業者も申し込み
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f489ed7b43ea7c2fece700b54f95c5af23a1410ff365ce4ba5b985016ef3cb8b.jpg> 斎藤知事 処分は「給与カット」
+      <a href=https://news.yahoo.co.jp/pickup/6540362>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 名大病院で誤診 70代女性死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 19:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 19:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
