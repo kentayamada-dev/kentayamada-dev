@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2324a3fa707ed2d1d996479e675b8645.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a03c7923cddb327b6c00011ce45def3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e73d8da161105e9d3db28f8255cfb99afe6a48fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=416&ch=416&exp=10800&fmt=webp> 備蓄米の随意契約、対象を中小スーパーや米穀店に切り替え再開へ…２０２１年産米を５キロ１８００円程度で
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fe7e87646117c40e06b78a9acb8fbd81d5662db>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e964891bb31125a0de3eddd73758f863790b136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21940475-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「備蓄米」 契約相次ぎ随意契約の受付を一旦休止　見えてきた課題…「精米」「パッケージ」で目詰まりに? 重すぎて「輸送」も大変【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d2bc8081bdde3e077c047d3536c0641b8f665f8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-09477949-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日鉄のUSスチール買収計画めぐり…米政府が“拒否権行使できる株式”保有案が浮上
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f8010620443ab46a54aa743c6e217a0fbcd4320677259dd90e7c00660963e0b0.jpg> 備蓄米 21年産は5kg1800円程度に
+      <a href=https://news.yahoo.co.jp/pickup/6540319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5f817be499531e23b3dda87c4e1baf04ab33970b7ced978dbbeebb1a8417c49e.jpg> AIに初めて特化「AI推進法」成立
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0be7d0686f0a497a0d56bb0de554cf04cb7619d35fafde9398758719cfc66307.jpg> 路上で倒れていた男性死亡 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/cef6c853e4029e47ff84120d8b0fac222c58e6c91308ffca6cdea036b2dfb103.jpg> 赤ちゃん浴槽に沈めた疑い 母逮捕
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9924ac7ed78fe1f593a09f479ecbe39d9cbdfef4b39274253f056ce868e90966.jpg> 街中で悪質ぶつかり行為 どう対応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8273550fb73329a8c01400c30ce2db4b82a15380fb0d53ce9ea80ddf1457317b.jpg> セルフレジ使用 スキャン忘れたら
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/4e20aae02dc0e8e264187a88db07636c74dd847095c942381a8f9678e61a4f32.jpg> 綾瀬はるか 最期は笑って迎えたい
+      <a href=https://news.yahoo.co.jp/pickup/6540309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02225943/title-1748387723818.jpeg?exp=10800> 重岡銀次朗 ダウンなく原因不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540322>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02226102/title-1748393197874.jpeg?exp=10800> 梅宮アンナ結婚 決断支持の声多く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 13:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 14:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
