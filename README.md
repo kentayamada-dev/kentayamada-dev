@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a03c7923cddb327b6c00011ce45def3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dcdb7e653fbe02f46822cf79ee927dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e73d8da161105e9d3db28f8255cfb99afe6a48fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=416&ch=416&exp=10800&fmt=webp> 備蓄米の随意契約、対象を中小スーパーや米穀店に切り替え再開へ…２０２１年産米を５キロ１８００円程度で
+      <a href=https://news.yahoo.co.jp/articles/02d1a780b8b2aa8932f94c6888de70032edce12e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-35280625-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=124&cw=1058&ch=1058&exp=10800&fmt=webp> 50歳人気女性芸人、買うコメ聞かれ「古古古米と古古米…“一発屋”なので」とスタジオ笑わせる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fe7e87646117c40e06b78a9acb8fbd81d5662db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025936-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【訃報】歌手・久保浩さん　７８歳　「霧の中の少女」「十九の春」などヒット曲多数
+      <a href=https://news.yahoo.co.jp/articles/e8bc580ca7bfa4621238f7572a5e622ce10870e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941443-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】国民民主党・玉木代表「すっからかんをどう補うのか」　小泉農水大臣の「需要があれば無制限」備蓄米めぐる方針に懸念示す　国会・農水委員会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50c7e37ab5a1b4908f0d85eb2a7c5eb22f608a97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941193-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】「バナナのたたき売りじゃない」小泉農水大臣が狙う”5キロ2000円”めぐり立憲・野田氏が追及　国会・農水委員会で備蓄米の“随意契約”論戦
+      <a href=https://news.yahoo.co.jp/articles/7e4dcc98cffdc6ee8aa2b66c6b94928dad69f9d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10180653-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=581&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、レフトスタンドへ今季20号の2ランHR チームは9対5で勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b0b13e7ed44650c52c38f0e19980236522f91a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010017-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャース・大谷翔平が3試合連発で両リーグ最速となる20号2ランホームラン！
+      <a href=https://news.yahoo.co.jp/articles/101b67128b4078163222f5a6347a426a53c1a079>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000002-hometvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子生徒が同級生3人刺し逮捕　1週間ぶり登校再開　被害生徒も事件前学校に相談か　広島
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/30fa7cc69fdbcf3ef2541c4ee80f57e3edc646baf9733340bac360231fe14e9b.jpg> 大川原冤罪 都と国に賠償命じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540319>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5f817be499531e23b3dda87c4e1baf04ab33970b7ced978dbbeebb1a8417c49e.jpg> AIに初めて特化「AI推進法」成立
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b89cf4e31362e71d1eb6600c71aaf5cef1608cb71638eb0f70fdfb5f5f5bc09c.jpg> 旧姓使用 海外でトラブル後絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6540325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/72dfca935961f912ec8ccc69870ea6b443b97e108c684a82bcc83fd27282198c.jpg> 日産 1兆円規模の資金調達を検討
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/a24990e755c05e7c9d35a8da5bf553d7c4a5b4880b2199aff7c7368d6062ab37.jpg> 申し込み少ない古古古米 どんな味
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/8273550fb73329a8c01400c30ce2db4b82a15380fb0d53ce9ea80ddf1457317b.jpg> セルフレジ使用 スキャン忘れたら
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540309>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02225943/title-1748387723818.jpeg?exp=10800> 重岡銀次朗 ダウンなく原因不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0e6513e6f67b00b5e44e0e99e50fae651b4224d8ce2762eba1cce0d36b5a2b8a.jpg> 歌手の久保浩さん死去 78歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 14:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 14:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
