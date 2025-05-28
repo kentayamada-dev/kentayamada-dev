@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/yz2KFMLN5gc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b181828054596df772410293560e0bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a89c1f70becf9b5bba63c97c386aa74c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86aefcc6af1a72f5f0f3adc0537b8241a28a65a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-10538625-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=683&ch=683&exp=10800&fmt=webp> オリオールズ・菅野智之、6回途中3失点で今季5勝目の権利持って降板　ヌートバーに2ラン被弾も修正力発揮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fce211cc15bdc63095e81ee90aa0cacd3f03befc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 「もはや神」「次の総理決定」小泉大臣、北海道でも米「2000円台、出てきた」SNS投稿！筆者に寄せられた「批判してた愚民は頭を下げろ」という誹謗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a7190ed5ed4921be480368e5d8925993960e0f5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米議員、米政府の「黄金株」に言及　USスチール買収計画で生産減少しないよう保証
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2baffec17e41c27c66c4a3d2478589ef4af5e6d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000352-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=639&ch=639&exp=10800&fmt=webp> しずちゃん、「映画アンパンマン」で蒼井優と19年ぶり共演　相方・山里亮太には「私が先でごめんな！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9584f570471ecad7078ab72105683bcecbcfc49>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010000-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 令和の米騒動、農協は「悪玉」か？　東大・鈴木宣弘教授がファクトチェック
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/807dba9396924d3848656848ef9a68edbe9eca84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-08364527-stv-000-1-thumb.jpg?exp=10800&fmt=webp> スーパー社長「喉から手が出るほど欲しい」　安価な備蓄米流通で反応さまざま　北海道
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/21ab6fa51976dd5fca38a406a475b9dc2e75fb2f5622d4a5b47412839b806ab8.jpg> USS買収計画 米に「黄金株」案
+      <a href=https://news.yahoo.co.jp/pickup/6540279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/56eb0ed209e49e020eca280b4705d2b7d1f16eb5ab8d4046c6fc2aa038fa137b.jpg> 韓国大統領選 保守系一本化不発か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f4e369cf2ede40695b3447619fe44583e052cee4ce3036722d93f518ac82dc64.jpg> 米政権 ハーバード大と契約中止へ
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/eb45fc1bf04b5a1fafc7b96fc78bef863a9098289fca4d9f7484f762d28b79d9.jpg> 歩道で男性刺され死亡 知人逮捕へ
+      <a href=https://news.yahoo.co.jp/pickup/6540291>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02224719/title-1748308688867.jpeg?exp=10800> 「ゆるゆる転職」企業はどう対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/5df8be298d9ce81dba15d3fef380a2b95216c5fe6f39c6754aa98dbf0f5bb767.jpg> 韓国チキンバーガー店 善戦の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/6a19dea58cf6e60c6c390654117207a994d10422c075183f8409353c1c93975b.jpg> 菅野智之と対決 ヌートバーに快音
+      <a href=https://news.yahoo.co.jp/pickup/6540293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c3d24c66aade92ae186c93d8647bba3323c84638ddc693aa6a1942c3f35c1bc2.jpg> 大の里の横綱昇進が決定 満場一致
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 09:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 09:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
