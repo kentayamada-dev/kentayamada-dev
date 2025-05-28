@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c6fda9b319e0e79c042746c34c6dc5d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2324a3fa707ed2d1d996479e675b8645.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7fe7e87646117c40e06b78a9acb8fbd81d5662db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-90025936-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【訃報】歌手・久保浩さん　７８歳　「霧の中の少女」「十九の春」などヒット曲多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50c7e37ab5a1b4908f0d85eb2a7c5eb22f608a97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21941193-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【やりとり全文】「バナナのたたき売りじゃない」小泉農水大臣が狙う”5キロ2000円”めぐり立憲・野田氏が追及　国会・農水委員会で備蓄米の“随意契約”論戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b0b13e7ed44650c52c38f0e19980236522f91a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00010017-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャース・大谷翔平が3試合連発で両リーグ最速となる20号2ランホームラン！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e964891bb31125a0de3eddd73758f863790b136>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-21940475-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「備蓄米」 契約相次ぎ随意契約の受付を一旦休止　見えてきた課題…「精米」「パッケージ」で目詰まりに? 重すぎて「輸送」も大変【news23】
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a33217532e68f0891e4f0103181af73886e716b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=157&cw=533&ch=533&exp=10800&fmt=webp> 乳児殺害容疑で母親逮捕　「育児の自信がなくなった」　千葉・松戸
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d2bc8081bdde3e077c047d3536c0641b8f665f8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-09477949-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日鉄のUSスチール買収計画めぐり…米政府が“拒否権行使できる株式”保有案が浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8914376eddc21def131216dc493768150ec86b48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978320-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「JAを通すとコメ価格が上がる」にJA福井県が異議　5キロ2000円台の“格安備蓄米”には「適正価格は3600円程度」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82f480dd728bf4a86e06d0827aa6aa3d20798591>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00978271-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】大谷翔平3試合連続・両リーグ最速20号ホームランのドジャースが連勝!不振のコンフォートとマンシーにも一発飛び出す
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/0be7d0686f0a497a0d56bb0de554cf04cb7619d35fafde9398758719cfc66307.jpg> 路上で倒れていた男性死亡 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fc0b276c0114a40c28de560beffb5635691a6cb0c83a8f34fd2fd856b764d2cb.jpg> セブン抹茶パフェ 6県で自主回収
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/799250aefa0bf5248b82287e41fb6422a3f3b3718f0ff887e849f21fd53225d9.jpg> 川崎20人殺傷事件6年 現場に献花
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/28 13:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/28 13:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
