@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ae0a171380915c4d5122d750714c4a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/969f55ff9e86ae3b53d4a3aa09cdcd2f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c228db28606cad9c39f441aa86c58602f1932951>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 備蓄米の随意契約、30日に再開　大手向けは61社21万トンで確定
+      <a href=https://news.yahoo.co.jp/articles/90718141419a1f14e4c10b8b1dc55ef28fdb747d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-21945631-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岐阜県で最大震度1の地震　岐阜県・高山市、飛騨市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f00ee224b1a108b383b0cb53f6101b25e8ffb7f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01437887-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東中心に雨…警報級の大雨となる恐れも
+      <a href=https://news.yahoo.co.jp/articles/50f278845deda4ed97fe9f453d78bc1d31d4fd41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-21945596-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 【今週末の雨予報・最新】31日（土）は関東甲信・東海など東日本〜北日本で「急な強い雨」に注意　6月1日（日）は北日本・北陸で「雨」か　今後の天気は?【雨と風のシミュレーション・気象庁の気象情報】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c228db28606cad9c39f441aa86c58602f1932951>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 備蓄米の随意契約、30日に再開　大手向けは61社21万トンで確定
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0e9043868ae2d44df3abc3b2100a497d9fc4d244>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢氏、4回目の日米関税協議へ出発　相互・追加関税の撤廃目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f3847253447064dc14a71c5e577921b51b0c18b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01922932-knb-000-2-thumb.jpg?exp=10800&fmt=webp> 飛騨地方で最大震度4の地震　富山県内は震度2
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000084-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢氏、4回目の日米関税協議へ出発　相互・追加関税の撤廃目指す
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/79e87427ad66f9f1e268c671ace0280174b091b8b3535227adb17a23e91fcff8.jpg> TV局の人権施策不十分 国際NGO
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/70d651eee3178b3bfa397c8745e58dcad3d7e7859fbcbaeca01cfc6985d1a379.jpg> 小泉農相 古い備蓄米「おいしい」
+      <a href=https://news.yahoo.co.jp/pickup/6540436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2afafbb042a47f23bb42baf8ab160723bab13221f830f137b42a774b844e135f.jpg> 米価格でJAに批判 元理事ら見解
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3a80f46b16ccee8030d153d1451512e6f8a89900388366a50c8c98e867f0927a.jpg> 秒殺KO劇の武居会見 尚弥が乱入
+      <a href=https://news.yahoo.co.jp/pickup/6540494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/6df93a6e8de81671486bd488245444d76367c668e775614091b05cfc0f448021.jpg> 「猫背」の子が増加 識者警鐘の訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/289ce0476aabde1e025d727b5a97eb65a6524c5e72482cd1276441a1cc24227f.jpg> だめもとで スイス館に「ス」イス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 21:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 21:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
