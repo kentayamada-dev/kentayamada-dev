@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/969f55ff9e86ae3b53d4a3aa09cdcd2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/326a2459e4814a360980902c1fe72cb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c228db28606cad9c39f441aa86c58602f1932951>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 備蓄米の随意契約、30日に再開　大手向けは61社21万トンで確定
+      <a href=https://news.yahoo.co.jp/articles/f8f9acf8a330535810d7649d2e193d7223551fbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 令和喜多みな実が解散を発表　7月開催の単独公演で17年の活動に幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d066dbca8f04af78df6e0c7ffb015828a40ec41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00018882-bengocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 主要テレビ局の人権施策は「不十分」NHKも「立ち遅れ」、中居フジ問題受けたアンケート調査で浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/a3f17e04669775d3185157b70ec8595645069374>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000128-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=828&ch=828&exp=10800&fmt=webp> 備蓄米「家畜の餌」発言が波紋　与野党批判、国民・玉木氏釈明
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/df657a4f669bb9e64c97632f91d51f9783c1c2d6762e9cb915892a3f835d97bc.jpg> 別姓法案 30日に審議入りで合意
+      <a href=https://news.yahoo.co.jp/pickup/6540495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/84aede08b611569221a74377cbbe3057fcaac5c4a9e042db9f284f1e29bf466e.jpg> 備蓄米 コンビニ3社の申請不受理
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/70f73ef5957206f28f6d7f62436a247fac34301be71dd186e106c797ded24a2c.jpg> クマがIC近くに 蜂蜜なめて去る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/6df93a6e8de81671486bd488245444d76367c668e775614091b05cfc0f448021.jpg> 「猫背」の子が増加 識者警鐘の訳
+      <a href=https://news.yahoo.co.jp/pickup/6540497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/fe3fd804829d72f55f39c91ff4f9d55bd2d0cf8fd0eef67dccf6c19341658d5a.jpg> ガスト店長年収1000万円超も 狙い
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f550bcc14919b09649a311af7edfda84204dddc5a5d04178cedb8d0793340914.jpg> お笑い・令和喜多みな実 解散発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 21:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 22:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
