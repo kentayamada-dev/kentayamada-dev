@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7525419686bb077c6cc7c14c9d8c8ea2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b50a8ea7b4ec0ac36fd0c32d9a90229.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/649c91168e5c675754dba28d61fe8e8d773d5d50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000390-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 混沌とする世界バンタム級の勢力図…鍵を握るWBA休養王者が警戒する相手は！？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd71f834d0af4041b528e2f89a024bcc2b513d78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000104-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日米首脳電話会談開始か　4回目の日米関税交渉前にトップ会談
+      <a href=https://news.yahoo.co.jp/articles/1382bd57f89a380725e74efee938116900cd8363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ大統領と電話会談、日本の考え方伝えた＝関税協議で石破首相
       </a>
     </td>
   </tr>
@@ -390,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a3f17e04669775d3185157b70ec8595645069374>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000128-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=828&ch=828&exp=10800&fmt=webp> 備蓄米「家畜の餌」発言が波紋　与野党批判、国民・玉木氏釈明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000128-jij-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=828&ch=828&exp=10800&fmt=webp> 備蓄米「家畜の餌」発言が波紋　与野党批判、国民・玉木氏釈明
       </a>
     </td>
   </tr>
@@ -402,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/84aede08b611569221a74377cbbe3057fcaac5c4a9e042db9f284f1e29bf466e.jpg> 備蓄米 コンビニ3社の申請不受理
+      <a href=https://news.yahoo.co.jp/pickup/6540505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7b11f901dd85628b916906f39591178d244664c9eb4f087a91b984799ebcac16.jpg> 関税巡り 日米首脳が電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8d81a61df2cb08ed7198852a9c8e35a6fbd2e4e26f401f71d33606f6c0e8d101.jpg> 今年の台風 平年並か多くなる予想
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/62d7896741112c3fbaa8eb8223214cad74834ddccc7b1b90a865d201ca32713f.jpg> 「ゼロ富士」コース 30分遠回りに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540497>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/fe3fd804829d72f55f39c91ff4f9d55bd2d0cf8fd0eef67dccf6c19341658d5a.jpg> ガスト店長年収1000万円超も 狙い
       </a>
@@ -442,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a9594345b4649bba5066113cd54b7c66251d7c77beb2c832355d6e8e152f394e.jpg> 新紙幣 なぜ「F」だけ角が丸い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/8cf65654d3ba16005771ccdd9adf60ca1f0ee534485ee86abfb8c29fd7cba6eb.jpg> NEWSに曲 take4氏死去していた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f550bcc14919b09649a311af7edfda84204dddc5a5d04178cedb8d0793340914.jpg> お笑い・令和喜多みな実 解散発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/89c7800963020fc44d9e3ef96a6831a07dc6389e94c9c7cdd732acdd955b91d1.jpg> NEWSに曲 take4氏死去していた
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 23:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 23:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
