@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bf7a8ad581319b874dbeb2cbbb6cfba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f01aab84ed46f48053fd56d343d0ff2b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02c269e21c4c79b5d118209eaccdc2b765300f2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【地震速報】大野で震度1を観測　岐阜県飛騨地方で震度2の地震
+      <a href=https://news.yahoo.co.jp/articles/2ef07f3fcfef5c0cc7558fde22fd031a90674c62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979217-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自】石破首相が29日夜にアメリカ・トランプ大統領と電話会談する方向で調整　4度目の関税交渉を前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c13f5af5ed39c9546126ead250e89b2b4dd0161a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239702-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米引き渡し開始　楽天など通販サイトは販売直後に完売　大手コンビニ3社は“落選”
+      <a href=https://news.yahoo.co.jp/articles/69a5ca1d2192babc87b7f86979978df3e17633a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90023383-nbstv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【地震】岐阜県高山市、飛騨市で震度2　愛知県、長野県、福井県でも震度1の揺れを観測　各地の震度は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d4c2640a646f15473016e99164555a8d9040188>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000251-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=228&cw=744&ch=744&exp=10800&fmt=webp> 政府備蓄米　コンビニ大手3社が“落選”　SNSは失望「残念過ぎる」「1kg米いいなと思ってたのに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a17ce284934390e1a24ff172ee8cfb60c9f9e246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010023-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=320&ch=320&exp=10800&fmt=webp> エンゼルス・菊池雄星、5回1失点の好投も報われず...チームは無念の零封負け
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2b6aa2cb08df7ed9daa59fb9e22390cfc956d83>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00029993-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 30日は関東で警報級大雨の可能性　土日は西日本から天気回復　運動会日和に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06f7586de6aa9998f4809d3ba0ed7058eee52ff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90019730-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】日清食品「日清のどん兵衛 きつねうどんミニ (西日本向け)」を回収　一部カップ容器に破損判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e160692f2e494c59695d2b6c1718924cb3864bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-97976840-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢再生相、米関税措置の見直し引き続き求める－４回目の日米交渉へ
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540440>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540452>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で海軍機が墜落 2人死亡
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540452>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で海軍機が墜落 2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/fe9184c63f2b813d14f54363bec86cc83f3c47a1a4358e25304e4da69ceba64b.jpg> ほぼ規格外のコメ 品質にプロ怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/1eda2ea35f80522bf81d6955c0c900708d32552f9758a4f38d4e163076c98065.jpg> 江戸川爆発 ボンベに1964年の刻印
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/21f2346ca6d539cafcc7d345868af95339cb90161fe08dc35b6e006ac85f1c02.jpg> 男性の首を刺した疑い 高校生逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4485be7cf151e950c4f3f33eb4523b9cf782fa6734d5e2ab1702c6d214ef33bd.jpg> 日清食品 どん兵衛ミニを自主回収
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 16:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 17:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
