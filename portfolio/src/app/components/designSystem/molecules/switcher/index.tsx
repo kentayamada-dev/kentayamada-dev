@@ -18,7 +18,7 @@ const Switcher: SwitcherType = (props) => {
             </div>
           )}
         </div>
-        <ListboxOptions className='shadow-primary absolute right-0 z-10 mt-6 overflow-auto rounded-lg bg-white dark:bg-slate-800'>
+        <ListboxOptions className='shadow-primary absolute right-0 z-10 mt-6 w-max overflow-auto rounded-lg bg-white dark:bg-slate-800'>
           {getEntries(props.options).map(([key, { icon, name }]) => {
             return (
               <ListboxOption className='relative' key={key} value={key}>

@@ -4,6 +4,18 @@
   "faq": "FAQ",
   "utilities": "Utilities",
   "projects": "Projects",
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  },
+  "navigation": {
+    "home": "Home",
+    "articles": "Articles",
+    "utilities": "Utilities",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
   "labels": {
     "localeSwitcherLabel": "Language Change",
     "themeSwitcherLabel": "Theme Change",

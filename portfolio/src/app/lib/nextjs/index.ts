@@ -55,14 +55,14 @@ const getMetadataObject = (
   modifiedTime: Date,
   publishedTime: Date
 ): Metadata => {
-  const dict = dictionaries[locale];
-  const commonMetadata = getCommonMetadata(dict.myName, dict.siteName, description, title, coverImage);
+  const { myName, siteName } = dictionaries[locale];
+  const commonMetadata = getCommonMetadata(myName, siteName, description, title, coverImage);
 
   return {
     ...commonMetadata,
     openGraph: {
       ...commonMetadata.openGraph,
-      authors: [dictionaries[locale].myName],
+      authors: [myName],
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
@@ -80,9 +80,9 @@ const getNotFoundMetadataObject = (
     url: string;
   }
 ): Metadata => {
-  const dict = dictionaries[locale];
+  const { myName, siteName } = dictionaries[locale];
 
-  return getCommonMetadata(dict.myName, dict.siteName, description, title, coverImage);
+  return getCommonMetadata(myName, siteName, description, title, coverImage);
 };
 
 export { getMetadataObject, getNotFoundMetadataObject };

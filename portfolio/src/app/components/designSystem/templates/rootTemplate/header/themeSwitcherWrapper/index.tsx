@@ -10,9 +10,10 @@ import type { ThemeSwitcherWrapperType } from './types';
 
 const ThemeSwitcherWrapper: ThemeSwitcherWrapperType = (props) => {
   const { setTheme, theme: currentThemeKey } = useTheme();
+  const theme = themeOptions(props.locale);
   const [isMounted, setIsMounted] = useState(false);
-  const typedCurrentThemeKey = getTypedKey(currentThemeKey, themeOptions, defaultTheme);
-  const currentTheme = themeOptions[typedCurrentThemeKey];
+  const typedCurrentThemeKey = getTypedKey(currentThemeKey, theme, defaultTheme);
+  const currentTheme = theme[typedCurrentThemeKey];
   const { themeSwitcherLabel } = dictionaries[props.locale].labels;
 
   useEffect(() => {
@@ -25,7 +26,7 @@ const ThemeSwitcherWrapper: ThemeSwitcherWrapperType = (props) => {
       buttonLabel={themeSwitcherLabel}
       isMounted={isMounted}
       onChange={setTheme}
-      options={themeOptions}
+      options={theme}
       value={typedCurrentThemeKey}
     />
   );

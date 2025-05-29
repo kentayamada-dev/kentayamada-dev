@@ -48,8 +48,20 @@ type DictionaryType = {
     themeSwitcherLabel: string;
   };
   myName: string;
+  navigation: {
+    articles: string;
+    contact: string;
+    home: string;
+    projects: string;
+    utilities: string;
+  };
   projects: string;
   siteName: string;
+  theme: {
+    dark: string;
+    light: string;
+    system: string;
+  };
   utilities: string;
 };
 

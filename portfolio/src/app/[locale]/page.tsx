@@ -17,7 +17,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'profile',
-    navigationItems.home.href,
+    navigationItems(locale).home.href,
     locale,
     metadata.description,
     metadata.title,

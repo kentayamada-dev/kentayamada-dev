@@ -4,6 +4,18 @@
   "faq": "FAQ",
   "utilities": "ユーティリティ",
   "projects": "プロジェクト",
+  "theme": {
+    "dark": "ダーク",
+    "light": "ライト",
+    "system": "システム"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "articles": "記事",
+    "utilities": "ユーティリティ",
+    "projects": "プロジェクト",
+    "contact": "お問い合わせ"
+  },
   "labels": {
     "localeSwitcherLabel": "言語切り替え",
     "themeSwitcherLabel": "テーマ切り替え",

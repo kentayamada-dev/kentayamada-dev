@@ -10,7 +10,7 @@ const NavItemsWrapper: NavItemsWrapperType = (props) => {
   const pathname = usePathname();
   const pathnameWithoutLocale = getFirstPathSegmentAfterLocale(pathname);
 
-  return <NavItems currentPathname={pathnameWithoutLocale} items={navigationItems} locale={props.locale} />;
+  return <NavItems currentPathname={pathnameWithoutLocale} items={navigationItems(props.locale)} locale={props.locale} />;
 };
 
 export { NavItemsWrapper };

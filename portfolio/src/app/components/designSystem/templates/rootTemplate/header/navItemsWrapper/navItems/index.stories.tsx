@@ -4,22 +4,24 @@ import { mapObjectByKeyValue } from '@/utils';
 import { NavItems } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
+const navigation = navigationItems(defaultLocale);
+
 const meta = {
   argTypes: {
     currentPathname: {
       control: {
-        labels: mapObjectByKeyValue(navigationItems, 'href', 'title'),
+        labels: mapObjectByKeyValue(navigation, 'href', 'title'),
         type: 'select'
       },
-      options: Object.values(navigationItems).map((item) => {
+      options: Object.values(navigation).map((item) => {
         return item.href;
       })
     },
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    currentPathname: navigationItems.home.href,
-    items: navigationItems,
+    currentPathname: navigation.home.href,
+    items: navigation,
     locale: defaultLocale
   },
   component: NavItems

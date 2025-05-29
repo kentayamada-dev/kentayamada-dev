@@ -32,7 +32,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
       handleToggle={handleToggle}
       homepageUrl={props.homepageUrl}
       isOpened={isOpened}
-      items={navigationItems}
+      items={navigationItems(props.locale)}
       locale={props.locale}
     />
   );

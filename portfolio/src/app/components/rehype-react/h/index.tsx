@@ -28,19 +28,19 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
     const headingId = getHeadingId(heading);
     const Tag = heading;
     const isFootnotes = props.children === 'Footnotes';
-    const dict = dictionaries[locale];
+    const { articles } = dictionaries[locale];
 
     return (
       <Tag className='group relative flex items-center' id={headingId}>
         <Link
           // eslint-disable-next-line @typescript-eslint/no-base-to-string, @typescript-eslint/restrict-template-expressions
-          aria-label={`${dict.articles.permalink}: ${props.children}`}
+          aria-label={`${articles.permalink}: ${props.children}`}
           className='absolute -left-5 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
           href={`#${headingId}`}
         >
           <LinkIcon />
         </Link>
-        {isFootnotes ? dict.articles.footnotes : props.children}
+        {isFootnotes ? articles.footnotes : props.children}
       </Tag>
     );
   };

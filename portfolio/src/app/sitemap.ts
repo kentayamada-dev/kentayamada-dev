@@ -18,20 +18,20 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
   };
 
   const staticPaths = arrayOfLocales.flatMap((locale) => {
-    return Object.values(navigationItems).map((item) => {
+    return Object.values(navigationItems(locale)).map((item) => {
       return createSitemapEntry(`${envServer.SITE_URL}/${locale}${item.href}`);
     });
   });
 
   const articlePaths = arrayOfLocales.flatMap((locale) => {
     return articleItems.map((article) => {
-      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems.articles.href}/${article.slug}`, article.sys.publishedAt);
+      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems(locale).articles.href}/${article.slug}`, article.sys.publishedAt);
     });
   });
 
   const utilityPaths = arrayOfLocales.flatMap((locale) => {
     return utilityItems.map((utility) => {
-      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems.utilities.href}/${utility.slug}`, utility.sys.publishedAt);
+      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems(locale).utilities.href}/${utility.slug}`, utility.sys.publishedAt);
     });
   });
 

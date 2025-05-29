@@ -27,7 +27,7 @@ const ALL_CURRENCY_PAIRS: CurrencyPairType[] = currencies.flatMap((base) => {
 });
 
 const Calculator: CalculatorType = (props) => {
-  const dict = dictionaries[props.locale];
+  const { calculator } = dictionaries[props.locale];
   const [currencyPair, setCurrencyPair] = useState<CurrencyPairType>('USD/JPY');
   const [stockProfitDisplay, setStockProfit] = useAnimatedNumber();
   const [forexProfitDisplay, setForexProfit] = useAnimatedNumber();
@@ -46,17 +46,17 @@ const Calculator: CalculatorType = (props) => {
   const items = [
     {
       currency: quoteCurrency,
-      label: dict.calculator.stockProfitLoss,
+      label: calculator.stockProfitLoss,
       value: stockProfitDisplay
     },
     {
       currency: quoteCurrency,
-      label: dict.calculator.forexProfitLoss,
+      label: calculator.forexProfitLoss,
       value: forexProfitDisplay
     },
     {
       currency: quoteCurrency,
-      label: dict.calculator.totalProfitLoss,
+      label: calculator.totalProfitLoss,
       value: totalProfitDisplay
     }
   ];
@@ -102,7 +102,7 @@ const Calculator: CalculatorType = (props) => {
         <InputWithCombobox
           handleOptionChange={handleCurrencyChange}
           inputMode='decimal'
-          label={dict.calculator.buyPrice}
+          label={calculator.buyPrice}
           max='1000'
           min='0.00'
           optionValue={baseCurrency}
@@ -116,7 +116,7 @@ const Calculator: CalculatorType = (props) => {
         <InputWithCombobox
           handleOptionChange={handleCurrencyChange}
           inputMode='decimal'
-          label={dict.calculator.sellPrice}
+          label={calculator.sellPrice}
           max='1000'
           min='0.00'
           optionValue={baseCurrency}
@@ -130,7 +130,7 @@ const Calculator: CalculatorType = (props) => {
         <InputWithCombobox
           handleOptionChange={handleCurrencyPairChange}
           inputMode='decimal'
-          label={dict.calculator.buyRate}
+          label={calculator.buyRate}
           max='1000'
           min='0.00'
           optionValue={currencyPair}
@@ -144,7 +144,7 @@ const Calculator: CalculatorType = (props) => {
         <InputWithCombobox
           handleOptionChange={handleCurrencyPairChange}
           inputMode='decimal'
-          label={dict.calculator.sellRate}
+          label={calculator.sellRate}
           max='1000'
           min='0.00'
           optionValue={currencyPair}
@@ -157,7 +157,7 @@ const Calculator: CalculatorType = (props) => {
         />
         <Input
           inputMode='numeric'
-          label={dict.calculator.shares}
+          label={calculator.shares}
           max='100000'
           min='0'
           placeholder='0'

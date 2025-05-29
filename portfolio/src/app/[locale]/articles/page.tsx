@@ -17,7 +17,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'website',
-    navigationItems.articles.href,
+    navigationItems(locale).articles.href,
     locale,
     metadata.description,
     metadata.title,
@@ -30,7 +30,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const title = dictionaries[locale].articles.latest;
-  const articlesHref = `/${locale}/${navigationItems.articles.href}`;
+  const articlesHref = `/${locale}/${navigationItems(locale).articles.href}`;
 
   const articles = (await getArticles(locale)).map((article) => {
     return {

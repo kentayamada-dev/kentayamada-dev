@@ -15,7 +15,7 @@ import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types
 import type { ContactSchemaType, FormStateType, FormType } from './types';
 
 const Form: FormType = (props) => {
-  const dict = dictionaries[props.locale];
+  const { form } = dictionaries[props.locale];
 
   const { control, register, watch } = useForm<ContactSchemaType>({
     defaultValues: {
@@ -85,8 +85,8 @@ const Form: FormType = (props) => {
         <Input
           autoComplete='given-name'
           defaultValue={state.data?.firstName}
-          label={dict.form.firstName}
-          placeholder={dict.form.placeHolder.firstName}
+          label={form.firstName}
+          placeholder={form.placeHolder.firstName}
           required
           type='text'
           {...register('firstName')}
@@ -94,8 +94,8 @@ const Form: FormType = (props) => {
         <Input
           autoComplete='family-name'
           defaultValue={state.data?.lastName}
-          label={dict.form.lastName}
-          placeholder={dict.form.placeHolder.lastName}
+          label={form.lastName}
+          placeholder={form.placeHolder.lastName}
           required
           type='text'
           {...register('lastName')}
@@ -104,7 +104,7 @@ const Form: FormType = (props) => {
       <Input
         autoComplete='email'
         defaultValue={state.data?.email}
-        label={dict.form.email}
+        label={form.email}
         placeholder='name@example.com'
         required
         type='email'
@@ -112,7 +112,7 @@ const Form: FormType = (props) => {
       />
       <div className='relative'>
         <label className='text-primary block pb-2 text-base font-medium' htmlFor='phoneNumber'>
-          {dict.form.phoneNumber}
+          {form.phoneNumber}
         </label>
         <div
           className={`${state.errors?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}
@@ -171,13 +171,13 @@ const Form: FormType = (props) => {
             {...register('phoneNumber')}
           />
         </div>
-        {state.errors?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{dict.form.phoneNumberError}</p> : null}
+        {state.errors?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{form.phoneNumberError}</p> : null}
       </div>
       <TextArea
         autoComplete='on'
         defaultValue={state.data?.message}
-        label={dict.form.message}
-        placeholder={dict.form.placeHolder.message}
+        label={form.message}
+        placeholder={form.placeHolder.message}
         required
         rows={4}
         {...register('message')}
@@ -198,7 +198,7 @@ const Form: FormType = (props) => {
         disabled={isPending}
         type='submit'
       />
-      {state.errors?.formErrors ? <p className='mt-2 flex justify-center text-red-600'>{dict.form.recaptchaError}</p> : null}
+      {state.errors?.formErrors ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </form>
   );
 };

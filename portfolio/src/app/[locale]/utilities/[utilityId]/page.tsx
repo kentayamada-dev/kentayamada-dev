@@ -37,7 +37,7 @@ const generateMetadata: UtilityGenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'website',
-    `${navigationItems.articles.href}/${utilityId}`,
+    `${navigationItems(locale).articles.href}/${utilityId}`,
     locale,
     utility.subtitle,
     utility.title,
