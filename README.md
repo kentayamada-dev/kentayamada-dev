@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c5dba541b0fbcb40f1c51a07135e829.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1354f2cdbc893e0bc4ce03ed4c4b15b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c934c9bf7a254c5f3789600c33c81a3984f95ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＦＲＢ、関税回避なら利下げ可能　米経済は健全＝シカゴ連銀総裁
+      <a href=https://news.yahoo.co.jp/articles/b3fcf7b31cf069659b646a14643e35035964242e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291782-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1318&ch=1318&exp=10800&fmt=webp> 田崎史郎氏が「えさ米」発言玉木雄一郎氏に生苦言「言葉を使う時はデリカシーがないと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a2de9b7dfd4c611465033ec0c68ef7a27417018>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000010-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=482&ch=482&exp=10800&fmt=webp> スノーボード女子・竹内智香　来季限りで引退　２７年間の競技生活振り返り「おなかいっぱい食べきった」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 05:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
