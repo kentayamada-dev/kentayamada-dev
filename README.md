@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f40457480a327ccc91f41b8ccbb6a1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e82fbfcb9bac94b6d351d00b55c75b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d36c82915400e93f1978e523be325068fe0ea30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180908-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 関税めぐり 石破総理が今夜にもトランプ大統領と電話会談へ
+      <a href=https://news.yahoo.co.jp/articles/9ed912fc1cb29e564496506c72780f6d9aaf84cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000008-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 保育所で男児意識不明 和解へ　福山市が解決金2億7000万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a24485610799745b736db9d26f97120a434aaa27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-04458645-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 5kg約2000円　備蓄米どこで買える？県内主要スーパーの販売予定を徹底調査
+      <a href=https://news.yahoo.co.jp/articles/b89457c69271dad4958bd8b99be5432d7f95725c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-21945268-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東あす（30日）警報級大雨おそれ 気温大幅ダウン 東京の最高気温16℃予想、沖縄では一時洪水警報【Nスタ解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a67c06f1fb6b5e7af236d29627037675cff3255>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979307-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 選択的夫婦別姓法案30日に28年ぶりの審議入り　衆院法務委で与野党合意
+      <a href=https://news.yahoo.co.jp/articles/0e9043868ae2d44df3abc3b2100a497d9fc4d244>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢氏、4回目の日米関税協議へ出発　相互・追加関税の撤廃目指す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7761031666a502fcfeb493cd7ea54340f9aea6d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90020062-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 「購入を検討するが…」県内のコメ販売店が語る 備蓄米の随意契約での売り渡しについて【佐賀県】
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f80fddfe297cd59fc3caa8426331d45b8a1a2e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180889-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ネタニヤフ首相「ムハンマド・シンワル氏を排除した」ハマス最高幹部殺害を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9437eac00d5d0a473d0b5fa5175bc6e35bf1fccff13fa0e63906181ae2d24d9a.jpg> 29日夜に日米首脳電話会談を調整
+      <a href=https://news.yahoo.co.jp/pickup/6540477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/df657a4f669bb9e64c97632f91d51f9783c1c2d6762e9cb915892a3f835d97bc.jpg> 別姓法案 30日に審議入りで合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2ee110279c5426cc925b79730255673b93d274c8c7e48c6829271b52828adcea.jpg> 赤ちゃんポスト 泉佐野市が設置へ
+      <a href=https://news.yahoo.co.jp/pickup/6540478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/894ab9fe897e3ba5df90b110c79451763eb50f8475020be303c8a040cc94a598.jpg> 鈴木法相 袴田さんの姉に謝罪
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/575481dd8c2084f2a65177c887b9ecf90013f87a0d3b958cd34ce6031a0edfd9.jpg> 富士通ゼネラルがパロマ傘下に
+      <a href=https://news.yahoo.co.jp/pickup/6540482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9855d50fe4c48ec0fe393a0213bf4a9c3ac59df20e7063aa278e36e642e733bf.jpg> 喉詰まり1歳窒息 2.7億円賠償へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/eb5c566a92e56581a06fb4615a477e2ea631801646759fbb76a2d23005e7bbe1.jpg> ウッズ息子 ジュニア大会で初優勝
+      <a href=https://news.yahoo.co.jp/pickup/6540480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/69d36741b84aab13bad19e98a886b3d78243210776f28a23fc4b1924877be520.jpg> 幻の逆転弾 中日の抗議文受理せず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 19:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 19:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
