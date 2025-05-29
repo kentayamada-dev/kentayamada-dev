@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff7d8f7d2ec97c96a61dfc5f9d1d4e26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d8f3b9af15c5593aea5a8cb4c262ffe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c62764b7e09ffac5d13fe1b1fbb915581ca244be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00029999-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 30日の関東　沿岸部では激しい雨や雷雨　最高気温20℃に届かず空気ひんやり
+      <a href=https://news.yahoo.co.jp/articles/3c5c9121a68be8ebc26bb7849803ccaf9e98afb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010000-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】30日の天気 - 朝は関東で本降りの雨　関東は気温上がらず北風冷たい　西日本は雷雨に注意（30日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a19012a53e857cfb29ce5969fc42bb7444f9ed37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291243-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 武居由樹の会見に井上尚弥が乱入「次は誰？」の質問にしどろもどろ「て、て、天心？」
+      <a href=https://news.yahoo.co.jp/articles/4fbec9dba5548f3d144da8a82785d7a290a0e18d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00541970-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 衝撃127秒TKOの裏で抱えた不安　故障で調整遅れた武居由樹…陣営に繰り返した「スパーはいつ？」
       </a>
     </td>
   </tr>
@@ -379,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c4655a41ab37a0ed0245517085bed4d583643e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010002-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 斎藤工と永尾柚乃が異色バディに　韓国ドラマ原作『誘拐の日』7月8日よりテレ朝で放送
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540511>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> レアアース製錬協力 米に提案調整
+      <a href=https://news.yahoo.co.jp/pickup/6540517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d2cd17044bbf1c42a5820ca13d643b936957a563590f5eca15d2394a4f76b5e2.jpg> 中国 日本産水産物輸入手続きへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/36d9ebfcfa60d9459655144cea141d6544960849772704ebd54d481730f694a5.jpg> 日本もシリア制裁解除へ
+      <a href=https://news.yahoo.co.jp/pickup/6540513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/024d29a7e40c7addadf4facce9fe09ffc05f24961ca5b6c6e2198788ac7535b7.jpg> 関東は午前中が雨風ピーク 肌寒く
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540491>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6a72c287bf4d52b8f765b0bd804b63f2fb040ded4c337a4e7777b58df753b62d.jpg> 埼玉の質店強盗 逃走の男公開手配
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dcb5f8013052159d192fd8163014b49cfaf6832f60054d5e9b7abc444e87f6a5.jpg> 備蓄米 おいしく食べるコツ
+      <a href=https://news.yahoo.co.jp/pickup/6540491>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 07:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 08:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
