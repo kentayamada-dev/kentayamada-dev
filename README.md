@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3fdd9e5cfadb618a1566ac107f188fe3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1d92fe0d7dd33600d63dec375c02216.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfca3d4cd2ed5b4aa3fec3b6310a1f024ae16cde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00050187-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 防衛装備品の購入拡大「視野に入りうる」…赤沢経済再生相、４回目の閣僚級協議へ訪米
+      <a href=https://news.yahoo.co.jp/articles/f9b80dca57b920c6c6129a4f366760ef93955012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000078-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今夜にも石破総理がトランプ大統領に直談判へ　日米関税交渉めぐり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e474ab25a526d9636c24da2c439fd42965de1e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-02569452-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【備蓄米】大手小売業者へ引き渡し開始　サイト予約は本日分完売も　中小向け“古古古米”に不満の声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f3847253447064dc14a71c5e577921b51b0c18b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01922932-knb-000-2-thumb.jpg?exp=10800&fmt=webp> 飛騨地方で最大震度4の地震　富山県内は震度2
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f80fddfe297cd59fc3caa8426331d45b8a1a2e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180889-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ネタニヤフ首相「ムハンマド・シンワル氏を排除した」ハマス最高幹部殺害を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d7194f7751087d878395069f36c474941d2358b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07853262-fbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 【震度速報】県内10市町で震度1　震源地は岐阜県飛騨地方　津波の心配なし　高山市で最大震度4
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d4c2640a646f15473016e99164555a8d9040188>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000251-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=228&cw=744&ch=744&exp=10800&fmt=webp> 政府備蓄米　コンビニ大手3社が“落選”　SNSは失望「残念過ぎる」「1kg米いいなと思ってたのに」
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/239895b738832e48ad14cd574872390ba278ef340f2f0ae329ae947d697e0412.jpg> 29日夜に日米首脳電話会談を調整
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9437eac00d5d0a473d0b5fa5175bc6e35bf1fccff13fa0e63906181ae2d24d9a.jpg> 29日夜に日米首脳電話会談を調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
+      <a href=https://news.yahoo.co.jp/pickup/6540463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4cbc15ee0046e3e51dce5b6616825b1a1fac8fa686a074c805c8bf95a411e55b.jpg> 米国でビザ規制強化へ 中国が抗議
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2811ef18de690e2ad7cf70149ae59bbd47971c98b2eac6aade7734af1aa6b209.jpg> 痴漢被害をChatbotに投稿 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540455>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4485be7cf151e950c4f3f33eb4523b9cf782fa6734d5e2ab1702c6d214ef33bd.jpg> 日清食品 どん兵衛ミニを自主回収
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2813b0458b4f5f3642b7fed3e047bd1cd9268f8f77ba199aa9e7dc1f301c782.jpg> 菊池雄星5敗目 敬遠にブーイング
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bb9cf0e1679e6be716b6e44e72cb6ff26b3d05235d304ecacc9d1b43b03775ea.jpg> 藤岡弘、79歳 子の成長見届けたい
+      <a href=https://news.yahoo.co.jp/pickup/6540465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dff89aeb85fd4187ebb900613c458bb58340d487ac98eabb680d68c69c7cd048.jpg> 重岡銀次朗は小康状態 ジム発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 17:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 18:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
