@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd234ee48e3fde173220eb4b2eebb038.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8d6c716f9603e80ede5a4dcd21d8eee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2e9ebe4ab29e6a5cccd68e319c77754a2bb1fab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> スノボ、竹内智香が引退へ　ミラノ五輪シーズン限りで
+      <a href=https://news.yahoo.co.jp/articles/15767d22c0f50b92abb442308252d88c63d8678b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010015-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府備蓄米　随意契約からコンビニ大手は外れる　農水省が申込み確定事業者と数量を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1a49bba36461f28c2f05e254238ec3790f459af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000053-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣「防衛装備品の購入も視野」　対日貿易赤字解消で
+      <a href=https://news.yahoo.co.jp/articles/c7ace88b5d6f8031c3b7b1bd579d74997de9738c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-16542215-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=575&ch=575&exp=10800&fmt=webp> ネタニヤフ首相、ハマス幹部ムハンマド・シンワル氏を「排除」と発表　ガザの病院への攻撃で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f6c019952a7f3c69901b8d0c29d1d851bc16455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 通販サイトつながりにくく　アイリス、備蓄米予約販売
+      <a href=https://news.yahoo.co.jp/articles/72e4c93078316b54b8f925b6fca89e67d8834407>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000050-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 防衛装備品の購入「視野に入りうる」　赤沢氏、日米関税交渉めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64d5116c93e926212bc709ed2db7739134e2a092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00301155-magmix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=506&ch=506&exp=10800&fmt=webp> ポケモン新作『ポケモンレジェンズZ-A』発売日決定に「10月は忙しくなるな！」の声
+      <a href=https://news.yahoo.co.jp/articles/106368f76f04378a4e806f750359f94395de7298>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】殺人未遂疑い高校生逮捕
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/72d2253f74db469fa9ec9881fe1afef471d205d5d58e06e7678a5b0da3199452.jpg> 精米工場「奪い合い」の様相 小売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4bfda65ef4a8aaf2f83ae4f353b052780321d7bda4f73fdc2a80de95b79cffcc.jpg> 楽天が備蓄米販売 一部売り切れ
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f38120f1623d7be9a6b82106b93be51ca9e51b7fefecd7a2610a351eb3a3c3f6.jpg> 日産 米国で早期退職を追加募集
+      <a href=https://news.yahoo.co.jp/pickup/6540444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/21f2346ca6d539cafcc7d345868af95339cb90161fe08dc35b6e006ac85f1c02.jpg> 男性の首を刺した疑い 高校生逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/75384aa3c03306902605fb488b6908f93c78121f2fef10478d42f562f83d0066.jpg> スイスで氷河崩壊 村の9割埋まる
+      <a href=https://news.yahoo.co.jp/pickup/6540445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a110dc9e01489483616902edef72bd782e3057a15c00505676ee47d6d0a2c1c3.jpg> 違反切符切れない道路 路駐が横行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/244db356c6de0e5d5ce8770ecf66687f96b50d886d9e4ef284c06002b1a78099.jpg> ソチ銀 スノボ竹内が来季で引退へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 14:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 15:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
