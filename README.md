@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/113853b41eb1ce7844052a5a66c67e2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff7d8f7d2ec97c96a61dfc5f9d1d4e26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c62764b7e09ffac5d13fe1b1fbb915581ca244be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00029999-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 30日の関東　沿岸部では激しい雨や雷雨　最高気温20℃に届かず空気ひんやり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a19012a53e857cfb29ce5969fc42bb7444f9ed37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291243-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 武居由樹の会見に井上尚弥が乱入「次は誰？」の質問にしどろもどろ「て、て、天心？」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6cdbfd25929a6c56fc3248029618705be3b98942>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-01301334-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「コメ5キロ2000円台」に執念を燃やす小泉農相が“敗北”するリスク…異色の兼業農家が「備蓄米の放出効果は限定的」と警鐘を鳴らすワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c30e4cfb3429c83258c91efd19bf33bf5266c309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291266-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> サザン６年ぶり全国ツアー東京Ｄ締め、26公演で60万人動員　トラブル続出も乗り越えた
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 07:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 07:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
