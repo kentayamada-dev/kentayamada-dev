@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1557f15650d51d112e8c802772a07cb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/234e22029ee2be33243c5488c4aa313c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e3c3a316cbf125a7f892bb08daac288ec40c4f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010001-chugoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> 備蓄米の精米、全国の小売業者から注文殺到　広島のコメ卸「追加の人員やトラック確保必要。6月初旬に店頭は難しい」
+      <a href=https://news.yahoo.co.jp/articles/3768798c1fee3ff48406ab7dbe7e1d926e683279>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　玉木雄一郎氏の21年産備蓄米「1年経ったら動物の餌」発言に「残念」「基本備蓄米ってのは…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
+      <a href=https://news.yahoo.co.jp/articles/2e3c3a316cbf125a7f892bb08daac288ec40c4f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010001-chugoku-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> 備蓄米の精米、全国の小売業者から注文殺到　広島のコメ卸「追加の人員やトラック確保必要。6月初旬に店頭は難しい」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
+      <a href=https://news.yahoo.co.jp/pickup/6540416>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> いわき信用組合に業務改善命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bb21963bd373590dc6a40ff0ffbd3445135c38a6aeca91fd7f26b7e88e4857e6.jpg> マスク氏 米大統領法案に「失望」
+      <a href=https://news.yahoo.co.jp/pickup/6540417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d4c022a4bae6875d0523d081bf8f21d87405477571182de38f12cda1266ad5bc.jpg> マスク氏 米政権からの離脱を表明
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/750e7ccc08c89221955a8533703806cf65171a1dfbbecddd7283349799483d65.jpg> 路上で流血の男性死亡 ひき逃げか
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/655b3e27d8a4d6bbaf2ed546ca3685e977e40cff6905948468e9004c2141735b.jpg> 横浜M 2カ月で指導者相次ぎ退団
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540415>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3005d5461c8edb7d6964778ad70c6552921cf8a227a049ed5f113a439686013c.jpg> 授かり婚と報道 織田信成妻の思い
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 10:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 11:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
