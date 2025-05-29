@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b578134bbe42ce268f603b1178ed2646.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67949162b4b6347d8749abb9c6a3a719.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57492d713587362f41def03b8a382a2c0fb5128f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000268-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 路上に血を流した男性、　死亡ひき逃げ事件として捜査　通行人から通報　大阪・東大阪市
       </a>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a4f4391afa5c6fdc12185422853a00755a212ced>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ハマス最高幹部を殺害か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1890560e61635151b21141198639b4a1e1618e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180769-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 政府備蓄米の新たな随意契約 米穀店とスーパーの“別枠調整”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecd82fad7b02beb4e4b02f71017ec00b441f07e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-05291016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平３の０で４戦連発ならず　日本時間３１日からはヤンキース戦、ＷＳ制覇以来の対戦でＶＳジャッジ
       </a>
     </td>
   </tr>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540399>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/ee94d08b6af902a4c4db3e63632ba6526e0de3093ef9f99d545b05436cc75fe6.jpg> 中国 与那国島沖に設置のブイ撤去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dfefeb6b7dae2854e4ab7360ecb36b8b975716ae486e3c870c41ca6f6c1f0eda.jpg> 温浴施設 体調不良など訴え47件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540405>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bc7fe32e9534b01a16af84e48b1b8b73a9021baa9434ce81fd68d75e9c58cfd8.jpg> OJTに偏る企業 なぜ若者定着低い
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 09:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 10:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
