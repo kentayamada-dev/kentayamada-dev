@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de2f056d126582755cfda3453d9a7dfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/113853b41eb1ce7844052a5a66c67e2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86a23d8cd5b5a8d61e786c1e75f99398117147db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=533&ch=533&exp=10800&fmt=webp> “なりすまし記者”井上尚弥が乱入して聞き出した「武居由樹vs那須川天心」のビッグマッチの実現可能性とは？
+      <a href=https://news.yahoo.co.jp/articles/a19012a53e857cfb29ce5969fc42bb7444f9ed37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291243-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 武居由樹の会見に井上尚弥が乱入「次は誰？」の質問にしどろもどろ「て、て、天心？」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c30e4cfb3429c83258c91efd19bf33bf5266c309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291266-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> サザン６年ぶり全国ツアー東京Ｄ締め、26公演で60万人動員　トラブル続出も乗り越えた
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291266-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> サザン６年ぶり全国ツアー東京Ｄ締め、26公演で60万人動員　トラブル続出も乗り越えた
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7b11f901dd85628b916906f39591178d244664c9eb4f087a91b984799ebcac16.jpg> 関税巡り 日米首脳が電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6540511>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> レアアース製錬協力 米に提案調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4bfb9b6e344fdc03947cec8705d6b4c534a8b6165045689a250a11584509515d.jpg> 党首討論 6/11は午後6時開始検討
+      <a href=https://news.yahoo.co.jp/pickup/6540512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/36d9ebfcfa60d9459655144cea141d6544960849772704ebd54d481730f694a5.jpg> 日本もシリア制裁解除へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 06:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 07:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
