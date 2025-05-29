@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e82fbfcb9bac94b6d351d00b55c75b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bdd091317fc25d2c0513eb46175ec733.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ed912fc1cb29e564496506c72780f6d9aaf84cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000008-hometvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 保育所で男児意識不明 和解へ　福山市が解決金2億7000万円
+      <a href=https://news.yahoo.co.jp/articles/c777f7baeed2c206cc00fe868e51d9e1411a9193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979319-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「牙が食い込んだ」熊と“格闘”60代男性が負傷　岩手では住宅街近くに熊が7時間居座り“ハチミツ作戦”　専門家「2025年は“子連れ熊“多い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45427cefca4b3fb5a3373e3f2787f8f6993c4f23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90015369-tos-000-1-thumb.jpg?exp=10800&fmt=webp> “古古古米”に不安の声も「安いのに越したことはないが…」備蓄米 地方のスーパーにはいつ届く？大分
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0e9043868ae2d44df3abc3b2100a497d9fc4d244>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢氏、4回目の日米関税協議へ出発　相互・追加関税の撤廃目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7761031666a502fcfeb493cd7ea54340f9aea6d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90020062-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 「購入を検討するが…」県内のコメ販売店が語る 備蓄米の随意契約での売り渡しについて【佐賀県】
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/fe9184c63f2b813d14f54363bec86cc83f3c47a1a4358e25304e4da69ceba64b.jpg> ほぼ規格外のコメ 品質にプロ怒り
+      <a href=https://news.yahoo.co.jp/pickup/6540479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4ba65ee7fbfd1d08dff810177384987fd490df9ba37af32cc412f807df388758.jpg> ロマンス詐欺 男性が4億円超被害
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 19:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 20:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
