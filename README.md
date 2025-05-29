@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f310531856ca0432c5f82ece2093e037.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67949162b4b6347d8749abb9c6a3a719.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b60d17f208753fdd6427c0bc54f5ee60569b674c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90025985-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 備蓄米“5kg2000円”は適正価格？3野党トップが小泉大臣追及
+      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90fc5f701ec1e46e194ac83195409e8534ea8151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-45006179-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ハマス指導者ムハンマド・シンワル氏を殺害、イスラエルが発表
+      <a href=https://news.yahoo.co.jp/articles/57492d713587362f41def03b8a382a2c0fb5128f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000268-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 路上に血を流した男性、　死亡ひき逃げ事件として捜査　通行人から通報　大阪・東大阪市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4f4391afa5c6fdc12185422853a00755a212ced>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ハマス最高幹部を殺害か
       </a>
     </td>
   </tr>
@@ -378,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/883f9f50dc7e0f6bc6b43229e608a2883d9dd7c3ca151cf6bc519ba724e02a39.jpg> ハマス最高幹部を殺害 イスラエル
+      <a href=https://news.yahoo.co.jp/pickup/6540411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7fd45fb7ff022d3b2d618dcdfa27642aedd26d6794f59c665ae48c55d6ee10de.jpg> 米軍駐留費の上積み検討 日本政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/b9afb35c6ba195ae4b22f0e1309398a3bbe43966f644536490938541c0ff94ce.jpg> 岸田氏 立憲との連立に慎重姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6540399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/ee94d08b6af902a4c4db3e63632ba6526e0de3093ef9f99d545b05436cc75fe6.jpg> 中国 与那国島沖に設置のブイ撤去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/81f94fc4e43922d6b1e5837f55d6bd3c7cf66870b27dda252faf450425d19789.jpg> 備蓄米に玉木氏「1年経ったら餌」
+      <a href=https://news.yahoo.co.jp/pickup/6540409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/133ea37fc5f1dfea9cb59ec47bd98e2d4571ad23f474a42616d2336a311b363c.jpg> 息子2人を殺人未遂疑い 母親逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/f65a82023c809339e132cbf33db568f5bf17d93ae5c90000d4e1961d97d90bfd.jpg> 渋谷や新宿を暴走 謎の自転車集団
+      <a href=https://news.yahoo.co.jp/pickup/6540406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/750e7ccc08c89221955a8533703806cf65171a1dfbbecddd7283349799483d65.jpg> 路上で流血の男性死亡 ひき逃げか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/c29af3461d55d44a7030d611ea49bd209a2e801285d5c314a628f6dc3697ddb8.jpg> 「通せんぼの人」に日給1.6万円
+      <a href=https://news.yahoo.co.jp/pickup/6540400>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NVIDIA 売上高最高も輸出規制影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/fe50acfd543d1a7d2e8b0936ba84c11015088f701df570a9a998ecce6dbd8e07.jpg> ポケモン新作 10月16日に発売決定
+      <a href=https://news.yahoo.co.jp/pickup/6540405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bc7fe32e9534b01a16af84e48b1b8b73a9021baa9434ce81fd68d75e9c58cfd8.jpg> OJTに偏る企業 なぜ若者定着低い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/28/9a461fb38511a8da7377c501eb40940ee0b0821c7b214631b6d51a902d4c9dd2.jpg> 異例 女子10000mレース途中で中断
+      <a href=https://news.yahoo.co.jp/pickup/6540397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/147595f273dc90d320b4be830c15ef12671863f08da132ecb4f6c9a801b70b4e.jpg> ゲートボール人口 なぜ激減
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 02:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 10:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
