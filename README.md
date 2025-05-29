@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/234e22029ee2be33243c5488c4aa313c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/100e0df6950b79c7f6e19b1396f3286a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3768798c1fee3ff48406ab7dbe7e1d926e683279>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　玉木雄一郎氏の21年産備蓄米「1年経ったら動物の餌」発言に「残念」「基本備蓄米ってのは…」
+      <a href=https://news.yahoo.co.jp/articles/2a30dee8b186b00afaba45b6ff9765f7a11a8c2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000052-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1501&ch=1501&exp=10800&fmt=webp> 原油先物が1％超上昇、「解放の日」関税差し止めで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e3c3a316cbf125a7f892bb08daac288ec40c4f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010001-chugoku-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> 備蓄米の精米、全国の小売業者から注文殺到　広島のコメ卸「追加の人員やトラック確保必要。6月初旬に店頭は難しい」
+      <a href=https://news.yahoo.co.jp/articles/3768798c1fee3ff48406ab7dbe7e1d926e683279>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　玉木雄一郎氏の21年産備蓄米「1年経ったら動物の餌」発言に「残念」「基本備蓄米ってのは…」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540400>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NVIDIA 売上高最高も輸出規制影響
+      <a href=https://news.yahoo.co.jp/pickup/6540420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/75384aa3c03306902605fb488b6908f93c78121f2fef10478d42f562f83d0066.jpg> スイスで氷河崩壊 村の9割埋まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bc7fe32e9534b01a16af84e48b1b8b73a9021baa9434ce81fd68d75e9c58cfd8.jpg> OJTに偏る企業 なぜ若者定着低い
+      <a href=https://news.yahoo.co.jp/pickup/6540408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/764f42b176d5ef7f6012f3ece335cdc5d1bf5fa44d956020fc0d88bb26dd4014.jpg> 老朽水道管 アナログ点検の限界
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 11:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 11:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
