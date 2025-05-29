@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1354f2cdbc893e0bc4ce03ed4c4b15b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/542702f8036d894dd94a632d839eb5a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3fcf7b31cf069659b646a14643e35035964242e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291782-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1318&ch=1318&exp=10800&fmt=webp> 田崎史郎氏が「えさ米」発言玉木雄一郎氏に生苦言「言葉を使う時はデリカシーがないと」
+      <a href=https://news.yahoo.co.jp/articles/204a9dce3fb44f7ccedd2b91e51c73df8de02738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=522&ch=522&exp=10800&fmt=webp> "JA外し"の備蓄米契約「理解いただいた」　農相、全中会長と会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a2de9b7dfd4c611465033ec0c68ef7a27417018>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000010-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=482&ch=482&exp=10800&fmt=webp> スノーボード女子・竹内智香　来季限りで引退　２７年間の競技生活振り返り「おなかいっぱい食べきった」
+      <a href=https://news.yahoo.co.jp/articles/d3898724acfb619cb502c96c9a2be1102565f17e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=1011&ch=1011&exp=10800&fmt=webp> 卵子の凍結保存も　引退表明のスノボ界レジェンドの足跡
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 05:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 06:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
