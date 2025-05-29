@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8d6c716f9603e80ede5a4dcd21d8eee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14cb1c988c7e356998f03d26ae1e48b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15767d22c0f50b92abb442308252d88c63d8678b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010015-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府備蓄米　随意契約からコンビニ大手は外れる　農水省が申込み確定事業者と数量を公表
+      <a href=https://news.yahoo.co.jp/articles/774ad87f841b8ebd295779316ef2d7ecad8044f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00156577-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 国民・玉木雄一郎代表「1年たったら動物のエサ」谷原章介「そういう発言は残念」“小泉米”流通に向け運送会社や精米業者はてんてこ舞い
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72e4c93078316b54b8f925b6fca89e67d8834407>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000050-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 防衛装備品の購入「視野に入りうる」　赤沢氏、日米関税交渉めぐり
+      <a href=https://news.yahoo.co.jp/articles/4e160692f2e494c59695d2b6c1718924cb3864bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-97976840-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢再生相、米関税措置の見直し引き続き求める－４回目の日米交渉へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/106368f76f04378a4e806f750359f94395de7298>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】殺人未遂疑い高校生逮捕
+      <a href=https://news.yahoo.co.jp/articles/b209e1f53c36c48ffb3c15c476f612c5d9fb527a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京・江戸川区の建設現場ガス爆発　ボンベに1964年の刻印　使用期限か
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2727b4fdd295fc825d8d7f4ba822eeda0c6ffb4499a64fdef0b1198473e5c61d.jpg> 日米交渉 防衛装備品の購入も視野
+      <a href=https://news.yahoo.co.jp/pickup/6540440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f0013fbd9a01bf4e95755706ad05ee2f6869e6bfb21581a5b5b9e17d4bbac96a.jpg> 保釈認められず失明寸前 訴え棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540445>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a110dc9e01489483616902edef72bd782e3057a15c00505676ee47d6d0a2c1c3.jpg> 違反切符切れない道路 路駐が横行
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/244db356c6de0e5d5ce8770ecf66687f96b50d886d9e4ef284c06002b1a78099.jpg> ソチ銀 スノボ竹内が来季で引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6540446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/02d0a4673c98bf1edac36447a25464328ce2f6cdf1d1f79659e1788e1819788b.jpg> 26年後期の朝ドラ 石橋静河とは
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a4cebac72e74e51590ab007f56d3be540aa2aaf3544711f0efd9916166b003bf.jpg> 26年後期の朝ドラ 主演は石橋静河
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 15:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 15:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
