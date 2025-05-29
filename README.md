@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f90523a810f76fbb75747228653b9eeb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b1d44f257dde4443ed08bed80c1f167.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d4e7feb19e1f77cc71cdac1c87b019b735d6ea6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 新名神道逆走事故　容疑者を危険運転致傷容疑で再逮捕　三重県警
+      <a href=https://news.yahoo.co.jp/articles/b1a49bba36461f28c2f05e254238ec3790f459af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000053-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣「防衛装備品の購入も視野」　対日貿易赤字解消で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc8cfbaf65554ab928cc80a381a78855ee169edf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239645-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4回目の日米関税交渉へ　赤沢経済再生担当大臣「防衛装備品の購入も視野」 アメリカの貿易赤字の解消の交渉材料
+      <a href=https://news.yahoo.co.jp/articles/7f6c019952a7f3c69901b8d0c29d1d851bc16455>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 通販サイトつながりにくく　アイリス、備蓄米予約販売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8478489aa4ae368432067cac820a1de4370e1f65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979067-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 小泉農水相「市場に間違いなく動きある」備蓄米を「アイリスオーヤマ」が午後にもネット予約販売へ!5キロあたり2000円程度　
+      <a href=https://news.yahoo.co.jp/articles/49ef14003c5c31e101dd001f2cbbeab0bb854ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走、34歳男を逮捕　危険運転致傷疑い、三重
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64d5116c93e926212bc709ed2db7739134e2a092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00301155-magmix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=506&ch=506&exp=10800&fmt=webp> ポケモン新作『ポケモンレジェンズZ-A』発売日決定に「10月は忙しくなるな！」の声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00301155-magmix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=506&ch=506&exp=10800&fmt=webp> ポケモン新作『ポケモンレジェンズZ-A』発売日決定に「10月は忙しくなるな！」の声
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/cc13822ea26cf80d301b1010dbb8604290c8149028d178f1c6fa31e98fdcd02c.jpg> 備蓄米 業者への引き渡し始まる
+      <a href=https://news.yahoo.co.jp/pickup/6540429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2727b4fdd295fc825d8d7f4ba822eeda0c6ffb4499a64fdef0b1198473e5c61d.jpg> 日米交渉 防衛装備品の購入も視野
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4656cfafe4e16d977accd8d28bfa8ce5c8ce8aec4b3b39bcc7fa383e024dfbae.jpg> 米関税の差し止め判断 米裁判所
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3f126ae30d41e5435040ecb4568a3b301acda490be91e88930cc1f7d8d121404.jpg> 被爆者 初めて10万人割れの見通し
+      <a href=https://news.yahoo.co.jp/pickup/6540414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/72d2253f74db469fa9ec9881fe1afef471d205d5d58e06e7678a5b0da3199452.jpg> 精米工場「奪い合い」の様相 小売
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f38120f1623d7be9a6b82106b93be51ca9e51b7fefecd7a2610a351eb3a3c3f6.jpg> 日産 米国で早期退職を追加募集
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540420>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/75384aa3c03306902605fb488b6908f93c78121f2fef10478d42f562f83d0066.jpg> スイスで氷河崩壊 村の9割埋まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsumotohirofumi/02227458/title-1748480752290.jpeg?exp=10800> 藤井聡太名人が防衛なるか 第5局
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3005d5461c8edb7d6964778ad70c6552921cf8a227a049ed5f113a439686013c.jpg> 授かり婚と報道 織田信成妻の思い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 13:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 14:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
