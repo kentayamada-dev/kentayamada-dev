@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/326a2459e4814a360980902c1fe72cb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfa6d1e237e64c72dd52087b348417ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd71f834d0af4041b528e2f89a024bcc2b513d78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000104-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日米首脳電話会談開始か　4回目の日米関税交渉前にトップ会談
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90718141419a1f14e4c10b8b1dc55ef28fdb747d>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a3f17e04669775d3185157b70ec8595645069374>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000128-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=828&ch=828&exp=10800&fmt=webp> 備蓄米「家畜の餌」発言が波紋　与野党批判、国民・玉木氏釈明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e9043868ae2d44df3abc3b2100a497d9fc4d244>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000084-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢氏、4回目の日米関税協議へ出発　相互・追加関税の撤廃目指す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000128-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=828&ch=828&exp=10800&fmt=webp> 備蓄米「家畜の餌」発言が波紋　与野党批判、国民・玉木氏釈明
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540475>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/da779c86cb0761ef0f8b9fcb5a196719990469cbc9f7d95655f15550cd052917.jpg> ハーバード大 広がる恐怖と混乱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2afafbb042a47f23bb42baf8ab160723bab13221f830f137b42a774b844e135f.jpg> 米価格でJAに批判 元理事ら見解
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a9594345b4649bba5066113cd54b7c66251d7c77beb2c832355d6e8e152f394e.jpg> 新紙幣 なぜ「F」だけ角が丸い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540481>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/289ce0476aabde1e025d727b5a97eb65a6524c5e72482cd1276441a1cc24227f.jpg> だめもとで スイス館に「ス」イス
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 22:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 22:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
