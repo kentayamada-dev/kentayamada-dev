@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67949162b4b6347d8749abb9c6a3a719.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1557f15650d51d112e8c802772a07cb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
+      <a href=https://news.yahoo.co.jp/articles/2e3c3a316cbf125a7f892bb08daac288ec40c4f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010001-chugoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> 備蓄米の精米、全国の小売業者から注文殺到　広島のコメ卸「追加の人員やトラック確保必要。6月初旬に店頭は難しい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57492d713587362f41def03b8a382a2c0fb5128f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000268-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 路上に血を流した男性、　死亡ひき逃げ事件として捜査　通行人から通報　大阪・東大阪市
+      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/ee94d08b6af902a4c4db3e63632ba6526e0de3093ef9f99d545b05436cc75fe6.jpg> 中国 与那国島沖に設置のブイ撤去
+      <a href=https://news.yahoo.co.jp/pickup/6540403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bb21963bd373590dc6a40ff0ffbd3445135c38a6aeca91fd7f26b7e88e4857e6.jpg> マスク氏 米大統領法案に「失望」
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/147595f273dc90d320b4be830c15ef12671863f08da132ecb4f6c9a801b70b4e.jpg> ゲートボール人口 なぜ激減
+      <a href=https://news.yahoo.co.jp/pickup/6540415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3005d5461c8edb7d6964778ad70c6552921cf8a227a049ed5f113a439686013c.jpg> 授かり婚と報道 織田信成妻の思い
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 10:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 10:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
