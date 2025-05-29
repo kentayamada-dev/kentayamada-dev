@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1d92fe0d7dd33600d63dec375c02216.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/950a32ed1d8c60d22ab034d5d39446d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9b80dca57b920c6c6129a4f366760ef93955012>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000078-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今夜にも石破総理がトランプ大統領に直談判へ　日米関税交渉めぐり
+      <a href=https://news.yahoo.co.jp/articles/4ddf5d65623135455488ca12fe0273b670040520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290923-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 菊池雄星「どうなのかなと」監督の指示尊重も煮え切らず　初回からジャッジ連続敬遠でブーイング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e474ab25a526d9636c24da2c439fd42965de1e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-02569452-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【備蓄米】大手小売業者へ引き渡し開始　サイト予約は本日分完売も　中小向け“古古古米”に不満の声も
+      <a href=https://news.yahoo.co.jp/articles/ba059d8443b435c9c52509036098f6135abdbd4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90025688-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=521&ch=521&exp=10800&fmt=webp> 【備蓄米】ネット予約殺到で完売も　争奪戦が早くも過熱　店舗では「30キロ入り玄米」販売検討　コメの専門家がおススメの炊き方紹介　福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9b80dca57b920c6c6129a4f366760ef93955012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000078-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今夜にも石破総理がトランプ大統領に直談判へ　日米関税交渉めぐり
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f80fddfe297cd59fc3caa8426331d45b8a1a2e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180889-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ネタニヤフ首相「ムハンマド・シンワル氏を排除した」ハマス最高幹部殺害を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a17ce284934390e1a24ff172ee8cfb60c9f9e246>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00010023-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=320&ch=320&exp=10800&fmt=webp> エンゼルス・菊池雄星、5回1失点の好投も報われず...チームは無念の零封負け
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/0e2684ac2ac717d25073f679f1d987d2da9345dd0c2c69bed89c1b41d239ae86.jpg> 30日 関東で警報級大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6540472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/2ee110279c5426cc925b79730255673b93d274c8c7e48c6829271b52828adcea.jpg> 赤ちゃんポスト 泉佐野市が設置へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/91dd9556fa77a783654d64d0f9254163b0450a306e8075e0d41b1e98e37a7e86.jpg> 立てこもり 88歳男に懲役25年求刑
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4485be7cf151e950c4f3f33eb4523b9cf782fa6734d5e2ab1702c6d214ef33bd.jpg> 日清食品 どん兵衛ミニを自主回収
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540465>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dff89aeb85fd4187ebb900613c458bb58340d487ac98eabb680d68c69c7cd048.jpg> 重岡銀次朗は小康状態 ジム発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 18:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 18:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
