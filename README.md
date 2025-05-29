@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bdd091317fc25d2c0513eb46175ec733.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ede871cb877dcb0d0ac137f652080fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c777f7baeed2c206cc00fe868e51d9e1411a9193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979319-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「牙が食い込んだ」熊と“格闘”60代男性が負傷　岩手では住宅街近くに熊が7時間居座り“ハチミツ作戦”　専門家「2025年は“子連れ熊“多い」
+      <a href=https://news.yahoo.co.jp/articles/f00ee224b1a108b383b0cb53f6101b25e8ffb7f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01437887-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東中心に雨…警報級の大雨となる恐れも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45427cefca4b3fb5a3373e3f2787f8f6993c4f23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90015369-tos-000-1-thumb.jpg?exp=10800&fmt=webp> “古古古米”に不安の声も「安いのに越したことはないが…」備蓄米 地方のスーパーにはいつ届く？大分
+      <a href=https://news.yahoo.co.jp/articles/f513dd41b5840a22e8b50ca1b493ab9d490f4ae0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000083-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ファミマ、備蓄米の随意契約に「落選」　1キロ400円で売る予定が
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b89457c69271dad4958bd8b99be5432d7f95725c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-21945268-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関東あす（30日）警報級大雨おそれ 気温大幅ダウン 東京の最高気温16℃予想、沖縄では一時洪水警報【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/7806977afd401c9f3ab07ce60773f391fac6d40e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000112-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=469&ch=469&exp=10800&fmt=webp> スーパーポジティブ人間・手越祐也「オールナイトニッポン0」登場、エンジンがかかった状態で
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/894ab9fe897e3ba5df90b110c79451763eb50f8475020be303c8a040cc94a598.jpg> 鈴木法相 袴田さんの姉に謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6540471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3e16a2d7540d204c655be9d3b8e06ef07265214891449d52083b9de4d1ae5452.jpg> 住民票 電子データでの交付を検討
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540473>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/70d651eee3178b3bfa397c8745e58dcad3d7e7859fbcbaeca01cfc6985d1a379.jpg> 小泉農相 古い備蓄米「おいしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/91dd9556fa77a783654d64d0f9254163b0450a306e8075e0d41b1e98e37a7e86.jpg> 立てこもり 88歳男に懲役25年求刑
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3a80f46b16ccee8030d153d1451512e6f8a89900388366a50c8c98e867f0927a.jpg> 秒殺KO劇の武居会見 尚弥が乱入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540480>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/69d36741b84aab13bad19e98a886b3d78243210776f28a23fc4b1924877be520.jpg> 幻の逆転弾 中日の抗議文受理せず
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dff89aeb85fd4187ebb900613c458bb58340d487ac98eabb680d68c69c7cd048.jpg> 重岡銀次朗は小康状態 ジム発表
+      <a href=https://news.yahoo.co.jp/pickup/6540490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9e2218a2608e812309e8ead32671d3bd15b87393da273556c2ab512224384040.jpg> 手越祐也 ANN初パーソナリティー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 20:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 20:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
