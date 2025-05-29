@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/480c83c7bae7118e5f284413823dc4c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4e37374a341622e6a764646dae131d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/859cce59f6a3f0d369ccfae5d4a6d1d06ecb896f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-09917582-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、米トランプ大統領と電話会談　2週連続で「互いの理解が深まった」
+      <a href=https://news.yahoo.co.jp/articles/99733023d34740c499d7dfba5246a630ffdc4f23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国株式市場・午前＝反発、米裁判所の関税差し止め命令でリスク選好
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/649c91168e5c675754dba28d61fe8e8d773d5d50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000390-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 混沌とする世界バンタム級の勢力図…鍵を握るWBA休養王者が警戒する相手は！？
+      <a href=https://news.yahoo.co.jp/articles/859cce59f6a3f0d369ccfae5d4a6d1d06ecb896f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-09917582-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、米トランプ大統領と電話会談　2週連続で「互いの理解が深まった」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 01:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 02:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
