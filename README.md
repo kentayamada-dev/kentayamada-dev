@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/100e0df6950b79c7f6e19b1396f3286a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfce969e0751d39ceb1c9064dc7fff47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a30dee8b186b00afaba45b6ff9765f7a11a8c2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000052-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1501&ch=1501&exp=10800&fmt=webp> 原油先物が1％超上昇、「解放の日」関税差し止めで
+      <a href=https://news.yahoo.co.jp/articles/6e9dbaee25afb565f153a729411becb21c1565f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米国務長官、共産党と関係のある中国人留学生のビザを「積極的に取り消す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3768798c1fee3ff48406ab7dbe7e1d926e683279>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　玉木雄一郎氏の21年産備蓄米「1年経ったら動物の餌」発言に「残念」「基本備蓄米ってのは…」
+      <a href=https://news.yahoo.co.jp/articles/587e6ef5be3eda0af28d056f83e4abccbda8f648>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239617-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「週明けには2000円の備蓄米を見る」小泉農水大臣が国会で発言 「随意契約」第1便が到着　楽天などきょうから受付も
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7fd45fb7ff022d3b2d618dcdfa27642aedd26d6794f59c665ae48c55d6ee10de.jpg> 米軍駐留費の上積み検討 日本政府
+      <a href=https://news.yahoo.co.jp/pickup/6540423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a51d72018a8ef0296c6bb38278d5837130400e5f7af8b85b9b7384d7dea84f84.jpg> 備蓄米 業者への引き渡し始まる
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/764f42b176d5ef7f6012f3ece335cdc5d1bf5fa44d956020fc0d88bb26dd4014.jpg> 老朽水道管 アナログ点検の限界
+      <a href=https://news.yahoo.co.jp/pickup/6540425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/764f42b176d5ef7f6012f3ece335cdc5d1bf5fa44d956020fc0d88bb26dd4014.jpg> 水道管の破損見逃す アナログ点検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/655b3e27d8a4d6bbaf2ed546ca3685e977e40cff6905948468e9004c2141735b.jpg> 横浜M 2カ月で指導者相次ぎ退団
+      <a href=https://news.yahoo.co.jp/pickup/6540422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/e436100d4b85ff270e45abe43c4407ba9620c69d45d9be6435571b9ea3c65dad.jpg> シナぷしゅ 大人向けの特番放送へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 11:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 12:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
