@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b1d44f257dde4443ed08bed80c1f167.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd234ee48e3fde173220eb4b2eebb038.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2e9ebe4ab29e6a5cccd68e319c77754a2bb1fab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> スノボ、竹内智香が引退へ　ミラノ五輪シーズン限りで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1a49bba36461f28c2f05e254238ec3790f459af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000053-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣「防衛装備品の購入も視野」　対日貿易赤字解消で
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f6c019952a7f3c69901b8d0c29d1d851bc16455>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 通販サイトつながりにくく　アイリス、備蓄米予約販売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49ef14003c5c31e101dd001f2cbbeab0bb854ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新名神逆走、34歳男を逮捕　危険運転致傷疑い、三重
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/44cdc27d8cb977923b1d5f01d35f1fdc58ccc6b6ee793fba7540cb88904589b3.jpg> 米 中国からのビザ申請審査を強化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540414>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/72d2253f74db469fa9ec9881fe1afef471d205d5d58e06e7678a5b0da3199452.jpg> 精米工場「奪い合い」の様相 小売
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/176d26e74ae51bd1f6ff0b0db8224698d5d4aa2afa9d18801aab516f947a8f21.jpg> 高速逆走 危険運転致傷疑い再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4bfda65ef4a8aaf2f83ae4f353b052780321d7bda4f73fdc2a80de95b79cffcc.jpg> 楽天が備蓄米販売 一部売り切れ
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsumotohirofumi/02227458/title-1748480752290.jpeg?exp=10800> 藤井聡太名人が防衛なるか 第5局
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/44dcee0725e1805cb5d1678cebeae0010f6495ced08f47c258065add8f1005db.jpg> ねるねるねるね 20代以上にリーチ
+      <a href=https://news.yahoo.co.jp/pickup/6540437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a40476bd8aa0f37c13b2196ed06fba227daacdb241785948550d6a8a46b9d917.jpg> 杉浦太陽 18年ぶり女児楽しみ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 14:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 14:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
