@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bacdc924819dd550473331b56de866f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bf7a8ad581319b874dbeb2cbbb6cfba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b10850e9c9df9630a27a4f48672b3dc71f7b8db7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-02197747-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岐阜県を震源とする地震で新幹線の運転に影響なし
+      <a href=https://news.yahoo.co.jp/articles/02c269e21c4c79b5d118209eaccdc2b765300f2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【地震速報】大野で震度1を観測　岐阜県飛騨地方で震度2の地震
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5a1d8db446931d97c964a74a8104f5f2b44186d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000064-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 江戸川爆発　ボンベに使用期限1964年の刻印
+      <a href=https://news.yahoo.co.jp/articles/c13f5af5ed39c9546126ead250e89b2b4dd0161a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239702-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米引き渡し開始　楽天など通販サイトは販売直後に完売　大手コンビニ3社は“落選”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/774ad87f841b8ebd295779316ef2d7ecad8044f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00156577-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 国民・玉木雄一郎代表「1年たったら動物のエサ」谷原章介「そういう発言は残念」“小泉米”流通に向け運送会社や精米業者はてんてこ舞い
+      <a href=https://news.yahoo.co.jp/articles/e2b6aa2cb08df7ed9daa59fb9e22390cfc956d83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00029993-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 30日は関東で警報級大雨の可能性　土日は西日本から天気回復　運動会日和に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7ace88b5d6f8031c3b7b1bd579d74997de9738c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-16542215-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=575&ch=575&exp=10800&fmt=webp> ネタニヤフ首相、ハマス幹部ムハンマド・シンワル氏を「排除」と発表　ガザの病院への攻撃で
+      <a href=https://news.yahoo.co.jp/articles/06f7586de6aa9998f4809d3ba0ed7058eee52ff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90019730-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】日清食品「日清のどん兵衛 きつねうどんミニ (西日本向け)」を回収　一部カップ容器に破損判明
       </a>
     </td>
   </tr>
@@ -402,16 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/00e81128feba54e034a2841dfed48fc7d3856b881774bf96a79eef8ae0ba7f07.jpg> 岐阜県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6540440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
+      <a href=https://news.yahoo.co.jp/pickup/6540459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/0e2684ac2ac717d25073f679f1d987d2da9345dd0c2c69bed89c1b41d239ae86.jpg> 30日 関東で警報級大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d580da85b50993d720cc1fb172cfcbe43b3bdbb78bdb56d980dadd07f2ffc1ac.jpg> パレスチナ国連大使 泣き崩れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540452>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で海軍機が墜落 2人死亡
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/529921f12b6b42b09a91b729c8f33259d8f2085ab8961ec1c4d85a6a88a8c6b3.jpg> ドジャース ONE PIECEとコラボへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a40476bd8aa0f37c13b2196ed06fba227daacdb241785948550d6a8a46b9d917.jpg> 杉浦太陽 18年ぶり女児楽しみ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 16:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 16:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
