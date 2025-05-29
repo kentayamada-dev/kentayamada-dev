@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d8f3b9af15c5593aea5a8cb4c262ffe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/664e4f1130148545df528a53e75489c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6a72c287bf4d52b8f765b0bd804b63f2fb040ded4c337a4e7777b58df753b62d.jpg> 埼玉の質店強盗 逃走の男公開手配
+      <a href=https://news.yahoo.co.jp/pickup/6540491>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540491>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/eb271a65911737740b340588cac8a33d8c275f35269c7085dff371ec33a6bede.jpg> 抹茶ブーム余波 京都の茶畑に異変
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/89c7800963020fc44d9e3ef96a6831a07dc6389e94c9c7cdd732acdd955b91d1.jpg> NEWSに曲 take4氏死去していた
+      <a href=https://news.yahoo.co.jp/pickup/6540518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bf5d46e07c899943dccbb54d3d64f031f6711ea304225615bcf8d290bc4c039e.jpg> 楽天・村林 ワンバンを神ファウル
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 08:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 08:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
