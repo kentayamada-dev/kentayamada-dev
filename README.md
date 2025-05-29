@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/881863fd42760e4a4edf348b58828da2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/480c83c7bae7118e5f284413823dc4c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,31 +358,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/859cce59f6a3f0d369ccfae5d4a6d1d06ecb896f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相、米トランプ大統領と電話会談　2週連続で「互いの理解が深まった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-09917582-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、米トランプ大統領と電話会談　2週連続で「互いの理解が深まった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50f278845deda4ed97fe9f453d78bc1d31d4fd41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-21945596-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 【今週末の雨予報・最新】31日（土）は関東甲信・東海など東日本〜北日本で「急な強い雨」に注意　6月1日（日）は北日本・北陸で「雨」か　今後の天気は?【雨と風のシミュレーション・気象庁の気象情報】
+      <a href=https://news.yahoo.co.jp/articles/649c91168e5c675754dba28d61fe8e8d773d5d50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000390-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 混沌とする世界バンタム級の勢力図…鍵を握るWBA休養王者が警戒する相手は！？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c228db28606cad9c39f441aa86c58602f1932951>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000100-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 備蓄米の随意契約、30日に再開　大手向けは61社21万トンで確定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8f9acf8a330535810d7649d2e193d7223551fbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000131-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 令和喜多みな実が解散を発表　7月開催の単独公演で17年の活動に幕
+      <a href=https://news.yahoo.co.jp/articles/526e3d13df8fa6481ec08d7b4bcfe6bf4d6fc61d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35291622-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1318&ch=1318&exp=10800&fmt=webp> 国民・玉木雄一郎代表が生釈明　物議「えさ米」表現は「石破総理も小泉大臣もよく使う言葉だ」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 01:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 01:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
