@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb1a516d8d2855b1720f05f8cad1e5aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f90523a810f76fbb75747228653b9eeb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30698593fab15067f798eed22c535a7f310ac816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90051133-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> “2000円備蓄米”が精米工場に到着！『アイリス』ネット通販予約スタートへ〈税込み2160円で1か月に1人1袋の購入制限〉…北海道では『コープさっぽろ』が6月下旬～『松原米穀』は届き次第販売へ
+      <a href=https://news.yahoo.co.jp/articles/3d4e7feb19e1f77cc71cdac1c87b019b735d6ea6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 新名神道逆走事故　容疑者を危険運転致傷容疑で再逮捕　三重県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa0ead04227ea8777b55ae053742f8fc5237f777>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979033-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権が中国人留学生のビザ取り消しへ…共産党関係者対象に　去年アメリカ留学の中国人学生約27万人…留学生全体の4分の1
+      <a href=https://news.yahoo.co.jp/articles/cc8cfbaf65554ab928cc80a381a78855ee169edf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239645-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4回目の日米関税交渉へ　赤沢経済再生担当大臣「防衛装備品の購入も視野」 アメリカの貿易赤字の解消の交渉材料
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5a81763ace198ab104a470db51114776aae3e09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000102-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1553&ch=1553&exp=10800&fmt=webp> 防衛装備購入で米貿易赤字縮小　赤沢氏「視野に入り得る」
+      <a href=https://news.yahoo.co.jp/articles/8478489aa4ae368432067cac820a1de4370e1f65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979067-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 小泉農水相「市場に間違いなく動きある」備蓄米を「アイリスオーヤマ」が午後にもネット予約販売へ!5キロあたり2000円程度　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4f4391afa5c6fdc12185422853a00755a212ced>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ハマス最高幹部を殺害か
+      <a href=https://news.yahoo.co.jp/articles/64d5116c93e926212bc709ed2db7739134e2a092>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00301155-magmix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=506&ch=506&exp=10800&fmt=webp> ポケモン新作『ポケモンレジェンズZ-A』発売日決定に「10月は忙しくなるな！」の声
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4656cfafe4e16d977accd8d28bfa8ce5c8ce8aec4b3b39bcc7fa383e024dfbae.jpg> 米関税の差し止め判断 米裁判所
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540427>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3f126ae30d41e5435040ecb4568a3b301acda490be91e88930cc1f7d8d121404.jpg> 被爆者 初めて10万人割れの見通し
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d4c022a4bae6875d0523d081bf8f21d87405477571182de38f12cda1266ad5bc.jpg> マスク氏 米政権からの離脱を表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6540433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/176d26e74ae51bd1f6ff0b0db8224698d5d4aa2afa9d18801aab516f947a8f21.jpg> 高速逆走 危険運転致傷疑い再逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a02eea230483aa43bc3464bb32a40475462adbc07adf2f1813b5427ca2760de3.jpg> 築103年 神戸商船三井ビル閉館へ
+      <a href=https://news.yahoo.co.jp/pickup/6540428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/44dcee0725e1805cb5d1678cebeae0010f6495ced08f47c258065add8f1005db.jpg> ねるねるねるね 20代以上にリーチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/e436100d4b85ff270e45abe43c4407ba9620c69d45d9be6435571b9ea3c65dad.jpg> シナぷしゅ 大人向けの特番放送へ
+      <a href=https://news.yahoo.co.jp/pickup/6540432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a4cebac72e74e51590ab007f56d3be540aa2aaf3544711f0efd9916166b003bf.jpg> 26年後期の朝ドラ 主演は石橋静河
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 12:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 13:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
