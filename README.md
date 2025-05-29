@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfce969e0751d39ceb1c9064dc7fff47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb1a516d8d2855b1720f05f8cad1e5aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e9dbaee25afb565f153a729411becb21c1565f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00050112-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米国務長官、共産党と関係のある中国人留学生のビザを「積極的に取り消す」
+      <a href=https://news.yahoo.co.jp/articles/30698593fab15067f798eed22c535a7f310ac816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90051133-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> “2000円備蓄米”が精米工場に到着！『アイリス』ネット通販予約スタートへ〈税込み2160円で1か月に1人1袋の購入制限〉…北海道では『コープさっぽろ』が6月下旬～『松原米穀』は届き次第販売へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/587e6ef5be3eda0af28d056f83e4abccbda8f648>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07239617-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「週明けには2000円の備蓄米を見る」小泉農水大臣が国会で発言 「随意契約」第1便が到着　楽天などきょうから受付も
+      <a href=https://news.yahoo.co.jp/articles/aa0ead04227ea8777b55ae053742f8fc5237f777>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979033-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権が中国人留学生のビザ取り消しへ…共産党関係者対象に　去年アメリカ留学の中国人学生約27万人…留学生全体の4分の1
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5a81763ace198ab104a470db51114776aae3e09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000102-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1553&ch=1553&exp=10800&fmt=webp> 防衛装備購入で米貿易赤字縮小　赤沢氏「視野に入り得る」
       </a>
     </td>
   </tr>
@@ -387,15 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a51d72018a8ef0296c6bb38278d5837130400e5f7af8b85b9b7384d7dea84f84.jpg> 備蓄米 業者への引き渡し始まる
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/cc13822ea26cf80d301b1010dbb8604290c8149028d178f1c6fa31e98fdcd02c.jpg> 備蓄米 業者への引き渡し始まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540416>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> いわき信用組合に業務改善命令
+      <a href=https://news.yahoo.co.jp/pickup/6540427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3f126ae30d41e5435040ecb4568a3b301acda490be91e88930cc1f7d8d121404.jpg> 被爆者 初めて10万人割れの見通し
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/764f42b176d5ef7f6012f3ece335cdc5d1bf5fa44d956020fc0d88bb26dd4014.jpg> 水道管の破損見逃す アナログ点検
+      <a href=https://news.yahoo.co.jp/pickup/6540418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a02eea230483aa43bc3464bb32a40475462adbc07adf2f1813b5427ca2760de3.jpg> 築103年 神戸商船三井ビル閉館へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 12:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 12:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
