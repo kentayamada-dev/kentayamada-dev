@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/542702f8036d894dd94a632d839eb5a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de2f056d126582755cfda3453d9a7dfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/204a9dce3fb44f7ccedd2b91e51c73df8de02738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=522&ch=522&exp=10800&fmt=webp> "JA外し"の備蓄米契約「理解いただいた」　農相、全中会長と会談
+      <a href=https://news.yahoo.co.jp/articles/86a23d8cd5b5a8d61e786c1e75f99398117147db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=533&ch=533&exp=10800&fmt=webp> “なりすまし記者”井上尚弥が乱入して聞き出した「武居由樹vs那須川天心」のビッグマッチの実現可能性とは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3898724acfb619cb502c96c9a2be1102565f17e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=1011&ch=1011&exp=10800&fmt=webp> 卵子の凍結保存も　引退表明のスノボ界レジェンドの足跡
+      <a href=https://news.yahoo.co.jp/articles/6cdbfd25929a6c56fc3248029618705be3b98942>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-01301334-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「コメ5キロ2000円台」に執念を燃やす小泉農相が“敗北”するリスク…異色の兼業農家が「備蓄米の放出効果は限定的」と警鐘を鳴らすワケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c30e4cfb3429c83258c91efd19bf33bf5266c309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35291266-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> サザン６年ぶり全国ツアー東京Ｄ締め、26公演で60万人動員　トラブル続出も乗り越えた
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4f064d77a5179eac9c612b0b1870ec7848a360c15b46ae76b86e5e372c938b84.jpg> 家畜の餌と発言し波紋 玉木氏釈明
+      <a href=https://news.yahoo.co.jp/pickup/6540509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/57d1fef9bfc7787f621d33a5e14e0cf47cc871d5099c4a514f0f3ae48d7d5cf4.jpg> プーチン大統領 安倍昭恵氏と面会
       </a>
     </td>
   </tr>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9855d50fe4c48ec0fe393a0213bf4a9c3ac59df20e7063aa278e36e642e733bf.jpg> 喉詰まり1歳窒息 2.7億円賠償へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a9fadf212765dc6a45aead1c8c0364330b1b12bdd67970895d8f65bc40eb7243.jpg> 100畳敷大だこ再開へ 15年7人死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540485>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/dcb5f8013052159d192fd8163014b49cfaf6832f60054d5e9b7abc444e87f6a5.jpg> 備蓄米 おいしく食べるコツ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/b868bccf29c33dda67957efb300c62a0aeff550d384fe3245eed904f650d9bbf.jpg> 元白鵬 相撲協会に退職届を提出
       </a>
     </td>
   </tr>
@@ -440,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bb8783cd55d2592bc7ab1906645bd8d2a8b6913c620474d23904837a7c07682d.jpg> 桑田佳祐 まだまだ辞められません
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 06:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 06:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
