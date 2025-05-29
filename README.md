@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74314caace20d678ff16f99838fd19be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef9c5dc566866091eb3db17d04d51f45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99733023d34740c499d7dfba5246a630ffdc4f23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国株式市場・午前＝反発、米裁判所の関税差し止め命令でリスク選好
+      <a href=https://news.yahoo.co.jp/articles/8c934c9bf7a254c5f3789600c33c81a3984f95ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＦＲＢ、関税回避なら利下げ可能　米経済は健全＝シカゴ連銀総裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9651f5cdeec5614d3afa9b2e94eb8f8362ad6a1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000000-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 政府備蓄米の運用ルールを定める基本方針見直し　随意契約に沿った形に
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/859cce59f6a3f0d369ccfae5d4a6d1d06ecb896f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-09917582-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、米トランプ大統領と電話会談　2週連続で「互いの理解が深まった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/526e3d13df8fa6481ec08d7b4bcfe6bf4d6fc61d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35291622-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1318&ch=1318&exp=10800&fmt=webp> 国民・玉木雄一郎代表が生釈明　物議「えさ米」表現は「石破総理も小泉大臣もよく使う言葉だ」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 02:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 03:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
