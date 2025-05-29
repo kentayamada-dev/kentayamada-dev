@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ede871cb877dcb0d0ac137f652080fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ae0a171380915c4d5122d750714c4a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c228db28606cad9c39f441aa86c58602f1932951>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 備蓄米の随意契約、30日に再開　大手向けは61社21万トンで確定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f00ee224b1a108b383b0cb53f6101b25e8ffb7f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01437887-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東中心に雨…警報級の大雨となる恐れも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-01437887-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東中心に雨…警報級の大雨となる恐れも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f513dd41b5840a22e8b50ca1b493ab9d490f4ae0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000083-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ファミマ、備蓄米の随意契約に「落選」　1キロ400円で売る予定が
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7806977afd401c9f3ab07ce60773f391fac6d40e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000112-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=469&ch=469&exp=10800&fmt=webp> スーパーポジティブ人間・手越祐也「オールナイトニッポン0」登場、エンジンがかかった状態で
+      <a href=https://news.yahoo.co.jp/articles/5d066dbca8f04af78df6e0c7ffb015828a40ec41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00018882-bengocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 主要テレビ局の人権施策は「不十分」NHKも「立ち遅れ」、中居フジ問題受けたアンケート調査で浮き彫りに
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/3e16a2d7540d204c655be9d3b8e06ef07265214891449d52083b9de4d1ae5452.jpg> 住民票 電子データでの交付を検討
+      <a href=https://news.yahoo.co.jp/pickup/6540475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/da779c86cb0761ef0f8b9fcb5a196719990469cbc9f7d95655f15550cd052917.jpg> ハーバード大 広がる恐怖と混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/79e87427ad66f9f1e268c671ace0280174b091b8b3535227adb17a23e91fcff8.jpg> TV局の人権施策不十分 国際NGO
       </a>
     </td>
   </tr>
@@ -434,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/4ba65ee7fbfd1d08dff810177384987fd490df9ba37af32cc412f807df388758.jpg> ロマンス詐欺 男性が4億円超被害
+      <a href=https://news.yahoo.co.jp/pickup/6540491>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/70f73ef5957206f28f6d7f62436a247fac34301be71dd186e106c797ded24a2c.jpg> クマがIC近くに 蜂蜜なめて去る
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/69d36741b84aab13bad19e98a886b3d78243210776f28a23fc4b1924877be520.jpg> 幻の逆転弾 中日の抗議文受理せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/9e2218a2608e812309e8ead32671d3bd15b87393da273556c2ab512224384040.jpg> 手越祐也 ANN初パーソナリティー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 20:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 21:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
