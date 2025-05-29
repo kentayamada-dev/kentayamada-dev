@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f01aab84ed46f48053fd56d343d0ff2b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3fdd9e5cfadb618a1566ac107f188fe3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ef07f3fcfef5c0cc7558fde22fd031a90674c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00979217-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自】石破首相が29日夜にアメリカ・トランプ大統領と電話会談する方向で調整　4度目の関税交渉を前に
+      <a href=https://news.yahoo.co.jp/articles/bfca3d4cd2ed5b4aa3fec3b6310a1f024ae16cde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00050187-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 防衛装備品の購入拡大「視野に入りうる」…赤沢経済再生相、４回目の閣僚級協議へ訪米
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69a5ca1d2192babc87b7f86979978df3e17633a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-90023383-nbstv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【地震】岐阜県高山市、飛騨市で震度2　愛知県、長野県、福井県でも震度1の揺れを観測　各地の震度は
+      <a href=https://news.yahoo.co.jp/articles/3f80fddfe297cd59fc3caa8426331d45b8a1a2e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-10180889-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ネタニヤフ首相「ムハンマド・シンワル氏を排除した」ハマス最高幹部殺害を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d7194f7751087d878395069f36c474941d2358b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-07853262-fbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 【震度速報】県内10市町で震度1　震源地は岐阜県飛騨地方　津波の心配なし　高山市で最大震度4
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2b6aa2cb08df7ed9daa59fb9e22390cfc956d83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00029993-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 30日は関東で警報級大雨の可能性　土日は西日本から天気回復　運動会日和に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
+      <a href=https://news.yahoo.co.jp/pickup/6540466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/239895b738832e48ad14cd574872390ba278ef340f2f0ae329ae947d697e0412.jpg> 29日夜に日米首脳電話会談を調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540452>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国で海軍機が墜落 2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/d103695aefa73d696c42a3752ecd52c5a254bc98e9d86e13be84283a27859dc1.jpg> 備蓄米契約 申込み確定の61社公表
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f0013fbd9a01bf4e95755706ad05ee2f6869e6bfb21581a5b5b9e17d4bbac96a.jpg> 保釈認められず失明寸前 訴え棄却
+      <a href=https://news.yahoo.co.jp/pickup/6540467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2813b0458b4f5f3642b7fed3e047bd1cd9268f8f77ba199aa9e7dc1f301c782.jpg> 菊池雄星5敗目 敬遠にブーイング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/a110dc9e01489483616902edef72bd782e3057a15c00505676ee47d6d0a2c1c3.jpg> 違反切符切れない道路 路駐が横行
+      <a href=https://news.yahoo.co.jp/pickup/6540462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bb9cf0e1679e6be716b6e44e72cb6ff26b3d05235d304ecacc9d1b43b03775ea.jpg> 藤岡弘、79歳 子の成長見届けたい
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 17:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/29 17:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
