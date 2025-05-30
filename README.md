@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c94a65ea573b6c5172f7deb29ded774c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ba7c384eef4ecef56c788295e6b283b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7b871a96d711482f02ff10af7f721d2f50c5ad9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000140-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=951&ch=951&exp=10800&fmt=webp> 井上尚弥のスパーリングパートナーとして2度来日したロブレス「かなり効かされた」と那須川天心のパンチ力を称賛
+      <a href=https://news.yahoo.co.jp/articles/69b29712c87e0d0be5d48bec368c1fbb6be269ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000269-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=401&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 東海第2原発、ケーブルから発火　運転停止中、放射性物質漏れなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3590738630aff35fd2143664dec39faf5f92d6d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏の名誉回復求める　フジ第三者委に「重大な人権侵害」　代理人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa1e43895b1f16deb06df3136d3711d08d119e65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90019774-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博パビリオン「何のために頑張ってやってきたんだ」工事費未払いで下請け業者が『被害者の会』
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d80c7624d1ac6feb98dc83400e7ff722ff12bb77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000260-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 元白鵬、念じた1年後の部屋再開　上層部と認識に違い、我慢限界に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c36f06fae90f4b846a6829d8929ac95952a10f09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=533&ch=533&exp=10800&fmt=webp> 中居氏側、フジ第三者委に再度の証拠開示要求　「性暴力」認定巡り
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8bd14c0fec39023f661d76ad6ebcc560dc0742f1e3dcf3fb6d186b5506fad061.jpg> 31日 関東や東北で激しい雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540602>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e8fda202c8fb1bfca5aab9e6b82c63734ec73000afa864e6fdd60d3ed4f12777.jpg> 2千円台の備蓄米いつどこで買える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8108f67c2753d95b3643340a819f2f0064af9ce43a4431b895e15d93de062642.jpg> 80年前の2秒の映像 父とわかり涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8c14fdb62460e5f7216a3b9f12661cc1c8be36a74b752f59c74989b2642179e5.jpg> 昭恵夫人とプーチン氏 面会の背景
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8a03185414d6d2fae8dc4ebab5ee4dd7ded3d94f0d34abc23fdaa372193c0cc4.jpg> 万博工事未払い 被害者の会を設立
+      <a href=https://news.yahoo.co.jp/pickup/6540609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6782ccb291d7d567fc7ee999a58bbe7718b82c01483c6076a945c7467be5a684.jpg> ダイアナ元妃の実家で火災 放火か
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/1b03cdd017b25122760cea97b9072926f8052c53b1585991e5c6667cf5c33fcf.jpg> 退職届巡り 話すことないと元白鵬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/49e15ea0c187f79f17e0e03745197195b358ed832cbf6d87ae25344c53d567d2.jpg> 新浜レオンが投球披露 どよめき
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 21:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 22:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
