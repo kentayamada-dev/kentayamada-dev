@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d593aaa9aeccd874071c057e673fa370.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5b4fef3323c7021479c1f8d53675e44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59020e4c3d29fcd7bd9a08dd2caa812f28521ae4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000073-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 「勝利の涙忘れないから」 岩崎翔、オリックスへ電撃トレード、中日ファン思いさまざま 「望まれて行くんだよね」「もう一花咲かせて」
+      <a href=https://news.yahoo.co.jp/articles/91853625b669a286bab91d25ac79eb71f189365f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301127-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 那須川天心、武居由樹戦は「時が来たら必ずやる」「どっちが勝とうが負けようが消えない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca2cf92fc6cec22c085e72c7f1a0667b9d35e405>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居正広さんの代理人弁護士 第三者委員会に資料などの開示と釈明を要求
+      <a href=https://news.yahoo.co.jp/articles/6c84cca5e3ad07228e76cdcf9bdfb77415bda52d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90026141-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 中居正広さんの代理人が再度要求！「愕然とした」「驚愕だった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ffac6c04a288c6840a80e7adcdf673f906ef3b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000254-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 天心　1回TKO勝ちの武居に刺激も「それ以外でも魅せられるのが僕」スパーでは追撃の強打で力強さ披露
+      <a href=https://news.yahoo.co.jp/articles/1aad90e9fe813448fbe9c7b5758e2a34112efcfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979834-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が備蓄米倉庫を視察「素晴らしい管理」　ドンキで週明けにも販売予定の「古古米」1.5倍のスピードで精米作業など開始　せんべいにも値上げの波
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33dac58b67a979dbcce3fa5c1a157c8c5cd89f26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-09464941-stv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “古古古米”にはマヨネーズ　中小スーパーの“随意契約”受付開始　通販サイトは２日連続即完売
+      <a href=https://news.yahoo.co.jp/articles/9d1a3a128a8225e774d260b2cde23740a1b8b16b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000152-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 投資家、トランプ氏は「びびり」　関税強硬姿勢、二転三転でやゆ
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f8d2c639926e5060112eeb7f9dfc0b7be80c35fe171db8e7c026ca5aa3c44af8.jpg> 羽田事故受け 改正航空法成立
+      <a href=https://news.yahoo.co.jp/pickup/6540575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5e0e963130685b972dead6895847f5a40b4f57a063b1fa7f067c0639194727a9.jpg> 中国向け水産物輸出再開へ なぜ今
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bc31e0254949ba1cf860c1e4c6402536d6bbdd8287750e0d93c0f61cf2b79ce5.jpg> 予約不具合 万博協会が3度謝罪
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e027b35040097847cd2686e8f0fed9afb159fd6fb72b464e4f869a07a593e534.jpg> マスク氏 火星無人飛行を26年末に
+      <a href=https://news.yahoo.co.jp/pickup/6540576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/521507b750807df23b18b304e6d8eb961c176562267f0562ed4eeeeaeaa5d56d.jpg> トランプ氏激怒 TACO理論とは
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/255fcc0c3cc939b1b0755a91f5c43ba71ee101bf0f50a951734baa306e6d8f21.jpg> TUBEのハワイ公演 無事開催へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 17:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 17:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
