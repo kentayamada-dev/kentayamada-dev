@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b1c7552eb78f56bb40fafb10a87dc0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c364374d120d8dfef2a19acaf72f6e52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79576691fd8334ef239e1dd57f6882fe7da0a747>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00050204-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=377&ch=377&exp=10800&fmt=webp> 藤井聡太七冠が名人戦３連覇、永瀬拓矢九段を４勝１敗で破る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18531bafba4bacbb00952870a3faa384e7baf14e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「二次加害に他ならない」　中居氏公表文書に反論　女性代理人
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「二次加害に他ならない」　中居氏公表文書に抗議　女性代理人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67b61ed5f1a09bf34b32d6abcac1849735f7baa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000164-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 日米関税交渉、6月中旬の妥結視野に4回目の閣僚協議始まる　交渉対象巡り隔たり大きく
+      <a href=https://news.yahoo.co.jp/articles/3590738630aff35fd2143664dec39faf5f92d6d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000142-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居氏の名誉回復求める　フジ第三者委に「重大な人権侵害」　代理人
       </a>
     </td>
   </tr>
@@ -410,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/817d822227427428d2399d175039858fcd8cca59afea03ac475a67c17b656afb.jpg> 北が露に弾道ミサイル供与 報告書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540615>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/47a54a07f710de7cced474112911bf8a81ed470a17213232f25dddb896ba9978.jpg> トランプ氏 中国が合意違反と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/def259d0d48d42571051b29191f44813895e084c35009bed8981ab52383b89cd.jpg> コメ5キロが6500円 西表島の苦境
       </a>
     </td>
   </tr>
@@ -442,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2c44b75a4025d293fe718497860123cd23a476e861b0979c534ca1026dfa5545.jpg> 藤井聡太名人が3連覇 名人戦
+      <a href=https://news.yahoo.co.jp/pickup/6540620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/748c248e8a22117cd8c1be211c266e30c95a152876534412bad1562f019b5060.jpg> 都営バスで女児閉じ込め 点検怠る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e3b039eca49a87a6bfb847375800ad5ca3877e6d1e6a2b71610b2695b2b5e9b0.jpg> オランダ ハリボー菓子に大麻成分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f4685a0e5cd7711576503d0c1434de35481f849cbe47d0fae69b1b47263642b8.jpg> 予約待ち ぬいぐるみ治療する病院
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 23:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 23:51:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
