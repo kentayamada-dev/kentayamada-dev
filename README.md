@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/282913fbd1e60f633085994e62d4ef78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9bdf187a8cf1c53318e2b3927e202ea8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ffc77d8988597600883eae3ae5923b7ebf87c969>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000005-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 「30歳で150万円」フジテレビ　300億円赤字でも夏のボーナスは“微減”の衝撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000005-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 「30歳で150万円」フジテレビ　300億円赤字でも夏のボーナスは“微減”の衝撃
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 07:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
