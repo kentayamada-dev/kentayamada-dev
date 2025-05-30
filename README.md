@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29346aa66a8dd2410f620408aa37be89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6baa041387f63ad5c336e336b4da45f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/777b09a0aacd6147abb668f2a51b6f6e138b6c28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 袴田巌さん姉から意見聴取　再審制度検討の法制審議会部会
+      <a href=https://news.yahoo.co.jp/articles/0799fc9719945f8c3d4bb34867de0c4bc44f094c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21945701-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “瞬殺”で完売相次いだ備蓄米ネット販売　小泉大臣“古古古米”試食の現場では　30日から申し込み開始も中小スーパーから落胆の声【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25821f026fc0d128f5d14656c16d4905bd3bdf14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 備蓄米めぐり「1年経ったら動物のエサに」　国民・玉木代表発言が波紋、与野党議員とXで応酬
+      <a href=https://news.yahoo.co.jp/articles/1fff4435c1481730fcb3f8cc0583a2c11528bd67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946483-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がサミット前に渡米しトランプ大統領と会談する可能性も　トランプ関税交渉　赤沢大臣は帰国4日後に再渡米
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e793e8261c65eb05d323da515bced35089f96ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946253-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　東北太平洋側では31日は激しい雨が降り大雨となる所が　24時間降水量は最大120ミリか　気象庁
+      <a href=https://news.yahoo.co.jp/articles/00f470e6f71b5b01f8b73ed7c5bd8fce29e0f57f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全操縦者に意思疎通訓練義務付け　羽田事故受け、改正航空法成立
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6686de20a8f96c63bc3c88d23fce2148c25201af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣がワシントン到着 トランプ政権と4回目の関税協議へ
+      <a href=https://news.yahoo.co.jp/articles/3a50e67a3f746df34a8cb7630dae5f7cd17c7dd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291726-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=360&ch=360&exp=10800&fmt=webp> カブス傘下の前田健太　2回途中9失点でKO　移籍後3戦連続乱調で防御率は24.30へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a02fe9b0c81d4713ecd7e3681e3de195851f942e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000104-kstylens-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=280&ch=280&exp=10800&fmt=webp> HYBE、不当利益の疑いで検察捜査…バン・シヒョク議長に不正行為疑惑も浮上
+      <a href=https://news.yahoo.co.jp/articles/6ef41fe79c2fa1e73be385357d0e798f33984624>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00004822-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】周南でＳＮＳ型投資詐欺　約３００万円被害
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540551>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米説明会 職員が不適切発言
+      <a href=https://news.yahoo.co.jp/pickup/6540545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 切り取りで炎上 投票に影響懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d0ef5e2cd423783846e04d71dfbd092f7fffc93409f79e4710bf85c663de2e4f.jpg> 株式上場巡り韓国HYBEを家宅捜索
+      <a href=https://news.yahoo.co.jp/pickup/6540551>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米説明会 職員が不適切発言
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2b14f4dfe997d2dae14c38642063aa62f028c3ee6301d395a3304068e495b72a.jpg> 名人戦 異例の2局連続「千日手」
+      <a href=https://news.yahoo.co.jp/pickup/6540554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/427e5fe17d316a542f3a84798289686f951d2dc7150298ad1bf3de21aab511de.jpg> サッカー強豪 十文字高の監督解任
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/427e5fe17d316a542f3a84798289686f951d2dc7150298ad1bf3de21aab511de.jpg> サッカー強豪 十文字高の監督解任
+      <a href=https://news.yahoo.co.jp/pickup/6540558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e6269ab659abfb603b4204387fa1d3f44b832260f47c24dc695eb39aa616e967.jpg> 伊東純也「地獄」クラブが2部降格
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 13:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 14:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
