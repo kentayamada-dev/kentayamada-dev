@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b526990a344df4e369fe53ad8446c099.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/25ad1617e0e9d1acad8d143708f40291.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b64ee3b07b7b3eb6f4f9a684be8fb70d145bb046>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000046-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝ドジャースがブルペン緊急補強、元球宴右腕ディアス獲得
+      <a href=https://news.yahoo.co.jp/articles/725b0fa427b58a369e70b289fefe8c026482aaf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 夫婦別姓、28年ぶり審議入り　3野党、個別に趣旨説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc06d3a5974df59fb784176ec70ed6c3588758fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 随意契約、中小の受け付け開始　備蓄米、21年産8万トン対象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c31cba52d31777d0f012d44577cd897df1bb0120>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030000-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東は前日と比べて気温大幅ダウン　雨と北風でひんやり　伊豆諸島では土砂降りの雨に
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35cc6a64e72d80fca21ba4bf2a799a3671a04106>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979592-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日本の立場に全く変更はない」石破首相がトランプ大統領と2週連続の電話会談…関税措置めぐって意見交換「互いの理解一層深まった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8abddbe8d5958ae7e6c0ce68f6df67b6b59db91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-03577716-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 中小規模の販売店向け説明会始まる　品質疑問視して扱いを見送る店も　どうなる備蓄米　北海道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c5c9121a68be8ebc26bb7849803ccaf9e98afb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010000-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】30日の天気 - 朝は関東で本降りの雨　関東は気温上がらず北風冷たい　西日本は雷雨に注意（30日7時更新）
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/39aae17dea5ddfb5f4455d1685be215ce761c9e6e5e224f6a19a0e6876b80ca9.jpg> 米控訴裁 関税差し止めを一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6540537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6ead2e2c4999846d5ef43102c8d3b3ff5867f6de6b5ff05a46f1f422841c5f14.jpg> 夫婦別姓法案 28年ぶり審議入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bd9ab6b6ecaf3a9a28bcf6a1f8aa265257be5e12f55ec2a8450a20a13bb76a8d.jpg> 日本産水産物の輸入要件 日中合意
+      <a href=https://news.yahoo.co.jp/pickup/6540528>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中小向け備蓄米 随契申し込み開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/747aff4691ea92ae53db6e8b86273e06d15947813421e2ce30ef7f0e17f93024.jpg> カナダ2州 山火事で非常事態宣言
+      <a href=https://news.yahoo.co.jp/pickup/6540534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/eb271a65911737740b340588cac8a33d8c275f35269c7085dff371ec33a6bede.jpg> 抹茶ブーム余波 京都の茶畑に異変
+      <a href=https://news.yahoo.co.jp/pickup/6540538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9f9d7e39dcdac7eaeb8252b6b90247f8201db15b01758dc8451ae613b77c03d7.jpg> 「髪がうねりやすい」地域は 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2bbb28fd6d5626f4548afd4e943435f5f6b93decc1c21e96fb25b1dd8755fd58.jpg> ド軍が右腕電撃獲得 投手陣再建へ
+      <a href=https://news.yahoo.co.jp/pickup/6540536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2bbb28fd6d5626f4548afd4e943435f5f6b93decc1c21e96fb25b1dd8755fd58.jpg> ド軍 剛腕ディアスを電撃獲得
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 10:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 10:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
