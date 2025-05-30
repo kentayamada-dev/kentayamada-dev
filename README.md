@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb11a7987ec4c07ec4894a4bb1d086cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0953bf9d1142126042fcbc1ee91cfc84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7423426e994e1a4a2dc654efa45e35c4193de67a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979786-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “2000円備蓄米”いつ北海道に?「コープさっぽろ」や「イオン」など続々名乗りを上げ6月から店頭に_流通までには課題も “精米”どうする? “コメ袋”間に合う? 消費者からは「待てない」の声も〈北海道〉
+      <a href=https://news.yahoo.co.jp/articles/795714ffe3f4dfe14d7ec68aa3796dd423b131f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35300691-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 国民・榛葉幹事長が謝罪　玉木代表「えさ米」＆自身の「博多女性きれい」発言　記者に促されて
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba4f5fe94ced1e28d6abb176dead3bd5149c46ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979798-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「BTS」など所属する大手芸能事務所「HYBE」本社に家宅捜索…元社員が未公開情報利用し他社株を購入か　創業者のパン・シヒョク議長の不正疑惑も浮上
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75765548a0bf4480cde16b81f516d9f9b6be0680>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10181055-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 赤沢大臣「合意が成り立たないとしょうがない」4回目の日米関税協議に向けワシントンに到着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/043973e8ca2ac725435f8530d71bd8dc2c3bbcc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000067-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=7&cw=912&ch=912&exp=10800&fmt=webp> ＢＴＳらの所属事務所・ＨＹＢＥ元スタッフが株で不当利益の疑い　バン・シヒョク会長も詐欺容疑で警察が捜査と現地で報道
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f383d2ce948a7655433dd4d301955de931856585f9247a76c73f00128689c995.jpg> カジノをイメージ 型破り介護施設
+      <a href=https://news.yahoo.co.jp/pickup/6540566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e027b35040097847cd2686e8f0fed9afb159fd6fb72b464e4f869a07a593e534.jpg> マスク氏 火星無人飛行を26年末に
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540560>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/3b61d61f849c3a84a72a66e0291aece764a891bed768de30df0ae056a9cf02ca.jpg> こども食堂名付け親 一線引く決意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamazakimayumi/02227620/title-1748489797951.jpeg?exp=10800> 温泉旅館「素泊まり」定着するか
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f3e93c0cc0eb0a49c01ec6d80fd44a94de786bbbc2be70594b351912ba9f4668.jpg> カブス3A前田健太 3戦連続乱調
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 15:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 16:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
