@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b458bbb32f7377555792ba4646b17d7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/222a51468850cbc13af275ff3d95a518.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbbe4f1638e13decdd393f54d6fb5260324e216f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000093-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=25&cw=869&ch=869&exp=10800&fmt=webp> 【一問一答】3連覇の藤井名人　あと2期獲得で永世名人「漠然とした憧れのようなものは以前からあった」
+      <a href=https://news.yahoo.co.jp/articles/7fe2fd43da764b868854c9d79b004bcc8683cc32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 05:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 05:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
