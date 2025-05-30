@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3eacdf346eb7215a2d3ca98b0ce8435.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a9ea251b27413c9bb4c83020ed30267.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48a8308f7a147496924584604c2e183f4bd6943f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000190-sanspo-000-1-view.jpg?pri=l&w=192&h=130&exp=10800&fmt=webp> 新横綱・大の里が雨中の奉納土俵入り…一般公開中止も「日本一！」のぞいた1000人祝福
+      <a href=https://news.yahoo.co.jp/articles/5ec5cb23315f728981a706dc3c9d8c580770589a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980156-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> いわき信用組合の不正融資　“少なくとも247億円”と認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3bec0e00ec121eebdaff836f38876fe037519901>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026400-oxv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=878&ch=878&exp=10800&fmt=webp> “アイリス備蓄米”に人殺到 仙台で店頭販売開始前に１００人以上 整理券は配布即終了
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/21842996815a2e7ead1f25fd61ad99a76f90b2ff2a2863f2ca2b55e3f12f47f1.jpg> 類例ないほど悪質 いわき信組不正
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540628>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/01ff376ae6c865f50ed66bdd677207b8167f53763f5d16aadacbbf2fcc61fa34.jpg> 川崎遺体 女性の交友関係に不満か
       </a>
@@ -418,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b11af5b1d6e1ee0f42acc3b9827bec4d2a17c42f39077e0813cd4d4c765f06a3.jpg> 3人組が男性殴りバッグ奪う 逃走
+      <a href=https://news.yahoo.co.jp/pickup/6540626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6efacd8a8186fa80cb087adce16aea25b31656b7a2c84b1ab28c637aa72d2469.jpg> 就学猶予経て 493gで誕生の子入学
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c182fc5b45c277b9839a1eea7832ff6258f07f7bceebd5ca79272f02aba80094.jpg> 中居氏側の文書巡り 女性側が見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3135a65deb97fc5d1c380f0820fb1d6a365c2d6a9e0e0443de12171e940a2c2c.jpg> 元白鵬の退職届 6/2にも協会受理
+      <a href=https://news.yahoo.co.jp/pickup/6540633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/13493d6e322af5a4d80e5ec5d1a92da3677b86c8bd4f1a23a54f4c14c8eccd88.jpg> 判定物議 精いっぱいの判断とNPB
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 08:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 08:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
