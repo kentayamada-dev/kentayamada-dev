@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfda690fa2970177c579ca474baaf5d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b1c7552eb78f56bb40fafb10a87dc0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7409ac26e416fe3973c06475f6e630d9af38015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-04576701-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 中居正広氏側主張、相手女性代理人が反論「事実と異なるものであり、看過できない」
+      <a href=https://news.yahoo.co.jp/articles/79576691fd8334ef239e1dd57f6882fe7da0a747>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00050204-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=377&ch=377&exp=10800&fmt=webp> 藤井聡太七冠が名人戦３連覇、永瀬拓矢九段を４勝１敗で破る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22daa13700b7a18bbbf14da094fba241bde4fbf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000026-flix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 戸次重幸『岸辺露伴』不気味な撮影にツッコミ　「メイクの必要ある…？」
+      <a href=https://news.yahoo.co.jp/articles/18531bafba4bacbb00952870a3faa384e7baf14e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「二次加害に他ならない」　中居氏公表文書に反論　女性代理人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67b61ed5f1a09bf34b32d6abcac1849735f7baa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000164-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 日米関税交渉、6月中旬の妥結視野に4回目の閣僚協議始まる　交渉対象巡り隔たり大きく
       </a>
     </td>
   </tr>
@@ -402,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/09876ba8be489a1afe92b18a33570b0781a2f86ace1e05903fcb6199ee5224a9.jpg> 東海第二原発でまた火災 原因調査
+      <a href=https://news.yahoo.co.jp/pickup/6540603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/817d822227427428d2399d175039858fcd8cca59afea03ac475a67c17b656afb.jpg> 北が露に弾道ミサイル供与 報告書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/47a54a07f710de7cced474112911bf8a81ed470a17213232f25dddb896ba9978.jpg> トランプ氏 中国が合意違反と主張
       </a>
     </td>
   </tr>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c2624c9826ab04e50547345949a409c8cf2615ab094f4a3b9ffc451f92f11e65.jpg> 子供がiPhone欲しがる4つの理由
+      <a href=https://news.yahoo.co.jp/pickup/6540618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2c44b75a4025d293fe718497860123cd23a476e861b0979c534ca1026dfa5545.jpg> 藤井聡太名人が3連覇 名人戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f7a39887598d18a4851d50a8eb90ff8621a4993e9cf6b735f9c4820ca8930e65.jpg> 巨人ライデル 開幕から24戦無失点
+      <a href=https://news.yahoo.co.jp/pickup/6540619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/3fdd559d10dcbcb2883b70ecc56ef87e5cde15b0aeeec0317ef5051258fc1945.jpg> 梅宮アンナとの電撃婚 世継氏語る
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/116597bb53fe0a5f69f81d2d180d948e672f6508902e9b0ca500fd98cf2e7a3d.jpg> 井浦新 私服で舞台あいさつ登場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 23:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 23:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
