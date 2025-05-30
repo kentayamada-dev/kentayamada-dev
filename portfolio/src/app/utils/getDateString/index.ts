@@ -6,7 +6,7 @@ const getDateString = (utcTime: Date, locale: LocaleKeyType): string => {
   const year = date.getFullYear();
 
   if (year === currentYear) {
-    const options: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'short' } as const;
+    const options: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'short' };
 
     return date.toLocaleDateString(locale, options);
   }
