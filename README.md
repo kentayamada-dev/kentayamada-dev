@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5f46aecc4f772ac9d35a303650a5e7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0ab9581051ff9e7f109eb9475c87c1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c171925406aa41f108b69dd4e221d617b996e049>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00346506-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 那須川天心　どうなっても武居由樹と戦う！「やらないのはファンが許してくれない」
+      <a href=https://news.yahoo.co.jp/articles/028fb7377a1cb8d4767c0a0d9a84ae249c8682e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00002739-kfb-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の予約販売　本日も「完売しました」（福島）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3db6dd8eed51aaddf882ea72dc63907e4cd29e32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000067-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 中居氏側の文書で女性側代理人「二次加害に他ならない」
+      <a href=https://news.yahoo.co.jp/articles/5abdf1cdbb6df2e73a21a6bd1990365443073673>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000114-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 那須川天心、初回KO防衛の王者・武居由樹について未来の対戦を予言「どういう形であれやると思います」【ボクシング】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a7619ccae8d781c91d68e33b4d1eca8d3a2f911>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00066109-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> アンゴラパビリオンめぐる“下請け業者間の工事費未払いトラブル”　被害者の会が立ち上がる「このままではうちらも倒産」
+      <a href=https://news.yahoo.co.jp/articles/c36f06fae90f4b846a6829d8929ac95952a10f09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=533&ch=533&exp=10800&fmt=webp> 中居氏側、フジ第三者委に再度の証拠開示要求　「性暴力」認定巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/433b925f013973b6a92e8e988975176f1969b39a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-11645873-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=499&ch=499&exp=10800&fmt=webp> 国民・榛葉幹事長 玉木代表の「餌」発言擁護→陳謝「心を害した人いる」指摘に「誤解を生む。心からおわび」
+      <a href=https://news.yahoo.co.jp/articles/979bb6b9939c07bf0713d41c2130830c1e99f1ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000049-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=419&ch=419&exp=10800&fmt=webp> 「ロシアが防空システム提供」　対北朝鮮制裁監視チーム、初の報告書
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a649fbd6b486f82056b34c9eb8898798cdcc7e922c52ea5cebd18fe09c58b587.jpg> 立憲公約案に「食卓応援給付金」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5fb6d5cdc06da54353036837af11db21167e275a05fb6dc1155acfa41dd6815e.jpg> いわき信組 不正融資額は247億円
+      <a href=https://news.yahoo.co.jp/pickup/6540602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e8fda202c8fb1bfca5aab9e6b82c63734ec73000afa864e6fdd60d3ed4f12777.jpg> 2千円台の備蓄米いつどこで買える
       </a>
     </td>
   </tr>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8a03185414d6d2fae8dc4ebab5ee4dd7ded3d94f0d34abc23fdaa372193c0cc4.jpg> 万博工事未払い 被害者の会を設立
+      <a href=https://news.yahoo.co.jp/pickup/6540600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8c14fdb62460e5f7216a3b9f12661cc1c8be36a74b752f59c74989b2642179e5.jpg> 昭恵夫人とプーチン氏 面会の背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e3b039eca49a87a6bfb847375800ad5ca3877e6d1e6a2b71610b2695b2b5e9b0.jpg> オランダ ハリボー菓子に大麻成分
+      <a href=https://news.yahoo.co.jp/pickup/6540593>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マダニにかまれ 70代女性が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8a03185414d6d2fae8dc4ebab5ee4dd7ded3d94f0d34abc23fdaa372193c0cc4.jpg> 万博工事未払い 被害者の会を設立
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 20:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 21:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
