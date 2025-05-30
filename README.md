@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c45b0d7e6fcfa4b9aca02d9419f20ed1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d19a6d9b864d31ec2835bf2c497ac6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4242f5b5f2124c92166f75b26cf1c5ad5cd76e19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21945977-ohbsn-000-1-thumb.jpg?exp=10800&fmt=webp> 『古古米』を新潟で精米　週明けに都内の「ドンキ」などで5キロ2000円前後で販売される予定
+      <a href=https://news.yahoo.co.jp/articles/cbe5c6fef7b295c07ba6ae422b7789a20521a07b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-01678486-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米　中小小売り向け「随意契約」受け付け開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51514c77e5cb0345c6a27882862a661f93fab489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946195-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 暴風と大雨及び高波に関する東北地方気象情報
+      <a href=https://news.yahoo.co.jp/articles/8e793e8261c65eb05d323da515bced35089f96ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946253-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　東北太平洋側では31日は激しい雨が降り大雨となる所が　24時間降水量は最大120ミリか　気象庁
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6686de20a8f96c63bc3c88d23fce2148c25201af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣がワシントン到着 トランプ政権と4回目の関税協議へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣がワシントン到着 トランプ政権と4回目の関税協議へ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6644352a5e6d695d9c9b488b793b5416260c0c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-07239849-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「選択的夫婦別姓」28年ぶり国会審議入り　法案乱立で今国会成立は見通せず　立憲・国民・維新の3法案
+      <a href=https://news.yahoo.co.jp/articles/a02fe9b0c81d4713ecd7e3681e3de195851f942e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000104-kstylens-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=280&ch=280&exp=10800&fmt=webp> HYBE、不当利益の疑いで検察捜査…バン・シヒョク議長に不正行為疑惑も浮上
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6540551>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米説明会 職員が不適切発言
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/b85bcff80582e078741e82fc4a99787a7ea714b8c37e99242f22c58eddcaa588.jpg> 説得を拒否されても追尾 詐欺防ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6540553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d0ef5e2cd423783846e04d71dfbd092f7fffc93409f79e4710bf85c663de2e4f.jpg> 株式上場巡り韓国HYBEを家宅捜索
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> メロン大豊作 値下がりに店期待
+      <a href=https://news.yahoo.co.jp/pickup/6540549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
+      <a href=https://news.yahoo.co.jp/pickup/6540552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2b14f4dfe997d2dae14c38642063aa62f028c3ee6301d395a3304068e495b72a.jpg> 名人戦 異例の2局連続「千日手」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 12:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 12:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
