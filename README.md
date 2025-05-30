@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28d600c55094725411dc72ed93e1729b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ffb08946e04a7cc7319ca279f8d639a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b082b6d365e63603311ddd324b0816cafc2b28fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日米関税巡り4回目の交渉へ　日本は撤廃要求、米は難色
+      <a href=https://news.yahoo.co.jp/articles/8469616a0d041b181ad33a3ca4021c34158f4181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000334-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 中居正広氏側の主張　相手女性の代理人弁護士反論「事実と異なるものであり、看過できない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6253cc12c93113eab4287fef8569b31162f3441e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301167-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=127&cw=923&ch=923&exp=10800&fmt=webp> 中居正広氏側主張、相手女性代理人が反論「事実と異なり、看過できない」「二次加害に他ならない」
+      <a href=https://news.yahoo.co.jp/articles/b082b6d365e63603311ddd324b0816cafc2b28fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日米関税巡り4回目の交渉へ　日本は撤廃要求、米は難色
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8108f67c2753d95b3643340a819f2f0064af9ce43a4431b895e15d93de062642.jpg> 原爆で消えた町の男性は父 子が涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/84a4d6a67700c48a563f84d4818d40145679f873f9e40e4402d56cbdbd8f6337.jpg> 理科実験中 児童が重いやけど
+      <a href=https://news.yahoo.co.jp/pickup/6540596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8108f67c2753d95b3643340a819f2f0064af9ce43a4431b895e15d93de062642.jpg> 80年前の2秒の映像 父とわかり涙
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540579>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e3b039eca49a87a6bfb847375800ad5ca3877e6d1e6a2b71610b2695b2b5e9b0.jpg> オランダ ハリボー菓子に大麻成分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a939fc67c4d508b0227d480fd908c2ea1590a11a95d8f6dce36ba3777204de2c.jpg> クマに襲われた住職 救った愛犬
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 19:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 20:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
