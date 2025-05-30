@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5b4fef3323c7021479c1f8d53675e44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5aff5b71376f52c56e5ccd86184efd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91853625b669a286bab91d25ac79eb71f189365f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301127-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 那須川天心、武居由樹戦は「時が来たら必ずやる」「どっちが勝とうが負けようが消えない」
+      <a href=https://news.yahoo.co.jp/articles/5a04ce1d7b3e68963c022a74ebae2f45792f94bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-06235459-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】中居正広氏代理人がフジ第三者委員会に6月6日期限で資料開示を再要求　中居氏「がく然とした」「驚がくだった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c84cca5e3ad07228e76cdcf9bdfb77415bda52d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90026141-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 中居正広さんの代理人が再度要求！「愕然とした」「驚愕だった」
+      <a href=https://news.yahoo.co.jp/articles/97f5cb6a4c20a82f0c994fb50e8516d80b57afe6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000043-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2000&ch=2000&exp=10800&fmt=webp> 華道家・假屋崎省吾「結局、そういうシナリオが用意されてる」コメ政策を痛烈批判…しびれを切らした国民に共感広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aad90e9fe813448fbe9c7b5758e2a34112efcfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979834-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が備蓄米倉庫を視察「素晴らしい管理」　ドンキで週明けにも販売予定の「古古米」1.5倍のスピードで精米作業など開始　せんべいにも値上げの波
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7ee313b85103223b7212a97f82faa47be873ada>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030008-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 来週は気温上昇　再び真夏日予想　雨の日は少しヒンヤリで日ごとの気温差大きい
+      <a href=https://news.yahoo.co.jp/articles/63ed72cd69573efed501c59cc4a37ba51ecaf1e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000278-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 天心“戦友”ヒメネスとの指名戦に臨む武居の苦戦予想も　自身との“夢対決”実現確信「ファンが許さない」
       </a>
     </td>
   </tr>
@@ -410,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5e0e963130685b972dead6895847f5a40b4f57a063b1fa7f067c0639194727a9.jpg> 中国向け水産物輸出再開へ なぜ今
+      <a href=https://news.yahoo.co.jp/pickup/6540573>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02228865/title-1748559796246.jpeg?exp=10800> 備蓄米は「餌」発言 識者の見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bc31e0254949ba1cf860c1e4c6402536d6bbdd8287750e0d93c0f61cf2b79ce5.jpg> 予約不具合 万博協会が3度謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6540578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/84a4d6a67700c48a563f84d4818d40145679f873f9e40e4402d56cbdbd8f6337.jpg> 理科実験中 児童が重いやけど
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a82290fb35f222d380bc4d39f4f6e09cf65bf43235983bd2c98df3761f6862ab.jpg> 小室眞子さんが第1子出産 宮内庁
+      <a href=https://news.yahoo.co.jp/pickup/6540580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9d89b796e915bef526e8462449588147ca60b425df2ef15e02cbdbba19157970.jpg> 給料に不満 管理職になり後悔の声
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/3ebd5c95a556b840d875ef3babd7351255ceb68192c13d0a561c646e37d2aca7.jpg> マヤ文明 3千年前の都市遺跡発見
+      <a href=https://news.yahoo.co.jp/pickup/6540579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e3b039eca49a87a6bfb847375800ad5ca3877e6d1e6a2b71610b2695b2b5e9b0.jpg> オランダ ハリボー菓子に大麻成分
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 17:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 18:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
