@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01c63838248546d0293bfd12bba993ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d2069e2f0f0b3f6cb4e7f08e48476dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ac29b99db0df57b11b380401a9d0cba21df6182>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21947598-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> “随意契約備蓄米”販売　異例の前倒しで31日から店頭へ　消費者の反応は様々　仙台
+      <a href=https://news.yahoo.co.jp/articles/588b83a3b03701d0ea8c7bb3b79eb0a256449aef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35301235-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側の再要求を受け　被害女性側「さらなる加害に他ならない」中居氏側の主張を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4817636798ae3ecb66f89f49911547afd3ca6739>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000101-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 【フジ】中居氏側　被害女性Ａアナとはプライベートや家族の話もして御礼メールもあった　密室トラブル「業務の延長線上」に反論　業務的な権力格差ないと
+      <a href=https://news.yahoo.co.jp/articles/23ea6e8260498ab7f4b0f6aaf412c9948400c570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90008521-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形】県の人口ついに100万人割り込む…99万9378人（5月1日時点・前月比－962人）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7329e7b2d850fc87e90a2d425c9004cddb78b2ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> いわき信組、不正融資総額247億円　第三者委が報告書「背任罪の可能性」
+      <a href=https://news.yahoo.co.jp/articles/ed6e2b8cb2ab647c3c2bb820983a400b225f044e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000090-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 那須川天心、ユッタポンに1回TKOで圧勝した武居由樹について「非常に強くなってる。時が来たら必ずやる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63ed72cd69573efed501c59cc4a37ba51ecaf1e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000278-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 天心“戦友”ヒメネスとの指名戦に臨む武居の苦戦予想も　自身との“夢対決”実現確信「ファンが許さない」
+      <a href=https://news.yahoo.co.jp/articles/433b925f013973b6a92e8e988975176f1969b39a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-11645873-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=499&ch=499&exp=10800&fmt=webp> 国民・榛葉幹事長 玉木代表の「餌」発言擁護→陳謝「心を害した人いる」指摘に「誤解を生む。心からおわび」
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c43062a14255ea6a4a8be7406cc81f1b9625fafc9b158a722ec0e3e55232021c.jpg> 年金改革関連法案 衆院で可決
+      <a href=https://news.yahoo.co.jp/pickup/6540587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a649fbd6b486f82056b34c9eb8898798cdcc7e922c52ea5cebd18fe09c58b587.jpg> 立憲公約案に「食卓応援給付金」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540573>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02228865/title-1748559796246.jpeg?exp=10800> 備蓄米は「餌」発言 識者の見解
+      <a href=https://news.yahoo.co.jp/pickup/6540583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/7f06806336626356001d81d31767956cab6a6b39cc3bdb09a5b5d155cfa73039.jpg> 山形の人口100万人割る 105年ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c4673a69591a688afab77db67bdb9a1a44f3770c386ef01ad479b84252e328fc.jpg> 玉木氏のエサ発言 榛葉氏が陳謝
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/110391abde81dfa813b30ace00b088e6455dbe8ff7a7927caafaf293638ed87f.jpg> 中居氏側 第三者委に開示再要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540571>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/186e2bb4fdc6447e32cf84e773fcdf6b3b42119764d7215bee4d0213663befc6.jpg> 中日・岩崎翔 オリへ金銭トレード
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 18:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 19:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
