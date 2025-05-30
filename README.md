@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c207dd67b3ddd4c106d0bfb0ce7cb76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e505f63cecc0cc289093e5bf5bfed67a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b7f6f7a6e32b930391132ebdd13163f63e32816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026161-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 小泉大臣「すべての皆様に感謝」販売の前倒し発表相次ぐ“古古米”あす店頭で販売へ
+      <a href=https://news.yahoo.co.jp/articles/dbbe4f1638e13decdd393f54d6fb5260324e216f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000093-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=25&cw=869&ch=869&exp=10800&fmt=webp> 【一問一答】3連覇の藤井名人　あと2期獲得で永世名人「漠然とした憧れのようなものは以前からあった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de47c1e52097510e5fda84a71084211d612f1745>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01972779-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠　タイトル防衛で3連覇　永瀬九段が171手で投了　名人戦七番勝負の第5局　
+      <a href=https://news.yahoo.co.jp/articles/8b7f6f7a6e32b930391132ebdd13163f63e32816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026161-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 小泉大臣「すべての皆様に感謝」販売の前倒し発表相次ぐ“古古米”あす店頭で販売へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 04:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 04:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
