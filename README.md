@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6baa041387f63ad5c336e336b4da45f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd53adfcacf187081e92442b423d91c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0799fc9719945f8c3d4bb34867de0c4bc44f094c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21945701-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “瞬殺”で完売相次いだ備蓄米ネット販売　小泉大臣“古古古米”試食の現場では　30日から申し込み開始も中小スーパーから落胆の声【news23】
+      <a href=https://news.yahoo.co.jp/articles/07dd1ef18b06c8921632302985ca4f752823d3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000008-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 「来年の新米まで銘柄米の価格は高止まりか高騰」コメ価格も二極化が進む…「2000円備蓄米」の効果
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1fff4435c1481730fcb3f8cc0583a2c11528bd67>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946483-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がサミット前に渡米しトランプ大統領と会談する可能性も　トランプ関税交渉　赤沢大臣は帰国4日後に再渡米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/777b09a0aacd6147abb668f2a51b6f6e138b6c28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 袴田巌さん姉から意見聴取　再審制度検討の法制審議会部会
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ef41fe79c2fa1e73be385357d0e798f33984624>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00004822-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】周南でＳＮＳ型投資詐欺　約３００万円被害
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5a1d186b88a2967ccd87d5ea880051cb3ab93f20afafef81da70f2e09aae831d.jpg> 遠い窓口 能登21郵便局で休止続く
+      <a href=https://news.yahoo.co.jp/pickup/6540557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f8d2c639926e5060112eeb7f9dfc0b7be80c35fe171db8e7c026ca5aa3c44af8.jpg> 羽田事故受け 改正航空法成立
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d4ce47dbbcca1b0a9c6a661f0dec0cd5f76f8be6ce7d05b3ee2aee1b53bbd5cc.jpg> 米政権を攻略へ ウ支援団体の奇策
+      <a href=https://news.yahoo.co.jp/pickup/6540541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5a1d186b88a2967ccd87d5ea880051cb3ab93f20afafef81da70f2e09aae831d.jpg> 遠い窓口 能登21郵便局で休止続く
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
+      <a href=https://news.yahoo.co.jp/pickup/6540562>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小室眞子さんが第1子出産 宮内庁
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/427e5fe17d316a542f3a84798289686f951d2dc7150298ad1bf3de21aab511de.jpg> サッカー強豪 十文字高の監督解任
+      <a href=https://news.yahoo.co.jp/pickup/6540560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/3b61d61f849c3a84a72a66e0291aece764a891bed768de30df0ae056a9cf02ca.jpg> こども食堂名付け親 一線引く決意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 14:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 14:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
