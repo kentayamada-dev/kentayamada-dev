@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/222a51468850cbc13af275ff3d95a518.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2409ca483ca3212dc4ac8b1fd47b2355.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fe2fd43da764b868854c9d79b004bcc8683cc32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
+      <a href=https://news.yahoo.co.jp/articles/318003486af1bc5373bd4d6be62c00294d09bdc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240020-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中居正広氏側　フジテレビの第三者委員会側にあらためて証拠開示など求める文書公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b7f6f7a6e32b930391132ebdd13163f63e32816>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026161-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 小泉大臣「すべての皆様に感謝」販売の前倒し発表相次ぐ“古古米”あす店頭で販売へ
+      <a href=https://news.yahoo.co.jp/articles/a7e5dc70e014d9db411d104deb86a92e6f62a399>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240034-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 随意契約で放出の備蓄米　きょうから小売り大手では一部店舗で販売
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7fe2fd43da764b868854c9d79b004bcc8683cc32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 05:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 06:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
