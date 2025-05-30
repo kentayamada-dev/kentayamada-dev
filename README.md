@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ffb08946e04a7cc7319ca279f8d639a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5f46aecc4f772ac9d35a303650a5e7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8469616a0d041b181ad33a3ca4021c34158f4181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000334-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 中居正広氏側の主張　相手女性の代理人弁護士反論「事実と異なるものであり、看過できない」
+      <a href=https://news.yahoo.co.jp/articles/c171925406aa41f108b69dd4e221d617b996e049>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00346506-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 那須川天心　どうなっても武居由樹と戦う！「やらないのはファンが許してくれない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b082b6d365e63603311ddd324b0816cafc2b28fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日米関税巡り4回目の交渉へ　日本は撤廃要求、米は難色
+      <a href=https://news.yahoo.co.jp/articles/3db6dd8eed51aaddf882ea72dc63907e4cd29e32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000067-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 中居氏側の文書で女性側代理人「二次加害に他ならない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed6e2b8cb2ab647c3c2bb820983a400b225f044e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000090-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 那須川天心、ユッタポンに1回TKOで圧勝した武居由樹について「非常に強くなってる。時が来たら必ずやる」
+      <a href=https://news.yahoo.co.jp/articles/4a7619ccae8d781c91d68e33b4d1eca8d3a2f911>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00066109-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> アンゴラパビリオンめぐる“下請け業者間の工事費未払いトラブル”　被害者の会が立ち上がる「このままではうちらも倒産」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/433b925f013973b6a92e8e988975176f1969b39a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-11645873-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=499&ch=499&exp=10800&fmt=webp> 国民・榛葉幹事長 玉木代表の「餌」発言擁護→陳謝「心を害した人いる」指摘に「誤解を生む。心からおわび」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14bb91a9f522a4b406a92cdc06bcfc915abbb6d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】31日の天気 - 関東の南で低気圧が発達　土曜日は東日本、東北で激しい雨や暴風に警戒（30日19時更新）
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c4673a69591a688afab77db67bdb9a1a44f3770c386ef01ad479b84252e328fc.jpg> 玉木氏のエサ発言 榛葉氏が陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6540582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5fb6d5cdc06da54353036837af11db21167e275a05fb6dc1155acfa41dd6815e.jpg> いわき信組 不正融資額は247億円
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9d89b796e915bef526e8462449588147ca60b425df2ef15e02cbdbba19157970.jpg> 適性ないのに管理職に 後悔の声
+      <a href=https://news.yahoo.co.jp/pickup/6540598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8a03185414d6d2fae8dc4ebab5ee4dd7ded3d94f0d34abc23fdaa372193c0cc4.jpg> 万博工事未払い 被害者の会を設立
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 20:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 20:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
