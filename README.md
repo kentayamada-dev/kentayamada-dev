@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0ab9581051ff9e7f109eb9475c87c1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c94a65ea573b6c5172f7deb29ded774c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028fb7377a1cb8d4767c0a0d9a84ae249c8682e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00002739-kfb-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米の予約販売　本日も「完売しました」（福島）
+      <a href=https://news.yahoo.co.jp/articles/b7b871a96d711482f02ff10af7f721d2f50c5ad9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000140-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=951&ch=951&exp=10800&fmt=webp> 井上尚弥のスパーリングパートナーとして2度来日したロブレス「かなり効かされた」と那須川天心のパンチ力を称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5abdf1cdbb6df2e73a21a6bd1990365443073673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000114-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 那須川天心、初回KO防衛の王者・武居由樹について未来の対戦を予言「どういう形であれやると思います」【ボクシング】
+      <a href=https://news.yahoo.co.jp/articles/112853beb64ae86f66aef95c7ae499e7b9ff52dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21948103-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「古古米」「古古古米」山陰のスーパーにはいつ並ぶ?　ポイントはやはり味「1回食べられたお客様がどう反応されるのか…それにかかっている」スーパー担当者注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d80c7624d1ac6feb98dc83400e7ff722ff12bb77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000260-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 元白鵬、念じた1年後の部屋再開　上層部と認識に違い、我慢限界に
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c36f06fae90f4b846a6829d8929ac95952a10f09>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=533&ch=533&exp=10800&fmt=webp> 中居氏側、フジ第三者委に再度の証拠開示要求　「性暴力」認定巡り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/979bb6b9939c07bf0713d41c2130830c1e99f1ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000049-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=419&ch=419&exp=10800&fmt=webp> 「ロシアが防空システム提供」　対北朝鮮制裁監視チーム、初の報告書
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a939fc67c4d508b0227d480fd908c2ea1590a11a95d8f6dce36ba3777204de2c.jpg> クマに襲われた住職 救った愛犬
+      <a href=https://news.yahoo.co.jp/pickup/6540604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c2624c9826ab04e50547345949a409c8cf2615ab094f4a3b9ffc451f92f11e65.jpg> 子供がiPhone欲しがる4つの理由
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/69d0015482e352f9bf43d789974591e78672c93b9016f55a6031be07799afd3c.jpg> NewJeans 独自活動に対し制裁へ
+      <a href=https://news.yahoo.co.jp/pickup/6540606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/49e15ea0c187f79f17e0e03745197195b358ed832cbf6d87ae25344c53d567d2.jpg> 新浜レオンが投球披露 どよめき
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 21:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 21:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
