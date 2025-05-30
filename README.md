@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6d52739819cf96d4c49c8097b2ca124.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1628f68dcad018b947c1447db658ca09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/140496d23035b5645ee058948fa4c77828d40181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 卸業者、例年と違う調達ルート　コメ高値の原因分析　24年度農業白書
+      <a href=https://news.yahoo.co.jp/articles/a56353400cb614be6090014978f099ecd6ba7ca0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10180989-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 石破総理「互いの理解は一層深まった」 関税交渉めぐりトランプ大統領と電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9884945a687d915bb995e98979eda206aafc4aa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000019-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 【速報】中国向け水産物の輸出再開についての手続き開始で日中政府が合意　林官房長官
+      <a href=https://news.yahoo.co.jp/articles/9f86cccb02b84e6a12c0aa3e99cbb86834983efc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979516-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【何が】カンボジアで日本人約30人拘束「日本人が警察官かたる詐欺を…」愛知県警の情報もとに"特殊詐欺拠点"摘発　日本に強制送還へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8abddbe8d5958ae7e6c0ce68f6df67b6b59db91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-03577716-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 中小規模の販売店向け説明会始まる　品質疑問視して扱いを見送る店も　どうなる備蓄米　北海道
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4fbec9dba5548f3d144da8a82785d7a290a0e18d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00541970-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 衝撃127秒TKOの裏で抱えた不安　故障で調整遅れた武居由樹…陣営に繰り返した「スパーはいつ？」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00541970-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 衝撃127秒TKOの裏で抱えた不安　故障で調整遅れた武居由樹…陣営に繰り返した「スパーはいつ？」
       </a>
     </td>
   </tr>
@@ -410,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/57d1fef9bfc7787f621d33a5e14e0cf47cc871d5099c4a514f0f3ae48d7d5cf4.jpg> プーチン大統領 安倍昭恵氏と面会
+      <a href=https://news.yahoo.co.jp/pickup/6540529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/17d2644196809e4449675b562eac1e700da1087f5b8fe115396505b080f84c8a.jpg> 邦人20人以上拘束 機器70台押収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540523>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハーバード 卒業祝辞で政権にくぎ
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540521>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/eb271a65911737740b340588cac8a33d8c275f35269c7085dff371ec33a6bede.jpg> 抹茶ブーム余波 京都の茶畑に異変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/b868bccf29c33dda67957efb300c62a0aeff550d384fe3245eed904f650d9bbf.jpg> 元白鵬 相撲協会に退職届を提出
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 09:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
