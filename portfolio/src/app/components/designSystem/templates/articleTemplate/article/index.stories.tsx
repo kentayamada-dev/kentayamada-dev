@@ -1,6 +1,7 @@
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
+import type { JSXElementType } from '@/types/components';
 
 const meta = {
   argTypes: { createdAt: { control: 'date' }, locale: { control: 'select', options: arrayOfLocales }, updatedAt: { control: 'date' } },
@@ -60,7 +61,12 @@ const meta = {
     tocTitle: 'Toc Title',
     updatedAt: new Date('2023-08-26T21:50:14.930Z')
   },
-  component: Article
+  component: Article,
+  render: (args): JSXElementType => {
+    const { createdAt, updatedAt, ...rest } = args;
+
+    return <Article createdAt={new Date(args.createdAt)} updatedAt={new Date(args.updatedAt)} {...rest} />;
+  }
 } satisfies Meta<typeof Article>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

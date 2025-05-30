@@ -18,7 +18,6 @@ const getRehypeReactOptions = (locale: LocaleKeyType): Options => {
     Fragment,
     components: {
       ...components,
-      // eslint-disable-next-line id-length
       a: A,
       code: Code,
       hr: Hr,

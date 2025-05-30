@@ -8,7 +8,6 @@ type UtilityTemplateProps = {
     question: string;
   }[];
   locale: LocaleKeyType;
-  publishedAt: Date;
   title: string;
 };
 

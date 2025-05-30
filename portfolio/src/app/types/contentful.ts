@@ -69,6 +69,13 @@ type ArticlesType = {
   title: string;
 }[];
 
+type LatestArticlesType = {
+  description: string;
+  slug: string;
+  sys: { firstPublishedAt: string };
+  title: string;
+}[];
+
 type UtilitiesType = {
   coverImage: {
     title: string;
@@ -89,6 +96,12 @@ type FaqsResponseType = {
 type ArticlesResponseType = {
   articleCollection: {
     items: ArticlesType;
+  };
+};
+
+type LatestArticlesResponseType = {
+  articleCollection: {
+    items: LatestArticlesType;
   };
 };
 
@@ -199,6 +212,8 @@ export type {
   ContactType,
   FaqsResponseType,
   FaqsType,
+  LatestArticlesResponseType,
+  LatestArticlesType,
   MetadataResponseType,
   MetadataType,
   ProjectItemsType,

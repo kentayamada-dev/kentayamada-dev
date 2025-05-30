@@ -24,7 +24,7 @@ describe('getDateString', () => {
 
     const utcTime = '2022/08/26 10:00:00';
 
-    expect(getDateString(new Date(utcTime), 'en')).toBe('2022-08-26');
-    expect(getDateString(new Date(utcTime), 'ja')).toBe('2022-08-26');
+    expect(getDateString(new Date(utcTime), 'en')).toBe('Aug 26, 2022');
+    expect(getDateString(new Date(utcTime), 'ja')).toBe('2022年08月26日');
   });
 });

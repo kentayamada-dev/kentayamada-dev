@@ -50,12 +50,13 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
 const Page: ArticlePageType = async (props) => {
   const { articleId, locale } = await props.params;
   const article = await getArticleBySlug(locale, articleId);
-  const articlesDict = dictionaries[locale].articles;
-  const articlesHref = `/${locale}/${navigationItems(locale).articles.href}`;
 
   if (article === null) {
     return notFound();
   }
+
+  const articlesDict = dictionaries[locale].articles;
+  const articlesHref = `/${locale}/${navigationItems(locale).articles.href}`;
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const articleContent = await unified()

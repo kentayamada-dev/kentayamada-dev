@@ -1,5 +1,3 @@
-'use client';
-
 import { TableOfContents } from '../tableOfContents';
 import type { DesktopTableOfContentsType } from './types';
 

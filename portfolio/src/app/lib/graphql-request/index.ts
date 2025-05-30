@@ -7,6 +7,7 @@ import type {
   ArticlesResponseType,
   ContactResponseType,
   FaqsResponseType,
+  LatestArticlesResponseType,
   MetadataResponseType,
   ProjectItemsType,
   ProjectPinnedItemsType,
@@ -22,6 +23,7 @@ import type {
   GetArticlesType,
   GetContactType,
   GetFaqsType,
+  GetLatestArticlesType,
   GetMetadataType,
   GetProjectsType,
   GetSitemapType,
@@ -196,6 +198,32 @@ const getArticles: GetArticlesType = async (locale) => {
   ).articleCollection.items;
 
   return articles;
+};
+
+const getLatestArticles: GetLatestArticlesType = async (locale) => {
+  const query = gql`
+    query Query($locale: String!, $order: [ArticleOrder]!) {
+      articleCollection(locale: $locale, order: $order) {
+        items {
+          title
+          slug
+          description
+          sys {
+            firstPublishedAt
+          }
+        }
+      }
+    }
+  `;
+
+  const latestArticles = (
+    await apiRequest<LatestArticlesResponseType>('contentful', query, {
+      locale,
+      order: 'sys_publishedAt_DESC'
+    })
+  ).articleCollection.items;
+
+  return latestArticles;
 };
 
 const getContact: GetContactType = async (locale) => {
@@ -390,6 +418,7 @@ export {
   getArticles,
   getContact,
   getFaqs,
+  getLatestArticles,
   getMetadata,
   getProjects,
   getSitemap,

@@ -4,7 +4,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  argTypes: { ...calculatorStory.argTypes, publishedAt: { control: 'date' } },
+  argTypes: { ...calculatorStory.argTypes },
   args: {
     faqLabel: 'FAQ',
     faqs: [
@@ -18,7 +18,6 @@ const meta = {
       }
     ],
     ...calculatorStory.args,
-    publishedAt: new Date(),
     title: 'Title'
   },
   component: UtilityTemplate,

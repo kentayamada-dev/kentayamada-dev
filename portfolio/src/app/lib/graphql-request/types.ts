@@ -6,6 +6,7 @@ import type {
   ArticlesType,
   ContactType,
   FaqsType,
+  LatestArticlesType,
   MetadataType,
   ProjectItemsType,
   SitemapType,
@@ -30,6 +31,8 @@ type GetContactType = GetContentByLocaleType<ContactType | null>;
 
 type GetArticlesType = GetContentByLocaleType<ArticlesType>;
 
+type GetLatestArticlesType = GetContentByLocaleType<LatestArticlesType>;
+
 type GetUtilitiesType = GetContentByLocaleType<UtilitiesType>;
 
 type GetAboutType = GetContentByLocaleType<AboutType | null>;
@@ -48,6 +51,7 @@ export type {
   GetArticlesType,
   GetContactType,
   GetFaqsType,
+  GetLatestArticlesType,
   GetMetadataType,
   GetProjectsType,
   GetSitemapType,

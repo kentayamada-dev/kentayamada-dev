@@ -16,7 +16,7 @@ const eslintRule = {
   ],
   'new-cap': ['error', { 'capIsNew': false }],
   'camelcase': ['error', { 'ignoreImports': true }],
-  'id-length': ['error', { 'exceptions': ['_'] }],
+  'id-length': ['error', { 'exceptions': ['_'], 'properties': 'never' }],
   'no-restricted-syntax': [
     'error',
     {

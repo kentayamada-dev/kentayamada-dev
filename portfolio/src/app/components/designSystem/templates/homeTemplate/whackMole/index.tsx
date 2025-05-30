@@ -145,7 +145,7 @@ const WhackMole: WhackMoleType = () => {
   };
 
   return (
-    <div className='bg-primary relative flex items-center justify-center'>
+    <div className='bg-primary relative flex items-center justify-center overflow-hidden rounded-lg'>
       {!isGameStarted && (
         <div className='absolute inset-0 z-10 flex items-center justify-center bg-[rgba(0,0,0,0.6)]'>
           <div className='font-pixel flex flex-col rounded-lg bg-white p-6 shadow-lg'>

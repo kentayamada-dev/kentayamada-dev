@@ -50,11 +50,12 @@ const generateMetadata: UtilityGenerateMetadataType = async (props) => {
 const Page: UtilityPageType = async (props) => {
   const { locale, utilityId } = await props.params;
   const utility = await getUtilityBySlug(locale, utilityId);
-  const faqLabel = dictionaries[locale].faq;
 
   if (utility === null) {
     return notFound();
   }
+
+  const faqLabel = dictionaries[locale].faq;
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const faqs = await Promise.all(
@@ -77,7 +78,7 @@ const Page: UtilityPageType = async (props) => {
   );
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
-  return <UtilityTemplate faqLabel={faqLabel} faqs={faqs} locale={locale} publishedAt={new Date(utility.sys.publishedAt)} title={utility.title} />;
+  return <UtilityTemplate faqLabel={faqLabel} faqs={faqs} locale={locale} title={utility.title} />;
 };
 
 export { Page as default, generateMetadata, generateStaticParams };

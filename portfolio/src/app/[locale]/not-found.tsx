@@ -27,11 +27,12 @@ const NotFoundPage: NotFoundPageType = async () => {
   const cookieLocale = cookieStore.get(localeCookieName)?.value;
   const locale = isValueInArray(cookieLocale, arrayOfLocales) ? cookieLocale : defaultLocale;
   const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
-  const { homeLinkLabel } = dictionaries[locale].labels;
 
   if (metadata === null) {
     return throwColoredError(`metadata <${contentfulType.metadata.pageNotFound}> is empty`, 'red');
   }
+
+  const { homeLinkLabel } = dictionaries[locale].labels;
 
   return (
     <NotFound

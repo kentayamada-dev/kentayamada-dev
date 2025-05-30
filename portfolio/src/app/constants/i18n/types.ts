@@ -56,6 +56,7 @@ type DictionaryType = {
     utilities: string;
   };
   projects: string;
+  readArticle: string;
   siteName: string;
   theme: {
     dark: string;
