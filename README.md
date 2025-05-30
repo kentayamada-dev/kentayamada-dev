@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd53adfcacf187081e92442b423d91c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7fe858b04bc56a41d77108bd0230b07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07dd1ef18b06c8921632302985ca4f752823d3ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000008-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 「来年の新米まで銘柄米の価格は高止まりか高騰」コメ価格も二極化が進む…「2000円備蓄米」の効果
+      <a href=https://news.yahoo.co.jp/articles/58784e66f5919132c57ddb9134c6d5e78bdcfe3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946688-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=540&ch=540&exp=10800&fmt=webp> お米マイスターに聞く　美味しい“備蓄米の炊き方”とは?【ひるおび】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/043973e8ca2ac725435f8530d71bd8dc2c3bbcc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000067-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=7&cw=912&ch=912&exp=10800&fmt=webp> ＢＴＳらの所属事務所・ＨＹＢＥ元スタッフが株で不当利益の疑い　バン・シヒョク会長も詐欺容疑で警察が捜査と現地で報道
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a50e67a3f746df34a8cb7630dae5f7cd17c7dd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05291726-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=360&ch=360&exp=10800&fmt=webp> カブス傘下の前田健太　2回途中9失点でKO　移籍後3戦連続乱調で防御率は24.30へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540557>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f8d2c639926e5060112eeb7f9dfc0b7be80c35fe171db8e7c026ca5aa3c44af8.jpg> 羽田事故受け 改正航空法成立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5a1d186b88a2967ccd87d5ea880051cb3ab93f20afafef81da70f2e09aae831d.jpg> 遠い窓口 能登21郵便局で休止続く
       </a>
     </td>
   </tr>
@@ -435,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540562>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小室眞子さんが第1子出産 宮内庁
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a82290fb35f222d380bc4d39f4f6e09cf65bf43235983bd2c98df3761f6862ab.jpg> 小室眞子さんが第1子出産 宮内庁
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f3e93c0cc0eb0a49c01ec6d80fd44a94de786bbbc2be70594b351912ba9f4668.jpg> カブス3A前田健太 3戦連続乱調
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 14:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 15:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
