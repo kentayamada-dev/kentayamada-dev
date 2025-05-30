@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58ae8577456f319d22698213271dd52f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85fc73dd9b54701ea1452f0fc9dc5c3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3db3ed846b0b39f26c5a65d151e7eb07775c574d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000027-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 石破総理が2週連続でトランプ大統領と電話会談　「打ち解けた雰囲気…」
+      <a href=https://news.yahoo.co.jp/articles/6f1c75265e2c6c1efe071d69e3297961b60b7e60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000050-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 赤沢経済再生相、ワシントン入り　4回目の日米関税交渉へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b43be37bef133063987993c1b2699487e173611>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000078-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1692&ch=1692&exp=10800&fmt=webp> 備蓄米、中小スーパーの申請開始　5キロ1800円想定、数量制限
+      <a href=https://news.yahoo.co.jp/articles/fa62ce5d5ce18cc06b3b4e6e99579f4cce61cdd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030001-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 6月は夏日続出　真夏日予想も　3日は全国的に雨　梅雨入りはいつ?　2週間天気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/725b0fa427b58a369e70b289fefe8c026482aaf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000076-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=632&cy=0&cw=1372&ch=1372&exp=10800&fmt=webp> 夫婦別姓、28年ぶり審議入り　3野党、個別に趣旨説明
+      <a href=https://news.yahoo.co.jp/articles/114f0d5426d5b42b8ac318ec6443db3e8439d9e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00050069-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=289&ch=289&exp=10800&fmt=webp> 備蓄米の中小スーパー・米穀店向け受け付け開始、小泉農相「隅々まで広く多くの方に届くように」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c31cba52d31777d0f012d44577cd897df1bb0120>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030000-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東は前日と比べて気温大幅ダウン　雨と北風でひんやり　伊豆諸島では土砂降りの雨に
+      <a href=https://news.yahoo.co.jp/articles/8f03abc6a7819592ae6645313a89e3fd51e81a92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000047-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 別姓、3野党の法案審議入り　衆院法務委、28年ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fbec9dba5548f3d144da8a82785d7a290a0e18d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00541970-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 衝撃127秒TKOの裏で抱えた不安　故障で調整遅れた武居由樹…陣営に繰り返した「スパーはいつ？」
+      <a href=https://news.yahoo.co.jp/articles/b57737492dd364ae0503b301b6a0639607547dab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979621-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 再審で無罪確定の袴田巌さん姉・ひで子さんと鈴木法相が面会「43年以上という時間を不安なつらい状況で…心からからお詫びをさせてもらった」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540528>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中小向け備蓄米 随契申し込み開始
+      <a href=https://news.yahoo.co.jp/pickup/6540534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6540542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/619b00abdc16a468a3b8924147badffbc348924b7b6fa39aa71018cd26f9ee74.jpg> 6月の飲食料品値上げ 前年の3倍
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> サクランボ収穫半減か 農家不安
+      <a href=https://news.yahoo.co.jp/pickup/6540546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> メロン大豊作 値下がりに店期待
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 11:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 11:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
