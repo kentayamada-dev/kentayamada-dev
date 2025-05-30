@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7fe858b04bc56a41d77108bd0230b07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb11a7987ec4c07ec4894a4bb1d086cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58784e66f5919132c57ddb9134c6d5e78bdcfe3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946688-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=540&ch=540&exp=10800&fmt=webp> お米マイスターに聞く　美味しい“備蓄米の炊き方”とは?【ひるおび】
+      <a href=https://news.yahoo.co.jp/articles/7423426e994e1a4a2dc654efa45e35c4193de67a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979786-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “2000円備蓄米”いつ北海道に?「コープさっぽろ」や「イオン」など続々名乗りを上げ6月から店頭に_流通までには課題も “精米”どうする? “コメ袋”間に合う? 消費者からは「待てない」の声も〈北海道〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/099c168316f8393d4f10a259c6dfb7afa63128e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00803723-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏が発した「活動を続けられる」声明に代理人が言及「女性側代理人からの修正で誤解を招きかねない文章に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75765548a0bf4480cde16b81f516d9f9b6be0680>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10181055-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 赤沢大臣「合意が成り立たないとしょうがない」4回目の日米関税協議に向けワシントンに到着
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/043973e8ca2ac725435f8530d71bd8dc2c3bbcc9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000067-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=7&cw=912&ch=912&exp=10800&fmt=webp> ＢＴＳらの所属事務所・ＨＹＢＥ元スタッフが株で不当利益の疑い　バン・シヒョク会長も詐欺容疑で警察が捜査と現地で報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fff4435c1481730fcb3f8cc0583a2c11528bd67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946483-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がサミット前に渡米しトランプ大統領と会談する可能性も　トランプ関税交渉　赤沢大臣は帰国4日後に再渡米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/777b09a0aacd6147abb668f2a51b6f6e138b6c28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 袴田巌さん姉から意見聴取　再審制度検討の法制審議会部会
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540551>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 備蓄米説明会 職員が不適切発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540562>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/a82290fb35f222d380bc4d39f4f6e09cf65bf43235983bd2c98df3761f6862ab.jpg> 小室眞子さんが第1子出産 宮内庁
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/110391abde81dfa813b30ace00b088e6455dbe8ff7a7927caafaf293638ed87f.jpg> 中居氏側 第三者委に開示再要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540558>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e6269ab659abfb603b4204387fa1d3f44b832260f47c24dc695eb39aa616e967.jpg> 伊東純也「地獄」クラブが2部降格
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 15:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 15:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
