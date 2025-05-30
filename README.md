@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83a785b055ae9f213aedb06f267248c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29346aa66a8dd2410f620408aa37be89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25821f026fc0d128f5d14656c16d4905bd3bdf14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 備蓄米めぐり「1年経ったら動物のエサに」　国民・玉木代表発言が波紋、与野党議員とXで応酬
+      <a href=https://news.yahoo.co.jp/articles/777b09a0aacd6147abb668f2a51b6f6e138b6c28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 袴田巌さん姉から意見聴取　再審制度検討の法制審議会部会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a978b68322384e53d98150c81b3b7d018b6cac28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000059-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 鈴木法相、袴田さん姉に直接謝罪　「心からおわびした」
+      <a href=https://news.yahoo.co.jp/articles/25821f026fc0d128f5d14656c16d4905bd3bdf14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 備蓄米めぐり「1年経ったら動物のエサに」　国民・玉木代表発言が波紋、与野党議員とXで応酬
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f80b0ef6f84e72b96d92ea985800abceaaee8ad86e2a5599f5f862429f8a94d6.jpg> 夫婦別姓法案 28年ぶり審議入り
+      <a href=https://news.yahoo.co.jp/pickup/6540541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/5a1d186b88a2967ccd87d5ea880051cb3ab93f20afafef81da70f2e09aae831d.jpg> 遠い窓口 能登21郵便局で休止続く
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/af329610a2f475bcaf25d6f27cf1e6f7847622ef41a800c7bd297b4a7e28aa6d.jpg> ジムで小学校の水泳授業 広がる
+      <a href=https://news.yahoo.co.jp/pickup/6540549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
+      <a href=https://news.yahoo.co.jp/pickup/6540555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f383d2ce948a7655433dd4d301955de931856585f9247a76c73f00128689c995.jpg> カジノをイメージ 型破り介護施設
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 13:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 13:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
