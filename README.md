@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Q9DJ_h03brM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85fc73dd9b54701ea1452f0fc9dc5c3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c45b0d7e6fcfa4b9aca02d9419f20ed1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f1c75265e2c6c1efe071d69e3297961b60b7e60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000050-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=881&ch=881&exp=10800&fmt=webp> 赤沢経済再生相、ワシントン入り　4回目の日米関税交渉へ
+      <a href=https://news.yahoo.co.jp/articles/4242f5b5f2124c92166f75b26cf1c5ad5cd76e19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21945977-ohbsn-000-1-thumb.jpg?exp=10800&fmt=webp> 『古古米』を新潟で精米　週明けに都内の「ドンキ」などで5キロ2000円前後で販売される予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa62ce5d5ce18cc06b3b4e6e99579f4cce61cdd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030001-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 6月は夏日続出　真夏日予想も　3日は全国的に雨　梅雨入りはいつ?　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/51514c77e5cb0345c6a27882862a661f93fab489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21946195-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 暴風と大雨及び高波に関する東北地方気象情報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/114f0d5426d5b42b8ac318ec6443db3e8439d9e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00050069-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=289&ch=289&exp=10800&fmt=webp> 備蓄米の中小スーパー・米穀店向け受け付け開始、小泉農相「隅々まで広く多くの方に届くように」
+      <a href=https://news.yahoo.co.jp/articles/6686de20a8f96c63bc3c88d23fce2148c25201af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣がワシントン到着 トランプ政権と4回目の関税協議へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f03abc6a7819592ae6645313a89e3fd51e81a92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000047-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 別姓、3野党の法案審議入り　衆院法務委、28年ぶり
+      <a href=https://news.yahoo.co.jp/articles/7e71831d3a69e673c2592131549f99eb66d448e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000017-sanspo-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「Prime Video Boxing13」の生配信番組解説陣発表　ゲスト解説に村田諒太氏　解説は西岡利晃氏と山中慎介氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b57737492dd364ae0503b301b6a0639607547dab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979621-fnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 再審で無罪確定の袴田巌さん姉・ひで子さんと鈴木法相が面会「43年以上という時間を不安なつらい状況で…心からからお詫びをさせてもらった」
+      <a href=https://news.yahoo.co.jp/articles/e6644352a5e6d695d9c9b488b793b5416260c0c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-07239849-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「選択的夫婦別姓」28年ぶり国会審議入り　法案乱立で今国会成立は見通せず　立憲・国民・維新の3法案
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6540543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d4ce47dbbcca1b0a9c6a661f0dec0cd5f76f8be6ce7d05b3ee2aee1b53bbd5cc.jpg> 米政権を攻略へ ウ支援団体の奇策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/619b00abdc16a468a3b8924147badffbc348924b7b6fa39aa71018cd26f9ee74.jpg> 6月の飲食料品値上げ 前年の3倍
+      <a href=https://news.yahoo.co.jp/pickup/6540534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/aa28f674c68ddddcb197ea56101027ef3a38feec03d9503575d9d73323d4257f.jpg> 自民農林族「小泉劇場」に警戒
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> メロン大豊作 値下がりに店期待
+      <a href=https://news.yahoo.co.jp/pickup/6540550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/b85bcff80582e078741e82fc4a99787a7ea714b8c37e99242f22c58eddcaa588.jpg> 説得を拒否されても追尾 詐欺防ぐ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9f9d7e39dcdac7eaeb8252b6b90247f8201db15b01758dc8451ae613b77c03d7.jpg> 「髪がうねりやすい」地域は 調査
+      <a href=https://news.yahoo.co.jp/pickup/6540546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> メロン大豊作 値下がりに店期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2bbb28fd6d5626f4548afd4e943435f5f6b93decc1c21e96fb25b1dd8755fd58.jpg> ド軍 剛腕ディアスを電撃獲得
+      <a href=https://news.yahoo.co.jp/pickup/6540549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9aba03100418a8c42b2eba90a4c3e7a7d7060dee321b7567459eb8e0409f552b.jpg> 新米と古い米 専門家が食べて分析
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 11:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 12:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
