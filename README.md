@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2321aaa1133290cd0e246941147f808a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18d8b30164af975fe4b35d0de1e9effc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b7f6f7a6e32b930391132ebdd13163f63e32816>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026161-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 小泉大臣「すべての皆様に感謝」販売の前倒し発表相次ぐ“古古米”あす店頭で販売へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de47c1e52097510e5fda84a71084211d612f1745>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01972779-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠　タイトル防衛で3連覇　永瀬九段が171手で投了　名人戦七番勝負の第5局　
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7423242fd21ece354e9af70f68186d661a6d54f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240036-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米がビジネスチャンス！？企業間での駆け引き過熱…相次ぐ“古古米”の販売時期の前倒しで競争激化【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18531bafba4bacbb00952870a3faa384e7baf14e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「二次加害に他ならない」　中居氏公表文書に抗議　女性代理人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa1e43895b1f16deb06df3136d3711d08d119e65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90019774-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博パビリオン「何のために頑張ってやってきたんだ」工事費未払いで下請け業者が『被害者の会』
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 02:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 02:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
