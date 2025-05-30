@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5b594f6a61cc5ffb6c6c44f99e8cfd4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2321aaa1133290cd0e246941147f808a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e53ca37b1420a437b1b118cabd7fb15f8ca7356>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980120-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米 31日からスーパーなど店頭に　“5kg2000円”で販売開始
+      <a href=https://news.yahoo.co.jp/articles/de47c1e52097510e5fda84a71084211d612f1745>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01972779-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠　タイトル防衛で3連覇　永瀬九段が171手で投了　名人戦七番勝負の第5局　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7423242fd21ece354e9af70f68186d661a6d54f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240036-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米がビジネスチャンス！？企業間での駆け引き過熱…相次ぐ“古古米”の販売時期の前倒しで競争激化【news23】
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 01:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 02:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
