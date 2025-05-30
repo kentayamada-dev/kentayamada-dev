@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/664e4f1130148545df528a53e75489c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6d52739819cf96d4c49c8097b2ca124.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/140496d23035b5645ee058948fa4c77828d40181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 卸業者、例年と違う調達ルート　コメ高値の原因分析　24年度農業白書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9884945a687d915bb995e98979eda206aafc4aa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000019-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 【速報】中国向け水産物の輸出再開についての手続き開始で日中政府が合意　林官房長官
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c5c9121a68be8ebc26bb7849803ccaf9e98afb9>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cdbfd25929a6c56fc3248029618705be3b98942>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-01301334-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「コメ5キロ2000円台」に執念を燃やす小泉農相が“敗北”するリスク…異色の兼業農家が「備蓄米の放出効果は限定的」と警鐘を鳴らすワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c4655a41ab37a0ed0245517085bed4d583643e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010002-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 斎藤工と永尾柚乃が異色バディに　韓国ドラマ原作『誘拐の日』7月8日よりテレ朝で放送
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d2cd17044bbf1c42a5820ca13d643b936957a563590f5eca15d2394a4f76b5e2.jpg> 中国 日本産水産物輸入手続きへ
+      <a href=https://news.yahoo.co.jp/pickup/6540525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bd9ab6b6ecaf3a9a28bcf6a1f8aa265257be5e12f55ec2a8450a20a13bb76a8d.jpg> 日本産水産物の輸入要件 日中合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/024d29a7e40c7addadf4facce9fe09ffc05f24961ca5b6c6e2198788ac7535b7.jpg> 関東は午前中が雨風ピーク 肌寒く
+      <a href=https://news.yahoo.co.jp/pickup/6540520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/39aae17dea5ddfb5f4455d1685be215ce761c9e6e5e224f6a19a0e6876b80ca9.jpg> 米控訴裁 関税差し止めを一時停止
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540491>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 島から1.4キロ先めざし泳ぐ 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f1210a0f41870dae53cdd99e49c65d22d509d5701d6d2bb1820978b58678eeea.jpg> ひとり親米買えぬ経験88% 調査
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bf5d46e07c899943dccbb54d3d64f031f6711ea304225615bcf8d290bc4c039e.jpg> 楽天・村林 ワンバンを神ファウル
+      <a href=https://news.yahoo.co.jp/pickup/6540510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bb8783cd55d2592bc7ab1906645bd8d2a8b6913c620474d23904837a7c07682d.jpg> 桑田佳祐 まだまだ辞められません
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bb8783cd55d2592bc7ab1906645bd8d2a8b6913c620474d23904837a7c07682d.jpg> 桑田佳祐 まだまだ辞められません
+      <a href=https://news.yahoo.co.jp/pickup/6540516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/61d9591250cf723565c8af2057be4777b7d385f697b3685ca53892ff5ba5b80a.jpg> 斎藤工&永尾柚乃 疑似親子演じる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 08:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 09:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
