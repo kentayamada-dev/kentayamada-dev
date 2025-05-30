@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1628f68dcad018b947c1447db658ca09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b526990a344df4e369fe53ad8446c099.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a56353400cb614be6090014978f099ecd6ba7ca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10180989-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 石破総理「互いの理解は一層深まった」 関税交渉めぐりトランプ大統領と電話会談
+      <a href=https://news.yahoo.co.jp/articles/b64ee3b07b7b3eb6f4f9a684be8fb70d145bb046>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000046-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝ドジャースがブルペン緊急補強、元球宴右腕ディアス獲得
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f86cccb02b84e6a12c0aa3e99cbb86834983efc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979516-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【何が】カンボジアで日本人約30人拘束「日本人が警察官かたる詐欺を…」愛知県警の情報もとに"特殊詐欺拠点"摘発　日本に強制送還へ
+      <a href=https://news.yahoo.co.jp/articles/35cc6a64e72d80fca21ba4bf2a799a3671a04106>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979592-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日本の立場に全く変更はない」石破首相がトランプ大統領と2週連続の電話会談…関税措置めぐって意見交換「互いの理解一層深まった」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bd9ab6b6ecaf3a9a28bcf6a1f8aa265257be5e12f55ec2a8450a20a13bb76a8d.jpg> 日本産水産物の輸入要件 日中合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540520>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/39aae17dea5ddfb5f4455d1685be215ce761c9e6e5e224f6a19a0e6876b80ca9.jpg> 米控訴裁 関税差し止めを一時停止
       </a>
@@ -418,24 +410,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bd9ab6b6ecaf3a9a28bcf6a1f8aa265257be5e12f55ec2a8450a20a13bb76a8d.jpg> 日本産水産物の輸入要件 日中合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/747aff4691ea92ae53db6e8b86273e06d15947813421e2ce30ef7f0e17f93024.jpg> カナダ2州 山火事で非常事態宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/17d2644196809e4449675b562eac1e700da1087f5b8fe115396505b080f84c8a.jpg> 邦人20人以上拘束 機器70台押収
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 邦人20人以上拘束 機器70台押収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540523>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハーバード 卒業祝辞で政権にくぎ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f1210a0f41870dae53cdd99e49c65d22d509d5701d6d2bb1820978b58678eeea.jpg> ひとり親米買えぬ経験88% 調査
+      <a href=https://news.yahoo.co.jp/pickup/6540531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/24f956d05c9cb4bb5fe0ccfdc2ea5c6a7570db3933d28fe12d452272822b5308.jpg> 安倍昭恵氏 プーチン氏の感謝に涙
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bb8783cd55d2592bc7ab1906645bd8d2a8b6913c620474d23904837a7c07682d.jpg> 桑田佳祐 まだまだ辞められません
+      <a href=https://news.yahoo.co.jp/pickup/6540533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/2bbb28fd6d5626f4548afd4e943435f5f6b93decc1c21e96fb25b1dd8755fd58.jpg> ド軍が右腕電撃獲得 投手陣再建へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/61d9591250cf723565c8af2057be4777b7d385f697b3685ca53892ff5ba5b80a.jpg> 斎藤工&永尾柚乃 疑似親子演じる
+      <a href=https://news.yahoo.co.jp/pickup/6540530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/02a3f42643e3345d4afb4815bd74ea00e15db2e1fb8022355b621a4464bce169.jpg> 多部未華子 主演ドラマ撮了で涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 09:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 10:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
