@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67949162b4b6347d8749abb9c6a3a719.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1628f68dcad018b947c1447db658ca09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb16822068b6e89bf3916e3fd4e3d5dc1b2b95e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-35290197-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 辛坊治郎氏、玉木雄一郎氏の備蓄米めぐる発言チクリ「ネット上の言論に引きずられるのはチト情けない」
+      <a href=https://news.yahoo.co.jp/articles/a56353400cb614be6090014978f099ecd6ba7ca0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10180989-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 石破総理「互いの理解は一層深まった」 関税交渉めぐりトランプ大統領と電話会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57492d713587362f41def03b8a382a2c0fb5128f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250528-00000268-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 路上に血を流した男性、　死亡ひき逃げ事件として捜査　通行人から通報　大阪・東大阪市
+      <a href=https://news.yahoo.co.jp/articles/9f86cccb02b84e6a12c0aa3e99cbb86834983efc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979516-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【何が】カンボジアで日本人約30人拘束「日本人が警察官かたる詐欺を…」愛知県警の情報もとに"特殊詐欺拠点"摘発　日本に強制送還へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4f4391afa5c6fdc12185422853a00755a212ced>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250529-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ハマス最高幹部を殺害か
+      <a href=https://news.yahoo.co.jp/articles/e8abddbe8d5958ae7e6c0ce68f6df67b6b59db91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-03577716-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 中小規模の販売店向け説明会始まる　品質疑問視して扱いを見送る店も　どうなる備蓄米　北海道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c5c9121a68be8ebc26bb7849803ccaf9e98afb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010000-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】30日の天気 - 朝は関東で本降りの雨　関東は気温上がらず北風冷たい　西日本は雷雨に注意（30日7時更新）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4fbec9dba5548f3d144da8a82785d7a290a0e18d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00541970-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 衝撃127秒TKOの裏で抱えた不安　故障で調整遅れた武居由樹…陣営に繰り返した「スパーはいつ？」
       </a>
     </td>
   </tr>
@@ -386,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/7fd45fb7ff022d3b2d618dcdfa27642aedd26d6794f59c665ae48c55d6ee10de.jpg> 米軍駐留費の上積み検討 日本政府
+      <a href=https://news.yahoo.co.jp/pickup/6540525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bd9ab6b6ecaf3a9a28bcf6a1f8aa265257be5e12f55ec2a8450a20a13bb76a8d.jpg> 日本産水産物の輸入要件 日中合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/ee94d08b6af902a4c4db3e63632ba6526e0de3093ef9f99d545b05436cc75fe6.jpg> 中国 与那国島沖に設置のブイ撤去
+      <a href=https://news.yahoo.co.jp/pickup/6540520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/39aae17dea5ddfb5f4455d1685be215ce761c9e6e5e224f6a19a0e6876b80ca9.jpg> 米控訴裁 関税差し止めを一時停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/aa53c25df0d669a192a88d287720a5cd46cf2acce14a064d3502dae81f894d8c.jpg> 備蓄米「餌」と玉木氏 小泉氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6540529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/17d2644196809e4449675b562eac1e700da1087f5b8fe115396505b080f84c8a.jpg> 邦人20人以上拘束 機器70台押収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/f2a1f0794c94c1bc6d2245edd1b2ace2321c886dbd754cfc8dc33d17b69119b1.jpg> NTTドコモ 住信SBI銀を買収へ
+      <a href=https://news.yahoo.co.jp/pickup/6540523>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハーバード 卒業祝辞で政権にくぎ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/750e7ccc08c89221955a8533703806cf65171a1dfbbecddd7283349799483d65.jpg> 路上で流血の男性死亡 ひき逃げか
+      <a href=https://news.yahoo.co.jp/pickup/6540522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f1210a0f41870dae53cdd99e49c65d22d509d5701d6d2bb1820978b58678eeea.jpg> ひとり親米買えぬ経験88% 調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540400>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NVIDIA 売上高最高も輸出規制影響
+      <a href=https://news.yahoo.co.jp/pickup/6540521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/eb271a65911737740b340588cac8a33d8c275f35269c7085dff371ec33a6bede.jpg> 抹茶ブーム余波 京都の茶畑に異変
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/bc7fe32e9534b01a16af84e48b1b8b73a9021baa9434ce81fd68d75e9c58cfd8.jpg> OJTに偏る企業 なぜ若者定着低い
+      <a href=https://news.yahoo.co.jp/pickup/6540510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/bb8783cd55d2592bc7ab1906645bd8d2a8b6913c620474d23904837a7c07682d.jpg> 桑田佳祐 まだまだ辞められません
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/29/147595f273dc90d320b4be830c15ef12671863f08da132ecb4f6c9a801b70b4e.jpg> ゲートボール人口 なぜ激減
+      <a href=https://news.yahoo.co.jp/pickup/6540516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/61d9591250cf723565c8af2057be4777b7d385f697b3685ca53892ff5ba5b80a.jpg> 斎藤工&永尾柚乃 疑似親子演じる
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/29 10:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
