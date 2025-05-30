@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ba7c384eef4ecef56c788295e6b283b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66917e9905a47361aa0074bad6354176.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69b29712c87e0d0be5d48bec368c1fbb6be269ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000269-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=401&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 東海第2原発、ケーブルから発火　運転停止中、放射性物質漏れなし
+      <a href=https://news.yahoo.co.jp/articles/801a661d30d12df6f6c27b9b681c50be0d025909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301265-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1092&ch=1092&exp=10800&fmt=webp> 高橋一生「うまいこと踏んだら、飛んだ」“助演”級ハトとの話題シーン回想
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3590738630aff35fd2143664dec39faf5f92d6d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏の名誉回復求める　フジ第三者委に「重大な人権侵害」　代理人
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000142-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居氏の名誉回復求める　フジ第三者委に「重大な人権侵害」　代理人
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e8fda202c8fb1bfca5aab9e6b82c63734ec73000afa864e6fdd60d3ed4f12777.jpg> 2千円台の備蓄米いつどこで買える
+      <a href=https://news.yahoo.co.jp/pickup/6540611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/09876ba8be489a1afe92b18a33570b0781a2f86ace1e05903fcb6199ee5224a9.jpg> 東海第二原発でまた火災 原因調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/def259d0d48d42571051b29191f44813895e084c35009bed8981ab52383b89cd.jpg> コメ5キロが6500円 西表島の苦境
       </a>
     </td>
   </tr>
@@ -419,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6782ccb291d7d567fc7ee999a58bbe7718b82c01483c6076a945c7467be5a684.jpg> ダイアナ元妃の実家で火災 放火か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/cfa3ad8e454c88c9f6b318b69d6e3dedf2ee65e330d2ba6e53c678c690f59170.jpg> ダイアナ元妃の実家で火災 放火か
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/cb395312d60341f75812b98f4e0369260a6feabcaffaa4794927dd0af71da8c2.jpg> 中居氏 第三者委の報告書「愕然」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540605>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/1b03cdd017b25122760cea97b9072926f8052c53b1585991e5c6667cf5c33fcf.jpg> 退職届巡り 話すことないと元白鵬
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/49e15ea0c187f79f17e0e03745197195b358ed832cbf6d87ae25344c53d567d2.jpg> 新浜レオンが投球披露 どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6540610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/116597bb53fe0a5f69f81d2d180d948e672f6508902e9b0ca500fd98cf2e7a3d.jpg> 井浦新 私服で舞台あいさつ登場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 22:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 22:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
