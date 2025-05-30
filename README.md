@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5aff5b71376f52c56e5ccd86184efd9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01c63838248546d0293bfd12bba993ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a04ce1d7b3e68963c022a74ebae2f45792f94bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-06235459-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】中居正広氏代理人がフジ第三者委員会に6月6日期限で資料開示を再要求　中居氏「がく然とした」「驚がくだった」
+      <a href=https://news.yahoo.co.jp/articles/2ac29b99db0df57b11b380401a9d0cba21df6182>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-21947598-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> “随意契約備蓄米”販売　異例の前倒しで31日から店頭へ　消費者の反応は様々　仙台
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97f5cb6a4c20a82f0c994fb50e8516d80b57afe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000043-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2000&ch=2000&exp=10800&fmt=webp> 華道家・假屋崎省吾「結局、そういうシナリオが用意されてる」コメ政策を痛烈批判…しびれを切らした国民に共感広がる
+      <a href=https://news.yahoo.co.jp/articles/4817636798ae3ecb66f89f49911547afd3ca6739>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000101-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 【フジ】中居氏側　被害女性Ａアナとはプライベートや家族の話もして御礼メールもあった　密室トラブル「業務の延長線上」に反論　業務的な権力格差ないと
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7329e7b2d850fc87e90a2d425c9004cddb78b2ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> いわき信組、不正融資総額247億円　第三者委が報告書「背任罪の可能性」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/63ed72cd69573efed501c59cc4a37ba51ecaf1e0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000278-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 天心“戦友”ヒメネスとの指名戦に臨む武居の苦戦予想も　自身との“夢対決”実現確信「ファンが許さない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d1a3a128a8225e774d260b2cde23740a1b8b16b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000152-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 投資家、トランプ氏は「びびり」　関税強硬姿勢、二転三転でやゆ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9d89b796e915bef526e8462449588147ca60b425df2ef15e02cbdbba19157970.jpg> 給料に不満 管理職になり後悔の声
+      <a href=https://news.yahoo.co.jp/pickup/6540581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/9d89b796e915bef526e8462449588147ca60b425df2ef15e02cbdbba19157970.jpg> 適性ないのに管理職に 後悔の声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 18:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 18:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
