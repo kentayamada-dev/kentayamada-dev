@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d2069e2f0f0b3f6cb4e7f08e48476dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28d600c55094725411dc72ed93e1729b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/588b83a3b03701d0ea8c7bb3b79eb0a256449aef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-35301235-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側の再要求を受け　被害女性側「さらなる加害に他ならない」中居氏側の主張を否定
+      <a href=https://news.yahoo.co.jp/articles/b082b6d365e63603311ddd324b0816cafc2b28fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000081-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日米関税巡り4回目の交渉へ　日本は撤廃要求、米は難色
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23ea6e8260498ab7f4b0f6aaf412c9948400c570>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-90008521-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 【山形】県の人口ついに100万人割り込む…99万9378人（5月1日時点・前月比－962人）
+      <a href=https://news.yahoo.co.jp/articles/6253cc12c93113eab4287fef8569b31162f3441e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301167-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=127&cw=923&ch=923&exp=10800&fmt=webp> 中居正広氏側主張、相手女性代理人が反論「事実と異なり、看過できない」「二次加害に他ならない」
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14bb91a9f522a4b406a92cdc06bcfc915abbb6d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】31日の天気 - 関東の南で低気圧が発達　土曜日は東日本、東北で激しい雨や暴風に警戒（30日19時更新）
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/7f06806336626356001d81d31767956cab6a6b39cc3bdb09a5b5d155cfa73039.jpg> 山形の人口100万人割る 105年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6540585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c4673a69591a688afab77db67bdb9a1a44f3770c386ef01ad479b84252e328fc.jpg> 玉木氏のエサ発言 榛葉氏が陳謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c4673a69591a688afab77db67bdb9a1a44f3770c386ef01ad479b84252e328fc.jpg> 玉木氏のエサ発言 榛葉氏が陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6540586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/8108f67c2753d95b3643340a819f2f0064af9ce43a4431b895e15d93de062642.jpg> 原爆で消えた町の男性は父 子が涙
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/521507b750807df23b18b304e6d8eb961c176562267f0562ed4eeeeaeaa5d56d.jpg> トランプ氏激怒 TACO理論とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540579>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/e3b039eca49a87a6bfb847375800ad5ca3877e6d1e6a2b71610b2695b2b5e9b0.jpg> オランダ ハリボー菓子に大麻成分
       </a>
@@ -450,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/186e2bb4fdc6447e32cf84e773fcdf6b3b42119764d7215bee4d0213663befc6.jpg> 中日・岩崎翔 オリへ金銭トレード
+      <a href=https://news.yahoo.co.jp/pickup/6540592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/cb395312d60341f75812b98f4e0369260a6feabcaffaa4794927dd0af71da8c2.jpg> 中居氏 第三者委の報告書「愕然」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/69d0015482e352f9bf43d789974591e78672c93b9016f55a6031be07799afd3c.jpg> NewJeans 独自活動に対し制裁へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 19:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 19:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
