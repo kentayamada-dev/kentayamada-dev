@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae74a7e71a846e0caec5ef5841a47d43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d593aaa9aeccd874071c057e673fa370.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67c885a1ad444e28efcb77fd75a2d58b4c854041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏側、証拠開示を再要求　フジ報告書「性暴力」認定巡り
+      <a href=https://news.yahoo.co.jp/articles/59020e4c3d29fcd7bd9a08dd2caa812f28521ae4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000073-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 「勝利の涙忘れないから」 岩崎翔、オリックスへ電撃トレード、中日ファン思いさまざま 「望まれて行くんだよね」「もう一花咲かせて」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a282a239804c054f2a85146e87f76ce64dc61add>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10540635-baseballk-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=986&ch=986&exp=10800&fmt=webp> オリックス、岩嵜翔を金銭トレードで獲得　今季は4登板で防御率2.08、4年ぶりのパ・リーグ復帰
+      <a href=https://news.yahoo.co.jp/articles/ca2cf92fc6cec22c085e72c7f1a0667b9d35e405>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居正広さんの代理人弁護士 第三者委員会に資料などの開示と釈明を要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ffac6c04a288c6840a80e7adcdf673f906ef3b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000254-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 天心　1回TKO勝ちの武居に刺激も「それ以外でも魅せられるのが僕」スパーでは追撃の強打で力強さ披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7ee313b85103223b7212a97f82faa47be873ada>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030008-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 来週は気温上昇　再び真夏日予想　雨の日は少しヒンヤリで日ごとの気温差大きい
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33dac58b67a979dbcce3fa5c1a157c8c5cd89f26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-09464941-stv-000-3-thumb.jpg?exp=10800&fmt=webp> “古古古米”にはマヨネーズ　中小スーパーの“随意契約”受付開始　通販サイトは２日連続即完売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75765548a0bf4480cde16b81f516d9f9b6be0680>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-10181055-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 赤沢大臣「合意が成り立たないとしょうがない」4回目の日米関税協議に向けワシントンに到着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00f470e6f71b5b01f8b73ed7c5bd8fce29e0f57f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全操縦者に意思疎通訓練義務付け　羽田事故受け、改正航空法成立
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-09464941-stv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “古古古米”にはマヨネーズ　中小スーパーの“随意契約”受付開始　通販サイトは２日連続即完売
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamazakimayumi/02227620/title-1748489797951.jpeg?exp=10800> 温泉旅館「素泊まり」定着するか
+      <a href=https://news.yahoo.co.jp/pickup/6540564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/110391abde81dfa813b30ace00b088e6455dbe8ff7a7927caafaf293638ed87f.jpg> 中居氏側 第三者委に開示再要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/110391abde81dfa813b30ace00b088e6455dbe8ff7a7927caafaf293638ed87f.jpg> 中居氏側 第三者委に開示再要求
+      <a href=https://news.yahoo.co.jp/pickup/6540571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/186e2bb4fdc6447e32cf84e773fcdf6b3b42119764d7215bee4d0213663befc6.jpg> 中日・岩崎翔 オリへ金銭トレード
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 16:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 17:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
