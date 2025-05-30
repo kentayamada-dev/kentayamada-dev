@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9bdf187a8cf1c53318e2b3927e202ea8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a16fe8017b53100f65f25cf3b76e59c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffc77d8988597600883eae3ae5923b7ebf87c969>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000005-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 「30歳で150万円」フジテレビ　300億円赤字でも夏のボーナスは“微減”の衝撃
+      <a href=https://news.yahoo.co.jp/articles/48a8308f7a147496924584604c2e183f4bd6943f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000190-sanspo-000-1-view.jpg?pri=l&w=192&h=130&exp=10800&fmt=webp> 新横綱・大の里が雨中の奉納土俵入り…一般公開中止も「日本一！」のぞいた1000人祝福
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7e5dc70e014d9db411d104deb86a92e6f62a399>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240034-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 随意契約で放出の備蓄米　きょうから小売り大手では一部店舗で販売
+      <a href=https://news.yahoo.co.jp/articles/ffc77d8988597600883eae3ae5923b7ebf87c969>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000005-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 「30歳で150万円」フジテレビ　300億円赤字でも夏のボーナスは“微減”の衝撃
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/47a54a07f710de7cced474112911bf8a81ed470a17213232f25dddb896ba9978.jpg> トランプ氏 中国が合意違反と主張
+      <a href=https://news.yahoo.co.jp/pickup/6540622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 大手5行 住宅ローン固定金利上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540593>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マダニにかまれ 70代女性が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b11af5b1d6e1ee0f42acc3b9827bec4d2a17c42f39077e0813cd4d4c765f06a3.jpg> 3人組が男性殴りバッグ奪う 逃走
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f4685a0e5cd7711576503d0c1434de35481f849cbe47d0fae69b1b47263642b8.jpg> 予約待ち ぬいぐるみ治療する病院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540621>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c182fc5b45c277b9839a1eea7832ff6258f07f7bceebd5ca79272f02aba80094.jpg> 中居氏側の文書巡り 女性側が見解
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/3fdd559d10dcbcb2883b70ecc56ef87e5cde15b0aeeec0317ef5051258fc1945.jpg> 梅宮アンナとの電撃婚 世継氏語る
+      <a href=https://news.yahoo.co.jp/pickup/6540623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3135a65deb97fc5d1c380f0820fb1d6a365c2d6a9e0e0443de12171e940a2c2c.jpg> 元白鵬の退職届 6/2にも協会受理
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b74b082edf07221f468256f8618452367cb580fa6ed0f40ef0f8adc0e2de4b7e.jpg> 白河れい 所属事務所の退所発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 07:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 07:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
