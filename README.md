@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25ad1617e0e9d1acad8d143708f40291.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58ae8577456f319d22698213271dd52f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/725b0fa427b58a369e70b289fefe8c026482aaf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 夫婦別姓、28年ぶり審議入り　3野党、個別に趣旨説明
+      <a href=https://news.yahoo.co.jp/articles/3db3ed846b0b39f26c5a65d151e7eb07775c574d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000027-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 石破総理が2週連続でトランプ大統領と電話会談　「打ち解けた雰囲気…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc06d3a5974df59fb784176ec70ed6c3588758fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 随意契約、中小の受け付け開始　備蓄米、21年産8万トン対象
+      <a href=https://news.yahoo.co.jp/articles/9b43be37bef133063987993c1b2699487e173611>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000078-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1692&ch=1692&exp=10800&fmt=webp> 備蓄米、中小スーパーの申請開始　5キロ1800円想定、数量制限
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/725b0fa427b58a369e70b289fefe8c026482aaf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000076-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=632&cy=0&cw=1372&ch=1372&exp=10800&fmt=webp> 夫婦別姓、28年ぶり審議入り　3野党、個別に趣旨説明
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c31cba52d31777d0f012d44577cd897df1bb0120>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00030000-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 関東は前日と比べて気温大幅ダウン　雨と北風でひんやり　伊豆諸島では土砂降りの雨に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35cc6a64e72d80fca21ba4bf2a799a3671a04106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00979592-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日本の立場に全く変更はない」石破首相がトランプ大統領と2週連続の電話会談…関税措置めぐって意見交換「互いの理解一層深まった」
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/6ead2e2c4999846d5ef43102c8d3b3ff5867f6de6b5ff05a46f1f422841c5f14.jpg> 夫婦別姓法案 28年ぶり審議入り
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f80b0ef6f84e72b96d92ea985800abceaaee8ad86e2a5599f5f862429f8a94d6.jpg> 夫婦別姓法案 28年ぶり審議入り
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540529>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 邦人20人以上拘束 機器70台押収
+      <a href=https://news.yahoo.co.jp/pickup/6540531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/24f956d05c9cb4bb5fe0ccfdc2ea5c6a7570db3933d28fe12d452272822b5308.jpg> 安倍昭恵氏 プーチン氏の感謝に涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/24f956d05c9cb4bb5fe0ccfdc2ea5c6a7570db3933d28fe12d452272822b5308.jpg> 安倍昭恵氏 プーチン氏の感謝に涙
+      <a href=https://news.yahoo.co.jp/pickup/6540539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/d195e90049f0ec7c47d0d606266cfe825ab9f42678a9878e933a933e48edcbc7.jpg> サクランボ収穫半減か 農家不安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/af329610a2f475bcaf25d6f27cf1e6f7847622ef41a800c7bd297b4a7e28aa6d.jpg> ジムで小学校の水泳授業 広がる
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/02a3f42643e3345d4afb4815bd74ea00e15db2e1fb8022355b621a4464bce169.jpg> 多部未華子 主演ドラマ撮了で涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 10:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 11:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
