@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66917e9905a47361aa0074bad6354176.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfda690fa2970177c579ca474baaf5d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/801a661d30d12df6f6c27b9b681c50be0d025909>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-05301265-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1092&ch=1092&exp=10800&fmt=webp> 高橋一生「うまいこと踏んだら、飛んだ」“助演”級ハトとの話題シーン回想
+      <a href=https://news.yahoo.co.jp/articles/f7409ac26e416fe3973c06475f6e630d9af38015>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-04576701-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 中居正広氏側主張、相手女性代理人が反論「事実と異なるものであり、看過できない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3590738630aff35fd2143664dec39faf5f92d6d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000142-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居氏の名誉回復求める　フジ第三者委に「重大な人権侵害」　代理人
+      <a href=https://news.yahoo.co.jp/articles/22daa13700b7a18bbbf14da094fba241bde4fbf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250530-00000026-flix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 戸次重幸『岸辺露伴』不気味な撮影にツッコミ　「メイクの必要ある…？」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/cfa3ad8e454c88c9f6b318b69d6e3dedf2ee65e330d2ba6e53c678c690f59170.jpg> ダイアナ元妃の実家で火災 放火か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540604>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/c2624c9826ab04e50547345949a409c8cf2615ab094f4a3b9ffc451f92f11e65.jpg> 子供がiPhone欲しがる4つの理由
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/1b03cdd017b25122760cea97b9072926f8052c53b1585991e5c6667cf5c33fcf.jpg> 退職届巡り 話すことないと元白鵬
+      <a href=https://news.yahoo.co.jp/pickup/6540612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/f7a39887598d18a4851d50a8eb90ff8621a4993e9cf6b735f9c4820ca8930e65.jpg> 巨人ライデル 開幕から24戦無失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/30/722bd4553a4c10b48d1c099ab767f809527560787117a3722a121b57f35aa746.jpg> 佐藤弘道 終わらないリハビリ生活
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/30 22:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/30 23:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
