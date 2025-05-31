@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68c32b4103aa4881b7c707fa92e00202.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5336a28942955c89a375b8e40b75ea26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8086921f07774e17f54acdb92cf73e78f06225cb3aa4c4063d8a581cfd24c61a.jpg> 対向車が衝突か 1人死亡1人重体
+      <a href=https://news.yahoo.co.jp/pickup/6540729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba64a11f39d0860b02091d4fd2c6d89fc8b6255386b22677b4623db284481381.jpg> 町のコメ店向け備蓄米 受付休止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c4a781ad1d6b73797d464e2a2c79125d55d34e13ea89492c68df93ef7d02767.jpg> ずっと不幸だった 79歳で離婚相談
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/18786eab5a64e5547cd809079b0c1df4d2e561e9cc04a9629e5a7d3a7ff6c180.jpg> 古古古古古古古古古米 味の違いは
+      <a href=https://news.yahoo.co.jp/pickup/6540680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/79f51bd34b2a1bfb7183ed4c8cb5e83ce23d1844c3439cdfb12db076255459c6.jpg> 万博の盗難被害 遊び心ある対抗策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/08ce5443e2604e0cf5abb4dad64c23908dea472f36bdcb3b903ff76a891e4cdc.jpg> 芥川龍之介「幻の詩集」見つかる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/691171044291edeff2ca8442380d21037414d6d3c9f767347cb7299eb9e37999.jpg> 大谷翔平 今季170得点超のペース
+      <a href=https://news.yahoo.co.jp/pickup/6540728>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国籍変更選手 協会不備で代表不可
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 21:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 21:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
