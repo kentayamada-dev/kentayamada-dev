@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4049ad906f4c539ecad7e3244dab7653.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d34f2a997768e81ba142e61a61043d6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cdde9a49c7e3d6e91b13fd9204e01cc6ec1892a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050179-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「２０００円」の備蓄米、あっという間に…当面は品薄継続か・店舗では整理券配布に工夫も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6938dab551049dd7b015b57fec4bf0dfcd48fddb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 容疑者「記憶にないから分からない」 佐賀・福祉施設職員切りつけ　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000069-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 容疑者「記憶にないから分からない」　佐賀・福祉施設職員切りつけ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e33e6a7fe9831ae023defb4535ec443898f80b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949446-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・えりも町、幕別町、十勝大樹町、広尾町、釧路市、標茶町、白糠町、標津町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e27c856d850003ac328d29a04f8b8a2818cb19b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000042-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米 店頭販売始まる　「5kg2160円」の安さに長蛇の列
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/65fa2933ef0c58f705a8ff7ed2771ffd1e7d4107d932c82c4c54c720e64b9614.jpg> 子ども2人搬送 風呂場で溺れ重体
+      <a href=https://news.yahoo.co.jp/pickup/6540740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3efb2729d4fe97aa793fc0b9685546e7f5dd89a893ad580c5e043319f6f30616.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 23:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 23:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
