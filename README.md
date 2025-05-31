@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/074824090f97ec03c96702bcb44d6adc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16cb35b22722b28a7f041091871c72f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88e61d736edc50b5cc6351108b1b3d813b746a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000022-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 大谷翔平、2度目「ライブBP」は制球に課題…首をひねる場面も、ヤンキース戦は「1番・DH」で出場
+      <a href=https://news.yahoo.co.jp/articles/bce5ac2133b59dc5b495ac45f26a3f6aece93d7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000009-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 備蓄米に長蛇の列、宮城で最速販売　納入待つ2社、期待も戸惑いも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e78cd74e0fe8a2b38fce7217d475b6f1a9dc77c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949600-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 兵庫県で最大震度1の地震　兵庫県・加古川市、三木市、加東市、多可町、姫路市
+      <a href=https://news.yahoo.co.jp/articles/88e61d736edc50b5cc6351108b1b3d813b746a40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000022-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 大谷翔平、2度目「ライブBP」は制球に課題…首をひねる場面も、ヤンキース戦は「1番・DH」で出場
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5b6b0595d4fc7524ccd9438cf964248569fb54c03860da76ff8ff9d4b47ba1ab.jpg> 万博 開幕後初の15万人超来場か
+      <a href=https://news.yahoo.co.jp/pickup/6540744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/2c4f71e612a5f43f843a7cdb13f6e4d5c17bea44064537273a8d6282107719a7.jpg> 「2000円」の備蓄米 当面は品薄か
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c4a781ad1d6b73797d464e2a2c79125d55d34e13ea89492c68df93ef7d02767.jpg> ずっと不幸だった 79歳で離婚相談
+      <a href=https://news.yahoo.co.jp/pickup/6540746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/fe7c5d6f40d75a2fc7caa4647d8196de0be0ea48247679158d24438bff37004b.jpg> パリSG 5-0で欧州CL悲願の初優勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ac9ae53ccb12c4a74be94e311f43a820c0bfdcb5ab430585ebe533ccac4a94e3.jpg> ヒカル 進撃のノアとの結婚を報告
+      <a href=https://news.yahoo.co.jp/pickup/6540743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/413c24087e70d3b9808dafd9b83ee037606a58557be53879fc90e06f1ffea7c5.jpg> ヒカルと結婚 進撃のノアとは
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 07:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 07:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
