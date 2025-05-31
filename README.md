@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/916f034cc4a8bb06753281fe9e501845.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2aa5e58eeb2570632309029ec55035a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfc1681b2099a6430b82d7f4f38b85ae8a249068>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米鉄鋼労組、安保懸念を表明　日鉄とUSスチール提携で
+      <a href=https://news.yahoo.co.jp/articles/3ce559fd5a588f84f305dded6edb45798cd8d13f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 ドジャースの救援右腕フィリップスがトミー・ジョン手術　今季絶望＆来季も長期離脱か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/befb1cefaea39c9c05d8fbbcd9ac6ca21e4957d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「普通に炊く」「早く通常に」　備蓄米に早朝から列　千葉など
+      <a href=https://news.yahoo.co.jp/articles/e4b3f8e2bf86eddd7a2cfe2fca8e277d7f92fe29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000031-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「2000円」備蓄米が店頭に　東京や宮城でいち早く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c920101ee23f2d7d9305e5f86fde4cc26a2bf827>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000008-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1158&ch=1158&exp=10800&fmt=webp> ドジャースの救援右腕がトミー・ジョン手術で今季終了　ロバーツ監督「非常に残念」　30日にはディアス獲得
+      <a href=https://news.yahoo.co.jp/articles/bdb600cbed0fc4f1ef2c53ef287de210305ee6c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄とまだ最終合意していないと米大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0e17daed018297d0bfb622a459c0b86236bd22c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980155-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠「名人戦」3連覇　4勝1敗で名人位を防衛
+      <a href=https://news.yahoo.co.jp/articles/8d5a523de6f589df616f6dc34da7fcc5512e260a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00865895-number-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「藤井聡太17歳も…初タイトルが10人以上」棋聖戦の“意外と知らない”歴史ウラ話「フジテレビ創業者が熱烈な升田幸三ファンで」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/60d78d15f89533306ba4e5723bd8f2f828cf5f44b28ba891aebe89afb45e0475.jpg> 法定の休憩取れず 小中教員の実情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540655>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/4f88ba23f10bf3844e2461ad567dbe72635dc3745e7060b4a21ae6bd68acb322.jpg> 餌発言 玉木氏「深く反省」と投稿
       </a>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ee910caa9aa78749bec026ca57025efe774311e4bcf743f916223071662b0717.jpg> いつまでも大好き 盲導犬との別れ
+      <a href=https://news.yahoo.co.jp/pickup/6540653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/75946fcdfc824db6ad8235440970c67b28083891b654e39bdf6ad1e341288af6.jpg> 万博 工事費未払いトラブル相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/f2432b9ca82216977814601fc93c8ca92f57eb3a5914032510beebf5ae235319.jpg> 外資ホテル建設停止 ニセコの今
+      <a href=https://news.yahoo.co.jp/pickup/6540661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8516b23a20d98fce4fcc481c94e269311f863d58dd4058875c7458ddf7b43279.jpg> コメ失言が直撃 落胆する都議候補
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d8eb81752cd739be67bb67a0d2d9ec5993d90dc2fb63e3591b48341b4fbff88b.jpg> ローソン「盛りすぎ」企画 続く訳
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/fd842dbd40c2ccf08169c8898abcafb2baafed34b7120d39fb181bad73eef668.jpg> ド軍に激震 救援右腕が今季絶望
+      <a href=https://news.yahoo.co.jp/pickup/6540649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2a07a32dd020b21e95df43ca388c692db8c030782d2565d0f8417d50a692ceaa.jpg> 朝ドラのパン作る職人 客は倍以上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5406f7ae61218324847f585c0bf6b5db1e11bb977f82906efdaa8400d448168c.jpg> 8リットル血液失う 團遥香の出産
+      <a href=https://news.yahoo.co.jp/pickup/6540643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/fd842dbd40c2ccf08169c8898abcafb2baafed34b7120d39fb181bad73eef668.jpg> ド軍に激震 救援右腕が今季絶望
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 11:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 11:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
