@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c30d2624806f866defb7b4c7b12f0595.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/623a6b15740eb39e81f3b2b0aa359aec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a86099c3d74cebcef00a1f26cf87772ecc47b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「デジャブだ！」ドジャース戦で“悪夢が蘇る逆転負け...”　NYメディアから嘆き、落胆の声「ワールドシリーズと同じような結末」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98466326d817013dfe08f215515dc1a4f29e65b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07240121-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 島根・山陰道で車3台衝突 9人搬送、女性が死亡 7歳男児が意識不明の重体 3人が重傷
+      <a href=https://news.yahoo.co.jp/articles/b84bca81ab9c570a326b43a6c6883dbe161239f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00542650-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、衝撃21＆22号で達成したドジャース新記録　ジャッジの前で74年ぶり更新「22/57」と驚異的ペースに
       </a>
     </td>
   </tr>
@@ -411,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9b96aea52b8a70d195b430d5935a71d0c6dadaaf5aecdaaaf05e7dcf5b1e1b07.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9ca3c12a3b31c7d1aaaaf0739e38d05e9f2325f15dbc4332087ed2b22771a9fa.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 05:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 06:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
