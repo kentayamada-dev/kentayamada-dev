@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16cb35b22722b28a7f041091871c72f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff7ffdbee1bbdea1228d819f5194794e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bce5ac2133b59dc5b495ac45f26a3f6aece93d7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000009-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 備蓄米に長蛇の列、宮城で最速販売　納入待つ2社、期待も戸惑いも
+      <a href=https://news.yahoo.co.jp/articles/e2a22f703ed419f5913f711e3c3b2768c26c344d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181251-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=583&cy=0&cw=1232&ch=1232&exp=10800&fmt=webp> ジャッジ唖然！大谷翔平、22号弾が頭上を通過…“ムーンショット弾”に決死のジャンプ「ジャッジ越え弾」の光景話題に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88e61d736edc50b5cc6351108b1b3d813b746a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000022-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 大谷翔平、2度目「ライブBP」は制球に課題…首をひねる場面も、ヤンキース戦は「1番・DH」で出場
+      <a href=https://news.yahoo.co.jp/articles/d669eea0c1a303ec967add861a19b889fa5412a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10542590-baseballk-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 千賀滉大、7回途中2失点で6勝目　17打者連続アウトの快投で防御率1.60、山本由伸抜きリーグトップ再浮上！
       </a>
     </td>
   </tr>
@@ -378,16 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/41aee4feeda974e592a66d150ab0501462a3f1c202ffb48715e872593b8f73f9.jpg> 露の極東で2回爆発 ウ「作戦」か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540730>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー兵士らが捕虜処刑 非難
+      <a href=https://news.yahoo.co.jp/pickup/6540750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e6f635cd508b89ae467dd7bf483ce54d6d608ac7e4c1137d9a6443689195ce46.jpg> 日米首脳会談 G7サミット前検討
       </a>
     </td>
   </tr>
@@ -396,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540744>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/2c4f71e612a5f43f843a7cdb13f6e4d5c17bea44064537273a8d6282107719a7.jpg> 「2000円」の備蓄米 当面は品薄か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a4b044afa5ddb17ef39d93be81b4c5d9b938d6090e7dc1832afefe9f74a5fbda.jpg> 洪水で150人超死亡 ナイジェリア
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6e17018758033f7b962c368bd14b721577d5035ba98aa9358f884fb524b205bf.jpg> 防護桁にバス衝突 中学生8人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6540745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/acfe15fcba0158a3ec22d58a830ec1415bb05f99a4a368511d55ce93c02d5832.jpg> 千賀苦笑い 初回に自動三振の珍事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/fe7c5d6f40d75a2fc7caa4647d8196de0be0ea48247679158d24438bff37004b.jpg> パリSG 5-0で欧州CL悲願の初優勝
+      <a href=https://news.yahoo.co.jp/pickup/6540751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/947ec2fe10986521aeafabc141ddfe2db4f8f77553808560756736b63c23858f.jpg> タイプロ話題の2人 ホリプロ所属
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 07:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 08:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
