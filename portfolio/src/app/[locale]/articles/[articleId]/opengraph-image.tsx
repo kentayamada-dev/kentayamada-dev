@@ -56,7 +56,7 @@ const Image: ArticleImageType = async (props) => {
         >
           <span
             style={{
-              fontSize: '3rem'
+              fontSize: '3.5rem'
             }}
           >
             {article.title}
