@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb1282d0a1aa5319b50246499aff6fdf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/916f034cc4a8bb06753281fe9e501845.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e05ed97f38c3fed2d482d5f4b45fb4445a746daf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010001-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米“古古古米”中小スーパーなどの申請受け付け開始　小泉農水相「広く多くの人に届ける」
+      <a href=https://news.yahoo.co.jp/articles/dfc1681b2099a6430b82d7f4f38b85ae8a249068>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米鉄鋼労組、安保懸念を表明　日鉄とUSスチール提携で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c61ac193b547b84a671ea3df6369f49af267c1fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、鉄鋼の輸入関税50％に引き上げ表明
+      <a href=https://news.yahoo.co.jp/articles/befb1cefaea39c9c05d8fbbcd9ac6ca21e4957d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「普通に炊く」「早く通常に」　備蓄米に早朝から列　千葉など
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffc77d8988597600883eae3ae5923b7ebf87c969>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000005-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 「30歳で150万円」フジテレビ　300億円赤字でも夏のボーナスは“微減”の衝撃
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/bcb0de6f130d28393c6e0b1096507a073af913728e94d82ab7f1c749d125d7c4.jpg> 選挙が「推し活」化 社会的な背景
+      <a href=https://news.yahoo.co.jp/pickup/6540658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/60d78d15f89533306ba4e5723bd8f2f828cf5f44b28ba891aebe89afb45e0475.jpg> 法定の休憩取れず 小中教員の実情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/4f88ba23f10bf3844e2461ad567dbe72635dc3745e7060b4a21ae6bd68acb322.jpg> 餌発言 玉木氏「深く反省」と投稿
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540637>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ee910caa9aa78749bec026ca57025efe774311e4bcf743f916223071662b0717.jpg> いつまでも大好き 盲導犬との別れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba9966d5d7720dccd8bfd7b81b8fa8fb26a9edacdcaa493d9c1733173fb7374b.jpg> 備蓄米販売に人殺到 100人以上列
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 10:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 11:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
