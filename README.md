@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da29142e86de417614c6f57375ef75aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79f2bd1d14063324ae34df08e5c28e2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84c9848fc06adc5391c01c3b562bd75d599ea6bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35311021-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平、先頭打者本塁打月間４発は日本選手初　５月15発は23年６月に並ぶ最多タイ　
+      <a href=https://news.yahoo.co.jp/articles/55d8beea8fccce6a7f77f6c06b687def03679fd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35311229-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ロバーツ監督「みんなスーパースター大好き。ジャッジが闘争心を燃やした」大谷翔平２発で快勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc07e6b811f706506d035b5bc9ce2b41e1539e5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道で震度4　震源地は釧路沖　津波の心配なし
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c334bb39826b61d833bb8adb324dbd7927b75598>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240078-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「中国の台湾侵攻は壊滅的な結果に」米・ヘグセス国防長官　同盟国などに“防衛費増額”求める　アジア安全保障会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b3ba1fcb757d29eee721a87977760cb75d5350d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949215-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・十勝大樹町、釧路市、標茶町、白糠町、標津町
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540706>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 紛失に破損 なぜ置き配トラブル増
+      <a href=https://news.yahoo.co.jp/pickup/6540698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/19ded4bc99d66bd8068a2b2d42e25b130e8668c2525e42e0482a56c107a4492f.jpg> 迷子放送はもう不要 万博の工夫
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/9d2741cd405b2f966d34cfe31b0aa78a8b0ee6487adf003e4f141a1928b1d93b.jpg> 大谷のHRで破片散る 持ち帰る客
+      <a href=https://news.yahoo.co.jp/pickup/6540714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7032cbd5e307297f41347f42ae69946fd41ba7d99e7c086e12e2eb94e8598863.jpg> Tスウィフト 全曲の権利買い戻す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 18:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 18:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
