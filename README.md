@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bccc3ee312becaa819111edca119e80f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58892c58852db5d51ad09a0842ed8e07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49ad9f3f2fb74926bc8399447c258dc2cf0002b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01764789-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督、マルチHRの大谷翔平を激賞　ジャッジとの競演は「エキサイティング」
+      <a href=https://news.yahoo.co.jp/articles/72dcb2d98c2c26fa3786a9488622278d4ab5d6f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000228-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ヤンキース・ジャッジ　ド軍戦の好成績「特に理由はない」も「子供の頃は嫌いだったか？」には…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99981181ac5ac3df43e1fdd39e7e5acbe5079779>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000204-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=672&ch=672&exp=10800&fmt=webp> 小嶋陽菜　卒業後初AKBシングルは衣装で“雪辱”　卒業シングルは「プロレスラーの衣装だった…」
+      <a href=https://news.yahoo.co.jp/articles/af674110d2529a6bcb306d48895acd0347eb097c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00804419-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】「練習してるのかな」　三浦孝太、MMAデビュー戦の韓国戦士にボッコボコ…ネットも辛辣「もうやめたほうが」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9e6e0e46bd96fd8294cf0ac0526d0b37ecb7316>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=579&ch=579&exp=10800&fmt=webp> これまでにない指し回し　「後手番が課題」の藤井名人が見せた進化
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a9a1955af82439dd0ba885969137f4fd4fe095a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35233682-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の取引、確定はまだとトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f1f0b027511474ffd213161ad06f3afe63ebbed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310418-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=1000&ch=1000&exp=10800&fmt=webp> 好角家の藤井聡太名人、横綱大の里の誕生「勇気づけられます」V3一夜明けで賞賛
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/630033b23c6d93ab43dcca8e5983bd1ea6a40c10e456f2d6b1383ee0938da30c.jpg> 漏洩巡る斎藤知事の主張矛盾 解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540667>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 職場の熱中症死傷者 昨年は最多
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/1947d55b23987459efc535810592f0f2c2f44a5094a3de448254209cb666fcf5.jpg> 性別騒動 検査受けるまで出場不可
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/83df6ff2da75873412ed72f5ee0ba70117f9279bbdf17acbb34e983080e1f710.jpg> 大谷「良いゲームだった」圧巻2発
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 15:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 15:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
