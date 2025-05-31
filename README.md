@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e0ed08a51c1ff4de6da4d3fc33e697a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da29142e86de417614c6f57375ef75aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b580c59e1e65743d33ce7057f9d19aa451f3513>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000132-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平1試合2発、ヤンキースにアドレナリン全開…ジャッジとのMVP「競演」、敵将「スターが輝く一夜」
+      <a href=https://news.yahoo.co.jp/articles/84c9848fc06adc5391c01c3b562bd75d599ea6bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35311021-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】大谷翔平、先頭打者本塁打月間４発は日本選手初　５月15発は23年６月に並ぶ最多タイ　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/729b0d6fc98fa9548277d837fa96ffa69fd610ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01661756-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“現時点では計画承認していない”日鉄のUSスチール買収
+      <a href=https://news.yahoo.co.jp/articles/c334bb39826b61d833bb8adb324dbd7927b75598>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240078-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「中国の台湾侵攻は壊滅的な結果に」米・ヘグセス国防長官　同盟国などに“防衛費増額”求める　アジア安全保障会議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/983eb33e78afc0db8d5677aff0b83274e12db640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311182-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1181&ch=1181&exp=10800&fmt=webp> 鞘師里保、「ａｖｅｘ　ｔｒａｘ」からメジャーデビュー発表「私は何回デビューしているんだろう」
+      <a href=https://news.yahoo.co.jp/articles/5b3ba1fcb757d29eee721a87977760cb75d5350d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949215-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・十勝大樹町、釧路市、標茶町、白糠町、標津町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7d583da4fd48680b85b1b373180428e5e0d7eb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240079-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏　USスチール買収めぐり日本製鉄の巨額投資に「史上最大」と歓迎　一方で「最終承認はしていない」と発言
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26fc5e9e1e53e317314c7b1502bb7a85b61616ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980241-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【念願】「アイリスオーヤマ」「イトーヨーカ堂」でもついに備蓄米の店頭販売開始…初日は朝から長蛇の列ができ整理券配布すぐ終了に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7623e45268d64b834e55353d973d8243fcd7f6518e9d9b2b258d27d025824c47.jpg> 米大統領 日鉄は偉大なパートナー
+      <a href=https://news.yahoo.co.jp/pickup/6540713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2baa611e4d1141867e68d558dd6c15ce7dfff5c32323aa4ac03783c9ba987d27.jpg> 北海道で震度4 津波被害心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/148350c785f58975742975fcc15cb92d65bbd28a5f806e3c1d0f820ce730b743.jpg> 西田氏 ひめゆり発言の正当性主張
+      <a href=https://news.yahoo.co.jp/pickup/6540709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c61f8910827867cbc9185495d4b8586ef4dad1ab500cdd9d4206a2631ba9b78.jpg> 米長官 台湾統一念頭に強い危機感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d3fbc0c9a7eec6a9082f58d86fa016af163620a8fe5cbd17957a630c14d81db0.jpg> 対向車衝突か 子ども含む2人重体
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540701>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3ba82ee369328e356eae53c29e653b61cfcb3c5c406e4bf55f721ef4b77481e3.jpg> 信組不正 ハンマーでPCを破壊か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/e50332bf3f70f296bd2e8efd6e0de1a2628924c2c5fef03a021058985be6c5bf.jpg> ソウル地下鉄車内で放火 21人搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 17:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 18:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
