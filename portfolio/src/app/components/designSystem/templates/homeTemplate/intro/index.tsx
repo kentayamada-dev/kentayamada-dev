@@ -1,7 +1,6 @@
 'use client';
 
-import { motion, useInView } from 'framer-motion';
-import { useRef } from 'react';
+import { motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
 import type { IntroType } from './types';
 
@@ -11,15 +10,11 @@ const VARIANTS: Variants = {
 };
 
 const Intro: IntroType = (props) => {
-  const ref = useRef(null);
-  const isInView = useInView(ref, { once: true });
-
   return (
     <motion.div
-      animate={isInView ? 'show' : 'hidden'}
+      animate='show'
       className='space-y-5 sm:space-y-8'
       initial='hidden'
-      ref={ref}
       variants={{
         show: {
           transition: {
