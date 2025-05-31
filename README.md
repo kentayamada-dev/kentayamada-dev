@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7311954c60a46b691216b49deeac445.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec12dfb8e41a1b08c092094b6871c467.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00a664307d5e4ff6f5ad6e1718d290069a3f6d83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310138-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> ドジャース救援右腕フィリップスがトミー・ジョン手術決定でシーズン終了　今季無失点と好投
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd8d45bcf0a1aa43a1f6f64c4713a7d55c8744db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 備蓄米の店頭販売開始　2社先陣、5キロ2160円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e994d0bfbc8171265a005e41296c95aa3ed993b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 日鉄のUSスチール投資、歓迎　トランプ氏、鉄鋼関税「50％」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bec0e00ec121eebdaff836f38876fe037519901>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026400-oxv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=878&ch=878&exp=10800&fmt=webp> “アイリス備蓄米”に人殺到 仙台で店頭販売開始前に１００人以上 整理券は配布即終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ffc387b02f233a6d32c2f0dd6d427e302c53545>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310086-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=1000&ch=1000&exp=10800&fmt=webp> 【名人戦】藤井聡太名人Ｖ３会見「得るものが多かった」「永世名人を意識する感じではない」
+      <a href=https://news.yahoo.co.jp/articles/b0e17daed018297d0bfb622a459c0b86236bd22c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980155-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 藤井聡太七冠「名人戦」3連覇　4勝1敗で名人位を防衛
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fe2fd43da764b868854c9d79b004bcc8683cc32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/dfd1004ace7fe52f4987230bc87a2fafda4452b05af8dfd4d121a31b4621c377.jpg> トランプ氏 USSはパートナー得る
+      <a href=https://news.yahoo.co.jp/pickup/6540644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7623e45268d64b834e55353d973d8243fcd7f6518e9d9b2b258d27d025824c47.jpg> 鉄鋼関税2倍の50%に引き上げへ 米
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/630d6bac7363a0e63fa7c7973b33c7f63ad308a1aabaaa95a2a73ccffdc21905.jpg> 日本に対ロ修復考える勢力 露報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 大手5行 住宅ローン固定金利上げ
+      <a href=https://news.yahoo.co.jp/pickup/6540636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/60439148d020870a29f80a41ae995a380ec00e07994aaa2229fbcf4af5f890b5.jpg> 関税交渉 赤沢氏「合意へ進展」
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6efacd8a8186fa80cb087adce16aea25b31656b7a2c84b1ab28c637aa72d2469.jpg> 就学猶予経て 493gで誕生の子入学
+      <a href=https://news.yahoo.co.jp/pickup/6540641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/08420969ea5639a47452e5b811bd5560965f02d4f845c9846b63720f4ea68994.jpg> 藤井名人 永世名人に「憧れある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b74b082edf07221f468256f8618452367cb580fa6ed0f40ef0f8adc0e2de4b7e.jpg> 白河れい 所属事務所の退所発表
+      <a href=https://news.yahoo.co.jp/pickup/6540643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/fd842dbd40c2ccf08169c8898abcafb2baafed34b7120d39fb181bad73eef668.jpg> ド軍に激震 救援右腕が今季絶望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5406f7ae61218324847f585c0bf6b5db1e11bb977f82906efdaa8400d448168c.jpg> 生死さまよった 團遥香の出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 09:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 09:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
