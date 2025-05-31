@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79f2bd1d14063324ae34df08e5c28e2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ccd98893bc0a8d76251e40f9e9f56be2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55d8beea8fccce6a7f77f6c06b687def03679fd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35311229-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ロバーツ監督「みんなスーパースター大好き。ジャッジが闘争心を燃やした」大谷翔平２発で快勝
+      <a href=https://news.yahoo.co.jp/articles/68e2dcc41620dcbe6f51b0626b43039174de238b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01764828-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「期待を裏切ることはない」　同僚には“当然”の光景「集中するだけ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd6ea5b387b3f5c56be1afcae62cacfbed00c9a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010003-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=464&ch=464&exp=10800&fmt=webp> 随意契約備蓄米の店頭販売始まる　長蛇の列、即完売も
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7d583da4fd48680b85b1b373180428e5e0d7eb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240079-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏　USスチール買収めぐり日本製鉄の巨額投資に「史上最大」と歓迎　一方で「最終承認はしていない」と発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/038335feab4168679a535d50a525d856bfb61e66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=1328&ch=1328&exp=10800&fmt=webp> ガザ人道危機巡り、制裁も検討　フランスなどがイスラエルを非難
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2baa611e4d1141867e68d558dd6c15ce7dfff5c32323aa4ac03783c9ba987d27.jpg> 北海道で震度4 津波被害心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6540715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/56e6d6ab9b36cb48b0b2dc095deb5b278af2b9fa1ccf384fad4287ccee51f54c.jpg> 野村元農相 コメ巡り小泉氏に苦言
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c61f8910827867cbc9185495d4b8586ef4dad1ab500cdd9d4206a2631ba9b78.jpg> 米長官 台湾統一念頭に強い危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d3fbc0c9a7eec6a9082f58d86fa016af163620a8fe5cbd17957a630c14d81db0.jpg> 対向車衝突か 子ども含む2人重体
       </a>
     </td>
   </tr>
@@ -442,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96b9d0ff309d0380134a4614c861cfa4827ee4c5d93b55db5e779ab966fdcdce.jpg> 「足立の花火」2年連続で当日中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/18786eab5a64e5547cd809079b0c1df4d2e561e9cc04a9629e5a7d3a7ff6c180.jpg> 古古古古古古古古古米 味の違いは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540702>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/e041bcd92eee40f75fec687786cc1e21c094abd423483821fa8bfd74ce6b1375.jpg> ド軍ベッツ骨折 トイレ行く途中に
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/cfae3b8fcf25df757d1992a15f11ea652a395169b8da68d685bfa700f8b50683.jpg> 鞘師里保 avex traxデビュー決定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 18:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 19:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
