@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/547fdcd1e303adf0fc0f95467b7057bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77dc39b9b0e78429900724b4a2c28d9e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdde9a49c7e3d6e91b13fd9204e01cc6ec1892a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050179-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「２０００円」の備蓄米、あっという間に…当面は品薄継続か・店舗では整理券配布に工夫も
+      <a href=https://news.yahoo.co.jp/articles/9d6d96f06f3731481a3749f7702723ebfc96d3ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-05311308-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> 「まるで彼が俺をマネしているように感じた」ジャッジがジョークで脱帽　大谷翔平との打ち合い敗れ「彼は本当にすごい選手」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d0a78d845cc4fcaf881ca18c3e378d906be14ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181266-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…？ 大谷翔平にメッタ打ちで“イライラ”「そりゃそうなる」 “2発被弾”した敵軍投手の様子がおかしくなる「完全にトラウマ」
+      <a href=https://news.yahoo.co.jp/articles/9d8440e60d2a17ab84c2300d3cdc7e59a429e3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949476-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・標茶町
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4c79c5c743b6899b8db127c52ed1f964c7f7be22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6851ca7e200beeca8c3bd53a365dd3a5d4a3238>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050174-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ＵＳスチール地元でトランプ氏「偉大なパートナー」と日鉄との提携歓迎…具体的枠組みには言及せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e33e6a7fe9831ae023defb4535ec443898f80b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949446-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・えりも町、幕別町、十勝大樹町、広尾町、釧路市、標茶町、白糠町、標津町
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b69dbefc8a6e77156396be7d0d375424e19b68a24742f5ab43c7fcd8b13dfc49.jpg> 児童福祉施設で切りつけ 職員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5b6b0595d4fc7524ccd9438cf964248569fb54c03860da76ff8ff9d4b47ba1ab.jpg> 万博 開幕後初の15万人超来場か
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/afd9b3e34f6c441d728679b6cf96158707a09627980c328b4d4b0917251bc3f3.jpg> 消費者に変化 感謝される米農家
+      <a href=https://news.yahoo.co.jp/pickup/6540741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6e17018758033f7b962c368bd14b721577d5035ba98aa9358f884fb524b205bf.jpg> 防護桁にバス衝突 中学生8人搬送
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 23:52:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 00:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
