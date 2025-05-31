@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a311de0a42ced3bfa2ebec32f092b79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51175744c789e3f20cd50fc3b8326004.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cd2d516cfa33faa786c7f602202e5062647bbb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011011-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平　ヤンキース戦２戦目「１番ＤＨ」スタメン　５月最終日に月間自己＆球団新記録の２３号なるか
+      <a href=https://news.yahoo.co.jp/articles/90969d82b9b2fae82d0521dfd3b999bdeddd68e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-35311804-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ヤンキース・ジャッジ「打った瞬間はキャッチできると」自身の頭上越えた大谷弾に舌巻く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ca6a889db581bf0879d3a4c236201303281923e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949523-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手県、宮城県で最大震度1の地震　岩手県・大船渡市、住田町、一関市、宮城県・気仙沼市、登米市、栗原市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e737644100c776169b1f28a0aa64b92dd8e809d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1歳の双子の男児が浴槽で溺れ1人死亡 親が目を離した隙に溺れたか　東京・足立区
+      <a href=https://news.yahoo.co.jp/articles/0dfeddd237a804e802222afff75e38bc123ff577>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980358-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山陰道で車3台絡む事故 9人搬送　女性1人死亡、小学生1人が意識不明の重体　島根・出雲市
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 04:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 05:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
