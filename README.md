@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58892c58852db5d51ad09a0842ed8e07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d059e6cb9da9479924a184f5513b14c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72dcb2d98c2c26fa3786a9488622278d4ab5d6f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000228-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ヤンキース・ジャッジ　ド軍戦の好成績「特に理由はない」も「子供の頃は嫌いだったか？」には…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af674110d2529a6bcb306d48895acd0347eb097c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00804419-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】「練習してるのかな」　三浦孝太、MMAデビュー戦の韓国戦士にボッコボコ…ネットも辛辣「もうやめたほうが」
+      <a href=https://news.yahoo.co.jp/articles/ff23cf3fc74a706c69a07ac850f2ab5cf838039f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097334-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 「本当にとんでもない。63発ペースだ」大谷翔平の21号、22号に米メディアは困惑　怪物との本塁打競争にも熱狂「これにジャッジは応えられるか？」
       </a>
     </td>
   </tr>
@@ -374,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9e6e0e46bd96fd8294cf0ac0526d0b37ecb7316>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=579&ch=579&exp=10800&fmt=webp> これまでにない指し回し　「後手番が課題」の藤井名人が見せた進化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000047-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=579&ch=579&exp=10800&fmt=webp> これまでにない指し回し　「後手番が課題」の藤井名人が見せた進化
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a9a1955af82439dd0ba885969137f4fd4fe095a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35233682-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の取引、確定はまだとトランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16b313da9bc6ed73aa4a693ddac6c66b4199951c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181201-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 川崎市の交差点でトラックとクレーン車が衝突 1人重傷
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96726501924c34b18256d3e6f77353352e4239b25bb3e1a35aaec58468d9e898.jpg> 年金法案の通過 与党と立憲に批判
+      <a href=https://news.yahoo.co.jp/pickup/6540697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7623e45268d64b834e55353d973d8243fcd7f6518e9d9b2b258d27d025824c47.jpg> 米大統領 日鉄は偉大なパートナー
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 職場の熱中症死傷者 昨年は最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540676>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/c0a26ceafc3c489c92be1edbc02b9d1597329197d661f028c46a657ce8fcde8d.jpg> マスク氏 大統領選中に薬物使用か
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/72869693eeb4b719a7a2454f2fb1f46feaf27dbb669414de63205b3947bd55bb.jpg> キングカズ次男 RIZINで4連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/83df6ff2da75873412ed72f5ee0ba70117f9279bbdf17acbb34e983080e1f710.jpg> 大谷「良いゲームだった」圧巻2発
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/64c963b6ce69c343b149192c40e64e445957252162cc9893281604c40f76f2c9.jpg> AKB48新曲 前田敦子らOG4人参加
+      <a href=https://news.yahoo.co.jp/pickup/6540700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/efe8d28109db7d1318e33bb7cf226c947dc4c4bea741d807be85111e8c72bbca.jpg> DJ KOO 不調原因は薬アレルギー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 15:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 16:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
