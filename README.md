@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c83c3d26b79296282a6025fdac121b18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c63f82adc7a71ef078106de6e89f7c3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/189ed93e306e0bf5402ca834b08903fdc17ce5af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 児童福祉施設の職員切りつけられ死亡　殺人未遂容疑で女性逮捕　佐賀
+      <a href=https://news.yahoo.co.jp/articles/8c412c087cde6719cda02b1fffb4aca9a5b5175e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050180-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 佐賀で児童福祉施設の職員が切りつけられ死亡…女を殺人未遂容疑で現行犯逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b5732c299217463f7a657fae7612710c661051a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01765133-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷に完敗…溢れる“やっちまった”感　真逆の構図に日本ファン凝視「めちゃくちゃ良い絵」
+      <a href=https://news.yahoo.co.jp/articles/d6851ca7e200beeca8c3bd53a365dd3a5d4a3238>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050174-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ＵＳスチール地元でトランプ氏「偉大なパートナー」と日鉄との提携歓迎…具体的枠組みには言及せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3015e3621fc67a330353b209f15ca7831b0cbae7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 1試合2発で今季22号＆月間15本到達！ 初回ジャッジとのホームランの打ち合いに「すぐに取り返すというのは大事」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e33e6a7fe9831ae023defb4535ec443898f80b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949446-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・えりも町、幕別町、十勝大樹町、広尾町、釧路市、標茶町、白糠町、標津町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8910f9c5a701970de5bd8f60ee6f3f5d2dd3d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000057-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「USAコール」も　日鉄・USスチール連携、従業員ら熱烈歓迎
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2486f9b0bc3e4bff732c7b9b2fd75609b172a9b59907f25b6b756d52cd5d0f18.jpg> 日米 サイバー連携強化で一致
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540703>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/65fa2933ef0c58f705a8ff7ed2771ffd1e7d4107d932c82c4c54c720e64b9614.jpg> 子ども2人搬送 風呂場で溺れ重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540731>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c4a781ad1d6b73797d464e2a2c79125d55d34e13ea89492c68df93ef7d02767.jpg> ずっと不幸だった 79歳で離婚相談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/dfa73760f198532c274fac47332f3fc7ad87a120ec5e8949f7716e1f896a1ec3.jpg> 即完売の備蓄米 食べた人の感想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540728>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国籍変更選手 協会不備で代表不可
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 22:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 22:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
