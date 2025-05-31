@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22f3721dc3e7638ce7f81c84aee820ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c184603b222c84e04c3b14309e7f29b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/537b23c2190aacebdde369fdef48e6758d855d65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097336-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平こそ“MLB最強スラッガー”　進化する偉才に米断言「ジャッジやフアン・ソトが野球界最高の打者だと思っている人間がいるのが不思議だ」
+      <a href=https://news.yahoo.co.jp/articles/b621b71ff8e56595ac894f81469151b5b19ad16f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097337-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「僕の真似をしているみたいだった」ジャッジが“アーチ競演＆２発”の大谷翔平を絶賛！本塁打数は３本差に「球界最高の選手の一人だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4094dca4c28827124f60d1a783e9c395082895a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000044-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 USスチール買収“承認していない”「鉄鋼関税50％に倍増」
+      <a href=https://news.yahoo.co.jp/articles/2969e702649585de726ab8f60027cf2baf4cdcf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07114469-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=205&cw=640&ch=640&exp=10800&fmt=webp> JO1・鶴房汐恩　オンラインカジノを利用した過去が判明「本当に申し訳ございませんでした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8910f9c5a701970de5bd8f60ee6f3f5d2dd3d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000057-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「USAコール」も　日鉄・USスチール連携、従業員ら熱烈歓迎
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e27c856d850003ac328d29a04f8b8a2818cb19b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000042-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米 店頭販売始まる　「5kg2160円」の安さに長蛇の列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02a563840129c4817e33186257000445819ae9b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000056-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 高速道路で3台からむ事故　9人搬送、2人意識不明　島根県出雲市
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/19ded4bc99d66bd8068a2b2d42e25b130e8668c2525e42e0482a56c107a4492f.jpg> 迷子放送はもう不要 万博の工夫
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96b9d0ff309d0380134a4614c861cfa4827ee4c5d93b55db5e779ab966fdcdce.jpg> 「足立の花火」2年連続で当日中止
+      <a href=https://news.yahoo.co.jp/pickup/6540718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/dfa73760f198532c274fac47332f3fc7ad87a120ec5e8949f7716e1f896a1ec3.jpg> 即完売の備蓄米 食べた人の感想
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/e041bcd92eee40f75fec687786cc1e21c094abd423483821fa8bfd74ce6b1375.jpg> ド軍ベッツ骨折 トイレ行く途中に
+      <a href=https://news.yahoo.co.jp/pickup/6540716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96b9d0ff309d0380134a4614c861cfa4827ee4c5d93b55db5e779ab966fdcdce.jpg> 「足立の花火」2年連続で当日中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7032cbd5e307297f41347f42ae69946fd41ba7d99e7c086e12e2eb94e8598863.jpg> Tスウィフト 全曲の権利買い戻す
+      <a href=https://news.yahoo.co.jp/pickup/6540721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/691171044291edeff2ca8442380d21037414d6d3c9f767347cb7299eb9e37999.jpg> 大谷翔平 今季170得点超のペース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/9d46d2cd2f5d7ed3f2d74ed1c6d42729b2b0b902ad575f470f28304280669d95.jpg> ネットカジノ JO1鶴房10日間自粛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 19:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 20:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
