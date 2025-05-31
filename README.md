@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c184603b222c84e04c3b14309e7f29b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/500e62de4cfef13f7abe706c88c66cbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b621b71ff8e56595ac894f81469151b5b19ad16f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097337-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「僕の真似をしているみたいだった」ジャッジが“アーチ競演＆２発”の大谷翔平を絶賛！本塁打数は３本差に「球界最高の選手の一人だ」
+      <a href=https://news.yahoo.co.jp/articles/5aa57cf89834025dda25beadb09c4fad1096b3e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000372-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=907&ch=907&exp=10800&fmt=webp> ヒカル、進撃のノアとの“0日婚”にネット「ええええ！！」「釣りじゃないの？」「まさか結婚するとは…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2969e702649585de726ab8f60027cf2baf4cdcf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07114469-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=205&cw=640&ch=640&exp=10800&fmt=webp> JO1・鶴房汐恩　オンラインカジノを利用した過去が判明「本当に申し訳ございませんでした」
+      <a href=https://news.yahoo.co.jp/articles/eccf75e47a895099391701b73a42816dd28335df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949412-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 徳島県で最大震度2の地震　徳島県・美波町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5225ec7032f3d14130fe2167735f957ba4076038>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00542682-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷22号で撮られた1枚に絶賛の嵐　ヤ軍無双エース粉砕の構図が「なんて美しいんだ」「ルーブルに飾れ」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e27c856d850003ac328d29a04f8b8a2818cb19b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000042-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米 店頭販売始まる　「5kg2160円」の安さに長蛇の列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc07e6b811f706506d035b5bc9ce2b41e1539e5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道で震度4　震源地は釧路沖　津波の心配なし
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96b9d0ff309d0380134a4614c861cfa4827ee4c5d93b55db5e779ab966fdcdce.jpg> 「足立の花火」2年連続で当日中止
+      <a href=https://news.yahoo.co.jp/pickup/6540719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/08ce5443e2604e0cf5abb4dad64c23908dea472f36bdcb3b903ff76a891e4cdc.jpg> 芥川龍之介「幻の詩集」見つかる
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/9d46d2cd2f5d7ed3f2d74ed1c6d42729b2b0b902ad575f470f28304280669d95.jpg> ネットカジノ JO1鶴房10日間自粛
+      <a href=https://news.yahoo.co.jp/pickup/6540725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ac9ae53ccb12c4a74be94e311f43a820c0bfdcb5ab430585ebe533ccac4a94e3.jpg> ヒカル 進撃のノアとの結婚を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 20:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 20:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
