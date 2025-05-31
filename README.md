@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67a1d31cbcdd769ac54fe4aaeb4831d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26ed2bd02aaf6a0b90c783c1a3792ef3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/704a69674005ef6810c0ecd59d054496f27c23bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000020-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=828&ch=828&exp=10800&fmt=webp> ヤンキース・ジャッジ 19号先制弾も…2発のドジャース・大谷に脱帽「確実に結果。本当に凄い」
+      <a href=https://news.yahoo.co.jp/articles/1ca6a889db581bf0879d3a4c236201303281923e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949523-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩手県、宮城県で最大震度1の地震　岩手県・大船渡市、住田町、一関市、宮城県・気仙沼市、登米市、栗原市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c79c5c743b6899b8db127c52ed1f964c7f7be22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
+      <a href=https://news.yahoo.co.jp/articles/21875703303d49d96ab2725f05cd01e16e961213>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=755&ch=755&exp=10800&fmt=webp> 大谷翔平　ジャッジの前で１試合２発「両チームとも素晴らしいゲームだった」一問一答
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e737644100c776169b1f28a0aa64b92dd8e809d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980361-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1歳の双子の男児が浴槽で溺れ1人死亡 親が目を離した隙に溺れたか　東京・足立区
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 02:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 03:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
