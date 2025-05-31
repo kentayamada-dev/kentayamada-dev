@@ -60,19 +60,9 @@ type FaqsType = {
 }[];
 
 type ArticlesType = {
-  coverImage: {
-    title: string;
-    url: string;
-  };
-  slug: string;
-  sys: { firstPublishedAt: string; publishedAt: string };
-  title: string;
-}[];
-
-type LatestArticlesType = {
   description: string;
   slug: string;
-  sys: { firstPublishedAt: string };
+  sys: { firstPublishedAt: string; publishedAt: string };
   title: string;
 }[];
 
@@ -96,12 +86,6 @@ type FaqsResponseType = {
 type ArticlesResponseType = {
   articleCollection: {
     items: ArticlesType;
-  };
-};
-
-type LatestArticlesResponseType = {
-  articleCollection: {
-    items: LatestArticlesType;
   };
 };
 
@@ -212,8 +196,6 @@ export type {
   ContactType,
   FaqsResponseType,
   FaqsType,
-  LatestArticlesResponseType,
-  LatestArticlesType,
   MetadataResponseType,
   MetadataType,
   ProjectItemsType,

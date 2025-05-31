@@ -13,10 +13,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     return throwColoredError(`metadata <${contentfulType.metadata.pageNotFound}> is null`, 'red');
   }
 
-  return getNotFoundMetadataObject(locale, metadata.description, metadata.title, {
-    alt: metadata.coverImage.title,
-    url: metadata.coverImage.url
-  });
+  return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
 };
 
 const CatchAllPage = (): VoidFunction => {

@@ -1,7 +1,7 @@
 import type { ListItemProps } from '@/components/designSystem/atoms';
-import type { ComponentType, StrictOmitType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
-type LinkItemProps = StrictOmitType<ListItemProps, 'isActive'> & {
+type LinkItemProps = ListItemProps & {
   href: string;
 };
 

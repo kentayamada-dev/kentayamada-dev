@@ -16,10 +16,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     return throwColoredError(`metadata <${contentfulType.metadata.pageNotFound}> is empty`, 'red');
   }
 
-  return getNotFoundMetadataObject(locale, metadata.description, metadata.title, {
-    alt: metadata.coverImage.title,
-    url: metadata.coverImage.url
-  });
+  return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
 };
 
 const NotFoundPage: NotFoundPageType = async () => {

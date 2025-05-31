@@ -22,7 +22,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     locale,
     metadata.description,
     metadata.title,
-    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    metadata.coverImage.url,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );

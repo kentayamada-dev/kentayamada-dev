@@ -6,7 +6,6 @@ import type { JSXElementType } from '@/types/components';
 const meta = {
   args: {
     icon: SunIcon,
-    isActive: true,
     title: 'Light'
   },
   component: NavItem,

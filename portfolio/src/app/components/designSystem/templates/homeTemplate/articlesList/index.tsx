@@ -1,8 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import Link from 'next/link';
-import { Article } from './article';
+import { ArticleLink } from '@/components/designSystem/molecules';
 import type { ArticlesListType } from './types';
 
 const ANIMATION_DELAY = 1;
@@ -24,15 +23,13 @@ const ArticlesList: ArticlesListType = (props) => {
               ease: 'easeOut'
             }}
           >
-            <Link className='bg-primary hover-primary rounded-lg p-3' href={`${props.articlesHref}/${article.slug}`} key={article.slug}>
-              <Article
-                createdAt={article.createdAt}
-                description={article.description}
-                locale={props.locale}
-                readArticle={props.readArticle}
-                title={article.title}
-              />
-            </Link>
+            <ArticleLink
+              createdAt={article.createdAt}
+              description={article.description}
+              href={`${props.articlesHref}/${article.slug}`}
+              locale={props.locale}
+              title={article.title}
+            />
           </motion.div>
         );
       })}

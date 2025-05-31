@@ -1,4 +1,5 @@
 import { gql } from 'graphql-request';
+import { cache } from 'react';
 import { apiRequest } from './client';
 import type {
   AboutResponseType,
@@ -7,7 +8,6 @@ import type {
   ArticlesResponseType,
   ContactResponseType,
   FaqsResponseType,
-  LatestArticlesResponseType,
   MetadataResponseType,
   ProjectItemsType,
   ProjectPinnedItemsType,
@@ -23,7 +23,6 @@ import type {
   GetArticlesType,
   GetContactType,
   GetFaqsType,
-  GetLatestArticlesType,
   GetMetadataType,
   GetProjectsType,
   GetSitemapType,
@@ -32,7 +31,7 @@ import type {
   GetUtilityBySlugType
 } from './types';
 
-const getProjects: GetProjectsType = async () => {
+const getProjects: GetProjectsType = cache(async () => {
   let pinnedRepos: ProjectItemsType = [];
   let cursor: string | null = null;
 
@@ -72,9 +71,9 @@ const getProjects: GetProjectsType = async () => {
   } while (cursor !== null);
 
   return pinnedRepos;
-};
+});
 
-const getSitemap: GetSitemapType = async () => {
+const getSitemap: GetSitemapType = cache(async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -100,9 +99,9 @@ const getSitemap: GetSitemapType = async () => {
   const utilityItems = (await apiRequest<SitemapResponseType>('contentful', query)).utilityCollection.items;
 
   return { articleItems, utilityItems };
-};
+});
 
-const getArticleSlugs: GetSlugsType = async () => {
+const getArticleSlugs: GetSlugsType = cache(async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -116,9 +115,9 @@ const getArticleSlugs: GetSlugsType = async () => {
   const articleSlugs = (await apiRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
 
   return articleSlugs;
-};
+});
 
-const getUtilitySlugs: GetSlugsType = async () => {
+const getUtilitySlugs: GetSlugsType = cache(async () => {
   const query = gql`
     query Query {
       utilityCollection {
@@ -132,9 +131,9 @@ const getUtilitySlugs: GetSlugsType = async () => {
   const utilitySlugs = (await apiRequest<UtilitySlugsResponseType>('contentful', query)).utilityCollection.items;
 
   return utilitySlugs;
-};
+});
 
-const getMetadata: GetMetadataType = async (locale, id) => {
+const getMetadata: GetMetadataType = cache(async (locale, id) => {
   const query = gql`
     query Query($where: MetaDataFilter!, $locale: String!) {
       metaDataCollection(where: $where, locale: $locale) {
@@ -168,22 +167,19 @@ const getMetadata: GetMetadataType = async (locale, id) => {
   }
 
   return metadata;
-};
+});
 
-const getArticles: GetArticlesType = async (locale) => {
+const getArticles: GetArticlesType = cache(async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [ArticleOrder]!) {
       articleCollection(locale: $locale, order: $order) {
         items {
           title
           slug
+          description
           sys {
             publishedAt
             firstPublishedAt
-          }
-          coverImage {
-            url
-            title
           }
         }
       }
@@ -198,35 +194,9 @@ const getArticles: GetArticlesType = async (locale) => {
   ).articleCollection.items;
 
   return articles;
-};
+});
 
-const getLatestArticles: GetLatestArticlesType = async (locale) => {
-  const query = gql`
-    query Query($locale: String!, $order: [ArticleOrder]!) {
-      articleCollection(locale: $locale, order: $order) {
-        items {
-          title
-          slug
-          description
-          sys {
-            firstPublishedAt
-          }
-        }
-      }
-    }
-  `;
-
-  const latestArticles = (
-    await apiRequest<LatestArticlesResponseType>('contentful', query, {
-      locale,
-      order: 'sys_publishedAt_DESC'
-    })
-  ).articleCollection.items;
-
-  return latestArticles;
-};
-
-const getContact: GetContactType = async (locale) => {
+const getContact: GetContactType = cache(async (locale) => {
   const query = gql`
     query Query($locale: String!) {
       contactCollection(locale: $locale) {
@@ -249,9 +219,9 @@ const getContact: GetContactType = async (locale) => {
   }
 
   return contact;
-};
+});
 
-const getUtilities: GetUtilitiesType = async (locale) => {
+const getUtilities: GetUtilitiesType = cache(async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [UtilityOrder]!) {
       utilityCollection(locale: $locale, order: $order) {
@@ -279,9 +249,9 @@ const getUtilities: GetUtilitiesType = async (locale) => {
   ).utilityCollection.items;
 
   return articles;
-};
+});
 
-const getAbout: GetAboutType = async (locale) => {
+const getAbout: GetAboutType = cache(async (locale) => {
   const query = gql`
     query Query($locale: String!) {
       aboutCollection(locale: $locale) {
@@ -309,9 +279,9 @@ const getAbout: GetAboutType = async (locale) => {
   }
 
   return about;
-};
+});
 
-const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
+const getArticleBySlug: GetArticleBySlugType = cache(async (locale, slug) => {
   const query = gql`
     query Query($where: ArticleFilter!, $locale: String!) {
       articleCollection(where: $where, locale: $locale) {
@@ -319,10 +289,6 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
           content
           title
           description
-          coverImage {
-            url
-            title
-          }
           sys {
             publishedAt
             firstPublishedAt
@@ -346,9 +312,9 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   }
 
   return article;
-};
+});
 
-const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
+const getUtilityBySlug: GetUtilityBySlugType = cache(async (locale, slug) => {
   const query = gql`
     query Query($where: UtilityFilter, $locale: String) {
       utilityCollection(where: $where, locale: $locale) {
@@ -383,9 +349,9 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   }
 
   return utility;
-};
+});
 
-const getFaqs: GetFaqsType = async (locale, id) => {
+const getFaqs: GetFaqsType = cache(async (locale, id) => {
   const query = gql`
     query Query($locale: String!, $order: [FaqOrder]!, $where: FaqFilter!) {
       faqCollection(locale: $locale, order: $order, where: $where) {
@@ -409,7 +375,7 @@ const getFaqs: GetFaqsType = async (locale, id) => {
   ).faqCollection.items;
 
   return articles;
-};
+});
 
 export {
   getAbout,
@@ -418,7 +384,6 @@ export {
   getArticles,
   getContact,
   getFaqs,
-  getLatestArticles,
   getMetadata,
   getProjects,
   getSitemap,

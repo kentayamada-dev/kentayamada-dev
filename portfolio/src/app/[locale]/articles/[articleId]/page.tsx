@@ -11,10 +11,9 @@ import { ArticleTemplate } from '@/components/designSystem/templates';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
-import { getMetadataObject } from '@/lib/nextjs';
+import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
 import { throwColoredError } from '@/utils';
-import type { ArticlesListProps } from '@/components/designSystem/molecules';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
 
 const generateStaticParams: ArticleGenerateStaticParamsType = async () => {
@@ -35,13 +34,15 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
     return throwColoredError(`article <${articleId}> is empty`, 'red');
   }
 
+  const articlePath = `${navigationItems(locale).articles.href}/${articleId}`;
+
   return getMetadataObject(
     'article',
-    `${navigationItems(locale).articles.href}/${articleId}`,
+    articlePath,
     locale,
     article.description,
     article.title,
-    { alt: article.coverImage.title, url: article.coverImage.url },
+    `${articlePath}${OPENGRAPH_IMAGE_PATH}`,
     new Date(article.sys.publishedAt),
     new Date(article.sys.firstPublishedAt)
   );
@@ -56,7 +57,6 @@ const Page: ArticlePageType = async (props) => {
   }
 
   const articlesDict = dictionaries[locale].articles;
-  const articlesHref = `/${locale}/${navigationItems(locale).articles.href}`;
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const articleContent = await unified()
@@ -72,13 +72,10 @@ const Page: ArticlePageType = async (props) => {
     .process(article.content);
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
-  const articles: ArticlesListProps['articles'] = (await getArticles(locale)).map((articleData) => {
+  const articles = (await getArticles(locale)).map((articleData) => {
     return {
-      coverImage: {
-        title: articleData.coverImage.title,
-        url: articleData.coverImage.url
-      },
       createdAt: new Date(articleData.sys.firstPublishedAt),
+      description: articleData.description,
       slug: articleData.slug,
       title: articleData.title
     };
@@ -88,7 +85,7 @@ const Page: ArticlePageType = async (props) => {
     <ArticleTemplate
       articleTitle={article.title}
       articles={articles}
-      articlesHref={articlesHref}
+      articlesHref={navigationItems(locale).articles.href}
       articlesListTitle={articlesDict.recommend}
       // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
       content={articleContent.result}

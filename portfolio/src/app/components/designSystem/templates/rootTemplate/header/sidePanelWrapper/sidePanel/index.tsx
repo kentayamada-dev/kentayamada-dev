@@ -41,9 +41,12 @@ const SidePanel: SidePanelType = (props) => {
             <ul className='space-y-1'>
               {Object.entries(props.items).map(([key, { href, icon, title }]) => {
                 return (
-                  <li key={key}>
-                    <Link href={`/${props.locale}${href}`} legacyBehavior passHref>
-                      <NavItem icon={icon} isActive={props.currentPathname === href} onClick={props.handleToggle} title={title} />
+                  <li
+                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} rounded-lg p-2 font-semibold hover:cursor-pointer hover:bg-slate-100 hover:dark:bg-slate-600/30`}
+                    key={key}
+                  >
+                    <Link href={href} legacyBehavior passHref>
+                      <NavItem icon={icon} onClick={props.handleToggle} title={title} />
                     </Link>
                   </li>
                 );

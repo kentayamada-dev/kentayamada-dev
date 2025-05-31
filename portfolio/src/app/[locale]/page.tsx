@@ -1,9 +1,8 @@
 import { notFound } from 'next/navigation';
 import { HomeTemplate } from '@/components/designSystem/templates';
 import { contentfulType } from '@/constants/contentful';
-import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getAbout, getLatestArticles, getMetadata } from '@/lib/graphql-request';
+import { getAbout, getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
@@ -22,7 +21,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     locale,
     metadata.description,
     metadata.title,
-    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    metadata.coverImage.url,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );
@@ -36,10 +35,7 @@ const Page: PageType = async (props) => {
     return notFound();
   }
 
-  const { readArticle } = dictionaries[locale];
-  const articlesHref = `/${locale}/${navigationItems(locale).articles.href}`;
-
-  const articles = (await getLatestArticles(locale)).map((article) => {
+  const articles = (await getArticles(locale)).map((article) => {
     return {
       createdAt: new Date(article.sys.firstPublishedAt),
       description: article.description,
@@ -51,14 +47,13 @@ const Page: PageType = async (props) => {
   return (
     <HomeTemplate
       articles={articles}
-      articlesHref={articlesHref}
+      articlesHref={navigationItems(locale).articles.href}
       coverImage={{
         title: about.coverImage.title,
         url: about.coverImage.url
       }}
       locale={locale}
       paragraph={about.paragraph}
-      readArticle={readArticle}
       subtitle={about.subtitle}
       title={about.title}
     />

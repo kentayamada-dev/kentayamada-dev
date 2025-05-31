@@ -41,7 +41,7 @@ const generateMetadata: UtilityGenerateMetadataType = async (props) => {
     locale,
     utility.subtitle,
     utility.title,
-    { alt: utility.coverImage.title, url: utility.coverImage.url },
+    utility.coverImage.url,
     new Date(utility.sys.publishedAt),
     new Date(utility.sys.firstPublishedAt)
   );

@@ -21,7 +21,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     locale,
     metadata.description,
     metadata.title,
-    { alt: metadata.coverImage.title, url: metadata.coverImage.url },
+    metadata.coverImage.url,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );
@@ -31,9 +31,8 @@ const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const utilities = await getUtilities(locale);
   const title = dictionaries[locale].utilities;
-  const utilitiesHref = `/${locale}${navigationItems(locale).utilities.href}`;
 
-  return <UtilitiesTemplate locale={locale} title={title} utilities={utilities} utilitiesHref={utilitiesHref} />;
+  return <UtilitiesTemplate locale={locale} title={title} utilities={utilities} utilitiesHref={navigationItems(locale).utilities.href} />;
 };
 
 export { Page as default, generateMetadata };

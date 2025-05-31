@@ -1,5 +1,5 @@
 import { ClockHistoryIcon, ClockIcon } from '@/components/icons';
-import { getDateString } from '@/utils';
+import { getDateString, isSameDate } from '@/utils';
 import { DesktopTableOfContents } from './desktopTableOfContents';
 import { MobileTableOfContents } from './mobileTableOfContents';
 import type { ArticleType } from './types';
@@ -9,6 +9,7 @@ const ARTICLE_CLASS_NAME = 'article';
 const Article: ArticleType = (props) => {
   const updatedAtISO = props.updatedAt.toISOString();
   const createdAtISO = props.createdAt.toISOString();
+  const isDateSame = isSameDate(props.updatedAt, props.createdAt);
 
   return (
     <>
@@ -18,7 +19,7 @@ const Article: ArticleType = (props) => {
       <article>
         <h1 className='text-primary text-center text-3xl font-semibold sm:text-5xl'>{props.articleTitle}</h1>
         <div className='text-secondary mt-10 flex justify-center gap-x-5 text-sm'>
-          {updatedAtISO !== createdAtISO && (
+          {!isDateSame && (
             <div className='flex items-center gap-x-1'>
               <span className='size-4'>
                 <ClockHistoryIcon />

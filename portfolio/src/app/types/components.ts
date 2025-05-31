@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import type { ImageResponse } from 'next/og';
 import type { FC, JSX, PropsWithChildren, ReactNode } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
@@ -33,6 +34,8 @@ type AsyncJSXElementType = Promise<JSXElementType>;
 
 type AsyncMetadataType = Promise<Metadata>;
 
+type AsyncImageType = Promise<ImageResponse>;
+
 type LayoutGenerateStaticParams = {
   locale: LocaleKeyType;
   slug: string[];
@@ -64,9 +67,13 @@ type ComponentType<P = object> = (props: DeepReadonlyType<P>) => JSXElementType;
 
 type AsyncMetadataComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncMetadataType;
 
+type AsyncImageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncImageType;
+
 type AsyncPageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
 
 type GenerateMetadataType = AsyncMetadataComponentType<PageProps>;
+
+type ArticleImageType = AsyncImageComponentType<ArticlePageProps>;
 
 type ArticlePageType = AsyncPageComponentType<ArticlePageProps>;
 
@@ -91,6 +98,7 @@ type UtilityGenerateStaticParamsType = () => Promise<UtilityGenerateStaticParams
 export type {
   ArticleGenerateMetadataType,
   ArticleGenerateStaticParamsType,
+  ArticleImageType,
   ArticlePageType,
   ComponentType,
   ConditionalPickType,

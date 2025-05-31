@@ -1,8 +1,7 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ComponentType, ConditionalPickType } from '@/types/components';
-import type { ArticleProps } from './article/types';
+import type { ComponentType } from '@/types/components';
 
-type ArticlesListProps = ConditionalPickType<ArticleProps, 'readArticle'> & {
+type ArticlesListProps = {
   articles: {
     createdAt: Date;
     description: string;

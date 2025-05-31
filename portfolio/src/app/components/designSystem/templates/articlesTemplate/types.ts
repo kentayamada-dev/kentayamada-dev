@@ -1,7 +1,15 @@
-import type { ArticlesListProps } from '@/components/designSystem/molecules';
+import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ComponentType } from '@/types/components';
 
-type ArticlesTemplateProps = ArticlesListProps & {
+type ArticlesTemplateProps = {
+  articles: {
+    createdAt: Date;
+    description: string;
+    slug: string;
+    title: string;
+  }[];
+  articlesHref: string;
+  locale: LocaleKeyType;
   title: string;
 };
 

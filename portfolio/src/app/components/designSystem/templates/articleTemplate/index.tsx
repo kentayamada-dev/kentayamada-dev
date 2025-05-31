@@ -1,4 +1,4 @@
-import { ArticlesList } from '@/components/designSystem/molecules';
+import { ArticleLink } from '@/components/designSystem/molecules';
 import { Article } from './article';
 import type { ArticleTemplateType } from './types';
 
@@ -15,7 +15,20 @@ const ArticleTemplate: ArticleTemplateType = (props) => {
       />
       <div className='mt-20 w-full px-5 sm:px-0'>
         <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{props.articlesListTitle}</h2>
-        <ArticlesList articles={props.articles} articlesHref={props.articlesHref} locale={props.locale} />
+        <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
+          {props.articles.map((article) => {
+            return (
+              <ArticleLink
+                createdAt={article.createdAt}
+                description={article.description}
+                href={`${props.articlesHref}/${article.slug}`}
+                key={article.slug}
+                locale={props.locale}
+                title={article.title}
+              />
+            );
+          })}
+        </div>
       </div>
     </main>
   );

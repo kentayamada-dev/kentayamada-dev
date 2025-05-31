@@ -8,9 +8,9 @@ const NavItems: NavItemsType = (props) => {
       <ul className='flex gap-x-4'>
         {Object.entries(props.items).map(([key, { href, title }]) => {
           return (
-            <li key={key}>
-              <Link href={`/${props.locale}${href}`} legacyBehavior passHref>
-                <CustomLink isActive={props.currentPathname === href} title={title} />
+            <li className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} font-semibold`} key={key}>
+              <Link href={href} legacyBehavior passHref>
+                <CustomLink title={title} />
               </Link>
             </li>
           );

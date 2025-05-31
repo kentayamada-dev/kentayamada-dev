@@ -8,11 +8,11 @@ const navigationItems = (locale: LocaleKeyType): NavigationType => {
   const { navigation } = dictionaries[locale];
 
   return {
-    home: { href: '', icon: HomeIcon, title: navigation.home },
-    articles: { href: '/articles', icon: ArticleIcon, title: navigation.articles },
-    utilities: { href: '/utilities', icon: UtilityIcon, title: navigation.utilities },
-    projects: { href: '/projects', icon: ProjectIcon, title: navigation.projects },
-    contact: { href: '/contact', icon: EmailIcon, title: navigation.contact }
+    home: { href: `/${locale}`, icon: HomeIcon, title: navigation.home },
+    articles: { href: `/${locale}/articles`, icon: ArticleIcon, title: navigation.articles },
+    utilities: { href: `/${locale}/utilities`, icon: UtilityIcon, title: navigation.utilities },
+    projects: { href: `/${locale}/projects`, icon: ProjectIcon, title: navigation.projects },
+    contact: { href: `/${locale}/contact`, icon: EmailIcon, title: navigation.contact }
   } as const;
 };
 /* eslint-enable sort-keys*/

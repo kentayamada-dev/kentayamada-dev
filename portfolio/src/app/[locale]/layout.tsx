@@ -5,6 +5,7 @@ import { Providers, RootTemplate } from '@/components/designSystem/templates';
 import { envClient } from '@/constants/env';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
+import { navigationItems } from '@/constants/navigation';
 import type { LayoutGenerateStaticParamsType, LayoutPageType } from '@/types/components';
 // eslint-disable-next-line import/no-unresolved
 import 'katex/dist/katex.min.css';
@@ -21,13 +22,12 @@ const Layout: LayoutPageType = async (props) => {
   const currentYear = new Date().getFullYear();
   const { locale } = await props.params;
   const { myName } = dictionaries[locale];
-  const homepageUrl = `/${locale}`;
 
   return (
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
         <Providers>
-          <RootTemplate author={myName} copyrightYear={currentYear} homepageUrl={homepageUrl} locale={locale}>
+          <RootTemplate author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale}>
             {props.children}
           </RootTemplate>
         </Providers>

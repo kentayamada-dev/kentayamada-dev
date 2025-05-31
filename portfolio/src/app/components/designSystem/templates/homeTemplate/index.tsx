@@ -11,7 +11,7 @@ const HomeTemplate: HomeTemplateType = (props) => {
         <Intro paragraph={props.paragraph} subtitle={props.subtitle} title={props.title} />
       </div>
       <div className='order-3 md:order-3 md:col-span-3'>
-        <ArticlesList articles={props.articles} articlesHref={props.articlesHref} locale={props.locale} readArticle={props.readArticle} />
+        <ArticlesList articles={props.articles} articlesHref={props.articlesHref} locale={props.locale} />
       </div>
       <div className='order-1 self-center md:order-2 md:col-span-2'>
         <div className='h-40 sm:h-56'>

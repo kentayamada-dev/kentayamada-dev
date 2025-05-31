@@ -1,11 +1,11 @@
-import articleStory from './article/index.stories';
+import { articleLinkStory } from '@/components/designSystem/molecules';
 import { ArticlesList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { ...articleStory.argTypes },
+  argTypes: { ...articleLinkStory.argTypes },
   args: {
-    ...articleStory.args,
+    ...articleLinkStory.args,
     articles: [
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),

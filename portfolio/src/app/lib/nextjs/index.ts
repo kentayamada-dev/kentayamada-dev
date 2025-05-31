@@ -1,27 +1,24 @@
+import { size } from 'app/[locale]/articles/[articleId]/opengraph-image';
 import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import type { Metadata } from 'next';
 import type { OpenGraphType } from 'next/dist/lib/metadata/types/opengraph-types';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-const getCommonMetadata = (
-  myName: string,
-  siteName: string,
-  description: string,
-  title: string,
-  coverImage: { alt: string; url: string }
-): Metadata => {
+const OPENGRAPH_IMAGE_PATH = '/opengraph-image';
+
+const getCommonMetadata = (myName: string, siteName: string, description: string, title: string, coverImageUrl: string): Metadata => {
   return {
     description,
+    metadataBase: new URL(envServer.SITE_URL),
     openGraph: {
       description,
       images: [
         {
-          alt: coverImage.alt,
-          height: 630,
-          secureUrl: coverImage.url,
-          url: coverImage.url,
-          width: 1200
+          height: size.height,
+          secureUrl: coverImageUrl,
+          url: coverImageUrl,
+          width: size.width
         }
       ],
       siteName,
@@ -33,8 +30,7 @@ const getCommonMetadata = (
       creator: myName,
       description,
       images: {
-        alt: coverImage.alt,
-        url: coverImage.url
+        url: coverImageUrl
       },
       site: siteName,
       title
@@ -48,15 +44,12 @@ const getMetadataObject = (
   locale: LocaleKeyType,
   description: string,
   title: string,
-  coverImage: {
-    alt: string;
-    url: string;
-  },
+  coverImageUrl: string,
   modifiedTime: Date,
   publishedTime: Date
 ): Metadata => {
   const { myName, siteName } = dictionaries[locale];
-  const commonMetadata = getCommonMetadata(myName, siteName, description, title, coverImage);
+  const commonMetadata = getCommonMetadata(myName, siteName, description, title, coverImageUrl);
 
   return {
     ...commonMetadata,
@@ -66,23 +59,15 @@ const getMetadataObject = (
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
-      url: `${envServer.SITE_URL}/${locale}${path}`
+      url: `${envServer.SITE_URL}${path}`
     }
   };
 };
 
-const getNotFoundMetadataObject = (
-  locale: LocaleKeyType,
-  description: string,
-  title: string,
-  coverImage: {
-    alt: string;
-    url: string;
-  }
-): Metadata => {
+const getNotFoundMetadataObject = (locale: LocaleKeyType, description: string, title: string, coverImageUrl: string): Metadata => {
   const { myName, siteName } = dictionaries[locale];
 
-  return getCommonMetadata(myName, siteName, description, title, coverImage);
+  return getCommonMetadata(myName, siteName, description, title, coverImageUrl);
 };
 
-export { getMetadataObject, getNotFoundMetadataObject };
+export { OPENGRAPH_IMAGE_PATH, getMetadataObject, getNotFoundMetadataObject };

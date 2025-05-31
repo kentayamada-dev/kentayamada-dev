@@ -1,5 +1,4 @@
-export { ArticlesList } from './articlesList';
-export type { ArticlesListProps } from './articlesList/types';
+export { ArticleLink } from './articleLink';
 export { NotFound } from './notFound';
 export { ProjectsList } from './projectsList';
 export type { ProjectsListProps, ProjectsListType } from './projectsList/types';
@@ -7,6 +6,6 @@ export { Switcher } from './switcher';
 export type { SwitcherProps } from './switcher/types';
 export { UtilitiesList } from './utilitiesList';
 export type { UtilitiesListProps, UtilitiesListType } from './utilitiesList/types';
-export { default as articlesListStory } from './articlesList/index.stories';
+export { default as articleLinkStory } from './articleLink/index.stories';
 export { default as projectsListStory } from './projectsList/index.stories';
 export { default as utilitiesListStory } from './utilitiesList/index.stories';
