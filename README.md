@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20fd5e0efc42f87dcc5fdf1d16269f9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bccc3ee312becaa819111edca119e80f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8862076791dd41df078eecfa67c048dd768b97e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000092-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=736&ch=736&exp=10800&fmt=webp> 大谷翔平＆ジャッジ、HR競演に「台本あり」MLBに両軍の公式Xも大盛り上がり「大谷から5三振だよ」メッツファンは横からマウント投稿
+      <a href=https://news.yahoo.co.jp/articles/49ad9f3f2fb74926bc8399447c258dc2cf0002b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01764789-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督、マルチHRの大谷翔平を激賞　ジャッジとの競演は「エキサイティング」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99981181ac5ac3df43e1fdd39e7e5acbe5079779>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000204-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=672&ch=672&exp=10800&fmt=webp> 小嶋陽菜　卒業後初AKBシングルは衣装で“雪辱”　卒業シングルは「プロレスラーの衣装だった…」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a9a1955af82439dd0ba885969137f4fd4fe095a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35233682-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の取引、確定はまだとトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8325293929514b12f6833917eb7174a5ee334684>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311108-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース大谷翔平の２２号ボールは１４歳野球少年の手に…大谷から“２球目”のゲット、意外な１球目の入手方法は
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540690>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/minamiryuta/02229765/title-1748595669552.jpeg?exp=10800> 苦しい家計 ライフライン支援続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540667>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 職場の熱中症死傷者 昨年は最多
       </a>
@@ -426,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d0b1552b9a191ee78d84f674e664e0bab1be7e6980c7677969019c78f5faff59.jpg> 女子大に極右乱入 韓国の男女対立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3f7bc16eeacd1100aa1e6fc44909e2f32aea30665a90a622ac974192603be704.jpg> 武蔵小杉タワマン 地元住民の思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/400b129866147e87bd0f457c59e2fa79faa0387f4ac04896491d90b502238645.jpg> ズワイガニ大量発生 激変する海
+      <a href=https://news.yahoo.co.jp/pickup/6540689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/400b129866147e87bd0f457c59e2fa79faa0387f4ac04896491d90b502238645.jpg> オオズワイガニ大量発生 激変の海
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/1bc2d3f474b5f5b5f7d593c901bfeb0dcb676b862a558fd18719b291fbd4f9dc.jpg> 大谷が22号豪快弾 1試合に2発目
+      <a href=https://news.yahoo.co.jp/pickup/6540687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/83df6ff2da75873412ed72f5ee0ba70117f9279bbdf17acbb34e983080e1f710.jpg> 大谷「良いゲームだった」圧巻2発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/64c963b6ce69c343b149192c40e64e445957252162cc9893281604c40f76f2c9.jpg> AKB48新曲 前田敦子らOG4人参加
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 14:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 15:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
