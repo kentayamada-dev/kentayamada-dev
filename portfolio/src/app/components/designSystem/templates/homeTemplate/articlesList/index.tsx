@@ -13,7 +13,7 @@ const ArticlesList: ArticlesListType = (props) => {
   const isInView = useInView(ref, { once: true });
 
   return (
-    <div className='flex flex-col gap-y-10'>
+    <div className='flex flex-col gap-y-10' ref={ref}>
       {props.articles.map((article, index) => {
         return (
           <motion.div
