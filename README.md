@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/623a6b15740eb39e81f3b2b0aa359aec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03f3cbb4ddea1a9f4bcab319048e8ccc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b84bca81ab9c570a326b43a6c6883dbe161239f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00542650-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、衝撃21＆22号で達成したドジャース新記録　ジャッジの前で74年ぶり更新「22/57」と驚異的ペースに
+      <a href=https://news.yahoo.co.jp/articles/391fd56f12c3c4b1d5f0aab27a4920b1fc3085e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00542617-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷に2発食らったヤンキース選手の“リアクション”に視線集中　「いい顔」「ショックだったろうな」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 06:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 06:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
