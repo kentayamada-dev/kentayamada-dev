@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77dc39b9b0e78429900724b4a2c28d9e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/273c6cb868cc9b05095b7caa280c0b30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4c79c5c743b6899b8db127c52ed1f964c7f7be22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6851ca7e200beeca8c3bd53a365dd3a5d4a3238>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050174-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ＵＳスチール地元でトランプ氏「偉大なパートナー」と日鉄との提携歓迎…具体的枠組みには言及せず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
       </a>
     </td>
   </tr>
@@ -427,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3efb2729d4fe97aa793fc0b9685546e7f5dd89a893ad580c5e043319f6f30616.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9b96aea52b8a70d195b430d5935a71d0c6dadaaf5aecdaaaf05e7dcf5b1e1b07.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 00:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 01:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
