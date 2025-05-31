@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/500e62de4cfef13f7abe706c88c66cbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68c32b4103aa4881b7c707fa92e00202.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5aa57cf89834025dda25beadb09c4fad1096b3e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000372-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=907&ch=907&exp=10800&fmt=webp> ヒカル、進撃のノアとの“0日婚”にネット「ええええ！！」「釣りじゃないの？」「まさか結婚するとは…」
+      <a href=https://news.yahoo.co.jp/articles/b2cbcedb7fc299aa3b8fa2c8fd4fda263a48d8d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=379&ch=379&exp=10800&fmt=webp> 中谷防衛相がヘグセス米国防長官と会談、「防衛費増額」要求の有無は明らかにせず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eccf75e47a895099391701b73a42816dd28335df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949412-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 徳島県で最大震度2の地震　徳島県・美波町
+      <a href=https://news.yahoo.co.jp/articles/09345596654c0d484001574126067b8d4095afeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05366874-jrt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 美波町で震度２　四国沖を震源とする地震【徳島】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5225ec7032f3d14130fe2167735f957ba4076038>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00542682-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷22号で撮られた1枚に絶賛の嵐　ヤ軍無双エース粉砕の構図が「なんて美しいんだ」「ルーブルに飾れ」
+      <a href=https://news.yahoo.co.jp/articles/69872ce76b10c957634e7ddb908f89794cae3f65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181248-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=664&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 「あのシンカーを打つとは」大谷翔平、悪夢の先頭打者弾にヤ軍無敗左腕が“確信拒否”！？振り返らなかった衝撃シーン…Xで一時トレンドも
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/56e6d6ab9b36cb48b0b2dc095deb5b278af2b9fa1ccf384fad4287ccee51f54c.jpg> 野村元農相 コメ巡り小泉氏に苦言
+      <a href=https://news.yahoo.co.jp/pickup/6540723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/24dd69dcf7f527ea977db4deacab7b9a7afd89c62daef5a3fee8c737e700d328.jpg> 新潟水俣病 見えない被害の全容
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/236fbc4e3714c9ec9488dda55dc93eb763951f003c76e2d833fa1ff311eccfee.jpg> 台風1号ないまま6月へ 今夏予想は
+      <a href=https://news.yahoo.co.jp/pickup/6540715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/56e6d6ab9b36cb48b0b2dc095deb5b278af2b9fa1ccf384fad4287ccee51f54c.jpg> 野村元農相 コメ巡り小泉氏に苦言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 20:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 21:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
