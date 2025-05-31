@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3ce0173df0667a073479fd19db8920e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0da6c8064ae8f420b70fa31e5285ee96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/031cbd4a56a9361f0e6b884582be6337113c4a29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000056-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 大谷、追撃の2発　月間球団記録に並ぶ―米大リーグ・ドジャース
+      <a href=https://news.yahoo.co.jp/articles/f983c62ffcc513af25fcde9238f425b9401b4ec7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000128-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 元モー娘。の鞘師里保、avex traxからメジャーデビュー 「過去が宝物。過去があって今の私がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06a141e8d951e7cac4ef9a1582a7c19264ef1a0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02184379-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ジャッジが先制の“豪快弾”にダイビングキャッチ披露　ドジャース相手に攻守で躍動もヤンキースは逆転負け
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/effecb9a18d66ada2d6c99957365d28ea8088949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010017-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ベッツ、骨折の原因は「暗闇でのトイレ」　靴すら履けぬ離脱理由に本人は嘆きも、ド軍は長期離脱回避で安堵か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e2d7e16632edbecf9dabfc116c53bcd4d5361b78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000027-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ住民の「100％が飢餓の危機」 国連
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000027-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ住民の「100％が飢餓の危機」 国連
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/630033b23c6d93ab43dcca8e5983bd1ea6a40c10e456f2d6b1383ee0938da30c.jpg> 漏洩巡る斎藤知事の主張矛盾 解説
+      <a href=https://news.yahoo.co.jp/pickup/6540681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/148350c785f58975742975fcc15cb92d65bbd28a5f806e3c1d0f820ce730b743.jpg> 西田氏 ひめゆり発言の正当性主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/c0a26ceafc3c489c92be1edbc02b9d1597329197d661f028c46a657ce8fcde8d.jpg> マスク氏 大統領選中に薬物使用か
+      <a href=https://news.yahoo.co.jp/pickup/6540701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3ba82ee369328e356eae53c29e653b61cfcb3c5c406e4bf55f721ef4b77481e3.jpg> 信組不正 ハンマーでPCを破壊か
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/13c66c7e8b8def1ab579392d92e1a88d95692fe6f1f5875628c8f0dd7f02e4ea.jpg> ヒバゴン 謎の類人猿に再び注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540695>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/9d2741cd405b2f966d34cfe31b0aa78a8b0ee6487adf003e4f141a1928b1d93b.jpg> 大谷のHRで破片散る 持ち帰る客
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/efe8d28109db7d1318e33bb7cf226c947dc4c4bea741d807be85111e8c72bbca.jpg> DJ KOO 不調原因は薬アレルギー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 16:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 17:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
