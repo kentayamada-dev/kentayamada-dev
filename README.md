@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ccd98893bc0a8d76251e40f9e9f56be2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22f3721dc3e7638ce7f81c84aee820ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68e2dcc41620dcbe6f51b0626b43039174de238b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01764828-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「期待を裏切ることはない」　同僚には“当然”の光景「集中するだけ」
+      <a href=https://news.yahoo.co.jp/articles/537b23c2190aacebdde369fdef48e6758d855d65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097336-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平こそ“MLB最強スラッガー”　進化する偉才に米断言「ジャッジやフアン・ソトが野球界最高の打者だと思っている人間がいるのが不思議だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd6ea5b387b3f5c56be1afcae62cacfbed00c9a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010003-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=464&ch=464&exp=10800&fmt=webp> 随意契約備蓄米の店頭販売始まる　長蛇の列、即完売も
+      <a href=https://news.yahoo.co.jp/articles/a4094dca4c28827124f60d1a783e9c395082895a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000044-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 USスチール買収“承認していない”「鉄鋼関税50％に倍増」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e27c856d850003ac328d29a04f8b8a2818cb19b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000042-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米 店頭販売始まる　「5kg2160円」の安さに長蛇の列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02a563840129c4817e33186257000445819ae9b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000056-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 高速道路で3台からむ事故　9人搬送、2人意識不明　島根県出雲市
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bc07e6b811f706506d035b5bc9ce2b41e1539e5f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 北海道で震度4　震源地は釧路沖　津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c334bb39826b61d833bb8adb324dbd7927b75598>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240078-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「中国の台湾侵攻は壊滅的な結果に」米・ヘグセス国防長官　同盟国などに“防衛費増額”求める　アジア安全保障会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/038335feab4168679a535d50a525d856bfb61e66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=1328&ch=1328&exp=10800&fmt=webp> ガザ人道危機巡り、制裁も検討　フランスなどがイスラエルを非難
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c61f8910827867cbc9185495d4b8586ef4dad1ab500cdd9d4206a2631ba9b78.jpg> 米長官 台湾統一念頭に強い危機感
+      <a href=https://news.yahoo.co.jp/pickup/6540717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/236fbc4e3714c9ec9488dda55dc93eb763951f003c76e2d833fa1ff311eccfee.jpg> 台風1号ないまま6月へ 今夏予想は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3ba82ee369328e356eae53c29e653b61cfcb3c5c406e4bf55f721ef4b77481e3.jpg> 信組不正 ハンマーでPCを破壊か
+      <a href=https://news.yahoo.co.jp/pickup/6540720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8086921f07774e17f54acdb92cf73e78f06225cb3aa4c4063d8a581cfd24c61a.jpg> 対向車が衝突か 1人死亡1人重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 19:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 19:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
