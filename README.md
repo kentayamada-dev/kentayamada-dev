@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d34f2a997768e81ba142e61a61043d6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/547fdcd1e303adf0fc0f95467b7057bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cdde9a49c7e3d6e91b13fd9204e01cc6ec1892a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050179-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「２０００円」の備蓄米、あっという間に…当面は品薄継続か・店舗では整理券配布に工夫も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6938dab551049dd7b015b57fec4bf0dfcd48fddb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000069-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 容疑者「記憶にないから分からない」　佐賀・福祉施設職員切りつけ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050179-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「２０００円」の備蓄米、あっという間に…当面は品薄継続か・店舗では整理券配布に工夫も
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d0a78d845cc4fcaf881ca18c3e378d906be14ae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181266-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…？ 大谷翔平にメッタ打ちで“イライラ”「そりゃそうなる」 “2発被弾”した敵軍投手の様子がおかしくなる「完全にトラウマ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c79c5c743b6899b8db127c52ed1f964c7f7be22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-02922835-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 少年野球チームの送迎バスが歩道橋などの防護桁に衝突　中学生8人ケガ　兵庫・宝塚市
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2486f9b0bc3e4bff732c7b9b2fd75609b172a9b59907f25b6b756d52cd5d0f18.jpg> 日米 サイバー連携強化で一致
+      <a href=https://news.yahoo.co.jp/pickup/6540738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/41aee4feeda974e592a66d150ab0501462a3f1c202ffb48715e872593b8f73f9.jpg> 露の極東で2回爆発 ウ「作戦」か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/82a960c20f175b0dd3a6f6b3043eb96f70b8a82b5d5bf0d0e2a4e84a650ff62d.jpg> USS従業員ら 日鉄との連携を歓迎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7507f9409b270bb80ee87bb04a6f0b442e94ef4022df1e020740a4d3f9a0af58.jpg> ガザ全住民が飢餓の危機 国連警告
+      <a href=https://news.yahoo.co.jp/pickup/6540730>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー兵士らが捕虜処刑 非難
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/afd9b3e34f6c441d728679b6cf96158707a09627980c328b4d4b0917251bc3f3.jpg> 消費者に変化 感謝される米農家
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540731>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c4a781ad1d6b73797d464e2a2c79125d55d34e13ea89492c68df93ef7d02767.jpg> ずっと不幸だった 79歳で離婚相談
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 23:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 23:52:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
