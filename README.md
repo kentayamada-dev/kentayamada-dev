@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff7ffdbee1bbdea1228d819f5194794e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a10033bed26c484bb68c1646c335ab55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2a22f703ed419f5913f711e3c3b2768c26c344d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181251-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=583&cy=0&cw=1232&ch=1232&exp=10800&fmt=webp> ジャッジ唖然！大谷翔平、22号弾が頭上を通過…“ムーンショット弾”に決死のジャンプ「ジャッジ越え弾」の光景話題に
+      <a href=https://news.yahoo.co.jp/articles/dc27f9b5664ea55cfff473beeeb3fd13fe539b0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181288-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=800&ch=800&exp=10800&fmt=webp> バチバチだな…！大谷翔平、やられたら“やり返す”… 被弾直後にジャッジが一瞬見せた“表情”が話題に「漫画かよ」「バケモノの競演」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d669eea0c1a303ec967add861a19b889fa5412a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10542590-baseballk-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 千賀滉大、7回途中2失点で6勝目　17打者連続アウトの快投で防御率1.60、山本由伸抜きリーグトップ再浮上！
+      <a href=https://news.yahoo.co.jp/articles/fafb5723db06ea4d6a2365dc7e9d060c5fea75f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949609-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度1の地震　青森県・八戸市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73001f6eb1bd31b10e92487e3b26c90f1c5b1814>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00804669-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> JO1鶴房汐恩、オンラインカジノ利用で10日間活動自粛「生きざまで信頼を取り戻す」…ネット上では賛否の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44b56612d2f0b03983235df846ebceb3b14fdbb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000009-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 職場の熱中症対策、1日から義務化　罰則付き、企業の準備進む
       </a>
     </td>
   </tr>
@@ -402,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/cc132c6baedb1d84fdc113e68e9aebe38433059235131cbb73dc5bbcfeeb3dcb.jpg> 教習所でバイク事故 29歳女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c54b4eb3b2974e9e630c31cc052b908fa57aa508e924d7f01e59fd0d55d66639.jpg> 1歳死亡 目を離した隙に溺れたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9ca3c12a3b31c7d1aaaaf0739e38d05e9f2325f15dbc4332087ed2b22771a9fa.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1f58700debf42901625638177adb0ba81be1ba60b7978f8539116ebccab91b05.jpg> ゴンドラ訓練中に男性転落 搬送
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 08:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 08:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
