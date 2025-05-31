@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45d25d10e054aeb55820dc009e6194f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb1282d0a1aa5319b50246499aff6fdf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f694041726a5ede34d87dea4311e52e67e102b8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000015-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 備蓄米“前倒し販売”企業も　専門家が懸念「流通格差を助長するような契約結果」
+      <a href=https://news.yahoo.co.jp/articles/e05ed97f38c3fed2d482d5f4b45fb4445a746daf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010001-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米“古古古米”中小スーパーなどの申請受け付け開始　小泉農水相「広く多くの人に届ける」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00a664307d5e4ff6f5ad6e1718d290069a3f6d83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310138-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> ドジャース救援右腕フィリップスがトミー・ジョン手術決定でシーズン終了　今季無失点と好投
+      <a href=https://news.yahoo.co.jp/articles/c920101ee23f2d7d9305e5f86fde4cc26a2bf827>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000008-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1158&ch=1158&exp=10800&fmt=webp> ドジャースの救援右腕がトミー・ジョン手術で今季終了　ロバーツ監督「非常に残念」　30日にはディアス獲得
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/21842996815a2e7ead1f25fd61ad99a76f90b2ff2a2863f2ca2b55e3f12f47f1.jpg> 類例ないほど悪質 いわき信組不正
+      <a href=https://news.yahoo.co.jp/pickup/6540637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ee910caa9aa78749bec026ca57025efe774311e4bcf743f916223071662b0717.jpg> いつまでも大好き 盲導犬との別れ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540651>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ピットブル徘徊 飼い犬をかみ殺す
+      <a href=https://news.yahoo.co.jp/pickup/6540652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/f2432b9ca82216977814601fc93c8ca92f57eb3a5914032510beebf5ae235319.jpg> 外資ホテル建設停止 ニセコの今
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/364f093a9aaec15915c3669568b78779d55eb71a9d3d369396a4b1be0825fedf.jpg> Dr.コトーロケ地 医師不在の危機
+      <a href=https://news.yahoo.co.jp/pickup/6540651>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ピットブル徘徊 飼い犬をかみ殺す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 10:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 10:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
