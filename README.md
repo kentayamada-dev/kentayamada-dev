@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c63f82adc7a71ef078106de6e89f7c3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4049ad906f4c539ecad7e3244dab7653.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c412c087cde6719cda02b1fffb4aca9a5b5175e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050180-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 佐賀で児童福祉施設の職員が切りつけられ死亡…女を殺人未遂容疑で現行犯逮捕
+      <a href=https://news.yahoo.co.jp/articles/6938dab551049dd7b015b57fec4bf0dfcd48fddb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 容疑者「記憶にないから分からない」 佐賀・福祉施設職員切りつけ　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d0a78d845cc4fcaf881ca18c3e378d906be14ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181266-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…？ 大谷翔平にメッタ打ちで“イライラ”「そりゃそうなる」 “2発被弾”した敵軍投手の様子がおかしくなる「完全にトラウマ」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6851ca7e200beeca8c3bd53a365dd3a5d4a3238>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050174-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ＵＳスチール地元でトランプ氏「偉大なパートナー」と日鉄との提携歓迎…具体的枠組みには言及せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3015e3621fc67a330353b209f15ca7831b0cbae7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 1試合2発で今季22号＆月間15本到達！ 初回ジャッジとのホームランの打ち合いに「すぐに取り返すというのは大事」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7507f9409b270bb80ee87bb04a6f0b442e94ef4022df1e020740a4d3f9a0af58.jpg> ガザ全住民が飢餓の危機 国連警告
+      <a href=https://news.yahoo.co.jp/pickup/6540737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/82a960c20f175b0dd3a6f6b3043eb96f70b8a82b5d5bf0d0e2a4e84a650ff62d.jpg> USS従業員ら 日鉄との連携を歓迎
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba64a11f39d0860b02091d4fd2c6d89fc8b6255386b22677b4623db284481381.jpg> 町のコメ店向け備蓄米 受付休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6540703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7507f9409b270bb80ee87bb04a6f0b442e94ef4022df1e020740a4d3f9a0af58.jpg> ガザ全住民が飢餓の危機 国連警告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 22:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 23:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
