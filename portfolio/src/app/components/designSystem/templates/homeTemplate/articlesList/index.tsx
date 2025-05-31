@@ -1,7 +1,8 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ArticleLink } from '@/components/designSystem/molecules';
+// eslint-disable-next-line capitalized-comments
+// import { ArticleLink } from '@/components/designSystem/molecules';
 import type { ArticlesListType } from './types';
 
 const ANIMATION_DELAY = 1;
@@ -23,13 +24,13 @@ const ArticlesList: ArticlesListType = (props) => {
               ease: 'easeOut'
             }}
           >
-            <ArticleLink
+            {/* <ArticleLink
               createdAt={article.createdAt}
               description={article.description}
               href={`${props.articlesHref}/${article.slug}`}
               locale={props.locale}
               title={article.title}
-            />
+            /> */}
           </motion.div>
         );
       })}
