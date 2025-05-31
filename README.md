@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51175744c789e3f20cd50fc3b8326004.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c30d2624806f866defb7b4c7b12f0595.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90969d82b9b2fae82d0521dfd3b999bdeddd68e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-35311804-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ヤンキース・ジャッジ「打った瞬間はキャッチできると」自身の頭上越えた大谷弾に舌巻く
+      <a href=https://news.yahoo.co.jp/articles/4a86099c3d74cebcef00a1f26cf87772ecc47b0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「デジャブだ！」ドジャース戦で“悪夢が蘇る逆転負け...”　NYメディアから嘆き、落胆の声「ワールドシリーズと同じような結末」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dfeddd237a804e802222afff75e38bc123ff577>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980358-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山陰道で車3台絡む事故 9人搬送　女性1人死亡、小学生1人が意識不明の重体　島根・出雲市
+      <a href=https://news.yahoo.co.jp/articles/98466326d817013dfe08f215515dc1a4f29e65b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07240121-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 島根・山陰道で車3台衝突 9人搬送、女性が死亡 7歳男児が意識不明の重体 3人が重傷
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 05:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 05:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
