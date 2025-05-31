@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22628abdf1e330b4a33ec712bda5c991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e50fa20cf074dfd92c37b9c625a08f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92cb6e5fb7e008beca5d1049388457ad2276b1fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097329-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「勢いがとまらない...」大谷翔平が２発の大暴れ！ジャッジの頭上を越える“豪快22号”に列島騒然「また打ったの？」「なんちゅう試合や！」
+      <a href=https://news.yahoo.co.jp/articles/7dee1e835d671f5e175532cdd6e7b0d34c600f35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097330-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「もはやMVPは確実か」大谷翔平の“豪快22号”にLA記者も仰天！年間62本塁打ペースの快進撃「本塁打でジャッジに３本差をつけて独走状態に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16965400d7235c8d715c077c3e30507dbbe4c221>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000385-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 田中瞳アナ、6月で『モヤモヤさまぁ～ず2』卒業　6年間出演…涙ながらに報告
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c83ebbb709caf4d3d42fec57b1664fbb30b6ca6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-16093243-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=555&ch=555&exp=10800&fmt=webp> トランプ米大統領、鉄鋼・アルミ関税を50％に倍増へ　日鉄のUSスチール買収計画にも言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2de864401bc1ad0f22598bdbc7544cbb5120da04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000053-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=866&ch=866&exp=10800&fmt=webp> テレ東・田中瞳アナ、涙で「モヤモヤさまぁ～ず２」卒業を報告「言葉に表し切れない思いがあふれたときに涙が…」　入社以来６年担当、６月いっぱいで
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8652325e6ad980588c026e49623e3e8189617eafbb4405998e29f1755792ca5e.jpg> チワワ投げ捨てた女性 共生の現実
+      <a href=https://news.yahoo.co.jp/pickup/6540648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/35bae519565a907cd9bcd01da8ef03e38f08ff845faa5cf1e7f279eb40b6bffd.jpg> 釣り客にヒグマ 魚捕れると学習?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/35bae519565a907cd9bcd01da8ef03e38f08ff845faa5cf1e7f279eb40b6bffd.jpg> 釣り客にヒグマ 魚捕れると学習?
+      <a href=https://news.yahoo.co.jp/pickup/6540663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6a2ae49cd11a92df8f1c26aa98371778ae7db560f080d35c8819653ee9617b6b.jpg> 夢実現の22歳 オンライン里親に涙
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/113b17a3ba41e060e28da4eb9e4f1f659b71184a858906b35e215be94eabe348.jpg> 田中瞳アナが涙 モヤさま卒業発表
+      <a href=https://news.yahoo.co.jp/pickup/6540682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/113b17a3ba41e060e28da4eb9e4f1f659b71184a858906b35e215be94eabe348.jpg> 田中瞳アナ 6年奮闘モヤさま卒業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 13:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 14:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
