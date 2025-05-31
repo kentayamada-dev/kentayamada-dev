@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2a471c6297eb93ab69ef12509ce7712.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22628abdf1e330b4a33ec712bda5c991.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a4495d1fb0dc0348023c078ab4075a6cae943d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000164-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 大谷翔平　1試合2発22号！現地実況「ゴーーンヌ！！」大興奮「壮大なショーを見せてくれます」
+      <a href=https://news.yahoo.co.jp/articles/92cb6e5fb7e008beca5d1049388457ad2276b1fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097329-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「勢いがとまらない...」大谷翔平が２発の大暴れ！ジャッジの頭上を越える“豪快22号”に列島騒然「また打ったの？」「なんちゅう試合や！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c83ebbb709caf4d3d42fec57b1664fbb30b6ca6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-16093243-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=555&ch=555&exp=10800&fmt=webp> トランプ米大統領、鉄鋼・アルミ関税を50％に倍増へ　日鉄のUSスチール買収計画にも言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2de864401bc1ad0f22598bdbc7544cbb5120da04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000053-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=866&ch=866&exp=10800&fmt=webp> テレ東・田中瞳アナ、涙で「モヤモヤさまぁ～ず２」卒業を報告「言葉に表し切れない思いがあふれたときに涙が…」　入社以来６年担当、６月いっぱいで
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/404b9852eb05abdd32cf6332e4c0fa3913d8140a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000032-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1613&ch=1613&exp=10800&fmt=webp> ボクシング＝新統括団体、全選手に性別適格性検査を義務化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64462d59d706ccd033002ff1cdf80663df5a58ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日鉄のUSスチール買収　トランプ氏「最終的に私の承認が必要」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/e7aa73b9897ac6cf193e80d135b00d1302c07ef47e171c6c96aa31c80717b842.jpg> 米大統領 USS買収の正式承認まだ
+      <a href=https://news.yahoo.co.jp/pickup/6540672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> 「頭の中に霧」男性の更年期障害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/f9309ed3c6013efbb42c9ed820d2e685717caac0da944c6f4b6ce7dd5ac322df.jpg> 拘禁刑導入へ 刑務官から戸惑いも
+      <a href=https://news.yahoo.co.jp/pickup/6540660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d0b1552b9a191ee78d84f674e664e0bab1be7e6980c7677969019c78f5faff59.jpg> 女子大に極右乱入 韓国の男女対立
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/77b420cd0df2162e178027bc8b30b489c16f47e042d86f8d2d4169279c6f8d1f.jpg> ピットブル徘徊 飼い犬をかみ殺す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540662>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8652325e6ad980588c026e49623e3e8189617eafbb4405998e29f1755792ca5e.jpg> チワワ投げ捨てた女性 共生の現実
       </a>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2a07a32dd020b21e95df43ca388c692db8c030782d2565d0f8417d50a692ceaa.jpg> 朝ドラのパン作る職人 客は倍以上
+      <a href=https://news.yahoo.co.jp/pickup/6540648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/35bae519565a907cd9bcd01da8ef03e38f08ff845faa5cf1e7f279eb40b6bffd.jpg> 釣り客にヒグマ 魚捕れると学習?
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/113b17a3ba41e060e28da4eb9e4f1f659b71184a858906b35e215be94eabe348.jpg> 田中瞳アナが涙 モヤさま卒業発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 13:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 13:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
