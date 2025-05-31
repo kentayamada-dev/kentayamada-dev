@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5336a28942955c89a375b8e40b75ea26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c83c3d26b79296282a6025fdac121b18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2cbcedb7fc299aa3b8fa2c8fd4fda263a48d8d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=379&ch=379&exp=10800&fmt=webp> 中谷防衛相がヘグセス米国防長官と会談、「防衛費増額」要求の有無は明らかにせず
+      <a href=https://news.yahoo.co.jp/articles/189ed93e306e0bf5402ca834b08903fdc17ce5af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 児童福祉施設の職員切りつけられ死亡　殺人未遂容疑で女性逮捕　佐賀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09345596654c0d484001574126067b8d4095afeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05366874-jrt-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 美波町で震度２　四国沖を震源とする地震【徳島】
+      <a href=https://news.yahoo.co.jp/articles/4b5732c299217463f7a657fae7612710c661051a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-01765133-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷に完敗…溢れる“やっちまった”感　真逆の構図に日本ファン凝視「めちゃくちゃ良い絵」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69872ce76b10c957634e7ddb908f89794cae3f65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181248-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=664&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 「あのシンカーを打つとは」大谷翔平、悪夢の先頭打者弾にヤ軍無敗左腕が“確信拒否”！？振り返らなかった衝撃シーン…Xで一時トレンドも
+      <a href=https://news.yahoo.co.jp/articles/3e33e6a7fe9831ae023defb4535ec443898f80b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21949446-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・えりも町、幕別町、十勝大樹町、広尾町、釧路市、標茶町、白糠町、標津町
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/24dd69dcf7f527ea977db4deacab7b9a7afd89c62daef5a3fee8c737e700d328.jpg> 新潟水俣病 見えない被害の全容
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/56e6d6ab9b36cb48b0b2dc095deb5b278af2b9fa1ccf384fad4287ccee51f54c.jpg> 野村元農相 コメ巡り小泉氏に苦言
+      <a href=https://news.yahoo.co.jp/pickup/6540703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7507f9409b270bb80ee87bb04a6f0b442e94ef4022df1e020740a4d3f9a0af58.jpg> ガザ全住民が飢餓の危機 国連警告
       </a>
     </td>
   </tr>
@@ -420,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540729>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba64a11f39d0860b02091d4fd2c6d89fc8b6255386b22677b4623db284481381.jpg> 町のコメ店向け備蓄米 受付休止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b69dbefc8a6e77156396be7d0d375424e19b68a24742f5ab43c7fcd8b13dfc49.jpg> 児童福祉施設で切りつけ 職員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/cc132c6baedb1d84fdc113e68e9aebe38433059235131cbb73dc5bbcfeeb3dcb.jpg> 教習所でバイク事故 29歳女性死亡
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540718>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/dfa73760f198532c274fac47332f3fc7ad87a120ec5e8949f7716e1f896a1ec3.jpg> 即完売の備蓄米 食べた人の感想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/79f51bd34b2a1bfb7183ed4c8cb5e83ce23d1844c3439cdfb12db076255459c6.jpg> 万博の盗難被害 遊び心ある対抗策
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 21:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 22:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
