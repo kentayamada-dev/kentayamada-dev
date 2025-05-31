@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a9ea251b27413c9bb4c83020ed30267.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7311954c60a46b691216b49deeac445.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ec5cb23315f728981a706dc3c9d8c580770589a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980156-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> いわき信用組合の不正融資　“少なくとも247億円”と認定
+      <a href=https://news.yahoo.co.jp/articles/e994d0bfbc8171265a005e41296c95aa3ed993b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 日鉄のUSスチール投資、歓迎　トランプ氏、鉄鋼関税「50％」
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bec0e00ec121eebdaff836f38876fe037519901>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-90026400-oxv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=878&ch=878&exp=10800&fmt=webp> “アイリス備蓄米”に人殺到 仙台で店頭販売開始前に１００人以上 整理券は配布即終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ffc387b02f233a6d32c2f0dd6d427e302c53545>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310086-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=1000&ch=1000&exp=10800&fmt=webp> 【名人戦】藤井聡太名人Ｖ３会見「得るものが多かった」「永世名人を意識する感じではない」
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fe2fd43da764b868854c9d79b004bcc8683cc32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000001-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=773&ch=773&exp=10800&fmt=webp> 中居氏代理人「だまし討ち」第三者委の姿勢を非難　調査対象無断変更、本人も「愕然とした」　改めて資料開示を要求
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/b307b3ef432e0fa3f2103bec47f74ce0aca43b63e923069423de8623cf44ed65.jpg> 日本郵便 出勤で飲酒運転4月19件
+      <a href=https://news.yahoo.co.jp/pickup/6540632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/630d6bac7363a0e63fa7c7973b33c7f63ad308a1aabaaa95a2a73ccffdc21905.jpg> 日本に対ロ修復考える勢力 露報道
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6efacd8a8186fa80cb087adce16aea25b31656b7a2c84b1ab28c637aa72d2469.jpg> 就学猶予経て 493gで誕生の子入学
+      <a href=https://news.yahoo.co.jp/pickup/6540639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba9966d5d7720dccd8bfd7b81b8fa8fb26a9edacdcaa493d9c1733173fb7374b.jpg> 備蓄米販売に人殺到 100人以上列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/13493d6e322af5a4d80e5ec5d1a92da3677b86c8bd4f1a23a54f4c14c8eccd88.jpg> 判定物議 精いっぱいの判断とNPB
+      <a href=https://news.yahoo.co.jp/pickup/6540626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6efacd8a8186fa80cb087adce16aea25b31656b7a2c84b1ab28c637aa72d2469.jpg> 就学猶予経て 493gで誕生の子入学
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 08:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 09:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
