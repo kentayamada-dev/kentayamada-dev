@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e50fa20cf074dfd92c37b9c625a08f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20fd5e0efc42f87dcc5fdf1d16269f9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dee1e835d671f5e175532cdd6e7b0d34c600f35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097330-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「もはやMVPは確実か」大谷翔平の“豪快22号”にLA記者も仰天！年間62本塁打ペースの快進撃「本塁打でジャッジに３本差をつけて独走状態に」
+      <a href=https://news.yahoo.co.jp/articles/8862076791dd41df078eecfa67c048dd768b97e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000092-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=736&ch=736&exp=10800&fmt=webp> 大谷翔平＆ジャッジ、HR競演に「台本あり」MLBに両軍の公式Xも大盛り上がり「大谷から5三振だよ」メッツファンは横からマウント投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16965400d7235c8d715c077c3e30507dbbe4c221>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000385-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 田中瞳アナ、6月で『モヤモヤさまぁ～ず2』卒業　6年間出演…涙ながらに報告
+      <a href=https://news.yahoo.co.jp/articles/6a9a1955af82439dd0ba885969137f4fd4fe095a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35233682-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の取引、確定はまだとトランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c83ebbb709caf4d3d42fec57b1664fbb30b6ca6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-16093243-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=555&ch=555&exp=10800&fmt=webp> トランプ米大統領、鉄鋼・アルミ関税を50％に倍増へ　日鉄のUSスチール買収計画にも言及
+      <a href=https://news.yahoo.co.jp/articles/8325293929514b12f6833917eb7174a5ee334684>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311108-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース大谷翔平の２２号ボールは１４歳野球少年の手に…大谷から“２球目”のゲット、意外な１球目の入手方法は
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/50ad6b0b573defa6b0b0d10d833aa0dc0a538c57939ea24fd5e416d20c72984b.jpg> 備蓄米に未明から列 即完売の店も
+      <a href=https://news.yahoo.co.jp/pickup/6540677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/96726501924c34b18256d3e6f77353352e4239b25bb3e1a35aaec58468d9e898.jpg> 年金法案の通過 与党と立憲に批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> 「頭の中に霧」男性の更年期障害
+      <a href=https://news.yahoo.co.jp/pickup/6540667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 職場の熱中症死傷者 昨年は最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/c0a26ceafc3c489c92be1edbc02b9d1597329197d661f028c46a657ce8fcde8d.jpg> マスク氏 大統領選中に薬物使用か
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/35bae519565a907cd9bcd01da8ef03e38f08ff845faa5cf1e7f279eb40b6bffd.jpg> 釣り客にヒグマ 魚捕れると学習?
+      <a href=https://news.yahoo.co.jp/pickup/6540684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/400b129866147e87bd0f457c59e2fa79faa0387f4ac04896491d90b502238645.jpg> ズワイガニ大量発生 激変する海
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6a2ae49cd11a92df8f1c26aa98371778ae7db560f080d35c8819653ee9617b6b.jpg> 夢実現の22歳 オンライン里親に涙
+      <a href=https://news.yahoo.co.jp/pickup/6540673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/1947d55b23987459efc535810592f0f2c2f44a5094a3de448254209cb666fcf5.jpg> 性別騒動 検査受けるまで出場不可
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/113b17a3ba41e060e28da4eb9e4f1f659b71184a858906b35e215be94eabe348.jpg> 田中瞳アナ 6年奮闘モヤさま卒業
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 14:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 14:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
