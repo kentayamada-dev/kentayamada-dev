@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec12dfb8e41a1b08c092094b6871c467.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45d25d10e054aeb55820dc009e6194f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f694041726a5ede34d87dea4311e52e67e102b8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000015-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 備蓄米“前倒し販売”企業も　専門家が懸念「流通格差を助長するような契約結果」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c61ac193b547b84a671ea3df6369f49af267c1fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、鉄鋼の輸入関税50％に引き上げ表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/00a664307d5e4ff6f5ad6e1718d290069a3f6d83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310138-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> ドジャース救援右腕フィリップスがトミー・ジョン手術決定でシーズン終了　今季無失点と好投
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd8d45bcf0a1aa43a1f6f64c4713a7d55c8744db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 備蓄米の店頭販売開始　2社先陣、5キロ2160円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e994d0bfbc8171265a005e41296c95aa3ed993b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 日鉄のUSスチール投資、歓迎　トランプ氏、鉄鋼関税「50％」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310138-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1189&ch=1189&exp=10800&fmt=webp> ドジャース救援右腕フィリップスがトミー・ジョン手術決定でシーズン終了　今季無失点と好投
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/60439148d020870a29f80a41ae995a380ec00e07994aaa2229fbcf4af5f890b5.jpg> 関税交渉 赤沢氏「合意へ進展」
+      <a href=https://news.yahoo.co.jp/pickup/6540640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/bcb0de6f130d28393c6e0b1096507a073af913728e94d82ab7f1c749d125d7c4.jpg> 選挙が「推し活」化 社会的な背景
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/01ff376ae6c865f50ed66bdd677207b8167f53763f5d16aadacbbf2fcc61fa34.jpg> 川崎遺体 女性の交友関係に不満か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ba9966d5d7720dccd8bfd7b81b8fa8fb26a9edacdcaa493d9c1733173fb7374b.jpg> 備蓄米販売に人殺到 100人以上列
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/08420969ea5639a47452e5b811bd5560965f02d4f845c9846b63720f4ea68994.jpg> 藤井名人 永世名人に「憧れある」
+      <a href=https://news.yahoo.co.jp/pickup/6540651>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ピットブル徘徊 飼い犬をかみ殺す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/364f093a9aaec15915c3669568b78779d55eb71a9d3d369396a4b1be0825fedf.jpg> Dr.コトーロケ地 医師不在の危機
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5406f7ae61218324847f585c0bf6b5db1e11bb977f82906efdaa8400d448168c.jpg> 生死さまよった 團遥香の出産
+      <a href=https://news.yahoo.co.jp/pickup/6540650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5406f7ae61218324847f585c0bf6b5db1e11bb977f82906efdaa8400d448168c.jpg> 8リットル血液失う 團遥香の出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 09:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 10:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
