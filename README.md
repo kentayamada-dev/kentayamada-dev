@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91adbb5cdc3323590771bf2bf91045d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2a471c6297eb93ab69ef12509ce7712.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1763d0d42c31272c68238fb07d4e2137a5b773>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> ヤンキースのジャッジ、初回１９号に続いて千金ダイビングキャッチ…昨秋ワールドシリーズ落球の汚名返上
+      <a href=https://news.yahoo.co.jp/articles/2a4495d1fb0dc0348023c078ab4075a6cae943d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000164-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=825&ch=825&exp=10800&fmt=webp> 大谷翔平　1試合2発22号！現地実況「ゴーーンヌ！！」大興奮「壮大なショーを見せてくれます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f1f0b027511474ffd213161ad06f3afe63ebbed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35310418-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=1000&ch=1000&exp=10800&fmt=webp> 好角家の藤井聡太名人、横綱大の里の誕生「勇気づけられます」V3一夜明けで賞賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc4fd8cf515331940e4b450d5df6f7119027b595>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-11646010-khbv-000-31388585-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ９５袋に約２５０人の行列　アイリスグループの備蓄米販売開始　仙台の店舗で即完売
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/404b9852eb05abdd32cf6332e4c0fa3913d8140a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000032-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1613&ch=1613&exp=10800&fmt=webp> ボクシング＝新統括団体、全選手に性別適格性検査を義務化
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64462d59d706ccd033002ff1cdf80663df5a58ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日鉄のUSスチール買収　トランプ氏「最終的に私の承認が必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba86a06516b1b813a1468172ee2d1910c03ac465>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 藤井聡太名人、一夜明けて心境　深夜の会見後も就寝前に対局振り返り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78bd5ea08eee806f20c122a8248479bd0043e7bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21948654-tbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 「先頭は午前0時」随意契約の備蓄米　先着95人に約250人の列　アイリス系列ホームセンターで販売　仙台
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1212d2cb6024500fac7c203b4d9dd6d29d52b931>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181099-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 再犯率が1/3、休日はお出かけも…ノルウェー式の“塀のない刑務所”日本では効果的なのか？
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/d8eb81752cd739be67bb67a0d2d9ec5993d90dc2fb63e3591b48341b4fbff88b.jpg> ローソン「盛りすぎ」企画 続く訳
+      <a href=https://news.yahoo.co.jp/pickup/6540670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/f9309ed3c6013efbb42c9ed820d2e685717caac0da944c6f4b6ce7dd5ac322df.jpg> 拘禁刑導入へ 刑務官から戸惑いも
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/4542bf2a60d08d10a114beb254fedbc3a96ad963fd623282f8b0cf5f2ba0fe77.jpg> 大谷が21号先頭弾 ジャッジと競演
+      <a href=https://news.yahoo.co.jp/pickup/6540674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/1bc2d3f474b5f5b5f7d593c901bfeb0dcb676b862a558fd18719b291fbd4f9dc.jpg> 大谷が22号豪快弾 1試合に2発目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 12:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 13:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
