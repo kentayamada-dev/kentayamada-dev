@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/824d92ce6a67a55723c74c26e4db9ed7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91adbb5cdc3323590771bf2bf91045d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/830dfe183e3e03067f672f79cc962ceb2aa2f4b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=1149&ch=1149&exp=10800&fmt=webp> ドジャース大谷翔平、驚弾２１号で近代ＭＬＢで史上初の５月中に６０得点達成
+      <a href=https://news.yahoo.co.jp/articles/3b1763d0d42c31272c68238fb07d4e2137a5b773>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-05311071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1152&ch=1152&exp=10800&fmt=webp> ヤンキースのジャッジ、初回１９号に続いて千金ダイビングキャッチ…昨秋ワールドシリーズ落球の汚名返上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc40609d598ce32c0f8fddfe6c32cb942206b12b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240061-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米“夜通し並び”や販売開始前に“売り切れ”も… 「随意契約」分、アイリス傘下やイトーヨーカドーで販売開始
+      <a href=https://news.yahoo.co.jp/articles/64462d59d706ccd033002ff1cdf80663df5a58ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日鉄のUSスチール買収　トランプ氏「最終的に私の承認が必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b9fede01c0d70a2f18ed7fb1a7d2b62ece8c281>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-07240064-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏　「USスチールは米国の会社であり続ける」　日本製鉄による巨額投資を歓迎の一方で
+      <a href=https://news.yahoo.co.jp/articles/ba86a06516b1b813a1468172ee2d1910c03ac465>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 藤井聡太名人、一夜明けて心境　深夜の会見後も就寝前に対局振り返り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ce559fd5a588f84f305dded6edb45798cd8d13f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 ドジャースの救援右腕フィリップスがトミー・ジョン手術　今季絶望＆来季も長期離脱か
+      <a href=https://news.yahoo.co.jp/articles/78bd5ea08eee806f20c122a8248479bd0043e7bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-21948654-tbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 「先頭は午前0時」随意契約の備蓄米　先着95人に約250人の列　アイリス系列ホームセンターで販売　仙台
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d5a523de6f589df616f6dc34da7fcc5512e260a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00865895-number-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「藤井聡太17歳も…初タイトルが10人以上」棋聖戦の“意外と知らない”歴史ウラ話「フジテレビ創業者が熱烈な升田幸三ファンで」
+      <a href=https://news.yahoo.co.jp/articles/1212d2cb6024500fac7c203b4d9dd6d29d52b931>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181099-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 再犯率が1/3、休日はお出かけも…ノルウェー式の“塀のない刑務所”日本では効果的なのか？
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/2fb9e21a8993df3a5802c77a433a2d20d9923411e8c18fc89224f6e5ce044062.jpg> 別姓案 継続審議で参院選の争点か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/8516b23a20d98fce4fcc481c94e269311f863d58dd4058875c7458ddf7b43279.jpg> コメ失言が直撃 落胆する都議候補
+      <a href=https://news.yahoo.co.jp/pickup/6540671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/e7aa73b9897ac6cf193e80d135b00d1302c07ef47e171c6c96aa31c80717b842.jpg> 米大統領 USS買収の正式承認まだ
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/3f7bc16eeacd1100aa1e6fc44909e2f32aea30665a90a622ac974192603be704.jpg> 武蔵小杉タワマン 地元住民の思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540651>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ピットブル徘徊 飼い犬をかみ殺す
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/77b420cd0df2162e178027bc8b30b489c16f47e042d86f8d2d4169279c6f8d1f.jpg> ピットブル徘徊 飼い犬をかみ殺す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 12:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 12:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
