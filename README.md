@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d059e6cb9da9479924a184f5513b14c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3ce0173df0667a073479fd19db8920e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff23cf3fc74a706c69a07ac850f2ab5cf838039f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00097334-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 「本当にとんでもない。63発ペースだ」大谷翔平の21号、22号に米メディアは困惑　怪物との本塁打競争にも熱狂「これにジャッジは応えられるか？」
+      <a href=https://news.yahoo.co.jp/articles/031cbd4a56a9361f0e6b884582be6337113c4a29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000056-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 大谷、追撃の2発　月間球団記録に並ぶ―米大リーグ・ドジャース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9e6e0e46bd96fd8294cf0ac0526d0b37ecb7316>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000047-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=579&ch=579&exp=10800&fmt=webp> これまでにない指し回し　「後手番が課題」の藤井名人が見せた進化
+      <a href=https://news.yahoo.co.jp/articles/26fc5e9e1e53e317314c7b1502bb7a85b61616ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00980241-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【念願】「アイリスオーヤマ」「イトーヨーカ堂」でもついに備蓄米の店頭販売開始…初日は朝から長蛇の列ができ整理券配布すぐ終了に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/effecb9a18d66ada2d6c99957365d28ea8088949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00010017-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ベッツ、骨折の原因は「暗闇でのトイレ」　靴すら履けぬ離脱理由に本人は嘆きも、ド軍は長期離脱回避で安堵か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2d7e16632edbecf9dabfc116c53bcd4d5361b78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000027-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ住民の「100％が飢餓の危機」 国連
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a9a1955af82439dd0ba885969137f4fd4fe095a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-35233682-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の取引、確定はまだとトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b313da9bc6ed73aa4a693ddac6c66b4199951c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-10181201-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 川崎市の交差点でトラックとクレーン車が衝突 1人重傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc4fd8cf515331940e4b450d5df6f7119027b595>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-11646010-khbv-000-31388585-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ９５袋に約２５０人の行列　アイリスグループの備蓄米販売開始　仙台の店舗で即完売
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540697>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/7623e45268d64b834e55353d973d8243fcd7f6518e9d9b2b258d27d025824c47.jpg> 米大統領 日鉄は偉大なパートナー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540690>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/minamiryuta/02229765/title-1748595669552.jpeg?exp=10800> 苦しい家計 ライフライン支援続々
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6d7ee3fd685cf60275f8b259b6f9902ec97fe3dcee8c94085a4f4456fa320bfd.jpg> トラックとクレーン車衝突 重傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/400b129866147e87bd0f457c59e2fa79faa0387f4ac04896491d90b502238645.jpg> オオズワイガニ大量発生 激変の海
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/72869693eeb4b719a7a2454f2fb1f46feaf27dbb669414de63205b3947bd55bb.jpg> キングカズ次男 RIZINで4連敗
+      <a href=https://news.yahoo.co.jp/pickup/6540695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/9d2741cd405b2f966d34cfe31b0aa78a8b0ee6487adf003e4f141a1928b1d93b.jpg> 大谷のHRで破片散る 持ち帰る客
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/83df6ff2da75873412ed72f5ee0ba70117f9279bbdf17acbb34e983080e1f710.jpg> 大谷「良いゲームだった」圧巻2発
+      <a href=https://news.yahoo.co.jp/pickup/6540694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/72869693eeb4b719a7a2454f2fb1f46feaf27dbb669414de63205b3947bd55bb.jpg> キングカズ次男 RIZINで4連敗
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/31 16:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/31 16:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
