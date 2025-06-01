@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c6cee4b7fcb15fd8fbdcbf38af6d7c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e2348896a49b1ea8bcf7a750ecf9d10.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b1141721df09de498e7dc7ce26bcdbbfd1baba2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の術後2度目ライブBP ロバーツ監督「私はホッとしている。かなり進歩している」
+      <a href=https://news.yahoo.co.jp/articles/70b5540d5d38730939a5963c3212951b8e3000a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000150-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 直前の夫婦げんかで、ガソリンに引火した可能性　コンビニに駆け込んだ女性は重いやけど
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6edd0604fd5f31ff22e45c1a067e38e5fc4dfe43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00050114-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領、ロシアとの直接協議に代表団派遣方針…和平合意への条件を双方提示へ
+      <a href=https://news.yahoo.co.jp/articles/6c11221b8c42adf6eebebff3e8acfbdb7cb23496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、2回目の対ロシア和平交渉に代表団派遣を発表　前回に続きトルコで実施へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83ef17756b7ecbd537d2c704574cbae7b442259c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000035-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 【高騰抑制で政府が市場介入】備蓄米放出で“交差する米価と政局”参院選の地熱上昇
+      <a href=https://news.yahoo.co.jp/articles/c251b1dc7644fd4d4dd2266e188e036e5ef446a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011291-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=857&ch=857&exp=10800&fmt=webp> 大谷翔平、投手復帰へ「週１ライブＢＰ」に障壁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3f81e76838e753fcdabb680ff84513847d38dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 夫婦げんか、発電機ガソリン引火し大やけど
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35e357670ba3363f05b0df46eee607d27820c95a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000041-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ガザの支援物資拠点で230人超死傷　イスラエル軍が攻撃か
+      <a href=https://news.yahoo.co.jp/articles/697d8320f6b307e01506926bd578b24b1e9e44c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000036-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「大量殺人の道具に使っている」ガザの支援配給所でイスラエル軍が発砲　31人死亡
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/cf5adb338ba4bbe12df96007bf09796b6d9382cf787449f1a47ffd2ce8686e78.jpg> 備蓄米 農家は今年産への影響懸念
+      <a href=https://news.yahoo.co.jp/pickup/6540864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4cdde18fe6ddce12564d3c164c506b5b7bf4916f7fc1e26712ed3036748507ee.jpg> 露とウクライナ 2日再交渉確実に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4cdde18fe6ddce12564d3c164c506b5b7bf4916f7fc1e26712ed3036748507ee.jpg> 露とウクライナ 2日再交渉確実に
+      <a href=https://news.yahoo.co.jp/pickup/6540861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f29d7c3797f52495523e4b0eda55cd11c06cffd2b90b4b02b497e68663190a75.jpg> 下品な言葉NG 米陸軍部隊で試み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540853>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02231622/title-1748731620752.jpeg?exp=10800> 精米を撤去 商慣習への識者の疑問
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 低緯度オーロラ みんなのX投稿
+      <a href=https://news.yahoo.co.jp/pickup/6540868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/55a36fd1f19622d272d5dd78fab0a5a6aaae93b924195151bad9969bfa037afd.jpg> ハヤヤッコ競走中止 命の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/8675f76af0d4e30bd58ada2d965623b817e0ebab87f274dad63497fd345c4211.jpg> ラグビー 優勝後に公開プロポーズ
+      <a href=https://news.yahoo.co.jp/pickup/6540865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3103f1d082e0c7323915300a7e06fce6b1f0aac94b326b0c3c8429385a168f68.jpg> 亀梨が青春アミーゴ踊る ファン涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 23:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 23:52:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
