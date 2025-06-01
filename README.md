@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c30d2624806f866defb7b4c7b12f0595.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3ee9fd5f98960c7a502fa6389128594.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a86099c3d74cebcef00a1f26cf87772ecc47b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「デジャブだ！」ドジャース戦で“悪夢が蘇る逆転負け...”　NYメディアから嘆き、落胆の声「ワールドシリーズと同じような結末」
+      <a href=https://news.yahoo.co.jp/articles/549f9946ae83d4175190c80ca3f3bf6a163fcc83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=1752&ch=1752&exp=10800&fmt=webp> 大谷翔平　爆勝口火打　２戦連続１９度目マルチで５月締め　ド軍、今季最多２１安打１８点　手術後２度目のライブＢＰ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98466326d817013dfe08f215515dc1a4f29e65b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07240121-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 島根・山陰道で車3台衝突 9人搬送、女性が死亡 7歳男児が意識不明の重体 3人が重傷
+      <a href=https://news.yahoo.co.jp/articles/73c3b8d45b3d618d4179b32e2d7dc6953338300f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021002-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩが体調不良のため世界ツアー４公演を欠席　公式サイトで発表
       </a>
     </td>
   </tr>
@@ -378,64 +378,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/41aee4feeda974e592a66d150ab0501462a3f1c202ffb48715e872593b8f73f9.jpg> 露の極東で2回爆発 ウ「作戦」か
+      <a href=https://news.yahoo.co.jp/pickup/6540869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/13adc3eb2367defa24b02a7f24325d3eec0a2b101f7b03d53824d06d3918e3e6.jpg> 石破内閣支持率34.6%に上昇 JNN
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540730>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー兵士らが捕虜処刑 非難
+      <a href=https://news.yahoo.co.jp/pickup/6540864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4cdde18fe6ddce12564d3c164c506b5b7bf4916f7fc1e26712ed3036748507ee.jpg> 露とウクライナ 2日再交渉確実に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/5b6b0595d4fc7524ccd9438cf964248569fb54c03860da76ff8ff9d4b47ba1ab.jpg> 万博 開幕後初の15万人超来場か
+      <a href=https://news.yahoo.co.jp/pickup/6540866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3a66fbd421747b0be00bb0a7e7ac373ef61b9017f270b50b2ab99efda548e182.jpg> 備蓄米放出 倉庫収入月4億円減か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/cc132c6baedb1d84fdc113e68e9aebe38433059235131cbb73dc5bbcfeeb3dcb.jpg> 教習所でバイク事故 29歳女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e2a018881d67f1e6a1462b9f4aef49b8a1b94ef2d649a1485ca6eb4962a6c0fe.jpg> 燃料漏れ引火か 女性全身燃え移る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9b96aea52b8a70d195b430d5935a71d0c6dadaaf5aecdaaaf05e7dcf5b1e1b07.jpg> 兄弟が風呂場で溺れ搬送 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/6e17018758033f7b962c368bd14b721577d5035ba98aa9358f884fb524b205bf.jpg> 防護桁にバス衝突 中学生8人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6540840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/0c4a781ad1d6b73797d464e2a2c79125d55d34e13ea89492c68df93ef7d02767.jpg> ずっと不幸だった 79歳で離婚相談
+      <a href=https://news.yahoo.co.jp/pickup/6540865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/31/ac9ae53ccb12c4a74be94e311f43a820c0bfdcb5ab430585ebe533ccac4a94e3.jpg> ヒカル 進撃のノアとの結婚を報告
+      <a href=https://news.yahoo.co.jp/pickup/6540870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d76a0ba8367e53bfa3a57aff9b1701ff4dbdabfe3e835fd88a9325c71f0475f9.jpg> RYOKI体調不良 ツアー4公演欠席
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 05:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 04:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
