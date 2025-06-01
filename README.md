@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32dd62fbfd7928b41dacb697b229315f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82c67ae82de2aad9d937bf4df63adda1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/235f74895456f369e25d744c2153dfcab7ff75f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000164-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平　目を閉じてベンチに顔くっつける姿が映り話題　ファン「ライブBPで疲れた？」「寝不足かな？」
+      <a href=https://news.yahoo.co.jp/articles/727e005afefb1827697a7900a74ed6009bf47c4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01765478-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=600&ch=600&exp=10800&fmt=webp> メッツ千賀、快投で勝利も“笑わない男”　「勝っても負けても同じ」泰然自若を貫く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c5dc34ddb4cee1ddb9f06fbbc87703a9ea6f385>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000167-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1031&ch=1031&exp=10800&fmt=webp> 大谷翔平は4打数2安打で2戦連続マルチ安打　ドジャース14得点の大量リードで6回代打送られお役御免
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4f3271860a22b855f959bcc0a1deaac3435d93c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000208-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=733&ch=733&exp=10800&fmt=webp> ドジャース猛攻で大谷翔平が一回に2打席立つ　右前打＆空振り三振　自己＆球団新記録の月間16発なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f51f3dc295a0a04eba940135c5506490f808b0c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000148-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大　デビューから40試合で19勝は球団史上2位　デグロムと並ぶ　28戦連続3失点以下は球団4位
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5a8571b9ae2169a42ad2f10356e693110768e3a40dc60d244a9cdebd10b8b0f0.jpg> 職場の熱中症対策が義務化 罰則も
+      <a href=https://news.yahoo.co.jp/pickup/6540775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c25e918d3432d4d1c2ea03d57389d7212a68f78d1c983a752ffb9d8cdb5855e6.jpg> 尖閣周辺で遊覧飛行 対応に苦慮
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f234f4cf314e2f25a5f007361977e875df210b01eebc5e16ff8f9ffc382bf80f.jpg> 新卒3カ月で退職代行利用 その後
+      <a href=https://news.yahoo.co.jp/pickup/6540770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/592b980e5ddee93ec40a79880b1176e37cbf63dfa1d452672a2042575d46f02d.jpg> 牛カツチェーンに訪日客行列 なぜ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/413c24087e70d3b9808dafd9b83ee037606a58557be53879fc90e06f1ffea7c5.jpg> ヒカルと結婚 進撃のノアとは
+      <a href=https://news.yahoo.co.jp/pickup/6540776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/ae132c2e3cfc3587125aafc22610ec61b5e9afefa128314641c9433a695ed4ed.jpg> 実写版ワンピ チョッパーお披露目
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 10:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
