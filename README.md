@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f828451f0730c98e9cb883eb21ebc0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2466616a7fbd4d12ca7ff2e421ef3520.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63aca60dbd573e041177d0ef15fdcf972d2b65c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240213-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアが2日にトルコで直接交渉へ　ウクライナ側は国防相派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e38e3cdac3e2669f9c590866023c52ee5f214e5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000155-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=57&cw=1143&ch=1143&exp=10800&fmt=webp> ドジャース・大谷翔平が投打で24時間大忙し　前日2発～ライブBP登板～5月2安打締め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70b5540d5d38730939a5963c3212951b8e3000a6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000150-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 直前の夫婦げんかで、ガソリンに引火した可能性　コンビニに駆け込んだ女性は重いやけど
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c11221b8c42adf6eebebff3e8acfbdb7cb23496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏、2回目の対ロシア和平交渉に代表団派遣を発表　前回に続きトルコで実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c251b1dc7644fd4d4dd2266e188e036e5ef446a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011291-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=857&ch=857&exp=10800&fmt=webp> 大谷翔平、投手復帰へ「週１ライブＢＰ」に障壁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/697d8320f6b307e01506926bd578b24b1e9e44c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000036-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「大量殺人の道具に使っている」ガザの支援配給所でイスラエル軍が発砲　31人死亡
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 00:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 01:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
