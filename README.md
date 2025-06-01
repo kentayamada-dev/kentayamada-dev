@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0265c0b32880e7239f57ddf4e422dc50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/537014597fcd4ffc15f09340dab82aa8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fc40b837e5a7bde798b1151f609c5fb47996126>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07131418-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 浴槽で双子男児ぐったりと…1人死亡「目を離していた」　東京・足立区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/846ba5e3fd958918d344f79be92813e68dd44b2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04952155-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> パリ・サンジェルマンが初優勝　パリで祝賀ムードも…一部暴徒化
+      <a href=https://news.yahoo.co.jp/articles/684b7f57e0e7a3b9cd716e8460e2058c087995c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90020083-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 佐賀市の児童福祉施設で殺人未遂　女逮捕【佐賀県】
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c13218632ad2204797312f7e25dc77405a0454d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011070-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースの新人捕手が大谷翔平バットやめてメジャー初本塁打「ちょっとおもしろい話なんだけど…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3c17b12f028c1ee083378bd68c7e53588b8406d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-35233696-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア西部で橋が崩落、列車脱線で７人死亡　「違法な干渉」を非難
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a2df99559c2a96a8845796f472170fdee0ad115dda00659b330a235eae8826de.jpg> 政治家失言 なぜ言い訳に家族使う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540780>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/851e08c7ebe5b2f98d4d72c64ee68fd677a21a910ffa843582022d579bbdc237.jpg> マスク氏 薬物使用報道を否定
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/592b980e5ddee93ec40a79880b1176e37cbf63dfa1d452672a2042575d46f02d.jpg> 牛カツチェーンに訪日客行列 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6540792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/03c46d666b48982eefd9813e57250b4bce6fecdef07fd252cfc39516508a8ea2.jpg> 子の田植え体験は必要? SNS賛否
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1d93b6a8b63b455bf28846e2563b0f072eddf3e5a8d34e759650c65a260521da.jpg> 声優・島崎信長 第1子誕生を報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 13:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 14:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
