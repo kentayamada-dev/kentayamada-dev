@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a10033bed26c484bb68c1646c335ab55.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/776dc8ac162b3be80cf49a2c70344676.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc27f9b5664ea55cfff473beeeb3fd13fe539b0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181288-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=800&ch=800&exp=10800&fmt=webp> バチバチだな…！大谷翔平、やられたら“やり返す”… 被弾直後にジャッジが一瞬見せた“表情”が話題に「漫画かよ」「バケモノの競演」
+      <a href=https://news.yahoo.co.jp/articles/0d6e2a5c5ba971f48618dbcb494a0ab081f1f217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000147-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平　第2打席は満塁で空振り三振　ピッチクロック違反で自動的に1ストライクの“珍事”
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e6f635cd508b89ae467dd7bf483ce54d6d608ac7e4c1137d9a6443689195ce46.jpg> 日米首脳会談 G7サミット前検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/2c4f71e612a5f43f843a7cdb13f6e4d5c17bea44064537273a8d6282107719a7.jpg> 「2000円」の備蓄米 当面は品薄か
+      <a href=https://news.yahoo.co.jp/pickup/6540757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1a8ce32fede7e02a6d14c3af91d12149876d009a2d66b09d27700c96e8c93598.jpg> 米国防長官 日本に防衛費増求める
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/acfe15fcba0158a3ec22d58a830ec1415bb05f99a4a368511d55ce93c02d5832.jpg> 千賀苦笑い 初回に自動三振の珍事
+      <a href=https://news.yahoo.co.jp/pickup/6540755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6851dd44811cd50f9f5c52e65da5edb9c00b0e92819a187ca0447c771963192f.jpg> 初配属は駐車場だった USJ新社長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/947ec2fe10986521aeafabc141ddfe2db4f8f77553808560756736b63c23858f.jpg> タイプロ話題の2人 ホリプロ所属
+      <a href=https://news.yahoo.co.jp/pickup/6540745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/acfe15fcba0158a3ec22d58a830ec1415bb05f99a4a368511d55ce93c02d5832.jpg> 千賀苦笑い 初回に自動三振の珍事
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d3304bcaa11c34dfe6fd622a6f58a1a6579f376450c1e444cac2602498fd8f90.jpg> 額に汗 野菜作りに凝る石黒賢
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 08:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 09:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
