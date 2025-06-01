@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a91ab65bca58db3134b272bba14be8be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89ee2a9ce4d2d082206c1f182a47629a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25880fdc6ffdc5354434dce3f9748fa2797babca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-09847643-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【巨人】大勢がカリステにタイムリー浴び今季初黒星　チームはカード負け越しで3位後退
+      <a href=https://news.yahoo.co.jp/articles/7a1b19f3dd7113a7f297328075e072217740bf6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> ＜小室哲哉＞「落ちぶれたくはない」と本音ポロリ　“ずっと上にいるイメージ”に「全然違う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ef62bb78519e2c99a751dcb4b013bc30a77de49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 【彦野利勝の目】暴投で勝ち越し許した巨人・大勢に疑問…真っすぐで追い込みながら「その前にも暴投した変化球をなぜ選んだのか」
       </a>
     </td>
   </tr>
@@ -380,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540871>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 北海道で震度4 津波被害心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/502fb85dba7f3313444203929c750b3eb4d710227daefbc2298b0a6265a7e38c.jpg> 横田基地で汚染水が漏出 米報告書
       </a>
     </td>
   </tr>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540840>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d76a0ba8367e53bfa3a57aff9b1701ff4dbdabfe3e835fd88a9325c71f0475f9.jpg> RYOKI体調不良 ツアー4公演欠席
+      <a href=https://news.yahoo.co.jp/pickup/6540873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/93aaba3662b2c14f9fe235c48477d46771ca5da0f53b808ebc59139702b1aca2.jpg> 小室哲哉「もう一回バズりたい」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 06:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 06:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
