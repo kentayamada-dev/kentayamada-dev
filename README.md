@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/776dc8ac162b3be80cf49a2c70344676.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e2418ae92e617493e2c64362739c2f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d6e2a5c5ba971f48618dbcb494a0ab081f1f217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000147-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平　第2打席は満塁で空振り三振　ピッチクロック違反で自動的に1ストライクの“珍事”
+      <a href=https://news.yahoo.co.jp/articles/cb02f4fc663b06ef6734dd122994da4b74974a95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000153-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ドジャース打線爆発も…大谷翔平は第3打席も三振　2打席続けて快音響かず　第1打席は右前打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/328b163c48a8139527d07b08686d7f6671858523>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000002-saninchuo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=445&ch=445&exp=10800&fmt=webp> 出雲の山陰道事故、死亡は浜田の無職女性　島根
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fafb5723db06ea4d6a2365dc7e9d060c5fea75f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949609-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度1の地震　青森県・八戸市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73001f6eb1bd31b10e92487e3b26c90f1c5b1814>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00804669-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> JO1鶴房汐恩、オンラインカジノ利用で10日間活動自粛「生きざまで信頼を取り戻す」…ネット上では賛否の声
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/acfe15fcba0158a3ec22d58a830ec1415bb05f99a4a368511d55ce93c02d5832.jpg> 千賀苦笑い 初回に自動三振の珍事
+      <a href=https://news.yahoo.co.jp/pickup/6540766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/ab72b828695a4d71daa10201720952d5e63416f4f7116ee43dd522b1688ee50a.jpg> 大谷が実戦形式で登板 バット粉砕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/14ee6981924c06cdb9de0bc50bac5988bdf7119fe761cd9a65cf0312146e1e06.jpg> 北原里英 妊娠糖尿病で自分責めた
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d3304bcaa11c34dfe6fd622a6f58a1a6579f376450c1e444cac2602498fd8f90.jpg> 額に汗 野菜作りに凝る石黒賢
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 09:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 09:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
