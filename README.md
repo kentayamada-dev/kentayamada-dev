@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0846911c342de89dab4fb948079ab131.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19cb3dc882fc25529be2b19d294d4aec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7941136ed65227f2c9e5831209996be8f3d5e41d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949871-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 児童福祉施設切りつけ事件　逮捕の女が先月「子供を返して」と別の福祉機関で叫んで暴れる　佐賀市
+      <a href=https://news.yahoo.co.jp/articles/97b269af1990a62935840c7a87b13d901a5b0705>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949840-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉農水大臣も実食「ちょっと硬いかな」 古古古米はどんな味?　“令和のコメ騒動”異例の放出は吉と出るか【サンデーモーニング】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0d9421a92d06dd1e5ce7a9bcddeec1a2476a051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949868-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 児童福祉施設で55歳女性職員が包丁で切りつけられ死亡　現行犯逮捕の28歳女は子供と会うため施設を訪れたか　取り調べに「記憶にないから分からない」
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99d5297d49157c4f7aa9d49e6234e99e57e27940>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000046-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=500&ch=500&exp=10800&fmt=webp> TBS「timeleszの時間ですよ」放送決定、街頭で女性100人にインタビュー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/cffa1b56326947abedaa39a4719bb41ee71700ef2aebb9e1b02e79109c2f4e2b.jpg> 備蓄米販売 6/1も客が店に行列
+      <a href=https://news.yahoo.co.jp/pickup/6540810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/7b9d12c8f38c592099cea9a087501e5abe56a5d7cef1200df12f6d75d6ba1100.jpg> これがルール 元農相苦言に小泉氏
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f1b0fcb523063357cdcf7eaeba1430c9b80819fb7f51633a2c23aea15bf8bbe3.jpg> PSG優勝 パリ市内で一部が暴徒化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540802>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/88da6926432138d963d30038dc5f895385daaa7d410c912a42dd1a0c4d1284c6.jpg> ジムニーノマド増産 いつ受注再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540793>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で人気のザリガニ 突然値崩れ
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d83a19b08278127d71f360789a8b6cdd87c5da84557d6626f9b2ee05bc119470.jpg> 元白鵬「後継者」の行方に注目
+      <a href=https://news.yahoo.co.jp/pickup/6540801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c0bc7b88379e1f83ab082a786f1a4d94e2855f5ae805488bf3fc1bb7f50f61b7.jpg> Z世代 巨大ショッパー持ち歩く訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9d65b377d2ab0d9aefba98b50b7b621ad526b5a6dcd12ba6e4bd3f11f21c3dfe.jpg> クロワデュノール 日本ダービーV
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0c9bfdf8cc65faa795109f6eba16eea93245cea9d0fde8e27220be0d5596dc37.jpg> 齊藤京子 アイドル→俳優の現在地
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 15:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 16:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
