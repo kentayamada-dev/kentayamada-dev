@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3fa65ed028676b1e82245a456c99047.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf2d33c49e225f8c1f800047cd8a5df1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3269bf0621003264d683750d895e5854f276fb7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010011-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> EXILE、ツアーフィナーレでドームツアー開催発表！福岡・大阪・名古屋の3都市5公演　ATUSHI「魂からのエンタテインメントを楽しみにして」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24ba02f418d35d43170b1eb3f04267c75adb9ee9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000044-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 日米関税交渉  石破首相「合意向け全力を」　赤沢氏が報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f2f69762611ff16d91e58e3c35bf5090e45b977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90020087-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 児童福祉施設で職員切りつけ　職員の死因判明【佐賀県】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d42400da2f3863f49b59e9a7f7010f8476a34ea8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000114-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=878&ch=878&exp=10800&fmt=webp> EXILE、ATSUSHIがついに完全復活！アンコールでサプライズ登場　全国ツアーファイナル、ファンからは悲鳴のような大歓声
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e00ec374f605dd8d55387433a0a390e928f6fcbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000027-ann-000-4-thumb.jpg?exp=10800&fmt=webp> コメの複雑な流通「価格高騰の要因」　ドンキ社長名義で小泉大臣に意見書
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/29692eadc5a110ea03b2b90c127c849b16dc59917793d96cd498f50742d97747.jpg> 和歌山知事選 宮崎氏が初当選確実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
+      <a href=https://news.yahoo.co.jp/pickup/6540835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3b879ecd483c8e4abe78ea697958c4146bbc0aabf4a069700c5d937a3464e4ed.jpg> 韓国大統領選「対日論争」は低調
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/caf6e8e5e4816b786b71618bf897cb2d55a7752397a7518a3bada5dfa35e6304.jpg> ディスコに熱気 楽しむシニア婚活
+      <a href=https://news.yahoo.co.jp/pickup/6540834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/10706912b5f1339dc4434bf9392dfbbb9213e325abda062c35d1c3556e764808.jpg> 理不尽カスハラ横行 店側に疑問も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 21:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 21:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
