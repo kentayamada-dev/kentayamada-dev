@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2407ad1bf1cc1e59c0d99b12a22867b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32dd62fbfd7928b41dacb697b229315f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb02f4fc663b06ef6734dd122994da4b74974a95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000153-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=854&ch=854&exp=10800&fmt=webp> ドジャース打線爆発も…大谷翔平は第3打席も三振　2打席続けて快音響かず　第1打席は右前打
+      <a href=https://news.yahoo.co.jp/articles/235f74895456f369e25d744c2153dfcab7ff75f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000164-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平　目を閉じてベンチに顔くっつける姿が映り話題　ファン「ライブBPで疲れた？」「寝不足かな？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4f3271860a22b855f959bcc0a1deaac3435d93c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250531-00000208-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=733&ch=733&exp=10800&fmt=webp> ドジャース猛攻で大谷翔平が一回に2打席立つ　右前打＆空振り三振　自己＆球団新記録の月間16発なるか
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f51f3dc295a0a04eba940135c5506490f808b0c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000148-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大　デビューから40試合で19勝は球団史上2位　デグロムと並ぶ　28戦連続3失点以下は球団4位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/328b163c48a8139527d07b08686d7f6671858523>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000002-saninchuo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=445&ch=445&exp=10800&fmt=webp> 出雲の山陰道事故、死亡は浜田の無職女性　島根
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e270a3d2b4bef75018aa4df5be31d7fa0accab1d078939e510a9babfe4016219.jpg> USS買収 安保措置で日鉄手応えか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540754>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5a8571b9ae2169a42ad2f10356e693110768e3a40dc60d244a9cdebd10b8b0f0.jpg> 職場の熱中症対策が義務化 罰則も
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1a8ce32fede7e02a6d14c3af91d12149876d009a2d66b09d27700c96e8c93598.jpg> 米国防長官 日本に防衛費増求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c54b4eb3b2974e9e630c31cc052b908fa57aa508e924d7f01e59fd0d55d66639.jpg> 1歳死亡 目を離した隙に溺れたか
+      <a href=https://news.yahoo.co.jp/pickup/6540767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f0fa8523159f68fa8f5e19ad2007e31c0a7ec0ac6851fac2e913a1b5a70a7bb2.jpg> アイドルになりたい 18歳で脱北
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/ab72b828695a4d71daa10201720952d5e63416f4f7116ee43dd522b1688ee50a.jpg> 大谷が実戦形式で登板 バット粉砕
+      <a href=https://news.yahoo.co.jp/pickup/6540769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1f6e2056630e3390d1af205aa477f8d49a2b404aff0b9213548409ca8c4d1fed.jpg> 千賀滉大6勝目 防御率リーグ首位
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 10:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 10:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
