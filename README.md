@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c1fa85eaa4be31c43bac4a1b0c4b34f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08b0da031e8a937a1bcc24ee11a61bf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcbe288470de1ec60f750e69aaafcbae91901176>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000133-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=793&ch=793&exp=10800&fmt=webp> ATSUSHIが約2年半ぶりにEXILEの公演に出演　グループの年末ドームツアー開催も発表
+      <a href=https://news.yahoo.co.jp/articles/05d3d38ce838a9c8d9cc16bb52b57b982d5ac502>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000420-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=640&ch=640&exp=10800&fmt=webp> EXILE ATSUSHIが「EXILE」ライブにサプライズ登場　“EXILE完全復活”約3年ぶりドーム公演も発表【コメントあり】
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/56b23b6f9d307f95b9c6f13331011745b384b68f2d20a0ba743b4f80a95ce51d.jpg> 鉄鋼関税増 日米交渉で知らされず
+      <a href=https://news.yahoo.co.jp/pickup/6540852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/cf5adb338ba4bbe12df96007bf09796b6d9382cf787449f1a47ffd2ce8686e78.jpg> 備蓄米 農家は今年産への影響懸念
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/333e8ee48313f03f108122059fab90d6201cc896ad89a089a4bc1f1ff93aff91.jpg> ガザ配給所で軍が発砲 33人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e2a018881d67f1e6a1462b9f4aef49b8a1b94ef2d649a1485ca6eb4962a6c0fe.jpg> 燃料漏れ引火 女性の全身燃え移る
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/facb991c3e354342a0bbb507ebaa385050ca50a8fb7342e7bbcb22c64b10566e.jpg> 休養中の河本準一 うつ病など公表
+      <a href=https://news.yahoo.co.jp/pickup/6540847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/cf4fd2d097e8c09e389008cfff7aefed2d6fcb4f4d787c1a59191f91adea6b11.jpg> ATSUSHI登場 悲鳴のような大歓声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 22:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
