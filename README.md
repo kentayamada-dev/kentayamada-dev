@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2466616a7fbd4d12ca7ff2e421ef3520.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a990de367722891b4732c87c790fadd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63aca60dbd573e041177d0ef15fdcf972d2b65c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240213-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアが2日にトルコで直接交渉へ　ウクライナ側は国防相派遣
+      <a href=https://news.yahoo.co.jp/articles/b204b998c3cde65469a5bd4a0fff789f7af11454>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000049-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=787&ch=787&exp=10800&fmt=webp> ドジャース・大谷　移籍後初ドジャースタジアムのマウンドで投球　最速156キロ、順調29球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e38e3cdac3e2669f9c590866023c52ee5f214e5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000155-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=57&cw=1143&ch=1143&exp=10800&fmt=webp> ドジャース・大谷翔平が投打で24時間大忙し　前日2発～ライブBP登板～5月2安打締め
+      <a href=https://news.yahoo.co.jp/articles/63aca60dbd573e041177d0ef15fdcf972d2b65c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240213-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアが2日にトルコで直接交渉へ　ウクライナ側は国防相派遣
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 01:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 01:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
