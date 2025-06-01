@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eebf2e243ee14c9226d7eec7de969e64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26e6f2d32f58f0a08d25a8f325d526ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33daa055fbd1833513833699345dc336432260be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000291-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【日本ダービー】クロワデュノールV！一口馬主のユーチューバー・ンダホが大泣き「最高の気分です」
+      <a href=https://news.yahoo.co.jp/articles/9d453607d4a63a5fc712898fe36b48ee636438d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011194-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=1301&ch=1301&exp=10800&fmt=webp> 【ダービー】クロワデュノール優勝、北村友一騎手「正直、負けるイメージがなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b51d7abba946f26f48fbb8414c63278fc8c1464>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-03868725-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボールを受けたド軍24歳「どの球も質が高い」「特にスプリッターが好き」 2度目のライブBPに仲間も注目
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17f2fa3aaca73c97bda733565b31e6ddb7b2ddf0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949955-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【児童福祉施設切りつけ事件】　女性職員が死亡し28歳の女を逮捕　先月は「子供返して」と福祉機関を訪れ警察に保護　　殺人容疑に切り替えて捜査する方針　佐賀市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc1d74f42d75e850043192556796e56da6ce3474>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01765646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “あざとい”デコピンに「癒やされて」　お疲れモードの大谷翔平にエール…愛犬が「かわゆす」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e0a4933d9cf3331e3434b072238f41ed3d8d96ad4ba2451557597e41a56cce10.jpg> 捜索中の小1を池で発見 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/72732197e24eeb4e2684ad1049a37ca2a3f2562da45693a6b20e896b4859926a.jpg> 高速道路に車が転落 子どもら搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/633a65a12bacd8b648a8027ba81a2935469ec8884113c99f9eb9e9630cc0aaac.jpg> 癒しか冒涜か AIで「よみがえり」
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/977a7024c9c4ce4da25a377c50c29cdb1bfa2dc16bc50bb591879dcab1df53bc.jpg> 本名と異なる ビジネスネーム好評
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540801>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c0bc7b88379e1f83ab082a786f1a4d94e2855f5ae805488bf3fc1bb7f50f61b7.jpg> Z世代 巨大ショッパー持ち歩く訳
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6b4028e041348914dd6c6e49e6791ada9dabf9199b45fab2e50824c9a971c888.jpg> クロワデュノール 日本ダービーV
+      <a href=https://news.yahoo.co.jp/pickup/6540816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0c9bfdf8cc65faa795109f6eba16eea93245cea9d0fde8e27220be0d5596dc37.jpg> 齊藤京子 アイドル→俳優の現在地
+      <a href=https://news.yahoo.co.jp/pickup/6540813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6143b83898fc2f8c903ad42d335d547065dc1f97fecbb4d9c688d3e354a87f98.jpg> 芸人・永野が映画監督 斎藤工出演
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 16:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 17:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
