@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8568bbc1867326a958a61beafb1adbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f31b4508b3e844a11d7fc700b1a02f13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/408ef8f3175db5f45d3f2400a3552795b888b293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000030-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 4回目の日米協議を終え 赤沢大臣が帰国
+      <a href=https://news.yahoo.co.jp/articles/35e357670ba3363f05b0df46eee607d27820c95a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ガザの支援物資拠点で250人超死傷　イスラエル軍が攻撃か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9978a838b6d886722d65946b2dc82e34bbeec2fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011233-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> 宮城野親方の退職騒動　引き金になった元幕内・北青鵬、旭大星の断髪式に現る！　照ノ富士親方と握手も
+      <a href=https://news.yahoo.co.jp/articles/408ef8f3175db5f45d3f2400a3552795b888b293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000030-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 4回目の日米協議を終え 赤沢大臣が帰国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbf2ccef7bff00dadf8bf4e8f31175cc8c940cef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04577849-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 次長課長・河本準一、パニック障害・うつ病を公表「1歩ずつ前を向いて進んで行ければ」2月から休養していた
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0257777c8960357765fc08f9bf0bcf007d2b2bfc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da2293d060178403039f2b774c3067ca1e013a62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980487-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザ地区南部の配給所でイスラエル軍が発砲…33人死亡150人以上負傷　“一般市民を虐殺するための罠”ハマスが批判
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1832c84eb94d25d08b0978efa3647cb78b4d7c6ad808fa477570383efd575017.jpg> 米鉄鋼関税50%に EUは報復用意
+      <a href=https://news.yahoo.co.jp/pickup/6540838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d2a29748ad053111f000bfad4c863daa3d37fc6d1af37aba85800581d24c43c6.jpg> 森山氏 日本の国債評価はぎりぎり
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/11236e20568262a486415a73305734e29e19cf1ada005fec586b3fc887f10970.jpg> 新卒採用の選考解禁 ルール形骸化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540834>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5d786c916ca45b0e50e4ba12db4f1d260f44a0f00e5f5e40610d7b1949b848ab.jpg> 「異常な低賃金」歯科技工士激減
+      <a href=https://news.yahoo.co.jp/pickup/6540836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6efb970ac57cd3a84042746bc5466e7a2f761defa4a3438fb8b2b43f45d7a2ab.jpg> 暴力問題で引退 元力士が断髪式に
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d1360a8dc6bb12bdccb66cbbba18533a45967ba6d90083b02410940602ec18fa.jpg> LiLiCo「21の職業を持っていて」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 19:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 20:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
