@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1bf98f6879c5c2ccfcc9ddbcea990cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bdba3e40b90b9f605177dc58e9bdada4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73c3b8d45b3d618d4179b32e2d7dc6953338300f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021002-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩが体調不良のため世界ツアー４公演を欠席　公式サイトで発表
+      <a href=https://news.yahoo.co.jp/articles/549f9946ae83d4175190c80ca3f3bf6a163fcc83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=1752&ch=1752&exp=10800&fmt=webp> 大谷翔平　爆勝口火打　２戦連続１９度目マルチで５月締め　ド軍、今季最多２１安打１８点　手術後２度目のライブＢＰ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b204b998c3cde65469a5bd4a0fff789f7af11454>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000049-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=787&ch=787&exp=10800&fmt=webp> ドジャース・大谷　移籍後初ドジャースタジアムのマウンドで投球　最速156キロ、順調29球
+      <a href=https://news.yahoo.co.jp/articles/73c3b8d45b3d618d4179b32e2d7dc6953338300f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021002-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩが体調不良のため世界ツアー４公演を欠席　公式サイトで発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 02:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 02:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
