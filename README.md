@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e2418ae92e617493e2c64362739c2f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2407ad1bf1cc1e59c0d99b12a22867b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f51f3dc295a0a04eba940135c5506490f808b0c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000148-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大　デビューから40試合で19勝は球団史上2位　デグロムと並ぶ　28戦連続3失点以下は球団4位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/328b163c48a8139527d07b08686d7f6671858523>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000002-saninchuo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=445&ch=445&exp=10800&fmt=webp> 出雲の山陰道事故、死亡は浜田の無職女性　島根
       </a>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44b56612d2f0b03983235df846ebceb3b14fdbb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000009-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 職場の熱中症対策、1日から義務化　罰則付き、企業の準備進む
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1a8ce32fede7e02a6d14c3af91d12149876d009a2d66b09d27700c96e8c93598.jpg> 米国防長官 日本に防衛費増求める
+      <a href=https://news.yahoo.co.jp/pickup/6540754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5a8571b9ae2169a42ad2f10356e693110768e3a40dc60d244a9cdebd10b8b0f0.jpg> 職場の熱中症対策が義務化 罰則も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a4b044afa5ddb17ef39d93be81b4c5d9b938d6090e7dc1832afefe9f74a5fbda.jpg> 洪水で150人超死亡 ナイジェリア
+      <a href=https://news.yahoo.co.jp/pickup/6540757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1a8ce32fede7e02a6d14c3af91d12149876d009a2d66b09d27700c96e8c93598.jpg> 米国防長官 日本に防衛費増求める
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1f58700debf42901625638177adb0ba81be1ba60b7978f8539116ebccab91b05.jpg> ゴンドラ訓練中に男性転落 搬送
+      <a href=https://news.yahoo.co.jp/pickup/6540747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f234f4cf314e2f25a5f007361977e875df210b01eebc5e16ff8f9ffc382bf80f.jpg> 新卒3カ月で退職代行利用 その後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6851dd44811cd50f9f5c52e65da5edb9c00b0e92819a187ca0447c771963192f.jpg> 初配属は駐車場だった USJ新社長
+      <a href=https://news.yahoo.co.jp/pickup/6540761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0454397aa6febf2f89f36571e05051667b935948d15f1b45d103af3eb1a9f99b.jpg> エアコン 弱と自動どっちが節電
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 09:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 10:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
