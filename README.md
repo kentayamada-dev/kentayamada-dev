@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e36cd09c85cfba707f590b16d79bc53.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a91ab65bca58db3134b272bba14be8be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cc2e13135dbfd366871776c790977ce4afe5421>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000005-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1047&ch=1047&exp=10800&fmt=webp> 【日本ダービー】クロワデュノール逆襲頂点　北村友は大ケガ乗り越え笑顔の初制覇
+      <a href=https://news.yahoo.co.jp/articles/25880fdc6ffdc5354434dce3f9748fa2797babca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-09847643-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【巨人】大勢がカリステにタイムリー浴び今季初黒星　チームはカード負け越しで3位後退
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 05:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 06:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
