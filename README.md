@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a990de367722891b4732c87c790fadd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1bf98f6879c5c2ccfcc9ddbcea990cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73c3b8d45b3d618d4179b32e2d7dc6953338300f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021002-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ＢＥ：ＦＩＲＳＴ」ＲＹＯＫＩが体調不良のため世界ツアー４公演を欠席　公式サイトで発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b204b998c3cde65469a5bd4a0fff789f7af11454>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000049-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=787&ch=787&exp=10800&fmt=webp> ドジャース・大谷　移籍後初ドジャースタジアムのマウンドで投球　最速156キロ、順調29球
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/63aca60dbd573e041177d0ef15fdcf972d2b65c3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240213-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシアが2日にトルコで直接交渉へ　ウクライナ側は国防相派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70b5540d5d38730939a5963c3212951b8e3000a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000150-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 直前の夫婦げんかで、ガソリンに引火した可能性　コンビニに駆け込んだ女性は重いやけど
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 01:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 02:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
