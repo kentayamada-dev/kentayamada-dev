@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b60997e497cc1d33a8b77301155e23a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38fc60ed077bfdef66a7884e30f0ddb7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4f719a14c3c7a4c8af25e6f51064016d875d982>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01763870-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、愛らしいデコピンを投稿　激勝→11分後に即帰宅…お座りしてカメラ目線
+      <a href=https://news.yahoo.co.jp/articles/846ba5e3fd958918d344f79be92813e68dd44b2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04952155-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> パリ・サンジェルマンが初優勝　パリで祝賀ムードも…一部暴徒化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d674108750de3780f89ed4b0fc0a6401854982c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 佐賀・児福施設職員切りつけ　容疑者「子ども返して」と暴れ5月に保護
+      <a href=https://news.yahoo.co.jp/articles/684b7f57e0e7a3b9cd716e8460e2058c087995c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90020083-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 佐賀市の児童福祉施設で殺人未遂　女逮捕【佐賀県】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/679b3c752a1932de10daa8a5578fd9a9f05d234a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000011-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ停戦案、ハマスは修正要求　米特使「受け入れられず」と一蹴
+      <a href=https://news.yahoo.co.jp/articles/c13218632ad2204797312f7e25dc77405a0454d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011070-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースの新人捕手が大谷翔平バットやめてメジャー初本塁打「ちょっとおもしろい話なんだけど…」
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5b0f7cd3d5ffbb43dc65887c5592e024d49ffbb98d967d108c2cc6f1f3419d5e.jpg> 「拘禁刑」導入 懲役と禁錮一本化
+      <a href=https://news.yahoo.co.jp/pickup/6540787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/20c9fe4ac7280b515d8be2d2fe3b2e2222f861980c080f5f05e19e6787af6156.jpg> 玉木代表 減反政策の転換に賛成
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c25e918d3432d4d1c2ea03d57389d7212a68f78d1c983a752ffb9d8cdb5855e6.jpg> 尖閣周辺で遊覧飛行 対応に苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6540779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4571cbc5bf858bc0bd2a121bf2fb5bd6483fdec935711489e5555e064f505eab.jpg> ガザ停戦案 ハマスが修正要求か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 12:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 13:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
