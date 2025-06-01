@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77f0c2b8e098ded5ca233ced8bad69e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8440bed23f694750273afcb653ee9677.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4bb79c3d8ac2ebe9ca54d9431e03380eecae664>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04577835-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=466&ch=466&exp=10800&fmt=webp> レペゼン、解散を発表 大晦日にラストライブ開催へ【全文】
+      <a href=https://news.yahoo.co.jp/articles/0257777c8960357765fc08f9bf0bcf007d2b2bfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9d70ac7f1a652e808f529c577da370209582629>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21950089-rkbv-000-2-thumb.jpg?exp=10800&fmt=webp> 【続報】児童福祉施設で女性職員が包丁で切りつけられ死亡　死因は出血性ショック
+      <a href=https://news.yahoo.co.jp/articles/9d8672dd0e90a5ad63afa9cc993294a39211daad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181343-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 赤沢大臣、4回目の日米関税協議を終え帰国「合意に向けた議論が進展していることを確認」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0716ce241dde380760ffd88ced5be0c9c071008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90032472-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 東名高速道路の路側帯に小学生2人を乗せた車転落　車の運転手の行方わからず　静岡・浜松市　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da2293d060178403039f2b774c3067ca1e013a62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980487-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザ地区南部の配給所でイスラエル軍が発砲…33人死亡150人以上負傷　“一般市民を虐殺するための罠”ハマスが批判
       </a>
     </td>
   </tr>
@@ -379,19 +395,27 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8d430a64471f755d736fdc17394611a4ec8d2ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-02359158-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督「私はホッとしている」大谷翔平の2度目のライブBPは2イニング　制球が定まらず悔しそうな表情も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1832c84eb94d25d08b0978efa3647cb78b4d7c6ad808fa477570383efd575017.jpg> 米鉄鋼関税50%に EUは報復用意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5dfb7260159f31321dda307cb844784f74ecd9502db43aa7f31c87f34508e8b7.jpg> 林氏 参院選は政権選択選挙に匹敵
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540810>
@@ -402,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5dfb7260159f31321dda307cb844784f74ecd9502db43aa7f31c87f34508e8b7.jpg> 林氏 参院選は政権選択選挙に匹敵
+      <a href=https://news.yahoo.co.jp/pickup/6540834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
       </a>
     </td>
   </tr>
@@ -420,22 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540826>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5d786c916ca45b0e50e4ba12db4f1d260f44a0f00e5f5e40610d7b1949b848ab.jpg> 「異常な低賃金」歯科技工士激減
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c0bc7b88379e1f83ab082a786f1a4d94e2855f5ae805488bf3fc1bb7f50f61b7.jpg> Z世代 巨大ショッパー持ち歩く訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 18:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 19:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
