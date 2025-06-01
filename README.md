@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5dbdced6b73be481541b949177ecdc57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b60997e497cc1d33a8b77301155e23a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c58ff822e9622a878434d80bde42f2753765d25f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10542609-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヤンキース、投壊18失点で昨季王者ドジャースに連敗　昨季WSの雪辱果たせず　ジャッジは孤軍奮闘の20号＆21号
+      <a href=https://news.yahoo.co.jp/articles/f4f719a14c3c7a4c8af25e6f51064016d875d982>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01763870-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、愛らしいデコピンを投稿　激勝→11分後に即帰宅…お座りしてカメラ目線
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/483fb4cfb283040a5c3ce96020a023fd57446387>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949736-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=517&ch=517&exp=10800&fmt=webp> 【 JO1・鶴房汐恩 】　「過去にオンラインカジノを利用」　10日間の活動自粛を公表　「大変情け無いことをしたと自分の中でももの凄く反省しております」
+      <a href=https://news.yahoo.co.jp/articles/3d674108750de3780f89ed4b0fc0a6401854982c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 佐賀・児福施設職員切りつけ　容疑者「子ども返して」と暴れ5月に保護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4df05fd3b427276dfe28317640b2851fc72b707a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000187-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=931&ch=931&exp=10800&fmt=webp> お疲れ？大谷翔平は試合終了11分後に帰路へ　試合前にライブBP登板　5月は自己最多タイ15発の大暴れ
+      <a href=https://news.yahoo.co.jp/articles/679b3c752a1932de10daa8a5578fd9a9f05d234a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000011-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ停戦案、ハマスは修正要求　米特使「受け入れられず」と一蹴
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d151d6e72440849aa833ab4eb79d2dae9d0836de1d9be40560e58e8fb6a64107.jpg> 捜索中の小1を池で発見 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540772>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/dfaec25edbbab80b33218805595895a888cbf5414de2cde3a4fd4dce944c8453.jpg> マイナ保険証期限切れ さらに増か
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f0fa8523159f68fa8f5e19ad2007e31c0a7ec0ac6851fac2e913a1b5a70a7bb2.jpg> アイドルになりたい 18歳で脱北
+      <a href=https://news.yahoo.co.jp/pickup/6540780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/851e08c7ebe5b2f98d4d72c64ee68fd677a21a910ffa843582022d579bbdc237.jpg> マスク氏 薬物使用報道を否定
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/ae132c2e3cfc3587125aafc22610ec61b5e9afefa128314641c9433a695ed4ed.jpg> 実写版ワンピ チョッパーお披露目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/631b4bf6ad7d256ff7a1fc20a926e529e73fef775e794683063b9d48ce696bc1.jpg> 常盤貴子 連ドラ女王時代振り返る
+      <a href=https://news.yahoo.co.jp/pickup/6540785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1d93b6a8b63b455bf28846e2563b0f072eddf3e5a8d34e759650c65a260521da.jpg> 声優・島崎信長 第1子誕生を報告
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 12:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 12:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
