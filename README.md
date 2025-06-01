@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26e6f2d32f58f0a08d25a8f325d526ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e48cd66add841113996f9c328dbf96b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d453607d4a63a5fc712898fe36b48ee636438d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011194-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=1301&ch=1301&exp=10800&fmt=webp> 【ダービー】クロワデュノール優勝、北村友一騎手「正直、負けるイメージがなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b51d7abba946f26f48fbb8414c63278fc8c1464>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-03868725-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平のボールを受けたド軍24歳「どの球も質が高い」「特にスプリッターが好き」 2度目のライブBPに仲間も注目
+      <a href=https://news.yahoo.co.jp/articles/a8d430a64471f755d736fdc17394611a4ec8d2ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-02359158-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督「私はホッとしている」大谷翔平の2度目のライブBPは2イニング　制球が定まらず悔しそうな表情も
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c917e033b711fc5d2880a8173f92729c7b0cd154606bd880ba30808cc2cf92af.jpg> 韓国大統領選 日韓関係どうなる?
+      <a href=https://news.yahoo.co.jp/pickup/6540821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d404dcd30b0936780c71f19343313918a6fe3e8547b2f3c9c24fdd994472c59e.jpg> 4日以降 九州～関東で夏日急増か
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/633a65a12bacd8b648a8027ba81a2935469ec8884113c99f9eb9e9630cc0aaac.jpg> 癒しか冒涜か AIで「よみがえり」
+      <a href=https://news.yahoo.co.jp/pickup/6540819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3268d2caee791b8610cc1b829ead5eef5015fadc5fb4208c1e49f982c747df32.jpg> 児童福祉施設で事件 女は先月保護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/88da6926432138d963d30038dc5f895385daaa7d410c912a42dd1a0c4d1284c6.jpg> ジムニーノマド増産 いつ受注再開
+      <a href=https://news.yahoo.co.jp/pickup/6540812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/633a65a12bacd8b648a8027ba81a2935469ec8884113c99f9eb9e9630cc0aaac.jpg> 癒しか冒涜か AIで「よみがえり」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 17:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 17:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
