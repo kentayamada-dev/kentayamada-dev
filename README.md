@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e2348896a49b1ea8bcf7a750ecf9d10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f828451f0730c98e9cb883eb21ebc0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/13adc3eb2367defa24b02a7f24325d3eec0a2b101f7b03d53824d06d3918e3e6.jpg> 石破内閣支持率34.6%に上昇 JNN
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540864>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4cdde18fe6ddce12564d3c164c506b5b7bf4916f7fc1e26712ed3036748507ee.jpg> 露とウクライナ 2日再交渉確実に
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f29d7c3797f52495523e4b0eda55cd11c06cffd2b90b4b02b497e68663190a75.jpg> 下品な言葉NG 米陸軍部隊で試み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540853>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02231622/title-1748731620752.jpeg?exp=10800> 精米を撤去 商慣習への識者の疑問
+      <a href=https://news.yahoo.co.jp/pickup/6540866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3a66fbd421747b0be00bb0a7e7ac373ef61b9017f270b50b2ab99efda548e182.jpg> 備蓄米放出 倉庫収入月4億円減か
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/55a36fd1f19622d272d5dd78fab0a5a6aaae93b924195151bad9969bfa037afd.jpg> ハヤヤッコ競走中止 命の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6540840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f6d0f438350b49611662ca2f00d8994c77d0ff1d3c0c0c08a6aca006a872ad10.jpg> サザエさん・イクラ役 降板発表
+      <a href=https://news.yahoo.co.jp/pickup/6540870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d76a0ba8367e53bfa3a57aff9b1701ff4dbdabfe3e835fd88a9325c71f0475f9.jpg> RYOKI体調不良 ツアー4公演欠席
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 23:52:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 00:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
