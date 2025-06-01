@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/936b2996b98b2b8ec1e242403932ab65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e36cd09c85cfba707f590b16d79bc53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/549f9946ae83d4175190c80ca3f3bf6a163fcc83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=1752&ch=1752&exp=10800&fmt=webp> 大谷翔平　爆勝口火打　２戦連続１９度目マルチで５月締め　ド軍、今季最多２１安打１８点　手術後２度目のライブＢＰ
+      <a href=https://news.yahoo.co.jp/articles/0cc2e13135dbfd366871776c790977ce4afe5421>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000005-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1047&ch=1047&exp=10800&fmt=webp> 【日本ダービー】クロワデュノール逆襲頂点　北村友は大ケガ乗り越え笑顔の初制覇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e086ff74bc417aeb2b3fef6f6ec22fc042c69e79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ地区の物資配給場所周辺でイスラエル軍の攻撃…約200人の死傷者か　イスラエル軍は虚偽情報と否定
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 05:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 05:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
