@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b11dcceb727a2672e98e6a2199996fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95682a53ab3e3f37e59c9f8ff541f59e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdb7cac7a5ab7984a1a404684c242db1557f8d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000023-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ハマス、直ちに交渉用意と表明　ガザ停戦、溝深く合意見通せず
+      <a href=https://news.yahoo.co.jp/articles/ec23c25111f6e3b99c4ca5253fab6a6eaf53e218>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-10181378-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=975&ch=975&exp=10800&fmt=webp> ガザの支援物資配給所でイスラエル軍が発砲 少なくとも31人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a1b19f3dd7113a7f297328075e072217740bf6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> ＜小室哲哉＞「落ちぶれたくはない」と本音ポロリ　“ずっと上にいるイメージ”に「全然違う」
+      <a href=https://news.yahoo.co.jp/articles/8bcb43619f1285fac867f48327ec414c6aca46e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000002-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 日本製鉄のUSスチール買収「黄金株」導入案は「トランプ氏のメンツを保って完全子会社化を実現する知恵」との指摘　大統領任期が残り3年半のなか投資を先行させる意義
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c043cf8685d4a85afc19bef9a80699aa8cc99b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 淀川河川敷で血を流した男性　何者かに刺されたか　大阪
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/502fb85dba7f3313444203929c750b3eb4d710227daefbc2298b0a6265a7e38c.jpg> 横田基地で汚染水が漏出 米報告書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540869>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/9184ee97b3b5243dd4e6c23e1ff77255dbddcfced4c1c08e6416a3d4a3457242.jpg> 石破内閣支持率34.6%に上昇 JNN
       </a>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e9364d2250c60da666797bb52179e2ac4855a959f94c2e7f099be204f43efa96.jpg> 備蓄米「買いたくない」48% JNN
+      <a href=https://news.yahoo.co.jp/pickup/6540875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/502fb85dba7f3313444203929c750b3eb4d710227daefbc2298b0a6265a7e38c.jpg> 横田基地で汚染水が漏出 米報告書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3a66fbd421747b0be00bb0a7e7ac373ef61b9017f270b50b2ab99efda548e182.jpg> 備蓄米放出 倉庫収入月4億円減か
+      <a href=https://news.yahoo.co.jp/pickup/6540876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/528d5cf26a751ce3f8f472614e1ba23f05d289497922b0b1799fa3059a26c751.jpg> 備蓄米「買いたくない」48% JNN
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b9a89f171db0efe648be9e8ad6fca1fd9ba98254abfc9e17d7e9b98d93983f9f.jpg> 歩道に刺し傷ある男性 命別条なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/94f4be4b619a60331fd09c01f7da7ee757e974f8caaa2d01712918030a85f42b.jpg> 角田裕毅13位撃沈 更迭論が沸騰
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 07:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 07:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
