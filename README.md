@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f08e86c0e895ad214d61cda632467f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5dbdced6b73be481541b949177ecdc57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4daaf263ac2bda25ccd0ff783c7487832cdebd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011058-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の投手復帰は実戦での「５回７５球」が最終段階の目安…ロバーツ監督が明かす
+      <a href=https://news.yahoo.co.jp/articles/c58ff822e9622a878434d80bde42f2753765d25f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10542609-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヤンキース、投壊18失点で昨季王者ドジャースに連敗　昨季WSの雪辱果たせず　ジャッジは孤軍奮闘の20号＆21号
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00f388e53eed0dcbf096704c820503cd5c404879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000011-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 中国、アジアで軍事力行使の準備と警告 ヘグセス米国防長官
+      <a href=https://news.yahoo.co.jp/articles/483fb4cfb283040a5c3ce96020a023fd57446387>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949736-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=517&ch=517&exp=10800&fmt=webp> 【 JO1・鶴房汐恩 】　「過去にオンラインカジノを利用」　10日間の活動自粛を公表　「大変情け無いことをしたと自分の中でももの凄く反省しております」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c4caae186ff7c29401d13a8802438d62865f799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010001-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 メッツ・千賀が7回途中2失点の好投で6勝目　NL1位の防御率1.60　ロッキーズは50敗にリーチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fafb5723db06ea4d6a2365dc7e9d060c5fea75f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949609-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度1の地震　青森県・八戸市
+      <a href=https://news.yahoo.co.jp/articles/4df05fd3b427276dfe28317640b2851fc72b707a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000187-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=931&ch=931&exp=10800&fmt=webp> お疲れ？大谷翔平は試合終了11分後に帰路へ　試合前にライブBP登板　5月は自己最多タイ15発の大暴れ
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e270a3d2b4bef75018aa4df5be31d7fa0accab1d078939e510a9babfe4016219.jpg> USS買収 安保措置で日鉄手応えか
+      <a href=https://news.yahoo.co.jp/pickup/6540778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5b0f7cd3d5ffbb43dc65887c5592e024d49ffbb98d967d108c2cc6f1f3419d5e.jpg> 「拘禁刑」導入 懲役と禁錮一本化
       </a>
     </td>
   </tr>
@@ -434,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/1f6e2056630e3390d1af205aa477f8d49a2b404aff0b9213548409ca8c4d1fed.jpg> 千賀滉大6勝目 防御率リーグ首位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a7384341a0b6ca920c053829e08e142554dab44bddd8bb7208752afb11de98ea.jpg> 芽郁ラジオ後任にFRUITS ZIPPER
+      <a href=https://news.yahoo.co.jp/pickup/6540781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/53aeaec50a1664e11678254871563f530496df0422a4e194c017bc0c2f35d28c.jpg> 珍事 ド軍・ヤ軍ともに野手登板
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/631b4bf6ad7d256ff7a1fc20a926e529e73fef775e794683063b9d48ce696bc1.jpg> 常盤貴子 連ドラ女王時代振り返る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 11:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 12:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
