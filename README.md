@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8440bed23f694750273afcb653ee9677.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8568bbc1867326a958a61beafb1adbc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/408ef8f3175db5f45d3f2400a3552795b888b293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000030-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 4回目の日米協議を終え 赤沢大臣が帰国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9978a838b6d886722d65946b2dc82e34bbeec2fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-06011233-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> 宮城野親方の退職騒動　引き金になった元幕内・北青鵬、旭大星の断髪式に現る！　照ノ富士親方と握手も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0257777c8960357765fc08f9bf0bcf007d2b2bfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d8672dd0e90a5ad63afa9cc993294a39211daad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-10181343-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 赤沢大臣、4回目の日米関税協議を終え帰国「合意に向けた議論が進展していることを確認」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0716ce241dde380760ffd88ced5be0c9c071008>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90032472-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 東名高速道路の路側帯に小学生2人を乗せた車転落　車の運転手の行方わからず　静岡・浜松市　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5dfb7260159f31321dda307cb844784f74ecd9502db43aa7f31c87f34508e8b7.jpg> 林氏 参院選は政権選択選挙に匹敵
+      <a href=https://news.yahoo.co.jp/pickup/6540818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6e8b946ea11e6004f4c2ddcaf6e3d3d393a45159dfede80221a3a215cc7d9e3a.jpg> 新興右派 支持する人たちの声
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/407abea76994c5635de5f24e89a6b3b68efee39543b820b3293b14e7e2897c98.jpg> Repezen Foxx 2025年で解散
+      <a href=https://news.yahoo.co.jp/pickup/6540823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d1360a8dc6bb12bdccb66cbbba18533a45967ba6d90083b02410940602ec18fa.jpg> LiLiCo「21の職業を持っていて」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 19:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 19:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
