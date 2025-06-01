@@ -5,7 +5,7 @@ import type { JSXElementType } from '@/types/components';
 
 const meta = {
   args: {
-    href: '/',
+    href: '#',
     icon: GithubIcon,
     title: 'GitHub'
   },

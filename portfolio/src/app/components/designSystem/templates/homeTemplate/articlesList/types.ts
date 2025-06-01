@@ -5,11 +5,11 @@ type ArticlesListProps = {
   articles: {
     createdAt: Date;
     description: string;
-    slug: string;
+    href: string;
     title: string;
   }[];
-  articlesHref: string;
   locale: LocaleKeyType;
+  readArticle: string;
 };
 
 type ArticlesListType = ComponentType<ArticlesListProps>;

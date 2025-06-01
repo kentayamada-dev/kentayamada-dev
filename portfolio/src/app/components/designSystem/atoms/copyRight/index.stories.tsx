@@ -5,7 +5,7 @@ const meta = {
   args: {
     author: 'John Doe',
     copyrightYear: 2024,
-    homepageUrl: 'http://www.example.com'
+    homepageUrl: '#'
   },
   component: CopyRight
 } satisfies Meta<typeof CopyRight>;

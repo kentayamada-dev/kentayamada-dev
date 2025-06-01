@@ -3,7 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    homeHref: '/',
+    homeHref: '#',
     label: 'Go back to home',
     message: {
       main: 'Main Message',

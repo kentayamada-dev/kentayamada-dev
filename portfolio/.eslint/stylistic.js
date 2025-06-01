@@ -17,14 +17,7 @@ const stylisticRule = addPrefixRule(stylisticPrefix, {
     { blankLine: 'always', prev: 'type', next: 'type' }
   ],
   'dot-location': ['error', 'property'],
-  'indent': [
-    'error',
-    2,
-    {
-      'SwitchCase': 1,
-      'ignoredNodes': ['ConditionalExpression']
-    }
-  ],
+  'indent': ['error', 2],
   'object-curly-spacing': ['error', 'always'],
   'quotes': ['error', 'single'],
   'space-before-function-paren': [

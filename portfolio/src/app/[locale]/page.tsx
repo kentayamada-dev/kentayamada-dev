@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { HomeTemplate } from '@/components/designSystem/templates';
 import { contentfulType } from '@/constants/contentful';
+import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getAbout, getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
@@ -35,11 +36,14 @@ const Page: PageType = async (props) => {
     return notFound();
   }
 
+  const { readArticle } = dictionaries[locale];
+  const articlesHref = navigationItems(locale).articles.href;
+
   const articles = (await getArticles(locale)).map((article) => {
     return {
       createdAt: new Date(article.sys.firstPublishedAt),
       description: article.description,
-      slug: article.slug,
+      href: `${articlesHref}/${article.slug}`,
       title: article.title
     };
   });
@@ -47,13 +51,13 @@ const Page: PageType = async (props) => {
   return (
     <HomeTemplate
       articles={articles}
-      articlesHref={navigationItems(locale).articles.href}
       coverImage={{
         title: about.coverImage.title,
         url: about.coverImage.url
       }}
       locale={locale}
       paragraph={about.paragraph}
+      readArticle={readArticle}
       subtitle={about.subtitle}
       title={about.title}
     />

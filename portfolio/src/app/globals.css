@@ -5,8 +5,8 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --breakpoint-sm: 30rem;
-  --breakpoint-md: 50rem;
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 60rem;
 }
 
 @theme inline {

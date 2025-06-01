@@ -3,7 +3,7 @@ import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
-import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
+import { getMetadataObject } from '@/lib/nextjs';
 import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
@@ -34,18 +34,14 @@ const Page: PageType = async (props) => {
 
   const articles = (await getArticles(locale)).map((article) => {
     return {
-      coverImage: {
-        title: article.title,
-        url: `${articlesHref}/${article.slug}${OPENGRAPH_IMAGE_PATH}`
-      },
       createdAt: new Date(article.sys.firstPublishedAt),
       description: article.description,
-      slug: article.slug,
+      href: `${articlesHref}/${article.slug}`,
       title: article.title
     };
   });
 
-  return <ArticlesTemplate articles={articles} articlesHref={articlesHref} locale={locale} title={title} />;
+  return <ArticlesTemplate articles={articles} locale={locale} title={title} />;
 };
 
 export { Page as default, generateMetadata };

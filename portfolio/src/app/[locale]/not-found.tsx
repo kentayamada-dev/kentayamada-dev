@@ -2,6 +2,7 @@ import { cookies } from 'next/headers';
 import { NotFound } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { arrayOfLocales, defaultLocale, dictionaries, localeCookieName } from '@/constants/i18n';
+import { navigationItems } from '@/constants/navigation';
 import { getMetadata } from '@/lib/graphql-request';
 import { getNotFoundMetadataObject } from '@/lib/nextjs';
 import { isValueInArray } from '@/typeGuards';
@@ -33,7 +34,7 @@ const NotFoundPage: NotFoundPageType = async () => {
 
   return (
     <NotFound
-      homeHref={`/${locale}`}
+      homeHref={navigationItems(locale).home.href}
       label={homeLinkLabel}
       message={{
         main: metadata.title,

@@ -57,6 +57,7 @@ const Page: ArticlePageType = async (props) => {
   }
 
   const articlesDict = dictionaries[locale].articles;
+  const articlesHref = navigationItems(locale).articles.href;
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const articleContent = await unified()
@@ -76,7 +77,7 @@ const Page: ArticlePageType = async (props) => {
     return {
       createdAt: new Date(articleData.sys.firstPublishedAt),
       description: articleData.description,
-      slug: articleData.slug,
+      href: `${articlesHref}/${articleData.slug}`,
       title: articleData.title
     };
   });
@@ -85,7 +86,6 @@ const Page: ArticlePageType = async (props) => {
     <ArticleTemplate
       articleTitle={article.title}
       articles={articles}
-      articlesHref={navigationItems(locale).articles.href}
       articlesListTitle={articlesDict.recommend}
       // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
       content={articleContent.result}

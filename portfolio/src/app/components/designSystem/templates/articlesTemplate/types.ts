@@ -5,10 +5,9 @@ type ArticlesTemplateProps = {
   articles: {
     createdAt: Date;
     description: string;
-    slug: string;
+    href: string;
     title: string;
   }[];
-  articlesHref: string;
   locale: LocaleKeyType;
   title: string;
 };

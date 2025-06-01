@@ -28,7 +28,7 @@ const Switcher: SwitcherType = (props) => {
 
                   return (
                     <div
-                      className={`${focus && 'bg-slate-100 dark:bg-slate-600/30'} ${selected ? 'text-blue-500' : 'text-slate-500 dark:text-slate-400'} cursor-pointer px-6 py-2 text-sm font-semibold sm:text-base`}
+                      className={`${focus && 'bg-slate-100 dark:bg-slate-600/30'} ${selected ? 'text-blue-500' : 'text-slate-500 dark:text-slate-400'} cursor-pointer px-6 py-2 text-sm font-medium sm:text-base`}
                     >
                       <ListItem icon={icon} title={name} />
                     </div>

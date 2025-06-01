@@ -8,7 +8,7 @@ const NavItems: NavItemsType = (props) => {
       <ul className='flex gap-x-4'>
         {Object.entries(props.items).map(([key, { href, title }]) => {
           return (
-            <li className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} font-semibold`} key={key}>
+            <li className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} font-medium`} key={key}>
               <Link href={href} legacyBehavior passHref>
                 <CustomLink title={title} />
               </Link>

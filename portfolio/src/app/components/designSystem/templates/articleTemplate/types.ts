@@ -5,10 +5,9 @@ type ArticleTemplateProps = ArticleProps & {
   articles: {
     createdAt: Date;
     description: string;
-    slug: string;
+    href: string;
     title: string;
   }[];
-  articlesHref: string;
   articlesListTitle: string;
 };
 

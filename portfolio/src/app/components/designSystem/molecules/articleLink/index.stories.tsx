@@ -8,7 +8,7 @@ const meta = {
   args: {
     createdAt: new Date('2025-08-26T21:50:14.930Z'),
     description: 'Description',
-    href: '/',
+    href: '#',
     locale: defaultLocale,
     title: 'Title'
   },

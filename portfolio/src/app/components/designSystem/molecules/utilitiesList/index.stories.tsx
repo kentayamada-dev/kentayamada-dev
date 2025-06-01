@@ -8,43 +8,26 @@ const meta = {
     locale: defaultLocale,
     utilities: [
       {
-        coverImage: {
-          title: 'Cover Image Title 1',
-          url: 'storybook/image1.jpg'
-        },
-        slug: 'slug-1',
+        href: '/title-1',
         subtitle: 'Subtitle 1',
         title: 'Title 1'
       },
       {
-        coverImage: {
-          title: 'Cover Image Title 2',
-          url: 'storybook/image2.jpg'
-        },
-        slug: 'slug-2',
+        href: '/title-2',
         subtitle: 'Subtitle 2',
         title: 'Title 2'
       },
       {
-        coverImage: {
-          title: 'Cover Image Title 3',
-          url: 'storybook/image3.jpg'
-        },
-        slug: 'slug-3',
+        href: '/title-3',
         subtitle: 'Subtitle 3',
         title: 'Title 3'
       },
       {
-        coverImage: {
-          title: 'Cover Image Title 4',
-          url: 'storybook/image4.jpg'
-        },
-        slug: 'slug-4',
+        href: '/title-4',
         subtitle: 'Subtitle 4',
         title: 'Title 4'
       }
-    ],
-    utilitiesHref: '/utilities'
+    ]
   },
   component: UtilitiesList
 } satisfies Meta<typeof UtilitiesList>;

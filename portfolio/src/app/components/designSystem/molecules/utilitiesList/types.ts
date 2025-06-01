@@ -4,15 +4,10 @@ import type { ComponentType } from '@/types/components';
 type UtilitiesListProps = {
   locale: LocaleKeyType;
   utilities: {
-    coverImage: {
-      title: string;
-      url: string;
-    };
-    slug: string;
+    href: string;
     subtitle: string;
     title: string;
   }[];
-  utilitiesHref: string;
 };
 
 type UtilitiesListType = ComponentType<UtilitiesListProps>;

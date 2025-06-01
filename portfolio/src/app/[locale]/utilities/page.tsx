@@ -29,10 +29,18 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const utilities = await getUtilities(locale);
   const title = dictionaries[locale].utilities;
+  const utilitiesHref = navigationItems(locale).utilities.href;
 
-  return <UtilitiesTemplate locale={locale} title={title} utilities={utilities} utilitiesHref={navigationItems(locale).utilities.href} />;
+  const utilities = (await getUtilities(locale)).map((utility) => {
+    return {
+      href: `${utilitiesHref}/${utility.slug}`,
+      subtitle: utility.subtitle,
+      title: utility.title
+    };
+  });
+
+  return <UtilitiesTemplate locale={locale} title={title} utilities={utilities} />;
 };
 
 export { Page as default, generateMetadata };

@@ -10,9 +10,9 @@ const ProjectsList: ProjectsListType = (props) => {
         const { createdAt, description, forkCount, name, stargazerCount, updatedAt, url } = project;
 
         return (
-          <Link className='bg-primary group hover-primary flex h-72 flex-col rounded-lg p-5' href={url} key={name}>
+          <Link className='bg-primary group hover-primary flex h-full w-full flex-col rounded-lg p-5 sm:aspect-square' href={url} key={name}>
             <h2 className='text-primary line-clamp-2 text-2xl font-bold'>{name}</h2>
-            <p className='text-primary mt-2 line-clamp-5 text-sm'>{description}</p>
+            <p className='text-secondary mt-2 line-clamp-5 text-base'>{description}</p>
             <div className='mt-auto'>
               <div className='text-secondary flex justify-between text-base font-semibold'>
                 <div className='flex gap-x-3'>

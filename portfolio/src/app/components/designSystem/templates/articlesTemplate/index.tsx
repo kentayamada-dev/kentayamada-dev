@@ -8,14 +8,15 @@ const ArticlesTemplate: ArticlesTemplateType = (props) => {
       <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
         {props.articles.map((article) => {
           return (
-            <ArticleLink
-              createdAt={article.createdAt}
-              description={article.description}
-              href={`${props.articlesHref}/${article.slug}`}
-              key={article.slug}
-              locale={props.locale}
-              title={article.title}
-            />
+            <div className='sm:aspect-square' key={article.href}>
+              <ArticleLink
+                createdAt={article.createdAt}
+                description={article.description}
+                href={article.href}
+                locale={props.locale}
+                title={article.title}
+              />
+            </div>
           );
         })}
       </div>

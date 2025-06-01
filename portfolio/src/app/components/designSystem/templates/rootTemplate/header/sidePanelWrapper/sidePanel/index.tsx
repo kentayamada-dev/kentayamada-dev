@@ -42,7 +42,7 @@ const SidePanel: SidePanelType = (props) => {
               {Object.entries(props.items).map(([key, { href, icon, title }]) => {
                 return (
                   <li
-                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} rounded-lg p-2 font-semibold hover:cursor-pointer hover:bg-slate-100 hover:dark:bg-slate-600/30`}
+                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} rounded-lg p-2 font-medium hover:cursor-pointer hover:bg-slate-100 hover:dark:bg-slate-600/30`}
                     key={key}
                   >
                     <Link href={href} legacyBehavior passHref>
