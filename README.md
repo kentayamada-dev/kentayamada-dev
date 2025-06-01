@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95682a53ab3e3f37e59c9f8ff541f59e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4b40da0d34ff64c114a36e891446185.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec23c25111f6e3b99c4ca5253fab6a6eaf53e218>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-10181378-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=975&ch=975&exp=10800&fmt=webp> ガザの支援物資配給所でイスラエル軍が発砲 少なくとも31人死亡
+      <a href=https://news.yahoo.co.jp/articles/67b14e7753a5946434b333b07c6f71a520895cc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ南部で31人死亡、食料配給所付近でイスラエル軍の銃撃＝保健省
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/9184ee97b3b5243dd4e6c23e1ff77255dbddcfced4c1c08e6416a3d4a3457242.jpg> 石破内閣支持率34.6%に上昇 JNN
+      <a href=https://news.yahoo.co.jp/pickup/6540878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/097f13c351a24480f92814bdee514b2b7353d793fd6c9a8dfa6407c346b96bfc.jpg> 地方創生「ふるさと住民」創設案
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/94f4be4b619a60331fd09c01f7da7ee757e974f8caaa2d01712918030a85f42b.jpg> 角田裕毅13位撃沈 更迭論が沸騰
+      <a href=https://news.yahoo.co.jp/pickup/6540865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
+      <a href=https://news.yahoo.co.jp/pickup/6540874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/94f4be4b619a60331fd09c01f7da7ee757e974f8caaa2d01712918030a85f42b.jpg> 角田裕毅13位撃沈 更迭論が沸騰
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 07:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 08:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
