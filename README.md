@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f31b4508b3e844a11d7fc700b1a02f13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec3c97e61a394f6e37036b8d9cf8ea13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aec10a4f387d16186b61595bf00b8f44c4914bd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000393-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=502&ch=502&exp=10800&fmt=webp> 「サザエさん」イクラ役声優の交代にネット「とうとう…」「声変わりかぁ」桂玲子の体調心配する声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35e357670ba3363f05b0df46eee607d27820c95a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ガザの支援物資拠点で250人超死傷　イスラエル軍が攻撃か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000041-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ガザの支援物資拠点で230人超死傷　イスラエル軍が攻撃か
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbf2ccef7bff00dadf8bf4e8f31175cc8c940cef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04577849-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 次長課長・河本準一、パニック障害・うつ病を公表「1歩ずつ前を向いて進んで行ければ」2月から休養していた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0257777c8960357765fc08f9bf0bcf007d2b2bfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6e8b946ea11e6004f4c2ddcaf6e3d3d393a45159dfede80221a3a215cc7d9e3a.jpg> 新興右派 支持する人たちの声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/7b9d12c8f38c592099cea9a087501e5abe56a5d7cef1200df12f6d75d6ba1100.jpg> これがルール 元農相苦言に小泉氏
+      <a href=https://news.yahoo.co.jp/pickup/6540846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/29692eadc5a110ea03b2b90c127c849b16dc59917793d96cd498f50742d97747.jpg> 和歌山知事選 宮崎氏が初当選確実
       </a>
     </td>
   </tr>
@@ -442,24 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6540845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/55eb9ebbd6edb0d86398285714db619bda673dd89b0d28e8d7d1343eb06ed76e.jpg> グレタさん 支援物資を携えガザへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6efb970ac57cd3a84042746bc5466e7a2f761defa4a3438fb8b2b43f45d7a2ab.jpg> 暴力問題で引退 元力士が断髪式に
+      <a href=https://news.yahoo.co.jp/pickup/6540808>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02231280/title-1748697374868.jpeg?exp=10800> 米関税巡り 新型iPhone値上げか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/585205510267b86b5a17d907cc8ca8f2221a0f6d331c417e9d2581d4ba5beedc.jpg> G大勢まさかの大誤算 監督かばう
+      <a href=https://news.yahoo.co.jp/pickup/6540843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f6d0f438350b49611662ca2f00d8994c77d0ff1d3c0c0c08a6aca006a872ad10.jpg> サザエさん・イクラ役 降板発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/facb991c3e354342a0bbb507ebaa385050ca50a8fb7342e7bbcb22c64b10566e.jpg> 休養中の河本準一 うつ病など公表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 20:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
