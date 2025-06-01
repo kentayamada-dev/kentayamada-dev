@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae742a5bdbdf85f0e901294193bf1e86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77f0c2b8e098ded5ca233ced8bad69e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffec5e6fc990b5de72a888a8ac7ccb112f26cdb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01268407-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 森本慎太郎、『F1／エフワン』吹替え初挑戦は「楽しかった」と笑顔！森川智之が「すばらしい。声優業も極めてほしい」と瞳キラリ
+      <a href=https://news.yahoo.co.jp/articles/c4bb79c3d8ac2ebe9ca54d9431e03380eecae664>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04577835-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=466&ch=466&exp=10800&fmt=webp> レペゼン、解散を発表 大晦日にラストライブ開催へ【全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67afad74142f04469e7fdda00f7971fe9d7fc414>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980455-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 児童福祉施設の職員切りつけた28歳女「子どもを返して」と別の施設で叫んで暴れたことも　職員は出血性ショックで死亡　佐賀市
+      <a href=https://news.yahoo.co.jp/articles/f9d70ac7f1a652e808f529c577da370209582629>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21950089-rkbv-000-2-thumb.jpg?exp=10800&fmt=webp> 【続報】児童福祉施設で女性職員が包丁で切りつけられ死亡　死因は出血性ショック
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d42ccd3d8d75e569a5b37ff7ac9d1a6aca8db786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010003-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【週間天気】3日(火)は九州～関東で大雨のおそれ　週後半は真夏日続出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【週間天気】3日(火)は九州～関東で大雨のおそれ　週後半は真夏日続出
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d404dcd30b0936780c71f19343313918a6fe3e8547b2f3c9c24fdd994472c59e.jpg> 4日以降 九州～関東で夏日急増か
+      <a href=https://news.yahoo.co.jp/pickup/6540817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5dfb7260159f31321dda307cb844784f74ecd9502db43aa7f31c87f34508e8b7.jpg> 林氏 参院選は政権選択選挙に匹敵
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540824>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/72732197e24eeb4e2684ad1049a37ca2a3f2562da45693a6b20e896b4859926a.jpg> 高速道路に車が転落 子どもら搬送
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/391387bc8d1dd0c078962986de4a1001677338bfbde971b3ce837ceef0a98dd2.jpg> 驚き「虹色の飛行機雲」を撮影
+      <a href=https://news.yahoo.co.jp/pickup/6540816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6540829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/585205510267b86b5a17d907cc8ca8f2221a0f6d331c417e9d2581d4ba5beedc.jpg> G大勢まさかの大誤算 監督かばう
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/407abea76994c5635de5f24e89a6b3b68efee39543b820b3293b14e7e2897c98.jpg> Repezen Foxx 2025年で解散
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 18:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 18:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
