@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4b40da0d34ff64c114a36e891446185.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8016b1770bfa174334f7d06ce74f6b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bb16e4821ccc8bc19923e8a4b71ff45881133b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 「一瞬寝てた…」東名高速に車転落　小学生2人を残し運転者が逃走　浜松・初生町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67b14e7753a5946434b333b07c6f71a520895cc8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ南部で31人死亡、食料配給所付近でイスラエル軍の銃撃＝保健省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88961d10a7a55e1634f1f22233b0b437a6788c5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000108-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 夏ドラマは“嵐祭”　相葉雅紀＆櫻井翔＆松本潤が9時台ドラマ主演
       </a>
     </td>
   </tr>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c043cf8685d4a85afc19bef9a80699aa8cc99b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 淀川河川敷で血を流した男性　何者かに刺されたか　大阪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ef62bb78519e2c99a751dcb4b013bc30a77de49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 【彦野利勝の目】暴投で勝ち越し許した巨人・大勢に疑問…真っすぐで追い込みながら「その前にも暴投した変化球をなぜ選んだのか」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/5827e3460b04b841eddc657d89dd81c48647edf04864b187f16d622109a716f0.jpg> ウクライナ シベリアで無人機攻撃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540878>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/502fb85dba7f3313444203929c750b3eb4d710227daefbc2298b0a6265a7e38c.jpg> 横田基地で汚染水が漏出 米報告書
+      <a href=https://news.yahoo.co.jp/pickup/6540880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a32d69372bfb562ab222a3087405b02935243f0075dc7f242fec38d6e819412a.jpg> 生活保護減額3千億円規模か 試算
       </a>
     </td>
   </tr>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e2a018881d67f1e6a1462b9f4aef49b8a1b94ef2d649a1485ca6eb4962a6c0fe.jpg> 燃料漏れ引火か 女性全身燃え移る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b9a89f171db0efe648be9e8ad6fca1fd9ba98254abfc9e17d7e9b98d93983f9f.jpg> 歩道に刺し傷ある男性 命別条なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
+      <a href=https://news.yahoo.co.jp/pickup/6540882>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> Switch2 小売業者の利幅大きめか
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540874>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/94f4be4b619a60331fd09c01f7da7ee757e974f8caaa2d01712918030a85f42b.jpg> 角田裕毅13位撃沈 更迭論が沸騰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/99109b7473c583d6b85753b388cd8e07941d816d78fb962244ad0e81cfbbc327.jpg> 「嵐祭」3人が9時台ドラマ主演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 08:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 08:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
