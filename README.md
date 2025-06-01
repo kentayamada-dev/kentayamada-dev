@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19cb3dc882fc25529be2b19d294d4aec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eebf2e243ee14c9226d7eec7de969e64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97b269af1990a62935840c7a87b13d901a5b0705>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949840-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 小泉農水大臣も実食「ちょっと硬いかな」 古古古米はどんな味?　“令和のコメ騒動”異例の放出は吉と出るか【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/33daa055fbd1833513833699345dc336432260be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000291-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【日本ダービー】クロワデュノールV！一口馬主のユーチューバー・ンダホが大泣き「最高の気分です」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0d9421a92d06dd1e5ce7a9bcddeec1a2476a051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949868-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 児童福祉施設で55歳女性職員が包丁で切りつけられ死亡　現行犯逮捕の28歳女は子供と会うため施設を訪れたか　取り調べに「記憶にないから分からない」
+      <a href=https://news.yahoo.co.jp/articles/17f2fa3aaca73c97bda733565b31e6ddb7b2ddf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949955-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【児童福祉施設切りつけ事件】　女性職員が死亡し28歳の女を逮捕　先月は「子供返して」と福祉機関を訪れ警察に保護　　殺人容疑に切り替えて捜査する方針　佐賀市
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/9d65b377d2ab0d9aefba98b50b7b621ad526b5a6dcd12ba6e4bd3f11f21c3dfe.jpg> クロワデュノール 日本ダービーV
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6b4028e041348914dd6c6e49e6791ada9dabf9199b45fab2e50824c9a971c888.jpg> クロワデュノール 日本ダービーV
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 16:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 16:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
