@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e48cd66add841113996f9c328dbf96b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae742a5bdbdf85f0e901294193bf1e86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8d430a64471f755d736fdc17394611a4ec8d2ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-02359158-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督「私はホッとしている」大谷翔平の2度目のライブBPは2イニング　制球が定まらず悔しそうな表情も
+      <a href=https://news.yahoo.co.jp/articles/ffec5e6fc990b5de72a888a8ac7ccb112f26cdb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-01268407-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 森本慎太郎、『F1／エフワン』吹替え初挑戦は「楽しかった」と笑顔！森川智之が「すばらしい。声優業も極めてほしい」と瞳キラリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17f2fa3aaca73c97bda733565b31e6ddb7b2ddf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-21949955-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【児童福祉施設切りつけ事件】　女性職員が死亡し28歳の女を逮捕　先月は「子供返して」と福祉機関を訪れ警察に保護　　殺人容疑に切り替えて捜査する方針　佐賀市
+      <a href=https://news.yahoo.co.jp/articles/67afad74142f04469e7fdda00f7971fe9d7fc414>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00980455-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 児童福祉施設の職員切りつけた28歳女「子どもを返して」と別の施設で叫んで暴れたことも　職員は出血性ショックで死亡　佐賀市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d42ccd3d8d75e569a5b37ff7ac9d1a6aca8db786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010003-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【週間天気】3日(火)は九州～関東で大雨のおそれ　週後半は真夏日続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8d430a64471f755d736fdc17394611a4ec8d2ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-02359158-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロバーツ監督「私はホッとしている」大谷翔平の2度目のライブBPは2イニング　制球が定まらず悔しそうな表情も
       </a>
     </td>
   </tr>
@@ -394,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540814>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/72732197e24eeb4e2684ad1049a37ca2a3f2562da45693a6b20e896b4859926a.jpg> 高速道路に車が転落 子どもら搬送
       </a>
@@ -402,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3268d2caee791b8610cc1b829ead5eef5015fadc5fb4208c1e49f982c747df32.jpg> 児童福祉施設で事件 女は先月保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/633a65a12bacd8b648a8027ba81a2935469ec8884113c99f9eb9e9630cc0aaac.jpg> 癒しか冒涜か AIで「よみがえり」
+      <a href=https://news.yahoo.co.jp/pickup/6540826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/5d786c916ca45b0e50e4ba12db4f1d260f44a0f00e5f5e40610d7b1949b848ab.jpg> 「異常な低賃金」歯科技工士激減
       </a>
     </td>
   </tr>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6540800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/391387bc8d1dd0c078962986de4a1001677338bfbde971b3ce837ceef0a98dd2.jpg> 驚き「虹色の飛行機雲」を撮影
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/6143b83898fc2f8c903ad42d335d547065dc1f97fecbb4d9c688d3e354a87f98.jpg> 芸人・永野が映画監督 斎藤工出演
+      <a href=https://news.yahoo.co.jp/pickup/6540816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a860c6916d062309ca28ee2308e6492473f44209b2bf37c2828026aefe574f33.jpg> ダービー表彰式に小泉氏 どよめき
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 17:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 18:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
