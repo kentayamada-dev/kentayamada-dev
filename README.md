@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec3c97e61a394f6e37036b8d9cf8ea13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3fa65ed028676b1e82245a456c99047.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aec10a4f387d16186b61595bf00b8f44c4914bd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000393-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=502&ch=502&exp=10800&fmt=webp> 「サザエさん」イクラ役声優の交代にネット「とうとう…」「声変わりかぁ」桂玲子の体調心配する声も
+      <a href=https://news.yahoo.co.jp/articles/24ba02f418d35d43170b1eb3f04267c75adb9ee9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000044-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 日米関税交渉  石破首相「合意向け全力を」　赤沢氏が報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f2f69762611ff16d91e58e3c35bf5090e45b977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90020087-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 児童福祉施設で職員切りつけ　職員の死因判明【佐賀県】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d42400da2f3863f49b59e9a7f7010f8476a34ea8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000114-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=878&ch=878&exp=10800&fmt=webp> EXILE、ATSUSHIがついに完全復活！アンコールでサプライズ登場　全国ツアーファイナル、ファンからは悲鳴のような大歓声
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/408ef8f3175db5f45d3f2400a3552795b888b293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00000030-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 4回目の日米協議を終え 赤沢大臣が帰国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0257777c8960357765fc08f9bf0bcf007d2b2bfc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-36011441-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、二刀流復活後初ライブBP　２回29球投げ２安打「すべての球種に自信」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d42ccd3d8d75e569a5b37ff7ac9d1a6aca8db786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【週間天気】3日(火)は九州～関東で大雨のおそれ　週後半は真夏日続出
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d2a29748ad053111f000bfad4c863daa3d37fc6d1af37aba85800581d24c43c6.jpg> 森山氏 日本の国債評価はぎりぎり
+      <a href=https://news.yahoo.co.jp/pickup/6540849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/56b23b6f9d307f95b9c6f13331011745b384b68f2d20a0ba743b4f80a95ce51d.jpg> 鉄鋼関税増 日米交渉で知らされず
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/11236e20568262a486415a73305734e29e19cf1ada005fec586b3fc887f10970.jpg> 新卒採用の選考解禁 ルール形骸化
+      <a href=https://news.yahoo.co.jp/pickup/6540834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/aab83095f818510e9288964a8e4e4470eab1ae460fc1b52a35e82f3871e74e04.jpg> 高速道路に車が転落 運転手は逃走
+      <a href=https://news.yahoo.co.jp/pickup/6540840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540808>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02231280/title-1748697374868.jpeg?exp=10800> 米関税巡り 新型iPhone値上げか
+      <a href=https://news.yahoo.co.jp/pickup/6540848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/caf6e8e5e4816b786b71618bf897cb2d55a7752397a7518a3bada5dfa35e6304.jpg> ディスコに熱気 楽しむシニア婚活
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 20:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 21:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
