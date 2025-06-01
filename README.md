@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38fc60ed077bfdef66a7884e30f0ddb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0265c0b32880e7239f57ddf4e422dc50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/846ba5e3fd958918d344f79be92813e68dd44b2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04952155-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> パリ・サンジェルマンが初優勝　パリで祝賀ムードも…一部暴徒化
+      <a href=https://news.yahoo.co.jp/articles/6fc40b837e5a7bde798b1151f609c5fb47996126>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07131418-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 浴槽で双子男児ぐったりと…1人死亡「目を離していた」　東京・足立区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/684b7f57e0e7a3b9cd716e8460e2058c087995c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-90020083-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 佐賀市の児童福祉施設で殺人未遂　女逮捕【佐賀県】
+      <a href=https://news.yahoo.co.jp/articles/846ba5e3fd958918d344f79be92813e68dd44b2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-04952155-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> パリ・サンジェルマンが初優勝　パリで祝賀ムードも…一部暴徒化
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d151d6e72440849aa833ab4eb79d2dae9d0836de1d9be40560e58e8fb6a64107.jpg> 捜索中の小1を池で発見 死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e0a4933d9cf3331e3434b072238f41ed3d8d96ad4ba2451557597e41a56cce10.jpg> 捜索中の小1を池で発見 死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 13:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 13:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
