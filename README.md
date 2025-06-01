@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/537014597fcd4ffc15f09340dab82aa8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ae488938bb631a4bc0db909030330b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8701c54ef3d6035d9ed4b607215e330641bc217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-07240140-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イランの高濃縮ウラン貯蔵量400キロ超 2月から1.5倍に IAEA報告書、イランは反発「政治的な動機に基づく根拠のない非難」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/684b7f57e0e7a3b9cd716e8460e2058c087995c5>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3c17b12f028c1ee083378bd68c7e53588b8406d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250601-35233696-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア西部で橋が崩落、列車脱線で７人死亡　「違法な干渉」を非難
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/20c9fe4ac7280b515d8be2d2fe3b2e2222f861980c080f5f05e19e6787af6156.jpg> 玉木代表 減反政策の転換に賛成
+      <a href=https://news.yahoo.co.jp/pickup/6540790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/cffa1b56326947abedaa39a4719bb41ee71700ef2aebb9e1b02e79109c2f4e2b.jpg> 備蓄米販売 6/1も客が店に行列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/4571cbc5bf858bc0bd2a121bf2fb5bd6483fdec935711489e5555e064f505eab.jpg> ガザ停戦案 ハマスが修正要求か
+      <a href=https://news.yahoo.co.jp/pickup/6540796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/320d9af1a0d3dc8d1ac80a55d0ce39915138059c4be025e92952e63e09814fbb.jpg> イラン高濃縮ウラン貯蔵増 報告書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/c827afe44a8ce3df7c6bd62ad8053f2d2992be2b167c3addb9c1cb27733d9ba9.jpg> 露で橋が崩落し列車脱線 7人死亡
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/a2df99559c2a96a8845796f472170fdee0ad115dda00659b330a235eae8826de.jpg> 政治家失言 なぜ言い訳に家族使う
+      <a href=https://news.yahoo.co.jp/pickup/6540762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0020e2bb2d951023d257ed025457589bee39a64c2f9c02f1d72b2160c248e2a4.jpg> 「冥土喫茶」地方の高齢者救う訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/851e08c7ebe5b2f98d4d72c64ee68fd677a21a910ffa843582022d579bbdc237.jpg> マスク氏 薬物使用報道を否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/03c46d666b48982eefd9813e57250b4bce6fecdef07fd252cfc39516508a8ea2.jpg> 子の田植え体験は必要? SNS賛否
+      <a href=https://news.yahoo.co.jp/pickup/6540777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d83a19b08278127d71f360789a8b6cdd87c5da84557d6626f9b2ee05bc119470.jpg> 元白鵬「後継者」の行方に注目
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/01 14:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/01 14:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
