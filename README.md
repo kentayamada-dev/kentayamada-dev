@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/407f9dbaa4daa935124f65a6acc424f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2559a6940389b4aff65b250cca0de313.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/493cf1fc7a4006b71f755ecbd2ad745df3a13c14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240402-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民・森山幹事長、農業構造転換実施のため既存の予算とは別枠で約2.5兆円の事業予算を石破総理と小泉農林水産大臣に要求
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f2412c622765542efaa8ee8b26370333672836ada5739d51c3ff067ae96d447d.jpg> 韓国大統領選 李在明氏が優勢か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/87232bca2099b9448ccca33f908f255377f2f035c718a0b0d9aa1417538eca98.jpg> 車転落 内縁の妻の子が同乗か
+      <a href=https://news.yahoo.co.jp/pickup/6540965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4c49677b1fbd0da2cd4355c8f64c8f29897a4b1451c0f1cf1e0695f23f15ac15.jpg> 年金法案で自公と合意 立憲に非難
       </a>
     </td>
   </tr>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
+      <a href=https://news.yahoo.co.jp/pickup/6540964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/38534ba5d3c6d6100011e0d675e87854a1ea597d81c78cb8ca1e2bd935262697.jpg> 「並ばない万博」予約は5万人待ち
       </a>
     </td>
   </tr>
@@ -444,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540953>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a76aef54841b32a9842fd41738d6c9f6d450470d86320d57e613d0b35cbc5d28.jpg> セブンおにぎり100円セール実施へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4b1c2326c91cccd17030e68b9cde619608c77b1df5d612c8d7a45736bf4aae16.jpg> AI自動要約でXに不適切投稿 謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 23:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
