@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6c5c762143c80bdd978d01505789935.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f6f35d319a4f6b57900c1688bea0b2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/baf977b9f969645856f33336f2c6f687290306e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 揺らぐ福岡の自公立「指定席」　狙う国民民主も足元に不安　参院選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a75ac5812c2af2827a631f8e6280dbd4fdaeaa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-35233737-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシアとウクライナ、２度目の和平協議　大きな進展なく早々に終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2353c48a4bdbbc026bc260d1c60714691fb34a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010003-kksoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 25連覇を逃した青森山田　正木監督は「自分の監督としての力が足りなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa6fbe3a344b27e2d5e309a7b6e2d0ff4705ce50>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領選、投票始まる　野党李在明氏リードか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b03fe48fda0a72e1bb1285b9c173cba9c8090c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010000-dtohoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 八学野西、悲願の初V　青森山田25連覇阻む／県高総体男子サッカー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6453a6201cbee49d84cbe0063e9023a456167dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981191-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 兵士6000人ずつの遺体・捕虜交換で合意…ウクライナ国防相とロシア大統領補佐官らが2回目の直接交渉　“少なくとも30日間の無条件停戦”はロシアが拒否
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4c49677b1fbd0da2cd4355c8f64c8f29897a4b1451c0f1cf1e0695f23f15ac15.jpg> 年金法案で自公と合意 立憲に非難
+      <a href=https://news.yahoo.co.jp/pickup/6540974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/44acfdf8e4a5c38981527569bf489c63d9b74a4a35b470dedb2e5513db394eb9.jpg> 露 ウに事実上の「降伏」を要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/44acfdf8e4a5c38981527569bf489c63d9b74a4a35b470dedb2e5513db394eb9.jpg> 露 ウに事実上の「降伏」を要求
+      <a href=https://news.yahoo.co.jp/pickup/6540977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0c689ca334b07645c42680bb60eb291fccb1433945e126ec64d098c8d2f93673.jpg> 中国で日本人2人殺害の疑い 拘束
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b1d2811e9eb2ac0d7cc7b4e2e92422f807302f47c76e9952b8272d7b8bf62ec1.jpg> 元白鵬 相撲の新国際組織を構想
+      <a href=https://news.yahoo.co.jp/pickup/6540978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/230b208f69ad6b2e905f1aa341c68dbfec04bb6967fe5721a2b1cf92f3d7aecc.jpg> 春は中止 FNS歌謡祭が夏に生放送
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 07:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 08:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
