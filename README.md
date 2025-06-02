@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2d612401add00530511fd3cb79c931d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13f39acfc9c0c481b379b01c3f364868.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/715f4eb17dd8391c8ba570beab1db6a1ba874136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90026273-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「BE：FIRST」RYOKI、体調不良で欧州公演を欠席へ「一定期間の静養が必要」
+      <a href=https://news.yahoo.co.jp/articles/e0c59bb514685b605e219b8ee867ad331083abc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030043-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は広い範囲で本降りの雨　激しい雷雨の所も　東海の梅雨入りは?　2週間天気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a943de684b6344f1fe5f75b1ac122eea6d2d6fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000012-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ配給所近くでイスラエル軍発砲、死者31人に 負傷者176人超
+      <a href=https://news.yahoo.co.jp/articles/85e372a7f1aa76d1fd9b199ec406089de9d9d08a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f254034ef561c53ef3f0f3a10e7b1891ae23d7d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-02616913-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエル人人質解放を求めるデモ行進中に“火炎瓶”投げつけられる　6人けが　米・コロラド州
+      <a href=https://news.yahoo.co.jp/articles/249c6bba44162773df12b3ddd8e56f7afabb94e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90032483-sut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 転落事故を起こすも小学生2人を現場に“放置”し逃走　警察が運転していた男の居場所を突き止め事情聴く　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf5844f74f9b363082d5d3325d94ac05a55e2873>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-05174367-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=373&ch=373&exp=10800&fmt=webp> BE:FIRSTのRYOKI、海外4公演を出演見送り　体調不良で「一定期間の静養が必要」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e134ba45813af6b5d2cf9c3e132ee4f4af7cd31524819ffa4b13d15cabf61f9b.jpg> 米デモ襲撃 ユダヤ系住民標的か
+      <a href=https://news.yahoo.co.jp/pickup/6540903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e623883a558e3a5fb9e82aefe4d581c5917a045720b279850a4bd6bb94ccb99a.jpg> 農水省が「見立て誤った」と農相
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6defc2b254702485819908b3433ac722ecb947d060779ad01f6d7cc6abcde03f.jpg> 転落後逃走「一瞬寝た」と運転手
+      <a href=https://news.yahoo.co.jp/pickup/6540905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2216541e0e59b70caa3ea177b1996898b2cfbf0c08e902fe779fe48a927c7586.jpg> 東名に車転落 男性から事情聴く
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 12:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 12:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
