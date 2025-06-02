@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/936b2996b98b2b8ec1e242403932ab65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aeac1c8d0c83cb2bb55fe5a64de47734.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/549f9946ae83d4175190c80ca3f3bf6a163fcc83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=1752&ch=1752&exp=10800&fmt=webp> 大谷翔平　爆勝口火打　２戦連続１９度目マルチで５月締め　ド軍、今季最多２１安打１８点　手術後２度目のライブＢＰ
+      <a href=https://news.yahoo.co.jp/articles/c8fdcaa959c2d6e18f40a45f8c26900184f0ebcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 元白鵬、相撲協会を退職　大相撲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a98f2e3c378d1b2fe5e12aa29b266f48ad0ac758>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90004919-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 能登半島地震から1年5カ月…梅雨の時期を前に行方不明者の捜索一部再開、梅雨時期までの土砂撤去に合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/941cf4982a78de75b58e345104face5406a2ff66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240263-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ、きょう再びの直接交渉へ　双方が攻撃を続ける中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85e372a7f1aa76d1fd9b199ec406089de9d9d08a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf5844f74f9b363082d5d3325d94ac05a55e2873>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-05174367-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=373&ch=373&exp=10800&fmt=webp> BE:FIRSTのRYOKI、海外4公演を出演見送り　体調不良で「一定期間の静養が必要」
       </a>
     </td>
   </tr>
@@ -370,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 北海道で震度4 津波被害心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6540900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/416a57a47a31908abc4c4a916ec12ffbff468e426b25677affb39ccc971086f9.jpg> 能登地震 行方不明者の捜索を再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/9184ee97b3b5243dd4e6c23e1ff77255dbddcfced4c1c08e6416a3d4a3457242.jpg> 石破内閣支持率34.6%に上昇 JNN
+      <a href=https://news.yahoo.co.jp/pickup/6540903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e623883a558e3a5fb9e82aefe4d581c5917a045720b279850a4bd6bb94ccb99a.jpg> 農水省が「見立て誤った」と農相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/3a66fbd421747b0be00bb0a7e7ac373ef61b9017f270b50b2ab99efda548e182.jpg> 備蓄米放出 倉庫収入月4億円減か
+      <a href=https://news.yahoo.co.jp/pickup/6540908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cd7b243a854ea54e02bf5e5c125aee56984e8d1da02903aad8ceb257226728b7.jpg> 保育園の駐車場 1歳はねられ死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/e2a018881d67f1e6a1462b9f4aef49b8a1b94ef2d649a1485ca6eb4962a6c0fe.jpg> 燃料漏れ引火か 女性全身燃え移る
+      <a href=https://news.yahoo.co.jp/pickup/6540905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2216541e0e59b70caa3ea177b1996898b2cfbf0c08e902fe779fe48a927c7586.jpg> 東名に車転落 男性から事情聴く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 住宅ローン破たん 40代以降に警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6540901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/daf1697aad1a882fe9f16b83cfb3bf76431b0c318113d0a6f7eb227bf81b5697.jpg> イカのマチ函館に激震 初競り中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/0b3b3ec72a7477503fd69a48f9619bc0773a50d20559b527c84dd272849daf9a.jpg> PSG優勝喜ぶ中 2人死亡559人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/acbe02521072e2ef0220b58f5555f7a7955d270e7fa259c8e97a6a79cfa55370.jpg> 性行為ない友情結婚 子育てる2人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/f58234ed95323bd506151df8751d4f8e2a3acad06d2c15a612844d36bb6800dd.jpg> 集団転校した選手 自己ベスト連発
+      <a href=https://news.yahoo.co.jp/pickup/6540894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f56e429923ecb03c2a3d81aa2e32ffad02cec7fd09b60ff5b2a11a42cda1d379.jpg> 由伸7勝目ならず ベンチでぼう然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/1/d76a0ba8367e53bfa3a57aff9b1701ff4dbdabfe3e835fd88a9325c71f0475f9.jpg> RYOKI体調不良 ツアー4公演欠席
+      <a href=https://news.yahoo.co.jp/pickup/6540891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7ec089950ec02ffab28c057fd88afef234d453cbd938f63105b5de30d2fc11c8.jpg> 竹田麗央 全米女子OP賞金1.5億円
       </a>
     </td>
   </tr>
@@ -436,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 05:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 13:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
