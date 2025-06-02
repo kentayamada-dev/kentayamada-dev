@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92257fdcb4d8193b142ecc2310017ada.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f50821581a5f4ca1bf709988cef228e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a98f2e3c378d1b2fe5e12aa29b266f48ad0ac758>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90004919-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 能登半島地震から1年5カ月…梅雨の時期を前に行方不明者の捜索一部再開、梅雨時期までの土砂撤去に合わせ
+      <a href=https://news.yahoo.co.jp/articles/e579308f1fcbe153b8e2e116fae4f688571fc724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010003-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 覆面の男が民間人女性に発砲　イスラエル軍が映像を公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/941cf4982a78de75b58e345104face5406a2ff66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240263-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ、きょう再びの直接交渉へ　双方が攻撃を続ける中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85e372a7f1aa76d1fd9b199ec406089de9d9d08a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
+      <a href=https://news.yahoo.co.jp/articles/e0c59bb514685b605e219b8ee867ad331083abc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030043-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は広い範囲で本降りの雨　激しい雷雨の所も　東海の梅雨入りは?　2週間天気
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/c0e9b46f82f88bf46512586f4dd5998d8252e04080379aa08bf9a624315b67d7.jpg> 嵐 ファンクラブ新規入会受付再開
+      <a href=https://news.yahoo.co.jp/pickup/6540917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/43973db1c30ce416ea7e45e4f06f74f64683f440d34e5c76a1502f4797f8c12c.jpg> Switch2価格巡る報道 任天堂否定
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 14:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 15:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
