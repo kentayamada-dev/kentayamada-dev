@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dccd9d2e63cc35d81aab68a65f2ead6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1adc59807441b206e1a76a16cc7d3778.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d72f1dd33bc0992f738594dd4627b3816bd2412d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 橋幸夫さん「一過性脳虚血発作」で救急搬送 検査入院へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/202fe2b8cc2e6cce06f4955fd8f14e081ac77c20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-10181455-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=978&ch=978&exp=10800&fmt=webp> ガザの支援物資配給所でイスラエル軍発砲 31人死亡200人負傷
+      <a href=https://news.yahoo.co.jp/articles/de94a39b96262e84a57c1f745bfe060cf4f86fbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000007-htbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米、首都圏では長蛇の列　道内はいつ店頭に？　道内コメ販売業者「１日も早い入荷をお願いしている」
       </a>
     </td>
   </tr>
@@ -381,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3271f509ceca8057cf807f696541bbdec5d22c07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-03558548-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【特集】大統領選直前の韓国を緊急取材！フライドチキンに争点が？！“グルメ取材”で見えた、社会の根深い問題
+      <a href=https://news.yahoo.co.jp/articles/8b2b81dcdd5279fe12de900a2f6cbd3ab0b1b81f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-36020681-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 元Juice=Juice宮崎由加、第１子妊娠発表「出産後は一定期間活動を控え」23年一般男性と結婚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/941cf4982a78de75b58e345104face5406a2ff66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240263-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ、きょう再びの直接交渉へ　双方が攻撃を続ける中
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540915>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/bd943d9be8f3aefa70ecacfabc8b704783510c24d1aa929655a6fe73db11e256.jpg> 国民民主勢いに陰り 火消しに躍起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/78899b677228f41bd6e62ffab5de98fe99f4d2d820f52b3f3f0d4c356f9a88c9.jpg> 国立大学病院「限界」各地で危機
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4c12396a98cf6326c8923674c19e69996e71f65fbab127b1f9a450ff79a53a31.jpg> 名古屋の住宅街にニホンカモシカ
+      <a href=https://news.yahoo.co.jp/pickup/6540920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/eca240255a2059f6a508e6727e8fa8dcc38c6a96f46e5fc6784f8d1852754c0a.jpg> 横綱経験者 角界去る事例相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/43973db1c30ce416ea7e45e4f06f74f64683f440d34e5c76a1502f4797f8c12c.jpg> Switch2価格巡る報道 任天堂否定
+      <a href=https://news.yahoo.co.jp/pickup/6540922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/3033e24d6c862dede1a25659e721fba9ddd793de35a479ca8c76fc706e3ca07a.jpg> 元Juice=Juice宮崎由加 第1子妊娠
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e82022a0f88282b0577df1a977f1342fdf42fbd07c8683b4dda606abba28cd.jpg> 橋幸夫が入院 一過性脳虚血発作
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 15:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 16:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
