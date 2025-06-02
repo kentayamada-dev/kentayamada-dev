@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bd8fae9afc112d5ea2ff4e837c3bf18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2abc94522217a400c662d8ed98f5136.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a070ba5ae41ecc288807c08855d08a406a2bebf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240451-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「捕虜の交換について合意」「病人や若者、遺体の交換に焦点」ロシアとウクライナ2回目の直接交渉1時間あまりで終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d349bbaabbf8f4500d62c49339329508d6e95869>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490955-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国大統領選候補が最後の訴え　李在明氏「投票で内乱終息を」・金文洙氏「怪物独裁阻止」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bc9d575bf2e7b0f9cecff96f712b9b9939aca66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 万博の大屋根リング350メートル保存案　コスト削減で短縮、大阪府市が提案へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bde5b987303f8eb0ca1263db3156e7247e0c083>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08487386-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシアとウクライナの2回目の直接協議が終了～タス通信
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7770b78dc7f49d799c569053d0f74fe4bcf8897ac16d6a6420c703cf2472899f.jpg> 露とウの直接協議が終了 難航か
+      <a href=https://news.yahoo.co.jp/pickup/6540969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/512cf4a68f28b87e86c7640f0d788d34becaecc0b1511c16a9356a30a169cbb2.jpg> 無条件停戦を露拒否 ウ側が明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/33b02f171819366db53c030b05fb675b462c9dd4029e0eac2470591e28b396f6.jpg> イラン 核巡る米提案を拒否の方針
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cd0284c14593e8b48ad465516e76d6d5f5185bbabcb1413cfc84a52199a14641.jpg> 情報流出巡る告発 兵庫県警が受理
+      <a href=https://news.yahoo.co.jp/pickup/6540946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540953>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a76aef54841b32a9842fd41738d6c9f6d450470d86320d57e613d0b35cbc5d28.jpg> セブンおにぎり100円セール実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4b1c2326c91cccd17030e68b9cde619608c77b1df5d612c8d7a45736bf4aae16.jpg> AI自動要約でXに不適切投稿 謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 23:51:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 00:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
