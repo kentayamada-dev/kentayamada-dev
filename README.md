@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aceb2b389519b9a193182a972f5713de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79b6813dfa41e634b0a5c897dd24f555.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05b9e3353c41215e67c94513c08625b4d7e2cc63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240465-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ2回目の直接交渉　新たな捕虜交換で合意　ロシアが“和平に関する考えをまとめた覚書”をウクライナに手渡し
+      <a href=https://news.yahoo.co.jp/articles/2e9cb2b57edc72aa9b38d0cc88338aa423d9497d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952813-sbsv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “交際相手”の34歳女を逮捕 東名高速への車転落で逃走・逮捕の無職男を匿ったか=静岡県警【速報】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe6a55b78d00103fc19afe60211412275243555a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240453-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> なぜ子ども置き去り？ 母の“交際相手”の男（47）を逮捕…東名高速転落事故　約10年前に交通違反で免許取消　知人「食事の際は自分が迎えに…」【news23】
+      <a href=https://news.yahoo.co.jp/articles/05b9e3353c41215e67c94513c08625b4d7e2cc63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240465-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ2回目の直接交渉　新たな捕虜交換で合意　ロシアが“和平に関する考えをまとめた覚書”をウクライナに手渡し
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 04:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 04:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
