@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6408d3a233aed2c53745d8f306432703.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce672e191a28cf12a2e6241cc1d61f1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/626bf32f4d5396a142ab79fe1252ed98d6c41193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000066-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 備蓄米売り出し開始も、多くの事業者は販売に至らず　地方の店舗に届くのは6月末？
+      <a href=https://news.yahoo.co.jp/articles/c4da31adc1276091c1aaff73921d0056c7446e4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90025730-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 【備蓄米】福岡での販売いつ？  準備進む精米工場「早くて6月中旬ごろには店頭に」　関東での販売には1000人超の行列も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e44414e9cce7cb596749ab9c29f680a5a7b86d99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01863191-hokkoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 輪島不明者の捜索再開　土砂崩れ現場１年３カ月ぶり
+      <a href=https://news.yahoo.co.jp/articles/43041787d10834256780bb6228a532fb37d2fe8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00980829-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 能登半島地震で行方不明となっている女性の捜索が再開　大規模土砂崩れで行方不明に　石川・輪島市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3d9708ec12aa514f3cc193fef956c813038f9be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07788947-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 東名高速に車転落…逃走男を逮捕　無免許運転など疑い　静岡
+      <a href=https://news.yahoo.co.jp/articles/2c9e3c19dd989b52c282df519f158513837638b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=619&ch=619&exp=10800&fmt=webp> ウクライナが「真珠湾攻撃」決行！ロシア国内に運び込んだドローンで軍用機41機を破壊
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae53600a04dfd826c07f41998b3068372ef9b0ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イクラちゃんの声優、交代　アニメ「サザエさん」
+      <a href=https://news.yahoo.co.jp/articles/3f94148eff0567f9f5b9ed0b14a55abe65108f73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000029-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 1億円 “頂き男子” 三山凌輝、メンバーと笑顔の “しっぽり飲み” 投稿に疑問符…「体調不良」公表のバッドタイミング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/941cf4982a78de75b58e345104face5406a2ff66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240263-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ、きょう再びの直接交渉へ　双方が攻撃を続ける中
+      <a href=https://news.yahoo.co.jp/articles/7c9c2421280a41a5b4ccb62a1292a20e9a6660c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-36020926-nksports-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 青森山田が今世紀初の県内公式戦黒星、418連勝でストップ　県総体連覇も24で止まる　サッカー
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/8b5fac7e5ed766a7850d0d263881a58e8891205d555ad1c258bc0cd4f6ec98c6.jpg> 小中「家庭訪問」いる?いらない?
+      <a href=https://news.yahoo.co.jp/pickup/6540919>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiimasumi/02231853/title-1748746993177.jpeg?exp=10800> 闘犬種が犬かみ殺す 問われる管理
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/eca240255a2059f6a508e6727e8fa8dcc38c6a96f46e5fc6784f8d1852754c0a.jpg> 横綱経験者 角界去る事例相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6540926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/8b5fac7e5ed766a7850d0d263881a58e8891205d555ad1c258bc0cd4f6ec98c6.jpg> 小中「家庭訪問」いる?いらない?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 16:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 17:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
