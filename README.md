@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6adb65692d80ae1f12a31611f8f65a0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8e9de10da7d8e3cf948cc5ab3c70794.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/231b545d0c28474e62e65450c7fa395b09e0a6c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 「彼は試合中に故意にレッド＆イエローカードを受け取りオンライン賭博の結果を操作していた」サッカー豪州リーグ所属のMF檀崎竜孔がスポーツ賭博の“八百長”加担の疑いで逮捕・起訴
+      <a href=https://news.yahoo.co.jp/articles/6a3757f08cf36ee6774d3e14859d4a741c631c64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010000-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 青森の絶対王者・青森山田が総体予選で敗れ25連覇ならず　八戸学院野辺地西が青森の新王者に輝く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17cc752721cba369955ed620b3e6a3bd4a3cf63c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240472-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシアとウクライナ2回目の直接交渉　新たな捕虜交換で合意も「覚書」でロシア強硬姿勢崩さず
+      <a href=https://news.yahoo.co.jp/articles/6453a6201cbee49d84cbe0063e9023a456167dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981191-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシア 2回目の直接交渉　捕虜の交換などで合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d0a459a7b9a5c79bbb263999269c5e123b748877>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000008-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=743&ch=743&exp=10800&fmt=webp> ジョンソン氏、永久欠番に　イチロー氏とともに「51」
       </a>
     </td>
   </tr>
@@ -380,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540969>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/512cf4a68f28b87e86c7640f0d788d34becaecc0b1511c16a9356a30a169cbb2.jpg> 無条件停戦を露拒否 ウ側が明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/33b02f171819366db53c030b05fb675b462c9dd4029e0eac2470591e28b396f6.jpg> イラン 核巡る米提案を拒否の方針
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a76aef54841b32a9842fd41738d6c9f6d450470d86320d57e613d0b35cbc5d28.jpg> セブンおにぎり100円セール実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540956>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b36bda9b9c9afdddbb84b274a900158951113cb00465a45bf96409d1a94a3d92.jpg> 賭博疑いMF檀崎選手逮捕 豪報道
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b34c5987e8c37a087c47e6bf38d24134aa72ccf4ab39208ebfa67af6972d9aea.jpg> 元横綱白鵬 退職のコメント発表
+      <a href=https://news.yahoo.co.jp/pickup/6540972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/4494cb8857c19f2354c2c999f77f38aeb560c033d23398eaa2b8756ff3bd5dd3.jpg> マリナーズ「51」ダブル永久欠番
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b1d2811e9eb2ac0d7cc7b4e2e92422f807302f47c76e9952b8272d7b8bf62ec1.jpg> 元白鵬 相撲の新国際組織を構想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/adf6ed2583b318f8b02ba45ef797bdd12c6f707f34fb49c9ccdcac06621dc47d.jpg> 嵐FC受け付け再開 申し込み殺到
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 06:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 06:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
