@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ffa2a534ff10924fa4978637952f4d09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfa933c571eaeac04bb268e076fb0506.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a83c6c151d37f9a967e07aec1781b66d67c3a55c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00980585-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナとロシアきょう2回目の直接交渉へ　ロシア側はNATO加盟断念する「中立化」求める方針　トルコ・イスタンブール
+      <a href=https://news.yahoo.co.jp/articles/5e1ab5a96f288173a8f7257ba93c559356aefc23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000133-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> 山本由伸　ヤンキース元エースが期待「卓越した技術を持つ投手」メジャーに「1年かけて」順応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c49d41a3fc540c0dd56db851006f6627d71775e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240246-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザで拘束されている人質の解放訴える集会で参加者に火をつける　複数人がけが　FBIはテロとして捜査　米コロラド州
+      <a href=https://news.yahoo.co.jp/articles/5cfe13713fe57f91eb1bf71605655903b58be61d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000019-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=346&ch=346&exp=10800&fmt=webp> ２日に停戦交渉を提案していたのに…ロシア、ウクライナの追加掌握に出た
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e24c6ff60d001b08ca8ceea92902ad8ac863bef3078b10c2d58b7002a85f35da.jpg> 「六月病」とは 心の疲れ感じたら
+      <a href=https://news.yahoo.co.jp/pickup/6540893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6defc2b254702485819908b3433ac722ecb947d060779ad01f6d7cc6abcde03f.jpg> 転落後逃走「一瞬寝た」と運転手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/94f4be4b619a60331fd09c01f7da7ee757e974f8caaa2d01712918030a85f42b.jpg> 角田裕毅13位撃沈 更迭論が沸騰
+      <a href=https://news.yahoo.co.jp/pickup/6540886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e24c6ff60d001b08ca8ceea92902ad8ac863bef3078b10c2d58b7002a85f35da.jpg> 「六月病」とは 心の疲れ感じたら
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 09:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 10:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
