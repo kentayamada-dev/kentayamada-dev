@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e06e35c8b4fcb5ff57206869eb269c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21b0fe873922c394eedc442c542658ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e9cb2b57edc72aa9b38d0cc88338aa423d9497d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952813-sbsv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “交際相手”の34歳女を逮捕 東名高速への車転落で逃走・逮捕の無職男を匿ったか=静岡県警【速報】
+      <a href=https://news.yahoo.co.jp/articles/4da760d7a3e1cecc649e3d8f920cd880efd5dffe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00137805-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=500&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ぶれるトランプ、戦争をやめる気がないプーチン、ウクライナに「さらに愛する人を失う」と恫喝したメジンスキー大統領補佐官とはどんな人物か？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05b9e3353c41215e67c94513c08625b4d7e2cc63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240465-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ2回目の直接交渉　新たな捕虜交換で合意　ロシアが“和平に関する考えをまとめた覚書”をウクライナに手渡し
+      <a href=https://news.yahoo.co.jp/articles/2e9cb2b57edc72aa9b38d0cc88338aa423d9497d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952813-sbsv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “交際相手”の34歳女を逮捕 東名高速への車転落で逃走・逮捕の無職男を匿ったか=静岡県警【速報】
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 05:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 05:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
