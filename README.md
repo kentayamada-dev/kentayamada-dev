@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/873b271a466ce2d6c8f0bc5e0a1e9e10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/567c161c040f07965b20b0579302bcdf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da6e640829ae2dc17aa8f0365ab7868f8bf7df2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000053-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「消費税を下げる約束はどんなことがあってもできない」自民・森山幹事長
+      <a href=https://news.yahoo.co.jp/articles/5a5eb82c8fb1084bc41b7911799c73696e801170>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「消費税を下げる約束はどんなことがあってもできない」　自民・森山幹事長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92a1bac7f49a46d097b313030b5ab8c10802075d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000108-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 板谷由夏４９歳　大手芸能プロから独立を発表「不安ある」も「中年だって進化したい」
+      <a href=https://news.yahoo.co.jp/articles/030992d2d67a4ced70ad49afc121473a775d272a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-16012133-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ポーランド大統領選、保守派の歴史家ナヴロツキ氏が僅差で逆転勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/163f7c5fa27d12ba19fb132ac5a6f37ad37609b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-35233731-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】ロシア・ウクライナ和平協議目前の大規模ドローン攻撃、トランプ氏の信頼性は窮地に
+      <a href=https://news.yahoo.co.jp/articles/65b3c5c3740bf96e984e99417e4bd20601b08d47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-21951932-tuy-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 地方で備蓄米は手に入る!?随意契約分は山形県内小売店に入荷予定なし　東京・大阪などから販売…鈴木憲和衆議院議員は備蓄米放出に疑問符「国民に平等な物価高対策を」（山形）
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540919>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiimasumi/02231853/title-1748746993177.jpeg?exp=10800> 闘犬種が犬かみ殺す 問われる管理
+      <a href=https://news.yahoo.co.jp/pickup/6540930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1d8d8979f6f477dcb83cd76ab02b47d7f883eee23d4ea0892529d2541779b94a.jpg> 万博会場の虫 発生源について発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/51edfd0a68c17b9d175c023f7926d0dfcacd3f22987a9d5efea88830d4f49db3.jpg> 誤って離婚届を受理 市が謝罪
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/efc4bb761ef9e8517119145878cf901bd88379d5c98cb88728aa8886ac995742.jpg> 板谷由夏 アミューズから独立
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 17:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 18:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
