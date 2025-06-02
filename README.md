@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/264c8484c5bc142090743c0e6f91c27a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6c5c762143c80bdd978d01505789935.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a3757f08cf36ee6774d3e14859d4a741c631c64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010000-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 青森の絶対王者・青森山田が総体予選で敗れ25連覇ならず　八戸学院野辺地西が青森の新王者に輝く
+      <a href=https://news.yahoo.co.jp/articles/fa6fbe3a344b27e2d5e309a7b6e2d0ff4705ce50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領選、投票始まる　野党李在明氏リードか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aee9bfd6899f07d593f7735473cfde2b68847d40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240462-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国大統領選挙きょう投開票　野党・李在明候補「内乱行為の責任を問う」 与党・金文洙候補「怪物総統独裁の出現を防ぐ」
+      <a href=https://news.yahoo.co.jp/articles/3b03fe48fda0a72e1bb1285b9c173cba9c8090c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010000-dtohoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 八学野西、悲願の初V　青森山田25連覇阻む／県高総体男子サッカー
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0a459a7b9a5c79bbb263999269c5e123b748877>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000008-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=743&ch=743&exp=10800&fmt=webp> ジョンソン氏、永久欠番に　イチロー氏とともに「51」
+      <a href=https://news.yahoo.co.jp/articles/cbe773eacb1a6e7676df27d4b214a1cb4fbb9aa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000012-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「FNS歌謡祭」にHANA、CLASS SEVEN、timelesz、中島健人、Number_iら出演
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/74dca69cdc649edf61d3c81948e6cd4fa9f62de97aeebc06cd2b5fce51d36533.jpg> 車転落 男かくまった疑いで女逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540962>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2387aa4e2c0b83420fd3bbfa6436177d7f3addfd16fb2acfc6c854dd09e412ff.jpg> 職員死亡 子との面会拒否で犯行か
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
+      <a href=https://news.yahoo.co.jp/pickup/6540975>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジ系列局に所得隠し指摘 11億円
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/adf6ed2583b318f8b02ba45ef797bdd12c6f707f34fb49c9ccdcac06621dc47d.jpg> 嵐FC受け付け再開 申し込み殺到
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 07:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 07:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
