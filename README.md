@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae4dae06e384b1eb083be93b24a218a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9aaa9f1c9be069190b40d22f4560cc1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61b5a5c9f1c7b5b8329ad07e27df94f8aaf1a1e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07112786-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】東名に転落　車を放置し現場から逃走した男逮捕　無免許運転・事故不申告の疑いも（浜松市）
+      <a href=https://news.yahoo.co.jp/articles/111187daa48da2dea8fe0ac7ba5142ea364c7c2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000095-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 住宅街にニホンカモシカ　名古屋、見守り呼びかけ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/416a57a47a31908abc4c4a916ec12ffbff468e426b25677affb39ccc971086f9.jpg> 能登地震 行方不明者の捜索を再開
+      <a href=https://news.yahoo.co.jp/pickup/6540904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/78899b677228f41bd6e62ffab5de98fe99f4d2d820f52b3f3f0d4c356f9a88c9.jpg> 国立大学病院「限界」各地で危機
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0d028d4d1d1d98ad02fd7fdb5e9139a89b8e48667b7ff67e230a3908d54b272e.jpg> 深夜にガガガガ 耳栓着け寝る住民
+      <a href=https://news.yahoo.co.jp/pickup/6540910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1c395a4e164ee509141b49e738cbde0894d842000d49a3ba7609528eec4251fe.jpg> 車転落し小学生放置 逃走の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/daf1697aad1a882fe9f16b83cfb3bf76431b0c318113d0a6f7eb227bf81b5697.jpg> イカのマチ函館に激震 初競り中止
+      <a href=https://news.yahoo.co.jp/pickup/6540906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0d028d4d1d1d98ad02fd7fdb5e9139a89b8e48667b7ff67e230a3908d54b272e.jpg> 深夜にガガガガ 耳栓着け寝る住民
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7ec089950ec02ffab28c057fd88afef234d453cbd938f63105b5de30d2fc11c8.jpg> 竹田麗央 全米女子OP賞金1.5億円
+      <a href=https://news.yahoo.co.jp/pickup/6540913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/c0e9b46f82f88bf46512586f4dd5998d8252e04080379aa08bf9a624315b67d7.jpg> 嵐 ファンクラブ新規入会受付再開
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 13:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 14:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
