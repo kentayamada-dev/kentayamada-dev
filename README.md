@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bfa933c571eaeac04bb268e076fb0506.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/69aaba3ba73c0c6c69c571089d106f26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e1ab5a96f288173a8f7257ba93c559356aefc23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000133-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> 山本由伸　ヤンキース元エースが期待「卓越した技術を持つ投手」メジャーに「1年かけて」順応
+      <a href=https://news.yahoo.co.jp/articles/64bea77c135c12b9f5dc08cdcad41197692165f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-04578149-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=466&ch=466&exp=10800&fmt=webp> BE:FIRST・RYOKI、体調不良でワールドツアー4公演欠席発表「活動休止までの数少ない公演が7人で行えず誠に申し訳ございません」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d06520a105ad6ce046daaf4f987f6b842132005>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021050-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平、得意の６月も３打席目まで安打なし　山本由伸今季最短４回途中４失点ＫＯ
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef077f3d23b095a28012259b662a07e9c641da3f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ガザ配給所でイスラエル軍に「四方八方から撃たれた」 住民ら証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9222f9bb6c35a5ddc432657cd76621c12a163499>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490861-yonh-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=435&ch=435&exp=10800&fmt=webp> 韓国大統領選　李在明氏と金文洙氏がソウルで最後の遊説へ＝選挙戦最終日
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/528d5cf26a751ce3f8f472614e1ba23f05d289497922b0b1799fa3059a26c751.jpg> 備蓄米「買いたくない」48% JNN
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540893>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6defc2b254702485819908b3433ac722ecb947d060779ad01f6d7cc6abcde03f.jpg> 転落後逃走「一瞬寝た」と運転手
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e24c6ff60d001b08ca8ceea92902ad8ac863bef3078b10c2d58b7002a85f35da.jpg> 「六月病」とは 心の疲れ感じたら
+      <a href=https://news.yahoo.co.jp/pickup/6540895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6097296a9e64092437b29c8098c28c6eb1c9d34e1dc7ff5606601b8b37ba6dcc.jpg> 備蓄米販売の店に1000人の長い列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a1ffc947987950b71a2b5ff93f577c097d66580f2c4f8fd4fcfa950d48c54d3a.jpg> 23h営業が問う 外食の限界と未来
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f56e429923ecb03c2a3d81aa2e32ffad02cec7fd09b60ff5b2a11a42cda1d379.jpg> 由伸7勝目ならず ベンチでぼう然
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/99109b7473c583d6b85753b388cd8e07941d816d78fb962244ad0e81cfbbc327.jpg> 「嵐祭」3人が9時台ドラマ主演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 10:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 10:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
