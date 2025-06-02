@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/567c161c040f07965b20b0579302bcdf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64a03fa3d7a58d831f0d6cd431a807d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9ead7a7b43051ce3a6af7ab221276b328d7efd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-21952311-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 能登半島地震の行方不明者 警察が1年3か月ぶりに捜索再開 石川・輪島市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5448106841b6cf14b4122bd69cfcd6a97bbfa683>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030049-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は関東～九州で激しい雨や雷雨　道路が川のようになる所も　車の運転など注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a5eb82c8fb1084bc41b7911799c73696e801170>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「消費税を下げる約束はどんなことがあってもできない」　自民・森山幹事長
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/030992d2d67a4ced70ad49afc121473a775d272a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-16012133-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ポーランド大統領選、保守派の歴史家ナヴロツキ氏が僅差で逆転勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/65b3c5c3740bf96e984e99417e4bd20601b08d47>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-21951932-tuy-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 地方で備蓄米は手に入る!?随意契約分は山形県内小売店に入荷予定なし　東京・大阪などから販売…鈴木憲和衆議院議員は備蓄米放出に疑問符「国民に平等な物価高対策を」（山形）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43041787d10834256780bb6228a532fb37d2fe8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00980829-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 能登半島地震で行方不明となっている女性の捜索が再開　大規模土砂崩れで行方不明に　石川・輪島市
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0cd34c8ce27126cd1713a11d56fea8d0b2170a90cdd916309ef2ca9a87898f60.jpg> 森山氏 消費税下げる公約できない
+      <a href=https://news.yahoo.co.jp/pickup/6540936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/3fd9dfce84878e38c124f638136f7189e4dfa427e5bc51f0264baecc2a6a82c7.jpg> 3日 関東～九州で激しい雨や雷雨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540925>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 無人機攻撃で露損失1兆円 ウ発表
+      <a href=https://news.yahoo.co.jp/pickup/6540927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0cd34c8ce27126cd1713a11d56fea8d0b2170a90cdd916309ef2ca9a87898f60.jpg> 森山氏 消費税下げる公約できない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 18:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 18:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
