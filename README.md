@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d713730ee08a7e1107d4be5c7e4c79c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec0e05e7152cd86e0dab55d805e4f32d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5af148f5c072e06102ea00c5072e9eff40dfa2b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-08249289-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 露とウクライナ、新たな捕虜交換などで合意　2回目の直接協議は1時間あまりで終了
+      <a href=https://news.yahoo.co.jp/articles/05b9e3353c41215e67c94513c08625b4d7e2cc63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240465-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ2回目の直接交渉　新たな捕虜交換で合意　ロシアが“和平に関する考えをまとめた覚書”をウクライナに手渡し
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 03:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 03:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
