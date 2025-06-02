@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f6f35d319a4f6b57900c1688bea0b2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50469ff025ca07af3eb80725b0bb465f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b7bf1bfcac6dc3d224481e90f97eb5d0dd428f38cb48f89fce540f03a23f9cbe.jpg> 参院選375人が出馬予定 読売集計
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540973>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e3862702d276f07be417495c64b50a4d58751eafedf6e70ac8fe4733fc3ccc28.jpg> 内閣不信任案なら解散 首相検討
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2387aa4e2c0b83420fd3bbfa6436177d7f3addfd16fb2acfc6c854dd09e412ff.jpg> 職員死亡 子との面会拒否で犯行か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540975>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジ系列局に所得隠し指摘 11億円
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/4494cb8857c19f2354c2c999f77f38aeb560c033d23398eaa2b8756ff3bd5dd3.jpg> マリナーズ「51」ダブル永久欠番
+      <a href=https://news.yahoo.co.jp/pickup/6540982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/05deb1304c82f8445997ab48f902860d71e8fb0f496763bace9394cc907868ba.jpg> 楽天 メジャー20年本塁打王獲得へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 08:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 08:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
