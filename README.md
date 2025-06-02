@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f50821581a5f4ca1bf709988cef228e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dccd9d2e63cc35d81aab68a65f2ead6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e579308f1fcbe153b8e2e116fae4f688571fc724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010003-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 覆面の男が民間人女性に発砲　イスラエル軍が映像を公開
+      <a href=https://news.yahoo.co.jp/articles/d72f1dd33bc0992f738594dd4627b3816bd2412d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 橋幸夫さん「一過性脳虚血発作」で救急搬送 検査入院へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c59bb514685b605e219b8ee867ad331083abc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030043-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は広い範囲で本降りの雨　激しい雷雨の所も　東海の梅雨入りは?　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/202fe2b8cc2e6cce06f4955fd8f14e081ac77c20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-10181455-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=978&ch=978&exp=10800&fmt=webp> ガザの支援物資配給所でイスラエル軍発砲 31人死亡200人負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4149137d65d4911180105955a6ddfd3a89de9699>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01531665-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石川・輪島市で行方不明者の捜索再開　能登半島地震
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3271f509ceca8057cf807f696541bbdec5d22c07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-03558548-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【特集】大統領選直前の韓国を緊急取材！フライドチキンに争点が？！“グルメ取材”で見えた、社会の根深い問題
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf5844f74f9b363082d5d3325d94ac05a55e2873>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-05174367-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=373&ch=373&exp=10800&fmt=webp> BE:FIRSTのRYOKI、海外4公演を出演見送り　体調不良で「一定期間の静養が必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21837de599a8bea905b478f4e13d386538c50d98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000016-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=256&ch=256&exp=10800&fmt=webp> 「Switch 2」の卸売価格に関する報道は“事実ではない”　任天堂が公式Xで声明
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e623883a558e3a5fb9e82aefe4d581c5917a045720b279850a4bd6bb94ccb99a.jpg> 農水省が「見立て誤った」と農相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cd7b243a854ea54e02bf5e5c125aee56984e8d1da02903aad8ceb257226728b7.jpg> 保育園の駐車場 1歳はねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6540897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b0482b526af822ad0221eed788d0513885ccfa94ee66a8c48bbb42b6d50b09bd.jpg> MSのロシア子会社 破産申請へ
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540910>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1c395a4e164ee509141b49e738cbde0894d842000d49a3ba7609528eec4251fe.jpg> 車転落し小学生放置 逃走の男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/db517b28bcfc459e2701c65be3cb1a44e311e21520d2fd82a916649888780261.jpg> ひき逃げの疑い 救急隊員を逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 15:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 15:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
