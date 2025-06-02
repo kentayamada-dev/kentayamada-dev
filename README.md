@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5145e780fac0066e5b33d460543e8805.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/407f9dbaa4daa935124f65a6acc424f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d349bbaabbf8f4500d62c49339329508d6e95869>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490955-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国大統領選候補が最後の訴え　李在明氏「投票で内乱終息を」・金文洙氏「怪物独裁阻止」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/605cc141b0fff14e02703c553c07f1c9027fb2eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 児福施設職員殺害　「解決見えない」関係者に衝撃　識者はどう見る?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bc9d575bf2e7b0f9cecff96f712b9b9939aca66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 万博の大屋根リング350メートル保存案　コスト削減で短縮、大阪府市が提案へ
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bde5b987303f8eb0ca1263db3156e7247e0c083>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08487386-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシアとウクライナの2回目の直接協議が終了～タス通信
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/215b4cfee0dd5121924010f9df33980a6a761b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名車転落、逃走の男逮捕　無免許疑い、静岡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f39cbfae92e7d8ec0bab1ebcdd15c816f054146f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000111-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 非難の応酬、政策論争見えず　韓国大統領選、3日に投開票
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0aaf7df89956d9b182840b828011143e86541e979c5d2ff6130cb5820068d36d.jpg> 露とウの直接協議始まる 難航予想
+      <a href=https://news.yahoo.co.jp/pickup/6540963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7770b78dc7f49d799c569053d0f74fe4bcf8897ac16d6a6420c703cf2472899f.jpg> 露とウの直接協議が終了 難航か
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540955>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 別府ひき逃げ 遺族側がコメント
+      <a href=https://news.yahoo.co.jp/pickup/6540959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/87232bca2099b9448ccca33f908f255377f2f035c718a0b0d9aa1417538eca98.jpg> 車転落 内縁の妻の子が同乗か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/87232bca2099b9448ccca33f908f255377f2f035c718a0b0d9aa1417538eca98.jpg> 車転落 内縁の妻の子が同乗か
+      <a href=https://news.yahoo.co.jp/pickup/6540962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2387aa4e2c0b83420fd3bbfa6436177d7f3addfd16fb2acfc6c854dd09e412ff.jpg> 職員死亡 子との面会拒否で犯行か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 「大事件」青森山田 伝説に終止符
+      <a href=https://news.yahoo.co.jp/pickup/6540957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b34c5987e8c37a087c47e6bf38d24134aa72ccf4ab39208ebfa67af6972d9aea.jpg> 元横綱白鵬 退職のコメント発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 22:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
