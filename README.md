@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d42f01afc8cabe6091c0faa55fea8a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d612401add00530511fd3cb79c931d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3d4a1580405c55655ac9b1fa8ba7a8630850a5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-03287117-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 「赤字赤字…漁に行けない」スルメイカ漁、水揚げわずか数匹　初競り中止は初めて　北海道函館港
+      <a href=https://news.yahoo.co.jp/articles/f254034ef561c53ef3f0f3a10e7b1891ae23d7d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-02616913-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエル人人質解放を求めるデモ行進中に“火炎瓶”投げつけられる　6人けが　米・コロラド州
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540889>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米コロラド州でテロ 複数の負傷者
+      <a href=https://news.yahoo.co.jp/pickup/6540902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e134ba45813af6b5d2cf9c3e132ee4f4af7cd31524819ffa4b13d15cabf61f9b.jpg> 米デモ襲撃 ユダヤ系住民標的か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/42d22992ece203c79e23c61f876af6d52e4e5e2d60790afd989ba1f3044e75e1.jpg> 4月に閉園告知 保護者はとまどい
+      <a href=https://news.yahoo.co.jp/pickup/6540901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/daf1697aad1a882fe9f16b83cfb3bf76431b0c318113d0a6f7eb227bf81b5697.jpg> イカのマチ函館に激震 初競り中止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 11:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 12:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
