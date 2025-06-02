@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f57747aa60df013301845a362e4a31dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d42f01afc8cabe6091c0faa55fea8a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/926d504bd858fedc2b6dda80b00517089d7bd8a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000030-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ミサイル５０発でハマスの首長を射殺しても…「トランプ停戦案」は漂流（２）
+      <a href=https://news.yahoo.co.jp/articles/715f4eb17dd8391c8ba570beab1db6a1ba874136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90026273-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「BE：FIRST」RYOKI、体調不良で欧州公演を欠席へ「一定期間の静養が必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64bea77c135c12b9f5dc08cdcad41197692165f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-04578149-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=466&ch=466&exp=10800&fmt=webp> BE:FIRST・RYOKI、体調不良でワールドツアー4公演欠席発表「活動休止までの数少ない公演が7人で行えず誠に申し訳ございません」
+      <a href=https://news.yahoo.co.jp/articles/2a943de684b6344f1fe5f75b1ac122eea6d2d6fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000012-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ配給所近くでイスラエル軍発砲、死者31人に 負傷者176人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3d4a1580405c55655ac9b1fa8ba7a8630850a5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-03287117-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 「赤字赤字…漁に行けない」スルメイカ漁、水揚げわずか数匹　初競り中止は初めて　北海道函館港
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d71fdcfdf7e1ffa792b6bb3035622347e5c0ed5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-23430477-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ウォラーＦＲＢ理事、年来利下げを予想－一時的なインフレ高進でも
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a32d69372bfb562ab222a3087405b02935243f0075dc7f242fec38d6e819412a.jpg> 生活保護減額3千億円規模か 試算
+      <a href=https://news.yahoo.co.jp/pickup/6540900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/416a57a47a31908abc4c4a916ec12ffbff468e426b25677affb39ccc971086f9.jpg> 能登地震 行方不明者の捜索を再開
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6097296a9e64092437b29c8098c28c6eb1c9d34e1dc7ff5606601b8b37ba6dcc.jpg> 備蓄米販売の店に1000人の長い列
+      <a href=https://news.yahoo.co.jp/pickup/6540899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/acbe02521072e2ef0220b58f5555f7a7955d270e7fa259c8e97a6a79cfa55370.jpg> 性行為ない友情結婚 子育てる2人
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 11:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 11:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
