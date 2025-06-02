@@ -34,6 +34,7 @@ type ArticleType = {
     publishedAt: string;
   };
   title: string;
+  topics: string[];
 };
 
 type AboutResponseType = {
@@ -64,6 +65,7 @@ type ArticlesType = {
   slug: string;
   sys: { firstPublishedAt: string; publishedAt: string };
   title: string;
+  topics: string[];
 }[];
 
 type UtilitiesType = {

@@ -38,6 +38,11 @@ const Article: ArticleType = (props) => {
             </time>
           </div>
         </div>
+        <div className='mt-3 flex flex-wrap justify-center gap-x-2 gap-y-1'>
+          {props.topics.map((topic) => {
+            return <span className='text-sm text-blue-500' key={topic}>{`#${topic}`}</span>;
+          })}
+        </div>
         <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
           <section
             className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-lg prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-lg prose-pre:rounded-tl-none prose-pre:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 max-w-none overflow-auto rounded-lg p-5 sm:p-10`}

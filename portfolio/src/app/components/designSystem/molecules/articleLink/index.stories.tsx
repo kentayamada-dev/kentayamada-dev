@@ -10,7 +10,9 @@ const meta = {
     description: 'Description',
     href: '#',
     locale: defaultLocale,
-    title: 'Title'
+    title: 'Title',
+    topics: ['React', 'JavaScript', 'TypeScript'],
+    views: 10
   },
   component: ArticleLink,
   render: (args): JSXElementType => {

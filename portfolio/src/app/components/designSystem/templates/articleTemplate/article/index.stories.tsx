@@ -59,6 +59,7 @@ const meta = {
     createdAt: new Date('2022-08-26T21:50:14.930Z'),
     locale: defaultLocale,
     tocTitle: 'Toc Title',
+    topics: ['React', 'JavaScript', 'TypeScript'],
     updatedAt: new Date('2023-08-26T21:50:14.930Z')
   },
   component: Article,

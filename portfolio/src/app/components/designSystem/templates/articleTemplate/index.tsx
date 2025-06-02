@@ -11,6 +11,7 @@ const ArticleTemplate: ArticleTemplateType = (props) => {
         createdAt={props.createdAt}
         locale={props.locale}
         tocTitle={props.tocTitle}
+        topics={props.topics}
         updatedAt={props.updatedAt}
       />
       <div className='mt-20 w-full px-5 sm:px-0'>
@@ -18,15 +19,16 @@ const ArticleTemplate: ArticleTemplateType = (props) => {
         <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
           {props.articles.map((article) => {
             return (
-              <div className='aspect-square' key={article.href}>
-                <ArticleLink
-                  createdAt={article.createdAt}
-                  description={article.description}
-                  href={article.href}
-                  locale={props.locale}
-                  title={article.title}
-                />
-              </div>
+              <ArticleLink
+                createdAt={article.createdAt}
+                description={article.description}
+                href={article.href}
+                key={article.href}
+                locale={props.locale}
+                title={article.title}
+                topics={article.topics}
+                views={article.views}
+              />
             );
           })}
         </div>

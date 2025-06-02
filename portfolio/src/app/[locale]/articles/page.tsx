@@ -4,6 +4,7 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
+import { getPageViews } from '@/lib/nextjs/actions';
 import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
@@ -32,14 +33,20 @@ const Page: PageType = async (props) => {
   const title = dictionaries[locale].articles.latest;
   const articlesHref = navigationItems(locale).articles.href;
 
-  const articles = (await getArticles(locale)).map((article) => {
-    return {
-      createdAt: new Date(article.sys.firstPublishedAt),
-      description: article.description,
-      href: `${articlesHref}/${article.slug}`,
-      title: article.title
-    };
-  });
+  const articles = await Promise.all(
+    (await getArticles(locale)).map(async (article) => {
+      const view = await getPageViews(article.title);
+
+      return {
+        createdAt: new Date(article.sys.firstPublishedAt),
+        description: article.description,
+        href: `${articlesHref}/${article.slug}`,
+        title: article.title,
+        topics: article.topics,
+        views: view
+      };
+    })
+  );
 
   return <ArticlesTemplate articles={articles} locale={locale} title={title} />;
 };

@@ -177,6 +177,7 @@ const getArticles: GetArticlesType = cache(async (locale) => {
           title
           slug
           description
+          topics
           sys {
             publishedAt
             firstPublishedAt
@@ -289,6 +290,7 @@ const getArticleBySlug: GetArticleBySlugType = cache(async (locale, slug) => {
           content
           title
           description
+          topics
           sys {
             publishedAt
             firstPublishedAt

@@ -12,6 +12,8 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
+import { getPageViews } from '@/lib/nextjs/actions';
+import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
 import { throwColoredError } from '@/utils';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
@@ -73,27 +75,37 @@ const Page: ArticlePageType = async (props) => {
     .process(article.content);
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
-  const articles = (await getArticles(locale)).map((articleData) => {
-    return {
-      createdAt: new Date(articleData.sys.firstPublishedAt),
-      description: articleData.description,
-      href: `${articlesHref}/${articleData.slug}`,
-      title: articleData.title
-    };
-  });
+  const articles = await Promise.all(
+    (await getArticles(locale)).map(async (articleData) => {
+      const view = await getPageViews(articleData.title);
+
+      return {
+        createdAt: new Date(article.sys.firstPublishedAt),
+        description: article.description,
+        href: `${articlesHref}/${articleData.slug}`,
+        title: articleData.title,
+        topics: articleData.topics,
+        views: view
+      };
+    })
+  );
 
   return (
-    <ArticleTemplate
-      articleTitle={article.title}
-      articles={articles}
-      articlesListTitle={articlesDict.recommend}
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
-      content={articleContent.result}
-      createdAt={new Date(article.sys.firstPublishedAt)}
-      locale={locale}
-      tocTitle={articlesDict.toc}
-      updatedAt={new Date(article.sys.publishedAt)}
-    />
+    <>
+      <ViewTracker title={article.title} />
+      <ArticleTemplate
+        articleTitle={article.title}
+        articles={articles}
+        articlesListTitle={articlesDict.recommend}
+        // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access
+        content={articleContent.result}
+        createdAt={new Date(article.sys.firstPublishedAt)}
+        locale={locale}
+        tocTitle={articlesDict.toc}
+        topics={article.topics}
+        updatedAt={new Date(article.sys.publishedAt)}
+      />
+    </>
   );
 };
 

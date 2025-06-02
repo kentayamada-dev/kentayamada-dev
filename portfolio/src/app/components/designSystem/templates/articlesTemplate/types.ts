@@ -7,6 +7,8 @@ type ArticlesTemplateProps = {
     description: string;
     href: string;
     title: string;
+    topics: string[];
+    views: number;
   }[];
   locale: LocaleKeyType;
   title: string;

@@ -10,6 +10,7 @@ export const envServer = createEnv({
     CONTENTFUL_SPACE_ID: z.string(),
     GITHUB_ACCESS_TOKEN: z.string(),
     RECAPTCHA_SECRET_KEY: z.string(),
+    REDIS_URL: z.string(),
     SITE_URL: z.string()
   }
 });

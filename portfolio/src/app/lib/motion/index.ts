@@ -1,5 +1,5 @@
-import { useSpring, useTransform } from 'framer-motion';
-import type { MotionValue } from 'framer-motion';
+import { useSpring, useTransform } from 'motion/react';
+import type { MotionValue } from 'motion/react';
 
 const INITIAL_SPRING_VALUE = 0;
 

@@ -1,12 +1,12 @@
 'use client';
 
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Input, InputWithCombobox } from '@/components/designSystem/atoms';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
-import { useAnimatedNumber } from '@/lib/framer-motion';
+import { useAnimatedNumber } from '@/lib/motion';
 import { isValueInArray } from '@/typeGuards';
 import { getCurrencyPairs } from '@/utils';
 import type { ComponentPropsWithoutRef } from 'react';

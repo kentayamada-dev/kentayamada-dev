@@ -7,6 +7,8 @@ type ArticleTemplateProps = ArticleProps & {
     description: string;
     href: string;
     title: string;
+    topics: string[];
+    views: number;
   }[];
   articlesListTitle: string;
 };

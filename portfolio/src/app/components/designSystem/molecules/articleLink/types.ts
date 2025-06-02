@@ -7,6 +7,8 @@ type ArticleLinkProps = {
   href: string;
   locale: LocaleKeyType;
   title: string;
+  topics: string[];
+  views: number;
 };
 
 type ArticleLinkType = ComponentType<ArticleLinkProps>;

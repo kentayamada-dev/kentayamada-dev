@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import { memo } from 'react';
 import { ANIMATION_DURATION, HIT_ANIMATION_DURATION } from '../constants';
 import { MoleHead } from './moleHead';

@@ -7,6 +7,7 @@ type ArticleProps = {
   createdAt: Date;
   locale: LocaleKeyType;
   tocTitle: string;
+  topics: string[];
   updatedAt: Date;
 };
 
