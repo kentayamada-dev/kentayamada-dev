@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56c861be0046787a59b0189a7a7bda13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ffa2a534ff10924fa4978637952f4d09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83adcb38aac0323b8eb32f07ff85c82933757052>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】メッツのスタートリオが初のアーチ揃い踏み　3連戦をスイープ　敗れたロッキーズは早くも50敗目
+      <a href=https://news.yahoo.co.jp/articles/a83c6c151d37f9a967e07aec1781b66d67c3a55c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00980585-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナとロシアきょう2回目の直接交渉へ　ロシア側はNATO加盟断念する「中立化」求める方針　トルコ・イスタンブール
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c49d41a3fc540c0dd56db851006f6627d71775e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240246-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザで拘束されている人質の解放訴える集会で参加者に火をつける　複数人がけが　FBIはテロとして捜査　米コロラド州
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef077f3d23b095a28012259b662a07e9c641da3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ガザ配給所でイスラエル軍に「四方八方から撃たれた」 住民ら証言
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9222f9bb6c35a5ddc432657cd76621c12a163499>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490861-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=435&ch=435&exp=10800&fmt=webp> 韓国大統領選　李在明氏と金文洙氏がソウルで最後の遊説へ＝選挙戦最終日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3deb0dc5500b6a0842c0e1b27e5108a7d426e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアとウクライナが2回目の直接交渉へ　双方が和平案提示　難航は必至
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67b14e7753a5946434b333b07c6f71a520895cc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ南部で31人死亡、食料配給所付近でイスラエル軍の銃撃＝保健省
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490861-yonh-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=435&ch=435&exp=10800&fmt=webp> 韓国大統領選　李在明氏と金文洙氏がソウルで最後の遊説へ＝選挙戦最終日
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/097f13c351a24480f92814bdee514b2b7353d793fd6c9a8dfa6407c346b96bfc.jpg> 地方創生「ふるさと住民」創設案
+      <a href=https://news.yahoo.co.jp/pickup/6540889>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米コロラド州でテロ 複数の負傷者
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540882>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> Switch2 小売業者の利幅大きめか
+      <a href=https://news.yahoo.co.jp/pickup/6540886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e24c6ff60d001b08ca8ceea92902ad8ac863bef3078b10c2d58b7002a85f35da.jpg> 「六月病」とは 心の疲れ感じたら
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 09:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 09:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
