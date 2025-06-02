@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/609b7f02aba7bd34d398a1eb82b38ea1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e386822e50278b3026670527b6716f51.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/605cc141b0fff14e02703c553c07f1c9027fb2eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 児福施設職員殺害　「解決見えない」関係者に衝撃　識者はどう見る?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bc9d575bf2e7b0f9cecff96f712b9b9939aca66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 万博の大屋根リング350メートル保存案　コスト削減で短縮、大阪府市が提案へ
+      <a href=https://news.yahoo.co.jp/articles/b40314657b829f4806d7830e4ffe4ad729edf17b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-45958983-gekisaka-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 新たな歴史の扉をこじ開けたのは先人たちの悔し涙が紡いできた伝統の結晶。八戸学院野辺地西が絶対王者・青森山田の県25連覇を阻んで悲願の全国初切符!
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 01:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 02:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
