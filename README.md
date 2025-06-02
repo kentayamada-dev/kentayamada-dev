@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/69aaba3ba73c0c6c69c571089d106f26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f57747aa60df013301845a362e4a31dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/926d504bd858fedc2b6dda80b00517089d7bd8a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000030-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ミサイル５０発でハマスの首長を射殺しても…「トランプ停戦案」は漂流（２）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/64bea77c135c12b9f5dc08cdcad41197692165f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-04578149-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=466&ch=466&exp=10800&fmt=webp> BE:FIRST・RYOKI、体調不良でワールドツアー4公演欠席発表「活動休止までの数少ない公演が7人で行えず誠に申し訳ございません」
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d06520a105ad6ce046daaf4f987f6b842132005>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-06021050-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平、得意の６月も３打席目まで安打なし　山本由伸今季最短４回途中４失点ＫＯ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5cfe13713fe57f91eb1bf71605655903b58be61d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000019-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=346&ch=346&exp=10800&fmt=webp> ２日に停戦交渉を提案していたのに…ロシア、ウクライナの追加掌握に出た
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000019-cnippou-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=346&ch=346&exp=10800&fmt=webp> ２日に停戦交渉を提案していたのに…ロシア、ウクライナの追加掌握に出た
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef077f3d23b095a28012259b662a07e9c641da3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ガザ配給所でイスラエル軍に「四方八方から撃たれた」 住民ら証言
+      <a href=https://news.yahoo.co.jp/articles/d71fdcfdf7e1ffa792b6bb3035622347e5c0ed5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-23430477-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ウォラーＦＲＢ理事、年来利下げを予想－一時的なインフレ高進でも
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/5827e3460b04b841eddc657d89dd81c48647edf04864b187f16d622109a716f0.jpg> ウクライナ シベリアで無人機攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6540880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a32d69372bfb562ab222a3087405b02935243f0075dc7f242fec38d6e819412a.jpg> 生活保護減額3千億円規模か 試算
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a32d69372bfb562ab222a3087405b02935243f0075dc7f242fec38d6e819412a.jpg> 生活保護減額3千億円規模か 試算
+      <a href=https://news.yahoo.co.jp/pickup/6540896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7e427ddfee1b443acbd9686d9af1378851d68da43721a9472a23fb92a4723d7f.jpg> 年内の利下げは可能 米FRB理事
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6097296a9e64092437b29c8098c28c6eb1c9d34e1dc7ff5606601b8b37ba6dcc.jpg> 備蓄米販売の店に1000人の長い列
+      <a href=https://news.yahoo.co.jp/pickup/6540898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/42d22992ece203c79e23c61f876af6d52e4e5e2d60790afd989ba1f3044e75e1.jpg> 4月に閉園告知 保護者はとまどい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a1ffc947987950b71a2b5ff93f577c097d66580f2c4f8fd4fcfa950d48c54d3a.jpg> 23h営業が問う 外食の限界と未来
+      <a href=https://news.yahoo.co.jp/pickup/6540895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/6097296a9e64092437b29c8098c28c6eb1c9d34e1dc7ff5606601b8b37ba6dcc.jpg> 備蓄米販売の店に1000人の長い列
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/d0c85200f06fe916061a69cdff7b429c3c7609e694c14fc46880af68188020a7.jpg> ロッキーズ 59試合目で50敗目に
+      <a href=https://news.yahoo.co.jp/pickup/6540891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7ec089950ec02ffab28c057fd88afef234d453cbd938f63105b5de30d2fc11c8.jpg> 竹田麗央 全米女子OP賞金1.5億円
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 10:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 11:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
