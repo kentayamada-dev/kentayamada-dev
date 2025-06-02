@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6378bcd14313ea17cd7dbea9c98373c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c670ea2cbaebe130bb129285fc15b231.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1764c56987eac9251019b7e74df807c49ccf145a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=873&ch=873&exp=10800&fmt=webp> 別府ひき逃げ　被害者遺族「逮捕まで、私たちの戦いは終わらない」
+      <a href=https://news.yahoo.co.jp/articles/19e1cf151325c9187003629a183d0c71198bbcf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000221-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 豪サッカー、日本人選手逮捕　檀崎容疑者、故意に反則か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/dad32c5782175c2ebbbb53ad1e0875bb09bc2fec0d0af79a7e19da9b34d77d4a.jpg> 別府ひき逃げ 容疑に殺人など追加
+      <a href=https://news.yahoo.co.jp/pickup/6540955>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 別府ひき逃げ 遺族側がコメント
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 大事件 サッカー青森山田予選敗退
+      <a href=https://news.yahoo.co.jp/pickup/6540956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b36bda9b9c9afdddbb84b274a900158951113cb00465a45bf96409d1a94a3d92.jpg> 賭博疑いMF檀崎選手逮捕 豪報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/828ebd1565cdaeda2346b71f72ab8a34b692dd545d66ac49c7d34a758de76ee7.jpg> 南野陽子が客員教授就任 思い語る
+      <a href=https://news.yahoo.co.jp/pickup/6540954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 大事件 サッカー青森山田予選敗退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 21:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 22:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
