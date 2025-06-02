@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7318f7b5899a50df83b0a9d63d3df0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/609b7f02aba7bd34d398a1eb82b38ea1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5af148f5c072e06102ea00c5072e9eff40dfa2b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-08249289-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 露とウクライナ、新たな捕虜交換などで合意　2回目の直接協議は1時間あまりで終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d349bbaabbf8f4500d62c49339329508d6e95869>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490955-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国大統領選候補が最後の訴え　李在明氏「投票で内乱終息を」・金文洙氏「怪物独裁阻止」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-08249289-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 露とウクライナ、新たな捕虜交換などで合意　2回目の直接協議は1時間あまりで終了
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 01:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 01:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
