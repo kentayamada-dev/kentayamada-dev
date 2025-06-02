@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce672e191a28cf12a2e6241cc1d61f1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/873b271a466ce2d6c8f0bc5e0a1e9e10.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4da31adc1276091c1aaff73921d0056c7446e4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90025730-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 【備蓄米】福岡での販売いつ？  準備進む精米工場「早くて6月中旬ごろには店頭に」　関東での販売には1000人超の行列も
+      <a href=https://news.yahoo.co.jp/articles/da6e640829ae2dc17aa8f0365ab7868f8bf7df2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000053-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「消費税を下げる約束はどんなことがあってもできない」自民・森山幹事長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92a1bac7f49a46d097b313030b5ab8c10802075d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000108-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 板谷由夏４９歳　大手芸能プロから独立を発表「不安ある」も「中年だって進化したい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/163f7c5fa27d12ba19fb132ac5a6f37ad37609b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-35233731-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 【分析】ロシア・ウクライナ和平協議目前の大規模ドローン攻撃、トランプ氏の信頼性は窮地に
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c9e3c19dd989b52c282df519f158513837638b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010000-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=619&ch=619&exp=10800&fmt=webp> ウクライナが「真珠湾攻撃」決行！ロシア国内に運び込んだドローンで軍用機41機を破壊
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f94148eff0567f9f5b9ed0b14a55abe65108f73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000029-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 1億円 “頂き男子” 三山凌輝、メンバーと笑顔の “しっぽり飲み” 投稿に疑問符…「体調不良」公表のバッドタイミング
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c9c2421280a41a5b4ccb62a1292a20e9a6660c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-36020926-nksports-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 青森山田が今世紀初の県内公式戦黒星、418連勝でストップ　県総体連覇も24で止まる　サッカー
+      <a href=https://news.yahoo.co.jp/articles/2a582e790a1d7916c704a31ad4261ee0c73baf72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010005-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博会場で大量のユスリカ　発生源が「ウォータープラザ」および「つながりの海」でほぼ確実
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0cd34c8ce27126cd1713a11d56fea8d0b2170a90cdd916309ef2ca9a87898f60.jpg> 森山氏 消費税下げる公約できない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540925>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 無人機攻撃で露損失1兆円 ウ発表
       </a>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b0482b526af822ad0221eed788d0513885ccfa94ee66a8c48bbb42b6d50b09bd.jpg> MSのロシア子会社 破産申請へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540923>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e7412fb8c43ccfa191c468f480ef7a68a8f659e15eab1a8a3e6f890847709a87.jpg> 車転落 男と子に血縁関係なしか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/db517b28bcfc459e2701c65be3cb1a44e311e21520d2fd82a916649888780261.jpg> ひき逃げの疑い 救急隊員を逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/8b5fac7e5ed766a7850d0d263881a58e8891205d555ad1c258bc0cd4f6ec98c6.jpg> 小中「家庭訪問」いる?いらない?
+      <a href=https://news.yahoo.co.jp/pickup/6540931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/98f04dbd8344ed8bc0c135f48c4371004ad2d8e6e87eb8fd9c448971617df5bb.jpg> 入試で出題ミス 赤本発行元が指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e82022a0f88282b0577df1a977f1342fdf42fbd07c8683b4dda606abba28cd.jpg> 橋幸夫が入院 一過性脳虚血発作
+      <a href=https://news.yahoo.co.jp/pickup/6540929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1142a4ca757bb1750e53c98505ef4c48aa9b575043b9d3b9bd88b6ed5d0d4f9a.jpg> サッカー 青森山田が県予選で敗退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/efc4bb761ef9e8517119145878cf901bd88379d5c98cb88728aa8886ac995742.jpg> 板谷由夏 アミューズから独立
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 17:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 17:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
