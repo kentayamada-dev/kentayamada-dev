@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aeac1c8d0c83cb2bb55fe5a64de47734.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae4dae06e384b1eb083be93b24a218a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8fdcaa959c2d6e18f40a45f8c26900184f0ebcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 元白鵬、相撲協会を退職　大相撲
+      <a href=https://news.yahoo.co.jp/articles/61b5a5c9f1c7b5b8329ad07e27df94f8aaf1a1e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07112786-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】東名に転落　車を放置し現場から逃走した男逮捕　無免許運転・事故不申告の疑いも（浜松市）
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85e372a7f1aa76d1fd9b199ec406089de9d9d08a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2216541e0e59b70caa3ea177b1996898b2cfbf0c08e902fe779fe48a927c7586.jpg> 東名に車転落 男性から事情聴く
+      <a href=https://news.yahoo.co.jp/pickup/6540906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0d028d4d1d1d98ad02fd7fdb5e9139a89b8e48667b7ff67e230a3908d54b272e.jpg> 深夜にガガガガ 耳栓着け寝る住民
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f56e429923ecb03c2a3d81aa2e32ffad02cec7fd09b60ff5b2a11a42cda1d379.jpg> 由伸7勝目ならず ベンチでぼう然
+      <a href=https://news.yahoo.co.jp/pickup/6540909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/c1f26930219f43f258dac0b2fa3555bbd7693651b1eb6ea5cd22ec1a91516322.jpg> 元横綱白鵬の退職届 協会が容認
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 13:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 13:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
