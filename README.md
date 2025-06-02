@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8e9de10da7d8e3cf948cc5ab3c70794.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/264c8484c5bc142090743c0e6f91c27a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aee9bfd6899f07d593f7735473cfde2b68847d40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240462-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国大統領選挙きょう投開票　野党・李在明候補「内乱行為の責任を問う」 与党・金文洙候補「怪物総統独裁の出現を防ぐ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6453a6201cbee49d84cbe0063e9023a456167dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981191-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナとロシア 2回目の直接交渉　捕虜の交換などで合意
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981191-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 兵士6000人ずつの遺体・捕虜交換で合意…ウクライナ国防相とロシア大統領補佐官らが2回目の直接交渉　“少なくとも30日間の無条件停戦”はロシアが拒否
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/512cf4a68f28b87e86c7640f0d788d34becaecc0b1511c16a9356a30a169cbb2.jpg> 無条件停戦を露拒否 ウ側が明かす
+      <a href=https://news.yahoo.co.jp/pickup/6540973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e3862702d276f07be417495c64b50a4d58751eafedf6e70ac8fe4733fc3ccc28.jpg> 内閣不信任案なら解散 首相検討
       </a>
     </td>
   </tr>
@@ -396,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540965>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4c49677b1fbd0da2cd4355c8f64c8f29897a4b1451c0f1cf1e0695f23f15ac15.jpg> 年金法案で自公と合意 立憲に非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/44acfdf8e4a5c38981527569bf489c63d9b74a4a35b470dedb2e5513db394eb9.jpg> 露 ウに事実上の「降伏」を要求
       </a>
     </td>
   </tr>
@@ -412,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540946>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b36bda9b9c9afdddbb84b274a900158951113cb00465a45bf96409d1a94a3d92.jpg> 賭博疑いMF檀崎選手逮捕 豪報道
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 06:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 07:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
