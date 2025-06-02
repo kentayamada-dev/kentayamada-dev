@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c670ea2cbaebe130bb129285fc15b231.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5145e780fac0066e5b33d460543e8805.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19e1cf151325c9187003629a183d0c71198bbcf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000221-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 豪サッカー、日本人選手逮捕　檀崎容疑者、故意に反則か
+      <a href=https://news.yahoo.co.jp/articles/5bc9d575bf2e7b0f9cecff96f712b9b9939aca66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 万博の大屋根リング350メートル保存案　コスト削減で短縮、大阪府市が提案へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b8cd8fede455a65ea4f52fa705da14241bc33f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=297&ch=297&exp=10800&fmt=webp> 大阪府市、万博リング「200メートルの現状保存」提案へ
+      <a href=https://news.yahoo.co.jp/articles/1bde5b987303f8eb0ca1263db3156e7247e0c083>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08487386-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシアとウクライナの2回目の直接協議が終了～タス通信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/215b4cfee0dd5121924010f9df33980a6a761b95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名車転落、逃走の男逮捕　無免許疑い、静岡
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a5eb82c8fb1084bc41b7911799c73696e801170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「消費税を下げる約束はどんなことがあってもできない」　自民・森山幹事長
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0aaf7df89956d9b182840b828011143e86541e979c5d2ff6130cb5820068d36d.jpg> 露とウの直接協議始まる 難航予想
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540952>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/364070b03719bc71c46ff7ecfeb778298be0f251b0aada8194d69066693a561c.jpg> コメ平均価格 3週ぶりに値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/55653a45da4356d61935ce91e507151656b7efdddb2f913f49171f80de168c5c.jpg> 国際結婚で別姓 迷った子供の姓
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540955>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 別府ひき逃げ 遺族側がコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/87232bca2099b9448ccca33f908f255377f2f035c718a0b0d9aa1417538eca98.jpg> 車転落 内縁の妻の子が同乗か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 大事件 サッカー青森山田予選敗退
+      <a href=https://news.yahoo.co.jp/pickup/6540961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 「大事件」青森山田 伝説に終止符
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 22:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 22:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
