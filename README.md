@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfacb0d3d05ff860ecc3c1249b937b03.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6378bcd14313ea17cd7dbea9c98373c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1764c56987eac9251019b7e74df807c49ccf145a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000065-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=873&ch=873&exp=10800&fmt=webp> 別府ひき逃げ　被害者遺族「逮捕まで、私たちの戦いは終わらない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b8cd8fede455a65ea4f52fa705da14241bc33f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=297&ch=297&exp=10800&fmt=webp> 大阪府市、万博リング「200メートルの現状保存」提案へ
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f39cbfae92e7d8ec0bab1ebcdd15c816f054146f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000111-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 非難の応酬、政策論争見えず　韓国大統領選、3日に投開票
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15966f6778f74ddea43e55a33110bcb020339853>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00050215-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 南野陽子さん、神戸松蔭大学の客員教授に…「世界が広がるように経験を話したい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000111-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 非難の応酬、政策論争見えず　韓国大統領選、3日に投開票
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f2412c622765542efaa8ee8b26370333672836ada5739d51c3ff067ae96d447d.jpg> 韓国大統領選 李在明氏が優勢か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540949>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/364070b03719bc71c46ff7ecfeb778298be0f251b0aada8194d69066693a561c.jpg> コメ平均価格 3週ぶりに値下がり
       </a>
@@ -426,22 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1161c98ba08b3b02f817d00525156517a5deba6988f904b7f8960d362ad2dadd.jpg> 車転落 男は過去に免許取り消し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/acbe02521072e2ef0220b58f5555f7a7955d270e7fa259c8e97a6a79cfa55370.jpg> 性行為ない友情結婚 子育てる2人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540946>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b5375f463d3c673cbd92d415e668987f007b45e7e9a6ed05700b4aebd1b75424.jpg> 麻木正美さん死去 りぼん元編集長
+      <a href=https://news.yahoo.co.jp/pickup/6540953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a76aef54841b32a9842fd41738d6c9f6d450470d86320d57e613d0b35cbc5d28.jpg> セブンおにぎり100円セール実施へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/401c096d6b18767b96eb136f464dd84436cf13b1bc5e9ade720931f1f531c931.jpg> 大事件 サッカー青森山田予選敗退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 21:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 21:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
