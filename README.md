@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f7810f8de97b5dfc2e54409d50d5bbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/feba59a3a8df21a47b7694500f149530.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddec20dc5b1c25a0cc2ccce1211b5fb00d55a188>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01245124-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 旧ジャニーズ“性加害”補償めぐる裁判始まる　「SMILE-UP.」側は争う姿勢
+      <a href=https://news.yahoo.co.jp/articles/15966f6778f74ddea43e55a33110bcb020339853>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00050215-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 南野陽子さん、神戸松蔭大学の客員教授に…「世界が広がるように経験を話したい」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/3fd9dfce84878e38c124f638136f7189e4dfa427e5bc51f0264baecc2a6a82c7.jpg> 3日 関東～九州で激しい雨や雷雨
+      <a href=https://news.yahoo.co.jp/pickup/6540943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e1a4b51318d85c8cef64da363fe33c2ebcc7f8d19fd699c8b9e25d9c80a9e7.jpg> 森山氏 備蓄米対応巡り農相を擁護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e1a4b51318d85c8cef64da363fe33c2ebcc7f8d19fd699c8b9e25d9c80a9e7.jpg> 森山氏 備蓄米対応巡り農相を擁護
+      <a href=https://news.yahoo.co.jp/pickup/6540949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/364070b03719bc71c46ff7ecfeb778298be0f251b0aada8194d69066693a561c.jpg> コメ平均価格 3週ぶりに値下がり
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f2088ce4b0cfa7a883adefa01b267e1ca5ec9db463b20fcdd9b72f63c5c30ecb.jpg> 万博の大屋根リング 350m保存案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
+      <a href=https://news.yahoo.co.jp/pickup/6540948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1161c98ba08b3b02f817d00525156517a5deba6988f904b7f8960d362ad2dadd.jpg> 車転落 男は過去に免許取り消し
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1e021a9d02bc4d5dd67ea71afe77fac418ec47953b7217890e264fada3b3420d.jpg> 性加害補償 旧ジャニ側は争う姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6540946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/51edfd0a68c17b9d175c023f7926d0dfcacd3f22987a9d5efea88830d4f49db3.jpg> 誤って離婚届を受理 市が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6540951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/828ebd1565cdaeda2346b71f72ab8a34b692dd545d66ac49c7d34a758de76ee7.jpg> 南野陽子が客員教授就任 思い語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e9371198ce4d6c8efb4eab2c85010080786f2a6a6600369f39188ca502e1fb7d.jpg> 「虎に翼」ギャラクシー賞大賞
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 20:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 20:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
