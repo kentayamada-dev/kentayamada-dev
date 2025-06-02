@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb8cbc5e62021e5bc25038730e746348.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e3d7d4bd7f149bcdc7d7e4c26d8d32d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74427394e5f4823a89c8abe4a76a109e72361d11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90019809-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博で大量発生「ユスリカ」海水引き入れる水辺が発生源とほぼ特定「今すぐなくせないが対策したい」と協会
+      <a href=https://news.yahoo.co.jp/articles/a524e4853984b36ddd3ddc586cbd9e314695e384>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000072-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博協会、防虫計画を策定へ　有識者交え検討　ユスリカ大量発生で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/493cf1fc7a4006b71f755ecbd2ad745df3a13c14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240402-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民・森山幹事長、農業構造転換実施のため既存の予算とは別枠で約2.5兆円の事業予算を石破総理と小泉農林水産大臣に要求
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62c93c3e7e9ce7a3a724d2568870f875c4179043>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 吉本タレント6人、罰金10万円　オンラインカジノ賭博
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6229b419facbbe69a25d77898a8f191154383d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08767253-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> 「見つかってほしい」 能登半島地震の行方不明者の捜索再開　輪島市名舟町の崩落現場で去年3月以来
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e7412fb8c43ccfa191c468f480ef7a68a8f659e15eab1a8a3e6f890847709a87.jpg> 車転落 男と子に血縁関係なしか
+      <a href=https://news.yahoo.co.jp/pickup/6540930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1d8d8979f6f477dcb83cd76ab02b47d7f883eee23d4ea0892529d2541779b94a.jpg> 万博会場の虫 発生源について発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1d8d8979f6f477dcb83cd76ab02b47d7f883eee23d4ea0892529d2541779b94a.jpg> 万博会場の虫 発生源について発表
+      <a href=https://news.yahoo.co.jp/pickup/6540899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/acbe02521072e2ef0220b58f5555f7a7955d270e7fa259c8e97a6a79cfa55370.jpg> 性行為ない友情結婚 子育てる2人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540912>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NY「すしデフレ」価格大幅に安く
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/98f04dbd8344ed8bc0c135f48c4371004ad2d8e6e87eb8fd9c448971617df5bb.jpg> 入試で出題ミス 赤本発行元が指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/5558bd1a8e76991dff03df94af54c2a5d8fc1f4d87e26227eb4898cf850fb9bf.jpg> 三代目JSB山下と朝比奈彩に第2子
+      <a href=https://news.yahoo.co.jp/pickup/6540942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/37aa079348d5ec2146b8e3683a0bd3d021ecc7ddabe4be517ca6af2a310d4201.jpg> NPBの2軍再編方針 7月に結論へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 19:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 19:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
