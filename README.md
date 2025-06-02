@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1adc59807441b206e1a76a16cc7d3778.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6408d3a233aed2c53745d8f306432703.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de94a39b96262e84a57c1f745bfe060cf4f86fbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000007-htbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 備蓄米、首都圏では長蛇の列　道内はいつ店頭に？　道内コメ販売業者「１日も早い入荷をお願いしている」
+      <a href=https://news.yahoo.co.jp/articles/626bf32f4d5396a142ab79fe1252ed98d6c41193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000066-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 備蓄米売り出し開始も、多くの事業者は販売に至らず　地方の店舗に届くのは6月末？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4149137d65d4911180105955a6ddfd3a89de9699>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01531665-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石川・輪島市で行方不明者の捜索再開　能登半島地震
+      <a href=https://news.yahoo.co.jp/articles/e44414e9cce7cb596749ab9c29f680a5a7b86d99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01863191-hokkoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 輪島不明者の捜索再開　土砂崩れ現場１年３カ月ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b2b81dcdd5279fe12de900a2f6cbd3ab0b1b81f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-36020681-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 元Juice=Juice宮崎由加、第１子妊娠発表「出産後は一定期間活動を控え」23年一般男性と結婚
+      <a href=https://news.yahoo.co.jp/articles/d3d9708ec12aa514f3cc193fef956c813038f9be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07788947-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 東名高速に車転落…逃走男を逮捕　無免許運転など疑い　静岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae53600a04dfd826c07f41998b3068372ef9b0ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イクラちゃんの声優、交代　アニメ「サザエさん」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf5844f74f9b363082d5d3325d94ac05a55e2873>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-05174367-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=373&ch=373&exp=10800&fmt=webp> BE:FIRSTのRYOKI、海外4公演を出演見送り　体調不良で「一定期間の静養が必要」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/bd943d9be8f3aefa70ecacfabc8b704783510c24d1aa929655a6fe73db11e256.jpg> 国民民主勢いに陰り 火消しに躍起
+      <a href=https://news.yahoo.co.jp/pickup/6540925>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 無人機攻撃で露損失1兆円 ウ発表
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1c395a4e164ee509141b49e738cbde0894d842000d49a3ba7609528eec4251fe.jpg> 車転落し小学生放置 逃走の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6540923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e7412fb8c43ccfa191c468f480ef7a68a8f659e15eab1a8a3e6f890847709a87.jpg> 車転落 男と子に血縁関係なしか
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0d028d4d1d1d98ad02fd7fdb5e9139a89b8e48667b7ff67e230a3908d54b272e.jpg> 深夜にガガガガ 耳栓着け寝る住民
+      <a href=https://news.yahoo.co.jp/pickup/6540924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/c4696a8a06c3b7a9bc597351fae8ac24454bdf3feae346aa0dc04b1090b65b0a.jpg> 「暴露系」配信者を逮捕 恐喝疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/8b5fac7e5ed766a7850d0d263881a58e8891205d555ad1c258bc0cd4f6ec98c6.jpg> 小中「家庭訪問」いる?いらない?
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540920>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/eca240255a2059f6a508e6727e8fa8dcc38c6a96f46e5fc6784f8d1852754c0a.jpg> 横綱経験者 角界去る事例相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/3033e24d6c862dede1a25659e721fba9ddd793de35a479ca8c76fc706e3ca07a.jpg> 元Juice=Juice宮崎由加 第1子妊娠
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 16:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 16:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
