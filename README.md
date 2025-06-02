@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64a03fa3d7a58d831f0d6cd431a807d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb8cbc5e62021e5bc25038730e746348.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9ead7a7b43051ce3a6af7ab221276b328d7efd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-21952311-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 能登半島地震の行方不明者 警察が1年3か月ぶりに捜索再開 石川・輪島市
+      <a href=https://news.yahoo.co.jp/articles/74427394e5f4823a89c8abe4a76a109e72361d11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90019809-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博で大量発生「ユスリカ」海水引き入れる水辺が発生源とほぼ特定「今すぐなくせないが対策したい」と協会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5448106841b6cf14b4122bd69cfcd6a97bbfa683>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030049-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は関東～九州で激しい雨や雷雨　道路が川のようになる所も　車の運転など注意
+      <a href=https://news.yahoo.co.jp/articles/62c93c3e7e9ce7a3a724d2568870f875c4179043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 吉本タレント6人、罰金10万円　オンラインカジノ賭博
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6229b419facbbe69a25d77898a8f191154383d1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08767253-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> 「見つかってほしい」 能登半島地震の行方不明者の捜索再開　輪島市名舟町の崩落現場で去年3月以来
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65b3c5c3740bf96e984e99417e4bd20601b08d47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-21951932-tuy-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 地方で備蓄米は手に入る!?随意契約分は山形県内小売店に入荷予定なし　東京・大阪などから販売…鈴木憲和衆議院議員は備蓄米放出に疑問符「国民に平等な物価高対策を」（山形）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a582e790a1d7916c704a31ad4261ee0c73baf72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010005-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博会場で大量のユスリカ　発生源が「ウォータープラザ」および「つながりの海」でほぼ確実
+      <a href=https://news.yahoo.co.jp/articles/5c8a4a323407108738e5ab571aed0b63a48c65fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナとロシアが第２回の直接交渉へ、和平の見通し依然立たず
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/0cd34c8ce27126cd1713a11d56fea8d0b2170a90cdd916309ef2ca9a87898f60.jpg> 森山氏 消費税下げる公約できない
+      <a href=https://news.yahoo.co.jp/pickup/6540934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/48955a51cb1d62eecfe8c17240ecab6b1342f132d80fdef0a5ba91284e345b02.jpg> ポーランド大統領選 右派候補勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/dad32c5782175c2ebbbb53ad1e0875bb09bc2fec0d0af79a7e19da9b34d77d4a.jpg> 別府ひき逃げ 容疑に殺人など追加
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540923>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e7412fb8c43ccfa191c468f480ef7a68a8f659e15eab1a8a3e6f890847709a87.jpg> 車転落 男と子に血縁関係なしか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/c4696a8a06c3b7a9bc597351fae8ac24454bdf3feae346aa0dc04b1090b65b0a.jpg> 「暴露系」配信者を逮捕 恐喝疑い
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1142a4ca757bb1750e53c98505ef4c48aa9b575043b9d3b9bd88b6ed5d0d4f9a.jpg> サッカー 青森山田が県予選で敗退
+      <a href=https://news.yahoo.co.jp/pickup/6540938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/5558bd1a8e76991dff03df94af54c2a5d8fc1f4d87e26227eb4898cf850fb9bf.jpg> 三代目JSB山下と朝比奈彩に第2子
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 18:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 19:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
