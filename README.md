@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13f39acfc9c0c481b379b01c3f364868.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aeac1c8d0c83cb2bb55fe5a64de47734.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c59bb514685b605e219b8ee867ad331083abc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00030043-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日3日は広い範囲で本降りの雨　激しい雷雨の所も　東海の梅雨入りは?　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/c8fdcaa959c2d6e18f40a45f8c26900184f0ebcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 元白鵬、相撲協会を退職　大相撲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a98f2e3c378d1b2fe5e12aa29b266f48ad0ac758>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90004919-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 能登半島地震から1年5カ月…梅雨の時期を前に行方不明者の捜索一部再開、梅雨時期までの土砂撤去に合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/941cf4982a78de75b58e345104face5406a2ff66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240263-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナ、きょう再びの直接交渉へ　双方が攻撃を続ける中
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85e372a7f1aa76d1fd9b199ec406089de9d9d08a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/249c6bba44162773df12b3ddd8e56f7afabb94e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-90032483-sut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=750&ch=750&exp=10800&fmt=webp> 転落事故を起こすも小学生2人を現場に“放置”し逃走　警察が運転していた男の居場所を突き止め事情聴く　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000031-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ガザの配給所で発砲か 31人死亡 イスラエル軍否定
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf5844f74f9b363082d5d3325d94ac05a55e2873>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-05174367-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=373&ch=373&exp=10800&fmt=webp> BE:FIRSTのRYOKI、海外4公演を出演見送り　体調不良で「一定期間の静養が必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cfe13713fe57f91eb1bf71605655903b58be61d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000019-cnippou-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=346&ch=346&exp=10800&fmt=webp> ２日に停戦交渉を提案していたのに…ロシア、ウクライナの追加掌握に出た
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/7e427ddfee1b443acbd9686d9af1378851d68da43721a9472a23fb92a4723d7f.jpg> 年内の利下げは可能 米FRB理事
+      <a href=https://news.yahoo.co.jp/pickup/6540908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cd7b243a854ea54e02bf5e5c125aee56984e8d1da02903aad8ceb257226728b7.jpg> 保育園の駐車場 1歳はねられ死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 12:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 13:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
