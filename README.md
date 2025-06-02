@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e3d7d4bd7f149bcdc7d7e4c26d8d32d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f7810f8de97b5dfc2e54409d50d5bbc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ddec20dc5b1c25a0cc2ccce1211b5fb00d55a188>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-01245124-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 旧ジャニーズ“性加害”補償めぐる裁判始まる　「SMILE-UP.」側は争う姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a524e4853984b36ddd3ddc586cbd9e314695e384>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000072-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博協会、防虫計画を策定へ　有識者交え検討　ユスリカ大量発生で
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/493cf1fc7a4006b71f755ecbd2ad745df3a13c14>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-07240402-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民・森山幹事長、農業構造転換実施のため既存の予算とは別枠で約2.5兆円の事業予算を石破総理と小泉農林水産大臣に要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62c93c3e7e9ce7a3a724d2568870f875c4179043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 吉本タレント6人、罰金10万円　オンラインカジノ賭博
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/48955a51cb1d62eecfe8c17240ecab6b1342f132d80fdef0a5ba91284e345b02.jpg> ポーランド大統領選 右派候補勝利
+      <a href=https://news.yahoo.co.jp/pickup/6540943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e1a4b51318d85c8cef64da363fe33c2ebcc7f8d19fd699c8b9e25d9c80a9e7.jpg> 森山氏 備蓄米対応巡り農相を擁護
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1d8d8979f6f477dcb83cd76ab02b47d7f883eee23d4ea0892529d2541779b94a.jpg> 万博会場の虫 発生源について発表
+      <a href=https://news.yahoo.co.jp/pickup/6540941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/f2088ce4b0cfa7a883adefa01b267e1ca5ec9db463b20fcdd9b72f63c5c30ecb.jpg> 万博の大屋根リング 350m保存案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540912>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NY「すしデフレ」価格大幅に安く
+      <a href=https://news.yahoo.co.jp/pickup/6540945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/1e021a9d02bc4d5dd67ea71afe77fac418ec47953b7217890e264fada3b3420d.jpg> 性加害補償 旧ジャニ側は争う姿勢
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/37aa079348d5ec2146b8e3683a0bd3d021ecc7ddabe4be517ca6af2a310d4201.jpg> NPBの2軍再編方針 7月に結論へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 19:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
