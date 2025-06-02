@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/feba59a3a8df21a47b7694500f149530.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfacb0d3d05ff860ecc3c1249b937b03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15966f6778f74ddea43e55a33110bcb020339853>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00050215-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 南野陽子さん、神戸松蔭大学の客員教授に…「世界が広がるように経験を話したい」
+      <a href=https://news.yahoo.co.jp/articles/7b8cd8fede455a65ea4f52fa705da14241bc33f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000081-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=297&ch=297&exp=10800&fmt=webp> 大阪府市、万博リング「200メートルの現状保存」提案へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a524e4853984b36ddd3ddc586cbd9e314695e384>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000072-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博協会、防虫計画を策定へ　有識者交え検討　ユスリカ大量発生で
+      <a href=https://news.yahoo.co.jp/articles/f39cbfae92e7d8ec0bab1ebcdd15c816f054146f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000111-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 非難の応酬、政策論争見えず　韓国大統領選、3日に投開票
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15966f6778f74ddea43e55a33110bcb020339853>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00050215-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 南野陽子さん、神戸松蔭大学の客員教授に…「世界が広がるように経験を話したい」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c8a4a323407108738e5ab571aed0b63a48c65fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナとロシアが第２回の直接交渉へ、和平の見通し依然立たず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b1e1a4b51318d85c8cef64da363fe33c2ebcc7f8d19fd699c8b9e25d9c80a9e7.jpg> 森山氏 備蓄米対応巡り農相を擁護
+      <a href=https://news.yahoo.co.jp/pickup/6540949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/364070b03719bc71c46ff7ecfeb778298be0f251b0aada8194d69066693a561c.jpg> コメ平均価格 3週ぶりに値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/364070b03719bc71c46ff7ecfeb778298be0f251b0aada8194d69066693a561c.jpg> コメ平均価格 3週ぶりに値下がり
+      <a href=https://news.yahoo.co.jp/pickup/6540928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/55653a45da4356d61935ce91e507151656b7efdddb2f913f49171f80de168c5c.jpg> 国際結婚で別姓 迷った子供の姓
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/828ebd1565cdaeda2346b71f72ab8a34b692dd545d66ac49c7d34a758de76ee7.jpg> 南野陽子が客員教授就任 思い語る
+      <a href=https://news.yahoo.co.jp/pickup/6540932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b5375f463d3c673cbd92d415e668987f007b45e7e9a6ed05700b4aebd1b75424.jpg> 麻木正美さん死去 りぼん元編集長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/e9371198ce4d6c8efb4eab2c85010080786f2a6a6600369f39188ca502e1fb7d.jpg> 「虎に翼」ギャラクシー賞大賞
+      <a href=https://news.yahoo.co.jp/pickup/6540951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/828ebd1565cdaeda2346b71f72ab8a34b692dd545d66ac49c7d34a758de76ee7.jpg> 南野陽子が客員教授就任 思い語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 20:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 21:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
