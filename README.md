@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2559a6940389b4aff65b250cca0de313.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bd8fae9afc112d5ea2ff4e837c3bf18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,14 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/605cc141b0fff14e02703c553c07f1c9027fb2eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000075-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 児福施設職員殺害　「解決見えない」関係者に衝撃　識者はどう見る?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bc9d575bf2e7b0f9cecff96f712b9b9939aca66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 万博の大屋根リング350メートル保存案　コスト削減で短縮、大阪府市が提案へ
       </a>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bde5b987303f8eb0ca1263db3156e7247e0c083>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-08487386-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシアとウクライナの2回目の直接協議が終了～タス通信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f568975cf07dec2044cf16931b56d015e06b9d27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010009-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 告発文書問題に関する県保有のデータ流出を巡り　兵庫県の告発状を県警が受理／兵庫県
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/38534ba5d3c6d6100011e0d675e87854a1ea597d81c78cb8ca1e2bd935262697.jpg> 「並ばない万博」予約は5万人待ち
+      <a href=https://news.yahoo.co.jp/pickup/6540968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cd0284c14593e8b48ad465516e76d6d5f5185bbabcb1413cfc84a52199a14641.jpg> 情報流出巡る告発 兵庫県警が受理
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 23:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 23:51:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
