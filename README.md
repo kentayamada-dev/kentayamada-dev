@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8016b1770bfa174334f7d06ce74f6b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56c861be0046787a59b0189a7a7bda13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bb16e4821ccc8bc19923e8a4b71ff45881133b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 「一瞬寝てた…」東名高速に車転落　小学生2人を残し運転者が逃走　浜松・初生町
+      <a href=https://news.yahoo.co.jp/articles/83adcb38aac0323b8eb32f07ff85c82933757052>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】メッツのスタートリオが初のアーチ揃い踏み　3連戦をスイープ　敗れたロッキーズは早くも50敗目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9222f9bb6c35a5ddc432657cd76621c12a163499>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00490861-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=435&ch=435&exp=10800&fmt=webp> 韓国大統領選　李在明氏と金文洙氏がソウルで最後の遊説へ＝選挙戦最終日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e3deb0dc5500b6a0842c0e1b27e5108a7d426e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアとウクライナが2回目の直接交渉へ　双方が和平案提示　難航は必至
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67b14e7753a5946434b333b07c6f71a520895cc8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ南部で31人死亡、食料配給所付近でイスラエル軍の銃撃＝保健省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88961d10a7a55e1634f1f22233b0b437a6788c5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000108-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 夏ドラマは“嵐祭”　相葉雅紀＆櫻井翔＆松本潤が9時台ドラマ主演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bcb43619f1285fac867f48327ec414c6aca46e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250602-00000002-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 日本製鉄のUSスチール買収「黄金株」導入案は「トランプ氏のメンツを保って完全子会社化を実現する知恵」との指摘　大統領任期が残り3年半のなか投資を先行させる意義
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/99109b7473c583d6b85753b388cd8e07941d816d78fb962244ad0e81cfbbc327.jpg> 「嵐祭」3人が9時台ドラマ主演
+      <a href=https://news.yahoo.co.jp/pickup/6540885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/d0c85200f06fe916061a69cdff7b429c3c7609e694c14fc46880af68188020a7.jpg> ロッキーズ 59試合目で50敗目に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/93aaba3662b2c14f9fe235c48477d46771ca5da0f53b808ebc59139702b1aca2.jpg> 小室哲哉「もう一回バズりたい」
+      <a href=https://news.yahoo.co.jp/pickup/6540884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/99109b7473c583d6b85753b388cd8e07941d816d78fb962244ad0e81cfbbc327.jpg> 「嵐祭」3人が9時台ドラマ主演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/02 08:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/02 09:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
