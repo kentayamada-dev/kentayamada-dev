@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/657cf588d23cbd339f6def15d0e6e22f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85dc7bdec685eb46fe613422fb954fa9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e587f78502c89b6a3e8a4e97929a876e9d7fac53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90021064-bbt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「7月3日公示 20日投開票」が有力視の参院選　富山選挙区は現職に新人3人が挑む構図
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9bdcfa4adf773c4b3eebcfe42a9a943a6c8dd45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90026368-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> JAなどが入札した備蓄米　流通遅れも指摘　「五次問屋まで存在」が要因か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a62dfc92b41507288d1242b24529ced89714cb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000074-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「長嶋茂雄は野球の星に帰りました」長男・一茂さん コメント発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000074-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「長嶋茂雄は野球の星に帰りました」長男・一茂さん コメント発表
       </a>
     </td>
   </tr>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f34ffe88b416872828094eeb3a540f8eb4bbf48c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-01766867-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「打ってくれると思っていました」　スポンサーも23号を祝福…また豪華に進化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-01766867-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「打ってくれると思っていました」　スポンサーも23号を祝福…また豪華に進化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29d1693ca1afb9185fa2dd3008590cffe42827ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010001-senkyocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 内閣不信任案は出すべきだけど可決してほしくない！？参院選後に待ち受ける政界大再編の可能性を政治記者が徹底解説！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35466f1db10f473adf0d5907469b5c0bf4910012>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981458-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=613&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相 「小泉農水相の活躍は”ケガの功名”」政治ジャーナリスト青山和弘氏が首相に直接取材
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfd3fbcb9d85d3fa8cff64712d5f92e6fb81afbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000079-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ニホンカモシカ、名古屋市の住宅街に迷い込む　麻酔銃を使い保護
+      <a href=https://news.yahoo.co.jp/articles/f11bcc33582b7438de319f496521e26847a42d7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981414-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ビル建設現場で20代男性作業員が落下し意識不明の重体…上半身に鉄筋刺さる　東京・台東区
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/792d6632ffc8935b5c87470bf37b34326cdeaca28f33ed4173f46b8d22883b26.jpg> 路上で高齢女性切りつけか 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fc0f399132c2666fa8edd18a0a1b23631b53e7f36a4819b936a7760376d20ecf.jpg> 作業員が4m落下 鉄筋刺さり重体
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3d06bd63d31f44761ed7b29905b72703e954ddc3bc67c5b0aa2db1c7a3b119df.jpg> 名古屋市内にニホンカモシカ 捕獲
+      <a href=https://news.yahoo.co.jp/pickup/6541045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/141083151f174e537197852af50caaf882d821ab548cef3f8e07e9f826d468ea.jpg> サウナでのメガネ プロが注意喚起
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a4efc30b2ad964ac1ce1eb9e93a55c8cf90ac29501733e88e48332bf3264bf0e.jpg> 白毛馬ハヤヤッコ 引退させる意向
+      <a href=https://news.yahoo.co.jp/pickup/6541015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 18:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 18:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
