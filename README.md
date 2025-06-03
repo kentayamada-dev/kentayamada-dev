@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7506d11718e467dfce85851b57106fd4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3fa9bbf934ad8081a5664bc724fd93e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d7c60accb623bcbede32546540ed781f444275f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031206-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 王貞治氏が長嶋茂雄さんの自宅に弔問　長男・一茂氏と次女・三奈さんが対応
+      <a href=https://news.yahoo.co.jp/articles/f429c049557935dc736959893a39c2e60298b8ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 長嶋茂雄さんモノマネの関根勤「温かく認めていただき…」突然の訃報に「驚いています」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0377da2b3ad57a0c117b9c327ef1c7e07c617588>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-04579062-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 見上愛、朝ドラ「風、薫る」W主演・上坂樹里の魅力熱弁「びっくりしますよ、 透明すぎて」互いの“距離の縮め方”も明かす
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4863a4815176ec421d7ecccb911f7729cec9706>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953873-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース大谷　インスタに長嶋茂雄さん追悼コメント　試合では23号追悼弾　チームはタイブレークの末敗れる　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8164f8e03e0cb42cbed4342280634bef11b79bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000106-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1890&ch=1890&exp=10800&fmt=webp> 来春朝ドラ主演・上坂樹里　ヒロイン抜てきを高石あかりから知らされる　同事務所俳優が２期連続は令和初の快挙に
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21dce1da8604f634ddd92cb0de9d339f70e82e86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000027-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 古米の「ヴィンテージ米おにぎり」発売へ、120円目安　ローソン
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000027-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 古米の「ヴィンテージ米おにぎり」発売へ、120円目安　ローソン
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/566c012c9371466ed7955ea30a1c79f7c74250b0763f3fb6f2d11e38bc592241.jpg> アパートに女性の遺体 体にあざ
+      <a href=https://news.yahoo.co.jp/pickup/6541022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/03b254a7b7f490badc2de34cc23411f4aa50dafd68a8574949735b79a0cb9697.jpg> 1歳はねられ死亡 車の死角対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/03b254a7b7f490badc2de34cc23411f4aa50dafd68a8574949735b79a0cb9697.jpg> 1歳はねられ死亡 車の死角対策
+      <a href=https://news.yahoo.co.jp/pickup/6541027>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で高齢女性切りつけか 逃走中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 15:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 16:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
