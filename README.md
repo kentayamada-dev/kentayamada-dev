@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbf3a1a3135d4521e22fd0a3ee2357ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e169962f2e87fff64de995e9ec690d96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a055a437fe3c85e172964381cd946f93ebdb7385>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240695-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=644&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】韓国大統領選 野党・李在明氏に当選確実の報道　韓国メディア
+      <a href=https://news.yahoo.co.jp/articles/df7d060a6edfef4b9acd9f6f2fbe05004ef46500>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491038-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏「国民の偉大な決定に敬意を表す」　当選確実受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed31a1ba059bdf4bb377a19b0aabfef668090b25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんに捧げるメジャートップタイ23号！セコムのCMでは今春、現役時代の長嶋さんと〝対決〟が実現
+      <a href=https://news.yahoo.co.jp/articles/4ad132008ed55d33b47880452277259e7b81d840>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 病院の送迎車がトラックと衝突　女性1人死亡／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a47e9ea3da412b95c21f4e3ac661bbd00e4fe65c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ふるさと住民登録」10年で1千万人　政府が数値目標「地方創生2・0」基本構想案公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7ef1df7900ba2c9b6784ce48086f76c489ec4b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000094-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      <a href=https://news.yahoo.co.jp/articles/2a58b8a5945d7fe15b752dee41408ce84550300d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000114-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 万博の大屋根「リング」、23日までに「原形」の保存方法を議論
       </a>
     </td>
   </tr>
@@ -403,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b87777991ef9eca0234fd64fc30be7b55323aadc1443f8dfab63ac311c9e28d7.jpg> 韓国大統領選 李在明氏が当選確実
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/084d0473c8e87375286dcfe3214fff072eb98bdf93a26d7838bad95badb85503.jpg> 韓国大統領選 李在明氏が当選確実
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/da80d017a61809a8673f03b39563b08f27e52131dc32ae45ce0f9328e15ec0d2.jpg> 日ハム古林が緊急降板 長期離脱か
+      <a href=https://news.yahoo.co.jp/pickup/6541034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/368a50f43aec7774d812bfffd26f60a8043cd78ac1c7fe73f5207e1798059859.jpg> 長嶋茂雄さん死去 一茂がコメント
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 23:52:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 00:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
