@@ -5,7 +5,7 @@ import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getPageViews } from '@/lib/nextjs/actions';
-import { throwColoredError } from '@/utils';
+import { getRedisKey, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
@@ -35,7 +35,8 @@ const Page: PageType = async (props) => {
 
   const articles = await Promise.all(
     (await getArticles(locale)).map(async (article) => {
-      const view = await getPageViews(article.slug);
+      const viewKey = getRedisKey('article', article.slug, locale);
+      const view = await getPageViews(viewKey);
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),

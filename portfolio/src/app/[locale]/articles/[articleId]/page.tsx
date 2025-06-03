@@ -15,7 +15,7 @@ import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
 import { getPageViews } from '@/lib/nextjs/actions';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import { throwColoredError } from '@/utils';
+import { getRedisKey, throwColoredError } from '@/utils';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
 
 const generateStaticParams: ArticleGenerateStaticParamsType = async () => {
@@ -60,6 +60,7 @@ const Page: ArticlePageType = async (props) => {
 
   const articlesDict = dictionaries[locale].articles;
   const articlesHref = navigationItems(locale).articles.href;
+  const viewTrackerKey = getRedisKey('article', articleId, locale);
 
   /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const articleContent = await unified()
@@ -92,7 +93,7 @@ const Page: ArticlePageType = async (props) => {
 
   return (
     <>
-      <ViewTracker title={articleId} />
+      <ViewTracker key={viewTrackerKey} />
       <ArticleTemplate
         articleTitle={article.title}
         articles={articles}

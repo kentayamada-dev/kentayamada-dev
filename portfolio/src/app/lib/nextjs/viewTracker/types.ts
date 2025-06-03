@@ -2,7 +2,7 @@ import type { ReactNode } from 'react';
 import type { DeepReadonlyType } from '@/types/components';
 
 type ViewTrackerProps = {
-  title: string;
+  key: string;
 };
 
 type ViewTrackerType = (props: DeepReadonlyType<ViewTrackerProps>) => ReactNode;
