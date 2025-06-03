@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e34202c030e45a2cbbf6b63f7f2f0ed9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e03f445a4988d952242cea4f870cc57a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61d87222369cefe41608f067c9f2a9277c7c689b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952977-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 巨人・原辰徳前監督「神様のような存在」阿部慎之助監督「私たちにできるのは勝利を届けることだけ」長嶋茂雄氏を追悼
+      <a href=https://news.yahoo.co.jp/articles/a2b4c85238205ea8dc48b67722fffbb02e9b553d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 巨人軍　長嶋茂雄終身名誉監督、89歳で死去　V9を達成、野球界に多大なる貢献　今、振り返る「FA交渉人としての顔」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54de5a566d062bcc057542f9f3e8dd7ad73ca4b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 中国・大連で日本人2人殺害、容疑の中国人を拘束　知人間トラブルか
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbe773eacb1a6e7676df27d4b214a1cb4fbb9aa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000012-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「FNS歌謡祭」にHANA、CLASS SEVEN、timelesz、中島健人、Number_iら出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540994>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab828a62cd12b70c231c4a50dc5148b5f4e6862a973e5f5442a13648bc057fc0.jpg> 氷河期世代支援 政府が枠組み決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3b73ef7a594f2a524e72347b9d3a60ec673c9d0dd0f64ed39326aaa0528b8769.jpg> 韓国大統領選 0時ごろに大勢判明
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540998>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で日本人2人殺害 トラブルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540984>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a38b70fa4433b2b3192bf2a5a4785b0a05f78f70bcc182597848077e994494ea.jpg> 難病で渡米の女児 母が滞在懇願
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/9f8ea58adb900c9efc37b2ca168404ec7a68fdaa193580d6b43d6fdffd2842a9.jpg> 学食の大盛りライス99円 学生感激
+      <a href=https://news.yahoo.co.jp/pickup/6540997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e7fef9cf2cd65000316c3e83d60b2a6e877702ecf18c7e2901b64f0cf95ec45d.jpg> 書店の倒産急減「滞在型」に活路
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a05a79c98b4258710b66769b2f8d4fa62efe6ba1cce6e089ca4b6d483befd4d7.jpg> 長嶋茂雄さん死去 名言や伝説数々
+      <a href=https://news.yahoo.co.jp/pickup/6540996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0356595aebf94af06eee9a121917ed22f2d108f5846978c7171f89a3ad94485e.jpg> 長嶋茂雄さん死去 大谷が追悼投稿
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 10:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
