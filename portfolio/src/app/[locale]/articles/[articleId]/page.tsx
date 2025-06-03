@@ -92,7 +92,7 @@ const Page: ArticlePageType = async (props) => {
 
   return (
     <>
-      <ViewTracker title={article.title} />
+      <ViewTracker title={articleId} />
       <ArticleTemplate
         articleTitle={article.title}
         articles={articles}

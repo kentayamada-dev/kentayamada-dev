@@ -35,7 +35,7 @@ const Page: PageType = async (props) => {
 
   const articles = await Promise.all(
     (await getArticles(locale)).map(async (article) => {
-      const view = await getPageViews(article.title);
+      const view = await getPageViews(article.slug);
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),
