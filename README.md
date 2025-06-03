@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcdb6809b70cbf546f589b5bebdbf329.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd875bf23c074b8cf94449a9fedaacde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7ef1df7900ba2c9b6784ce48086f76c489ec4b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000094-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c3c973699678f7d238079902fef5580095684fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981697-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地方創生の「基本構想」案を公表　地方への若者の流れ10年後に“倍増”「関係人口」は1000万人に　石破首相「都市と地方の支え合いを」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa59f3f0236912d6f0c7359aaac03c18c3b2c608>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-10181736-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 韓国大統領選 出口調査「共に民主党」李氏が優勢
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c73d4ca9ca64b4155120336ca0000ce4e7b34350>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32cd3ec316da9acd80fc408565c778c7188688d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000112-mai-000-1-view.jpg?pri=l&w=192&h=129&exp=10800&fmt=webp> 一時代築いた“ON”　王貞治さん「追いつき、追い越せって…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cc22c5318e54889923aef14d6283a114b7e7434>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000209-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 「信を問うべき」「野党は喜ぶべき」不信任案提出なら衆院解散の見方に与野党の発言相次ぐ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fc0f399132c2666fa8edd18a0a1b23631b53e7f36a4819b936a7760376d20ecf.jpg> 作業員が4m落下 鉄筋刺さり重体
+      <a href=https://news.yahoo.co.jp/pickup/6541061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 21:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 22:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
