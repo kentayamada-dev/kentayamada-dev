@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/503f8c7c3e546ccb6f760d4bf8ff0384.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5054f7e7bef669f860bdcef3102fa794.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/059649111bb4d7990e06db90372e696834653ded>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031024-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=835&ch=835&exp=10800&fmt=webp> 長嶋茂雄氏が死去　８９歳　国民的英雄「ミスター」がついに力尽く
+      <a href=https://news.yahoo.co.jp/articles/5374d26a2e50f45789a0c7a743fc183df17ca633>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000109-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 千賀滉大　長嶋茂雄氏訃報に接し驚き「レジェンドの中のレジェンドとして球界に貢献された。びっくり」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e00004c0923d1ae1431c93b2b99cc04fcbede82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=653&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 捕虜交換で合意も停戦なし ウクライナ・ロシア直接協議
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a75ac5812c2af2827a631f8e6280dbd4fdaeaa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-35233737-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシアとウクライナ、２度目の和平協議　大きな進展なく早々に終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2353c48a4bdbbc026bc260d1c60714691fb34a2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010003-kksoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 25連覇を逃した青森山田　正木監督は「自分の監督としての力が足りなかった」
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa6fbe3a344b27e2d5e309a7b6e2d0ff4705ce50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領選、投票始まる　野党李在明氏リードか
+      <a href=https://news.yahoo.co.jp/articles/cbe773eacb1a6e7676df27d4b214a1cb4fbb9aa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000012-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「FNS歌謡祭」にHANA、CLASS SEVEN、timelesz、中島健人、Number_iら出演
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540989>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/941688decb5d0bf35a3ebb4af6fb27c37486aa76ec403949529373d8d2763121.jpg> 長嶋茂雄さんが死去 89歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b7bf1bfcac6dc3d224481e90f97eb5d0dd428f38cb48f89fce540f03a23f9cbe.jpg> 参院選375人が出馬予定 読売集計
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540975>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジ系列局に所得隠し指摘 11億円
+      <a href=https://news.yahoo.co.jp/pickup/6540987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/24def6e4c50dee9e9c6230b3bcaee5c25ab62bed51a7f5cceac8a3e3f7a43204.jpg> 暗号資産採掘業者 30億円所得隠し
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/05deb1304c82f8445997ab48f902860d71e8fb0f496763bace9394cc907868ba.jpg> 楽天 メジャー20年本塁打王獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6540988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/9f8ea58adb900c9efc37b2ca168404ec7a68fdaa193580d6b43d6fdffd2842a9.jpg> 学食の大盛りライス99円 学生感激
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0b5f964574def85b75337474d6441c1f5298cf7ed79d18b87f730088884be502.jpg> 長嶋茂雄さん死去 SNSの反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 09:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 09:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
