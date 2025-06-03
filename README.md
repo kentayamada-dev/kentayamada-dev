@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b11c90a886945b6c943ac8c9af59d73.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e34202c030e45a2cbbf6b63f7f2f0ed9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a5cc8e40579b6611bce59ab6b2472da2f791c06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36030236-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 【長嶋茂雄さん評伝】メークドラマ、わが巨人軍は永久に不滅です…ミスターの笑顔と勇姿は不滅
+      <a href=https://news.yahoo.co.jp/articles/61d87222369cefe41608f067c9f2a9277c7c689b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952977-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 巨人・原辰徳前監督「神様のような存在」阿部慎之助監督「私たちにできるのは勝利を届けることだけ」長嶋茂雄氏を追悼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93f2da1a857d210017f401c4251808eeda3009ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000023-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシアとウクライナ、和平に向け条件提示　立場の隔たり浮き彫りに
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05641a288e21092398b8b838666c81c7dd4979be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2025参院選県区・対決の構図（上）野党競合へ　政権批判票の分散危惧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52e2b40cd484a245d4ccab5a54319f8e27812a87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ領4分の1の割譲要求、ロシアの和平案　事実上の「降伏勧告」で和平見通せず
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab828a62cd12b70c231c4a50dc5148b5f4e6862a973e5f5442a13648bc057fc0.jpg> 氷河期世代支援 政府が枠組み決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540985>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3b73ef7a594f2a524e72347b9d3a60ec673c9d0dd0f64ed39326aaa0528b8769.jpg> 韓国大統領選 0時ごろに大勢判明
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/886d2ef8b3302ab0a9ef9017a2da78e674d8a52ef1a2fae17518a5e22ecd680f.jpg> トランプ氏 「身内」への恩赦連発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540984>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a38b70fa4433b2b3192bf2a5a4785b0a05f78f70bcc182597848077e994494ea.jpg> 難病で渡米の女児 母が滞在懇願
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0c689ca334b07645c42680bb60eb291fccb1433945e126ec64d098c8d2f93673.jpg> 中国で日本人2人殺害の疑い 拘束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/74dca69cdc649edf61d3c81948e6cd4fa9f62de97aeebc06cd2b5fce51d36533.jpg> 車転落 男かくまった疑いで女逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0b5f964574def85b75337474d6441c1f5298cf7ed79d18b87f730088884be502.jpg> 長嶋茂雄さん死去 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6540992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a05a79c98b4258710b66769b2f8d4fa62efe6ba1cce6e089ca4b6d483befd4d7.jpg> 長嶋茂雄さん死去 名言や伝説数々
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 10:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 10:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
