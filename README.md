@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3fa9bbf934ad8081a5664bc724fd93e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/daa04e501a13195329afef12f5526e4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c770ae728bbeefa1512eb1f902821f1dfe3192c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000075-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、23号弾直後にうなずいた理由、NYでの2度の対戦が伏線か…スーパースターのバトン、長嶋茂雄さん死去の日に特大アーチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/09456583815443c6acfb0dd241b0da8798c76d6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000002-tvfan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 26年前期朝ドラ「風、薫る」見上愛とダブル主演は上坂樹里「『朝ドラのヒロインになる』と言い続けてきた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f429c049557935dc736959893a39c2e60298b8ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 長嶋茂雄さんモノマネの関根勤「温かく認めていただき…」突然の訃報に「驚いています」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0377da2b3ad57a0c117b9c327ef1c7e07c617588>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-04579062-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 見上愛、朝ドラ「風、薫る」W主演・上坂樹里の魅力熱弁「びっくりしますよ、 透明すぎて」互いの“距離の縮め方”も明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4863a4815176ec421d7ecccb911f7729cec9706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953873-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース大谷　インスタに長嶋茂雄さん追悼コメント　試合では23号追悼弾　チームはタイブレークの末敗れる　
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541027>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 路上で高齢女性切りつけか 逃走中
+      <a href=https://news.yahoo.co.jp/pickup/6541032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/792d6632ffc8935b5c87470bf37b34326cdeaca28f33ed4173f46b8d22883b26.jpg> 路上で高齢女性切りつけか 男逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
+      <a href=https://news.yahoo.co.jp/pickup/6541010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/31474bb54e26ab683a0af079c8952438c0d09428d48caaba51dc836548081e92.jpg> 富永啓生 Bリーグ北海道と契約
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 16:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
