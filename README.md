@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/876865ccd9a847971a2bf629055e3523.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab614076550cc59ac9cecdf4f29d2d03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d58c63a326b09c79e27f66b3f2455ffc22fcbd2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953443-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【 北野武 】　長嶋茂雄さんを哀悼　「同じ時代を生きた神のような存在だった」
+      <a href=https://news.yahoo.co.jp/articles/0bbd6223f495ed53d967b09345565adf407e9864>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000211-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1004&ch=1004&exp=10800&fmt=webp> 朝ドラ「風、薫る」2人目主演・上坂樹里　看護師描く物語　看護学生の姉からヒント「とことん聞こうと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47fd0633f4aa3333da0ffc6b4e9e6d228b0a2557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000044-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 大谷翔平23号、打った瞬間アーチ確信→何度も何度もうなずいてゆっくりスタート　飛距離129.2メートル、打球速度183.3キロ
+      <a href=https://news.yahoo.co.jp/articles/fda80750dad894f1bd99e8fc1150984c249976ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=795&ch=795&exp=10800&fmt=webp> 大谷翔平、土壇場9回に同点犠飛　メッツ絶対守護神・ディアスから左翼へ大飛球…手をたたいて喜ぶ　7回には反撃ソロも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87391b92fcc1842263bd5dbed08b6d124d7efeef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000195-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 富永啓生がBリーグ参戦！バスケファン早くも活躍期待「渡邊雄太につづいて富永も日本で見れるのヤバい！」
+      <a href=https://news.yahoo.co.jp/articles/2dc8687de06887532d60fcba7685161592421172>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 長嶋茂雄さん「東京タワー」「田中角栄内閣」「聖火ランナー」…　時代と歩んだ人生
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab7eddd088848d4cf60d9f0476262c7cbcdb33d6998a41aa744149e9ec5c8619.jpg> 兵庫知事の減給50%案 提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541007>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/c126179360b007658f49a7f68ad97e4468288556f49e86ce7e4cffe8bdacee44.jpg> 中国2人殺害 1人は日本から出張か
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/542a953d3b5d8baf98dc3ac5126cec3bea67a55c9daab953e5a0ef5717b2bf1e.jpg> 元検事正の性暴力 苛烈な二次加害
+      <a href=https://news.yahoo.co.jp/pickup/6541012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0206b4301e6f87343308f735f60e2cb0b87681a9bd585e44f6e89506a68d1390.jpg> ローソン「古米おにぎり」販売へ
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541014>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02234139/title-1748914056838.jpeg?exp=10800> 長嶋さん死去 愛された迷言・珍言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541015>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/9db4e311e98ef3a37155909923938599494c459e35e3387c2939293c777f7583.jpg> 長嶋茂雄さん死去 王貞治氏が追悼
+      <a href=https://news.yahoo.co.jp/pickup/6541017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/2936f003f017f2dcd39420c6e26b2cb56be9d6ca34a73138de990dc6d949b5da.jpg> 来春朝ドラ 主演2人目は上坂樹里
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 13:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 14:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
