@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e03f445a4988d952242cea4f870cc57a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59e33443d39eb3b778cbfc81c952327e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2b4c85238205ea8dc48b67722fffbb02e9b553d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 巨人軍　長嶋茂雄終身名誉監督、89歳で死去　V9を達成、野球界に多大なる貢献　今、振り返る「FA交渉人としての顔」
+      <a href=https://news.yahoo.co.jp/articles/962253eb94c18f732e7e722299c94319ad8c2af4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90026342-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【これまでの経歴】「ミスタープロ野球」の愛称で親しまれ　読売巨人軍の終身名誉監督・長嶋茂雄さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54de5a566d062bcc057542f9f3e8dd7ad73ca4b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 中国・大連で日本人2人殺害、容疑の中国人を拘束　知人間トラブルか
+      <a href=https://news.yahoo.co.jp/articles/61e08bb141c2fe9afc123ebb0ca53481eecc3cf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00059694-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】無免許運転で逮捕された男が容疑を否認　東名高速に車を落下させそのまま逃げた疑い　浜松市中央区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93f2da1a857d210017f401c4251808eeda3009ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000023-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシアとウクライナ、和平に向け条件提示　立場の隔たり浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/bf25b2a504b8e7ef52a44e560be67e37d4c7954d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010004-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国・大連市で日本人2人殺害　1人は日本から出張し巻き込まれたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db13b42b9c72e51fae569adf18e1dfd7c5a89100>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-16735470-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=559&ch=559&exp=10800&fmt=webp> ロシアとウクライナが直接協議、またも停戦で合意できず　捕虜交換には同意
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2353c48a4bdbbc026bc260d1c60714691fb34a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010003-kksoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 25連覇を逃した青森山田　正木監督は「自分の監督としての力が足りなかった」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab828a62cd12b70c231c4a50dc5148b5f4e6862a973e5f5442a13648bc057fc0.jpg> 氷河期世代支援 政府が枠組み決定
+      <a href=https://news.yahoo.co.jp/pickup/6540999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/1d156b02bd4d1d1a021f4dc4e1b345830eb66a1eaad08d222fd11ddce4b9a2bc.jpg> 入札備蓄米 農相が返還応じる意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/220f974f8b3ebb103d6db7f2aa42f9c5cbc9bedf79137b08f008fba32098d15d.jpg> AI時代の知的財産制度 確立へ
+      <a href=https://news.yahoo.co.jp/pickup/6540994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab828a62cd12b70c231c4a50dc5148b5f4e6862a973e5f5442a13648bc057fc0.jpg> 氷河期世代支援 政府が枠組み決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 11:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
