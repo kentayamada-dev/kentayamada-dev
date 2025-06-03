@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50469ff025ca07af3eb80725b0bb465f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/503f8c7c3e546ccb6f760d4bf8ff0384.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/059649111bb4d7990e06db90372e696834653ded>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031024-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=835&ch=835&exp=10800&fmt=webp> 長嶋茂雄氏が死去　８９歳　国民的英雄「ミスター」がついに力尽く
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/baf977b9f969645856f33336f2c6f687290306e4>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbe773eacb1a6e7676df27d4b214a1cb4fbb9aa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000012-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「FNS歌謡祭」にHANA、CLASS SEVEN、timelesz、中島健人、Number_iら出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/941688decb5d0bf35a3ebb4af6fb27c37486aa76ec403949529373d8d2763121.jpg> 長嶋茂雄さんが死去 89歳
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540981>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e3862702d276f07be417495c64b50a4d58751eafedf6e70ac8fe4733fc3ccc28.jpg> 内閣不信任案なら解散 首相検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/44acfdf8e4a5c38981527569bf489c63d9b74a4a35b470dedb2e5513db394eb9.jpg> 露 ウに事実上の「降伏」を要求
+      <a href=https://news.yahoo.co.jp/pickup/6540985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3b73ef7a594f2a524e72347b9d3a60ec673c9d0dd0f64ed39326aaa0528b8769.jpg> 韓国大統領選 0時ごろに大勢判明
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/05deb1304c82f8445997ab48f902860d71e8fb0f496763bace9394cc907868ba.jpg> 楽天 メジャー20年本塁打王獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6540986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3be9aa2836ceef40709602eab10b2fdf2580fb62b4e65bfa2cfb316a3577cf15.jpg> 朝日新聞 土曜の夕刊を休止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/230b208f69ad6b2e905f1aa341c68dbfec04bb6967fe5721a2b1cf92f3d7aecc.jpg> 春は中止 FNS歌謡祭が夏に生放送
+      <a href=https://news.yahoo.co.jp/pickup/6540982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/05deb1304c82f8445997ab48f902860d71e8fb0f496763bace9394cc907868ba.jpg> 楽天 メジャー20年本塁打王獲得へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 08:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 09:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
