@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab614076550cc59ac9cecdf4f29d2d03.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e658fc0d32a73cd76320755b6b41772b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bbd6223f495ed53d967b09345565adf407e9864>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000211-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1004&ch=1004&exp=10800&fmt=webp> 朝ドラ「風、薫る」2人目主演・上坂樹里　看護師描く物語　看護学生の姉からヒント「とことん聞こうと」
+      <a href=https://news.yahoo.co.jp/articles/87861aea6b91b57d59c5f31b27db3698c27b78bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00543562-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷129m弾→放送中にコメント殺到「天国に届いてる」「涙腺が」　長嶋さん追悼を連想する声が続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fda80750dad894f1bd99e8fc1150984c249976ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=795&ch=795&exp=10800&fmt=webp> 大谷翔平、土壇場9回に同点犠飛　メッツ絶対守護神・ディアスから左翼へ大飛球…手をたたいて喜ぶ　7回には反撃ソロも
+      <a href=https://news.yahoo.co.jp/articles/919d29d71cb7d03f6aab53218c4e1204c75993bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-04579023-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 26年度前期朝ドラ「風、薫る」主演・上坂樹里、出演発表は「ばけばけ」ヒロイン高石あかりからサプライズ「2週間くらい前」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dc8687de06887532d60fcba7685161592421172>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 長嶋茂雄さん「東京タワー」「田中角栄内閣」「聖火ランナー」…　時代と歩んだ人生
+      <a href=https://news.yahoo.co.jp/articles/b6ef470cfad3cad5ac23d387805b271f9cb440fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000004-nipponcom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【長嶋茂雄さん足跡】「ミスタープロ野球」 長嶋茂雄さん死去　巨人軍の終身名誉監督　MVP5回、首位打者6回、本塁打王2回…
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/1d156b02bd4d1d1a021f4dc4e1b345830eb66a1eaad08d222fd11ddce4b9a2bc.jpg> 入札備蓄米 農相が返還応じる意向
+      <a href=https://news.yahoo.co.jp/pickup/6541018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/62b50d39f82394b6b1e8c54241e81ae55ff5a2adc385d278768a94fe4865bec3.jpg> 玉木氏 立憲は内閣不信任案提出を
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0206b4301e6f87343308f735f60e2cb0b87681a9bd585e44f6e89506a68d1390.jpg> ローソン「古米おにぎり」販売へ
+      <a href=https://news.yahoo.co.jp/pickup/6541016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/566c012c9371466ed7955ea30a1c79f7c74250b0763f3fb6f2d11e38bc592241.jpg> アパートに女性の遺体 体にあざ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/1af90d82f986a50b3081b75723e1fbfb327a5ddb27e10faf339bf724b68df253.jpg> Switch2抽選3回目 当落のSNS反応
+      <a href=https://news.yahoo.co.jp/pickup/6541012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0206b4301e6f87343308f735f60e2cb0b87681a9bd585e44f6e89506a68d1390.jpg> ローソン「古米おにぎり」販売へ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/2936f003f017f2dcd39420c6e26b2cb56be9d6ca34a73138de990dc6d949b5da.jpg> 来春朝ドラ 主演2人目は上坂樹里
+      <a href=https://news.yahoo.co.jp/pickup/6540995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/752668cf384045462c408ce825eb3d52f35eec1eb0e0a67ed5a51f5b1517bdec.jpg> 渡辺謙 阪神の藤川監督を大絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 14:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 14:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
