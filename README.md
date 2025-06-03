@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f673d4584fb9c13a633029266f4e0f45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60a038b041c0fdbf15d54581cd90eeff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bea6ed119cc5875c925c842cf75650e4e7e40d05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491051-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ＜韓国大統領選＞3年で再び政権交代　厳しい民意…包容・統合が課題に
+      <a href=https://news.yahoo.co.jp/articles/1dc21db04f21e1dc7757c892eefb341ff3e0b0b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06031398-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 大谷翔平、１６年に憧れ長嶋茂雄さんと対談「光が差しているというか…あんなオーラを感じさせる人はいなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f257ffd96082bc7f83be373010219ec38306fb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36032417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=691&ch=691&exp=10800&fmt=webp> 高橋尚子さんが長嶋茂雄さん追悼「苦しいときにお手紙を…忘れられません」笑顔の２Ｓ写真添え
+      <a href=https://news.yahoo.co.jp/articles/1f868f6bc0f13c8ba826f3d6a21f81b584ca3e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491053-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=412&ch=412&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏当選　3年ぶり政権交代＝尹政権審判論
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 03:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 04:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
