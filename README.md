@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c34c5cdf20ac07f7f8066a080942e1ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae4083566f7416614eaa50a91bd1b3af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c2b76852d9a419d976ab170f574156c644637fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240504-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国・大連市で日本人2人が殺害、中国人容疑者を拘束　仕事上のトラブルか
+      <a href=https://news.yahoo.co.jp/articles/50be7eada8ce870b105a9c90a880fd2241e1645d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953359-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 綾小路翔さん　長嶋茂雄さんを哀悼　「俺達のミスターは永久に不滅です。」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d9a70c191d9285e58775023ed5c7ca55ae255a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000381-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 長嶋茂雄さん死去　89歳　出演CMが話題のセコムが追悼「長嶋さんのご功績に深く感謝」　35年間アンバサダーとして尽力
+      <a href=https://news.yahoo.co.jp/articles/c7f57b3ed4c1748b099bd1ea8fd96fd0a5927d2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000085-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1751&ch=1751&exp=10800&fmt=webp> 斎藤知事、減給50％3カ月案　兵庫県、条例改正案提出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/834d24ef1a72d2c76cdfacf3f2596223733a7ce6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010007-kksoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1026&ch=1026&exp=10800&fmt=webp> 野辺地西が悲願の初優勝！青森山田が遂に敗れ県内418連勝、24連覇で記録ストップ
+      <a href=https://news.yahoo.co.jp/articles/82df34f4b1b391bcfc4f1c6078446a76ea8fe614>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00080013-chosun-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=498&ch=498&exp=10800&fmt=webp> 韓国大統領選きょう投開票、激しく分裂している国民を統合するきっかけとすべき【6月3日付社説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/122d5e94ccff33161aa86d3896853e58fad3c5d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07919475-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】斎藤知事の給与「5割カット」案　現行の3割から引き上げを議会に示す「組織の長として責任」 元県民局長の私的情報漏えいめぐり
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/db13b42b9c72e51fae569adf18e1dfd7c5a89100>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-16735470-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=559&ch=559&exp=10800&fmt=webp> ロシアとウクライナが直接協議、またも停戦で合意できず　捕虜交換には同意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05641a288e21092398b8b838666c81c7dd4979be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2025参院選県区・対決の構図（上）野党競合へ　政権批判票の分散危惧
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab828a62cd12b70c231c4a50dc5148b5f4e6862a973e5f5442a13648bc057fc0.jpg> 氷河期世代支援 政府が枠組み決定
+      <a href=https://news.yahoo.co.jp/pickup/6541004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e75e60a6b1293b36c4b5fd159421c2632a571786247fa8562675ae468f4e565a.jpg> 兵庫知事の減給50%案 提出へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e75e60a6b1293b36c4b5fd159421c2632a571786247fa8562675ae468f4e565a.jpg> 兵庫知事の減給50%案 提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a38b70fa4433b2b3192bf2a5a4785b0a05f78f70bcc182597848077e994494ea.jpg> 難病で渡米の女児 母が滞在懇願
+      <a href=https://news.yahoo.co.jp/pickup/6541007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/c126179360b007658f49a7f68ad97e4468288556f49e86ce7e4cffe8bdacee44.jpg> 中国2人殺害 1人は日本から出張か
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/30775792e79fd28ce7fc4ede222d10fb22e7854bc0c5bfec22a4752518df8841.jpg> 長嶋さん追悼 各界からのコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541001>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02233098/title-1748849881031.jpeg?exp=10800> なぜ今「平成の人気番組」が好評
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 12:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 12:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
