@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/561694611527dd0233ad757d74a2f956.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcdb6809b70cbf546f589b5bebdbf329.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c73d4ca9ca64b4155120336ca0000ce4e7b34350>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      <a href=https://news.yahoo.co.jp/articles/aa59f3f0236912d6f0c7359aaac03c18c3b2c608>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-10181736-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 韓国大統領選 出口調査「共に民主党」李氏が優勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3c8edafb9fe55506f61ae38e80e0e2cf9acc3fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90008548-sakuranbo-000-3-thumb.jpg?exp=10800&fmt=webp> 【山形】参院選公示日まで1カ月・熱帯びる前哨戦　立候補予定者4人の動き
+      <a href=https://news.yahoo.co.jp/articles/c73d4ca9ca64b4155120336ca0000ce4e7b34350>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f209b26bbb3e7687371bbf79be2ea46ceb3a00c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36031647-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平がミスターの意志継承「心よりご冥福を」世界的スターとして存在感示す23号
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36031647-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平がミスターの意志継承「心よりご冥福を」世界的スターとして存在感示す23号
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/19e2984000ad0d36bf354f4b4c4706384aa027cd48bd468c67230b8669efe6c6.jpg> 韓国大統領選 出口調査で李氏優勢
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541058>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/03cef082482e4bf7724421f9c6ba45e5f5105b8b758a6ea46a683cfe805d7c95.jpg> 病院送迎車と車衝突 患者1人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541046>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fc0f399132c2666fa8edd18a0a1b23631b53e7f36a4819b936a7760376d20ecf.jpg> 作業員が4m落下 鉄筋刺さり重体
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/75c6e6c163a26b7df666426988df4e0449b2a674445ba51ecf1c464bb560cb0a.jpg> パックごはん 安定供給へ業界苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6541055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/d4318df55b93da6d2ffb1d8dd75de56f06ae78b326f1bb0cae1ec6c337bbcedf.jpg> 体内にコカイン74個 密輸疑い逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/d4318df55b93da6d2ffb1d8dd75de56f06ae78b326f1bb0cae1ec6c337bbcedf.jpg> 体内にコカイン74個 密輸疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a44302fcedcee02b2efef0db1abce9e0bf15f7c7a7652b71148c4d133d7133f7.jpg> 超巨大ブラックホール集団 発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 21:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 21:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
