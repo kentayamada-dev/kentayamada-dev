@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/191178a4f5fd5175f0f5a866caa8ca58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1118a9cbb3036a9c9a7f2fa487295bff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/033aab6cc1f7109824d0bf489b4d71aabcaef774>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36040018-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 松井秀喜氏　恩師長嶋茂雄さん宅を弔問　ドラフトクジ、マンツーマン指導、同時に国民栄誉賞も
+      <a href=https://news.yahoo.co.jp/articles/cf6f334b343b32824f289b8a6e9f64a99232a74d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領選　最大野党「共に民主党」李在明前代表が勝利宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f868f6bc0f13c8ba826f3d6a21f81b584ca3e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491053-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=412&ch=412&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏当選　3年ぶり政権交代＝尹政権審判論
+      <a href=https://news.yahoo.co.jp/articles/538741592513c45dda31c0d24e42b81c8786aa73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-01766763-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が23号で到達した“前人未到”の記録　米記者も驚愕…ダブル更新の衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/311585a82b95bd4c74d401d49e4becee609f8da5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06031412-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 王さんが「特別な存在」長嶋さんに感謝　ミスターは「退くってことのない人生だった」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 05:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 05:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
