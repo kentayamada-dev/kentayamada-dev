@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e945c824097ce96686f8658b41bef43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58910a30a043caefa6d0acc2c17b3450.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed31a1ba059bdf4bb377a19b0aabfef668090b25>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんに捧げるメジャートップタイ23号！セコムのCMでは今春、現役時代の長嶋さんと〝対決〟が実現
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a47e9ea3da412b95c21f4e3ac661bbd00e4fe65c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ふるさと住民登録」10年で1千万人　政府が数値目標「地方創生2・0」基本構想案公表
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ab14367fa3855abe665794fdb40900f1ce3bbe6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00006196-oabv-000-1-thumb.jpg?exp=10800&fmt=webp> 別府市の大学生死亡ひき逃げ事件　殺人・殺人未遂容疑を追加　遺族「殺人罪での捜査に漕ぎ着けるまでこれほど時間を要するとは」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/6d8bdb7072571bbfadfcafb5fbca93d3e71acf701d7c751427cdb7797e7a10d3.jpg> 首相 解散を今議論する意味はない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/dd110607c70797349571d1fe28abe3b281b827c24a07d6e011b5335cf05418fe.jpg> コンビニ各社 備蓄米を小容量販売
+      <a href=https://news.yahoo.co.jp/pickup/6541065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/95aca36a010f7c90d8f9bf1f1523ab2cb63bce0a4a70860a103d16a48d86b6ed.jpg> ウクライナの大規模奇襲 識者驚き
       </a>
     </td>
   </tr>
@@ -434,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/d4318df55b93da6d2ffb1d8dd75de56f06ae78b326f1bb0cae1ec6c337bbcedf.jpg> 体内にコカイン74個 密輸疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541059>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a44302fcedcee02b2efef0db1abce9e0bf15f7c7a7652b71148c4d133d7133f7.jpg> 超巨大ブラックホール集団 発見
       </a>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/f9c5491c2a18973d420988f2a2839cab2c517706cb4b4d1796ffebe2d0e2e855.jpg> 都営バス客置き去り 今年度3回目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541067>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02234736/title-1748936435013.jpeg?exp=10800> Switch2 抽選3回目でも落選祭り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a55884a01f6cc80de5f187a346b4a40920fe3b41d4a16777adabf79cc6322750.jpg> 東京タワーが消灯 長嶋さん追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 22:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 23:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
