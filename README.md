@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2edb395d949a7fe1e18b4c94ec00ecd9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/561694611527dd0233ad757d74a2f956.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c73d4ca9ca64b4155120336ca0000ce4e7b34350>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3c8edafb9fe55506f61ae38e80e0e2cf9acc3fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90008548-sakuranbo-000-3-thumb.jpg?exp=10800&fmt=webp> 【山形】参院選公示日まで1カ月・熱帯びる前哨戦　立候補予定者4人の動き
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6cc22c5318e54889923aef14d6283a114b7e7434>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000209-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 「信を問うべき」「野党は喜ぶべき」不信任案提出なら衆院解散の見方に与野党の発言相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f209b26bbb3e7687371bbf79be2ea46ceb3a00c2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36031647-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平がミスターの意志継承「心よりご冥福を」世界的スターとして存在感示す23号
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cf1851df87fc8fa9b30611a700903a9c40c4230>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21954927-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 参院選公示まで1か月　鹿児島選挙区出馬意向の4人前哨戦　党勢拡大へしのぎ削る各政党
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e15c6553577c02a89d9a2fe11e6beb5f2aae9d4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000175-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=594&cy=0&cw=1437&ch=1437&exp=10800&fmt=webp> 病院送迎車転落、女性1人死亡　埼玉・越谷、トラックと衝突
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 韓国大統領選の最新情報
+      <a href=https://news.yahoo.co.jp/pickup/6541058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/6d8bdb7072571bbfadfcafb5fbca93d3e71acf701d7c751427cdb7797e7a10d3.jpg> 首相 解散を今議論する意味はない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ebe537b093f6313e3d9c5b53ddcfa134b119ff5dc053101a7071e7ce35b07235.jpg> ガザ物資配布拠点で攻撃 27人死亡
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/141083151f174e537197852af50caaf882d821ab548cef3f8e07e9f826d468ea.jpg> サウナでのメガネ プロが注意喚起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/cf8df95d9d92f4f7b9fb18c4ed932bb59d06411399219524c50912d2b07e11de.jpg> 王さん 長嶋氏は「特別な存在」
+      <a href=https://news.yahoo.co.jp/pickup/6541057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/5cc5b9e4575b1fee9d827a245895f6d911bc122a051cf2cf8367369b135ad896.jpg> 長嶋さん死去 三奈さんがみとる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 20:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 21:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
