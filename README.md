@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e169962f2e87fff64de995e9ec690d96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93d74021b8f7dfdb35e7206cdcf9ae4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df7d060a6edfef4b9acd9f6f2fbe05004ef46500>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491038-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏「国民の偉大な決定に敬意を表す」　当選確実受け
+      <a href=https://news.yahoo.co.jp/articles/b73cfc57995a4cd5d73b224b426ab6e0e0854c62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491039-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏　首相に金民錫氏を起用へ
       </a>
     </td>
   </tr>
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a58b8a5945d7fe15b752dee41408ce84550300d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000114-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=625&ch=625&exp=10800&fmt=webp> 万博の大屋根「リング」、23日までに「原形」の保存方法を議論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32cd3ec316da9acd80fc408565c778c7188688d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000112-mai-000-1-view.jpg?pri=l&w=192&h=129&exp=10800&fmt=webp> 一時代築いた“ON”　王貞治さん「追いつき、追い越せって…」
+      <a href=https://news.yahoo.co.jp/articles/195fff731c6fe29b5d8f92781232b3bf47e54e39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00037011-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 長嶋茂雄さん死去で注目された長男と次女の仲、過去の“きょうだい騒動”に寄せられた心配の声
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 00:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 01:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
