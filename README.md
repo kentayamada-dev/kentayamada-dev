@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95425a9586730b88c930b685b4d91b7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94f2a55b2737070942ded6f6ffb192a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2631816b94465eaf3cd1110c89a0ba731b0241dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国革新系野党・李在明氏「全力で使命果たす」、大統領選で当選確実
+      <a href=https://news.yahoo.co.jp/articles/df682f2963cb422bb0cc57d47bcac3c03260683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240699-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トラックが来るのはわかったが先に行けると思った」病院送迎車が用水路に転落　送迎者運転手の男逮捕　患者の女性1人が死亡　埼玉・越谷市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0385da0478839fe31d4b4cb9c114ea60b44aa74b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-05765387-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 病院送迎車が用水路に転落　女性1人死亡　埼玉・越谷市
+      <a href=https://news.yahoo.co.jp/articles/2631816b94465eaf3cd1110c89a0ba731b0241dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国革新系野党・李在明氏「全力で使命果たす」、大統領選で当選確実
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/084d0473c8e87375286dcfe3214fff072eb98bdf93a26d7838bad95badb85503.jpg> 韓国大統領選 李在明氏が当選確実
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0bb4b03e02ab343657c5acd0e8b35621fb38c8655520b213506a2e6cbca28f8b.jpg> 韓国大統領選 李在明氏が当選確実
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 01:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 02:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
