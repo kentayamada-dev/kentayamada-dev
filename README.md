@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5054f7e7bef669f860bdcef3102fa794.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b11c90a886945b6c943ac8c9af59d73.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5374d26a2e50f45789a0c7a743fc183df17ca633>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000109-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 千賀滉大　長嶋茂雄氏訃報に接し驚き「レジェンドの中のレジェンドとして球界に貢献された。びっくり」
+      <a href=https://news.yahoo.co.jp/articles/5a5cc8e40579b6611bce59ab6b2472da2f791c06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36030236-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 【長嶋茂雄さん評伝】メークドラマ、わが巨人軍は永久に不滅です…ミスターの笑顔と勇姿は不滅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e00004c0923d1ae1431c93b2b99cc04fcbede82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=653&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 捕虜交換で合意も停戦なし ウクライナ・ロシア直接協議
+      <a href=https://news.yahoo.co.jp/articles/05641a288e21092398b8b838666c81c7dd4979be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2025参院選県区・対決の構図（上）野党競合へ　政権批判票の分散危惧
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baf977b9f969645856f33336f2c6f687290306e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 揺らぐ福岡の自公立「指定席」　狙う国民民主も足元に不安　参院選
+      <a href=https://news.yahoo.co.jp/articles/52e2b40cd484a245d4ccab5a54319f8e27812a87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ領4分の1の割譲要求、ロシアの和平案　事実上の「降伏勧告」で和平見通せず
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/941688decb5d0bf35a3ebb4af6fb27c37486aa76ec403949529373d8d2763121.jpg> 長嶋茂雄さんが死去 89歳
+      <a href=https://news.yahoo.co.jp/pickup/6540985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3b73ef7a594f2a524e72347b9d3a60ec673c9d0dd0f64ed39326aaa0528b8769.jpg> 韓国大統領選 0時ごろに大勢判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3b73ef7a594f2a524e72347b9d3a60ec673c9d0dd0f64ed39326aaa0528b8769.jpg> 韓国大統領選 0時ごろに大勢判明
+      <a href=https://news.yahoo.co.jp/pickup/6540991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/220f974f8b3ebb103d6db7f2aa42f9c5cbc9bedf79137b08f008fba32098d15d.jpg> AI時代の知的財産制度 確立へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a38b70fa4433b2b3192bf2a5a4785b0a05f78f70bcc182597848077e994494ea.jpg> 難病で渡米の女児 母が滞在懇願
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/24def6e4c50dee9e9c6230b3bcaee5c25ab62bed51a7f5cceac8a3e3f7a43204.jpg> 暗号資産採掘業者 30億円所得隠し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3be9aa2836ceef40709602eab10b2fdf2580fb62b4e65bfa2cfb316a3577cf15.jpg> 朝日新聞 土曜の夕刊を休止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540988>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/9f8ea58adb900c9efc37b2ca168404ec7a68fdaa193580d6b43d6fdffd2842a9.jpg> 学食の大盛りライス99円 学生感激
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6540989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/941688decb5d0bf35a3ebb4af6fb27c37486aa76ec403949529373d8d2763121.jpg> 長嶋茂雄さんが死去 89歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 09:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 10:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
