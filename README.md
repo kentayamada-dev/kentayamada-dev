@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cba3e68f7812cc376b2f8c9413063d6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/876865ccd9a847971a2bf629055e3523.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02af4cbfce1ee8bb0e718e5763647d5ca182a769>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000396-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=645&ch=645&exp=10800&fmt=webp> ビートたけし、長嶋茂雄さん追悼「同じ時代を生きた神のような存在」「本当にショックだ」
+      <a href=https://news.yahoo.co.jp/articles/d58c63a326b09c79e27f66b3f2455ffc22fcbd2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953443-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【 北野武 】　長嶋茂雄さんを哀悼　「同じ時代を生きた神のような存在だった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb9cfe932cad7bafd96c7bc6c3a4e9c582520b1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00050080-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 斎藤元彦知事、給与カット割合を３割から５割に引き上げ…前総務部長の私的情報漏えい認定受け
+      <a href=https://news.yahoo.co.jp/articles/47fd0633f4aa3333da0ffc6b4e9e6d228b0a2557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000044-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 大谷翔平23号、打った瞬間アーチ確信→何度も何度もうなずいてゆっくりスタート　飛距離129.2メートル、打球速度183.3キロ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82df34f4b1b391bcfc4f1c6078446a76ea8fe614>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00080013-chosun-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=498&ch=498&exp=10800&fmt=webp> 韓国大統領選きょう投開票、激しく分裂している国民を統合するきっかけとすべき【6月3日付社説】
+      <a href=https://news.yahoo.co.jp/articles/87391b92fcc1842263bd5dbed08b6d124d7efeef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000195-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 富永啓生がBリーグ参戦！バスケファン早くも活躍期待「渡邊雄太につづいて富永も日本で見れるのヤバい！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/122d5e94ccff33161aa86d3896853e58fad3c5d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07919475-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】斎藤知事の給与「5割カット」案　現行の3割から引き上げを議会に示す「組織の長として責任」 元県民局長の私的情報漏えいめぐり
+      <a href=https://news.yahoo.co.jp/articles/21dce1da8604f634ddd92cb0de9d339f70e82e86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000027-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 古米の「ヴィンテージ米おにぎり」発売へ、120円目安　ローソン
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6540999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/1d156b02bd4d1d1a021f4dc4e1b345830eb66a1eaad08d222fd11ddce4b9a2bc.jpg> 入札備蓄米 農相が返還応じる意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/adf689a00e75127e01fa29e5071bf88775b46a62c3f87761d35a49f8e3ac4653.jpg> 農協は悪の組織ではない 元職員
       </a>
     </td>
   </tr>
@@ -434,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b6d39902533cadd83d5b19497d0c47213bff5efab0e558b257a16d6118652ef5.jpg> アユ遡上数が6年で600倍の川 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6541013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/1af90d82f986a50b3081b75723e1fbfb327a5ddb27e10faf339bf724b68df253.jpg> Switch2抽選3回目 当落のSNS反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/30775792e79fd28ce7fc4ede222d10fb22e7854bc0c5bfec22a4752518df8841.jpg> 長嶋さん追悼 各界からのコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541001>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02233098/title-1748849881031.jpeg?exp=10800> なぜ今「平成の人気番組」が好評
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 13:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 13:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
