@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd875bf23c074b8cf94449a9fedaacde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e945c824097ce96686f8658b41bef43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7ef1df7900ba2c9b6784ce48086f76c489ec4b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000094-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      <a href=https://news.yahoo.co.jp/articles/ed31a1ba059bdf4bb377a19b0aabfef668090b25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんに捧げるメジャートップタイ23号！セコムのCMでは今春、現役時代の長嶋さんと〝対決〟が実現
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c3c973699678f7d238079902fef5580095684fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981697-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地方創生の「基本構想」案を公表　地方への若者の流れ10年後に“倍増”「関係人口」は1000万人に　石破首相「都市と地方の支え合いを」
+      <a href=https://news.yahoo.co.jp/articles/a47e9ea3da412b95c21f4e3ac661bbd00e4fe65c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ふるさと住民登録」10年で1千万人　政府が数値目標「地方創生2・0」基本構想案公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7ef1df7900ba2c9b6784ce48086f76c489ec4b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000094-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32cd3ec316da9acd80fc408565c778c7188688d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000112-mai-000-1-view.jpg?pri=l&w=192&h=129&exp=10800&fmt=webp> 一時代築いた“ON”　王貞治さん「追いつき、追い越せって…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f209b26bbb3e7687371bbf79be2ea46ceb3a00c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36031647-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平がミスターの意志継承「心よりご冥福を」世界的スターとして存在感示す23号
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/6d8bdb7072571bbfadfcafb5fbca93d3e71acf701d7c751427cdb7797e7a10d3.jpg> 首相 解散を今議論する意味はない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ebe537b093f6313e3d9c5b53ddcfa134b119ff5dc053101a7071e7ce35b07235.jpg> ガザ物資配布拠点で攻撃 27人死亡
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541067>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02234736/title-1748936435013.jpeg?exp=10800> Switch2 抽選3回目でも落選祭り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541057>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/5cc5b9e4575b1fee9d827a245895f6d911bc122a051cf2cf8367369b135ad896.jpg> 長嶋さん死去 三奈さんがみとる
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 22:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 22:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
