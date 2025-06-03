@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae4083566f7416614eaa50a91bd1b3af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cba3e68f7812cc376b2f8c9413063d6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50be7eada8ce870b105a9c90a880fd2241e1645d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953359-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 綾小路翔さん　長嶋茂雄さんを哀悼　「俺達のミスターは永久に不滅です。」
+      <a href=https://news.yahoo.co.jp/articles/02af4cbfce1ee8bb0e718e5763647d5ca182a769>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000396-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=645&ch=645&exp=10800&fmt=webp> ビートたけし、長嶋茂雄さん追悼「同じ時代を生きた神のような存在」「本当にショックだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7f57b3ed4c1748b099bd1ea8fd96fd0a5927d2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000085-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1751&ch=1751&exp=10800&fmt=webp> 斎藤知事、減給50％3カ月案　兵庫県、条例改正案提出へ
+      <a href=https://news.yahoo.co.jp/articles/eb9cfe932cad7bafd96c7bc6c3a4e9c582520b1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00050080-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=367&ch=367&exp=10800&fmt=webp> 斎藤元彦知事、給与カット割合を３割から５割に引き上げ…前総務部長の私的情報漏えい認定受け
       </a>
     </td>
   </tr>
@@ -411,15 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e75e60a6b1293b36c4b5fd159421c2632a571786247fa8562675ae468f4e565a.jpg> 兵庫知事の減給50%案 提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/886d2ef8b3302ab0a9ef9017a2da78e674d8a52ef1a2fae17518a5e22ecd680f.jpg> トランプ氏 「身内」への恩赦連発
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/ab7eddd088848d4cf60d9f0476262c7cbcdb33d6998a41aa744149e9ec5c8619.jpg> 兵庫知事の減給50%案 提出へ
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541007>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/c126179360b007658f49a7f68ad97e4468288556f49e86ce7e4cffe8bdacee44.jpg> 中国2人殺害 1人は日本から出張か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/542a953d3b5d8baf98dc3ac5126cec3bea67a55c9daab953e5a0ef5717b2bf1e.jpg> 元検事正の性暴力 苛烈な二次加害
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 12:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 13:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
