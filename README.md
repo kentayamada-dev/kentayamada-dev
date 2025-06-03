@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/daa04e501a13195329afef12f5526e4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2654e01f65126ef5f2ac3712224d0b74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfd3fbcb9d85d3fa8cff64712d5f92e6fb81afbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000079-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=308&ch=308&exp=10800&fmt=webp> ニホンカモシカ、名古屋市の住宅街に迷い込む　麻酔銃を使い保護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da568d67b85b74ae6e332ba80aa7d3ab92520672>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=1174&ch=1174&exp=10800&fmt=webp> 長嶋一茂さん「長嶋茂雄は野球の星に帰りました」父の死去にコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c770ae728bbeefa1512eb1f902821f1dfe3192c4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000075-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、23号弾直後にうなずいた理由、NYでの2度の対戦が伏線か…スーパースターのバトン、長嶋茂雄さん死去の日に特大アーチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09456583815443c6acfb0dd241b0da8798c76d6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000002-tvfan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 26年前期朝ドラ「風、薫る」見上愛とダブル主演は上坂樹里「『朝ドラのヒロインになる』と言い続けてきた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f429c049557935dc736959893a39c2e60298b8ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 長嶋茂雄さんモノマネの関根勤「温かく認めていただき…」突然の訃報に「驚いています」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/62b50d39f82394b6b1e8c54241e81ae55ff5a2adc385d278768a94fe4865bec3.jpg> 玉木氏 立憲は内閣不信任案提出を
+      <a href=https://news.yahoo.co.jp/pickup/6541031>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/c4c109f9f6f9a48e446944e890fa90fc51b0954d65709b00a32e1262bee45040.jpg> 貸金庫での現金保管禁止へ 全銀協
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/250d26ae3e5ba23ed45fa9d6bbe713b701a5ac042bebe77a6d2031192553133a.jpg> 病院送迎車にトラック衝突1人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541032>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/792d6632ffc8935b5c87470bf37b34326cdeaca28f33ed4173f46b8d22883b26.jpg> 路上で高齢女性切りつけか 男逮捕
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0206b4301e6f87343308f735f60e2cb0b87681a9bd585e44f6e89506a68d1390.jpg> ローソン「古米おにぎり」販売へ
+      <a href=https://news.yahoo.co.jp/pickup/6541035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/db27a3095575d5493e27681ed937bdc94db2ecd3d7fc1b508e0fa6339e98a73e.jpg> 名古屋市内にニホンカモシカ 捕獲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e04f7e01809bd1804dad7c875d4836bf5334fe98c396e2930c3bfccefad158e8.jpg> メガネからぶき レンズ傷付く恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/bfc8396b01072dcbfb480a2b0882e84a95a45c2c45ed91e38ff2ebb291239fc0.jpg> 長嶋さん無言の帰宅 王さん弔問に
+      <a href=https://news.yahoo.co.jp/pickup/6541034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/368a50f43aec7774d812bfffd26f60a8043cd78ac1c7fe73f5207e1798059859.jpg> 長嶋茂雄さん死去 一茂がコメント
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 17:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
