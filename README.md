@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60a038b041c0fdbf15d54581cd90eeff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f03e6322615e277950a1262906d679dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dc21db04f21e1dc7757c892eefb341ff3e0b0b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06031398-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 大谷翔平、１６年に憧れ長嶋茂雄さんと対談「光が差しているというか…あんなオーラを感じさせる人はいなかった」
+      <a href=https://news.yahoo.co.jp/articles/ac24b94399260e0d7cd58112c1520eddfd5e28ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-21954129-jnn-000-1-view.jpg?pri=l&w=192&h=103&exp=10800&fmt=webp> 【 堂本光一 】　故・長嶋茂雄さんへの想いを語る　「自分にとってのヒーローです」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 04:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 04:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
