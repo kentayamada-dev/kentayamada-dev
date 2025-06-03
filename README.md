@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59e33443d39eb3b778cbfc81c952327e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c34c5cdf20ac07f7f8066a080942e1ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/962253eb94c18f732e7e722299c94319ad8c2af4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-90026342-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【これまでの経歴】「ミスタープロ野球」の愛称で親しまれ　読売巨人軍の終身名誉監督・長嶋茂雄さん死去
+      <a href=https://news.yahoo.co.jp/articles/2c2b76852d9a419d976ab170f574156c644637fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240504-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国・大連市で日本人2人が殺害、中国人容疑者を拘束　仕事上のトラブルか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61e08bb141c2fe9afc123ebb0ca53481eecc3cf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00059694-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】無免許運転で逮捕された男が容疑を否認　東名高速に車を落下させそのまま逃げた疑い　浜松市中央区
+      <a href=https://news.yahoo.co.jp/articles/5d9a70c191d9285e58775023ed5c7ca55ae255a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000381-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 長嶋茂雄さん死去　89歳　出演CMが話題のセコムが追悼「長嶋さんのご功績に深く感謝」　35年間アンバサダーとして尽力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf25b2a504b8e7ef52a44e560be67e37d4c7954d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010004-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国・大連市で日本人2人殺害　1人は日本から出張し巻き込まれたか
+      <a href=https://news.yahoo.co.jp/articles/834d24ef1a72d2c76cdfacf3f2596223733a7ce6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010007-kksoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1026&ch=1026&exp=10800&fmt=webp> 野辺地西が悲願の初優勝！青森山田が遂に敗れ県内418連勝、24連覇で記録ストップ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540998>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で日本人2人殺害 トラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6541004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e75e60a6b1293b36c4b5fd159421c2632a571786247fa8562675ae468f4e565a.jpg> 兵庫知事の減給50%案 提出へ
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/e7fef9cf2cd65000316c3e83d60b2a6e877702ecf18c7e2901b64f0cf95ec45d.jpg> 書店の倒産急減「滞在型」に活路
+      <a href=https://news.yahoo.co.jp/pickup/6541002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b6d39902533cadd83d5b19497d0c47213bff5efab0e558b257a16d6118652ef5.jpg> アユ遡上数が6年で600倍の川 なぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/941688decb5d0bf35a3ebb4af6fb27c37486aa76ec403949529373d8d2763121.jpg> 長嶋茂雄さんが死去 89歳
+      <a href=https://news.yahoo.co.jp/pickup/6541003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/9db4e311e98ef3a37155909923938599494c459e35e3387c2939293c777f7583.jpg> 長嶋茂雄さん死去 王貞治氏が追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/0356595aebf94af06eee9a121917ed22f2d108f5846978c7171f89a3ad94485e.jpg> 長嶋茂雄さん死去 大谷が追悼投稿
+      <a href=https://news.yahoo.co.jp/pickup/6541001>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02233098/title-1748849881031.jpeg?exp=10800> なぜ今「平成の人気番組」が好評
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 11:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 12:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
