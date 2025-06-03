@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/9Ovy--QL_nw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21b0fe873922c394eedc442c542658ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94f2a55b2737070942ded6f6ffb192a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4da760d7a3e1cecc649e3d8f920cd880efd5dffe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00137805-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=500&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ぶれるトランプ、戦争をやめる気がないプーチン、ウクライナに「さらに愛する人を失う」と恫喝したメジンスキー大統領補佐官とはどんな人物か？
+      <a href=https://news.yahoo.co.jp/articles/df682f2963cb422bb0cc57d47bcac3c03260683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240699-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トラックが来るのはわかったが先に行けると思った」病院送迎車が用水路に転落　送迎者運転手の男逮捕　患者の女性1人が死亡　埼玉・越谷市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e9cb2b57edc72aa9b38d0cc88338aa423d9497d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21952813-sbsv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “交際相手”の34歳女を逮捕 東名高速への車転落で逃走・逮捕の無職男を匿ったか=静岡県警【速報】
+      <a href=https://news.yahoo.co.jp/articles/2631816b94465eaf3cd1110c89a0ba731b0241dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国革新系野党・李在明氏「全力で使命果たす」、大統領選で当選確実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f257ffd96082bc7f83be373010219ec38306fb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36032417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=691&ch=691&exp=10800&fmt=webp> 高橋尚子さんが長嶋茂雄さん追悼「苦しいときにお手紙を…忘れられません」笑顔の２Ｓ写真添え
       </a>
     </td>
   </tr>
@@ -378,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/512cf4a68f28b87e86c7640f0d788d34becaecc0b1511c16a9356a30a169cbb2.jpg> 無条件停戦を露拒否 ウ側が明かす
+      <a href=https://news.yahoo.co.jp/pickup/6541075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0bb4b03e02ab343657c5acd0e8b35621fb38c8655520b213506a2e6cbca28f8b.jpg> 韓国大統領選 李在明氏が当選確実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/33b02f171819366db53c030b05fb675b462c9dd4029e0eac2470591e28b396f6.jpg> イラン 核巡る米提案を拒否の方針
+      <a href=https://news.yahoo.co.jp/pickup/6541063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b3696864634f2c22a6bc2ec20361ea26be933bf7d51aeb6141e8f458c239650d.jpg> 「ふるさと住民」制度創設へ 政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/4c49677b1fbd0da2cd4355c8f64c8f29897a4b1451c0f1cf1e0695f23f15ac15.jpg> 年金法案で自公と合意 立憲に非難
+      <a href=https://news.yahoo.co.jp/pickup/6541072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/148699a7998b9fe32174ae3e790c33ea8087ab5980c4178647a6c069c53baf32.jpg> 八田容疑者に殺人容疑 遺族の活動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/2387aa4e2c0b83420fd3bbfa6436177d7f3addfd16fb2acfc6c854dd09e412ff.jpg> 職員死亡 子との面会拒否で犯行か
+      <a href=https://news.yahoo.co.jp/pickup/6541065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/95aca36a010f7c90d8f9bf1f1523ab2cb63bce0a4a70860a103d16a48d86b6ed.jpg> ウクライナの大規模奇襲 識者驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/cfb604323dabf6523094d4fbd5ba096c35a072024083c9765f3edcec58d05d10.jpg> 突然家賃2.5倍で約4割退去 背景
+      <a href=https://news.yahoo.co.jp/pickup/6541064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/45c5fb1f5679f983b6e7d8bccb80d23f899982cad7e49fb2ae94531e1da73221.jpg> 仕出し弁当巡る詐欺の訴え 頻発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/a76aef54841b32a9842fd41738d6c9f6d450470d86320d57e613d0b35cbc5d28.jpg> セブンおにぎり100円セール実施へ
+      <a href=https://news.yahoo.co.jp/pickup/6541061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b36bda9b9c9afdddbb84b274a900158951113cb00465a45bf96409d1a94a3d92.jpg> 賭博疑いMF檀崎選手逮捕 豪報道
+      <a href=https://news.yahoo.co.jp/pickup/6541066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a55884a01f6cc80de5f187a346b4a40920fe3b41d4a16777adabf79cc6322750.jpg> 東京タワーが消灯 長嶋さん追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6540957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/2/b34c5987e8c37a087c47e6bf38d24134aa72ccf4ab39208ebfa67af6972d9aea.jpg> 元横綱白鵬 退職のコメント発表
+      <a href=https://news.yahoo.co.jp/pickup/6541034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/368a50f43aec7774d812bfffd26f60a8043cd78ac1c7fe73f5207e1798059859.jpg> 長嶋茂雄さん死去 一茂がコメント
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 05:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 02:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
