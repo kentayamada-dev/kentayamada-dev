@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f768ee73d37c046c58470aabb5c76d4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc3d9b97ba8d6152f812910d49ad8b4f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18c106a51154928f356192dd2a3bba62903e1799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21954870-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 長嶋一茂さん　父・長嶋茂雄さんを追悼　「長嶋茂雄は野球の星に帰りました。」「父にとって野球は人生そのものであり、最愛の存在でした。」
+      <a href=https://news.yahoo.co.jp/articles/0ddc239fcc3f6fad6cb36dac5ab6e03d72afd49a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-10181727-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1063&ch=1063&exp=10800&fmt=webp> 「特別」11回「不思議」4回…王貞治氏が長嶋茂雄さんを追悼「いつの間にか引き込まれてしまう人」「数字でしか争えなかった」インタビューで語った“思い出”と“魅力”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8cf1851df87fc8fa9b30611a700903a9c40c4230>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21954927-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 参院選公示まで1か月　鹿児島選挙区出馬意向の4人前哨戦　党勢拡大へしのぎ削る各政党
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ed3458d60ad8e16ee6b507d8fe790b5ddb574f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000095-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 小泉農相「ミニマムアクセス米も活用可能」　備蓄米全放出の場合
+      <a href=https://news.yahoo.co.jp/articles/6b4b5b6ef2e8d51db4644678833301b1f511bafa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240649-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> パックごはん販売一時休止　テーブルマーク「国産こしひかり10食」8月初旬から　コメ不足で想定上回るパックごはんの需要拡大続き
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e15c6553577c02a89d9a2fe11e6beb5f2aae9d4b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000175-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=594&cy=0&cw=1437&ch=1437&exp=10800&fmt=webp> 病院送迎車転落、女性1人死亡　埼玉・越谷、トラックと衝突
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6bf5a959bce3c05de9a416c5f670f297d61df57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-11646956-khbv-000-31453125-thumb.jpg?exp=10800&fmt=webp> 公示が近づく参議院選挙　宮城選挙区の候補者の顔ぶれや争点は
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541036>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fe782b7115e95e8fd6c04626791b60ccd6a741605919e2a933872a69b2725101.jpg> 石破首相 コメ政策で浮揚狙う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/430c655de7b44468ebdcb711cbf3bc8c9228f486b4725597d8ad151eedcc6421.jpg> 韓国大統領選 非難合戦で国内分断
       </a>
     </td>
   </tr>
@@ -442,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/75c6e6c163a26b7df666426988df4e0449b2a674445ba51ecf1c464bb560cb0a.jpg> パックごはん 安定供給へ業界苦慮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/d4318df55b93da6d2ffb1d8dd75de56f06ae78b326f1bb0cae1ec6c337bbcedf.jpg> 体内にコカイン74個 密輸疑い逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541045>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/141083151f174e537197852af50caaf882d821ab548cef3f8e07e9f826d468ea.jpg> サウナでのメガネ プロが注意喚起
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/368a50f43aec7774d812bfffd26f60a8043cd78ac1c7fe73f5207e1798059859.jpg> 長嶋茂雄さん死去 一茂がコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
+      <a href=https://news.yahoo.co.jp/pickup/6541052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/cf8df95d9d92f4f7b9fb18c4ed932bb59d06411399219524c50912d2b07e11de.jpg> 王さん 長嶋氏は「特別な存在」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 19:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 20:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
