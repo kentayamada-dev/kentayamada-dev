@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc3d9b97ba8d6152f812910d49ad8b4f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2edb395d949a7fe1e18b4c94ec00ecd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ddc239fcc3f6fad6cb36dac5ab6e03d72afd49a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-10181727-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1063&ch=1063&exp=10800&fmt=webp> 「特別」11回「不思議」4回…王貞治氏が長嶋茂雄さんを追悼「いつの間にか引き込まれてしまう人」「数字でしか争えなかった」インタビューで語った“思い出”と“魅力”
+      <a href=https://news.yahoo.co.jp/articles/c73d4ca9ca64b4155120336ca0000ce4e7b34350>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010028-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメ不足で銘柄米使用パックご飯の販売を8月から一時休止　テーブルマーク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32cd3ec316da9acd80fc408565c778c7188688d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000112-mai-000-1-view.jpg?pri=l&w=192&h=129&exp=10800&fmt=webp> 一時代築いた“ON”　王貞治さん「追いつき、追い越せって…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f209b26bbb3e7687371bbf79be2ea46ceb3a00c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36031647-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平がミスターの意志継承「心よりご冥福を」世界的スターとして存在感示す23号
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8cf1851df87fc8fa9b30611a700903a9c40c4230>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21954927-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 参院選公示まで1か月　鹿児島選挙区出馬意向の4人前哨戦　党勢拡大へしのぎ削る各政党
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b8c592de8a70fde53cf206e24efb5ce0558fc9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-01766959-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、23号確信弾で樹立した史上初　揺るぎない“最強の1番”…メジャー唯一の領域に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b4b5b6ef2e8d51db4644678833301b1f511bafa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240649-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> パックごはん販売一時休止　テーブルマーク「国産こしひかり10食」8月初旬から　コメ不足で想定上回るパックごはんの需要拡大続き
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fe782b7115e95e8fd6c04626791b60ccd6a741605919e2a933872a69b2725101.jpg> 石破首相 コメ政策で浮揚狙う
+      <a href=https://news.yahoo.co.jp/pickup/6541051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 韓国大統領選の最新情報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/4e26ca20e870af5511ab2ef79dbcab623c3fe157056d5388ca133dd050e0aa1a.jpg> 4日関東は30℃近くに 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6541023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/dd110607c70797349571d1fe28abe3b281b827c24a07d6e011b5335cf05418fe.jpg> コンビニ各社 備蓄米を小容量販売
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 20:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 20:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
