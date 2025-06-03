@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7055edaec36942837c8516785348ba05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7506d11718e467dfce85851b57106fd4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68cc89dd563e148c4dc101b57d455c6c0b2634e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000238-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> ド軍ロバーツ監督　日本のレジェンド・長嶋茂雄さんにお悔やみ「心からお悔やみを申し上げます」
+      <a href=https://news.yahoo.co.jp/articles/3d7c60accb623bcbede32546540ed781f444275f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031206-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 王貞治氏が長嶋茂雄さんの自宅に弔問　長男・一茂氏と次女・三奈さんが対応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68c77d5273739f601522ec9904e576cfc2b0025e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00805760-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 2人目の朝ドラ主演、CPが語った起用理由と選考過程「1秒で“この人だ”とはならなかった」
+      <a href=https://news.yahoo.co.jp/articles/c4863a4815176ec421d7ecccb911f7729cec9706>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-21953873-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース大谷　インスタに長嶋茂雄さん追悼コメント　試合では23号追悼弾　チームはタイブレークの末敗れる　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8f126742927319a856387faf60e4393f6b2009e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36030847-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんに捧げるメジャートップタイの23号＆９回に同点犠飛も
+      <a href=https://news.yahoo.co.jp/articles/c8164f8e03e0cb42cbed4342280634bef11b79bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000106-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1890&ch=1890&exp=10800&fmt=webp> 来春朝ドラ主演・上坂樹里　ヒロイン抜てきを高石あかりから知らされる　同事務所俳優が２期連続は令和初の快挙に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34a8eb08ea254ccfa6a04bf02c6cf9cb9c003101>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00010013-mbsnews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 【速報】片山元副知事がコメント「元総務部長の行為は適正」「懲戒処分はおかしい」私的情報漏えいで第三者委の報告書に「文書内容の共有は相当」
+      <a href=https://news.yahoo.co.jp/articles/36723fba956f936a9e5979a2b03bccc57fb65de8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981386-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 内閣不信任案「出すべき」　立憲・小沢氏「通るかもしれない時にやらないのはバカじゃないか」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/62b50d39f82394b6b1e8c54241e81ae55ff5a2adc385d278768a94fe4865bec3.jpg> 玉木氏 立憲は内閣不信任案提出を
+      <a href=https://news.yahoo.co.jp/pickup/6541025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/5e30390d117e20f4fc4d092854256029bfa0d3b4bef0dc351b457243849306a5.jpg> 鉄鋼関税増「極めて遺憾」赤沢氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/adf689a00e75127e01fa29e5071bf88775b46a62c3f87761d35a49f8e3ac4653.jpg> 農協は悪の組織ではない 元職員
+      <a href=https://news.yahoo.co.jp/pickup/6541018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/62b50d39f82394b6b1e8c54241e81ae55ff5a2adc385d278768a94fe4865bec3.jpg> 玉木氏 立憲は内閣不信任案提出を
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
+      <a href=https://news.yahoo.co.jp/pickup/6541026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/bfc8396b01072dcbfb480a2b0882e84a95a45c2c45ed91e38ff2ebb291239fc0.jpg> 長嶋さん無言の帰宅 王さん弔問に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/12b461e198680f7ac23ba202cfe27ab2470a392b8e160ce32cd4efb930fe68b2.jpg> たけし 長嶋氏は神のような存在
+      <a href=https://news.yahoo.co.jp/pickup/6541015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/52c419f793bdcf21e5ad817f8a3007032ad3f5a1e867694329c893b24572576f.jpg> 大谷が23号 打った瞬間うなずく
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 15:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 15:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
