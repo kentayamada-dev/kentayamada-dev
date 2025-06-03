@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94f2a55b2737070942ded6f6ffb192a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f4b3c0211d165d955612a72693b96b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df682f2963cb422bb0cc57d47bcac3c03260683d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240699-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トラックが来るのはわかったが先に行けると思った」病院送迎車が用水路に転落　送迎者運転手の男逮捕　患者の女性1人が死亡　埼玉・越谷市
+      <a href=https://news.yahoo.co.jp/articles/7d56b25db21a45e32c1c9df0748b363c446d7b5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491048-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=442&ch=442&exp=10800&fmt=webp> ＜韓国大統領選＞金文洙氏が敗北宣言　「国民の選択、謙虚に受け止める」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2631816b94465eaf3cd1110c89a0ba731b0241dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国革新系野党・李在明氏「全力で使命果たす」、大統領選で当選確実
+      <a href=https://news.yahoo.co.jp/articles/df682f2963cb422bb0cc57d47bcac3c03260683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240699-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トラックが来るのはわかったが先に行けると思った」病院送迎車が用水路に転落　送迎者運転手の男逮捕　患者の女性1人が死亡　埼玉・越谷市
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 02:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 02:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
