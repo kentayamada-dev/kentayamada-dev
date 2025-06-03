@@ -7,9 +7,9 @@ import type { ViewTrackerType } from './types';
 const ViewTracker: ViewTrackerType = (props) => {
   useEffect(() => {
     startTransition(async () => {
-      await incrementPageView(props.key);
+      await incrementPageView(props.keyName);
     });
-  }, [props.key]);
+  }, [props.keyName]);
 
   return null;
 };
