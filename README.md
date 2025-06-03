@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93d74021b8f7dfdb35e7206cdcf9ae4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95425a9586730b88c930b685b4d91b7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b73cfc57995a4cd5d73b224b426ab6e0e0854c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491039-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ＜韓国大統領選＞李在明氏　首相に金民錫氏を起用へ
+      <a href=https://news.yahoo.co.jp/articles/2631816b94465eaf3cd1110c89a0ba731b0241dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国革新系野党・李在明氏「全力で使命果たす」、大統領選で当選確実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ad132008ed55d33b47880452277259e7b81d840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 病院の送迎車がトラックと衝突　女性1人死亡／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/0385da0478839fe31d4b4cb9c114ea60b44aa74b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-05765387-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 病院送迎車が用水路に転落　女性1人死亡　埼玉・越谷市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/195fff731c6fe29b5d8f92781232b3bf47e54e39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00037011-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 長嶋茂雄さん死去で注目された長男と次女の仲、過去の“きょうだい騒動”に寄せられた心配の声
+      <a href=https://news.yahoo.co.jp/articles/3f257ffd96082bc7f83be373010219ec38306fb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-36032417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=691&ch=691&exp=10800&fmt=webp> 高橋尚子さんが長嶋茂雄さん追悼「苦しいときにお手紙を…忘れられません」笑顔の２Ｓ写真添え
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 01:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 01:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
