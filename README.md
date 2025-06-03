@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2654e01f65126ef5f2ac3712224d0b74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d609c1c97ce65a0b812da406b9f6c1ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35466f1db10f473adf0d5907469b5c0bf4910012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00981458-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=613&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相 「小泉農水相の活躍は”ケガの功名”」政治ジャーナリスト青山和弘氏が首相に直接取材
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b8bab55def90aa6c6c571f6ddcd04336e896d49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-01766928-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ大谷翔平は23号で何度もうなずいたのか？　体現した長嶋茂雄さんからの“学び”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0717021a2504a28f6c793bd65099ee27b4bbdbfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 長嶋茂雄さんの長男、一茂さんコメント全文
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bfd3fbcb9d85d3fa8cff64712d5f92e6fb81afbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000079-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=308&ch=308&exp=10800&fmt=webp> ニホンカモシカ、名古屋市の住宅街に迷い込む　麻酔銃を使い保護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da568d67b85b74ae6e332ba80aa7d3ab92520672>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-06031256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=1174&ch=1174&exp=10800&fmt=webp> 長嶋一茂さん「長嶋茂雄は野球の星に帰りました」父の死去にコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c770ae728bbeefa1512eb1f902821f1dfe3192c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000075-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、23号弾直後にうなずいた理由、NYでの2度の対戦が伏線か…スーパースターのバトン、長嶋茂雄さん死去の日に特大アーチ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000079-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ニホンカモシカ、名古屋市の住宅街に迷い込む　麻酔銃を使い保護
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21dce1da8604f634ddd92cb0de9d339f70e82e86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000027-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 古米の「ヴィンテージ米おにぎり」発売へ、120円目安　ローソン
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/5e30390d117e20f4fc4d092854256029bfa0d3b4bef0dc351b457243849306a5.jpg> 鉄鋼関税増「極めて遺憾」赤沢氏
+      <a href=https://news.yahoo.co.jp/pickup/6541036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/fe782b7115e95e8fd6c04626791b60ccd6a741605919e2a933872a69b2725101.jpg> 石破首相 コメ政策で浮揚狙う
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/db27a3095575d5493e27681ed937bdc94db2ecd3d7fc1b508e0fa6339e98a73e.jpg> 名古屋市内にニホンカモシカ 捕獲
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/3d06bd63d31f44761ed7b29905b72703e954ddc3bc67c5b0aa2db1c7a3b119df.jpg> 名古屋市内にニホンカモシカ 捕獲
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 17:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 17:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
