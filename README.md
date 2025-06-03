@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fbe840c3a304cb269ab085773fb26235.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3bba63f120a157fca6bb0b3cad28430e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb242734212886f6bc1b36bc68c7d5c4183481af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041010-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平、２戦連続の長嶋茂雄さん追悼弾なるか　メッツ戦「１番ＤＨ」スタメン入り、先発はカーショー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c035ab855c34b01e4bead416373cdcdbb0a7ce03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1090&ch=1090&exp=10800&fmt=webp> 「午前５時過ぎ、恩師である長嶋さんの自宅に弔問に訪れました」…松井秀喜氏「弔問」映像を「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが速報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/766a4d82c4925bbf9fd01abfcdc0792e09811875>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 李在明氏「民主主義を回復」　支持者ら歓喜　韓国大統領選
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5e8953edd98cb7a1160e4a0198acdccebf6c454>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00347023-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元白鵬の宮城野親方が〝決起集会〟開催　本名での案内状は「角界との決別」意思の表れか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba84d27efd4f824f67961e1561b0a5572906463c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000272-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 松井秀喜氏が緊急帰国　長嶋茂雄さんの自宅を弔問　三奈さんが出迎え
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/95aca36a010f7c90d8f9bf1f1523ab2cb63bce0a4a70860a103d16a48d86b6ed.jpg> ウクライナの大規模奇襲 識者驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541072>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/148699a7998b9fe32174ae3e790c33ea8087ab5980c4178647a6c069c53baf32.jpg> 八田容疑者に殺人容疑 遺族の活動
       </a>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/45c5fb1f5679f983b6e7d8bccb80d23f899982cad7e49fb2ae94531e1da73221.jpg> 仕出し弁当巡る詐欺の訴え 頻発
+      <a href=https://news.yahoo.co.jp/pickup/6541061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
+      <a href=https://news.yahoo.co.jp/pickup/6541079>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 性的広告を配信停止 電子コミック
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/08caf409ebc4a0f80fb64085120b097c72c77cf36cb2b09eea8b96739dd47983.jpg> 大谷が5月の月間MVP 通算6度目
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 06:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 07:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
