@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58910a30a043caefa6d0acc2c17b3450.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca4d3b34bf669cb8d8bbab18794e814b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa59f3f0236912d6f0c7359aaac03c18c3b2c608>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-10181736-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 韓国大統領選 出口調査「共に民主党」李氏が優勢
+      <a href=https://news.yahoo.co.jp/articles/92ec89a4c44cf660a46c4d782676bf51e140e54e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00491027-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ＜韓国大統領選＞テレビ局3社の出口調査　李在明氏が金文洙氏を12ポイント差でリード
       </a>
     </td>
   </tr>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b3696864634f2c22a6bc2ec20361ea26be933bf7d51aeb6141e8f458c239650d.jpg> 「ふるさと住民」制度創設へ 政府
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/19e2984000ad0d36bf354f4b4c4706384aa027cd48bd468c67230b8669efe6c6.jpg> 韓国大統領選 出口調査で李氏優勢
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/bc06d028128ad4f63f603d5acf6d4e2447325b0b8f6b86b0781a37a83bca31c3.jpg> 韓国大統領選 出口調査で李氏優勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/148699a7998b9fe32174ae3e790c33ea8087ab5980c4178647a6c069c53baf32.jpg> 八田容疑者に殺人容疑 遺族の活動
       </a>
     </td>
   </tr>
@@ -426,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/a44302fcedcee02b2efef0db1abce9e0bf15f7c7a7652b71148c4d133d7133f7.jpg> 超巨大ブラックホール集団 発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/f9c5491c2a18973d420988f2a2839cab2c517706cb4b4d1796ffebe2d0e2e855.jpg> 都営バス客置き去り 今年度3回目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541067>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02234736/title-1748936435013.jpeg?exp=10800> Switch2 抽選3回目でも落選祭り
+      <a href=https://news.yahoo.co.jp/pickup/6541062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/4a5baf9d220fa6c5641564a9b6fccb3017a9e153ec03ab9faa0beb85a88f9629.jpg> 「iPS創薬」最終段階の治験開始
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 23:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 23:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
