@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca4d3b34bf669cb8d8bbab18794e814b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbf3a1a3135d4521e22fd0a3ee2357ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a055a437fe3c85e172964381cd946f93ebdb7385>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-07240695-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=644&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】韓国大統領選 野党・李在明氏に当選確実の報道　韓国メディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed31a1ba059bdf4bb377a19b0aabfef668090b25>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんに捧げるメジャートップタイ23号！セコムのCMでは今春、現役時代の長嶋さんと〝対決〟が実現
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a47e9ea3da412b95c21f4e3ac661bbd00e4fe65c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ふるさと住民登録」10年で1千万人　政府が数値目標「地方創生2・0」基本構想案公表
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92ec89a4c44cf660a46c4d782676bf51e140e54e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00491027-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ＜韓国大統領選＞テレビ局3社の出口調査　李在明氏が金文洙氏を12ポイント差でリード
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32cd3ec316da9acd80fc408565c778c7188688d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00000112-mai-000-1-view.jpg?pri=l&w=192&h=129&exp=10800&fmt=webp> 一時代築いた“ON”　王貞治さん「追いつき、追い越せって…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ab14367fa3855abe665794fdb40900f1ce3bbe6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250603-00006196-oabv-000-1-thumb.jpg?exp=10800&fmt=webp> 別府市の大学生死亡ひき逃げ事件　殺人・殺人未遂容疑を追加　遺族「殺人罪での捜査に漕ぎ着けるまでこれほど時間を要するとは」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b3696864634f2c22a6bc2ec20361ea26be933bf7d51aeb6141e8f458c239650d.jpg> 「ふるさと住民」制度創設へ 政府
+      <a href=https://news.yahoo.co.jp/pickup/6541075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b87777991ef9eca0234fd64fc30be7b55323aadc1443f8dfab63ac311c9e28d7.jpg> 韓国大統領選 李在明氏が当選確実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/bc06d028128ad4f63f603d5acf6d4e2447325b0b8f6b86b0781a37a83bca31c3.jpg> 韓国大統領選 出口調査で李氏優勢
+      <a href=https://news.yahoo.co.jp/pickup/6541063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/b3696864634f2c22a6bc2ec20361ea26be933bf7d51aeb6141e8f458c239650d.jpg> 「ふるさと住民」制度創設へ 政府
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
+      <a href=https://news.yahoo.co.jp/pickup/6541064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/45c5fb1f5679f983b6e7d8bccb80d23f899982cad7e49fb2ae94531e1da73221.jpg> 仕出し弁当巡る詐欺の訴え 頻発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/4a5baf9d220fa6c5641564a9b6fccb3017a9e153ec03ab9faa0beb85a88f9629.jpg> 「iPS創薬」最終段階の治験開始
+      <a href=https://news.yahoo.co.jp/pickup/6541061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/325cef9f4151939fd03e96795430b5b575176575e2c51637563b03ca99047324.jpg> 万博リング大半廃棄 海外から疑問
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/5cc5b9e4575b1fee9d827a245895f6d911bc122a051cf2cf8367369b135ad896.jpg> 長嶋さん死去 三奈さんがみとる
+      <a href=https://news.yahoo.co.jp/pickup/6541071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/3/da80d017a61809a8673f03b39563b08f27e52131dc32ae45ce0f9328e15ec0d2.jpg> 日ハム古林が緊急降板 長期離脱か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/03 23:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/03 23:52:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
