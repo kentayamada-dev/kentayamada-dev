@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a84cb4cc6814ff7d00d6c428528d889c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6e954c7fbe1faf585d8d9b6cc82525f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23ce822424df9cb41301b91d6e0721da4e91edbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-08217749-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ氏　鉄鋼・アルミニウムの追加関税50％に引き上げ　4日午後発動
+      <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2485b9090aa9217dfcacdb3406976150e8ae7f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491069-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 李在明氏　韓国大統領の任期開始＝軍統帥権も自動移譲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4985132c76945a51cd01224c8358e4b42781036>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税引き上げ、英は免除　貿易協定の早期実施目指す
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c6d92842286f76beb9e757240263f6d75972d6f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00347064-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が５月ＭＶＰ受賞　15本塁打＆27打点…通算６度は日本選手最多を更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39755877be69b24546045c7ee7d885f440dff8b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000015-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=857&ch=857&exp=10800&fmt=webp> 「少年工」から大統領に　攻撃的言動で物議も　李在明氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c035ab855c34b01e4bead416373cdcdbb0a7ce03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1090&ch=1090&exp=10800&fmt=webp> 「午前５時過ぎ、恩師である長嶋さんの自宅に弔問に訪れました」…松井秀喜氏「弔問」映像を「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが速報
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 08:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 08:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
