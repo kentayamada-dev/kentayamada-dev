@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0dad9a4fcc2df79ff847ef1f9d820b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06a08239ad4c076ae57f30390a4185ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1b761ff4d2d459166ecacc61d8b36f532f88089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00018906-bengocom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ネットの性的広告「ゾーニング」求める署名は10万筆超、市民団体「国も対策に乗り出す姿勢示して」
+      <a href=https://news.yahoo.co.jp/articles/3e1a0b26926c7f20e89d84c7635642f273e03a39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-90019847-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自】「無罪を確信」書類送検のNHK党・立花党首　威力業務妨害など疑い「有罪となれば潔く刑務所も」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/882f61cb9afe051332a4c3479279d4b1558246a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-08289824-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”鉄鋼・アルミを50％に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/a7f52243ec1ecf8c50a20d583459ca5ad38ab924>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07662849-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長嶋氏追悼】訃報から一夜…球界著名人が数々の思い出語る一方で県内ゆかりの地では献花や記帳も(静岡)
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0534b06b42938e898141d2cf1fd4a1e9ba1321f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010010-cocokara-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 巨人OBからも＂松井監督＂待望論　 長嶋氏との生前の約束をめぐって　「必要とされるときに行ってくれと」「そうであってほしい」
+      <a href=https://news.yahoo.co.jp/articles/67a30910effdfac4ac22a22aaf2405e2f013d321>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-10181846-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ大統領、鉄鋼とアルミニウムの追加関税を50％に引き上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76ed7b5248d6caecc4582428e5a5b94fc8e0dea7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240824-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 韓国・李在明大統領 新政権スタート 「反日姿勢はとらないのではないか…」気になる日韓関係どうなる？
+      <a href=https://news.yahoo.co.jp/articles/3235af9099b35f6b6c7a4c0547c3e7b84a50c191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000095-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> コラム：韓国の李新大統領就任、日本に続き株主資本主義に転換か
       </a>
     </td>
   </tr>
@@ -426,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541129>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/82d38f942abd6304cab19aa6d5d2519dcc7eba858ac6e2b8fac32751dfb1b63d.jpg> 立てこもり 88歳男に懲役24年判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/35212870f966353cadba73a9faff3e7e14a68747378db3fefbd7007b3ca9c3a8.jpg> 帝国ホテル京都 最上位1泊300万円
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/93a8d28619051c4ebbc3e693701c89ac95e2fde24e2c60639617be44bb160b73.jpg> カピバラ2カ月逃亡も体重増 中国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/22849393fedbcb608c5de967e4e0834baf4863a685b2f883d2e1be7acf37b4a9.jpg> 大谷を申告敬遠 大ブーイング
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 17:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 17:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
