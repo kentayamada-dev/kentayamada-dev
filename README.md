@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2900823b8e78272d39f09087ad9c42d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2afa9fa0b125fcb49092c0fc4c5f67e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90a16706a30ea52bf120594168363573069a7ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000034-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領、鉄鋼・アルミニウム輸入関税２５％から５０％に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/571a839a7e02d58416e51153d36f67eac8592f28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 大谷翔平２戦連発２４号なるか　１打席目見三振…前夜は長嶋茂雄氏追悼弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b608110a949de34ea94eacb116aab9664f75dfc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=905&ch=905&exp=10800&fmt=webp> 松井秀喜さん、早朝5時過ぎ長嶋茂雄さん宅を弔問　「THE TIME，」で弔問後にインタビューを約3分間…安住アナ「生中継でご覧いただきました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9869dc060aa5b7f101750ee5a54c25e7b409596c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00080031-chosun-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「韓国大統領選の結果に見解はあるか」　記者の問いに米ホワイトハウス報道官「多分あるはずなんだけど…あ、ないですね」
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5560abf46647f1a6a8dd15732e503d542cf7646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 李在明氏「国民の生活回復に全力を尽くす」　日本は対日政策注視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06b25ee306429416c468b698749bd06fd38ddf42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000041-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 松井秀喜さん「やはりショック」　長嶋さん宅を弔問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf95416a3b1c1a4504446822027be93f812f46dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000133-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　メジャー全体トップタイ53打点　勝ち越し犠飛から大量点で3連勝＆今季最多貯金16
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 李在明氏「国民の生活回復に全力を尽くす」　日本は対日政策注視
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/b4aadad59add8fa7fa36a5cc03beb01f7c0fa5026987d603bf484d6a7dbb4a90.jpg> 李在明氏 韓国大統領に就任
+      <a href=https://news.yahoo.co.jp/pickup/6541102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/f075c550cff4f7b923bb2eef92c0a85042a84c2ca6adf1923bf9bddada840b8b.jpg> ファミマ あすから備蓄米を販売
       </a>
     </td>
   </tr>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c5439d7984f999d375516646c2cc72eb657afcb8ccb059018d3697a8a06d611e.jpg> トランプ氏法案 マスク氏「不快」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541092>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/2de356dfa49efe5035ef66205b7827423cabfa0160dd134acad992a0d1bf354a.jpg> 台湾菓子に「抗日戦争勝利」狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/1bb2f06d0b29c077e5a0e1326cc505dd417d0fbeaca932105005775d7c947e68.jpg> 講師着服疑い 11人試験受けられず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/750f0adec853c118858902dbe4fc76b9f7c6a33d99fbd3770fa539dfad4f1172.jpg> 長嶋さん好物の汁そば 50年守る店
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/375003dac1db3f3c1225221e693967bdd826ed40a13d4ca3531692ff9fff46d5.jpg> ハイスタ難波 ラーメン店浅草進出
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 11:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 11:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
