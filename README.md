@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7800351a6c2f162ee2baae566a1b8bbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32b2409c47238f607a2529c2308ef1fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5677d307604a10fb1cd21a204d39f48191c5f23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010001-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1677&ch=1677&exp=10800&fmt=webp> 世界361位 4強入りで1億円獲得、快進撃ボワソン 全仏OPだけで生涯獲得賞金の5倍稼ぐ＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/60cd765b3f6cc750ae19990ba55071082ebfffa1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平と鈴木誠也、DHで候補　米大リーグ球宴のファン投票開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d1dcd7aeec86ffe5099949bf23de74b4ea1f3f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000062-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 松井秀喜氏　NYから緊急帰国　長嶋さんと二人きり2時間の会話…生前の約束「果たしたい」
+      <a href=https://news.yahoo.co.jp/articles/f4494b04281a6545134d5c9c6469ba6403db91e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982356-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】トランプ大統領とプーチン大統領がウクライナめぐり電話会談「即時のウクライナ和平につながらず」　停戦含む交渉は難航か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d9832baa10c735c8efd16125ef41b27ceb70f0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00006836-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 世界1位シナー、盤石の試合運びで2年連続ベスト4！世界62位を寄せつけず完勝[全仏オープン]【テニス】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1f3f2e520808b4cb9e60e4cedc9bfe98cfb5560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00037021-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 愛弟子・松井秀喜氏が“断固拒否”した長嶋茂雄さんの“2つの願い”と、生前に交わした“約束”
       </a>
     </td>
   </tr>
@@ -376,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d3dbe0c68a270aba66acd36c63df31291af377c25d60bc4af0e8d873eddbc989.jpg> トランプ氏とプーチン氏 電話会談
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541159>
@@ -388,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541166>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/5e72063b24f3f81e365798e09fc58383e4c55beb9a43cd84bdb4b346518b25cd.jpg> 外免切替の厳格化 骨太方針明記へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/a31f76a08f380a4d41f9012c61e04737bbe045f60cf990c99de503c54658eb61.jpg> 選挙のSNS対策 与野党が協議
       </a>
     </td>
   </tr>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4cecb75e4ed9a4b0afcab076e047e8891496a9eafca9fb476db98ed26b76b0db.jpg> 「色恋営業」禁止 ホストは戸惑い
+      <a href=https://news.yahoo.co.jp/pickup/6541171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/43e06d5aee14db424786264e61ea80670613bacf2b5c1f85f24ae3890c08bf97.jpg> Switch2が発売 注目ソフト多数
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/687047ec321bd41ab8febd7f2b13e470b52bcebaaf59db6aeea060bb8e7cde28.jpg> 世界361位が快進撃 全仏テニス4強
+      <a href=https://news.yahoo.co.jp/pickup/6541172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/23e412c0afd747f6ec5e1c71ecb254ae7a65a62ac768a2c5eae0d8ef4fe04c5b.jpg> 大谷は MLB球宴のファン投票開始
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 06:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 06:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
