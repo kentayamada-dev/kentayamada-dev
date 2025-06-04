@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2fe546bc724d99afe3753e1684cf122.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6abc4fd673f5a9efbc80c96044d366a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d4272b571280030f4a103b62d90764e85a1c66c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-21955737-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 松井秀喜さんが長嶋宅に弔問
+      <a href=https://news.yahoo.co.jp/articles/9b986d5aaf6030a9b636e38924a144c270634515>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000040-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平 月間MVP受賞　日本人選手最多 6度目の受賞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b5c606cface69c3f1b473e1258c7c5f321f04f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041070-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平２戦連発２４号なるか、２打席目までは凡退…前夜は長嶋茂雄さん追悼弾
+      <a href=https://news.yahoo.co.jp/articles/28e48a6066ed51454650a1d008d3b3b37ee791cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050065-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 韓国大統領に就任の李在明氏、社会の分断克服へ「全ての国民に仕える」…北朝鮮と対話の意向も示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61366d9639acb717e1aef600fc513dbe06d6ee60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00981839-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 以前は対日政策を「屈辱外交」と批判も…選挙戦では「日本は重要なパートナー」と述べていた「共に民主党」李在明氏、韓国大統領選に勝利　過去最多の得票数で当選
+      <a href=https://news.yahoo.co.jp/articles/8dc8267ad84b5595f5093aa21ad95dbf688ee7d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000036-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 松井秀喜さんら巨人OB弔問　長嶋さんとの別れ惜しむ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d9696cc3ab3c957b36eb9d50efd6512ba606d01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00097491-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 蹴ったボールが線審に直撃！ それでも失格にならず物議のムゼッティ「不運な偶然の出来事だった」と弁解＜SMASH＞
+      <a href=https://news.yahoo.co.jp/articles/0150526245b2b3bf765f316bb2f1939e73333799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050058-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=356&ch=356&exp=10800&fmt=webp> 小泉農相、備蓄米の酒造メーカーや加工業者向けへの放出検討…残る３０万トンの一部充当
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/f8272e534088b346bd256bf7f762529b6a62fc12fbcb37dbbcb266433333d173.jpg> 李大統領 分裂の政治を終わらせる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d778f37f8f80fa23a50167d6f6f1b57fba570e425eb167b3db222a9b1901c268.jpg> 石破首相「日韓の協力活発化を」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/11fd8fd1b57e574b17cde71c93d283037900e80cea4f020bb1ccddae4d8e7da3.jpg> 石破首相「日韓の協力活発化を」
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541099>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c5439d7984f999d375516646c2cc72eb657afcb8ccb059018d3697a8a06d611e.jpg> トランプ氏法案 マスク氏「不快」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/2de356dfa49efe5035ef66205b7827423cabfa0160dd134acad992a0d1bf354a.jpg> 台湾菓子に「抗日戦争勝利」狙い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 12:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 12:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
