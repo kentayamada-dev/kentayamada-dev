@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dea670017946c43631c42e5f48cdb0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b520b20e9f78288a3388e23705257bd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e744751b0bc2709b6768d4ba54d00e72fe41ec2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000238-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】外国人医療費未払い対策へ　政府、保険料未納防止も検討
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1cbece5fa57613e5a8877612b3162955ae5bc0c>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5820f0a211af6c38e1a16069fb3bee4cf676065b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 選挙期間中のSNS規制、自民がたたき台　名誉侵害する投稿対応など
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/fce82bff89309d5830ce346125f1b6ad23c4b3387cc0ea0faef3c3fcde7a87e4.jpg> 自民裏金 29人に責任と参院政倫審
+      <a href=https://news.yahoo.co.jp/pickup/6541163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/69d0169db1829b5e7c9aa78176e7ea866ae07299f0b90177906400c3c08f98e1.jpg> 天安門36年「銃声と怒号」証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ce40eefbc5fc4301cfdc5116a219ddd164d016e4be376f5d96c55b6f93fd5500.jpg> スーパーのコメ価格 地域差大きく
+      <a href=https://news.yahoo.co.jp/pickup/6541164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/e83e03049f103227ccd484ae36e422ddcb1346fc335d04d1f4da3b0c8d7b1b64.jpg> 群馬の路上で女性刺される 男逮捕
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541158>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/f5249cb56ed9efa23d11e3cbe08b7ab42afb5ef67607006758b1e0bf20f00e8a.jpg> 給食に「たばこの巻紙」混入 高知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/5c7f57f598215727fb58f73d1b4cb3ffff4f2504698a8dce64ff036038a30548.jpg> 子の形見フェアレディZ復活 親涙
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/29745e4781d5d56f33f50ededa4a5232aec511977ba1fa3d814fb4503194717a.jpg> 浜田雅功「水ダウ」2カ月ぶり復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541153>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/b757d0fa8fd4eb7934ef04b8be4d643666d231e1e88b390adabd8132587f3546.jpg> エライザに声援「泣きそうです」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 23:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 23:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
