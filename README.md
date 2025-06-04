@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3f8fa50f5638ac72aa636cf1717dd0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a917d243f57c15ba7c7e96c5c9ce8a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a2d7be51a8272582aa8720cafd87644b865d0a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491162-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 韓国　きょうのニュース（6月4日）
+      <a href=https://news.yahoo.co.jp/articles/8320d5ab09fdd3cbaca5220924cd07f3ca1f881e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36041075-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 柴田勲氏、定岡正二氏、篠塚和典氏らが長嶋茂雄さんを弔問　松井秀喜氏、中畑清氏、高橋由伸氏らも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8686d6fc6435a97cff9921d7070d481de8cc9cf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 書類送検「真実相当性あり無罪」と立花氏
+      <a href=https://news.yahoo.co.jp/articles/52466312bcb301e065e24d67f010f8980b437abb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-04561512-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【現地報告】韓国の新大統領に李在明氏　選挙戦で感じた「熱量」投票率は約80％、10時間半の生放送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49b1bdd913e8a4049cf38ebf145c809de1dcaef4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240867-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NHK党の立花孝志氏「予定通りです！無罪を確信していますので、ご安心下さい」 兵庫県議への威力業務妨害や名誉毀損などの疑いで書類送検
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e453dd59ac8fcba45deeefa6713b4c35d154d165>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”鉄鋼とアルミニウムに課す追加関税　日本時間午後1時1分から2倍の50％に引き上げ　対象の国・地域に対しアメリカにとって最良条件求める文書を送付
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7f52243ec1ecf8c50a20d583459ca5ad38ab924>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07662849-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長嶋氏追悼】訃報から一夜…球界著名人が数々の思い出語る一方で県内ゆかりの地では献花や記帳も(静岡)
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/a94d168065765c6e366e3354a6f63285b872d04f5b69aeffa56437604034dac9.jpg> 5日からさらに暑く 熱中症に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541127>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/6f2c071d326330d801308e1d012afd41a2695fd6cc343fc83c08c6d32cbeef9b.jpg> 公益通報者解雇に刑事罰 法が成立
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4feddec496a7e953524a5515ea138bcba5d7a78df7fb7c90a4b66cd734cd33e0.jpg> 豪雨で警察官殉職 両親が県を提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/82d38f942abd6304cab19aa6d5d2519dcc7eba858ac6e2b8fac32751dfb1b63d.jpg> 立てこもり 88歳男に懲役24年判決
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/62249a470d30907f702073dea936930082aee20e323f531b42dd64ef36875709.jpg> 立てこもり 88歳男に懲役24年判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 18:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 18:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
