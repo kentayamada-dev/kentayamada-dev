@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/943adcfec7700ab5534bab369a2c2a80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b29c0b52f3f0e2009368df63e008dc06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68b88bee7a85af9320f74777f3831aab86f17365>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000045-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=942&ch=942&exp=10800&fmt=webp> ドジャース・大谷　6度目月間MVP！史上初両リーグで複数回受賞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf51aa009e35336afe947c6e881cf9b097ffbbf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010000-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1623&ch=1623&exp=10800&fmt=webp> シナー 快勝で2年連続の全仏OP4強、世界62位の曲者を圧倒＜男子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6286e340739521d308cea5c47ad637171352f54a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000223-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> レジオネラ属菌検出で万博水上ショー中止　現場のウォータープラザはユスリカも大量発生
       </a>
@@ -367,30 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/771b05580924fe6319b65b66cbcd6080aa299a56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国新大統領のネクタイは「国民統合」色なのか　前政権が移転の大統領府、また移転の公約
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9f4a05001dd96854021b69374efc990d1cbce61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06041304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の今季シーズンＭＶＰは間違いなし！？　史上初の月間ＭＶＰ両リーグ複数回受賞から見えた吉兆データ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e308c066c03198254a12a50bcf6a7c4ab41da2a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00006835-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 世界361位ボワソンの快進撃止まらず！トップ10に連勝しグランドスラム初出場で4強[全仏オープン]【テニス】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e935403fbf2c2f73039eff47ff17af0e99fab3b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「監督との約束果たしたい」松井秀喜さん緊急帰国…長嶋茂雄さんと“素振りの絆”
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 01:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 01:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
