@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcfa59f36d0ba1575b77c7aea3df4fd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5ecfc59967cdd1fe7908c92a8cc2d8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd0c98331ab932e5297e3b5d2d4b88060f4d3678>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031327-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> シナーがブブリクにストレート勝利でセットを落とすことなく2年連続の準決勝進出 [フレンチ・オープン／テニス]
+      <a href=https://news.yahoo.co.jp/articles/1c4964c714e400ff7a156a44c95df70457082efa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01387313-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「殺そうと思って…」女性を待ち伏せし複数回刺したか　男逮捕　群馬・前橋市
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 04:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 05:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
