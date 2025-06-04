@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb2cd1b5c57f192f85a3f303bc21c3a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90e4064aa3e548334b0a89d048732b65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99ee126244f1621a5b46b14ed0d81fd508667860>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、142円台後半（4日）
+      <a href=https://news.yahoo.co.jp/articles/bf1f6144cf254c385079bc5614e5f4502f0181f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏、プーチン氏との電話会談後「すぐには平和難しい」…夜中には「習は難しい相手」（１）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3aef3bed3545f5a04cb3c07569bfbc384ba2b8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-08564136-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 国連安保理、ガザ即時停戦・人道支援求める決議案を否決　米が拒否権行使
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a9066300041c22ed6abe6731769bcbcca464c72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【大阪・関西万博】ウォータプラザでレジオネラ属菌検出　夜のショー中止に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e01e44c462848f83f2f8ed70a81c6585ce856ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000027-gamespav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 待望の『FFタクティクス』リマスターがPC/Xbox/スイッチでも発売決定！フルボイス化やシナリオ加筆調整も実施
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b2fdf2a6102c5529a07f5bb7c7ab7f3e26450e8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031330-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが前年の準優勝者ズベレフに対する準々決勝に4セットで勝利、世界1位シナーへの挑戦権を獲得 [フレンチ・オープン／テニス]
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e6c77c66a6ef91863aff43414c04294942af9b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逆走車に同乗していた可能性　ペルー人の男を逮捕　飲酒運転の車に同乗していた疑い　愛知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c00e490f5818c8d90d545e7cde61af001715c84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-35233849-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、プーチン氏とウクライナ情勢協議も「即停戦につながらず」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ce3addffb93562da616f0dd6a7a03403f0bf92c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 米、ガザ停戦国連決議案に拒否権発動　安保理の他の14カ国は賛成
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9c4fd5a066e9d436d062d288119f8b098b99a29d42a9feeaeda0c001b253ac05.jpg> a-haボーカル パーキンソン病公表
+      <a href=https://news.yahoo.co.jp/pickup/6541183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/8a306290195451f155a018ab6375577ab5c4ef2203359f562e0f2b002c6e00cb.jpg> 97年のFFT リマスター版発売決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 07:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 08:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
