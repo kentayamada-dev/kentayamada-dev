@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4739ef9902f7d21a74db7b138778c02.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc8ede49be6ae8ce106c4639f3f1a1c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb586f0efefb6bd64c86d4412ab70ee6bd591308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000122-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　2試合ぶり打点となる勝ち越し犠飛　メジャー全体トップタイ53打点目
+      <a href=https://news.yahoo.co.jp/articles/3ad399e2e8f5241005a9c362e8b315fd623db609>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平、目前に迫った節目の“数字”　5月から快調で自身6度目の月間MVP受賞　両リーグで複数回は史上初の快挙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ccc90eee9682b35caf247ca17e0d8d650526e7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491076-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=418&ch=418&exp=10800&fmt=webp> ＜韓国大統領選＞新政権の課題は分裂した国民の統合
+      <a href=https://news.yahoo.co.jp/articles/6b3b008b010e5b4991b887c016a8ca028bfc9a04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大統領当選の李在明氏に与えられた時間はたった一日…米「４日までに最上の提案を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f09db663ef9ab70194e5f264ce4ac88d280aa542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国大統領選 李氏が勝利
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4985132c76945a51cd01224c8358e4b42781036>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税引き上げ、英は対象外　貿易合意の早期履行目指す
       </a>
     </td>
   </tr>
@@ -418,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541083>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ラトビア 初の国連安保理入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/7d9d5cbed201c5440729ee216eb12435dbb55287da60facd7351a5812619f9c7.jpg> 米大統領 鉄鋼50%追加関税に署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541079>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 性的広告を配信停止 電子コミック
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541091>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 講師着服疑い 11人試験受けられず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541086>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/8ca2ca9505b09303bb8e769f1bcce037dd4c10827ccfb89eb84ce0c4c5efda91.jpg> PTA会長8割が父・実務は母 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/750f0adec853c118858902dbe4fc76b9f7c6a33d99fbd3770fa539dfad4f1172.jpg> 長嶋さん好物の汁そば 50年守る店
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 09:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 09:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
