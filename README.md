@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2afa9fa0b125fcb49092c0fc4c5f67e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2fe546bc724d99afe3753e1684cf122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/571a839a7e02d58416e51153d36f67eac8592f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 大谷翔平２戦連発２４号なるか　１打席目見三振…前夜は長嶋茂雄氏追悼弾
+      <a href=https://news.yahoo.co.jp/articles/8d4272b571280030f4a103b62d90764e85a1c66c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-21955737-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 松井秀喜さんが長嶋宅に弔問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b608110a949de34ea94eacb116aab9664f75dfc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=905&ch=905&exp=10800&fmt=webp> 松井秀喜さん、早朝5時過ぎ長嶋茂雄さん宅を弔問　「THE TIME，」で弔問後にインタビューを約3分間…安住アナ「生中継でご覧いただきました」
+      <a href=https://news.yahoo.co.jp/articles/8b5c606cface69c3f1b473e1258c7c5f321f04f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041070-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平２戦連発２４号なるか、２打席目までは凡退…前夜は長嶋茂雄さん追悼弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9869dc060aa5b7f101750ee5a54c25e7b409596c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00080031-chosun-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「韓国大統領選の結果に見解はあるか」　記者の問いに米ホワイトハウス報道官「多分あるはずなんだけど…あ、ないですね」
+      <a href=https://news.yahoo.co.jp/articles/61366d9639acb717e1aef600fc513dbe06d6ee60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00981839-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 以前は対日政策を「屈辱外交」と批判も…選挙戦では「日本は重要なパートナー」と述べていた「共に民主党」李在明氏、韓国大統領選に勝利　過去最多の得票数で当選
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4449c0901e2756049e85a5d6d18fb621ba7d7e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050051-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 石破首相、日韓首脳会談「なるべく早急に」…日本政府は李在明新大統領の歴史問題を注視
+      <a href=https://news.yahoo.co.jp/articles/b8f5be56d8e41491b1b7b2f59d8c9e53ec9a7221>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00981838-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=547&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 林官房長官　米の鉄鋼アルミ追加関税2倍引き上げ受け「必要な対応行う」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5560abf46647f1a6a8dd15732e503d542cf7646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 李在明氏「国民の生活回復に全力を尽くす」　日本は対日政策注視
+      <a href=https://news.yahoo.co.jp/articles/9d9696cc3ab3c957b36eb9d50efd6512ba606d01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00097491-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 蹴ったボールが線審に直撃！ それでも失格にならず物議のムゼッティ「不運な偶然の出来事だった」と弁解＜SMASH＞
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/75202a1ba6761dfae3747b44b2bffed005bed9a34f795dfb055ebc7e5b35352a.jpg> 北の横倒し駆逐艦が直立に 分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541099>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c5439d7984f999d375516646c2cc72eb657afcb8ccb059018d3697a8a06d611e.jpg> トランプ氏法案 マスク氏「不快」
       </a>
@@ -442,24 +434,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d76d3b9e1a897e1e2bc07d06ec2f2611feb9ade96018aff9b63a8e56d6f799bc.jpg> 元高校教諭の懲戒免職を取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541105>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02235300/title-1748974784180.jpeg?exp=10800> 中学受験 御三家の志願者なぜ減少
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/9f5d73886b3b622aed050f120a32178e63a338ee9b861f05c48ccf8299cd9009.jpg> テニス球蹴り審判直撃 判定に物議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541098>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bba5c25254fd759f5eccf5a776cbaf000fe35d11a075544e854c119cb3ff1d32.jpg> 松井氏 長嶋さんと生前の約束ある
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c201bc2b5e70ebae1450e9976a4d4d2940e3db3b637b666e6184f87ce21b02f6.jpg> YUIらプロデュース西尾芳彦氏死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/375003dac1db3f3c1225221e693967bdd826ed40a13d4ca3531692ff9fff46d5.jpg> ハイスタ難波 ラーメン店浅草進出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 11:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 12:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
