@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a850f48c98e90b2023af652357f08033.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/098396aaa2486834ed96e6ff007ec578.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34e2ddee0ff4db2099e19719973d7c0e27126e8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00080120-chosun-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=467&ch=467&exp=10800&fmt=webp> ブレーキ不在の絶対権力・李在明政権誕生、行政・立法府の圧倒的な優位で司法府の大幅な入れ替えも可能
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん…長嶋茂雄さんと２時間対面「素振りで会話し、素振りを通じ大切なもの授けていただいた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/202293aca5de94082cbc8cdaf12d4d025e61042f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010029-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 世田谷マンション建て替え巡り所有者らが「東急不動産」を提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15f28c5071e102d27ed6b58f45ff8a0dc1046d5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-01764598-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平とジャッジが“支配”…寄せ付ける者なし、2人だけが踏み入れる“神の領域”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fea874a83a31d7980deaddd15fc11ac1d5d15ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000106-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国大統領選、若い女性票は李氏に　男女分断が投票行動に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96b04561bdc4732cd182f8c65661e909c68c63ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000075-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】兵庫 バイパスでトラックなど5台絡む事故　6人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ec164fa9022761d71a9aa7acb7b140d637b5abd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00982056-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「監督との約束果たしたい」松井秀喜さん（50）が緊急帰国、恩師・長嶋茂雄さんと悲しみの対面　中畑清さん・高橋由伸さんらも弔問　記帳所にはファンの列
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/6f2c071d326330d801308e1d012afd41a2695fd6cc343fc83c08c6d32cbeef9b.jpg> 公益通報者解雇に刑事罰 法が成立
+      <a href=https://news.yahoo.co.jp/pickup/6541143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/fdcd3d3262bf62951723e1360a7084bb0e580dfc8f538ab3531d822cf6ef60b9.jpg> 5台絡む玉突き事故 男女7人重軽傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/fdcd3d3262bf62951723e1360a7084bb0e580dfc8f538ab3531d822cf6ef60b9.jpg> 5台絡む玉突き事故 男女7人重軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6541146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4ea8e1345d13caf801f9e15bbd0aec7e66a34f23f980fb11415260fb31b065b8.jpg> 世田谷のマンション施工不良 提訴
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4cecb75e4ed9a4b0afcab076e047e8891496a9eafca9fb476db98ed26b76b0db.jpg> 「色恋営業」禁止 ホストは戸惑い
+      <a href=https://news.yahoo.co.jp/pickup/6541144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bc2ab82900e2ab82172202444704fd751877a042b5fa865828e7d607c3e63458.jpg> クマノミ「猛暑で背が縮む」研究
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/72de45de25fdcd5f380b1e5eba2740dd484175641a50a2631fe01bb82bad20a3.jpg> 2児の父・DAIGO 受賞に「MAK」
+      <a href=https://news.yahoo.co.jp/pickup/6541145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/1c26b29483e23e35c7fe4988dc74039912fb2e02d4a458651f1b476d9cb6d933.jpg> 森井翔太郎 ルーキーリーグ初HR
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 20:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 20:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
