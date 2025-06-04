@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6e954c7fbe1faf585d8d9b6cc82525f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4739ef9902f7d21a74db7b138778c02.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
+      <a href=https://news.yahoo.co.jp/articles/fb586f0efefb6bd64c86d4412ab70ee6bd591308>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000122-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　2試合ぶり打点となる勝ち越し犠飛　メジャー全体トップタイ53打点目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2485b9090aa9217dfcacdb3406976150e8ae7f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491069-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 李在明氏　韓国大統領の任期開始＝軍統帥権も自動移譲
+      <a href=https://news.yahoo.co.jp/articles/4ccc90eee9682b35caf247ca17e0d8d650526e7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491076-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=418&ch=418&exp=10800&fmt=webp> ＜韓国大統領選＞新政権の課題は分裂した国民の統合
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4985132c76945a51cd01224c8358e4b42781036>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税引き上げ、英は免除　貿易協定の早期実施目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6d92842286f76beb9e757240263f6d75972d6f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00347064-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が５月ＭＶＰ受賞　15本塁打＆27打点…通算６度は日本選手最多を更新
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000028-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 米の鉄鋼・アルミ関税引き上げ、英は対象外　貿易合意の早期履行目指す
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4a77a84367146d9c40f002d1dba906625a0bbe03afb5170af84ded1b675ee256.jpg> 少女の自殺ほう助疑い 男を再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541079>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 性的広告を配信停止 電子コミック
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541079>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 性的広告を配信停止 電子コミック
+      <a href=https://news.yahoo.co.jp/pickup/6541086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/8ca2ca9505b09303bb8e769f1bcce037dd4c10827ccfb89eb84ce0c4c5efda91.jpg> PTA会長8割が父・実務は母 背景
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/57ab32dcad45995ee45592254901d2e4a6a165daed4ae2bc6c790549873ed562.jpg> 長嶋さん死去 松井秀喜氏が弔問
+      <a href=https://news.yahoo.co.jp/pickup/6541090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/3c9f023d810d63553c43b3df50fe9599f1e0f8453291a760aa40ebefa587d5c0.jpg> 尚弥 フェザー級への転級先送り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 08:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 09:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
