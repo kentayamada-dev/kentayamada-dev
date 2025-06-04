@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2073064c6545c480f456c2d7eb0ed98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2771eb85dee1d2a35b1b649399a4330.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ff8da8ab113dadf7257adaa40c45ea560e5e6d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米の鉄鋼・アルミ50％関税が発効、「最善の貿易交渉案」の期限
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000080-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米の鉄鋼・アルミ50％関税が発効、「最善の貿易交渉案」の期限
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/504aea4bdc5283edf7517a10ffa8ab471eb54d893903db5a8f815072a251e6e7.jpg> 李大統領 分裂の政治を終わらせる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541112>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/9889f5153524033836dda43079171adc1c5ea36777fcf8d616cf5cb3d6818171.jpg> 米政権 鉄鋼の50%追加関税を発動
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/30c5c876cc6ce5ff7b405996e59b633445933cdeb686f225742e753a0ed3c1ee.jpg> 生活保護申請5年連続増 25.9万件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541119>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ガソリン174円 1年3カ月ぶり安値
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0707ea2d38e1a3581a4a0f3c877439317551d46a2c923d339a2feb56c89e7182.jpg> ガソリン174円 1年3カ月ぶり安値
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bd9aa05334df26c2bbed75c50657960343c7c6544b1adebee6c2d8d76dfc61fb.jpg> NHK党・立花孝志氏を書類送検
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/7b072c6dac4d1ab2d1cd5a16d6c3fbdf32e94d6c0de09dd2fc6d61caec9116c2.jpg> NHK党・立花孝志氏を書類送検
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/02cb4b291addae2bb979081f320808a7b525538e870d3e0345b729f58f139993.jpg> 高橋由伸氏と妻 長嶋茂雄さん弔問
+      <a href=https://news.yahoo.co.jp/pickup/6541118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/e3854e5e8c7a4e504c94bacdb3a757876078e9eacbb08ca077dce4215ac046f1.jpg> 菅野が長嶋氏悼む 言葉にならない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 15:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 15:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
