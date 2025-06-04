@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5f1c9346f2231bee5190772d04b8a21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1dea670017946c43631c42e5f48cdb0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70365fe1e8fad60ee1987a329eae8dc8658ac7c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-02418455-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 給食に“たばこのフィルター巻紙”混入　高知市
+      <a href=https://news.yahoo.co.jp/articles/5820f0a211af6c38e1a16069fb3bee4cf676065b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 選挙期間中のSNS規制、自民がたたき台　名誉侵害する投稿対応など
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cf2df91efb089b1808717715099e23f0ef0f0973200c8b9e7559505f85434a4f.jpg> 出生数70万人割れ 社会保障に暗雲
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541151>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541149>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ce40eefbc5fc4301cfdc5116a219ddd164d016e4be376f5d96c55b6f93fd5500.jpg> スーパーのコメ価格 地域差大きく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/db002f34d52c7c9d3240124cf8e685e5b8a5f4d83b4050f305757b3b4c494b02.jpg> 住宅街で暴言騒音 退去命じる判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 22:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 23:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
