@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/mN__MzTGMQs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/799ffcf7779dcfebcf9cf6e0b9539975.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2900823b8e78272d39f09087ad9c42d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faf88fcac5f213562e0ce6bbbdd445a1c7495b8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相、李在明氏の韓国大統領選出に祝意　協力の活発化に意欲を示す
+      <a href=https://news.yahoo.co.jp/articles/90a16706a30ea52bf120594168363573069a7ce9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000034-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領、鉄鋼・アルミニウム輸入関税２５％から５０％に引き上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96ed57499eda9b94fde8863e07d5f517179f0e01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国大統領に李在明氏が就任　「憎悪ではなく認め合う世の中を作る」
+      <a href=https://news.yahoo.co.jp/articles/b4449c0901e2756049e85a5d6d18fb621ba7d7e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050051-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 石破首相、日韓首脳会談「なるべく早急に」…日本政府は李在明新大統領の歴史問題を注視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5560abf46647f1a6a8dd15732e503d542cf7646>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 李在明氏「国民の生活回復に全力を尽くす」　日本は対日政策注視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06b25ee306429416c468b698749bd06fd38ddf42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000041-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 松井秀喜さん「やはりショック」　長嶋さん宅を弔問
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf95416a3b1c1a4504446822027be93f812f46dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000133-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　メジャー全体トップタイ53打点　勝ち越し犠飛から大量点で3連勝＆今季最多貯金16
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48da9fd5e96491f6bc52d794039ef8f61c534e80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240730-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米・トランプ政権が関税交渉めぐり各国に“最善案の提出”求める　報道官「大統領は良い合意を期待」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c3842a5306c96a1a451022c05d2d1994b3a4545>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041043-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 「生前約束」…長嶋茂雄さん「弔問」を終えた松井秀喜氏「発言」を巡り「モーニングショー」スタジオ白熱…羽鳥慎一アナ「監督やるんだ」巨人ＯＢ「僕もそう思った」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000133-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　メジャー全体トップタイ53打点　勝ち越し犠飛から大量点で3連勝＆今季最多貯金16
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 10:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 11:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
