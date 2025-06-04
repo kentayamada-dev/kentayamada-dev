@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06a08239ad4c076ae57f30390a4185ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3f8fa50f5638ac72aa636cf1717dd0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e1a0b26926c7f20e89d84c7635642f273e03a39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-90019847-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自】「無罪を確信」書類送検のNHK党・立花党首　威力業務妨害など疑い「有罪となれば潔く刑務所も」
+      <a href=https://news.yahoo.co.jp/articles/8a2d7be51a8272582aa8720cafd87644b865d0a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00491162-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 韓国　きょうのニュース（6月4日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8686d6fc6435a97cff9921d7070d481de8cc9cf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 書類送検「真実相当性あり無罪」と立花氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e453dd59ac8fcba45deeefa6713b4c35d154d165>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”鉄鋼とアルミニウムに課す追加関税　日本時間午後1時1分から2倍の50％に引き上げ　対象の国・地域に対しアメリカにとって最良条件求める文書を送付
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7f52243ec1ecf8c50a20d583459ca5ad38ab924>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07662849-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長嶋氏追悼】訃報から一夜…球界著名人が数々の思い出語る一方で県内ゆかりの地では献花や記帳も(静岡)
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67a30910effdfac4ac22a22aaf2405e2f013d321>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-10181846-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ大統領、鉄鋼とアルミニウムの追加関税を50％に引き上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3235af9099b35f6b6c7a4c0547c3e7b84a50c191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000095-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> コラム：韓国の李新大統領就任、日本に続き株主資本主義に転換か
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/30c5c876cc6ce5ff7b405996e59b633445933cdeb686f225742e753a0ed3c1ee.jpg> 生活保護申請5年連続増 25.9万件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0707ea2d38e1a3581a4a0f3c877439317551d46a2c923d339a2feb56c89e7182.jpg> ガソリン174円 1年3カ月ぶり安値
+      <a href=https://news.yahoo.co.jp/pickup/6541127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/6f2c071d326330d801308e1d012afd41a2695fd6cc343fc83c08c6d32cbeef9b.jpg> 公益通報者解雇に刑事罰 法が成立
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
+      <a href=https://news.yahoo.co.jp/pickup/6541129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/82d38f942abd6304cab19aa6d5d2519dcc7eba858ac6e2b8fac32751dfb1b63d.jpg> 立てこもり 88歳男に懲役24年判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/82d38f942abd6304cab19aa6d5d2519dcc7eba858ac6e2b8fac32751dfb1b63d.jpg> 立てこもり 88歳男に懲役24年判決
+      <a href=https://news.yahoo.co.jp/pickup/6541134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4cecb75e4ed9a4b0afcab076e047e8891496a9eafca9fb476db98ed26b76b0db.jpg> 「色恋営業」禁止 ホストは戸惑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541133>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/6f26e55eaadaa729d53bd5a56e64c0d33570fab15f047dc2eff1a23c490a5663.jpg> 批判受け 漫画のエロ広告配信停止
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/12da9011530a1c9971d22a989500b0c1ef82793141cdfefc5077e0e895d1fb16.jpg> Adobeのヤクルト事例記事 物議
+      <a href=https://news.yahoo.co.jp/pickup/6541136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/7f7ba67d587618f45218b862797cfad692ef8ea85d22b2fdcfbe41fac010c386.jpg> 長嶋さん死去 イチロー氏が語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 17:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 18:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
