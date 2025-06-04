@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48192363819e90f4baf9e4561fdc698e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6491ce5f1be1aeae16a91f905325bc34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/771b05580924fe6319b65b66cbcd6080aa299a56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国新大統領のネクタイは「国民統合」色なのか　前政権が移転の大統領府、また移転の公約
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d513ab9a65346bee7715654dc9fe18a6afda73f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000001-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博ウォータープラザからレジオネラ属菌を検出　水上ショー中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d9f4a05001dd96854021b69374efc990d1cbce61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06041304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の今季シーズンＭＶＰは間違いなし！？　史上初の月間ＭＶＰ両リーグ複数回受賞から見えた吉兆データ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e308c066c03198254a12a50bcf6a7c4ab41da2a2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00006835-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 世界361位ボワソンの快進撃止まらず！トップ10に連勝しグランドスラム初出場で4強[全仏オープン]【テニス】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1cbece5fa57613e5a8877612b3162955ae5bc0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 徴用工問題「政策の一貫性が特に重要」　李在明韓国大統領、尹前政権の解決策維持を示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/800659eacf18b17c30a7df41694bc3cfb72ed0e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-01767403-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の偉業に“特別演出”「制作者に拍手を」　完璧再現…ファン感動の一瞬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32c74325843914ce16d1470af8206eeba043a762>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ＥＵの貿易交渉は前進と欧州委員、鉄鋼アルミ関税引き上げには苦言
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/5e72063b24f3f81e365798e09fc58383e4c55beb9a43cd84bdb4b346518b25cd.jpg> 外免切替の厳格化 骨太方針明記へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541161>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/a31f76a08f380a4d41f9012c61e04737bbe045f60cf990c99de503c54658eb61.jpg> 選挙のSNS対策 与野党が協議
       </a>
@@ -418,48 +426,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/69d0169db1829b5e7c9aa78176e7ea866ae07299f0b90177906400c3c08f98e1.jpg> 天安門36年「銃声と怒号」証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/e83e03049f103227ccd484ae36e422ddcb1346fc335d04d1f4da3b0c8d7b1b64.jpg> 路上で刺され女性重体 男を逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ef911514fdfda040fc47d437799b21cc6937cd2545a915001885cc322ce25dcc.jpg> 路上で刺され女性重体 男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/f5249cb56ed9efa23d11e3cbe08b7ab42afb5ef67607006758b1e0bf20f00e8a.jpg> 給食に「たばこの巻紙」混入 高知
+      <a href=https://news.yahoo.co.jp/pickup/6541169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/77e8703c8e32e9bd96257397d8a720449348a55e1ad252de5bd6302285b193d7.jpg> 万博水上ショー急きょ中止 菌検出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/8d36bdf393a6e3d975b5650b7a26dbe212aaf3d9eeb7711a99bcc147c26b4751.jpg> Switch2の販売形式 ほぼ抽選か
+      <a href=https://news.yahoo.co.jp/pickup/6541170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 教諭がきつ音嘲笑 いじめ巡り指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/57c5df0be84512584f364021cdd952015e5fdfbe41c6dd6dc3fa455685e70fea.jpg> ドーピング容認大会に水連が方針
+      <a href=https://news.yahoo.co.jp/pickup/6541135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4cecb75e4ed9a4b0afcab076e047e8891496a9eafca9fb476db98ed26b76b0db.jpg> 「色恋営業」禁止 ホストは戸惑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/b757d0fa8fd4eb7934ef04b8be4d643666d231e1e88b390adabd8132587f3546.jpg> エライザに声援「泣きそうです」
+      <a href=https://news.yahoo.co.jp/pickup/6541168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/687047ec321bd41ab8febd7f2b13e470b52bcebaaf59db6aeea060bb8e7cde28.jpg> 世界361位が快進撃 全仏テニス4強
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 23:51:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 00:31:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
