@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32b2409c47238f607a2529c2308ef1fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/379710faa25a0f620b9074b94989e0f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60cd765b3f6cc750ae19990ba55071082ebfffa1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷翔平と鈴木誠也、DHで候補　米大リーグ球宴のファン投票開始
+      <a href=https://news.yahoo.co.jp/articles/b9d85f48d11fe964b128bfc9fe0fee8cd29f1a8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 自動車への追加関税２か月、日本勢の駆け込み需要に陰り…値上げ巡り神経戦が本格化か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4494b04281a6545134d5c9c6469ba6403db91e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982356-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】トランプ大統領とプーチン大統領がウクライナめぐり電話会談「即時のウクライナ和平につながらず」　停戦含む交渉は難航か
+      <a href=https://news.yahoo.co.jp/articles/7517fc159b31d25fea721448adee832d12ff7ec3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010002-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=1652&ch=1652&exp=10800&fmt=webp> ジョコビッチ 世界3位ズベレフに逆転勝ちで全仏OP4強、次戦は世界1位シナーと激突＜男子テニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d9832baa10c735c8efd16125ef41b27ceb70f0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00006836-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 世界1位シナー、盤石の試合運びで2年連続ベスト4！世界62位を寄せつけず完勝[全仏オープン]【テニス】
+      <a href=https://news.yahoo.co.jp/articles/3c00e490f5818c8d90d545e7cde61af001715c84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-35233849-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、プーチン氏とウクライナ情勢協議も「即停戦につながらず」
       </a>
     </td>
   </tr>
@@ -383,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1f3f2e520808b4cb9e60e4cedc9bfe98cfb5560>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00037021-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 愛弟子・松井秀喜氏が“断固拒否”した長嶋茂雄さんの“2つの願い”と、生前に交わした“約束”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5643b72f274e05c946938586aa84696392aff245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050182-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日本郵便の不適切点呼問題、運送事業許可取り消しへ…郵便局のトラックなど２５００台対象
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/5e72063b24f3f81e365798e09fc58383e4c55beb9a43cd84bdb4b346518b25cd.jpg> 外免切替の厳格化 骨太方針明記へ
+      <a href=https://news.yahoo.co.jp/pickup/6541174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01a546aab7e24bff75fa2e949d70f5aa23c4ff92cc20cb76c139dc00687c5506.jpg> 日本郵便 運送事業許可取り消しへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ef911514fdfda040fc47d437799b21cc6937cd2545a915001885cc322ce25dcc.jpg> 路上で刺され女性重体 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/c5072eacb1b04e76316da59ad4d2119a88d4c52fb9a81b88ddc1d8734850bfc0.jpg> 女性重体 男は待ち伏せし刺したか
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/23e412c0afd747f6ec5e1c71ecb254ae7a65a62ac768a2c5eae0d8ef4fe04c5b.jpg> 大谷は MLB球宴のファン投票開始
+      <a href=https://news.yahoo.co.jp/pickup/6541175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9c4fd5a066e9d436d062d288119f8b098b99a29d42a9feeaeda0c001b253ac05.jpg> a-haボーカル パーキンソン病公表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 06:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 07:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
