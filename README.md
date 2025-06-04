@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2771eb85dee1d2a35b1b649399a4330.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3603a7d9129785234ba21830d3a0812.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/295e70500e54e3d619f34ff221efbeb59287db6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000058-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の申告敬遠から始まったドジャースサヨナラ劇、ネット「大谷さん申告敬遠は勝ちフラグ」「申告敬遠絶対許さない打線好き」
+      <a href=https://news.yahoo.co.jp/articles/dc1a25cd3ad49ea9d127772f206fe7940e32629e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、鉄鋼・アルミ関税50％に引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56785bcdad923323c0a06c9903eb6ac307e92c23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-10181841-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 読売巨人軍OBらが長嶋さんの弔問に 松井秀喜の姿も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38491e755d44bd5bb5aa911cb0c53f8934cd118d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-21956521-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・大谷翔平選手5月の月間MVPに　エンゼルス菊池雄星は900メジャー通算奪三振
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1e1ded9c3ec6a210a5d62fb57eaf7c72f15b6a7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050118-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=333&ch=333&exp=10800&fmt=webp> オリオールズ菅野智之、７回５安打１失点で５勝目「回を追うごとに良くなっていった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f3a337752edfef9ff2bc9e4055496288f38b472>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041126-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1145&ch=1145&exp=10800&fmt=webp> 長嶋茂雄さんと松井秀喜さんの「生前の約束」は…「やっぱり、アレですよ」元巨人投手が想像「そうであってほしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ff8da8ab113dadf7257adaa40c45ea560e5e6d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000080-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米の鉄鋼・アルミ50％関税が発効、「最善の貿易交渉案」の期限
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/602d22192ad37720ee9960698a662fe061bd7c1de008f62667a316023292f14a.jpg> 元世界4階級王者 田中恒成が引退
+      <a href=https://news.yahoo.co.jp/pickup/6541121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/22849393fedbcb608c5de967e4e0834baf4863a685b2f883d2e1be7acf37b4a9.jpg> 大谷を申告敬遠 大ブーイング
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 15:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 16:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
