@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3603a7d9129785234ba21830d3a0812.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9797aab51ea925ae926d4f74088ec63e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc1a25cd3ad49ea9d127772f206fe7940e32629e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、鉄鋼・アルミ関税50％に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/0534b06b42938e898141d2cf1fd4a1e9ba1321f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010010-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 巨人OBからも＂松井監督＂待望論　 長嶋氏との生前の約束をめぐって　「必要とされるときに行ってくれと」「そうであってほしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56785bcdad923323c0a06c9903eb6ac307e92c23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-10181841-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 読売巨人軍OBらが長嶋さんの弔問に 松井秀喜の姿も
+      <a href=https://news.yahoo.co.jp/articles/76ed7b5248d6caecc4582428e5a5b94fc8e0dea7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240824-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 韓国・李在明大統領 新政権スタート 「反日姿勢はとらないのではないか…」気になる日韓関係どうなる？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae6011ade9c6781e4e65f6caf0ff903e5ce87811>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 埼玉郵便局立てこもり懲役24年　警察官発砲や女性人質、地裁判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc1a25cd3ad49ea9d127772f206fe7940e32629e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000029-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、鉄鋼・アルミ関税50％に引き上げ
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38491e755d44bd5bb5aa911cb0c53f8934cd118d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-21956521-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・大谷翔平選手5月の月間MVPに　エンゼルス菊池雄星は900メジャー通算奪三振
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e1ded9c3ec6a210a5d62fb57eaf7c72f15b6a7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050118-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=333&ch=333&exp=10800&fmt=webp> オリオールズ菅野智之、７回５安打１失点で５勝目「回を追うごとに良くなっていった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f46011755003b45e64b0b91251a33f39e18d78f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-15836903-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 韓国大統領に李在明氏が就任、「国民の団結」誓う　どんな課題があるのか
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0707ea2d38e1a3581a4a0f3c877439317551d46a2c923d339a2feb56c89e7182.jpg> ガソリン174円 1年3カ月ぶり安値
+      <a href=https://news.yahoo.co.jp/pickup/6541122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4feddec496a7e953524a5515ea138bcba5d7a78df7fb7c90a4b66cd734cd33e0.jpg> 豪雨で警察官殉職 両親が県を提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d8ca2b66936ff1acbb01cfd086122c5041feb30cd8f348ea7c3680ec1ce1b2af.jpg> 落下事故 鉄筋刺さった作業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0707ea2d38e1a3581a4a0f3c877439317551d46a2c923d339a2feb56c89e7182.jpg> ガソリン174円 1年3カ月ぶり安値
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/22849393fedbcb608c5de967e4e0834baf4863a685b2f883d2e1be7acf37b4a9.jpg> 大谷を申告敬遠 大ブーイング
+      <a href=https://news.yahoo.co.jp/pickup/6541125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/12da9011530a1c9971d22a989500b0c1ef82793141cdfefc5077e0e895d1fb16.jpg> Adobeのヤクルト事例記事 物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/e3854e5e8c7a4e504c94bacdb3a757876078e9eacbb08ca077dce4215ac046f1.jpg> 菅野が長嶋氏悼む 言葉にならない
+      <a href=https://news.yahoo.co.jp/pickup/6541121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/22849393fedbcb608c5de967e4e0834baf4863a685b2f883d2e1be7acf37b4a9.jpg> 大谷を申告敬遠 大ブーイング
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 16:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 16:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
