@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6c87ad2dff32907b14a3561f5c527c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/238059d730c0c5ef8b85888cf5c2b1b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/700b17ea22eb67e80372b303f2510f122765fee7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36040464-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、第４打席で四球もホームは踏めず　ビッグチャンスもＴ・ヘルナンデスの三ゴロで走塁死
+      <a href=https://news.yahoo.co.jp/articles/23cfbbb8b8362a3f55f64d7982a2fadcb7160eb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 4階級制覇の田中引退　ボクシング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7494f2d1ed72a89c7ec55d3ad0a50472eae043c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> N党立花氏を書類送検　元百条委員長名誉毀損疑い　兵庫県警
+      <a href=https://news.yahoo.co.jp/articles/99b7c1ecc89494bc5fa9c74df0f9be5ba56bfb74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00980783-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=539&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【速報】6度目の月間MVP選出も“祝砲”ならず…大谷翔平3打数ノーヒットも申告敬遠でドジャース延長サヨナラ勝ち“アシスト”
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/00991b4f7bc589e66f9c5759f35aab11ff9f895c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000042-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 林長官「影響を精査」　アメリカが鉄鋼・アルミに追加関税2倍に引き上げ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000042-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 林長官「影響を精査」　アメリカが鉄鋼・アルミに追加関税2倍に引き上げ
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ad421770f402a1fd3fbc83fc159da9e3673710d2c3f7934c3007a130ac3ea8cc.jpg> 昨年の出生数 初めて70万人下回る
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541106>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c96ab84ac387fafd0952c2021d8253a1cb7b5afa6c5cfb53f3d52b6e609257fc.jpg> 備蓄米 日本酒・みそ用に放出検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541111>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d8ca2b66936ff1acbb01cfd086122c5041feb30cd8f348ea7c3680ec1ce1b2af.jpg> 落下事故 鉄筋刺さった作業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d76d3b9e1a897e1e2bc07d06ec2f2611feb9ade96018aff9b63a8e56d6f799bc.jpg> 元高校教諭の懲戒免職を取り消し
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/54bbeb1f1663b2610aab4262519cd5f294b780250cae80956716697657f999c0.jpg> 大谷が見逃し三振 際どい判定物議
+      <a href=https://news.yahoo.co.jp/pickup/6541117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/602d22192ad37720ee9960698a662fe061bd7c1de008f62667a316023292f14a.jpg> 元世界4階級王者 田中恒成が引退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/02cb4b291addae2bb979081f320808a7b525538e870d3e0345b729f58f139993.jpg> 高橋由伸氏と妻 長嶋茂雄さん弔問
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 14:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 14:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
