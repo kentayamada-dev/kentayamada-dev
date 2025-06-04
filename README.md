@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a917d243f57c15ba7c7e96c5c9ce8a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc1679aaa9352d7bbce3cc3bb6b8cbe0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8320d5ab09fdd3cbaca5220924cd07f3ca1f881e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36041075-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1098&ch=1098&exp=10800&fmt=webp> 柴田勲氏、定岡正二氏、篠塚和典氏らが長嶋茂雄さんを弔問　松井秀喜氏、中畑清氏、高橋由伸氏らも
+      <a href=https://news.yahoo.co.jp/articles/c12bc2ea8c032e9eca42e6a5db15c77677922c4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-03882311-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「地面師」グループの男女3人逮捕　ビルを売却するとウソをつき、14億5千万円を詐取か　大阪府警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ec164fa9022761d71a9aa7acb7b140d637b5abd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00982056-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「監督との約束果たしたい」松井秀喜さん（50）が緊急帰国、恩師・長嶋茂雄さんと悲しみの対面　中畑清さん・高橋由伸さんらも弔問　記帳所にはファンの列
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/52466312bcb301e065e24d67f010f8980b437abb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-04561512-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【現地報告】韓国の新大統領に李在明氏　選挙戦で感じた「熱量」投票率は約80％、10時間半の生放送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49b1bdd913e8a4049cf38ebf145c809de1dcaef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240867-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NHK党の立花孝志氏「予定通りです！無罪を確信していますので、ご安心下さい」 兵庫県議への威力業務妨害や名誉毀損などの疑いで書類送検
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-04561512-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【現地報告】韓国の新大統領に李在明氏　選挙戦で感じた「熱量」投票率は約80％、10時間半の生放送
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/62249a470d30907f702073dea936930082aee20e323f531b42dd64ef36875709.jpg> 立てこもり 88歳男に懲役24年判決
+      <a href=https://news.yahoo.co.jp/pickup/6541134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
+      <a href=https://news.yahoo.co.jp/pickup/6541140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0df75e11f1842fea6d3f20d0f47df0db0844e0882add32e262a6ffd7011da4c3.jpg> 14.5億円詐取疑いで逮捕 地面師か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 18:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 19:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
