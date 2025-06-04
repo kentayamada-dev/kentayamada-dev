@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55a0f89a71a76a50ee0dad5a00aa72df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7800351a6c2f162ee2baae566a1b8bbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d1dcd7aeec86ffe5099949bf23de74b4ea1f3f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000062-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 松井秀喜氏　NYから緊急帰国　長嶋さんと二人きり2時間の会話…生前の約束「果たしたい」
+      <a href=https://news.yahoo.co.jp/articles/f5677d307604a10fb1cd21a204d39f48191c5f23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010001-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1677&ch=1677&exp=10800&fmt=webp> 世界361位 4強入りで1億円獲得、快進撃ボワソン 全仏OPだけで生涯獲得賞金の5倍稼ぐ＜女子テニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c4964c714e400ff7a156a44c95df70457082efa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01387313-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「殺そうと思って…」女性を待ち伏せし複数回刺したか　男逮捕　群馬・前橋市
+      <a href=https://news.yahoo.co.jp/articles/5d1dcd7aeec86ffe5099949bf23de74b4ea1f3f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000062-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 松井秀喜氏　NYから緊急帰国　長嶋さんと二人きり2時間の会話…生前の約束「果たしたい」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 05:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 06:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
