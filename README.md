@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/379710faa25a0f620b9074b94989e0f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb2cd1b5c57f192f85a3f303bc21c3a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9d85f48d11fe964b128bfc9fe0fee8cd29f1a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050005-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 自動車への追加関税２か月、日本勢の駆け込み需要に陰り…値上げ巡り神経戦が本格化か
+      <a href=https://news.yahoo.co.jp/articles/99ee126244f1621a5b46b14ed0d81fd508667860>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、142円台後半（4日）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7517fc159b31d25fea721448adee832d12ff7ec3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010002-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=1652&ch=1652&exp=10800&fmt=webp> ジョコビッチ 世界3位ズベレフに逆転勝ちで全仏OP4強、次戦は世界1位シナーと激突＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/6b2fdf2a6102c5529a07f5bb7c7ab7f3e26450e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031330-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが前年の準優勝者ズベレフに対する準々決勝に4セットで勝利、世界1位シナーへの挑戦権を獲得 [フレンチ・オープン／テニス]
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e6c77c66a6ef91863aff43414c04294942af9b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逆走車に同乗していた可能性　ペルー人の男を逮捕　飲酒運転の車に同乗していた疑い　愛知
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1f3f2e520808b4cb9e60e4cedc9bfe98cfb5560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00037021-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 愛弟子・松井秀喜氏が“断固拒否”した長嶋茂雄さんの“2つの願い”と、生前に交わした“約束”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5643b72f274e05c946938586aa84696392aff245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050182-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 日本郵便の不適切点呼問題、運送事業許可取り消しへ…郵便局のトラックなど２５００台対象
+      <a href=https://news.yahoo.co.jp/articles/1ce3addffb93562da616f0dd6a7a03403f0bf92c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 米、ガザ停戦国連決議案に拒否権発動　安保理の他の14カ国は賛成
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cf2df91efb089b1808717715099e23f0ef0f0973200c8b9e7559505f85434a4f.jpg> 出生数70万人割れ 社会保障に暗雲
+      <a href=https://news.yahoo.co.jp/pickup/6541178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/abc28ef8aeaec1f773983b59fba32f3657ec2ba785f670c9233c2a5800803eb0.jpg> 安保理 ガザ即時停戦決議案を否決
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f0e77ab72a6d62f1a618411193d8a136abecd9300721672129a70dffe1a84df2.jpg> 外国人の医療費未払い対策へ 政府
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/38243017ad58c18991762623fdd4a92538c46b58b3c9dcee03faaca4202e737a.jpg> 新名神逆走事故は飲酒運転か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/c5072eacb1b04e76316da59ad4d2119a88d4c52fb9a81b88ddc1d8734850bfc0.jpg> 女性重体 男は待ち伏せし刺したか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/77e8703c8e32e9bd96257397d8a720449348a55e1ad252de5bd6302285b193d7.jpg> 万博水上ショー急きょ中止 菌検出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 教諭がきつ音嘲笑 いじめ巡り指摘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 07:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 07:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
