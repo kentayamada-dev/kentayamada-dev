@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7247cb1ea95f42d235631d1b70dcb6c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58c143715f0457382ba7a7e8ae50aba4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1cbece5fa57613e5a8877612b3162955ae5bc0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 徴用工問題「政策の一貫性が特に重要」　李在明韓国大統領、尹前政権の解決策維持を示唆
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/800659eacf18b17c30a7df41694bc3cfb72ed0e0>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/266edcf62d98877118d8603f01ecb9513bc74fd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000110-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 李在明氏が抱える五つの裁判　法改正の動きに最大野党はクギ刺す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3065c07d7170dc514d121367fe67b8fb136ba7d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000021-eiga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 「リライト」池田エライザ、学生たちの温かな歓迎でパワー注入！「泣きそう」「すごく幸せ」
+      <a href=https://news.yahoo.co.jp/articles/7a94ecaf0b86ee769e971876e762bba5b7f549ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000072-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 「Switch 2」の当日販売は行わない──発売日前日に一部店舗がXで告知　販売形式はほぼ抽選か
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん…長嶋茂雄さんと２時間対面「長嶋監督と生前、約束したことを果たしたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/826580129dae4330c8fc6713c87ba13ca1d0bf6a69cd4c6b5b046cbafaead6a3.jpg> 4月にコメの民間輸入が急増
+      <a href=https://news.yahoo.co.jp/pickup/6541149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ce40eefbc5fc4301cfdc5116a219ddd164d016e4be376f5d96c55b6f93fd5500.jpg> スーパーのコメ価格 地域差大きく
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 21:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 22:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
