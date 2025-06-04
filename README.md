@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58c143715f0457382ba7a7e8ae50aba4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5f1c9346f2231bee5190772d04b8a21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a94ecaf0b86ee769e971876e762bba5b7f549ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000072-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 「Switch 2」の当日販売は行わない──発売日前日に一部店舗がXで告知　販売形式はほぼ抽選か
+      <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん、長嶋茂雄さんと２時間対面「縁がなければ違った野球人生になっていた」
+      <a href=https://news.yahoo.co.jp/articles/70365fe1e8fad60ee1987a329eae8dc8658ac7c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-02418455-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 給食に“たばこのフィルター巻紙”混入　高知市
       </a>
     </td>
   </tr>
@@ -418,30 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/fdcd3d3262bf62951723e1360a7084bb0e580dfc8f538ab3531d822cf6ef60b9.jpg> 5台絡む玉突き事故 男女7人重軽傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/4ea8e1345d13caf801f9e15bbd0aec7e66a34f23f980fb11415260fb31b065b8.jpg> 世田谷のマンション施工不良 提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/449f5d87d630f486e7a90a12bb374881a7f28f0179f692b65b7da71d504bbf14.jpg> 地下鉄運転士が殴られ負傷 男逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541154>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/db002f34d52c7c9d3240124cf8e685e5b8a5f4d83b4050f305757b3b4c494b02.jpg> 住宅街で暴言騒音 退去命じる判決
       </a>
@@ -450,8 +426,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/f5249cb56ed9efa23d11e3cbe08b7ab42afb5ef67607006758b1e0bf20f00e8a.jpg> 給食に「たばこの巻紙」混入 高知
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541152>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/5c7f57f598215727fb58f73d1b4cb3ffff4f2504698a8dce64ff036038a30548.jpg> 子の形見フェアレディZ復活 親涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/8d36bdf393a6e3d975b5650b7a26dbe212aaf3d9eeb7711a99bcc147c26b4751.jpg> Switch2の販売形式 ほぼ抽選か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/57c5df0be84512584f364021cdd952015e5fdfbe41c6dd6dc3fa455685e70fea.jpg> ドーピング容認大会に水連が方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 22:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 22:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
