@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc8ede49be6ae8ce106c4639f3f1a1c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18de51e7c4b3ee41293e89dd01c44009.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6188864b72e05a5d1126325a9abdb6002de5e69b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00079597-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 緊張する韓国の既得権層　少年工から大統領になった李在明氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d9fe0d404fdd83ff2b05b0e2b97db28487fe746>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010005-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=903&ch=903&exp=10800&fmt=webp> トランプ大統領　鉄鋼・アルミの追加関税を2倍の50％に引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f0f3ddb6b212b34c9ba8673161bd75551d5f5b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000017-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連人権高等弁務官、ガザ配給所で続く攻撃非難「戦争犯罪の可能性」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ad399e2e8f5241005a9c362e8b315fd623db609>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平、目前に迫った節目の“数字”　5月から快調で自身6度目の月間MVP受賞　両リーグで複数回は史上初の快挙
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b3b008b010e5b4991b887c016a8ca028bfc9a04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大統領当選の李在明氏に与えられた時間はたった一日…米「４日までに最上の提案を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f09db663ef9ab70194e5f264ce4ac88d280aa542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国大統領選 李氏が勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5e8953edd98cb7a1160e4a0198acdccebf6c454>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00347023-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元白鵬の宮城野親方が〝決起集会〟開催　本名での案内状は「角界との決別」意思の表れか
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541079>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 性的広告を配信停止 電子コミック
+      <a href=https://news.yahoo.co.jp/pickup/6541092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/2de356dfa49efe5035ef66205b7827423cabfa0160dd134acad992a0d1bf354a.jpg> 台湾菓子に「抗日戦争勝利」狙い
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/3c9f023d810d63553c43b3df50fe9599f1e0f8453291a760aa40ebefa587d5c0.jpg> 尚弥 フェザー級への転級先送り
+      <a href=https://news.yahoo.co.jp/pickup/6541093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/c201bc2b5e70ebae1450e9976a4d4d2940e3db3b637b666e6184f87ce21b02f6.jpg> YUIらプロデュース西尾芳彦氏死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 09:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 10:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
