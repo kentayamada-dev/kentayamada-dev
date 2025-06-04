@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/098396aaa2486834ed96e6ff007ec578.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63ec88b6908d3c596cc4eaee5891eb76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34e2ddee0ff4db2099e19719973d7c0e27126e8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00080120-chosun-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=467&ch=467&exp=10800&fmt=webp> ブレーキ不在の絶対権力・李在明政権誕生、行政・立法府の圧倒的な優位で司法府の大幅な入れ替えも可能
+      <a href=https://news.yahoo.co.jp/articles/cd64cbef66a24a9f225f15b15ac932eea56ea019>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1002&ch=1002&exp=10800&fmt=webp> ドジャース・大谷翔平〝無音の圧力〟で勝利に貢献！メジャー中継視聴数にもオオタニ効果波及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/266edcf62d98877118d8603f01ecb9513bc74fd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000110-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 李在明氏が抱える五つの裁判　法改正の動きに最大野党はクギ刺す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b44247f0565aaec71f18aeb5cd24de3a2140eb3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米鉄鋼関税の動向注視　部品供給網への影響懸念　関連業界
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3065c07d7170dc514d121367fe67b8fb136ba7d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000021-eiga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 「リライト」池田エライザ、学生たちの温かな歓迎でパワー注入！「泣きそう」「すごく幸せ」
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7f70f3ae35f71d90c3412082f4547b64ec9ddb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん…長嶋茂雄さんと２時間対面「素振りで会話し、素振りを通じ大切なもの授けていただいた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/202293aca5de94082cbc8cdaf12d4d025e61042f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010029-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 世田谷マンション建て替え巡り所有者らが「東急不動産」を提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15f28c5071e102d27ed6b58f45ff8a0dc1046d5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-01764598-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平とジャッジが“支配”…寄せ付ける者なし、2人だけが踏み入れる“神の領域”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e453dd59ac8fcba45deeefa6713b4c35d154d165>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”鉄鋼とアルミニウムに課す追加関税　日本時間午後1時1分から2倍の50％に引き上げ　対象の国・地域に対しアメリカにとって最良条件求める文書を送付
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00050170-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=312&ch=312&exp=10800&fmt=webp> 松井秀喜さん…長嶋茂雄さんと２時間対面「素振りで会話し、素振りを通じ大切なもの授けていただいた」
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bc2ab82900e2ab82172202444704fd751877a042b5fa865828e7d607c3e63458.jpg> クマノミ「猛暑で背が縮む」研究
+      <a href=https://news.yahoo.co.jp/pickup/6541150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/2355e5cd181a7c8256ba63585c1690fc16f5cc0face7b28ef248c14bf14ad524.jpg> 舟山久美子 4000万円借金の幼少期
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/1c26b29483e23e35c7fe4988dc74039912fb2e02d4a458651f1b476d9cb6d933.jpg> 森井翔太郎 ルーキーリーグ初HR
+      <a href=https://news.yahoo.co.jp/pickup/6541147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/b757d0fa8fd4eb7934ef04b8be4d643666d231e1e88b390adabd8132587f3546.jpg> 池田エライザ 声援に「泣きそう」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 20:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 21:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
