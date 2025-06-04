@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90e4064aa3e548334b0a89d048732b65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8114add4a8853b9757ae820bfa12f78f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf1f6144cf254c385079bc5614e5f4502f0181f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏、プーチン氏との電話会談後「すぐには平和難しい」…夜中には「習は難しい相手」（１）
+      <a href=https://news.yahoo.co.jp/articles/dcd170aca62b6ce976add07259768142fb80b222>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ジョコビッチ、シナーが準決勝へ　女子は世界361位が4強―全仏テニス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3aef3bed3545f5a04cb3c07569bfbc384ba2b8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-08564136-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 国連安保理、ガザ即時停戦・人道支援求める決議案を否決　米が拒否権行使
+      <a href=https://news.yahoo.co.jp/articles/b476e1c6cb0d4c28e7a8497a02ae695505aff8ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザ停戦安保理決議案　アメリカの拒否権行使で否決　他の14カ国は賛成
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a9066300041c22ed6abe6731769bcbcca464c72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【大阪・関西万博】ウォータプラザでレジオネラ属菌検出　夜のショー中止に
+      <a href=https://news.yahoo.co.jp/articles/e695805939ebd914fb17671cdca369e615ce123f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000006-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=532&ch=532&exp=10800&fmt=webp> 5月の米新車販売、“ドル箱市場”でスバルとマツダ早くも「駆け込み」の反動減も［新聞ウォッチ］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78e36a520e5db3ffb076e8d55ce3cdab4ff6c248>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナの奇襲への報復を警告 トランプ氏
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b2fdf2a6102c5529a07f5bb7c7ab7f3e26450e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031330-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが前年の準優勝者ズベレフに対する準々決勝に4セットで勝利、世界1位シナーへの挑戦権を獲得 [フレンチ・オープン／テニス]
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d3dbe0c68a270aba66acd36c63df31291af377c25d60bc4af0e8d873eddbc989.jpg> トランプ氏とプーチン氏 電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6541178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/abc28ef8aeaec1f773983b59fba32f3657ec2ba785f670c9233c2a5800803eb0.jpg> 安保理 ガザ即時停戦決議案を否決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/abc28ef8aeaec1f773983b59fba32f3657ec2ba785f670c9233c2a5800803eb0.jpg> 安保理 ガザ即時停戦決議案を否決
+      <a href=https://news.yahoo.co.jp/pickup/6541186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5aa4f560cc08b88188e306df8545f745178f853d50bdef3f9c10518f6c880e29.jpg> 夫婦別姓 野党3案が実質審議入り
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/38243017ad58c18991762623fdd4a92538c46b58b3c9dcee03faaca4202e737a.jpg> 新名神逆走事故は飲酒運転か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1bfff9a80c66cc35967f94a7326c616a3f083b75de92f13590b1141ade1544e9.jpg> 新名神逆走事故は飲酒運転か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 08:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 08:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
