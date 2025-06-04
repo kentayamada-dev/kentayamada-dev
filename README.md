@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18de51e7c4b3ee41293e89dd01c44009.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/799ffcf7779dcfebcf9cf6e0b9539975.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6188864b72e05a5d1126325a9abdb6002de5e69b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00079597-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 緊張する韓国の既得権層　少年工から大統領になった李在明氏
+      <a href=https://news.yahoo.co.jp/articles/faf88fcac5f213562e0ce6bbbdd445a1c7495b8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相、李在明氏の韓国大統領選出に祝意　協力の活発化に意欲を示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d9fe0d404fdd83ff2b05b0e2b97db28487fe746>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010005-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=903&ch=903&exp=10800&fmt=webp> トランプ大統領　鉄鋼・アルミの追加関税を2倍の50％に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/96ed57499eda9b94fde8863e07d5f517179f0e01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国大統領に李在明氏が就任　「憎悪ではなく認め合う世の中を作る」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f0f3ddb6b212b34c9ba8673161bd75551d5f5b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000017-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連人権高等弁務官、ガザ配給所で続く攻撃非難「戦争犯罪の可能性」
+      <a href=https://news.yahoo.co.jp/articles/bf95416a3b1c1a4504446822027be93f812f46dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000133-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　メジャー全体トップタイ53打点　勝ち越し犠飛から大量点で3連勝＆今季最多貯金16
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ad399e2e8f5241005a9c362e8b315fd623db609>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00010003-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平、目前に迫った節目の“数字”　5月から快調で自身6度目の月間MVP受賞　両リーグで複数回は史上初の快挙
+      <a href=https://news.yahoo.co.jp/articles/48da9fd5e96491f6bc52d794039ef8f61c534e80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240730-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米・トランプ政権が関税交渉めぐり各国に“最善案の提出”求める　報道官「大統領は良い合意を期待」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdf2a8ebe9b3f686dee11bcec488517fadf9ab56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041024-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井秀喜氏が帰国、弔問…長嶋茂雄さんと２人きりの別れ「いろんな思い出を呼び起こしながらずっと過ごしてました」
+      <a href=https://news.yahoo.co.jp/articles/8c3842a5306c96a1a451022c05d2d1994b3a4545>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-06041043-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 「生前約束」…長嶋茂雄さん「弔問」を終えた松井秀喜氏「発言」を巡り「モーニングショー」スタジオ白熱…羽鳥慎一アナ「監督やるんだ」巨人ＯＢ「僕もそう思った」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/d778f37f8f80fa23a50167d6f6f1b57fba570e425eb167b3db222a9b1901c268.jpg> 石破首相「日韓の協力活発化を」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541085>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/b4aadad59add8fa7fa36a5cc03beb01f7c0fa5026987d603bf484d6a7dbb4a90.jpg> 李在明氏 韓国大統領に就任
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/a69294682f6241aadc60ec1659acc9153692ecf0ce8d04cf08034e819ce32a18.jpg> 李在明氏とは 極貧から大統領に
+      <a href=https://news.yahoo.co.jp/pickup/6541096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/75202a1ba6761dfae3747b44b2bffed005bed9a34f795dfb055ebc7e5b35352a.jpg> 北の横倒し駆逐艦が直立に 分析
       </a>
     </td>
   </tr>
@@ -427,15 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541091>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 講師着服疑い 11人試験受けられず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/8ca2ca9505b09303bb8e769f1bcce037dd4c10827ccfb89eb84ce0c4c5efda91.jpg> PTA会長8割が父・実務は母 背景
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/1bb2f06d0b29c077e5a0e1326cc505dd417d0fbeaca932105005775d7c947e68.jpg> 講師着服疑い 11人試験受けられず
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/175d0812e3ad7c5bab8de8dfe2093340600e53a1c96a2dfb3063fb302d9a1d6b.jpg> 予告の新庄氏 球児氏と目合わせず
+      <a href=https://news.yahoo.co.jp/pickup/6541098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bba5c25254fd759f5eccf5a776cbaf000fe35d11a075544e854c119cb3ff1d32.jpg> 松井氏 長嶋さんと生前の約束ある
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 10:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 10:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
