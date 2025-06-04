@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d660b055256cc3983cfddc69e084bd5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6c87ad2dff32907b14a3561f5c527c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c6c30a9110c97795a1c4ca6a729729ba3bf0997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000036-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米の鉄・アルミ関税、50％への倍増発効　「虎の子」車生産には打撃
+      <a href=https://news.yahoo.co.jp/articles/700b17ea22eb67e80372b303f2510f122765fee7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36040464-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、第４打席で四球もホームは踏めず　ビッグチャンスもＴ・ヘルナンデスの三ゴロで走塁死
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a0e861f506a5190f2e6fa67c72ebc896cefb9d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-36040414-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、第３打席はチェンジアップで空振り三振　微妙な判定もあり３打数ノーヒット
+      <a href=https://news.yahoo.co.jp/articles/e7494f2d1ed72a89c7ec55d3ad0a50472eae043c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> N党立花氏を書類送検　元百条委員長名誉毀損疑い　兵庫県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c46cdc98d45490ae76b4413a61169616dde825ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国新大統領の李在明氏「韓米協力深め、国益と実用でアプローチ」　国会議事堂で就任宣誓
+      <a href=https://news.yahoo.co.jp/articles/143c7a1bbb432d4f301b651280d04ad24be48868>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-90004940-ishikawa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「一番は感謝だけです」松井秀喜さんが緊急帰国　長嶋茂雄さんの自宅を弔問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ffb47652797f7358a1e4965fae3cf672e6990a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-07240764-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=820&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 男性作業員（22）が地上から約3m下に転落…顔から胸に鉄筋刺さり搬送先の病院で死亡　東京・台東区の新築ビル工事現場　警視庁
+      <a href=https://news.yahoo.co.jp/articles/5f46011755003b45e64b0b91251a33f39e18d78f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-15836903-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 韓国大統領に李在明氏が就任、「国民の団結」誓う　どんな課題があるのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dc8267ad84b5595f5093aa21ad95dbf688ee7d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000036-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 松井秀喜さんら巨人OB弔問　長嶋さんとの別れ惜しむ
+      <a href=https://news.yahoo.co.jp/articles/00991b4f7bc589e66f9c5759f35aab11ff9f895c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000042-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 林長官「影響を精査」　アメリカが鉄鋼・アルミに追加関税2倍に引き上げ
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541106>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/504aea4bdc5283edf7517a10ffa8ab471eb54d893903db5a8f815072a251e6e7.jpg> 李大統領 分裂の政治を終わらせる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/9889f5153524033836dda43079171adc1c5ea36777fcf8d616cf5cb3d6818171.jpg> 米政権 鉄鋼の50%追加関税を発動
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/ba29b88fdf0806062e96a9fff44e68f92d481bcc3e6e837061132d01118b602b.jpg> 3メガ銀がATMの共同運営を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/bd9aa05334df26c2bbed75c50657960343c7c6544b1adebee6c2d8d76dfc61fb.jpg> NHK党・立花孝志氏を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541105>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugiurayumiko/02235300/title-1748974784180.jpeg?exp=10800> 中学受験 御三家の志願者なぜ減少
+      <a href=https://news.yahoo.co.jp/pickup/6541113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/34a7a33070b058e1aecadf8d839ac79788dd5bc7afe5eaa49796ee3634dc844f.jpg> 農地60haわずか3人管理 技術導入
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/748eeb16d52b86b0522d665789f4b42727e4bb55c160699f3f9fcdca869af2a0.jpg> はるな愛 自分が輝く場所必ずある
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 13:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
