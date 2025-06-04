@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc1679aaa9352d7bbce3cc3bb6b8cbe0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a003e3cd7261517ec80587cb0fa70b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c12bc2ea8c032e9eca42e6a5db15c77677922c4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-03882311-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「地面師」グループの男女3人逮捕　ビルを売却するとウソをつき、14億5千万円を詐取か　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/96b04561bdc4732cd182f8c65661e909c68c63ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000075-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】兵庫 バイパスでトラックなど5台絡む事故　6人けが
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/cbee611e4c8674e7d6c15eadcbea888526adbdef3ddae01b6c420706cc0633ea.jpg> 書類送検の立花孝志氏 すべて否認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541140>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/0df75e11f1842fea6d3f20d0f47df0db0844e0882add32e262a6ffd7011da4c3.jpg> 14.5億円詐取疑いで逮捕 地面師か
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/35212870f966353cadba73a9faff3e7e14a68747378db3fefbd7007b3ca9c3a8.jpg> 帝国ホテル京都 最上位1泊300万円
+      <a href=https://news.yahoo.co.jp/pickup/6541141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/449f5d87d630f486e7a90a12bb374881a7f28f0179f692b65b7da71d504bbf14.jpg> 地下鉄運転士が殴られ負傷 男逮捕
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/4/72de45de25fdcd5f380b1e5eba2740dd484175641a50a2631fe01bb82bad20a3.jpg> 2児の父・DAIGO 受賞に「MAK」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/04 19:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/04 19:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
