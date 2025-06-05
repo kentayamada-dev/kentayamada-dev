@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8114add4a8853b9757ae820bfa12f78f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/753a963027cddc9471a391aae1ea2c0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcd170aca62b6ce976add07259768142fb80b222>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ジョコビッチ、シナーが準決勝へ　女子は世界361位が4強―全仏テニス
+      <a href=https://news.yahoo.co.jp/articles/941b5b0ad1eef2f48299ed50f919c74e096349e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00079625-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スタグフレーション瀬戸際の日本　内憂外患の石破政権は「国難」を乗り切れるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d6af9b91fb221c121b84db7bef6cf82da3afe8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050047-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 全仏オープンで地元の世界３６１位が４強、２戦連続トップ１０撃破…「夢は準決勝を戦うことでない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c8222525c44cbbec8b377beda7c3fe55a5bc405>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、露空軍基地攻撃への報復強調　米露首脳が電話会談「和平につながらない」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b476e1c6cb0d4c28e7a8497a02ae695505aff8ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザ停戦安保理決議案　アメリカの拒否権行使で否決　他の14カ国は賛成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e695805939ebd914fb17671cdca369e615ce123f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000006-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=532&ch=532&exp=10800&fmt=webp> 5月の米新車販売、“ドル箱市場”でスバルとマツダ早くも「駆け込み」の反動減も［新聞ウォッチ］
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78e36a520e5db3ffb076e8d55ce3cdab4ff6c248>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナの奇襲への報復を警告 トランプ氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザ停戦安保理決議案　アメリカの拒否権行使で否決　他の14カ国は賛成
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01a546aab7e24bff75fa2e949d70f5aa23c4ff92cc20cb76c139dc00687c5506.jpg> 日本郵便 運送事業許可取り消しへ
+      <a href=https://news.yahoo.co.jp/pickup/6541180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f0e77ab72a6d62f1a618411193d8a136abecd9300721672129a70dffe1a84df2.jpg> 外国人の医療費未払い対策へ 政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f0e77ab72a6d62f1a618411193d8a136abecd9300721672129a70dffe1a84df2.jpg> 外国人の医療費未払い対策へ 政府
+      <a href=https://news.yahoo.co.jp/pickup/6541174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01a546aab7e24bff75fa2e949d70f5aa23c4ff92cc20cb76c139dc00687c5506.jpg> 日本郵便 運送事業許可取り消しへ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/43e06d5aee14db424786264e61ea80670613bacf2b5c1f85f24ae3890c08bf97.jpg> Switch2が発売 注目ソフト多数
+      <a href=https://news.yahoo.co.jp/pickup/6541189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1f4193e056d4a1f31eac937d3aa45be7ef05d0d0f1b6638c0140273e5c9fc31a.jpg> TOEIC不正 同住所で43人申し込み
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 08:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 09:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
