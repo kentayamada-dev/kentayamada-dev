@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fd2fdc6f0815b698e786b3cc2dae05b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ec6a7fd712a6d4de2d4e61bc753e979.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01d1c9a94e520b862b27b7d89d6fa8631461dc27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 米中首脳が電話協議　貿易問題に焦点、トランプ氏「前向きな結論」
+      <a href=https://news.yahoo.co.jp/articles/a52da453cf6fc7e99c3abebb50c9b7a20bb0c21b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000010-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米・カナダ首脳、関税巡り直接協議＝カナダ産業相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0172701b418107ac1a03cc9852829a2bdd64c463>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000090-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 阪神・佐藤輝明、豪快に100号　記録への思い「全くない」けど…
+      <a href=https://news.yahoo.co.jp/articles/cc078d550a0bb58f4c2c6492e806c97a6f8967db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00347309-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田剛典　EXILEパフォーマー活動終了を発表「日々と思い出は自分の人生の誇り」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 02:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 04:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
