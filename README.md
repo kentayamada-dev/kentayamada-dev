@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/758a3936f6860424e66f7fb8b69f4981.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f20a825b194505c599f29b7932229fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/523aaed046e4e76edd548635af86fec8838ccf33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000053-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=489&ch=489&exp=10800&fmt=webp> 万博の「静けさの森」でもレジオネラ属菌検出　30日から利用停止
+      <a href=https://news.yahoo.co.jp/articles/49d91aa113bda22c7884df548de5fa822f44927e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90019864-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=457&ch=457&exp=10800&fmt=webp> 【速報】レジオネラ属菌検出をうけ「静けさの森水盤」の利用中止を発表　万博
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/997b9523b92e24777a5b212d5dfa59edfff5d045>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-15839039-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> ガザの無条件での停戦決議案、アメリカの拒否権で否決　国連安保理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/060fc0d97a771fce43c7bce53a97a27f30dd49e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 業者との交渉記録ないとは考えがたいと地裁
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a94dd28575061f64d28df76a268285904d190f6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01113725-fbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 【速報】JPドラゴン「リーダー」フィリピン当局が身柄を拘束　福岡県警が逮捕状
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/13f722b7234b1433df92602de355377c4bf88fcd8a65d98784f9e57457e23e89.jpg> 内閣不信任案 終盤国会で焦点
+      <a href=https://news.yahoo.co.jp/pickup/6541206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/482ec31e064506dc1292fd1fdf67b39309c4e3e1ec5576022a0cb9c8899c222a.jpg> ストーカー検挙24%増 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5398f7b52e1a3c4f6724178c6e4bf7819a9f453e2e789cd49f6330d80174c981.jpg> 日本郵便の運送巡り 遺憾と林氏
+      <a href=https://news.yahoo.co.jp/pickup/6541235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a4e806dd893c094be178c06594c1e4e2ac74ffe6092048dcbb48d659413509a1.jpg> アベノマスク文書不開示 取り消し
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/16a3004db7f6fb913522a441ee83173afe619100824d76ba7a97783f505135a3.jpg> 東名に車転落 男から違法薬物検出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541232>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1631022a56fec10e35f1c07ecf84a7319ed42e8d31e6273cbb6f18ff573c58cc.jpg> 万博「静けさの森」でも菌検出
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f9bde34dd9fd73f3c2328e7653e80114bd770b09c9eca5fda6f72f657754ad0a.jpg> ドジャース戦に乱入者 大谷苦笑
+      <a href=https://news.yahoo.co.jp/pickup/6541236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/161579aeaea6ead78aa2f9d9d6874d201cccab9cfdcd080ea6d7a266ced2b76b.jpg> ダイハツ 新型「ムーヴ」発売
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d11e8cd48aa56d83a1ac80fbfc69d50c2cd5e55f7ee274f4e88ce2b476e81183.jpg> マラソン 鈴木優花と赤崎暁が結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 15:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 16:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
