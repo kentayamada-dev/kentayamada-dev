@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22e67e8b0a01849ab6d542aed19cf88b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0660f58e0ce7ae9e273dcba4fc43c91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a66c6581e7d24ca07ab4538a114e79932170f461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07240972-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> AI議事録サービス販売会社を強制調査 「循環取引」で売上を過大計上し有報などに虚偽記載か　証券取引等監視委員会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e24caf1b7aea0788875d08baa4e6e2184445a3d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-03745967-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博"レジオネラ属菌"で水上ショー中止　菌の存在は先月末時点で把握
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c4bbf36536b15ca24e45694997b96361daeff59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000011-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ガウフが全仏OP4強 キーズとの同胞対決制す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b6cc60deda96615ad2cd6b53489bd41e6393865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5df855d1d7a04e68696a6f04f3b9dedff1bee58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010004-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=1862&ch=1862&exp=10800&fmt=webp> ジョコビッチは「過小評価されている」 ズべレフ語る「彼の時代は終わったと思っている人が多いが...」＜全仏オープン＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee044522aa1b0bc60fa4c5e109e34df7f8b9d009>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07142144-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博4日（水）一般来場者は11万5000人　レジオネラで水上ショー中止も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/113610aa5e21672c5ec883cc3bfeeb8ac03b2aea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982382-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ウクライナは民間人を意図的に攻撃」プーチン大統領がトランプ大統領と米ロ首脳電話会談　ウクライナとの会談実施に否定的考えも示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/132bb868ebdc747cb7ad0ef0811c55ac16a407a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000266-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=963&ch=963&exp=10800&fmt=webp> 日本ハムD5位・山県秀がプロ1号！母校・早大Vに「勇気と感動」弾　「野球人生で一番気持ちがいい瞬間」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1bfff9a80c66cc35967f94a7326c616a3f083b75de92f13590b1141ade1544e9.jpg> 新名神逆走事故は飲酒運転か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541191>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/da00cad8b87c37c5dfe6449009f3bc50e6cc0e73794f5e2668f1110721987505.jpg> AIわいせつ商品転売疑い 書類送検
       </a>
@@ -435,7 +427,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f3c73152a3ee7648cbe31b77dc4ed93023054320d13a35d018e8255aec02cb80.jpg> AI企業「オルツ」決算粉飾の疑い
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/59ae6255bd642473fe687e3014ec74b4c6466d4c97d34cb6f998fc8893bc29b0.jpg> AI企業「オルツ」決算粉飾の疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1d4e4fb9604a170992b9d0f9ccf577704dd60d26e7fa10f45e3280d034089030.jpg> コメダHD新業態出店ラッシュの訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 10:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 10:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
