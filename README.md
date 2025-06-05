@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77a575b93968005050824e6ed16f3797.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43fa9b735214fa37d658dccca729fecc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/372731792d1e324e3b4f21370cf650f776cd291c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000146-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=750&ch=750&exp=10800&fmt=webp> 岩田剛典が本日6月5日でEXILEの活動を終了、白濱亜嵐も当面の活動を休止
+      <a href=https://news.yahoo.co.jp/articles/0172701b418107ac1a03cc9852829a2bdd64c463>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000090-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 阪神・佐藤輝明、豪快に100号　記録への思い「全くない」けど…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3840fe1e5d6496c32bcb2902ada54a61031f78e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-21960243-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> コンビニで備蓄米の販売開始、銘柄米が安くなる前兆か スポット取引価格急落の理由【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/797aaab4ee29d8e5c4afaabca9c22d0d908eedba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000289-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 米中首脳が電話会談　関税交渉の打開図る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6cc831bf98fcfea06e340311377dadffa68db862>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06491921-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ流通の全てを総ざらい」 　初の関係閣僚会議
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a8361d27b5099c730a2c844150d60c547b1d1a3e29cbc2ab17bdb8fd179f6d82.jpg> コメ取引価格下落 随意契約影響か
+      <a href=https://news.yahoo.co.jp/pickup/6541285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/feb9841f1b609955d4d0ba46ceff22a17e3e3bbaff595e37c6a2903245e5a3ea.jpg> 首相 小泉氏にコメ高騰の検証要求
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e935f2688b05f3bf7cfd945eb86892de9c73cfa5e8a26368e1a5c251641d8b88.jpg> 森保ジャパン 最終予選で初黒星
+      <a href=https://news.yahoo.co.jp/pickup/6541266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/53782083085f29a2d9d38b15d76a1f27b8e9274fb815a77254fbe89f91ac2cfd.jpg> JR西日本 幹部のパワハラ認定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5e6f1cae781f35c04334657e347bef39404357373636d6193c5aefa313b4df1f.jpg> 巨人外野手 浅野と若林が負傷交代
+      <a href=https://news.yahoo.co.jp/pickup/6541282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e935f2688b05f3bf7cfd945eb86892de9c73cfa5e8a26368e1a5c251641d8b88.jpg> 森保ジャパン 最終予選で初黒星
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 23:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
