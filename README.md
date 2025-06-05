@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b219302051777a15f2174efaa579816.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/efa0906b828a747b72ca1c82936e1714.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d15701c701bc02403c9ca56796d8afa3225ebff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ決議の否決、評価避ける　林官房長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e12690eb4a544bfa671e16d69d1eb7ac937767d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06354787-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 【万博】基準値の20倍の「レジオネラ菌」会場の海水から検出　6日まで水上ショーなど中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7a693f2d4a718ec680bb115f7000e4fdf6fd1caa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982444-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカ・トランプ大統領がロシア・プーチン大統領と電話会談…ウクライナのロシア基地への大規模攻撃などめぐり　「即時和平につながるものではなかった」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b335a4343d32463fab467598910b5e1cdad85a28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00051587-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博会場で基準値２０倍のレジオネラ属菌　「水しぶきがかかることはありえる」発熱や肺炎リスク　保健所の助言で水上ショー中止に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6935b592a60b30871407f28d9fd6517c2513b9df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982440-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 国交省が日本郵便2500台のトラック事業許可を6月中にも取り消す方針…配達前点呼が適切に行われず　大手事業者の取り消しは異例
+      <a href=https://news.yahoo.co.jp/articles/8b5ca6080ccb12db84250b251d27b0e70f372c35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 海外カジノの決済システム運営か男9人逮捕
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5231e39a1ac0e2ab5a3ecd39e7086f4b219e0f5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000038-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=445&ch=445&exp=10800&fmt=webp> ファミマ、ローソンが小分けで備蓄米を発売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b6cc60deda96615ad2cd6b53489bd41e6393865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5e827ead37bac754c5a6360bbe1e461511d0da47ab0adde0d3281d71b1ac3499.jpg> ヘビメタ演奏もできる葬儀場 狙い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541199>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1add0047adb0359cb92420db9276ef34eff899d4ec86cace0633d68ff354f9a0.jpg> バナナそっくりウナギ 釣り人驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1983c1cd681dff41a172cf297a839a0b0d4cf3970be937a4bb710560d00cc9ba.jpg> Switch2発売日 SNS上の反応
+      <a href=https://news.yahoo.co.jp/pickup/6541211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ec948f0bd8b466d8a7a6472f930853c674f9e01a3b7e2c77555dee426e18710e.jpg> 大谷娘に子供用ポルシェ 監督贈る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 12:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 12:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
