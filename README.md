@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e22aff2977b20f586b6860b399a12f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b7c78904ef5d812cd1cf86bbb84c458.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bfd30ec31025a580f6f8c720f875ebf0de896f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 習近平氏「貿易協議の合意尊重を」トランプ氏との電話会談　「台湾」にも言及
+      <a href=https://news.yahoo.co.jp/articles/35727cd8a354c28941c1b0ab4846ec3a88ea0fda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000042-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 阪神・佐藤輝　「手を消す」意識浸透　下半身と上半身理想の連動性を手に入れ通算100号到達
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0545d3bc509c4eefd7319d6f2fdd6c8a09b6e2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000076-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=894&ch=894&exp=10800&fmt=webp> フジ　中居氏の一連のトラブルに関与の編成部長4段階降職　編成制作局長は減俸
+      <a href=https://news.yahoo.co.jp/articles/0bfd30ec31025a580f6f8c720f875ebf0de896f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 習近平氏「貿易協議の合意尊重を」トランプ氏との電話会談　「台湾」にも言及
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 05:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 05:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
