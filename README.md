@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22791a834388effdb4a87e60be9397ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/598dea412730d792aa1a96a7d6a3aed1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/348171737c5d572b876dd0dc73737153a1461d5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36051997-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=182&cw=1071&ch=1071&exp=10800&fmt=webp> 【阪神】通算100号達成の佐藤輝明「環境に恵まれた」アーチストの原点となった小学校時代とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7d9ffc7a2969ca0c2ac5d386b00b50289116ac7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050032-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博レジオネラ属菌、静けさの森の人工池からも…しぶき吸い込むと肺炎の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/874bc9cbebd8b82242cd915da0931eaa6db938c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174378-sdigestw-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=475&ch=475&exp=10800&fmt=webp> 【日本０－１オーストラリア｜採点＆寸評】敵の５バックに大苦戦し、“最悪”の初黒星。最高点は今予選初出場のDF、代表デビュー組の評価は…
       </a>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a7015d7c3e129fe20f1a428d5b6f916e2079211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00982981-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏×習近平氏　電話会談　「非常にいい会談を行った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad490082448aa8e20d1e021e34d7d2c4a5ae7ef3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00544449-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=600&ch=600&exp=10800&fmt=webp> 阪神ファン絶賛「こういう配慮って素敵」　ベンチから出てきた日本ハム新庄監督の行動が「いい人！」絶賛相次ぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00982981-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領×習近平氏が電話会談「非常に良い会談行った」　関税政策巡る2度目の閣僚級協議の早期開催で合意
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/63a31f9706fe56fd912f11dee890eda487d3b9f1af77eeb376633d01cbbb663d.jpg> 米中首脳 貿易問題を巡り電話協議
+      <a href=https://news.yahoo.co.jp/pickup/6541291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/06365373a49ac357fbc45f5efe4b95f9196a91afdf5205a0799b1d9ddac9722d.jpg> 政府 コメの「生産調整」見直しへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/feb9841f1b609955d4d0ba46ceff22a17e3e3bbaff595e37c6a2903245e5a3ea.jpg> 首相 小泉氏にコメ高騰の検証要求
+      <a href=https://news.yahoo.co.jp/pickup/6541288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/63a31f9706fe56fd912f11dee890eda487d3b9f1af77eeb376633d01cbbb663d.jpg> 米中首脳 貿易問題を巡り電話協議
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 06:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 07:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
