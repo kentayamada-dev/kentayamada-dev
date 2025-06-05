@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43fa9b735214fa37d658dccca729fecc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5c6eb53bae0bdb407ee2e399e83a7a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0172701b418107ac1a03cc9852829a2bdd64c463>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000090-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 阪神・佐藤輝明、豪快に100号　記録への思い「全くない」けど…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/797aaab4ee29d8e5c4afaabca9c22d0d908eedba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000289-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 米中首脳が電話会談　関税交渉の打開図る
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6cc831bf98fcfea06e340311377dadffa68db862>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06491921-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ流通の全てを総ざらい」 　初の関係閣僚会議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d204b3ebe86c4f09fbcc10687855572ffcfcbf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000027-eiga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 上白石萌音、「ラブ・イン・ザ・ビッグシティ」舞台挨拶でMCに！「すみません、ファンです」と愛情あふれる
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/53782083085f29a2d9d38b15d76a1f27b8e9274fb815a77254fbe89f91ac2cfd.jpg> JR西日本 幹部のパワハラ認定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541282>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e935f2688b05f3bf7cfd945eb86892de9c73cfa5e8a26368e1a5c251641d8b88.jpg> 森保ジャパン 最終予選で初黒星
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0a579cc6e3541faee3613edcc31b64d12aebaee66c67e87fec70781409c1deff.jpg> 上白石萌音が上映会MC 会場驚き
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 23:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 23:52:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
