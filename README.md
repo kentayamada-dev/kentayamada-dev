@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4696a8959f62cbc2ac79304c46b75fe2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/758a3936f6860424e66f7fb8b69f4981.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01e00aa7bb4b3c49721848eb12aa74937dc41af5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01269260-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1248&ch=1248&exp=10800&fmt=webp> 増田貴久、人に言われて気付いた自身の“変なところ”を告白
+      <a href=https://news.yahoo.co.jp/articles/523aaed046e4e76edd548635af86fec8838ccf33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000053-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=489&ch=489&exp=10800&fmt=webp> 万博の「静けさの森」でもレジオネラ属菌検出　30日から利用停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747e9451ac556f8927d70e71236c6d63d00c47db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90019863-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 【速報】万博　静けさの森の「水たまり」で一部レジオネラ菌検出　「ウォータープラザ」に続き
+      <a href=https://news.yahoo.co.jp/articles/997b9523b92e24777a5b212d5dfa59edfff5d045>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-15839039-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> ガザの無条件での停戦決議案、アメリカの拒否権で否決　国連安保理
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/060fc0d97a771fce43c7bce53a97a27f30dd49e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 業者との交渉記録ないとは考えがたいと地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d9de039f1151b914259183ffe599d4a42787b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010003-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン氏、ウクライナへの報復の意思をトランプ氏に伝える　大きな被害にロシア側の態度硬化か
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23aeae152390f5d4915c69d92023a3f4b4af1b21>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010007-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 世界1位サバレンカvs女王シフィオンテク 大注目の全仏OP準決勝は5日22時以降開始＜女子テニス＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbb5c480684e8ab32a21fbc10951d755ee134a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-10182020-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 国連安保理ガザ停戦決議案 トランプ政権初の拒否権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7aa739d042ec8ab8715a148dd183c7126449d99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドローン攻撃、被害は20機か　米側試算、ウクライナと隔たりも
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4490184d5cbaafbe781dd8ac3894f165494cb980615d1ebbc5f3054b1ad8d3bd.jpg> 英語キャンプ中止問題 行政処分へ
+      <a href=https://news.yahoo.co.jp/pickup/6541232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1631022a56fec10e35f1c07ecf84a7319ed42e8d31e6273cbb6f18ff573c58cc.jpg> 万博「静けさの森」でも菌検出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/343f104090891410fb0a2404c0125c22614b126b673f3fd85f96fbbd93e69b41.jpg> マエケン初勝利 5回を2安打無失点
+      <a href=https://news.yahoo.co.jp/pickup/6541228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f9bde34dd9fd73f3c2328e7653e80114bd770b09c9eca5fda6f72f657754ad0a.jpg> ドジャース戦に乱入者 大谷苦笑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f5d05183ec5012d8cfc4e73dd0e154d7750d81938c6d73324b62e0da47109cbc.jpg> 萬田久子 個性的ヘッドドレス装着
+      <a href=https://news.yahoo.co.jp/pickup/6541234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2bee199dcbb4677111d12b28c923de0e057d51383124bcedb74cc62dc4a7d0e6.jpg> 明石家さんま 異例のYouTube出演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 15:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 15:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
