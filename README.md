@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ebd44518ff637a75ef52f2b6927ebd11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1df80dc07aeb935a875ec58dad811ee7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31084c9dbfc8b031126b208acb679f7f38b9261d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】「首を負傷している」千葉市の病院で医師が男に刺される　会話できる状態
+      <a href=https://news.yahoo.co.jp/articles/bbb5c480684e8ab32a21fbc10951d755ee134a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-10182020-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 国連安保理ガザ停戦決議案 トランプ政権初の拒否権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7aa739d042ec8ab8715a148dd183c7126449d99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドローン攻撃、被害は20機か　米側試算、ウクライナと隔たりも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c91929f3bd4c64832539c276aafecad4077e8bcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ゆうパックにも影響か　日本郵便の運送事業許可取り消しへ　国交省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2bc3e5c79d4616a7a5d3c53201f76474d345fa4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010004-asahibc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博会場の「静けさの森」でもレジオネラ属菌を検出　吉村知事が取材に明らかにする「保健所の指導に従って対策を進めている。安心して楽しめるように対応する」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49565402db4ee425319c2295793039c2e366333f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031318-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ファイナル進出なしで丸1年のシフィオンテク が世界1位サバレンカに対する準決勝に到達「アーニャとの対決は常にチャンレンジ」 [フレンチ・オープン／テニス]
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbf502d95be02a2afd17de42a6af8003d608f642>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-16314611-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=576&ch=576&exp=10800&fmt=webp> プーチン氏はウクライナのドローン攻撃への「報復を強調」とトランプ氏　電話協議後に投稿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d15701c701bc02403c9ca56796d8afa3225ebff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1568&ch=1568&exp=10800&fmt=webp> ガザ決議の否決、評価避ける　林官房長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e12690eb4a544bfa671e16d69d1eb7ac937767d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06354787-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 【万博】基準値の20倍の「レジオネラ菌」会場の海水から検出　6日まで水上ショーなど中止
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/67d49531037078540051646726689ddd5211f14ddbab8e7a2a2dd6bc1320ce40.jpg> 異例 郵便トラック許可取り消しへ
+      <a href=https://news.yahoo.co.jp/pickup/6541222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9681d2d44cd29ea713f5c48c388c8e4e9376aaa2ce71023dbeaf69eb81145c57.jpg> 少子化前提の社会を 識者指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5398f7b52e1a3c4f6724178c6e4bf7819a9f453e2e789cd49f6330d80174c981.jpg> 日本郵便の運送巡り 遺憾と林氏
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5e827ead37bac754c5a6360bbe1e461511d0da47ab0adde0d3281d71b1ac3499.jpg> ヘビメタ演奏もできる葬儀場 狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/63f7cfdfcd883e2a034cf3113b71d30d2debfee40ccb86eacce7157d9d0f46a5.jpg> Switch2引き渡し 世界で同時発売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/343f104090891410fb0a2404c0125c22614b126b673f3fd85f96fbbd93e69b41.jpg> マエケン初勝利 5回を2安打無失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f5d05183ec5012d8cfc4e73dd0e154d7750d81938c6d73324b62e0da47109cbc.jpg> 萬田久子 個性的ヘッドドレス装着
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 14:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 14:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
