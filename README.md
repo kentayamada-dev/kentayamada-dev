@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67363f5f19ec3c41d90651cbe8fa7ff8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77a575b93968005050824e6ed16f3797.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7455501d6c61a092738271681a8ed124dc8cd0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241163-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「帰宅中にスピードが出て事故を起こした」歩行者の女性がはねられ死亡　車運転の92歳男を現行犯逮捕　容疑を過失運転致死に切り替え調べ進める　福岡市東区
+      <a href=https://news.yahoo.co.jp/articles/372731792d1e324e3b4f21370cf650f776cd291c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000146-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=750&ch=750&exp=10800&fmt=webp> 岩田剛典が本日6月5日でEXILEの活動を終了、白濱亜嵐も当面の活動を休止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3840fe1e5d6496c32bcb2902ada54a61031f78e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-21960243-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> コンビニで備蓄米の販売開始、銘柄米が安くなる前兆か スポット取引価格急落の理由【Nスタ解説】
       </a>
     </td>
   </tr>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/759b15914488166c57579ce526d252fbb34db124>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000080-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 卸売業者間でコメ価格下落、随意契約の影響か　小売に波及する可能性
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9b52fc65d3271bf55361f5c767bc2620c8499f5271697fe9733f12f87e08e054.jpg> 米中首脳が電話協議 関税テーマか
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541276>
@@ -394,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/98414c8618a8905749ff8bbae54cdcba384ff357a5858c525a1065f82e40b415.jpg> 皇族養子案の棚上げ許さず 麻生氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/611ee5bce2fa90a8a0e563ca8a64c01d45db62ae5575ac9e502c3d7c4924260b.jpg> 車から転落させ殺害疑い 女逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/23810bc089bf0e7e20eb96520bb0a41dd871221adafd02067c38a5ed9baf5397.jpg> 車にはねられ女性死亡 92歳逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea932e17dab694c2e0cfc355ac409491f0f9f0e3dcacf93ce0a332cad3b0e191.jpg> 岩田剛典 EXILEの活動終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6541284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea932e17dab694c2e0cfc355ac409491f0f9f0e3dcacf93ce0a332cad3b0e191.jpg> 岩田剛典 EXILEの活動終了
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 22:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 23:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
