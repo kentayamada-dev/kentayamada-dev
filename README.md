@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf1c99af3920d7b00d20afb4b25e04c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8149e2289f85de70f8b60f9107980e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e73d8f559aa762bd5247d2fb12cc306f03bdb082>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 世界361位ボワソンの快進撃続く アンドレーワ下し全仏OP4強
+      <a href=https://news.yahoo.co.jp/articles/f95f065c8398d7119d78abb7aa0fdbf368d68a6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博のレジオネラ属菌最大20倍　海水から、水上ショー中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f84c400e62de257297bc6d4ab01b79299a1f233>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00066225-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】ウォータープラザで「レジオネラ属菌」検出　水上ショーはきょうとあす中止「水質改善にはすでに着手」
+      <a href=https://news.yahoo.co.jp/articles/2a5ac00f7e97cab9ba239351dcb6131fb51231e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コカイン使用疑いで再逮捕　「日本駆け込み寺」元事務局長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5231e39a1ac0e2ab5a3ecd39e7086f4b219e0f5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000038-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=445&ch=445&exp=10800&fmt=webp> ファミマ、ローソンが小分けで備蓄米を発売
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a106b9d3474486c25c673f7137efb7c1309c0a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050071-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=300&ch=300&exp=10800&fmt=webp> プーチン氏、ゼレンスキー氏との会談拒否…鉄道脱線事故をウクライナの「テロ行為」と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74a9b832b79ed11c4db6766bd25575ff26d58c82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07240967-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「宝くじを占いで引き当てる」とうそ　70代女性から約750万円詐取か　男女8人逮捕　占いサイト誘導しポイント購入費としてだまし取ったか
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6541203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea49df28e17cd422102dc6a48c7d9ee3939fb15ead881d5af7278366968a9f12.jpg> 日本駆け込み寺元事務局長 再逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f6716babe2a208a88253f0a9f900665e5c5c3b5da7f79c8bfbb3f3752e8b02cc.jpg> 万博水上ショー中止 菌は先月判明
+      <a href=https://news.yahoo.co.jp/pickup/6541199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 11:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 11:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
