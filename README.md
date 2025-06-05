@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/753a963027cddc9471a391aae1ea2c0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b201d2cd382c62e1e680a761285acabd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/941b5b0ad1eef2f48299ed50f919c74e096349e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00079625-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スタグフレーション瀬戸際の日本　内憂外患の石破政権は「国難」を乗り切れるか
+      <a href=https://news.yahoo.co.jp/articles/98f1183ac9018eaa1ce7d164551ef7907cd8971a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> AI関連会社に強制調査　循環取引で売り上げ過大計上疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/113610aa5e21672c5ec883cc3bfeeb8ac03b2aea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982382-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ウクライナは民間人を意図的に攻撃」プーチン大統領がトランプ大統領と米ロ首脳電話会談　ウクライナとの会談実施に否定的考えも示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07cc2091c4e5bf8bd70c9ceb30eab66575607fb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000034-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> メキシコ、鉄鋼関税巡り米と合意できなければ来週「措置」発表へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd03d24dd81f0123c3eb8f6380fb276832358134>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000037-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 米、ガザ決議案に拒否権　飢餓打開へ非常任10カ国が提案　国連安保理
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d6af9b91fb221c121b84db7bef6cf82da3afe8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050047-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 全仏オープンで地元の世界３６１位が４強、２戦連続トップ１０撃破…「夢は準決勝を戦うことでない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c8222525c44cbbec8b377beda7c3fe55a5bc405>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン氏、露空軍基地攻撃への報復強調　米露首脳が電話会談「和平につながらない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b476e1c6cb0d4c28e7a8497a02ae695505aff8ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザ停戦安保理決議案　アメリカの拒否権行使で否決　他の14カ国は賛成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e01e44c462848f83f2f8ed70a81c6585ce856ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000027-gamespav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 待望の『FFタクティクス』リマスターがPC/Xbox/スイッチでも発売決定！フルボイス化やシナリオ加筆調整も実施
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050047-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 全仏オープンで地元の世界３６１位が４強、２戦連続トップ１０撃破…「夢は準決勝を戦うことでない」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5aa4f560cc08b88188e306df8545f745178f853d50bdef3f9c10518f6c880e29.jpg> 夫婦別姓 野党3案が実質審議入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f0e77ab72a6d62f1a618411193d8a136abecd9300721672129a70dffe1a84df2.jpg> 外国人の医療費未払い対策へ 政府
+      <a href=https://news.yahoo.co.jp/pickup/6541181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4438a72cfc1dccc086fdfa5cf03945218e74ba5fc6a0f0b9bfc7f05c8dcc1d32.jpg> 海外研究者招へい強化へ 首相表明
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/da00cad8b87c37c5dfe6449009f3bc50e6cc0e73794f5e2668f1110721987505.jpg> AIわいせつ商品転売疑い 書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541189>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1f4193e056d4a1f31eac937d3aa45be7ef05d0d0f1b6638c0140273e5c9fc31a.jpg> TOEIC不正 同住所で43人申し込み
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/8a306290195451f155a018ab6375577ab5c4ef2203359f562e0f2b002c6e00cb.jpg> 97年のFFT リマスター版発売決定
+      <a href=https://news.yahoo.co.jp/pickup/6541193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1add0047adb0359cb92420db9276ef34eff899d4ec86cace0633d68ff354f9a0.jpg> バナナそっくりウナギ 釣り人驚き
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 09:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 09:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
