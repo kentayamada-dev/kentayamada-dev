@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9d5148fc406a2da7f7764158430fe89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8be893772e3969e3f28d2681928012a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7a43e77a7873c42cfe720842f0b77c1b9985044f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010004-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 阪神タイガース・佐藤輝明がプロ通算100号！2位・牧秀悟に6本差をつけてホームランキング独走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8db9eabe3b2e0fcb9d92d373a402a8c26fd7cde7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00014791-netkeizai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 国交省、日本郵便の運送事業許可を取消へ 関係者「配送できない可能性は低いが影響も」
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f652700a99867e7f93bed3587210c9c8dba13e2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050210-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=400&ch=400&exp=10800&fmt=webp> かつて「史上最低の農相」と言われた石破首相、コメ政策転換に再挑戦…小泉農相の突破力に期待　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050210-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=400&ch=400&exp=10800&fmt=webp> かつて「史上最低の農相」と言われた石破首相、コメ政策転換に再挑戦…小泉農相の突破力に期待　
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7ce7f1cb63a49fe0fbd5d0fbb181af01929ab10a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182171-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 「ある時点で夫人と一緒に中国に行くだろう」トランプ大統領、習主席と電話会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/348171737c5d572b876dd0dc73737153a1461d5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36051997-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=182&cw=1071&ch=1071&exp=10800&fmt=webp> 【阪神】通算100号達成の佐藤輝明「環境に恵まれた」アーチストの原点となった小学校時代とは
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182171-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 「ある時点で夫人と一緒に中国に行くだろう」トランプ大統領、習主席と電話会談
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e98fcfbd0f18b7b6facb42a8c1cf766cdee89a226b150f9f57dfab8a1a3af947.jpg> ハラスメント認定は反町氏 フジ
+      <a href=https://news.yahoo.co.jp/pickup/6541292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f538ef368ee22dfc0f92e8c3350d5b56844c32e3e78920c6392f1ceba7918ad8.jpg> 「家族の日」独自に設定 園の配慮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f538ef368ee22dfc0f92e8c3350d5b56844c32e3e78920c6392f1ceba7918ad8.jpg> 「家族の日」独自に設定 園の配慮
+      <a href=https://news.yahoo.co.jp/pickup/6541296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/fdda15d0513f7e72a0677c6e1d092bbd4a016e1b44a412d874f9758fa7194531.jpg> まさかの幕切れ 大勢かばうG監督
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 07:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 08:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
