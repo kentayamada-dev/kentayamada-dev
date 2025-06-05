@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/808139732fb88812264f0b5e634c45d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67363f5f19ec3c41d90651cbe8fa7ff8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7455501d6c61a092738271681a8ed124dc8cd0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241163-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「帰宅中にスピードが出て事故を起こした」歩行者の女性がはねられ死亡　車運転の92歳男を現行犯逮捕　容疑を過失運転致死に切り替え調べ進める　福岡市東区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d319eb23d938bba727764928901cdd5f408c289f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010018-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・レジオネラ属菌検出の水辺　検出後『ほぼ丸1日』来場者が立ち入られる状態に　把握後すぐに公表せず　博覧会協会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e3449c40a04c9671aa4fa785c2f812c738d2db2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031332-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 夢の進撃は準決勝へ、世界361位ボワソンが2試合連続で金星奪取「私の夢は準決勝ではなく優勝すること」 [フレンチ・オープン／テニス]
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/386064d847616f5d19e61db0693671bb3a77998d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ryu-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 走行中に降車強要、元夫を殺害の疑い　沖縄市の女逮捕
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01b259491f3b9693657f3f0e4b0add997fbe8590000712b68faf631ed8a11320.jpg> 中国の2邦人殺害 投資で恨みか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541275>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/acca0ecf3c585867d20a8ac3285dfb55e018dce379b6f2ed1566813c1c1c5b26.jpg> 日本郵便に重い処分 集配どうなる
       </a>
@@ -434,24 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/770410ea248e116ea8eeec024997ef8a5d76258bb3872b86f9cee8d8c4b854fc.jpg> フジ 中居氏トラブル巡り懲戒処分
+      <a href=https://news.yahoo.co.jp/pickup/6541280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e98fcfbd0f18b7b6facb42a8c1cf766cdee89a226b150f9f57dfab8a1a3af947.jpg> ハラスメント認定は反町氏 フジ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/3b8fd18ebae11d80aee560d87b4bce44bf821947fde9c2b1c830d60425bf2a26.jpg> ストーカー 紛失防止タグの悪用増
+      <a href=https://news.yahoo.co.jp/pickup/6541282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e935f2688b05f3bf7cfd945eb86892de9c73cfa5e8a26368e1a5c251641d8b88.jpg> 森保ジャパン 最終予選で初黒星
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fd977173a16f5ac7d8fb7e83747e5509f35d3cb9c132f5ae38e6a97bf86c3de.jpg> 速報 森保ジャパンvs.豪州
+      <a href=https://news.yahoo.co.jp/pickup/6541271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/5e6f1cae781f35c04334657e347bef39404357373636d6193c5aefa313b4df1f.jpg> 巨人外野手 浅野と若林が負傷交代
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea932e17dab694c2e0cfc355ac409491f0f9f0e3dcacf93ce0a332cad3b0e191.jpg> 岩田剛典 EXILEの活動終了へ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 22:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
