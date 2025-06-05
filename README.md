@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe2acba70472e5552bea3faa76fb0706.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9a21c6640105ab638de04de543a931e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2e3449c40a04c9671aa4fa785c2f812c738d2db2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031332-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 夢の進撃は準決勝へ、世界361位ボワソンが2試合連続で金星奪取「私の夢は準決勝ではなく優勝すること」 [フレンチ・オープン／テニス]
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c687c42a68ceb15f2af19059a603dec32f64ada9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000261-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】宮城の女性保育士殺害認める供述　逮捕の21歳男、海岸遺棄も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f739fa97fbee659d3cd55757a276e0770a20d599>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01137713-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博「静けさの森」　基準値大幅超の「レジオネラ菌」検出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49124a08b989e77f3ec9eed50b9b55d4bb318925>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010009-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1672&ch=1672&exp=10800&fmt=webp> 小田凱人 熱戦制し4年連続の全仏OP4強、3連覇へあと2勝＜車いすテニス＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e01b6b9c1604500380586f2b76e975dbcaad8a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000074-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 病院内で医師を“切り付け” 患者の75歳男「左首を狙った」
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e66d730713e9e5b0df9de5ed8ee4c4ed3277721b5a6372fa93fe2906a7d0e151.jpg> 党首討論 視聴増狙い午後6時開催
+      <a href=https://news.yahoo.co.jp/pickup/6541270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/98414c8618a8905749ff8bbae54cdcba384ff357a5858c525a1065f82e40b415.jpg> 皇族養子案の棚上げ許さず 麻生氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/7bbef5b292f74ef5e10cdde736f6c4e8448d1be9d78d8d81a82104be66107318.jpg> 立花氏から「名誉毀損」県議提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541268>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生殖補助法は審議見送りへ 廃案か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/79832e07a1a98b1583f2a174465116b16508cc3d8f9ed0f45234d65506131a9f.jpg> 保育士遺体 男が容疑認める供述
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2e149a0139987beb5547f9d1e72120de359546f5d731ee396727a8ae8e569ab5.jpg> 医師切りつけ 男「病院に恨み」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541259>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/770410ea248e116ea8eeec024997ef8a5d76258bb3872b86f9cee8d8c4b854fc.jpg> フジ 中居氏トラブル巡り懲戒処分
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/06d6100d6b429028818e90b13aeed7d243dde9e58e51c5e0b95dd45f89250b04.jpg> 万博 関係者証で有利に限定品購入
+      <a href=https://news.yahoo.co.jp/pickup/6541241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02236986/title-1749088960014.jpeg?exp=10800> 就活面接の音声を投稿 賛否両論
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 20:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 21:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
