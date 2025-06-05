@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/efa0906b828a747b72ca1c82936e1714.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c8a43fec14f285ea75a424149f5cf61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbf502d95be02a2afd17de42a6af8003d608f642>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-16314611-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=576&ch=576&exp=10800&fmt=webp> プーチン氏はウクライナのドローン攻撃への「報復を強調」とトランプ氏　電話協議後に投稿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78c964f7e157b6f311617b4d25cf120b8f741277>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000102-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=155&cw=690&ch=690&exp=10800&fmt=webp> カジノ決済システム運営か　国内組織の幹部ら9人逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d15701c701bc02403c9ca56796d8afa3225ebff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ決議の否決、評価避ける　林官房長官
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1568&ch=1568&exp=10800&fmt=webp> ガザ決議の否決、評価避ける　林官房長官
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e12690eb4a544bfa671e16d69d1eb7ac937767d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06354787-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 【万博】基準値の20倍の「レジオネラ菌」会場の海水から検出　6日まで水上ショーなど中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a693f2d4a718ec680bb115f7000e4fdf6fd1caa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982444-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカ・トランプ大統領がロシア・プーチン大統領と電話会談…ウクライナのロシア基地への大規模攻撃などめぐり　「即時和平につながるものではなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b5ca6080ccb12db84250b251d27b0e70f372c35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 海外カジノの決済システム運営か男9人逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06354787-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 【万博】基準値の20倍の「レジオネラ菌」会場の海水から検出　6日まで水上ショーなど中止
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f078eb9e9a32c58d7d23d302dfdb03a61ee8f4404e27545263d0b193d8464b7b.jpg> 2024年の児童虐待死 前年の約2倍
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541204>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6541214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/63f7cfdfcd883e2a034cf3113b71d30d2debfee40ccb86eacce7157d9d0f46a5.jpg> Switch2引き渡し 世界で同時発売
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e46284c304766041707c7e47f687c6f5aee9d56e41410f44c8f3c98ef9936ebf.jpg> 88歳父主演 家族3世代映画が話題
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 12:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 13:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
