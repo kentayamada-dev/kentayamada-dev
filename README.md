@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ec6a7fd712a6d4de2d4e61bc753e979.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c090d5747f4c01ada730d3aa6eb356f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a52da453cf6fc7e99c3abebb50c9b7a20bb0c21b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000010-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米・カナダ首脳、関税巡り直接協議＝カナダ産業相
+      <a href=https://news.yahoo.co.jp/articles/0545d3bc509c4eefd7319d6f2fdd6c8a09b6e2ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000076-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=894&ch=894&exp=10800&fmt=webp> フジ　中居氏の一連のトラブルに関与の編成部長4段階降職　編成制作局長は減俸
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc078d550a0bb58f4c2c6492e806c97a6f8967db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00347309-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田剛典　EXILEパフォーマー活動終了を発表「日々と思い出は自分の人生の誇り」
+      <a href=https://news.yahoo.co.jp/articles/a52da453cf6fc7e99c3abebb50c9b7a20bb0c21b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000010-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米・カナダ首脳、関税巡り直接協議＝カナダ産業相
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 04:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 04:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
