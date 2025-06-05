@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9a21c6640105ab638de04de543a931e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61b9549efe5d3ccf82c0e8a1866796f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/270719d20becad9268589bd6e74d5b1ffe8deb59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000139-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 万博会場でレジオネラ属菌検出、報告から1週間以上後に公表　後手に回った対応に苦言
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e3449c40a04c9671aa4fa785c2f812c738d2db2>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f739fa97fbee659d3cd55757a276e0770a20d599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01137713-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博「静けさの森」　基準値大幅超の「レジオネラ菌」検出
+      <a href=https://news.yahoo.co.jp/articles/759b15914488166c57579ce526d252fbb34db124>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000080-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 卸売業者間でコメ価格下落、随意契約の影響か　小売に波及する可能性
       </a>
     </td>
   </tr>
@@ -396,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541268>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生殖補助法は審議見送りへ 廃案か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a8361d27b5099c730a2c844150d60c547b1d1a3e29cbc2ab17bdb8fd179f6d82.jpg> コメ取引価格下落 随意契約影響か
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02236986/title-1749088960014.jpeg?exp=10800> 就活面接の音声を投稿 賛否両論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/873b8fa0571a58c0b943bb11b3c7afa56a745c5643607e30c834b9997aec6e5c.jpg> Switch2争奪戦 受け取った当選者
+      <a href=https://news.yahoo.co.jp/pickup/6541264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/3b8fd18ebae11d80aee560d87b4bce44bf821947fde9c2b1c830d60425bf2a26.jpg> ストーカー 紛失防止タグの悪用増
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 21:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 21:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
