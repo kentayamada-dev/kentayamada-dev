@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6c67cf6da47de1649680af104b08eaf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe2acba70472e5552bea3faa76fb0706.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f739fa97fbee659d3cd55757a276e0770a20d599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-01137713-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博「静けさの森」　基準値大幅超の「レジオネラ菌」検出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49124a08b989e77f3ec9eed50b9b55d4bb318925>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010009-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1672&ch=1672&exp=10800&fmt=webp> 小田凱人 熱戦制し4年連続の全仏OP4強、3連覇へあと2勝＜車いすテニス＞
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010009-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1672&ch=1672&exp=10800&fmt=webp> 小田凱人 熱戦制し4年連続の全仏OP4強、3連覇へあと2勝＜車いすテニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c275737847306585a5d3fe042671cd4dbdfe74c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000076-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博協会、菌検出後も人工池の立ち入り禁止せず　子ども入れる状態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c72194b5e44c00dc7f3c5537946e8982674dd550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90004951-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 抽選販売でも朝から行列…人気ゲーム機『スイッチ2』発売 当選確率5%の幸運をつかんだ客から歓喜の声
+      <a href=https://news.yahoo.co.jp/articles/9e01b6b9c1604500380586f2b76e975dbcaad8a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000074-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 病院内で医師を“切り付け” 患者の75歳男「左首を狙った」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fe9b048d25a993b6232ffaee1cf3574f993ef3aba42516b103f623a7aaa7569.jpg> 高齢者運転の車が女性はねる 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2e149a0139987beb5547f9d1e72120de359546f5d731ee396727a8ae8e569ab5.jpg> 医師切りつけ 男「病院に恨み」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0add75becb38a065ce43906c313bce33326f4b4f30e2b4a5801b2d2a5d14a31b.jpg> 新庄監督 審判団も巻き込み円陣
+      <a href=https://news.yahoo.co.jp/pickup/6541269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fd977173a16f5ac7d8fb7e83747e5509f35d3cb9c132f5ae38e6a97bf86c3de.jpg> 速報 森保ジャパンvs.豪州
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 20:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 20:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
