@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0660f58e0ce7ae9e273dcba4fc43c91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf1c99af3920d7b00d20afb4b25e04c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a66c6581e7d24ca07ab4538a114e79932170f461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07240972-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> AI議事録サービス販売会社を強制調査 「循環取引」で売上を過大計上し有報などに虚偽記載か　証券取引等監視委員会
+      <a href=https://news.yahoo.co.jp/articles/e73d8f559aa762bd5247d2fb12cc306f03bdb082>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 世界361位ボワソンの快進撃続く アンドレーワ下し全仏OP4強
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e24caf1b7aea0788875d08baa4e6e2184445a3d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-03745967-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博"レジオネラ属菌"で水上ショー中止　菌の存在は先月末時点で把握
+      <a href=https://news.yahoo.co.jp/articles/6f84c400e62de257297bc6d4ab01b79299a1f233>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00066225-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】ウォータープラザで「レジオネラ属菌」検出　水上ショーはきょうとあす中止「水質改善にはすでに着手」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c4bbf36536b15ca24e45694997b96361daeff59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000011-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ガウフが全仏OP4強 キーズとの同胞対決制す
+      <a href=https://news.yahoo.co.jp/articles/3a106b9d3474486c25c673f7137efb7c1309c0a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050071-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=300&ch=300&exp=10800&fmt=webp> プーチン氏、ゼレンスキー氏との会談拒否…鉄道脱線事故をウクライナの「テロ行為」と主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74a9b832b79ed11c4db6766bd25575ff26d58c82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07240967-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「宝くじを占いで引き当てる」とうそ　70代女性から約750万円詐取か　男女8人逮捕　占いサイト誘導しポイント購入費としてだまし取ったか
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/113610aa5e21672c5ec883cc3bfeeb8ac03b2aea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982382-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ウクライナは民間人を意図的に攻撃」プーチン大統領がトランプ大統領と米ロ首脳電話会談　ウクライナとの会談実施に否定的考えも示す
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/907acebc451cc8e63f66724e20345b8be3ab9036d1fcd5f183e04b471aab002a.jpg> 金正恩氏 ロシアを「無条件支持」
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541187>
@@ -418,32 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/da00cad8b87c37c5dfe6449009f3bc50e6cc0e73794f5e2668f1110721987505.jpg> AIわいせつ商品転売疑い 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6541179>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「イスラム国」13人を逮捕 イラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/59ae6255bd642473fe687e3014ec74b4c6466d4c97d34cb6f998fc8893bc29b0.jpg> AI企業「オルツ」決算粉飾の疑い
+      <a href=https://news.yahoo.co.jp/pickup/6541199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1d4e4fb9604a170992b9d0f9ccf577704dd60d26e7fa10f45e3280d034089030.jpg> コメダHD新業態出店ラッシュの訳
+      <a href=https://news.yahoo.co.jp/pickup/6541200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f6716babe2a208a88253f0a9f900665e5c5c3b5da7f79c8bfbb3f3752e8b02cc.jpg> 万博水上ショー中止 菌は先月判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1f4193e056d4a1f31eac937d3aa45be7ef05d0d0f1b6638c0140273e5c9fc31a.jpg> TOEIC不正 同住所で43人申し込み
+      <a href=https://news.yahoo.co.jp/pickup/6541196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/470c17c39ec5230c52d91c092c1f5e82d58d4fee3683ede381ab2dfe66726dea.jpg> 意識失いタクシー暴走 乗客が操作
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/b856554d5c0bc8bbe5eeee59383ec6bec28228e99fa15deb7f66043f20b0d0e5.jpg> 新庄氏 球児氏とグータッチの真意
+      <a href=https://news.yahoo.co.jp/pickup/6541201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/1983c1cd681dff41a172cf297a839a0b0d4cf3970be937a4bb710560d00cc9ba.jpg> Switch2発売日 SNS上の反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/521be80f4a1e2b180e9edff17d011cd79c58657d263dbf821beed90ad221f2c8.jpg> 「サイレントヒル」新作 発売決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 10:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 11:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
