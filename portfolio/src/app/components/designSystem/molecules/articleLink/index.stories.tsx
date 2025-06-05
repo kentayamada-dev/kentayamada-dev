@@ -9,10 +9,11 @@ const meta = {
     createdAt: new Date('2025-08-26T21:50:14.930Z'),
     description: 'Description',
     href: '#',
+    likeCount: 20,
     locale: defaultLocale,
     title: 'Title',
     topics: ['React', 'JavaScript', 'TypeScript'],
-    views: 10
+    viewCount: 10
   },
   component: ArticleLink,
   render: (args): JSXElementType => {

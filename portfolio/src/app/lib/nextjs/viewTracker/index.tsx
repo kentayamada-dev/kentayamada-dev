@@ -1,13 +1,13 @@
 'use client';
 
 import { startTransition, useEffect } from 'react';
-import { incrementPageView } from '../actions';
+import { incrementCount } from '../actions';
 import type { ViewTrackerType } from './types';
 
 const ViewTracker: ViewTrackerType = (props) => {
   useEffect(() => {
     startTransition(async () => {
-      await incrementPageView(props.keyName);
+      await incrementCount(props.keyName);
     });
   }, [props.keyName]);
 

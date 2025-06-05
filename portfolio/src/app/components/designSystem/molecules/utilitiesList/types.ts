@@ -12,4 +12,4 @@ type UtilitiesListProps = {
 
 type UtilitiesListType = ComponentType<UtilitiesListProps>;
 
-export type { UtilitiesListProps, UtilitiesListType };
+export type { UtilitiesListType };

@@ -1,7 +1,11 @@
-import type { LocaleKeyType } from '@/constants/i18n/types';
+import { throwColoredError } from '../throwColoredError';
 
-const getRedisKey = (namespace: 'article' | 'utility', id: string, locale?: LocaleKeyType): string => {
-  return locale ? `${namespace}:${id}:${locale}` : `${namespace}:${id}`;
+const getRedisKey = (namespace: 'article' | 'utility', type: 'like' | 'view', id: string): string => {
+  if (!id) {
+    throwColoredError('The <id> parameter cannot be an empty string.', 'red');
+  }
+
+  return `${namespace}:${type}:${id}`;
 };
 
 export { getRedisKey };

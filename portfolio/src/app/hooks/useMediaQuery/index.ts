@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const useMediaQuery = (callback: () => void): void => {
+const useMediaQuery = (callback: VoidFunction): void => {
   useEffect(() => {
     const styles = getComputedStyle(document.documentElement);
     const breakpointMd = styles.getPropertyValue('--breakpoint-md');

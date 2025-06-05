@@ -12,7 +12,7 @@ const newRedisClient = async () => {
   return client;
 };
 
-const incrementPageView = async (slug: string): Promise<void> => {
+const incrementCount = async (slug: string): Promise<void> => {
   const client = await newRedisClient();
 
   await client.incr(slug);
@@ -20,7 +20,7 @@ const incrementPageView = async (slug: string): Promise<void> => {
   await client.quit();
 };
 
-const getPageViews = async (slug: string): Promise<number> => {
+const getCount = async (slug: string): Promise<number> => {
   const client = await newRedisClient();
   const views = Number(await client.get(slug));
 
@@ -29,4 +29,4 @@ const getPageViews = async (slug: string): Promise<number> => {
   return views;
 };
 
-export { getPageViews, incrementPageView };
+export { getCount, incrementCount };

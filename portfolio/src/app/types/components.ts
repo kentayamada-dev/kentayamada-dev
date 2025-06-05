@@ -108,7 +108,6 @@ export type {
   JSXElementType,
   LayoutGenerateStaticParamsType,
   LayoutPageType,
-  NextLayoutProps,
   NotFoundPageType,
   PageType,
   RequiredCallbackType,

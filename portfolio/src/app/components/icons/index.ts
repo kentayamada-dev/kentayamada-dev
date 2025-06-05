@@ -8,6 +8,7 @@ export { EmailIcon } from './emailIcon';
 export { EyeIcon } from './eyeIcon';
 export { ForksIcon } from './forksIcon';
 export { GithubIcon } from './githubIcon';
+export { HeartIcon } from './heartIcon';
 export { HomeIcon } from './homeIcon';
 export { JapanFlagIcon } from './japanFlagIcon';
 export { KyIcon } from './kyIcon';

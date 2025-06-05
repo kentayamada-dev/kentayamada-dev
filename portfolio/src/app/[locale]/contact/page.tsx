@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { ContactTemplate } from '@/components/designSystem/templates';
+import { ContactForm } from '@/components/designSystem/organisms';
 import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getContact, getMetadata } from '@/lib/graphql-request';
@@ -35,7 +35,19 @@ const Page: PageType = async (props) => {
     return notFound();
   }
 
-  return <ContactTemplate locale={locale} subtitle={contact.subtitle} title={contact.title} />;
+  return (
+    <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
+      <div className='grid grid-cols-1 md:grid-cols-2'>
+        <div className='md:pr-20'>
+          <h1 className='text-primary text-4xl font-semibold tracking-tight sm:text-5xl'>{contact.title}</h1>
+          <p className='text-secondary mt-5 text-base/7 sm:mt-10 sm:text-lg/8'>{contact.subtitle}</p>
+        </div>
+        <div className='mt-16 md:mt-0'>
+          <ContactForm locale={locale} />
+        </div>
+      </div>
+    </main>
+  );
 };
 
 export { Page as default, generateMetadata };

@@ -2,19 +2,27 @@ import { describe, expect, it } from 'vitest';
 import { getRedisKey } from '.';
 
 describe('getRedisKey', () => {
-  it('should generate a key with namespace and id', () => {
+  it('should return the correct Redis key for valid inputs', () => {
     expect.assertions(1);
 
-    const result = getRedisKey('article', '123');
+    const result = getRedisKey('article', 'like', '123');
 
-    expect(result).toBe('article:123');
+    expect(result).toBe('article:like:123');
   });
 
-  it('should generate a key with namespace, id, and locale', () => {
+  it('should return the correct Redis key for another valid input', () => {
     expect.assertions(1);
 
-    const result = getRedisKey('utility', '123', 'en');
+    const result = getRedisKey('utility', 'view', '456');
 
-    expect(result).toBe('utility:123:en');
+    expect(result).toBe('utility:view:456');
+  });
+
+  it('should throw an error if the id is an empty string', () => {
+    expect.assertions(1);
+
+    expect(() => {
+      return getRedisKey('article', 'like', '');
+    }).toThrow('The <id> parameter cannot be an empty string.');
   });
 });

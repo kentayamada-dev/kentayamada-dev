@@ -1,4 +1,4 @@
-import { ProjectsTemplate } from '@/components/designSystem/templates';
+import { ProjectsList } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
@@ -48,7 +48,12 @@ const Page: PageType = async (props) => {
       return projectB.stargazerCount - projectA.stargazerCount;
     });
 
-  return <ProjectsTemplate locale={locale} projects={projects} title={title} />;
+  return (
+    <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
+      <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+      <ProjectsList locale={locale} projects={projects} />
+    </main>
+  );
 };
 
 export { Page as default, generateMetadata };

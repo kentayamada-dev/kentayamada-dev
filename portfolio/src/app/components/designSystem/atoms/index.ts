@@ -5,6 +5,7 @@ export { CustomLink } from './customLink';
 export { Input } from './input';
 export { InputWithCombobox } from './inputWithCombobox';
 export type { InputWithComboboxProps } from './inputWithCombobox/types';
+export { LikeAnimation } from './likeAnimation';
 export { ListItem } from './listItem';
 export type { ListItemProps } from './listItem/types';
 export { NotFoundAnimation } from './notFoundAnimation';

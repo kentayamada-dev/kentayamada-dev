@@ -5,10 +5,11 @@ type ArticleLinkProps = {
   createdAt: Date;
   description: string;
   href: string;
+  likeCount: number;
   locale: LocaleKeyType;
   title: string;
   topics: string[];
-  views: number;
+  viewCount: number;
 };
 
 type ArticleLinkType = ComponentType<ArticleLinkProps>;

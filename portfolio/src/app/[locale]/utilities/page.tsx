@@ -1,4 +1,4 @@
-import { UtilitiesTemplate } from '@/components/designSystem/templates';
+import { UtilitiesList } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
@@ -40,7 +40,12 @@ const Page: PageType = async (props) => {
     };
   });
 
-  return <UtilitiesTemplate locale={locale} title={title} utilities={utilities} />;
+  return (
+    <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
+      <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+      <UtilitiesList locale={locale} utilities={utilities} />
+    </main>
+  );
 };
 
 export { Page as default, generateMetadata };

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { EyeIcon } from '@/components/icons';
+import { EyeIcon, HeartIcon } from '@/components/icons';
 import { getDateString } from '@/utils';
 import type { ArticleLinkType } from './types';
 
@@ -16,14 +16,22 @@ const ArticleLink: ArticleLinkType = (props) => {
             })}
           </div>
           <div className='text-secondary flex justify-between text-sm'>
-            <time className='text-secondary' dateTime={props.createdAt.toISOString()} itemProp='datePublished'>
+            <time dateTime={props.createdAt.toISOString()} itemProp='datePublished'>
               {getDateString(props.createdAt, props.locale)}
             </time>
-            <div className='flex items-center gap-x-2'>
-              <div className='size-5'>
-                <EyeIcon />
+            <div className='flex items-center justify-center gap-x-3'>
+              <div className='flex items-center gap-x-2'>
+                <div className='size-5'>
+                  <HeartIcon />
+                </div>
+                <span>{props.likeCount}</span>
               </div>
-              <span>{props.views}</span>
+              <div className='flex items-center gap-x-2'>
+                <div className='size-5'>
+                  <EyeIcon />
+                </div>
+                <span>{props.viewCount}</span>
+              </div>
             </div>
           </div>
         </div>

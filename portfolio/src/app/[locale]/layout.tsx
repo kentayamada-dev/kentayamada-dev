@@ -1,11 +1,13 @@
 import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { ThemeProvider } from 'next-themes';
 import Script from 'next/script';
-import { Providers, RootTemplate } from '@/components/designSystem/templates';
+import { Footer, Header } from '@/components/designSystem/organisms';
 import { envClient } from '@/constants/env';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
+import { arrayOfThemes, defaultTheme } from '@/constants/themes';
 import type { LayoutGenerateStaticParamsType, LayoutPageType } from '@/types/components';
 // eslint-disable-next-line import/no-unresolved
 import 'katex/dist/katex.min.css';
@@ -26,11 +28,11 @@ const Layout: LayoutPageType = async (props) => {
   return (
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
-        <Providers>
-          <RootTemplate author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale}>
-            {props.children}
-          </RootTemplate>
-        </Providers>
+        <ThemeProvider attribute='class' defaultTheme={defaultTheme} disableTransitionOnChange themes={arrayOfThemes}>
+          <Header author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale} />
+          {props.children}
+          <Footer author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} />
+        </ThemeProvider>
         <Analytics />
         <SpeedInsights />
         <Script src={`https://www.google.com/recaptcha/api.js?trustedtypes=true&render=${envClient.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}`} />
