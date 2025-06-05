@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f9542e209efa228cc6e1ae57c97fa99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94b24523aea215da770a033bc8bb0f02.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c4a64b51d93c60dc8bd8ca9cdab9a42e8a26984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06051187-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 【日本ハム】新庄剛志監督、阪神・藤川監督と手を合わせたのちハイタッチ…メンバー表交換で両軍大歓声
+      <a href=https://news.yahoo.co.jp/articles/86efe42ca23dede98f0288d93f6378b454d33ba3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06361844-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】「静けさの森」でも基準値20倍の「レジオネラ菌」ウォータープラザから検出、水上ショー中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da0b5a47011ee6e800f791c23253807610f8eb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00051600-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 子どもが水遊びする場所でも・・・　万博会場で基準値大幅超過のレジオネラ属菌　発覚後もしばらく公表せず　問われる協会の対応
+      <a href=https://news.yahoo.co.jp/articles/9c70164f2c6146827f176ef55bc9c6abf1e12e11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241136-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】“前橋市の女性刺傷事件”一時重体も…女性の意識回復　警察は女性の回復待って事情聴く方針　殺人未遂容疑でパートの男(47)を現行犯逮捕　群馬県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49ab78002560066f65edfb7b6745afbb02771fa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000065-ann-000-9-thumb.jpg?exp=10800&fmt=webp> 待ち伏せて襲ったか 容疑者の父親語る　前橋・路上で女性刺される
+      <a href=https://news.yahoo.co.jp/articles/d09ad998a013d7f04e51910127153faac6bae5e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-21959490-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「家族みんなで開封の儀式」　Nintendo Switch 2発売　事前抽選“当選”したのに朝イチから行列　8年ぶりの新機種にファン笑顔　「感無量」　広島
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0741205327907b43b7b87c23507a9ac2213e67fce5986142b0316a22b5c6a02a.jpg> 政府 EUと情報保護協定を交渉へ
+      <a href=https://news.yahoo.co.jp/pickup/6541258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e66d730713e9e5b0df9de5ed8ee4c4ed3277721b5a6372fa93fe2906a7d0e151.jpg> 党首討論 視聴増狙い午後6時開催
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/36c8ab7a49624ab62b20c4f31fb2030f547393e7b1eee5c970df9209b946b455.jpg> マスク氏 共和党議員らを批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/7f73ee9fef16a90dedf37ef6fc30b43dc22c1df448a14c560006c34fc80866e4.jpg> フジテレビ 港前社長らを提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6541209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4b330ce42f3fb6a0efd2ec137e1530006fadd09fd961617fc119d00de6209911.jpg> ネットカジノ運営関与か 9人逮捕
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541250>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 陥没復旧「300億円規模」埼玉知事
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/871cc531e4da50715242f8aeaa867d2e09f853d01d7f9a4d651f2d2cf05ac7a2.jpg> フジテレビ 港前社長らを提訴へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 18:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 19:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
