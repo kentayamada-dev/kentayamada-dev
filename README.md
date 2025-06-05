@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2077dfc42469ce296f97e785a9afa12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13218b84a8b85aa7128f98a6b3ae9c5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a33ae584a68205edb54e9813ffa53670e0ba643>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000035-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、国連安保理でガザ停戦決議案に拒否権 理事国からも怒りの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39ae9b9a7deed679379f06dcd2fdebfb76776980>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90019867-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=453&ch=453&exp=10800&fmt=webp> 【速報】「静けさの森」から基準値の20倍のレジオネラ属菌を検出　博覧会協会が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b9c532501ceac95448023423edce2b92051c746e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982651-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領がウクライナへの反撃通告「テロを行う相手と誰が交渉するのか」停戦に否定的な考え示す
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0388b050bf4b0772de9e5aea82e9cfe9be28d01e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000061-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800&fmt=webp> 万博「静けさの森」のレジオネラ属菌は5月28日に検出　子供の遊び場も健康被害はなし
+      <a href=https://news.yahoo.co.jp/articles/87a5ea49df74157bd9e9abf3cb7baf3a8a650473>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241053-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 事件前に「待ち伏せして会う」と父親に伝える　前橋市で介護老人保健施設の女性（49）刺され重体　殺人未遂容疑で男（47）逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d757a19f184b2d653a94744a234eebefe1698a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982643-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「立花さんがやってきたデマの発信に責任を取らせる」兵庫県知事選の立花氏の街頭演説は名誉毀損にあたるとして兵庫県議が1100万円賠償求め提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/997b9523b92e24777a5b212d5dfa59edfff5d045>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-15839039-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> ガザの無条件での停戦決議案、アメリカの拒否権で否決　国連安保理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23aeae152390f5d4915c69d92023a3f4b4af1b21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010007-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 世界1位サバレンカvs女王シフィオンテク 大注目の全仏OP準決勝は5日22時以降開始＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/5a1b9464d8e55ca6572f371cdc8a3e1ee193aaba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00347237-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＤＤＴ】入団の武知海青にＨＩＲＯもエール「LDHは海青の夢をサポートしていきたい」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/482ec31e064506dc1292fd1fdf67b39309c4e3e1ec5576022a0cb9c8899c222a.jpg> ストーカー検挙24%増 過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6541246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0741205327907b43b7b87c23507a9ac2213e67fce5986142b0316a22b5c6a02a.jpg> 政府 EUと情報保護協定を交渉へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 17:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 17:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
