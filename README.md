@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14af71979e633000c008140f5127935b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2077dfc42469ce296f97e785a9afa12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb86d0c5e31bebb47e5cb6e0000d1a3f21062928>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982624-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 海水から基準値超える「レジオネラ属菌」検出…大阪・関西万博の水上ショーが中止に　感染すると肺炎などを発症
+      <a href=https://news.yahoo.co.jp/articles/b9c532501ceac95448023423edce2b92051c746e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982651-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領がウクライナへの反撃通告「テロを行う相手と誰が交渉するのか」停戦に否定的な考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe696ef428fa50492a44b4b7cba8807cd9fc8c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982630-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】高齢男性が運転する車にはねられ女性が意識不明の重体　車は線路に侵入し横転…運転手は80代後半〜90代前半か　福岡市東区
+      <a href=https://news.yahoo.co.jp/articles/0388b050bf4b0772de9e5aea82e9cfe9be28d01e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000061-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800&fmt=webp> 万博「静けさの森」のレジオネラ属菌は5月28日に検出　子供の遊び場も健康被害はなし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9df97ed82f1211cda3fd46fc2f6b4f6619dfc73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241038-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳電話会談でプーチン氏が“飛行場攻撃に報復示唆” ゼレンスキー氏「プーチンの脅しに弱腰になれば攻撃などに暗黙の了解を得たと捉える」
+      <a href=https://news.yahoo.co.jp/articles/2d757a19f184b2d653a94744a234eebefe1698a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982643-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「立花さんがやってきたデマの発信に責任を取らせる」兵庫県知事選の立花氏の街頭演説は名誉毀損にあたるとして兵庫県議が1100万円賠償求め提訴
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9a2b56e2db0c7085268452363b81b61409d7af5ecc2073c85ef1a0812d7f8f65.jpg> 米 緊急の人工妊娠中絶の指針撤回
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541225>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 医師が患者に切りつけられる 千葉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/161579aeaea6ead78aa2f9d9d6874d201cccab9cfdcd080ea6d7a266ced2b76b.jpg> ダイハツ 新型「ムーヴ」発売
+      <a href=https://news.yahoo.co.jp/pickup/6541243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fe9b048d25a993b6232ffaee1cf3574f993ef3aba42516b103f623a7aaa7569.jpg> 高齢者運転の車が女性はねる 重体
       </a>
     </td>
   </tr>
@@ -450,16 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d11e8cd48aa56d83a1ac80fbfc69d50c2cd5e55f7ee274f4e88ce2b476e81183.jpg> マラソン 鈴木優花と赤崎暁が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6541236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/161579aeaea6ead78aa2f9d9d6874d201cccab9cfdcd080ea6d7a266ced2b76b.jpg> ダイハツ 新型「ムーヴ」発売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2bee199dcbb4677111d12b28c923de0e057d51383124bcedb74cc62dc4a7d0e6.jpg> 明石家さんま 異例のYouTube出演
+      <a href=https://news.yahoo.co.jp/pickup/6541207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e832cf8737f10b73046918ebd26841ab190ded688729f2deb27a826a6181fdba.jpg> 面接音声投稿サービス 波紋広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/90435d34ae48f08f52228b54e8ebb10015eb10730d6c0e7343398a5f20c642fa.jpg> 柴田勲氏 2日連続で長嶋さん弔問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d11e8cd48aa56d83a1ac80fbfc69d50c2cd5e55f7ee274f4e88ce2b476e81183.jpg> マラソン 鈴木優花と赤崎暁が結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 16:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 17:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
