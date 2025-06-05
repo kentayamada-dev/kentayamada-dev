@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7b373a856834ad41680beb8883cd782.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f9542e209efa228cc6e1ae57c97fa99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d671133e56c910e6104609b939a961be6b2d321a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00066240-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】レジオネラ属菌　先月「静けさの森」でも検出されていた　３０日朝から利用を停止「公表を遅らせた意図ない。現時点で危険性が生じているわけではない」
+      <a href=https://news.yahoo.co.jp/articles/9c4a64b51d93c60dc8bd8ca9cdab9a42e8a26984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06051187-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 【日本ハム】新庄剛志監督、阪神・藤川監督と手を合わせたのちハイタッチ…メンバー表交換で両軍大歓声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5da0b5a47011ee6e800f791c23253807610f8eb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00051600-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 子どもが水遊びする場所でも・・・　万博会場で基準値大幅超過のレジオネラ属菌　発覚後もしばらく公表せず　問われる協会の対応
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49ab78002560066f65edfb7b6745afbb02771fa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000065-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 待ち伏せて襲ったか 容疑者の父親語る　前橋・路上で女性刺される
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000065-ann-000-9-thumb.jpg?exp=10800&fmt=webp> 待ち伏せて襲ったか 容疑者の父親語る　前橋・路上で女性刺される
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a1b9464d8e55ca6572f371cdc8a3e1ee193aaba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00347237-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＤＤＴ】入団の武知海青にＨＩＲＯもエール「LDHは海青の夢をサポートしていきたい」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a318263bf4d1f1ee8aaab38760be2999d5109fc12a74a1ebd3bbcb19c3c37bb7.jpg> フジテレビ 港前社長らを提訴へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541246>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0741205327907b43b7b87c23507a9ac2213e67fce5986142b0316a22b5c6a02a.jpg> 政府 EUと情報保護協定を交渉へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fe9b048d25a993b6232ffaee1cf3574f993ef3aba42516b103f623a7aaa7569.jpg> 高齢者運転の車が女性はねる 重体
       </a>
     </td>
   </tr>
@@ -434,32 +418,48 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/6cc463ba00e383389540478be8ff5281f1bf2cca1ff84a97ed5a1d77c84fee5f.jpg> 芥川賞作家 アウティング巡り提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/36c8ab7a49624ab62b20c4f31fb2030f547393e7b1eee5c970df9209b946b455.jpg> マスク氏 共和党議員らを批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/90435d34ae48f08f52228b54e8ebb10015eb10730d6c0e7343398a5f20c642fa.jpg> 柴田勲氏 2日連続で長嶋さん弔問
+      <a href=https://news.yahoo.co.jp/pickup/6541249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/7f73ee9fef16a90dedf37ef6fc30b43dc22c1df448a14c560006c34fc80866e4.jpg> フジテレビ 港前社長らを提訴へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/d11e8cd48aa56d83a1ac80fbfc69d50c2cd5e55f7ee274f4e88ce2b476e81183.jpg> マラソン 鈴木優花と赤崎暁が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6541250>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 陥没復旧「300億円規模」埼玉知事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/57da49b88d30e315de5128b884f0f16fc042c363d247451cfb63236d95c75e15.jpg> NEWS増田 会見で元気な姿みせる
+      <a href=https://news.yahoo.co.jp/pickup/6541251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9fe9b048d25a993b6232ffaee1cf3574f993ef3aba42516b103f623a7aaa7569.jpg> 高齢者運転の車が女性はねる 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/7d9102ca5f2d466a7b8ef8ea30e4b4f656cadb4c6dd197632a0cd41ff49097c0.jpg> 「JPドラゴン」リーダー 比で拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0add75becb38a065ce43906c313bce33326f4b4f30e2b4a5801b2d2a5d14a31b.jpg> 新庄監督 審判団も巻き込み円陣
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 18:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 18:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
