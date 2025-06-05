@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/wvzGGc135Ek?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8149e2289f85de70f8b60f9107980e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b219302051777a15f2174efaa579816.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f95f065c8398d7119d78abb7aa0fdbf368d68a6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博のレジオネラ属菌最大20倍　海水から、水上ショー中止
+      <a href=https://news.yahoo.co.jp/articles/7a693f2d4a718ec680bb115f7000e4fdf6fd1caa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982444-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカ・トランプ大統領がロシア・プーチン大統領と電話会談…ウクライナのロシア基地への大規模攻撃などめぐり　「即時和平につながるものではなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a5ac00f7e97cab9ba239351dcb6131fb51231e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コカイン使用疑いで再逮捕　「日本駆け込み寺」元事務局長
+      <a href=https://news.yahoo.co.jp/articles/b335a4343d32463fab467598910b5e1cdad85a28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00051587-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博会場で基準値２０倍のレジオネラ属菌　「水しぶきがかかることはありえる」発熱や肺炎リスク　保健所の助言で水上ショー中止に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6935b592a60b30871407f28d9fd6517c2513b9df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982440-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 国交省が日本郵便2500台のトラック事業許可を6月中にも取り消す方針…配達前点呼が適切に行われず　大手事業者の取り消しは異例
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a106b9d3474486c25c673f7137efb7c1309c0a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050071-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=300&ch=300&exp=10800&fmt=webp> プーチン氏、ゼレンスキー氏との会談拒否…鉄道脱線事故をウクライナの「テロ行為」と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b6cc60deda96615ad2cd6b53489bd41e6393865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/91167a54732dbaf6df4aa89726c099063ef41e906b512f56e6949c8e448e2bb9.jpg> コンビニ大手2社 備蓄米が店頭に
+      <a href=https://news.yahoo.co.jp/pickup/6541202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f078eb9e9a32c58d7d23d302dfdb03a61ee8f4404e27545263d0b193d8464b7b.jpg> 2024年の児童虐待死 前年の約2倍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541179>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「イスラム国」13人を逮捕 イラン
+      <a href=https://news.yahoo.co.jp/pickup/6541204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a988b0d15109b3148e15324ad2c8a0d21ad96ef161ea18bec9f477f2e627df7a.jpg> ハーバード新規留学生入国停止 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/67d49531037078540051646726689ddd5211f14ddbab8e7a2a2dd6bc1320ce40.jpg> 異例 郵便トラック許可取り消しへ
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6541205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/242ef8aad863c8ee10d5296f8571a76bcf080e0ed4421cc3fe9b47ce1502f561.jpg> PTA解散が増 新組織作る保護者も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/470c17c39ec5230c52d91c092c1f5e82d58d4fee3683ede381ab2dfe66726dea.jpg> 意識失いタクシー暴走 乗客が操作
+      <a href=https://news.yahoo.co.jp/pickup/6541199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/192a37c639181815766862680efbbb96e8b231ff54986eba806e830df88dac6a.jpg> カレー店倒産 24年度は過去最多
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/521be80f4a1e2b180e9edff17d011cd79c58657d263dbf821beed90ad221f2c8.jpg> 「サイレントヒル」新作 発売決定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 11:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 12:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
