@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9571d9b1515661a4016a1785f98010d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22791a834388effdb4a87e60be9397ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/222bb5ca427394406bd32275889b7872e550af0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-07241209-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 赤沢大臣がアメリカに到着　5回目の日米関税協議へ　現地時間6日にベッセント財務長官らと交渉の見通し
+      <a href=https://news.yahoo.co.jp/articles/874bc9cbebd8b82242cd915da0931eaa6db938c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174378-sdigestw-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=475&ch=475&exp=10800&fmt=webp> 【日本０－１オーストラリア｜採点＆寸評】敵の５バックに大苦戦し、“最悪”の初黒星。最高点は今予選初出場のDF、代表デビュー組の評価は…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a7015d7c3e129fe20f1a428d5b6f916e2079211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00982981-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏×習近平氏　電話会談　「非常にいい会談を行った」
       </a>
     </td>
   </tr>
@@ -367,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad490082448aa8e20d1e021e34d7d2c4a5ae7ef3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00544449-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=600&ch=600&exp=10800&fmt=webp> 阪神ファン絶賛「こういう配慮って素敵」　ベンチから出てきた日本ハム新庄監督の行動が「いい人！」絶賛相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/27a7cb621d48543deb4fad65d91a0b2dee161b18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36051093-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 渡辺直美、13年ぶり単独ライブ開催「いろんなジャンルを」日課はＸでの日本のトレンドチェック
       </a>
     </td>
   </tr>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e935f2688b05f3bf7cfd945eb86892de9c73cfa5e8a26368e1a5c251641d8b88.jpg> 森保ジャパン 最終予選で初黒星
+      <a href=https://news.yahoo.co.jp/pickup/6541290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/bf6e0e4977f8012564f679cb69f11ed7672d76fe7b0b8375b2dcb1e1e619038a.jpg> 豪州に敗戦 久保建英の後悔
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0a579cc6e3541faee3613edcc31b64d12aebaee66c67e87fec70781409c1deff.jpg> 上白石萌音が上映会MC 会場驚き
+      <a href=https://news.yahoo.co.jp/pickup/6541289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c1d1abd790929d8e861bc5759eb6831b773c3044c530b6d28d0b2b35fe84c8ba.jpg> 渡辺直美 米移住で得た精神
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 06:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 06:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
