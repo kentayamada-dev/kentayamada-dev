@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97ea70a52306630cb9f7ad5bb4c3ff4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6c67cf6da47de1649680af104b08eaf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bcb233a23a20cd046f91373a37b90d369c23ed0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031331-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 乱戦の末にキーズを倒したガウフが2年連続3度目の4強入り「乗り越えることができてうれしい」 [フレンチ・オープン／テニス]
+      <a href=https://news.yahoo.co.jp/articles/49124a08b989e77f3ec9eed50b9b55d4bb318925>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010009-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1672&ch=1672&exp=10800&fmt=webp> 小田凱人 熱戦制し4年連続の全仏OP4強、3連覇へあと2勝＜車いすテニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9138f94e2e24e2b832f689f2ccfa9dc999ec6c5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000112-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 人気歌手がコロナ感染で入院してた「後遺症続いており」４公演を延期　
+      <a href=https://news.yahoo.co.jp/articles/c275737847306585a5d3fe042671cd4dbdfe74c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000076-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博協会、菌検出後も人工池の立ち入り禁止せず　子ども入れる状態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86efe42ca23dede98f0288d93f6378b454d33ba3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06361844-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 【万博】「静けさの森」でも基準値20倍の「レジオネラ菌」ウォータープラザから検出、水上ショー中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9c532501ceac95448023423edce2b92051c746e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982651-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領がウクライナへの反撃通告「テロを行う相手と誰が交渉するのか」停戦に否定的な考え示す
+      <a href=https://news.yahoo.co.jp/articles/c72194b5e44c00dc7f3c5537946e8982674dd550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90004951-ishikawa-000-1-thumb.jpg?exp=10800&fmt=webp> 抽選販売でも朝から行列…人気ゲーム機『スイッチ2』発売 当選確率5%の幸運をつかんだ客から歓喜の声
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4b330ce42f3fb6a0efd2ec137e1530006fadd09fd961617fc119d00de6209911.jpg> ネットカジノ運営関与か 9人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/6fc097164af023d2a1c8726ba7aaa8658a721aa93fee2990645aa920b4ba938f.jpg> 小・中学生に性的暴行疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/871cc531e4da50715242f8aeaa867d2e09f853d01d7f9a4d651f2d2cf05ac7a2.jpg> フジテレビ 港前社長らを提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6541259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/770410ea248e116ea8eeec024997ef8a5d76258bb3872b86f9cee8d8c4b854fc.jpg> フジ 中居氏トラブル巡り懲戒処分
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0add75becb38a065ce43906c313bce33326f4b4f30e2b4a5801b2d2a5d14a31b.jpg> 新庄監督 審判団も巻き込み円陣
+      <a href=https://news.yahoo.co.jp/pickup/6541265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/873b8fa0571a58c0b943bb11b3c7afa56a745c5643607e30c834b9997aec6e5c.jpg> Switch2争奪戦 受け取った当選者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a016b57543b0d750fc12fa38827196b01814a431aa70d4fbb787f549c3808ef7.jpg> 舟木一夫 コロナ後遺症で公演延期
+      <a href=https://news.yahoo.co.jp/pickup/6541255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0add75becb38a065ce43906c313bce33326f4b4f30e2b4a5801b2d2a5d14a31b.jpg> 新庄監督 審判団も巻き込み円陣
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 19:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 20:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
