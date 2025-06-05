@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13218b84a8b85aa7128f98a6b3ae9c5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7b373a856834ad41680beb8883cd782.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d671133e56c910e6104609b939a961be6b2d321a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00066240-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博】レジオネラ属菌　先月「静けさの森」でも検出されていた　３０日朝から利用を停止「公表を遅らせた意図ない。現時点で危険性が生じているわけではない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49ab78002560066f65edfb7b6745afbb02771fa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000065-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 待ち伏せて襲ったか 容疑者の父親語る　前橋・路上で女性刺される
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a33ae584a68205edb54e9813ffa53670e0ba643>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000035-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米、国連安保理でガザ停戦決議案に拒否権 理事国からも怒りの声
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39ae9b9a7deed679379f06dcd2fdebfb76776980>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-90019867-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=453&ch=453&exp=10800&fmt=webp> 【速報】「静けさの森」から基準値の20倍のレジオネラ属菌を検出　博覧会協会が会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b9c532501ceac95448023423edce2b92051c746e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00982651-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領がウクライナへの反撃通告「テロを行う相手と誰が交渉するのか」停戦に否定的な考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87a5ea49df74157bd9e9abf3cb7baf3a8a650473>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07241053-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 事件前に「待ち伏せして会う」と父親に伝える　前橋市で介護老人保健施設の女性（49）刺され重体　殺人未遂容疑で男（47）逮捕
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0741205327907b43b7b87c23507a9ac2213e67fce5986142b0316a22b5c6a02a.jpg> 政府 EUと情報保護協定を交渉へ
+      <a href=https://news.yahoo.co.jp/pickup/6541249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a318263bf4d1f1ee8aaab38760be2999d5109fc12a74a1ebd3bbcb19c3c37bb7.jpg> フジテレビ 港前社長らを提訴へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a4e806dd893c094be178c06594c1e4e2ac74ffe6092048dcbb48d659413509a1.jpg> アベノマスク文書不開示 取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6541246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/0741205327907b43b7b87c23507a9ac2213e67fce5986142b0316a22b5c6a02a.jpg> 政府 EUと情報保護協定を交渉へ
       </a>
     </td>
   </tr>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/446b4e4146e37a0872c991fde45e3b2508ddac587f36278fd766211e3dd908a4.jpg> 認知症で不明 死者数の8割5km圏内
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541237>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/6cc463ba00e383389540478be8ff5281f1bf2cca1ff84a97ed5a1d77c84fee5f.jpg> 芥川賞作家 アウティング巡り提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/161579aeaea6ead78aa2f9d9d6874d201cccab9cfdcd080ea6d7a266ced2b76b.jpg> ダイハツ 新型「ムーヴ」発売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e832cf8737f10b73046918ebd26841ab190ded688729f2deb27a826a6181fdba.jpg> 面接音声投稿サービス 波紋広がる
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/57da49b88d30e315de5128b884f0f16fc042c363d247451cfb63236d95c75e15.jpg> NEWS増田 会見で元気な姿みせる
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 17:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 18:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
