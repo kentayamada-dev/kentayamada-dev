@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61b9549efe5d3ccf82c0e8a1866796f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/808139732fb88812264f0b5e634c45d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/270719d20becad9268589bd6e74d5b1ffe8deb59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000139-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 万博会場でレジオネラ属菌検出、報告から1週間以上後に公表　後手に回った対応に苦言
+      <a href=https://news.yahoo.co.jp/articles/d319eb23d938bba727764928901cdd5f408c289f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010018-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・レジオネラ属菌検出の水辺　検出後『ほぼ丸1日』来場者が立ち入られる状態に　把握後すぐに公表せず　博覧会協会
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c687c42a68ceb15f2af19059a603dec32f64ada9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000261-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】宮城の女性保育士殺害認める供述　逮捕の21歳男、海岸遺棄も
+      <a href=https://news.yahoo.co.jp/articles/386064d847616f5d19e61db0693671bb3a77998d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000014-ryu-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 走行中に降車強要、元夫を殺害の疑い　沖縄市の女逮捕
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/759b15914488166c57579ce526d252fbb34db124>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000080-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 卸売業者間でコメ価格下落、随意契約の影響か　小売に波及する可能性
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000080-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 卸売業者間でコメ価格下落、随意契約の影響か　小売に波及する可能性
       </a>
     </td>
   </tr>
@@ -394,22 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/98414c8618a8905749ff8bbae54cdcba384ff357a5858c525a1065f82e40b415.jpg> 皇族養子案の棚上げ許さず 麻生氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541268>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生殖補助法は審議見送りへ 廃案か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541276>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a8361d27b5099c730a2c844150d60c547b1d1a3e29cbc2ab17bdb8fd179f6d82.jpg> コメ取引価格下落 随意契約影響か
       </a>
@@ -418,16 +402,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/79832e07a1a98b1583f2a174465116b16508cc3d8f9ed0f45234d65506131a9f.jpg> 保育士遺体 男が容疑認める供述
+      <a href=https://news.yahoo.co.jp/pickup/6541270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/98414c8618a8905749ff8bbae54cdcba384ff357a5858c525a1065f82e40b415.jpg> 皇族養子案の棚上げ許さず 麻生氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/6fc097164af023d2a1c8726ba7aaa8658a721aa93fee2990645aa920b4ba938f.jpg> 小・中学生に性的暴行疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/611ee5bce2fa90a8a0e563ca8a64c01d45db62ae5575ac9e502c3d7c4924260b.jpg> 車から転落させ殺害疑い 女逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01b259491f3b9693657f3f0e4b0add997fbe8590000712b68faf631ed8a11320.jpg> 中国の2邦人殺害 投資で恨みか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/acca0ecf3c585867d20a8ac3285dfb55e018dce379b6f2ed1566813c1c1c5b26.jpg> 日本郵便に重い処分 集配どうなる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 21:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 22:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
