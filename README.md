@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7814e02ccca9d11e6798374fc7ceab91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ebd44518ff637a75ef52f2b6927ebd11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31084c9dbfc8b031126b208acb679f7f38b9261d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】「首を負傷している」千葉市の病院で医師が男に刺される　会話できる状態
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49565402db4ee425319c2295793039c2e366333f>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c0d8f184143369ebe0d124f0a605d1dabd9b21c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-10546596-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カブス傘下の前田健太が5回2安打無失点の好投　移籍後4戦目でマイナー初白星
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2f81144e367ea1a0ea37359045b614abf6f7a882948ce30b24c4ec5f31071a4d.jpg> 病院で医師が切りつけられる 千葉
+      <a href=https://news.yahoo.co.jp/pickup/6541225>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 医師が患者に切りつけられる 千葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea49df28e17cd422102dc6a48c7d9ee3939fb15ead881d5af7278366968a9f12.jpg> 日本駆け込み寺元事務局長 再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/16a3004db7f6fb913522a441ee83173afe619100824d76ba7a97783f505135a3.jpg> 東名に車転落 男から違法薬物検出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4490184d5cbaafbe781dd8ac3894f165494cb980615d1ebbc5f3054b1ad8d3bd.jpg> 英語キャンプ中止問題 行政処分へ
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541218>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/343f104090891410fb0a2404c0125c22614b126b673f3fd85f96fbbd93e69b41.jpg> マエケン初勝利 4度目登板で好投
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ec948f0bd8b466d8a7a6472f930853c674f9e01a3b7e2c77555dee426e18710e.jpg> 大谷娘に子供用ポルシェ 監督贈る
+      <a href=https://news.yahoo.co.jp/pickup/6541224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/343f104090891410fb0a2404c0125c22614b126b673f3fd85f96fbbd93e69b41.jpg> マエケン初勝利 5回を2安打無失点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 13:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 14:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
