@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe025f6578216917df7b8f51a73476a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fd2fdc6f0815b698e786b3cc2dae05b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01d1c9a94e520b862b27b7d89d6fa8631461dc27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1004&ch=1004&exp=10800&fmt=webp> 米中首脳が電話協議　貿易問題に焦点、トランプ氏「前向きな結論」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 米中首脳が電話協議　貿易問題に焦点、トランプ氏「前向きな結論」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/9b52fc65d3271bf55361f5c767bc2620c8499f5271697fe9733f12f87e08e054.jpg> 米中首脳が電話協議 関税テーマか
+      <a href=https://news.yahoo.co.jp/pickup/6541288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/63a31f9706fe56fd912f11dee890eda487d3b9f1af77eeb376633d01cbbb663d.jpg> 米中首脳 貿易問題を巡り電話協議
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 02:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 02:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
