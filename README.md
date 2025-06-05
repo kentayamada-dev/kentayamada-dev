@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/656d3c38e9ccb41f74aa569bc0f01038.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe025f6578216917df7b8f51a73476a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76ba99611bfc9ff50d0d442456f70011cafbecca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050183-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 米中関税交渉、近く実務者協議へ…習近平氏と電話会談のトランプ氏「両国にとって非常に前向きな結果」
+      <a href=https://news.yahoo.co.jp/articles/01d1c9a94e520b862b27b7d89d6fa8631461dc27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1004&ch=1004&exp=10800&fmt=webp> 米中首脳が電話協議　貿易問題に焦点、トランプ氏「前向きな結論」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cc831bf98fcfea06e340311377dadffa68db862>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-06491921-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「コメ流通の全てを総ざらい」 　初の関係閣僚会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d204b3ebe86c4f09fbcc10687855572ffcfcbf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000027-eiga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 上白石萌音、「ラブ・イン・ザ・ビッグシティ」舞台挨拶でMCに！「すみません、ファンです」と愛情あふれる
+      <a href=https://news.yahoo.co.jp/articles/0172701b418107ac1a03cc9852829a2bdd64c463>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000090-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 阪神・佐藤輝明、豪快に100号　記録への思い「全くない」けど…
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 01:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 02:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
