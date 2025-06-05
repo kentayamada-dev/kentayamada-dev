@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b7c78904ef5d812cd1cf86bbb84c458.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9571d9b1515661a4016a1785f98010d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35727cd8a354c28941c1b0ab4846ec3a88ea0fda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000042-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 阪神・佐藤輝　「手を消す」意識浸透　下半身と上半身理想の連動性を手に入れ通算100号到達
+      <a href=https://news.yahoo.co.jp/articles/222bb5ca427394406bd32275889b7872e550af0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-07241209-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 赤沢大臣がアメリカに到着　5回目の日米関税協議へ　現地時間6日にベッセント財務長官らと交渉の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bfd30ec31025a580f6f8c720f875ebf0de896f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 習近平氏「貿易協議の合意尊重を」トランプ氏との電話会談　「台湾」にも言及
+      <a href=https://news.yahoo.co.jp/articles/ad490082448aa8e20d1e021e34d7d2c4a5ae7ef3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00544449-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=600&ch=600&exp=10800&fmt=webp> 阪神ファン絶賛「こういう配慮って素敵」　ベンチから出てきた日本ハム新庄監督の行動が「いい人！」絶賛相次ぐ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 05:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 06:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
