@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/598dea412730d792aa1a96a7d6a3aed1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9d5148fc406a2da7f7764158430fe89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8db9eabe3b2e0fcb9d92d373a402a8c26fd7cde7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00014791-netkeizai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 国交省、日本郵便の運送事業許可を取消へ 関係者「配送できない可能性は低いが影響も」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f652700a99867e7f93bed3587210c9c8dba13e2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050210-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=400&ch=400&exp=10800&fmt=webp> かつて「史上最低の農相」と言われた石破首相、コメ政策転換に再挑戦…小泉農相の突破力に期待　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6eba47025d3122994cc1bcd0a53583deeeb7a30f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174384-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「過信した」「後悔している」まさかの敗戦に茫然…“日本の10番”久保建英が悔やんだ２つのプレー「すごく責任を感じる」「後味が悪い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ce7f1cb63a49fe0fbd5d0fbb181af01929ab10a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182171-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 「ある時点で夫人と一緒に中国に行くだろう」トランプ大統領、習主席と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/348171737c5d572b876dd0dc73737153a1461d5e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36051997-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=182&cw=1071&ch=1071&exp=10800&fmt=webp> 【阪神】通算100号達成の佐藤輝明「環境に恵まれた」アーチストの原点となった小学校時代とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7d9ffc7a2969ca0c2ac5d386b00b50289116ac7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050032-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博レジオネラ属菌、静けさの森の人工池からも…しぶき吸い込むと肺炎の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/874bc9cbebd8b82242cd915da0931eaa6db938c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174378-sdigestw-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=475&ch=475&exp=10800&fmt=webp> 【日本０－１オーストラリア｜採点＆寸評】敵の５バックに大苦戦し、“最悪”の初黒星。最高点は今予選初出場のDF、代表デビュー組の評価は…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a7015d7c3e129fe20f1a428d5b6f916e2079211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00982981-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領×習近平氏が電話会談「非常に良い会談行った」　関税政策巡る2度目の閣僚級協議の早期開催で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27a7cb621d48543deb4fad65d91a0b2dee161b18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36051093-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 渡辺直美、13年ぶり単独ライブ開催「いろんなジャンルを」日課はＸでの日本のトレンドチェック
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/23810bc089bf0e7e20eb96520bb0a41dd871221adafd02067c38a5ed9baf5397.jpg> 車にはねられ女性死亡 92歳逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/4194af8efcbb6461ec2fd70bbb66c550142d63f85016b75b47146f2be7105128.jpg> 日本郵便の違反点数 基準の2.5倍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/acca0ecf3c585867d20a8ac3285dfb55e018dce379b6f2ed1566813c1c1c5b26.jpg> 日本郵便に重い処分 集配どうなる
+      <a href=https://news.yahoo.co.jp/pickup/6541279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/23810bc089bf0e7e20eb96520bb0a41dd871221adafd02067c38a5ed9baf5397.jpg> 車にはねられ女性死亡 92歳逮捕
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f538ef368ee22dfc0f92e8c3350d5b56844c32e3e78920c6392f1ceba7918ad8.jpg> 「家族の日」独自に設定 園の配慮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541290>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/bf6e0e4977f8012564f679cb69f11ed7672d76fe7b0b8375b2dcb1e1e619038a.jpg> 豪州に敗戦 久保建英の後悔
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea932e17dab694c2e0cfc355ac409491f0f9f0e3dcacf93ce0a332cad3b0e191.jpg> 岩田剛典 EXILEの活動終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c1d1abd790929d8e861bc5759eb6831b773c3044c530b6d28d0b2b35fe84c8ba.jpg> 渡辺直美 米移住で得た精神
+      <a href=https://news.yahoo.co.jp/pickup/6541293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b0e4ed04328be81e625f240666ee2fe7194f148ce404ea9280c966674a9bbb82.jpg> 白濱亜嵐 EXILEの活動を当面休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 07:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 07:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
