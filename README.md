@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b201d2cd382c62e1e680a761285acabd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22e67e8b0a01849ab6d542aed19cf88b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98f1183ac9018eaa1ce7d164551ef7907cd8971a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> AI関連会社に強制調査　循環取引で売り上げ過大計上疑い
+      <a href=https://news.yahoo.co.jp/articles/1b6cc60deda96615ad2cd6b53489bd41e6393865>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国連安保理、ガザの即時停戦決議案否決　再び米国だけが拒否権を発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5df855d1d7a04e68696a6f04f3b9dedff1bee58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00010004-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=1862&ch=1862&exp=10800&fmt=webp> ジョコビッチは「過小評価されている」 ズべレフ語る「彼の時代は終わったと思っている人が多いが...」＜全仏オープン＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ee044522aa1b0bc60fa4c5e109e34df7f8b9d009>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-07142144-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】大阪・関西万博4日（水）一般来場者は11万5000人　レジオネラで水上ショー中止も
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07cc2091c4e5bf8bd70c9ceb30eab66575607fb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000034-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> メキシコ、鉄鋼関税巡り米と合意できなければ来週「措置」発表へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd03d24dd81f0123c3eb8f6380fb276832358134>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000037-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 米、ガザ決議案に拒否権　飢餓打開へ非常任10カ国が提案　国連安保理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d6af9b91fb221c121b84db7bef6cf82da3afe8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050047-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 全仏オープンで地元の世界３６１位が４強、２戦連続トップ１０撃破…「夢は準決勝を戦うことでない」
+      <a href=https://news.yahoo.co.jp/articles/132bb868ebdc747cb7ad0ef0811c55ac16a407a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250604-00000266-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=963&ch=963&exp=10800&fmt=webp> 日本ハムD5位・山県秀がプロ1号！母校・早大Vに「勇気と感動」弾　「野球人生で一番気持ちがいい瞬間」
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/abc28ef8aeaec1f773983b59fba32f3657ec2ba785f670c9233c2a5800803eb0.jpg> 安保理 ガザ即時停戦決議案を否決
+      <a href=https://news.yahoo.co.jp/pickup/6541192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/907acebc451cc8e63f66724e20345b8be3ab9036d1fcd5f183e04b471aab002a.jpg> 金正恩氏 ロシアを「無条件支持」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/4438a72cfc1dccc086fdfa5cf03945218e74ba5fc6a0f0b9bfc7f05c8dcc1d32.jpg> 海外研究者招へい強化へ 首相表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/01a546aab7e24bff75fa2e949d70f5aa23c4ff92cc20cb76c139dc00687c5506.jpg> 日本郵便 運送事業許可取り消しへ
+      <a href=https://news.yahoo.co.jp/pickup/6541187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/91167a54732dbaf6df4aa89726c099063ef41e906b512f56e6949c8e448e2bb9.jpg> コンビニ大手2社 備蓄米が店頭に
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/c5072eacb1b04e76316da59ad4d2119a88d4c52fb9a81b88ddc1d8734850bfc0.jpg> 女性重体 男は待ち伏せし刺したか
+      <a href=https://news.yahoo.co.jp/pickup/6541191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/da00cad8b87c37c5dfe6449009f3bc50e6cc0e73794f5e2668f1110721987505.jpg> AIわいせつ商品転売疑い 書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/da00cad8b87c37c5dfe6449009f3bc50e6cc0e73794f5e2668f1110721987505.jpg> AIわいせつ商品転売疑い 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6541184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/f3c73152a3ee7648cbe31b77dc4ed93023054320d13a35d018e8255aec02cb80.jpg> AI企業「オルツ」決算粉飾の疑い
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/b856554d5c0bc8bbe5eeee59383ec6bec28228e99fa15deb7f66043f20b0d0e5.jpg> 新庄氏 球児氏とグータッチの真意
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 09:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 10:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
