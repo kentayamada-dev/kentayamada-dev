@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbEJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c8a43fec14f285ea75a424149f5cf61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7814e02ccca9d11e6798374fc7ceab91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbf502d95be02a2afd17de42a6af8003d608f642>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-16314611-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=576&ch=576&exp=10800&fmt=webp> プーチン氏はウクライナのドローン攻撃への「報復を強調」とトランプ氏　電話協議後に投稿
+      <a href=https://news.yahoo.co.jp/articles/49565402db4ee425319c2295793039c2e366333f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00031318-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ファイナル進出なしで丸1年のシフィオンテク が世界1位サバレンカに対する準決勝に到達「アーニャとの対決は常にチャンレンジ」 [フレンチ・オープン／テニス]
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78c964f7e157b6f311617b4d25cf120b8f741277>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000102-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=155&cw=690&ch=690&exp=10800&fmt=webp> カジノ決済システム運営か　国内組織の幹部ら9人逮捕
+      <a href=https://news.yahoo.co.jp/articles/dbf502d95be02a2afd17de42a6af8003d608f642>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-16314611-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=576&ch=576&exp=10800&fmt=webp> プーチン氏はウクライナのドローン攻撃への「報復を強調」とトランプ氏　電話協議後に投稿
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5231e39a1ac0e2ab5a3ecd39e7086f4b219e0f5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00000038-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=445&ch=445&exp=10800&fmt=webp> ファミマ、ローソンが小分けで備蓄米を発売
+      <a href=https://news.yahoo.co.jp/articles/6c0d8f184143369ebe0d124f0a605d1dabd9b21c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-10546596-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カブス傘下の前田健太が5回2安打無失点の好投　移籍後4戦目でマイナー初白星
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/a988b0d15109b3148e15324ad2c8a0d21ad96ef161ea18bec9f477f2e627df7a.jpg> ハーバード新規留学生入国停止 米
+      <a href=https://news.yahoo.co.jp/pickup/6541219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/13f722b7234b1433df92602de355377c4bf88fcd8a65d98784f9e57457e23e89.jpg> 内閣不信任案 終盤国会で焦点
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea49df28e17cd422102dc6a48c7d9ee3939fb15ead881d5af7278366968a9f12.jpg> 日本駆け込み寺元事務局長 再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/2f81144e367ea1a0ea37359045b614abf6f7a882948ce30b24c4ec5f31071a4d.jpg> 病院で医師が切りつけられる 千葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/242ef8aad863c8ee10d5296f8571a76bcf080e0ed4421cc3fe9b47ce1502f561.jpg> PTA解散が増 新組織作る保護者も
+      <a href=https://news.yahoo.co.jp/pickup/6541203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ea49df28e17cd422102dc6a48c7d9ee3939fb15ead881d5af7278366968a9f12.jpg> 日本駆け込み寺元事務局長 再逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ec948f0bd8b466d8a7a6472f930853c674f9e01a3b7e2c77555dee426e18710e.jpg> 大谷娘に子供用ポルシェ 監督贈る
+      <a href=https://news.yahoo.co.jp/pickup/6541218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/343f104090891410fb0a2404c0125c22614b126b673f3fd85f96fbbd93e69b41.jpg> マエケン初勝利 4度目登板で好投
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/e46284c304766041707c7e47f687c6f5aee9d56e41410f44c8f3c98ef9936ebf.jpg> 88歳父主演 家族3世代映画が話題
+      <a href=https://news.yahoo.co.jp/pickup/6541211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/5/ec948f0bd8b466d8a7a6472f930853c674f9e01a3b7e2c77555dee426e18710e.jpg> 大谷娘に子供用ポルシェ 監督贈る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/05 13:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/05 13:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
