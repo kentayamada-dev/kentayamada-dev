@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a73af80145fda5848d12a783bb8368d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af27d600356324a90aac17a9b8a0d63a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f5c0a100e761a04055b75f932d6bdf6c5fe8970>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000024-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=382&ch=382&exp=10800&fmt=webp> ispaceのレジリエンスランダーは月面に衝突か　「確認は困難」、ミッション2は終了に
+      <a href=https://news.yahoo.co.jp/articles/d93645598d1b9c0feea2aa8b4b76b9a2f899ffc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90051328-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ファイターズ】新庄監督がタイガース佐藤輝明のプロ通算100号を祝福「ゾーン・輝を作ってあげて」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/215b4d884528c2e5a5b06a2ed5dd08a8ce2d5859>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061049-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=860&ch=860&exp=10800&fmt=webp> 「近くにいた父親が野球をやるたびにどんどん離れていったような感覚」…長嶋一茂、「モーニングショー」で「野球人」茂雄さんへの思いを告白「存在が偉大過ぎた」
+      <a href=https://news.yahoo.co.jp/articles/0cd8930cd460b6eabd96c1d3cdf241dc7045d433>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010001-sorae_jp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ispaceが月着陸機「レジリエンス」のミッション終了を発表　通信回復せず着陸確認困難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48b39d0517f1e8e8c5333d87f4a95432d6fd1ba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061058-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> 「キャッチボールは父親と１時間でも２時間でもずっとできた」…長嶋一茂「モーニングショー」で父・茂雄さんとの人生「最大の思い出」を告白
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46bcf486c4baa759011901eb156ae13e2a6b30b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010002-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1622&ch=1622&exp=10800&fmt=webp> 小泉農相に求める政策は？　納得いく米価、所得補償...　「農家の特報班」緊急調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6eba47025d3122994cc1bcd0a53583deeeb7a30f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174384-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 「過信した」「後悔している」まさかの敗戦に茫然…“日本の10番”久保建英が悔やんだ２つのプレー「すごく責任を感じる」「後味が悪い」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f1840849464fd704f6b888b77df9a59b16d0def727fb05c8d81d4de3b16b666c.jpg> 相模原で窃盗続く 防カメに不審者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/1ac3a747eb42aae1d1efc51b6965af7b647100c02c9040b747d328b728822e5b.jpg> 1日中「0円サービス」名古屋喫茶
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b43d5fc3195624166f3423bf80e0c4abe1f6fdee1a5c8a978786e9325ab84f29.jpg> 白濱亜嵐 EXILEの活動を当面休止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 10:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 10:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
