@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c7efc91a5ae18f1b4bd570ee719d0a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cb4bb0530500cd50743be3fa8c77913.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f86d40f16b52eb9a8454d98b0314c00b2a255c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000408-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 阪神・小幡が冷静に判断　広岡のスライディングに対し「アピールして」
+      <a href=https://news.yahoo.co.jp/articles/75af0a1f048376edfdab4ef1485f2e73f9009d95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ、水俣病誤記で再発防止策　教材確認者を増員
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0feff4f9ebcc9a51a1686f145f362e9211d82cc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/63a55a5491d522d332fda5a136e332e349b3bddb46c439524c67ac23af7db943.jpg> 水道基本料を3カ月間0円に 大阪市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b630aad632e713e181a4fe1420aafa6aa7d70350598aedb7ae1e0d5089ff003e.jpg> マンションから転落か 4歳が死亡
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/9542c10ae90a6a11dafe0644c30e33f12a8b3f7d8efe0633867f5d2b6e1ddf98.jpg> 将棋連盟の新会長に清水女流七段
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/040e80bc55605498940388a105fd7debb37fc438ef734b9bc8f1e8aaa102b42c.jpg> 県議の海外視察 人が集まらず中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541381>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/458862c15b5a27ffee923d6d350b690b8981858ba048201653611994ffcafd97.jpg> オリ広岡に「警告」怒号飛び交う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ae38dc73f6a60deac894546a97124bdf63da482903e533dd0c37539f1a4259be.jpg> [Alexandros]公演前日に延期発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 23:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 23:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
