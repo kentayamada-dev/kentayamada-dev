@@ -8,7 +8,7 @@ import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
 import { ArticleLink } from '@/components/designSystem/molecules';
-import { Article, ArticleLikeButton } from '@/components/designSystem/organisms';
+import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
@@ -111,7 +111,7 @@ const Page: ArticlePageType = async (props) => {
           updatedAt={new Date(article.sys.publishedAt)}
         />
         <div className='mt-5'>
-          <ArticleLikeButton likeCount={articleLikeCount} likeKey={likeKey} locale={locale} />
+          <LikeButtonWrapper likeCount={articleLikeCount} likeKey={likeKey} locale={locale} />
         </div>
         <div className='mt-20 w-full px-5 sm:px-0'>
           <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{articlesDict.recommend}</h2>

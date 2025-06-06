@@ -2,9 +2,9 @@
 
 import { LikeButton } from '@/components/designSystem/molecules';
 import { incrementCount } from '@/lib/nextjs/actions';
-import type { ArticleLikeButtonType } from './types';
+import type { LikeButtonWrapperType } from './types';
 
-const ArticleLikeButton: ArticleLikeButtonType = (props) => {
+const LikeButtonWrapper: LikeButtonWrapperType = (props) => {
   const onLike = (): void => {
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
@@ -15,4 +15,4 @@ const ArticleLikeButton: ArticleLikeButtonType = (props) => {
   return <LikeButton likeCount={props.likeCount} locale={props.locale} onLike={onLike} />;
 };
 
-export { ArticleLikeButton };
+export { LikeButtonWrapper };

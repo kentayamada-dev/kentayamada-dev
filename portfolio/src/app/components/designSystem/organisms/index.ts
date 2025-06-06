@@ -1,9 +1,9 @@
 export { Article } from './article';
-export { ArticleLikeButton } from './articleLikeButton';
 export { Calculator } from './calculator';
 export { ContactForm } from './contactForm';
 export { Footer } from './footer';
 export { Header } from './header';
 export { HomeArticleList } from './homeArticleList';
 export { HomeIntro } from './homeIntro';
+export { LikeButtonWrapper } from './likeButtonWrapper';
 export { WhackMole } from './whackMole';
