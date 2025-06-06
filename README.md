@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da35293aee81fe22597bd36c9b932da6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09ea41a04b35b5d1062ee8649b12ba03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c228dec0d8ffd8764e4f7bc5ba16db63e6b69cc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-04489911-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東電旧経営陣の賠償責任認めず…1審判決取り消し　福島原発事故めぐり　東京高裁
+      <a href=https://news.yahoo.co.jp/articles/b36e53aca7ab3502aa75911278cff4a4216a9333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「ハーバード新規留学生遮断」に米裁判所がすぐにブレーキ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84aec2163c22185d29cba9f6183ed3863826faa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36060581-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【全文】小山慶一郎＆宇野実彩子夫妻に第１子「いとおしくてたまらなく」「愛し続けていく決意」
+      <a href=https://news.yahoo.co.jp/articles/7239e88db1abd19b4d30039d40deb706730fece6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-01944628-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 裁判長「巨大津波予見できず」東電株主代表訴訟…一審判決取り消し　福島
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9583ee42705b097253432efc436677a830089cc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000068-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 赤沢担当相、ラトニック米商務長官と会談　自動車輸出で協力提案
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000068-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 赤沢担当相、ラトニック米商務長官と会談　自動車輸出で協力提案
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/cb094244bf44f5114693d38509212c0e36afdb59001fa4379605e6b629c14729.jpg> 東電株主側が逆転敗訴 法廷に怒号
+      <a href=https://news.yahoo.co.jp/pickup/6541336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c6904c35023b782e41a6270de21c8bd5ffefd18ce3cd70145d2102ad43bea57e.jpg> 内閣不信任案 野田氏が他党けん制
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/59d7b829b3672f7152fa88412a205a83605e28f7504de4b9be4f826029e28391.jpg> TDR運営 チケット価格見直しも
+      <a href=https://news.yahoo.co.jp/pickup/6541334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7efedcad74134f8a6bf712e6ae4bfb148d91a0baed681f36ac0ab397bb60cd5c.jpg> キハダマグロ 関東で水揚げ10倍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7efedcad74134f8a6bf712e6ae4bfb148d91a0baed681f36ac0ab397bb60cd5c.jpg> キハダマグロ 関東で水揚げ10倍
+      <a href=https://news.yahoo.co.jp/pickup/6541330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/0c5560704488e6a5e17a5dc403befe6c69595816b857908f044f65ffb0e33042.jpg> 街角で増殖する生搾り自販機 狙い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 15:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 15:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
