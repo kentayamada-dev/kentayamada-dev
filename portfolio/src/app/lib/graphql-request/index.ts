@@ -190,7 +190,7 @@ const getArticles: GetArticlesType = cache(async (locale) => {
   const articles = (
     await apiRequest<ArticlesResponseType>('contentful', query, {
       locale,
-      order: 'sys_publishedAt_DESC'
+      order: 'sys_publishedAt_ASC'
     })
   ).articleCollection.items;
 
