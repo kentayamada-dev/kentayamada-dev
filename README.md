@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4e23e5fe18a5d996d5b54a963630f59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70f406e8a8ee23a22ac28858be7256dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3028ff1d002cdbeaa7aba730781eecfba453577e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000131-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 長嶋一茂、父・茂雄さんからの戦力外通告に「父親にさせてはいけなかった」悔やむ　生放送で15分追悼
+      <a href=https://news.yahoo.co.jp/articles/ef4b72c9b27ebcc590695e0e41edb4ae0cf66d11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36060197-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 長嶋一茂、「家族としてお許しいただきたいけれど…」妹・三奈さんらとの病室での会話明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56c1730f231e28740f4bee93277655e2afb9ca1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中首脳、関税協議の早期開催で一致　トランプ氏「前向きな結論」　レアアース問題に進展か
+      <a href=https://news.yahoo.co.jp/articles/08d0f82df50d72d51fac4d19eb27a11686b0dac2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000003-uchubiz-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 【速報】ispace、2度目の再挑戦も月面着陸に失敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9269210df219bc7a7bd40544b1c33c348a61c4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-03874734-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生担当相、米ラトニック商務長官との会談に臨む
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13809924da07916f3e85eb965979511de2896feb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本の宇宙船、月面で通信途絶　着陸の成否不明、アイスペースが状況の確認急ぐ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/06365373a49ac357fbc45f5efe4b95f9196a91afdf5205a0799b1d9ddac9722d.jpg> 政府 コメの「生産調整」見直しへ
+      <a href=https://news.yahoo.co.jp/pickup/6541307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6453bba357122decb58ca3f624afabd823a1333f85cc434eb547ef03a03eb8cb.jpg> 関税交渉 米が引き下げに柔軟姿勢
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c3b54ecf08573f22f90c67c933d89cf80866e221a1972fb8c4a66152090ffa5f.jpg> 国内投資40年度に200兆円 政府案
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/a01d12f5af5643cd2fbb5f5c47d66582256913bc44c80e7851c3818bd5599075.jpg> 国内投資40年度に200兆円 政府案
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 09:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 09:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
