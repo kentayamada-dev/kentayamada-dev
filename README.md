@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cb4bb0530500cd50743be3fa8c77913.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/099b42388d338eb263a83ec87cca995d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75af0a1f048376edfdab4ef1485f2e73f9009d95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ、水俣病誤記で再発防止策　教材確認者を増員
+      <a href=https://news.yahoo.co.jp/articles/ef8f08814877b5b586b24c70451e3f40fd245c7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050182-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 福島第一原発事故、東電旧経営陣の賠償責任を否定…東京高裁判決「津波予測できず」と１３兆円支払い命令取り消す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ab2b531fbc07708eacb8d79734058d6db6bd7fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00002801-kfb-000-1-thumb.jpg?exp=10800&fmt=webp> 東京電力株主代表訴訟の控訴審は原告が逆転敗訴　一審では13兆3,000億円の支払いを命じるも…原告団は「本当に信じられない」（福島）
+      <a href=https://news.yahoo.co.jp/articles/bbad54cf8b8c50df40208e28235472a0a8fdb79b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博水上ショー、レジオネラ菌で中止継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75af0a1f048376edfdab4ef1485f2e73f9009d95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ、水俣病誤記で再発防止策　教材確認者を増員
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bba93c3c5a2438befc1d4424a479c06f50e0855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岩田剛典がEXILE卒業“兼任”多さで指摘されるアイドルグループとの“類似点”家業の役職も併せ持つ多忙ぶり
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/82758a9beae06041d4383adbac370c2c061bee98c01b94d229692ba81e3e1a80.jpg> ANAHD傘下4社 49億円過剰に収受
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/63a55a5491d522d332fda5a136e332e349b3bddb46c439524c67ac23af7db943.jpg> 水道基本料を3カ月間0円に 大阪市
+      <a href=https://news.yahoo.co.jp/pickup/6541384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b799ffda1dae0a6b62ea38977f6ea01b3e2895e224f0f34430bf629c4598c70d.jpg> 水俣病誤表記 トライが再発防止策
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/2/1/1612154937_1612154920_aflo_24231308.jpg> ミャンマー 暗殺巡り6歳女児拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541381>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/458862c15b5a27ffee923d6d350b690b8981858ba048201653611994ffcafd97.jpg> オリ広岡に「警告」怒号飛び交う
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 23:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 23:52:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
