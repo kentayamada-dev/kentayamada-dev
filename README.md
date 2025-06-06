@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/539e00aaa47e2a9ff0df194ed7ecf2cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94d0d0615d7496ce5edc677311afcf9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a7e5638f6ba127cbd57ca56bc730bd6b7ef3462>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00584399-etalent-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=630&ch=630&exp=10800&fmt=webp> EXILEの活動終了の岩田剛典、パフォーマー・俳優・ソロアーティストとして磨いてきた表現と今後への期待
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e62b9bfeb71a066b079ce96dbbb4b3c3e1a03ca1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000301-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 侍ジャパン前監督の栗山英樹氏が長嶋茂雄さん弔問　ミスターに託された「高校野球をとにかく守りなさい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4af45fa9ebf7bb65b7720236a7053c742c5cff20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 結果回避可能性は「検討の必要なし」　東電旧経営陣への賠償取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccb83a719891aae9e4b9da2cbab0935ed983b1de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90028428-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 原告側が逆転敗訴　東電旧経営陣の13兆円賠償取り消し　株主代表訴訟の控訴審判決　ポイントは予見可能性
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad9606c429800d093aaa8c9fcb2b423d43a494d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010018-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1134&ch=1134&exp=10800&fmt=webp> 豪州との間にあった“温度差”　森保ジャパンの敗戦に韓国メディアも困惑「初めから勝負度外視」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20815579dc233a9e827e01b85be553eb37c10bdc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-05747826-rkckochi-000-2-thumb.jpg?exp=10800&fmt=webp> 大都市圏を中心に始まった備蓄米の販売 県内は6月中旬以降か 入札方式の備蓄米を使ったブレンド米は一部量販店で販売【高知】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a431c8bf9acb39ef6d81eb1128db621724c6401>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000116-dal-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1490&ch=1490&exp=10800&fmt=webp> 【全文⑤】長嶋一茂　父の最期の日「よく覚えてない」父は野球の星に帰った、はさんまとの会話だった　ＴＶで明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b60ffab8dd1c51fbe7ddc1d643291dbc0be11411>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000214-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 価格見直し「国民生活見極める」　ディズニー、単なる値上げ考えず
       </a>
     </td>
   </tr>
@@ -411,23 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541351>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 自民 参院比例に岸博幸氏を擁立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3d773e07e9578d4f2aaa9f4b1527787df0e1b524e4397de84ef981cdabcb107c.jpg> 5歳がマンションから転落か 重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f7ad234a304030b653b3f3f21a86d0f53403c2577677ecf47b9350f631056adc.jpg> 辞めるのをやめた副議長 電撃辞職
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c283d83d81c32cb48fa75da0422d30dec1d2ffe951834967eac9bcc0e2573a46.jpg> 自民 参院比例に岸博幸氏を擁立
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/5db470edef04855b03416972ac465ef9176fb317a60ca1f936f2e5569376b35f.jpg> マンション全室民泊申請 反対の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541356>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/34279a9d02427b45021e19b5abe529d364a71d3b4265a811c55bad360983ee07.jpg> TDR「年パス」代わる券種も検討
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 19:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 20:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
