@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/37cbd6fd9e2f0eeed004212df0225dba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/adff15d5f47d66daa5a1c63c466f8b52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29e6385023f1631ab2ea9cf1edac5237799a4b74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「予見可能性認められない」旧経営陣の責任認めない逆転判決　東電株主代表訴訟　東京高裁
+      <a href=https://news.yahoo.co.jp/articles/5b62a88255e1afb2a8a98e51ef7c509b7e9d4418>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪市も水道基本料無償化　物価高で10月分から3カ月
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0feff4f9ebcc9a51a1686f145f362e9211d82cc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7bba93c3c5a2438befc1d4424a479c06f50e0855>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岩田剛典がEXILE卒業“兼任”多さで指摘されるアイドルグループとの“類似点”家業の役職も併せ持つ多忙ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9db8783d0f025628d7508e56398743ae65b828b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本郵便、ゆうパックなど「これまで通り提供する」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/4c09c33f3383d68f761055c466457609785510a191d7161a6ca8ed48e7caac13.jpg> 夫婦別姓 党議拘束外しに首相慎重
+      <a href=https://news.yahoo.co.jp/pickup/6541362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b1ccde3503210bde839c31373ed7077bbb1112dbc60ec06aa705f6dbdabebfc8.jpg> 東電巡る訴訟 判決に被災者ら落胆
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff9f86cfe65495b1d687d05e8b26e64a07f98de903392f4637cc7f2b7511717a.jpg> ゆうパック廃止を否定 日本郵便
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/e5914d3dffb63cfbcceb61d0d537c4d12db7813a113f3aa21653f3a73d03bbfb.jpg> 米大統領とマスク氏 修復不可能か
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/5db470edef04855b03416972ac465ef9176fb317a60ca1f936f2e5569376b35f.jpg> マンション全室民泊申請 反対の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f75a5e24f9a2d8528852be96dd42d32406bf27b8cbb4f844603e9d828850f8f2.jpg> デッドボール 巨人浅野は不全骨折
+      <a href=https://news.yahoo.co.jp/pickup/6541371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b8ca5900bed717bf1b5afe9d49a0f173fa6050bcdabd9364e7e11f23e418652f.jpg> 阪神・石井 頭に打球直撃し倒れる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 20:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 21:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
