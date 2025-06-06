@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfafb2df69158c974cdf06d4da883a34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bd443501be002a167c2352c2b562be4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
+      <a href=https://news.yahoo.co.jp/articles/3b95b65039bc15c70fc5ea0ef8a1e9801975c9df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> 【阪神】小幡竜平がオリックス・広岡の「守備妨害」に「普通に投げようとしたらぶつかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e844214fd40191dee9cc3f89a8169509ccfdec12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050144-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＡＮＡＨＤと傘下４社に国交省が厳重注意…認可の上限超えて運賃設定、計４９億円過剰に収受
+      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b1ccde3503210bde839c31373ed7077bbb1112dbc60ec06aa705f6dbdabebfc8.jpg> 東電巡る訴訟 判決に被災者ら落胆
+      <a href=https://news.yahoo.co.jp/pickup/6541376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/35d6a676a2e403c92f88656d646139c4405e7f8748cb19ca1d61920eb834f677.jpg> 小泉氏 コメ市場に口先介入強める
       </a>
     </td>
   </tr>
@@ -426,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff9f86cfe65495b1d687d05e8b26e64a07f98de903392f4637cc7f2b7511717a.jpg> ゆうパック廃止を否定 日本郵便
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/e5914d3dffb63cfbcceb61d0d537c4d12db7813a113f3aa21653f3a73d03bbfb.jpg> 米大統領とマスク氏 修復不可能か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541372>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ab590fcf98e9b27ee8511547002311b872d3c93b8e36d1ee4fabb91efdebeaa3.jpg> 小6が体育で睾丸を損傷 緊急手術
       </a>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/82758a9beae06041d4383adbac370c2c061bee98c01b94d229692ba81e3e1a80.jpg> ANAHD傘下4社 49億円過剰に収受
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541377>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7b2a254b755795cd75d2e1567e7ba61dcc786574ed36500fb531f87182d50ce8.jpg> 3.3億円分の金塊 70代が市に寄贈
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/2b71b2a79b653e2d84f3f13bbc74af29729ffdf1cba128bf128305f6531bee22.jpg> UTのジブリコラボ 国内販売なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 22:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 22:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
