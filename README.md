@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2746139f615916d31f17a9e8a963e77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f0df6b74bf91cf674da8980fc014151.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f92c001c345b2231f5daeae9b95b5be021b55a89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-10547708-baseballk-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=632&ch=632&exp=10800&fmt=webp> ソフトバンク、守護神・オスナが痛恨のセーブ失敗…谷繁元信氏「9回もモイネロ続投という考えもあったと思うんですよ…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c23ed0f53a88e8d0ad777173bd5fc2cd3c8525b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
@@ -371,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/566d01a82d9a39aa90411f5b8d4e251866ec5e03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000216-sanspo-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 伊藤智仁の悪夢から32年…ヤクルト、歴史的サヨナラ　モイネロに屈辱18K…敗色濃厚から！オスナ九回同点2ラン＆武岡龍世が延長十回に初劇弾！
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/02782e4bb5a503a87b5261a30a760bc181eed72c41ac6588321dd2fce18a8edb.jpg> 「骨太方針」実質賃金1%上げ目標
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541390>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/35d6a676a2e403c92f88656d646139c4405e7f8748cb19ca1d61920eb834f677.jpg> 小泉氏 コメ市場に口先介入強める
+      <a href=https://news.yahoo.co.jp/pickup/6541393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7c0f72a71b7a60cfcd0faea9c1ae829b49adc935b059540bf8b9eeb7bfcbbf44.jpg> 米大統領「マスク氏正気失った」
       </a>
     </td>
   </tr>
@@ -404,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541389>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/df31bbaa6344bddb1c606f389061d509a9435ee8b18e4cbcc100b7d8771d0368.jpg> 京都市で観光客切り付け 犯人逃走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ab590fcf98e9b27ee8511547002311b872d3c93b8e36d1ee4fabb91efdebeaa3.jpg> 小6が体育で睾丸を損傷 緊急手術
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/953c876d171929c84e18cc2a7c22913bcb9e83182ca501193dcd3c63542a7705.jpg> 息子の前で妻殺され 涙見せない訳
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/963e8ca6bc96419b54c15d5c2c182ffff4c05d07a5fddc267d6618b353191ea2.jpg> 西内まりや 引退のきっかけ語る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 08:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 08:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
