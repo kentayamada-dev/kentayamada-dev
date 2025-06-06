@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bd443501be002a167c2352c2b562be4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c7efc91a5ae18f1b4bd570ee719d0a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b95b65039bc15c70fc5ea0ef8a1e9801975c9df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> 【阪神】小幡竜平がオリックス・広岡の「守備妨害」に「普通に投げようとしたらぶつかった」
+      <a href=https://news.yahoo.co.jp/articles/4f86d40f16b52eb9a8454d98b0314c00b2a255c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000408-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 阪神・小幡が冷静に判断　広岡のスライディングに対し「アピールして」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
+      <a href=https://news.yahoo.co.jp/articles/5ab2b531fbc07708eacb8d79734058d6db6bd7fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00002801-kfb-000-1-thumb.jpg?exp=10800&fmt=webp> 東京電力株主代表訴訟の控訴審は原告が逆転敗訴　一審では13兆3,000億円の支払いを命じるも…原告団は「本当に信じられない」（福島）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63f6ffeb973f76c494e098babc92608ac79b651b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000391-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 清原博弁護士　小泉農相緊急輸入発言は「参院選対策が大きい」　農家は反発？「生産者向けは森山さんが…」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20815579dc233a9e827e01b85be553eb37c10bdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-05747826-rkckochi-000-2-thumb.jpg?exp=10800&fmt=webp> 大都市圏を中心に始まった備蓄米の販売 県内は6月中旬以降か 入札方式の備蓄米を使ったブレンド米は一部量販店で販売【高知】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/1d38b9039aa53fd33ab359d0ffaaac71e1052e19e77d0bdd938f7adcfc69179f.jpg> ガザ 急性栄養失調の幼児が増加
+      <a href=https://news.yahoo.co.jp/pickup/6541374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/82758a9beae06041d4383adbac370c2c061bee98c01b94d229692ba81e3e1a80.jpg> ANAHD傘下4社 49億円過剰に収受
       </a>
     </td>
   </tr>
@@ -434,32 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/82758a9beae06041d4383adbac370c2c061bee98c01b94d229692ba81e3e1a80.jpg> ANAHD傘下4社 49億円過剰に収受
+      <a href=https://news.yahoo.co.jp/pickup/6541382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/953c876d171929c84e18cc2a7c22913bcb9e83182ca501193dcd3c63542a7705.jpg> 息子の前で妻殺され 涙見せない訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7b2a254b755795cd75d2e1567e7ba61dcc786574ed36500fb531f87182d50ce8.jpg> 3.3億円分の金塊 70代が市に寄贈
+      <a href=https://news.yahoo.co.jp/pickup/6541380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/9542c10ae90a6a11dafe0644c30e33f12a8b3f7d8efe0633867f5d2b6e1ddf98.jpg> 将棋連盟の新会長に清水女流七段
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/2b71b2a79b653e2d84f3f13bbc74af29729ffdf1cba128bf128305f6531bee22.jpg> UTのジブリコラボ 国内販売なし
+      <a href=https://news.yahoo.co.jp/pickup/6541358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/040e80bc55605498940388a105fd7debb37fc438ef734b9bc8f1e8aaa102b42c.jpg> 県議の海外視察 人が集まらず中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b8ca5900bed717bf1b5afe9d49a0f173fa6050bcdabd9364e7e11f23e418652f.jpg> 阪神・石井 頭に打球直撃し倒れる
+      <a href=https://news.yahoo.co.jp/pickup/6541381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/458862c15b5a27ffee923d6d350b690b8981858ba048201653611994ffcafd97.jpg> オリ広岡に「警告」怒号飛び交う
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 22:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 23:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
