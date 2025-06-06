@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d450cf18b67ce03795542d4d99b48839.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfafb2df69158c974cdf06d4da883a34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff9f86cfe65495b1d687d05e8b26e64a07f98de903392f4637cc7f2b7511717a.jpg> ゆうパック廃止を否定 日本郵便
+      <a href=https://news.yahoo.co.jp/pickup/6541375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b630aad632e713e181a4fe1420aafa6aa7d70350598aedb7ae1e0d5089ff003e.jpg> マンションから転落か 4歳が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b630aad632e713e181a4fe1420aafa6aa7d70350598aedb7ae1e0d5089ff003e.jpg> マンションから転落か 4歳が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff9f86cfe65495b1d687d05e8b26e64a07f98de903392f4637cc7f2b7511717a.jpg> ゆうパック廃止を否定 日本郵便
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7b2a254b755795cd75d2e1567e7ba61dcc786574ed36500fb531f87182d50ce8.jpg> 3.3億円分の金塊 70代が市に寄贈
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 22:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
