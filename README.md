@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3ace8bb90449b2628a58d34844a2377.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/405945a2894f5c94ef7c250b397b5810.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fde4865a799e0dec54c6b321ee5366cd6a86afa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000061-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> オリ・広岡　小幡の足下に入ったスライディングに警告「ちょっと膨らんでしまったところはある」
+      <a href=https://news.yahoo.co.jp/articles/5d26c5a98f20561789b4538198bf9e887e16f870>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-02597166-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米トランプ大統領　貿易問題めぐる中国との閣僚協議、9日に英ロンドンで行うと明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d10b04f158ded9e7e3fbb8905be50ba1f6fdfe22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 米中、閣僚級の通商協議を9日にロンドンで開催へ　トランプ氏が公表
+      <a href=https://news.yahoo.co.jp/articles/e52c4d2f2526827cfa1bb4c68a027a27a253ae70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 関西ダービーは9回表に悲鳴から怒号へ オリックス・廣岡のスライディングには警告も
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 06:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 06:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
