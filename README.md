@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/099b42388d338eb263a83ec87cca995d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa37698e5246bef6b59c78e5746efb29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef8f08814877b5b586b24c70451e3f40fd245c7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050182-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 福島第一原発事故、東電旧経営陣の賠償責任を否定…東京高裁判決「津波予測できず」と１３兆円支払い命令取り消す
+      <a href=https://news.yahoo.co.jp/articles/cbb9ee5f0fc957e1c7aeef495af922e1f27df7ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00051635-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大阪万博　会場の海水から再び基準値を超えるレジオネラ属菌検出　７日以降も水上ショー当面休止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbad54cf8b8c50df40208e28235472a0a8fdb79b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博水上ショー、レジオネラ菌で中止継続
+      <a href=https://news.yahoo.co.jp/articles/636084d652261d4161bbc9d7f5e835d6e15645c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050183-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 「誰も責任負わないのはおかしい」…東電株主ら逆転敗訴で怒り
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0feff4f9ebcc9a51a1686f145f362e9211d82cc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
+      <a href=https://news.yahoo.co.jp/articles/7bba93c3c5a2438befc1d4424a479c06f50e0855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岩田剛典がEXILE卒業“兼任”多さで指摘されるアイドルグループとの“類似点”家業の役職も併せ持つ多忙ぶり
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b799ffda1dae0a6b62ea38977f6ea01b3e2895e224f0f34430bf629c4598c70d.jpg> 水俣病誤表記 トライが再発防止策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b630aad632e713e181a4fe1420aafa6aa7d70350598aedb7ae1e0d5089ff003e.jpg> マンションから転落か 4歳が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/480777e65fe71a50e7f76d8bdbfb211a04b1098e4f884b3db6843645ac11dd95.jpg> 万博水上ショー再開見送り 菌検出
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541382>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/953c876d171929c84e18cc2a7c22913bcb9e83182ca501193dcd3c63542a7705.jpg> 息子の前で妻殺され 涙見せない訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 23:52:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 00:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
