@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80930edb172a244530b7fb6052656854.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c68ee1479cdeecb592c36fd73bd78dbd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10f346b8898ad2a40c97cc80a9ca9377f2e630d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-21962080-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ホームページで募集続いている違法状態」英語キャンプ問題　宮城県が「ハローワールド」の旅行業登録取り消し
+      <a href=https://news.yahoo.co.jp/articles/397a64357dcec681d158d3e412a34c426700f19a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000090-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> 長嶋茂雄さん自宅に弔問客続々　三奈さんの出迎えに栗山英樹氏「来る事が迷惑になるんじゃないかと考えましたが…」米国から帰国後に駆けつける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7239e88db1abd19b4d30039d40deb706730fece6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-01944628-fct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 裁判長「巨大津波予見できず」東電株主代表訴訟…一審判決取り消し　福島
+      <a href=https://news.yahoo.co.jp/articles/59276f2cfa8e932e4b59fbf8d825761b8a8ecb1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-03744286-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 台湾産米に脚光？５キロで約２７００円「安いコメ」の需要増　来週の備蓄米販売を前に…北海道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce9e35ce7326de1fe36630e6f8eec7ca8fe6fbdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182219-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 政府、事実上の減反政策であるコメの生産調整を見直しへ 小泉農水大臣は緊急輸入に言及
+      <a href=https://news.yahoo.co.jp/articles/24205c4031ca6ad6bcbaa6b83c062365db2b68c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-07241305-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東電株主ら「逆転敗訴」 福島第一原発事故めぐり旧経営陣に賠償求めた訴訟で　株主側は最高裁上告へ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/700069362028937c4ac68c0d23b76837f1a4ee3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000038-chuspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 栗山英樹さん、「どうしてもお礼だけ言いたかった」アメリカから帰国、長嶋茂雄さんを弔問 過去に大谷翔平の二刀流も相談
+      <a href=https://news.yahoo.co.jp/articles/c75719c5168af0a55167c4f30b51a62ed9988869>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000010-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 37歳でマルフォイ再演、「元祖」俳優がハリポタ舞台へ　「伝説的すぎる」「これは観たい！！！」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541336>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c6904c35023b782e41a6270de21c8bd5ffefd18ce3cd70145d2102ad43bea57e.jpg> 内閣不信任案 野田氏が他党けん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iizukamakiko/02228769/title-1748544477121.jpeg?exp=10800> 米関税差し止め訴訟どうなる 解説
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7cde9c8d513ed0c2380d62eb8ee90993c7581309d34c9388d2091bdd4aec1e63.jpg> 山手線トラブル 工具選択ミス原因
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/2a2d5c5b44a8a3dd4e3ebc70d2f066d99ce022a888f672aa49d708b38c217408.jpg> 返金トラブル 旅行業者に行政処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/516b7b5aab816e12a360297754e170ac059c692a3b1857e45b0d8d210727adce.jpg> 品薄のはず 銘柄米なぜ突然店頭に
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/20467ca1318d49c94c4d5d768865c47c4da205942205d46e538db24e2e9e97ee.jpg> 品薄のはず 銘柄米なぜ突然店頭に
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7efedcad74134f8a6bf712e6ae4bfb148d91a0baed681f36ac0ab397bb60cd5c.jpg> キハダマグロ 関東で水揚げ10倍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/0c5560704488e6a5e17a5dc403befe6c69595816b857908f044f65ffb0e33042.jpg> 街角で増殖する生搾り自販機 狙い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 16:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 16:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
