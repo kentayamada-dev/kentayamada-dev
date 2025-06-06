@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09dcf9b3d491f4143c3297aa160cb53a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/650e3a7962d3595c480388894ddac51e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cac0437cd83952143f0b46e359ba98efdac1b95b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-35233939-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=621&ch=621&exp=10800&fmt=webp> ｉｓｐａｃｅ、月着陸船のミッション終了を確認　通信再開試みず
+      <a href=https://news.yahoo.co.jp/articles/c2afde6eb4c384a79a78a5ee695c709b64b933a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000031-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】東電株主代表訴訟の控訴審　旧経営陣への賠償認めない逆転判決　東京高裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b6303a197d930faeb4a043d61980f8ca0f8ef6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=835&ch=835&exp=10800&fmt=webp> 「ネガティブな言葉、行動が大嫌い…絶対やらない方だった」…長嶋一茂「モーニングショー」で父・茂雄さん「人柄」を明かす「天国でも影響を与え続ける方」
+      <a href=https://news.yahoo.co.jp/articles/e65e8f5625ccf32b3a7350ace7286a7ebe01f992>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000094-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1306&ch=1306&exp=10800&fmt=webp> 農相、コメ緊急輸入も選択肢　価格高騰対応「聖域ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eac67e1529e15cd60aaf1abadcb30c48678994b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000017-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 関税めぐり「日米双方に利益となる合意」へ　5回目の閣僚協議、「精力的に調整」で一致
+      <a href=https://news.yahoo.co.jp/articles/a519279a47f39aa591039bfc5b9bfd974f1fb089>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061069-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 「長嶋茂雄は野球の星に帰りました」…長嶋一茂「モーニングショー」で遺族を代表した「コメント」秘話…超大物タレントとの会話から「イメージ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa11a0bd89a7f2752d0ef4d29ee7c4312d16b490>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000021-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 備蓄米が尽きた場合、外国産米の緊急輸入を検討　小泉農相が明かす
+      <a href=https://news.yahoo.co.jp/articles/d1a357428818709b5e649134f9da6aadb0374f5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050058-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 赤沢経済再生相が５回目の日米閣僚交渉、Ｇ７サミットでの首脳合意も視野に詰めの協議
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d93645598d1b9c0feea2aa8b4b76b9a2f899ffc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90051328-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ファイターズ】新庄監督がタイガース佐藤輝明のプロ通算100号を祝福「ゾーン・輝を作ってあげて」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90051328-hokkaibunv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ファイターズ】新庄監督がタイガース佐藤輝明のプロ通算100号を祝福「ゾーン・輝を作ってあげて」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6453bba357122decb58ca3f624afabd823a1333f85cc434eb547ef03a03eb8cb.jpg> 関税交渉 米が引き下げに柔軟姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6541316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/9f402fb10555de733d7a851741509917dd28469246f59c4887d2c7f2cafcc255.jpg> 東電旧経営陣の責任 高裁は認めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/a01d12f5af5643cd2fbb5f5c47d66582256913bc44c80e7851c3818bd5599075.jpg> 国内投資40年度に200兆円 政府案
+      <a href=https://news.yahoo.co.jp/pickup/6541307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6453bba357122decb58ca3f624afabd823a1333f85cc434eb547ef03a03eb8cb.jpg> 関税交渉 米が引き下げに柔軟姿勢
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/0b44abbf346195c759c413fd0ec73d46763ce60118ea6f9426ce393d29075f3b.jpg> トランプ氏とマスク氏 急速に決裂
+      <a href=https://news.yahoo.co.jp/pickup/6541313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ca78fc4be9a6215957d23f092852d668e59aa79de7c7ef72d28e2c5b0cca5157.jpg> 米テスラ 時価総額22兆円吹き飛ぶ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f1840849464fd704f6b888b77df9a59b16d0def727fb05c8d81d4de3b16b666c.jpg> 相模原で窃盗続く 防カメに不審者
+      <a href=https://news.yahoo.co.jp/pickup/6541306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/8392c94c29f6c2c79f8d1044dac4b762c44a0037e631c8256f7b74edf3d692a6.jpg> iPhoneにマイナ搭載可 下旬にも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/92eb1d465af6f80bbaf6848f4c8bfcdbb80c0c68b7264e2117f61e7384b6f32f.jpg> 「万博カラオケ」反響 吉本の狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/1ac3a747eb42aae1d1efc51b6965af7b647100c02c9040b747d328b728822e5b.jpg> 1日中「0円サービス」名古屋喫茶
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 11:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
