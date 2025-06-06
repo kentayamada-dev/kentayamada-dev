@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5422c507a74158fd483ee98e24aff824.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03e3e1452f76214f7f46ed4c18841dcf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6063fb2d3b3e7c6923449151e89498a017ccc90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174421-sdigestw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=528&ch=528&exp=10800&fmt=webp> ［本田泰人の眼］ベタ引きの豪州に「外回り」の攻撃ではチャンスは生まれない。唯一可能性を感じたのは平河悠だ
+      <a href=https://news.yahoo.co.jp/articles/279d5b944a7df118d78d1cd75992623aa8f1ed07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-04319115-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「あらゆる手法を考える」備蓄米が尽きた場合…“緊急輸入”排除しない考え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c89eaa52b2d5ac8638497c0bb28c90af8a4f9afd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174409-sdigestw-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「スタメンに定着する可能性を秘めている」日本通のブラジル人記者が豪州戦に出場した森保J戦士たちを採点！ 最高評価を得たのは？「脅威を与えた」「相手のプレーを読み切っていた」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/397a64357dcec681d158d3e412a34c426700f19a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000090-dal-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> 長嶋茂雄さん自宅に弔問客続々　三奈さんの出迎えに栗山英樹氏「来る事が迷惑になるんじゃないかと考えましたが…」米国から帰国後に駆けつける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59276f2cfa8e932e4b59fbf8d825761b8a8ecb1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-03744286-stv-000-1-thumb.jpg?exp=10800&fmt=webp> 台湾産米に脚光？５キロで約２７００円「安いコメ」の需要増　来週の備蓄米販売を前に…北海道
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6f363e2844a50e79304f85d21ce9443e5a77d90cb9abdbc5cae5e0ce327fc113.jpg> ウズラ卵で小1窒息死 親が市提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3d773e07e9578d4f2aaa9f4b1527787df0e1b524e4397de84ef981cdabcb107c.jpg> 5歳がマンションから転落か 重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 17:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 17:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
