@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5190dff3685a7bfd9bb5867bca93644f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35057022a7f7b202b6a9cf53729fab4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/574627d62be08b57b6c2dc787381572056b09c8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-08782461-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「組織の長として責任」斎藤知事の給与5割カット条例案が議会に提出　元県民局長の私的情報漏えい受け
+      <a href=https://news.yahoo.co.jp/articles/ed486632b29804db6f2331cca0451312083feabd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000042-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ高騰で小泉農水大臣“備蓄米で足りなければ緊急輸入も選択肢”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12e2d6e77f1eefd8bed2d43d1fbaff686dc3c830>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06453527-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> コメ価格 「高い状態続く」見方強く…卸売業者など調査　小泉農水相「緊急輸入含め、あらゆる選択肢」
+      <a href=https://news.yahoo.co.jp/articles/0ecde9f266e311f1c367b110b2ea74cfe7ccd04e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00039373-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「妹が、いまパパ笑ったねって」長嶋一茂が明かした 父・茂雄氏との最期の時間
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee7d9f69c0428266f56c85d911d242b944d4497a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000033-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> 長嶋一茂、玉川徹さんから「ずっと気になってて、聞けなかったことが」 父・長嶋茂雄さんとの思い出
+      <a href=https://news.yahoo.co.jp/articles/cb560df7016599b39fb1991c413dee273b551bbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983096-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がラトニック商務長官と2時間にわたり協議　関税措置の見直しを強く申し入れ…G7サミットに向け調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03dbfc5a2ed252fc64119dbabdf162d8247a924a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010002-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 日米首脳会談で関税協議は大きく進展するか：事態打開の好機であると同時に大きなリスク
+      <a href=https://news.yahoo.co.jp/articles/a560b819e9d69e79ef51f200eda72bc08692163e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983071-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ戦闘「子供のけんか」トランプ大統領が仲介役の放置示唆「しばらく続けさせた方が良いこともある」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e06b866056e6ace553e3ff86bccd5cdf94c4b2df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010009-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 連夜の豪快弾も異質な「0」　シーズン42発の量産体制の阪神・佐藤輝明の規格外ぶりを示す“らしい”数字とは
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010009-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 連夜の豪快弾も異質な「0」　シーズン42発の量産体制の阪神・佐藤輝明の規格外ぶりを示す“らしい”数字とは
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ce3444ee5ba1d9bda519a9acf8532b5f85a10853616daaea164da7d9717e367b.jpg> ispace 月着陸失敗との見解表明
+      <a href=https://news.yahoo.co.jp/pickup/6541318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d698fa0e54e9296de665cc58314f4cba2cf69f9cf9977a32a613bb68699fb91d.jpg> 斎藤知事 給与5割減条例案を提出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 12:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 12:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
