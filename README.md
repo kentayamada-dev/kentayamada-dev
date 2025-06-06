@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94d0d0615d7496ce5edc677311afcf9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/37cbd6fd9e2f0eeed004212df0225dba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a7e5638f6ba127cbd57ca56bc730bd6b7ef3462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00584399-etalent-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=630&ch=630&exp=10800&fmt=webp> EXILEの活動終了の岩田剛典、パフォーマー・俳優・ソロアーティストとして磨いてきた表現と今後への期待
+      <a href=https://news.yahoo.co.jp/articles/29e6385023f1631ab2ea9cf1edac5237799a4b74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「予見可能性認められない」旧経営陣の責任認めない逆転判決　東電株主代表訴訟　東京高裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e62b9bfeb71a066b079ce96dbbb4b3c3e1a03ca1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000301-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 侍ジャパン前監督の栗山英樹氏が長嶋茂雄さん弔問　ミスターに託された「高校野球をとにかく守りなさい」
+      <a href=https://news.yahoo.co.jp/articles/0feff4f9ebcc9a51a1686f145f362e9211d82cc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050142-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 栗山英樹さん「どうしてもお礼言いたかった」と長嶋さん宅弔問…柴田勲さんは３日連続で訪れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4af45fa9ebf7bb65b7720236a7053c742c5cff20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 結果回避可能性は「検討の必要なし」　東電旧経営陣への賠償取り消し
+      <a href=https://news.yahoo.co.jp/articles/7bba93c3c5a2438befc1d4424a479c06f50e0855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 岩田剛典がEXILE卒業“兼任”多さで指摘されるアイドルグループとの“類似点”家業の役職も併せ持つ多忙ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccb83a719891aae9e4b9da2cbab0935ed983b1de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90028428-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 原告側が逆転敗訴　東電旧経営陣の13兆円賠償取り消し　株主代表訴訟の控訴審判決　ポイントは予見可能性
+      <a href=https://news.yahoo.co.jp/articles/9db8783d0f025628d7508e56398743ae65b828b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本郵便、ゆうパックなど「これまで通り提供する」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3f65cead008198fe3e68e91bde69e4ef474672fe2929815738fd5b08294b34a4.jpg> 羊蹄山の麓で無許可伐採 中国系か
+      <a href=https://news.yahoo.co.jp/pickup/6541364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d1e01d7de6346d4f4eab89c0291b087f9ba519a391738300ee6b078face7ef16.jpg> 母が目離した隙に転落か 男児重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/5db470edef04855b03416972ac465ef9176fb317a60ca1f936f2e5569376b35f.jpg> マンション全室民泊申請 反対の声
+      <a href=https://news.yahoo.co.jp/pickup/6541352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/e5914d3dffb63cfbcceb61d0d537c4d12db7813a113f3aa21653f3a73d03bbfb.jpg> 米大統領とマスク氏 修復不可能か
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/34279a9d02427b45021e19b5abe529d364a71d3b4265a811c55bad360983ee07.jpg> TDR「年パス」代わる券種も検討
+      <a href=https://news.yahoo.co.jp/pickup/6541361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/5db470edef04855b03416972ac465ef9176fb317a60ca1f936f2e5569376b35f.jpg> マンション全室民泊申請 反対の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/5bcb76c3ad42469b50128d24d9f67598a13a519b4af2378c01a5a36af1c23b31.jpg> セコムが長嶋さん追悼 東京D看板
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 20:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 20:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
