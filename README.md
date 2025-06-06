@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03e3e1452f76214f7f46ed4c18841dcf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9243c3c3f962a4dcdb382d2a4aad084f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/279d5b944a7df118d78d1cd75992623aa8f1ed07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-04319115-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「あらゆる手法を考える」備蓄米が尽きた場合…“緊急輸入”排除しない考え
+      <a href=https://news.yahoo.co.jp/articles/106b17da990fb1f179054553a4986424eaf317f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000101-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 石破茂首相、外国産米緊急輸入の可能性排除せず「あらゆる手法考える」　衆院予算委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c89eaa52b2d5ac8638497c0bb28c90af8a4f9afd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174409-sdigestw-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「スタメンに定着する可能性を秘めている」日本通のブラジル人記者が豪州戦に出場した森保J戦士たちを採点！ 最高評価を得たのは？「脅威を与えた」「相手のプレーを読み切っていた」
+      <a href=https://news.yahoo.co.jp/articles/d1a5ce442407913fd7ebbb94ee1b959fdfe380ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-07241312-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> コメの「緊急輸入も検討」小泉農水大臣が発言　備蓄米が尽きた場合 「輸入米」に活路か？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09658ecc9c8f6aff3a8e8eb623fba7d341b9c4df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000082-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 皇族数確保「女性皇族案先行で合意済み」表明　麻生氏の合意拒否発言批判　立民・野田代表
+      <a href=https://news.yahoo.co.jp/articles/d649e0b27bbe2941ffaf0bf8fcc34831379668d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00174426-sdigestw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=528&ch=528&exp=10800&fmt=webp> オフ・ザ・ボールの連係がなければ、守備が堅い豪州の背後を突くのは難しい。だからこそ効くプレーも。運ぶドリブルだ【日本代表】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/397a64357dcec681d158d3e412a34c426700f19a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000090-dal-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=1514&ch=1514&exp=10800&fmt=webp> 長嶋茂雄さん自宅に弔問客続々　三奈さんの出迎えに栗山英樹氏「来る事が迷惑になるんじゃないかと考えましたが…」米国から帰国後に駆けつける
+      <a href=https://news.yahoo.co.jp/articles/607834d4d01338457901aa05b95684e291b2e1ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983242-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】保育士女性を殺害した罪で男起訴　否認から一転すべての容疑認める　検出された血液は被害者のDNA型と「矛盾しない」宮城・岩沼市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c6904c35023b782e41a6270de21c8bd5ffefd18ce3cd70145d2102ad43bea57e.jpg> 内閣不信任案 野田氏が他党けん制
+      <a href=https://news.yahoo.co.jp/pickup/6541346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff66504f3e44331439bb6bc685f6d748f356754d139a3694bb028e9fd12eba83.jpg> 皇族確保巡り 野田氏が麻生氏批判
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/2a2d5c5b44a8a3dd4e3ebc70d2f066d99ce022a888f672aa49d708b38c217408.jpg> 返金トラブル 旅行業者に行政処分
+      <a href=https://news.yahoo.co.jp/pickup/6541340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/20467ca1318d49c94c4d5d768865c47c4da205942205d46e538db24e2e9e97ee.jpg> 品薄のはず 銘柄米なぜ突然店頭に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/20467ca1318d49c94c4d5d768865c47c4da205942205d46e538db24e2e9e97ee.jpg> 品薄のはず 銘柄米なぜ突然店頭に
+      <a href=https://news.yahoo.co.jp/pickup/6541348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d37de58b8d30de48ad843bac8dabc7012bc3b12012f9b11d06e9621ac7f8d772.jpg> ホワイトソックス 将来球団売却へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 17:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 18:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
