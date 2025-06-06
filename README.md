@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adff15d5f47d66daa5a1c63c466f8b52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d450cf18b67ce03795542d4d99b48839.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b62a88255e1afb2a8a98e51ef7c509b7e9d4418>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪市も水道基本料無償化　物価高で10月分から3カ月
+      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad226d595733e1fe5387a8a47d435fb31f1f9959>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000148-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 津波予見性、先行の刑事裁判と類似の結論　長期評価の信頼性認めず、民事も最高裁へ
+      <a href=https://news.yahoo.co.jp/articles/e844214fd40191dee9cc3f89a8169509ccfdec12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050144-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＡＮＡＨＤと傘下４社に国交省が厳重注意…認可の上限超えて運賃設定、計４９億円過剰に収受
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c283d83d81c32cb48fa75da0422d30dec1d2ffe951834967eac9bcc0e2573a46.jpg> 自民 参院比例に岸博幸氏を擁立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d1e01d7de6346d4f4eab89c0291b087f9ba519a391738300ee6b078face7ef16.jpg> 母が目離した隙に転落か 男児重体
+      <a href=https://news.yahoo.co.jp/pickup/6541373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/1d38b9039aa53fd33ab359d0ffaaac71e1052e19e77d0bdd938f7adcfc69179f.jpg> ガザ 急性栄養失調の幼児が増加
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b630aad632e713e181a4fe1420aafa6aa7d70350598aedb7ae1e0d5089ff003e.jpg> マンションから転落か 4歳が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/e5914d3dffb63cfbcceb61d0d537c4d12db7813a113f3aa21653f3a73d03bbfb.jpg> 米大統領とマスク氏 修復不可能か
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ab590fcf98e9b27ee8511547002311b872d3c93b8e36d1ee4fabb91efdebeaa3.jpg> 小6が体育で睾丸を損傷 緊急手術
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
+      <a href=https://news.yahoo.co.jp/pickup/6541356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 21:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 21:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
