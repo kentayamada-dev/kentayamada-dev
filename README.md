@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e75d07f42b55f2e009569e4b51cfb17d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f7a9e4b3ceeb4042081d07f87a139b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/636084d652261d4161bbc9d7f5e835d6e15645c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00050183-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 「誰も責任負わないのはおかしい」…東電株主ら逆転敗訴で怒り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75af0a1f048376edfdab4ef1485f2e73f9009d95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ、水俣病誤記で再発防止策　教材確認者を増員
+      <a href=https://news.yahoo.co.jp/articles/b1fd780946ceacbee0592aac95e53689ef5c8b39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36062307-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=1492&ch=1492&exp=10800&fmt=webp> 【阪神】木浪聖也、思い乗せたサヨナラ打「勝つことがいい報告だと思った」負傷降板石井に届けた
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 03:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 04:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
