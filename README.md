@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee0f2fcab7f6dce2d819cd58b22cb9c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e8a82acad68f4c6913775e99804356a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dcf1ba03242b4ba42e33e79126b57573d43aeb94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21962745-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 選挙に向けた“劇薬”か　小泉農水大臣の備蓄米放出が招く“祭りの後"【edge23】
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab77189081ab5f794c724adaa603030972446abd>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/202b5289e54d94caa639c82cfd445fcf40023b49edc6d7822580363f197c30cf.jpg> 大川原冤罪 国と都が上告断念検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541376>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/35d6a676a2e403c92f88656d646139c4405e7f8748cb19ca1d61920eb834f677.jpg> 小泉氏 コメ市場に口先介入強める
       </a>
@@ -386,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/480777e65fe71a50e7f76d8bdbfb211a04b1098e4f884b3db6843645ac11dd95.jpg> 万博水上ショー再開見送り 菌検出
+      <a href=https://news.yahoo.co.jp/pickup/6541389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/df31bbaa6344bddb1c606f389061d509a9435ee8b18e4cbcc100b7d8771d0368.jpg> 京都市で観光客切り付け 犯人逃走
       </a>
     </td>
   </tr>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/2/1/1612154937_1612154920_aflo_24231308.jpg> ミャンマー 暗殺巡り6歳女児拘束
+      <a href=https://news.yahoo.co.jp/pickup/6541387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ff9b0b37288bb545f11ad83bfbaca1406f52f81727ee98d7ec068240dd873623.jpg> いとうまい子 八十二銀の社外取に
       </a>
     </td>
   </tr>
@@ -432,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ae38dc73f6a60deac894546a97124bdf63da482903e533dd0c37539f1a4259be.jpg> [Alexandros]公演前日に延期発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 07:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 07:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
