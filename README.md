@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e8a82acad68f4c6913775e99804356a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2746139f615916d31f17a9e8a963e77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcf1ba03242b4ba42e33e79126b57573d43aeb94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21962745-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 選挙に向けた“劇薬”か　小泉農水大臣の備蓄米放出が招く“祭りの後"【edge23】
+      <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab77189081ab5f794c724adaa603030972446abd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国と中国の貿易協議9日開催へ　摩擦緩和への歩み寄り焦点
+      <a href=https://news.yahoo.co.jp/articles/07b0d9d831681418957d2e120249ba2dd7ebd6e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983568-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・中国の次回貿易協議　6月9日にロンドンで開催へ　トランプ氏「交渉は順調に進むだろう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e52c4d2f2526827cfa1bb4c68a027a27a253ae70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010000-maruspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 関西ダービーは9回表に悲鳴から怒号へ オリックス・廣岡のスライディングには警告も
+      <a href=https://news.yahoo.co.jp/articles/566d01a82d9a39aa90411f5b8d4e251866ec5e03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000216-sanspo-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 伊藤智仁の悪夢から32年…ヤクルト、歴史的サヨナラ　モイネロに屈辱18K…敗色濃厚から！オスナ九回同点2ラン＆武岡龍世が延長十回に初劇弾！
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541387>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ff9b0b37288bb545f11ad83bfbaca1406f52f81727ee98d7ec068240dd873623.jpg> いとうまい子 八十二銀の社外取に
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/458862c15b5a27ffee923d6d350b690b8981858ba048201653611994ffcafd97.jpg> オリ広岡に「警告」怒号飛び交う
+      <a href=https://news.yahoo.co.jp/pickup/6541391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/63430d38f86b357302fc806641d364ed0ff9b3b3d1bd1da8bb748be3b45c14be.jpg> J3奈良 監督の不適切行為で調査へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/015df8b22a1337fe9beddcf8b6a360eaafb2e0c2a365f4b2e4ca4fd804e3d013.jpg> SB監督 モイネロには申し訳ない
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 07:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 08:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
