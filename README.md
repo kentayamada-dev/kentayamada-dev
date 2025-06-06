@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c02e1c61def73a3607f209d135723d89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab20b3ca824c4747ec4209b702d76043.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f01881c5efc045bd58870232ebcd6ad37f43c2fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000040-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1140&ch=1140&exp=10800&fmt=webp> 宇野実彩子、「これから母として強く」第１子出産、写真添え報告 昨年３月にNEWS小山慶一郎と結婚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/700069362028937c4ac68c0d23b76837f1a4ee3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000038-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 栗山英樹さん、「どうしてもお礼だけ言いたかった」アメリカから帰国、長嶋茂雄さんを弔問 過去に大谷翔平の二刀流も相談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b5f485a05004991757a1ee20efd6b207ad29ec2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 東電旧経営陣の13兆円賠償取り消し、法廷に怒号　株主側は上告へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de3f8ea318ef28d4dbf7d40ccc118422fa1cae65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000190-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「ついに踏み込んだ…玉木さんも言えない…」小泉農相の備蓄米尽きた場合の外国産米緊急輸入検討に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ecde9f266e311f1c367b110b2ea74cfe7ccd04e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00039373-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「妹が、いまパパ笑ったねって」長嶋一茂が明かした 父・茂雄氏との最期の時間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d4cb2dfd1639b0ff0016ff766d2435cd2c36b80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182206-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 「次元違う」途中出場の“10番”久保建英、圧巻突破で即チャンス演出「突破力がレベチ」磁石のようなボールタッチ→極上過ぎる低弾道クロス炸裂の瞬間
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000190-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「ついに踏み込んだ…玉木さんも言えない…」小泉農相の備蓄米尽きた場合の外国産米緊急輸入検討に
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb560df7016599b39fb1991c413dee273b551bbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983096-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がラトニック商務長官と2時間にわたり協議　関税措置の見直しを強く申し入れ…G7サミットに向け調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/646ef019449377c4374d67f9abbc1bb6ea55b3e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000118-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1505&ch=1505&exp=10800&fmt=webp> 脱毛「ミュゼ」の運営会社が解散　賃金未払い含め負債260億円
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983096-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がラトニック商務長官と2時間にわたり協議　関税措置の見直しを強く申し入れ…G7サミットに向け調整
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/cb094244bf44f5114693d38509212c0e36afdb59001fa4379605e6b629c14729.jpg> 東電株主側が逆転敗訴 法廷に怒号
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541317>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/64ab451fd415edcf27fadee85d1e4416e5284fd3b973949910ecfa87e768d1dc.jpg> 銀河と銀河の衝突 確率が1/2に減
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/28b29a4c99a499c2ec72c229b4e59bcc057da0892480e5df21cb42f4d01461cc.jpg> AAA宇野実彩子 第1子出産を公表
+      <a href=https://news.yahoo.co.jp/pickup/6541328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/28b29a4c99a499c2ec72c229b4e59bcc057da0892480e5df21cb42f4d01461cc.jpg> 宇野実彩子が出産 夫は小山慶一郎
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 13:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 13:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
