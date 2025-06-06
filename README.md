@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af27d600356324a90aac17a9b8a0d63a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09dcf9b3d491f4143c3297aa160cb53a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cac0437cd83952143f0b46e359ba98efdac1b95b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-35233939-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=621&ch=621&exp=10800&fmt=webp> ｉｓｐａｃｅ、月着陸船のミッション終了を確認　通信再開試みず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5b6303a197d930faeb4a043d61980f8ca0f8ef6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=835&ch=835&exp=10800&fmt=webp> 「ネガティブな言葉、行動が大嫌い…絶対やらない方だった」…長嶋一茂「モーニングショー」で父・茂雄さん「人柄」を明かす「天国でも影響を与え続ける方」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7eac67e1529e15cd60aaf1abadcb30c48678994b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000017-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 関税めぐり「日米双方に利益となる合意」へ　5回目の閣僚協議、「精力的に調整」で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa11a0bd89a7f2752d0ef4d29ee7c4312d16b490>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000021-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 備蓄米が尽きた場合、外国産米の緊急輸入を検討　小泉農相が明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d93645598d1b9c0feea2aa8b4b76b9a2f899ffc0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90051328-hokkaibunv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ファイターズ】新庄監督がタイガース佐藤輝明のプロ通算100号を祝福「ゾーン・輝を作ってあげて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cd8930cd460b6eabd96c1d3cdf241dc7045d433>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010001-sorae_jp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ispaceが月着陸機「レジリエンス」のミッション終了を発表　通信回復せず着陸確認困難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b39d0517f1e8e8c5333d87f4a95432d6fd1ba4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061058-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> 「キャッチボールは父親と１時間でも２時間でもずっとできた」…長嶋一茂「モーニングショー」で父・茂雄さんとの人生「最大の思い出」を告白
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6284090a3aa654ac6b5dbc209e82b3d4825c49a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-69984471-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 日米関税交渉「今後精力的に調整」、赤沢再生相が米商務長官と協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46bcf486c4baa759011901eb156ae13e2a6b30b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010002-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1622&ch=1622&exp=10800&fmt=webp> 小泉農相に求める政策は？　納得いく米価、所得補償...　「農家の特報班」緊急調査
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/b1de6032101d0686d60147f2ad8622690ca4786a901a7e557f551544c3bde73d.jpg> TOEIC替え玉 スマートグラス持参
+      <a href=https://news.yahoo.co.jp/pickup/6541310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f1840849464fd704f6b888b77df9a59b16d0def727fb05c8d81d4de3b16b666c.jpg> 相模原で窃盗続く 防カメに不審者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f1840849464fd704f6b888b77df9a59b16d0def727fb05c8d81d4de3b16b666c.jpg> 相模原で窃盗続く 防カメに不審者
+      <a href=https://news.yahoo.co.jp/pickup/6541311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/92eb1d465af6f80bbaf6848f4c8bfcdbb80c0c68b7264e2117f61e7384b6f32f.jpg> 「万博カラオケ」反響 吉本の狙い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 10:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
