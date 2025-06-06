@@ -111,7 +111,7 @@ const Page: ArticlePageType = async (props) => {
           updatedAt={new Date(article.sys.publishedAt)}
         />
         <div className='mt-5'>
-          <ArticleLikeButton likeCount={articleLikeCount} likeKey={likeKey} />
+          <ArticleLikeButton likeCount={articleLikeCount} likeKey={likeKey} locale={locale} />
         </div>
         <div className='mt-20 w-full px-5 sm:px-0'>
           <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{articlesDict.recommend}</h2>

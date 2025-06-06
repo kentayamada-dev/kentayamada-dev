@@ -1,9 +1,8 @@
-import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
+import { defaultLocale } from '@/constants/i18n';
 import { ProjectsList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { locale: { control: 'select', options: arrayOfLocales } },
   args: {
     locale: defaultLocale,
     projects: [

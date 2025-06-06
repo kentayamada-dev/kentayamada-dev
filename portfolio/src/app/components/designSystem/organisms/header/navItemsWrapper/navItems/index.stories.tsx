@@ -1,4 +1,4 @@
-import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
+import { defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { mapObjectByKeyValue } from '@/utils';
 import { NavItems } from '.';
@@ -16,8 +16,7 @@ const meta = {
       options: Object.values(navigation).map((item) => {
         return item.href;
       })
-    },
-    locale: { control: 'select', options: arrayOfLocales }
+    }
   },
   args: {
     currentPathname: navigation.home.href,

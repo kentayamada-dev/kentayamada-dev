@@ -2,6 +2,7 @@
 
 import { useRef, useState } from 'react';
 import { LikeAnimation } from '@/components/designSystem/atoms';
+import { formatNumber } from '@/utils';
 import type { LottieRefCurrentProps } from 'lottie-react';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { LikeButtonType } from './types';
@@ -47,7 +48,7 @@ const LikeButton: LikeButtonType = (props) => {
       <div className='size-10'>
         <LikeAnimation ref={lottieRef} />
       </div>
-      <span className='text-secondary'>{props.likeCount}</span>
+      <span className='text-secondary'>{formatNumber(props.likeCount, props.locale)}</span>
     </button>
   );
 };

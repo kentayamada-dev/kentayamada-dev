@@ -1,10 +1,9 @@
-import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
+import { defaultLocale } from '@/constants/i18n';
 import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  argTypes: { createdAt: { control: 'date' }, locale: { control: 'select', options: arrayOfLocales }, updatedAt: { control: 'date' } },
   args: {
     articleTitle: 'Article Title',
     content: (

@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { EyeIcon, HeartIcon } from '@/components/icons';
-import { getDateString } from '@/utils';
+import { formatNumber, getDateString } from '@/utils';
 import type { ArticleLinkType } from './types';
 
 const ArticleLink: ArticleLinkType = (props) => {
@@ -24,13 +24,13 @@ const ArticleLink: ArticleLinkType = (props) => {
                 <div className='size-5'>
                   <HeartIcon />
                 </div>
-                <span>{props.likeCount}</span>
+                <span>{formatNumber(props.likeCount, props.locale)}</span>
               </div>
               <div className='flex items-center gap-x-2'>
                 <div className='size-5'>
                   <EyeIcon />
                 </div>
-                <span>{props.viewCount}</span>
+                <span>{formatNumber(props.viewCount, props.locale)}</span>
               </div>
             </div>
           </div>

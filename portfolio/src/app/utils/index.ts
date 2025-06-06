@@ -1,3 +1,4 @@
+export { formatNumber } from './formatNumber';
 export { getCurrencyPairs } from './getCurrencyPairs';
 export { getDateString } from './getDateString';
 export { getEntries } from './getEntries';

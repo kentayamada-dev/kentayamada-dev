@@ -12,7 +12,7 @@ const ArticleLikeButton: ArticleLikeButtonType = (props) => {
     })();
   };
 
-  return <LikeButton likeCount={props.likeCount} onLike={onLike} />;
+  return <LikeButton likeCount={props.likeCount} locale={props.locale} onLike={onLike} />;
 };
 
 export { ArticleLikeButton };

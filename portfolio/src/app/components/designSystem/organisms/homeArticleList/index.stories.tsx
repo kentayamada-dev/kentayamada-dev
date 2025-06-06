@@ -3,7 +3,6 @@ import { HomeArticleList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { ...articleLinkStory.argTypes },
   args: {
     ...articleLinkStory.args,
     articles: [
