@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2939ae389fc7040921889d55d945c3b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da35293aee81fe22597bd36c9b932da6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a0de80964cb4e4be44a2df2241c6fb07df448fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-05857554-fbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 【速報】「大事な息子を返してくれ」給食のウズラの卵で小1男児が窒息死　6000万円の慰謝料を求め遺族がみやま市を提訴　福岡
+      <a href=https://news.yahoo.co.jp/articles/c228dec0d8ffd8764e4f7bc5ba16db63e6b69cc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-04489911-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東電旧経営陣の賠償責任認めず…1審判決取り消し　福島原発事故めぐり　東京高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84aec2163c22185d29cba9f6183ed3863826faa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36060581-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=1279&ch=1279&exp=10800&fmt=webp> 【全文】小山慶一郎＆宇野実彩子夫妻に第１子「いとおしくてたまらなく」「愛し続けていく決意」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/700069362028937c4ac68c0d23b76837f1a4ee3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000038-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 栗山英樹さん、「どうしてもお礼だけ言いたかった」アメリカから帰国、長嶋茂雄さんを弔問 過去に大谷翔平の二刀流も相談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b5f485a05004991757a1ee20efd6b207ad29ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000031-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 東電旧経営陣の13兆円賠償取り消し、法廷に怒号　株主側は上告へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000038-chuspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 栗山英樹さん、「どうしてもお礼だけ言いたかった」アメリカから帰国、長嶋茂雄さんを弔問 過去に大谷翔平の二刀流も相談
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ca78fc4be9a6215957d23f092852d668e59aa79de7c7ef72d28e2c5b0cca5157.jpg> 米テスラ 時価総額22兆円吹き飛ぶ
+      <a href=https://news.yahoo.co.jp/pickup/6541335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6f363e2844a50e79304f85d21ce9443e5a77d90cb9abdbc5cae5e0ce327fc113.jpg> ウズラ卵で小1窒息死 親が市提訴
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6f363e2844a50e79304f85d21ce9443e5a77d90cb9abdbc5cae5e0ce327fc113.jpg> ウズラ卵で小1窒息死 親が市提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/7efedcad74134f8a6bf712e6ae4bfb148d91a0baed681f36ac0ab397bb60cd5c.jpg> キハダマグロ 関東で水揚げ10倍
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/28b29a4c99a499c2ec72c229b4e59bcc057da0892480e5df21cb42f4d01461cc.jpg> 宇野実彩子が出産 夫は小山慶一郎
+      <a href=https://news.yahoo.co.jp/pickup/6541337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/84581525b4ef0e3b2dba75234d86195c029a8cbb17a10d3ec78593fe7a79b202.jpg> 小山 NEWSメンバー初のパパに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 14:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 15:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
