@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f9b50b8e343246d1d2a0b42f1ffeafc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/539e00aaa47e2a9ff0df194ed7ecf2cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccb83a719891aae9e4b9da2cbab0935ed983b1de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-90028428-ftv-000-1-thumb.jpg?exp=10800&fmt=webp> 原告側が逆転敗訴　東電旧経営陣の13兆円賠償取り消し　株主代表訴訟の控訴審判決　ポイントは予見可能性
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad9606c429800d093aaa8c9fcb2b423d43a494d3>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a431c8bf9acb39ef6d81eb1128db621724c6401>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000116-dal-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=817&ch=817&exp=10800&fmt=webp> 【全文⑤】長嶋一茂　父の最期の日「よく覚えてない」父は野球の星に帰った、はさんまとの会話だった　ＴＶで明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000116-dal-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1490&ch=1490&exp=10800&fmt=webp> 【全文⑤】長嶋一茂　父の最期の日「よく覚えてない」父は野球の星に帰った、はさんまとの会話だった　ＴＶで明かす
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b60ffab8dd1c51fbe7ddc1d643291dbc0be11411>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000214-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 価格見直し「国民生活見極める」　ディズニー、単なる値上げ考えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24205c4031ca6ad6bcbaa6b83c062365db2b68c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-07241305-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東電株主ら「逆転敗訴」 福島第一原発事故めぐり旧経営陣に賠償求めた訴訟で　株主側は最高裁上告へ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ff66504f3e44331439bb6bc685f6d748f356754d139a3694bb028e9fd12eba83.jpg> 皇族確保巡り 野田氏が麻生氏批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541349>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3d773e07e9578d4f2aaa9f4b1527787df0e1b524e4397de84ef981cdabcb107c.jpg> 5歳がマンションから転落か 重体
       </a>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3f65cead008198fe3e68e91bde69e4ef474672fe2929815738fd5b08294b34a4.jpg> 羊蹄山の麓で無許可伐採 中国系か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/be931c58eb9b7a22b47e96ba7bb89ad391a49d36b445d359a456fbb3a3d1227e.jpg> 番組でセクハラ アナがTV局提訴
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/591b41c37ecfb63aabd860cccd6e1b0ee544ed7f03f8b1213fffab1923a6e9b4.jpg> 番組でセクハラ アナがTV局提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/f75a5e24f9a2d8528852be96dd42d32406bf27b8cbb4f844603e9d828850f8f2.jpg> デッドボール 巨人浅野は不全骨折
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d37de58b8d30de48ad843bac8dabc7012bc3b12012f9b11d06e9621ac7f8d772.jpg> ホワイトソックス 将来球団売却へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 19:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 19:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
