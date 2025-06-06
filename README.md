@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35057022a7f7b202b6a9cf53729fab4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c02e1c61def73a3607f209d135723d89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed486632b29804db6f2331cca0451312083feabd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000042-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=360&ch=360&exp=10800&fmt=webp> コメ高騰で小泉農水大臣“備蓄米で足りなければ緊急輸入も選択肢”
+      <a href=https://news.yahoo.co.jp/articles/de3f8ea318ef28d4dbf7d40ccc118422fa1cae65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000190-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「ついに踏み込んだ…玉木さんも言えない…」小泉農相の備蓄米尽きた場合の外国産米緊急輸入検討に
       </a>
     </td>
   </tr>
@@ -373,6 +373,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d4cb2dfd1639b0ff0016ff766d2435cd2c36b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182206-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 「次元違う」途中出場の“10番”久保建英、圧巻突破で即チャンス演出「突破力がレベチ」磁石のようなボールタッチ→極上過ぎる低弾道クロス炸裂の瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb560df7016599b39fb1991c413dee273b551bbd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983096-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がラトニック商務長官と2時間にわたり協議　関税措置の見直しを強く申し入れ…G7サミットに向け調整
       </a>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a560b819e9d69e79ef51f200eda72bc08692163e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983071-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア・ウクライナ戦闘「子供のけんか」トランプ大統領が仲介役の放置示唆「しばらく続けさせた方が良いこともある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e06b866056e6ace553e3ff86bccd5cdf94c4b2df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010009-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 連夜の豪快弾も異質な「0」　シーズン42発の量産体制の阪神・佐藤輝明の規格外ぶりを示す“らしい”数字とは
+      <a href=https://news.yahoo.co.jp/articles/646ef019449377c4374d67f9abbc1bb6ea55b3e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000118-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1505&ch=1505&exp=10800&fmt=webp> 脱毛「ミュゼ」の運営会社が解散　賃金未払い含め負債260億円
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3cb0484c58881db39a922cd2e5623596b6ce4f4929d78ae2bdd13b10ee527d22.jpg> 東電旧経営陣の責任 高裁は認めず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/d698fa0e54e9296de665cc58314f4cba2cf69f9cf9977a32a613bb68699fb91d.jpg> 斎藤知事 給与5割減条例案を提出
+      <a href=https://news.yahoo.co.jp/pickup/6541323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c7944e55adbdcfa62bcc8b27f51802b532330a665641a1f9b7b4c9979d32a5e0.jpg> 侵攻 しばらく戦わせると米大統領
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/74f2e63d3288dd8ead069720f5a2b278620752ea4cd8f095a0f7cd0e8517562b.jpg> iPhoneにマイナ搭載 24日開始
+      <a href=https://news.yahoo.co.jp/pickup/6541322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/fe60ce18ae11c6e7268f3ed61bd7d0b0229335dc576e374a9d91897b0e4e26ee.jpg> ミュゼプラチナム運営 MPHが解散
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541321>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> TDR運営 チケット価格見直しも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/64ab451fd415edcf27fadee85d1e4416e5284fd3b973949910ecfa87e768d1dc.jpg> 銀河と銀河の衝突 確率が1/2に減
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/92eb1d465af6f80bbaf6848f4c8bfcdbb80c0c68b7264e2117f61e7384b6f32f.jpg> 「万博カラオケ」反響 吉本の狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/58b17bf877a8b6087c55f7a57049082777e5db0ca972719a64e70665f0635ff5.jpg> 一茂 茂雄さんの最期の病室を回想
+      <a href=https://news.yahoo.co.jp/pickup/6541326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/28b29a4c99a499c2ec72c229b4e59bcc057da0892480e5df21cb42f4d01461cc.jpg> AAA宇野実彩子 第1子出産を公表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 12:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 13:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
