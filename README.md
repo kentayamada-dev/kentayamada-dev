@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88e76c0c2fa7a940f4646bf819f97e75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e7ff331947a0c6c4e450e55dfcc1d7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75af0a1f048376edfdab4ef1485f2e73f9009d95>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トライ、水俣病誤記で再発防止策　教材確認者を増員
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63f6ffeb973f76c494e098babc92608ac79b651b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000391-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 清原博弁護士　小泉農相緊急輸入発言は「参院選対策が大きい」　農家は反発？「生産者向けは森山さんが…」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 02:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 03:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
