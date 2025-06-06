@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab20b3ca824c4747ec4209b702d76043.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7024323143b620143df1c5be84dd5742.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f01881c5efc045bd58870232ebcd6ad37f43c2fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000040-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1140&ch=1140&exp=10800&fmt=webp> 宇野実彩子、「これから母として強く」第１子出産、写真添え報告 昨年３月にNEWS小山慶一郎と結婚
+      <a href=https://news.yahoo.co.jp/articles/810930f37295a130933a0895803eb7ffb4105cb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000052-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=927&ch=927&exp=10800&fmt=webp> 小山慶一郎、第1子誕生を発表「父親として、この小さな命を守り、愛し続けていく」　NEWSメンバー初のパパに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce9e35ce7326de1fe36630e6f8eec7ca8fe6fbdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182219-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 政府、事実上の減反政策であるコメの生産調整を見直へ 小泉農水大臣は緊急輸入に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9583ee42705b097253432efc436677a830089cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000068-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 赤沢担当相、ラトニック米商務長官と会談　自動車輸出で協力提案
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b5f485a05004991757a1ee20efd6b207ad29ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 東電旧経営陣の13兆円賠償取り消し、法廷に怒号　株主側は上告へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de3f8ea318ef28d4dbf7d40ccc118422fa1cae65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000190-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏「ついに踏み込んだ…玉木さんも言えない…」小泉農相の備蓄米尽きた場合の外国産米緊急輸入検討に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb560df7016599b39fb1991c413dee273b551bbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00983096-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がラトニック商務長官と2時間にわたり協議　関税措置の見直しを強く申し入れ…G7サミットに向け調整
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000031-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 東電旧経営陣の13兆円賠償取り消し、法廷に怒号　株主側は上告へ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/9eada81731b95cd24395856bdb468d1822a57f47896bf4045b76014e6d841231.jpg> 農相 コメ高騰巡り緊急輸入も検討
+      <a href=https://news.yahoo.co.jp/pickup/6541324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/65dc590fa1404c28c7169f3bbae0ac85f656602e10f36af5557cfbe7ce005b03.jpg> 死亡の元県議への中傷 情報を検証
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/fe60ce18ae11c6e7268f3ed61bd7d0b0229335dc576e374a9d91897b0e4e26ee.jpg> ミュゼプラチナム運営 MPHが解散
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541321>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> TDR運営 チケット価格見直しも
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/59d7b829b3672f7152fa88412a205a83605e28f7504de4b9be4f826029e28391.jpg> TDR運営 チケット価格見直しも
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6d9042c9fb16fa94fdaddc9936dc1b8c93de68c2e7f846a1123163363e338e92.jpg> 志尊淳が24時間TV出演 4年前大病
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 13:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 14:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
