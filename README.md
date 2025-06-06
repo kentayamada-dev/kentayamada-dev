@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7024323143b620143df1c5be84dd5742.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2939ae389fc7040921889d55d945c3b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/810930f37295a130933a0895803eb7ffb4105cb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000052-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=149&cw=927&ch=927&exp=10800&fmt=webp> 小山慶一郎、第1子誕生を発表「父親として、この小さな命を守り、愛し続けていく」　NEWSメンバー初のパパに
+      <a href=https://news.yahoo.co.jp/articles/7a0de80964cb4e4be44a2df2241c6fb07df448fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-05857554-fbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 【速報】「大事な息子を返してくれ」給食のウズラの卵で小1男児が窒息死　6000万円の慰謝料を求め遺族がみやま市を提訴　福岡
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce9e35ce7326de1fe36630e6f8eec7ca8fe6fbdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182219-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 政府、事実上の減反政策であるコメの生産調整を見直へ 小泉農水大臣は緊急輸入に言及
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-10182219-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 政府、事実上の減反政策であるコメの生産調整を見直しへ 小泉農水大臣は緊急輸入に言及
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/65dc590fa1404c28c7169f3bbae0ac85f656602e10f36af5557cfbe7ce005b03.jpg> 死亡の元県議への中傷 情報を検証
+      <a href=https://news.yahoo.co.jp/pickup/6541333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iizukamakiko/02228769/title-1748544477121.jpeg?exp=10800> 米関税差し止め訴訟どうなる 解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/c7944e55adbdcfa62bcc8b27f51802b532330a665641a1f9b7b4c9979d32a5e0.jpg> 侵攻 しばらく戦わせると米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6541324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/65dc590fa1404c28c7169f3bbae0ac85f656602e10f36af5557cfbe7ce005b03.jpg> 死亡の元県議への中傷 情報を検証
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/3b96d17c834f7bfbb857a30f7ad2b26c93100e1b42a8233ba8e44605b16ce786.jpg> 4千万円横領のアナ「地獄だった」
+      <a href=https://news.yahoo.co.jp/pickup/6541335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6f363e2844a50e79304f85d21ce9443e5a77d90cb9abdbc5cae5e0ce327fc113.jpg> ウズラ卵で小1窒息死 親が市提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6b3ef14d0418e9fe55fce9f1d33ab45b7250615fd3dffd0a5a2a9a044017bb8b.jpg> 芝生潜むメリケントキンソウ 注意
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/6d9042c9fb16fa94fdaddc9936dc1b8c93de68c2e7f846a1123163363e338e92.jpg> 志尊淳が24時間TV出演 4年前大病
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 14:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 14:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
