@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70f406e8a8ee23a22ac28858be7256dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a73af80145fda5848d12a783bb8368d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef4b72c9b27ebcc590695e0e41edb4ae0cf66d11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-36060197-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 長嶋一茂、「家族としてお許しいただきたいけれど…」妹・三奈さんらとの病室での会話明かす
+      <a href=https://news.yahoo.co.jp/articles/0f5c0a100e761a04055b75f932d6bdf6c5fe8970>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000024-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=382&ch=382&exp=10800&fmt=webp> ispaceのレジリエンスランダーは月面に衝突か　「確認は困難」、ミッション2は終了に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08d0f82df50d72d51fac4d19eb27a11686b0dac2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00000003-uchubiz-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=512&ch=512&exp=10800&fmt=webp> 【速報】ispace、2度目の再挑戦も月面着陸に失敗
+      <a href=https://news.yahoo.co.jp/articles/215b4d884528c2e5a5b06a2ed5dd08a8ce2d5859>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-06061049-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=860&ch=860&exp=10800&fmt=webp> 「近くにいた父親が野球をやるたびにどんどん離れていったような感覚」…長嶋一茂、「モーニングショー」で「野球人」茂雄さんへの思いを告白「存在が偉大過ぎた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9269210df219bc7a7bd40544b1c33c348a61c4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-03874734-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生担当相、米ラトニック商務長官との会談に臨む
+      <a href=https://news.yahoo.co.jp/articles/6284090a3aa654ac6b5dbc209e82b3d4825c49a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-69984471-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 日米関税交渉「今後精力的に調整」、赤沢再生相が米商務長官と協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f652700a99867e7f93bed3587210c9c8dba13e2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250605-00050210-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=400&ch=400&exp=10800&fmt=webp> かつて「史上最低の農相」と言われた石破首相、コメ政策転換に再挑戦…小泉農相の突破力に期待
+      <a href=https://news.yahoo.co.jp/articles/46bcf486c4baa759011901eb156ae13e2a6b30b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250606-00010002-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1622&ch=1622&exp=10800&fmt=webp> 小泉農相に求める政策は？　納得いく米価、所得補償...　「農家の特報班」緊急調査
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/4194af8efcbb6461ec2fd70bbb66c550142d63f85016b75b47146f2be7105128.jpg> 日本郵便の違反点数 基準の2.5倍
+      <a href=https://news.yahoo.co.jp/pickup/6541308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/ce3444ee5ba1d9bda519a9acf8532b5f85a10853616daaea164da7d9717e367b.jpg> ispace 月着陸失敗との見解表明
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/fdda15d0513f7e72a0677c6e1d092bbd4a016e1b44a412d874f9758fa7194531.jpg> まさかの幕切れ 大勢かばうG監督
+      <a href=https://news.yahoo.co.jp/pickup/6541309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/6/58b17bf877a8b6087c55f7a57049082777e5db0ca972719a64e70665f0635ff5.jpg> 一茂 茂雄さんの最期の病室を回想
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/06 09:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/06 10:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
