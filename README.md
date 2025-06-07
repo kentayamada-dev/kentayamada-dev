@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df8f42eb74d3888d130cfc246de49d30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee960a2e0e9b9d53ce49c8c2ce15ff89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02036559cb4d8d447c2c278ba9211a653306a645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000257-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=877&ch=877&exp=10800&fmt=webp> オリックス・水本ヘッド「警告が出たことを現実に受け止めて」6日の警告について阪神へ謝罪
+      <a href=https://news.yahoo.co.jp/articles/5c49b4c8bdca6e873fc01f4ddd7ff1d1d32a1a9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-06071216-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 【オリックス】水本ヘッドコーチが阪神側に謝罪「申し訳なかった」…広岡大志の守備妨害「警告」受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1a80bfd2b16598a0aad13fa09fe4dcad4becc07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000251-spnannex-000-34-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=356&ch=356&exp=10800&fmt=webp> ジェラードン・かみちぃ＆TEAM BANANA山田が結婚　交際15年以上！3年前求婚も…吉本芸人同士
+      <a href=https://news.yahoo.co.jp/articles/3a862d9c2fd31d35e9ea088323d84fc9ad4c6b0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983681-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 5回目の関税交渉で訪米中の赤沢経済再生相が担当閣僚らと会談…双方の主張に今も“隔たり”あるとの認識示す　石破首相「国益を犠牲にしてまで急ぐつもりはない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fd4f1f85ee5e966e26b39ea82cddbd03b9c85f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241481-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「国益を犠牲にしてまで急ぐつもりない」　日米関税交渉めぐり　6月半ばのG7サミットが目処
+      <a href=https://news.yahoo.co.jp/articles/81cba5fcd00925e303ca0c0fc95cee9bbb7e39aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000399-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=761&ch=761&exp=10800&fmt=webp> ジェラードン・かみちぃ結婚！相手はTEAM BANANA・山田愛実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9685b57ec16845f044641ddbe55537a214b1ade1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010018-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 5キロ1800円「底値」のコメはいつから買える？ 備蓄米の“流通スピード”と販売店を調査！
+      <a href=https://news.yahoo.co.jp/articles/afd43f37babfb60c0c27a26231e689817d9b7602>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000110-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 【お米に暴言全文】立憲・原口一博氏「古古古米はニワトリさんが一番食べてる。人間様は食べてない」演説で小泉米酷評「本当のこと言っちゃいけないんですか？」※キリトリなし
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/62a6ecbf1803ce56ebf0b4fd77221f5d2721a2a41833ef75b975bb0a89c8c7ff.jpg> 8日から梅雨入りラッシュ 備えを
+      <a href=https://news.yahoo.co.jp/pickup/6541460>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国大統領 G7サミットに出席へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1907a5468d2a985af94ccd858246be3977727947a76e9b61d7ccec2c258f3d64.jpg> レアアース輸出再開に習氏同意 米
+      <a href=https://news.yahoo.co.jp/pickup/6541452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4440a904b788bb929f8a12ec81537c65ec60bf1e6b4bf44ab87adef5608e7f7f.jpg> 備蓄米販売1週間 コメ価格二極化
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/59b3942b2b1d88b7043f05354de6f00b2d3849503126f8469ff275ae6b4e5c2b.jpg> 石破氏 群馬と聞くと怖い人いそう
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/01a9a4d618a529be4c9b92707b85cd78944183dcc527a7f91b73cd61e61d0de6.jpg> 石破氏 群馬と聞くと怖い人いそう
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/97e708069b3cd4c92a798239db20aecf148fbc41e58ebd8a0d36effd0a3ad114.jpg> オリ側 警告プレー巡り阪神に謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6541455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2316234fdb02b905920efb54fa89f844b49e18249f043e7d3d73b648f141a3dc.jpg> 災害取材時に生理 アナ語る苦悩
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e2e1b4a60e982601e96ec55b6781c81300e2e9666165af5813729b3197114e53.jpg> ジェラードンかみちぃ 結婚生報告
+      <a href=https://news.yahoo.co.jp/pickup/6541459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4b2c25069b8d1d2f01f9743c0e0b85300801def26398ea564b2d9c5668326c61.jpg> ジェラードン・かみちぃ結婚発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 17:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 18:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
