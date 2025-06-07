@@ -5,8 +5,10 @@ type UtilitiesListProps = {
   locale: LocaleKeyType;
   utilities: {
     href: string;
+    likeCount: number;
     subtitle: string;
     title: string;
+    viewCount: number;
   }[];
 };
 

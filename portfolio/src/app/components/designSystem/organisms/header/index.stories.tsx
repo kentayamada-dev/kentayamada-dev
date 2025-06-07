@@ -1,11 +1,10 @@
 import { copyRightStory } from '@/components/designSystem/atoms';
-import { defaultLocale } from '@/constants/i18n';
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    locale: defaultLocale,
+    locale: 'en',
     ...copyRightStory.args
   },
   component: Header

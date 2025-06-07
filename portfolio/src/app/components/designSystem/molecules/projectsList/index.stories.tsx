@@ -1,10 +1,9 @@
-import { defaultLocale } from '@/constants/i18n';
 import { ProjectsList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    locale: defaultLocale,
+    locale: 'en',
     projects: [
       {
         createdAt: new Date('2025-03-14T04:07:48Z'),

@@ -1,12 +1,11 @@
 import { fn } from '@storybook/test';
 import { copyRightStory } from '@/components/designSystem/atoms';
-import { defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { mapObjectByKeyValue } from '@/utils';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-const navigation = navigationItems(defaultLocale);
+const navigation = navigationItems('en');
 
 const meta = {
   argTypes: {
@@ -25,7 +24,7 @@ const meta = {
     handleToggle: fn(),
     isOpened: true,
     items: navigation,
-    locale: defaultLocale,
+    locale: 'en',
     ...copyRightStory.args
   },
   component: SidePanel

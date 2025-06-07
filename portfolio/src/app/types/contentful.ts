@@ -150,12 +150,6 @@ type SitemapType = {
   utilityItems: SitemapItemsType;
 };
 
-type UtilitySlugsResponseType = {
-  utilityCollection: {
-    items: SlugsType;
-  };
-};
-
 type MetadataType = {
   coverImage: {
     title: string;
@@ -209,6 +203,5 @@ export type {
   UtilitiesResponseType,
   UtilitiesType,
   UtilityResponseType,
-  UtilitySlugsResponseType,
   UtilityType
 };

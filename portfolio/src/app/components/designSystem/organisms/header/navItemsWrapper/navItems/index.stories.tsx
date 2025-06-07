@@ -1,10 +1,9 @@
-import { defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { mapObjectByKeyValue } from '@/utils';
 import { NavItems } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
-const navigation = navigationItems(defaultLocale);
+const navigation = navigationItems('en');
 
 const meta = {
   argTypes: {
@@ -21,7 +20,7 @@ const meta = {
   args: {
     currentPathname: navigation.home.href,
     items: navigation,
-    locale: defaultLocale
+    locale: 'en'
   },
   component: NavItems
 } satisfies Meta<typeof NavItems>;

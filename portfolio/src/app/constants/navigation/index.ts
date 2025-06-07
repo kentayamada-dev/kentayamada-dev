@@ -3,6 +3,8 @@ import { dictionaries } from '../i18n';
 import type { LocaleKeyType } from '../i18n/types';
 import type { NavigationType } from './types';
 
+const REQUEST_URL_HEADER = 'x-request-url';
+
 /* eslint-disable sort-keys*/
 const navigationItems = (locale: LocaleKeyType): NavigationType => {
   const { navigation } = dictionaries[locale];
@@ -17,4 +19,4 @@ const navigationItems = (locale: LocaleKeyType): NavigationType => {
 };
 /* eslint-enable sort-keys*/
 
-export { navigationItems };
+export { REQUEST_URL_HEADER, navigationItems };

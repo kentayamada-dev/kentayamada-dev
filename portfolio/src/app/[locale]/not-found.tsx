@@ -1,5 +1,5 @@
 import { cookies } from 'next/headers';
-import { NotFound } from '@/components/designSystem/molecules';
+import { NotFound } from '@/components/designSystem/organisms';
 import { contentfulType } from '@/constants/contentful';
 import { arrayOfLocales, defaultLocale, dictionaries, localeCookieName } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';

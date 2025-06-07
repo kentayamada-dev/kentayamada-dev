@@ -7,7 +7,7 @@ import remarkMath from 'remark-math';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import { unified } from 'unified';
-import { ArticleLink } from '@/components/designSystem/molecules';
+import { ArticleList } from '@/components/designSystem/molecules';
 import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
@@ -115,23 +115,7 @@ const Page: ArticlePageType = async (props) => {
         </div>
         <div className='mt-20 w-full px-5 sm:px-0'>
           <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{articlesDict.recommend}</h2>
-          <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
-            {articles.map((articleData) => {
-              return (
-                <ArticleLink
-                  createdAt={articleData.createdAt}
-                  description={articleData.description}
-                  href={articleData.href}
-                  key={articleData.href}
-                  likeCount={articleData.likeCount}
-                  locale={locale}
-                  title={articleData.title}
-                  topics={articleData.topics}
-                  viewCount={articleData.viewCount}
-                />
-              );
-            })}
-          </div>
+          <ArticleList articles={articles} locale={locale} />
         </div>
       </main>
     </>

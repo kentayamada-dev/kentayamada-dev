@@ -1,6 +1,7 @@
 import { cookies } from 'next/headers';
 import { NextResponse } from 'next/server';
 import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18n';
+import { REQUEST_URL_HEADER } from '@/constants/navigation';
 import { setLocaleCookie } from '@/lib/cookies-next';
 import { isValueInArray } from '@/typeGuards';
 import { isPathStartingWith } from '@/utils';
@@ -26,11 +27,20 @@ export const config: MiddlewareConfig = {
 export const middleware: NextMiddleware = async (request) => {
   const { pathname } = request.nextUrl;
   const cookieStore = await cookies();
-  let response = NextResponse.next();
 
   if (request.method === 'HEAD') {
     return new NextResponse(null, { status: 200 });
   }
+
+  const requestHeaders = new Headers(request.headers);
+
+  requestHeaders.set(REQUEST_URL_HEADER, request.url);
+
+  let response = NextResponse.next({
+    request: {
+      headers: requestHeaders
+    }
+  });
 
   if (!isPathStartingWith(pathname, 'storybook')) {
     const foundLocale = arrayOfLocales.find((locale) => {

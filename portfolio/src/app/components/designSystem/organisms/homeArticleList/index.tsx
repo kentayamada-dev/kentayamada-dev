@@ -17,7 +17,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
   }, []);
 
   return (
-    <div className='flex flex-col gap-y-10'>
+    <div className='flex w-full flex-col gap-y-10'>
       {/* eslint-disable @stylistic/indent */}
       {isMounted
         ? props.articles.map((article, index) => {
@@ -33,7 +33,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
                   ease: 'easeOut'
                 }}
               >
-                <Link className='bg-primary hover-primary rounded-lg p-3' href={article.href}>
+                <Link className='bg-primary hover-primary w-full rounded-lg p-3' href={article.href}>
                   <article className='flex flex-col gap-y-3'>
                     <div className='flex items-center gap-x-2'>
                       <div className='h-3 w-0.5 rounded-full bg-blue-500' />

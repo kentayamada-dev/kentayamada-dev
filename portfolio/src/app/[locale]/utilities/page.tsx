@@ -4,7 +4,8 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getMetadata, getUtilities } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import { throwColoredError } from '@/utils';
+import { getCount } from '@/lib/nextjs/actions';
+import { getRedisKey, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
@@ -32,13 +33,20 @@ const Page: PageType = async (props) => {
   const title = dictionaries[locale].utilities;
   const utilitiesHref = navigationItems(locale).utilities.href;
 
-  const utilities = (await getUtilities(locale)).map((utility) => {
-    return {
-      href: `${utilitiesHref}/${utility.slug}`,
-      subtitle: utility.subtitle,
-      title: utility.title
-    };
-  });
+  const utilities = await Promise.all(
+    (await getUtilities(locale)).map(async (utility) => {
+      const viewCount = await getCount(getRedisKey('utility', 'view', utility.slug));
+      const likeCount = await getCount(getRedisKey('utility', 'like', utility.slug));
+
+      return {
+        href: `${utilitiesHref}/${utility.slug}`,
+        likeCount,
+        subtitle: utility.subtitle,
+        title: utility.title,
+        viewCount
+      };
+    })
+  );
 
   return (
     <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>

@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { EyeIcon, HeartIcon } from '@/components/icons';
+import { formatNumber } from '@/utils';
 import type { UtilitiesListType } from './types';
 
 const UtilitiesList: UtilitiesListType = (props) => {
@@ -7,9 +9,23 @@ const UtilitiesList: UtilitiesListType = (props) => {
       {props.utilities.map((utility) => {
         return (
           <Link className='bg-primary hover-primary rounded-lg p-3' href={utility.href} key={utility.href}>
-            <article className='flex flex-col gap-y-3'>
-              <h2 className='text-lg font-semibold tracking-tight text-zinc-800 dark:text-zinc-100'>{utility.title}</h2>
-              <p className='text-sm'>{utility.subtitle}</p>
+            <article className='flex min-h-60 flex-col'>
+              <h2 className='text-primary text-2xl font-bold'>{utility.title}</h2>
+              <p className='text-secondary mt-2 text-base'>{utility.subtitle}</p>
+              <div className='text-secondary mt-auto flex items-center justify-end gap-x-3 text-base'>
+                <div className='flex items-center gap-x-2'>
+                  <div className='size-5'>
+                    <HeartIcon />
+                  </div>
+                  <span>{formatNumber(utility.likeCount, props.locale)}</span>
+                </div>
+                <div className='flex items-center gap-x-2'>
+                  <div className='size-5'>
+                    <EyeIcon />
+                  </div>
+                  <span>{formatNumber(utility.viewCount, props.locale)}</span>
+                </div>
+              </div>
             </article>
           </Link>
         );

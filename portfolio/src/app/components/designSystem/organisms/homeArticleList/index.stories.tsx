@@ -1,10 +1,9 @@
-import { articleLinkStory } from '@/components/designSystem/molecules';
 import { HomeArticleList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
+import type { JSXElementType } from '@/types/components';
 
 const meta = {
   args: {
-    ...articleLinkStory.args,
     articles: [
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),
@@ -31,9 +30,19 @@ const meta = {
         title: 'Title 4'
       }
     ],
+    locale: 'en',
     readArticle: 'Read article'
   },
-  component: HomeArticleList
+  component: HomeArticleList,
+  decorators: [
+    (Story): JSXElementType => {
+      return (
+        <div className='flex min-h-screen w-96'>
+          <Story />
+        </div>
+      );
+    }
+  ]
 } satisfies Meta<typeof HomeArticleList>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

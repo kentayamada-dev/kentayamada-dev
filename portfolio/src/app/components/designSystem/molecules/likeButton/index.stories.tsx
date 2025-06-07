@@ -1,5 +1,4 @@
 import { fn } from '@storybook/test';
-import { defaultLocale } from '@/constants/i18n';
 import { LikeButton } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
@@ -7,7 +6,7 @@ import type { JSXElementType } from '@/types/components';
 const meta = {
   args: {
     likeCount: 100,
-    locale: defaultLocale,
+    locale: 'en',
     onLike: fn()
   },
   component: LikeButton,

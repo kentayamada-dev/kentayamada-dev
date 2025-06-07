@@ -1,6 +1,6 @@
 import { fn } from '@storybook/test';
 import { JapanFlagIcon } from '@/components/icons';
-import { arrayOfLocales, defaultLocale, locales } from '@/constants/i18n';
+import { arrayOfLocales, locales } from '@/constants/i18n';
 import { Switcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
@@ -13,7 +13,7 @@ const meta = {
     isMounted: true,
     onChange: fn(),
     options: locales,
-    value: defaultLocale
+    value: 'en'
   },
   component: Switcher,
   decorators: [

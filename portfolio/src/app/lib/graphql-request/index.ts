@@ -14,8 +14,7 @@ import type {
   ProjectResponseType,
   SitemapResponseType,
   UtilitiesResponseType,
-  UtilityResponseType,
-  UtilitySlugsResponseType
+  UtilityResponseType
 } from '@/types/contentful';
 import type {
   GetAboutType,
@@ -115,22 +114,6 @@ const getArticleSlugs: GetSlugsType = cache(async () => {
   const articleSlugs = (await apiRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
 
   return articleSlugs;
-});
-
-const getUtilitySlugs: GetSlugsType = cache(async () => {
-  const query = gql`
-    query Query {
-      utilityCollection {
-        items {
-          slug
-        }
-      }
-    }
-  `;
-
-  const utilitySlugs = (await apiRequest<UtilitySlugsResponseType>('contentful', query)).utilityCollection.items;
-
-  return utilitySlugs;
 });
 
 const getMetadata: GetMetadataType = cache(async (locale, id) => {
@@ -390,6 +373,5 @@ export {
   getProjects,
   getSitemap,
   getUtilities,
-  getUtilityBySlug,
-  getUtilitySlugs
+  getUtilityBySlug
 };

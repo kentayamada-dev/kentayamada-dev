@@ -1,10 +1,9 @@
-import { defaultLocale } from '@/constants/i18n';
 import { Calculator } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    locale: defaultLocale
+    locale: 'en'
   },
   component: Calculator
 } satisfies Meta<typeof Calculator>;
