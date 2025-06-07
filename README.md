@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2557efaaf4d837588f21539e90db6674.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e39043365ea83267522fa4e23719ae95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08e4216410ab504d2d586b32ec5649d914f7af48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-90013045-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 格安備蓄米の精米　県内でも始まる…通常分に上乗せで精米工場は土日もフル稼働へ【福井】
+      <a href=https://news.yahoo.co.jp/articles/9685b57ec16845f044641ddbe55537a214b1ade1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010018-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 5キロ1800円「底値」のコメはいつから買える？ 備蓄米の“流通スピード”と販売店を調査！
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5943f44539c4cc73d906cc8dc3f5c0cc01e569fc3e6e887ee2def829ce266ad6.jpg> コメ適正価格は3000円 生産者団体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541416>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f472658dfb16491440e731654862c7c32633bc18f9417713fe28c1037b984eb8.jpg> トンネルで車が正面衝突 男性死亡
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c007c070db230d52db5a91fec5ec7bab4630d50fd9b7c6916c765f4bf4829ed9.jpg> 自転車で万博へ行く 記者が実走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541421>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/868443ffbd360bb730ce0626e91a1e762c534912b5c7a284d71a7af801ac13d3.jpg> ガルベス氏 長嶋さんに謝りたい
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541418>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimatafuyu/02239365/title-1749251856546.jpeg?exp=10800> 6月の風物詩 大河クランクイン
+      <a href=https://news.yahoo.co.jp/pickup/6541427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/6af82a25cff10d1d1fe1c6f181ca0a9452b96542b56f0d425bad8ca667a64a4c.png> 三又又三 不動産会社で週5働く今
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 13:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 13:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
