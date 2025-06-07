@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5553dd73b5c59adb29b9febd9561c3d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2792801e9e5ea630d16f9725f8fa9229.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cdb8658d785e7e130197935cb922068c5c25997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000179-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=695&ch=695&exp=10800&fmt=webp> BTS、メンバー4人の除隊控え事務所が注意喚起「現場へのご訪問は固くお断りいたします」
+      <a href=https://news.yahoo.co.jp/articles/e9bafb53073751287478127e45e9217625168c9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070675-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1000&ch=1000&exp=10800&fmt=webp> 元横綱白鵬の宮城野親方が帰国　故郷モンゴルで父関連式典参加「ゆっくりできなかった」と苦笑
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/b66ff31ad88e62831d49b1902e5ea305ed07913f11345ecc49c986de8ef0a090.jpg> 別姓婚待ち58万人超の推計も 背景
+      <a href=https://news.yahoo.co.jp/pickup/6541440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4c492277a643716e45216d074f643c65bbdd98d3cde7d974e4925b43469b96ec.jpg> トランプ氏 テスラ車の処分を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/3f7e139f277e195c1f1544d90c5dd6d5ce7cbcf438d0db43c28e06ea7c9bf77b.jpg> 兵庫の維新議員 離党・除名相次ぐ
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541430>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 豪で車転落し男女死亡 男性は邦人
+      <a href=https://news.yahoo.co.jp/pickup/6541445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/965c77491bebbcaaf463e3e5eb1aa7bdf8c5a18f103d12d15e258ff16df3e2c6.jpg> 頭部に打球 阪神・石井が自宅静養
       </a>
     </td>
   </tr>
@@ -427,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c383de59e60f069acbba6c2e466cf1945a7ba86c5ca0d68c46f7c8bbfdc03426.jpg> 天心パンツ脱ぎ計量クリア 苦笑い
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/648040f1fd4be1707566737f22e8d1cf3e61063b79645465ad74d26c6b7c1d9e.jpg> 天心パンツ脱ぎ計量クリア 苦笑い
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/6af82a25cff10d1d1fe1c6f181ca0a9452b96542b56f0d425bad8ca667a64a4c.png> 三又又三 不動産会社で週5働く今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 15:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 15:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
