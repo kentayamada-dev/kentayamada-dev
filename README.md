@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e00f314edf1e8391eb4456fc8f160db3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2e1cf2cf3d9230d86850f39c5ec4b8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f38777eb670da872f26608c6e316d1b23b080fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983762-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲・原口衆院議員「古古古米はニワトリさんが一番食べてる」と発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c905cfb641d35ddf1af59bb2630f7f13c77c9c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347552-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神ーオリックス　前夜は警告試合…藤川監督、岸田監督ともにメンバー交換は笑顔で握手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58db84401dcf2a76c6d0b5646facee01014e5830>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国の関心は中国へ？　6月の日米合意に暗雲　経済安保でトランプ氏引き付けられるか
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d54d2489d0515ba586375843cc36303dd80b634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=734&ch=734&exp=10800&fmt=webp> 立憲・原口元総務相「古古古米、人間様は食べてない」と発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50476dbdfb750382f651a51eee178ff95d5e79ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050120-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=351&ch=351&exp=10800&fmt=webp> 海自掃海艇「うくしま」、５０ｍの海底から主要部引き揚げ…昨年１１月に火災で沈没
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5f5c51d9b820bb51eb5b471cc45ff7aef8cbbfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000116-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=411&ch=411&exp=10800&fmt=webp> オリックス・広岡大志に甲子園大ブーイング…プレーボール直後から異様な空気　前日、二塁へのスライディングで警告
+      <a href=https://news.yahoo.co.jp/articles/efd195acfad8ce9b5a646a37651a7e51a9bf9f0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パラグライダー着陸失敗　1人重体1人重傷、宮崎
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4440a904b788bb929f8a12ec81537c65ec60bf1e6b4bf44ab87adef5608e7f7f.jpg> 備蓄米販売1週間 コメ価格二極化
+      <a href=https://news.yahoo.co.jp/pickup/6541468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/d9ebfc5786be03cdff792ebc8107fbb227095d9b4e0165de68b1f273afc10048.jpg> 炎上沈没の海自掃海艇 引き揚げ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/dd7075b06495679221a0fa1c8f29dffc9613167669329410a776ae435b748097.jpg> 射撃場で散弾銃が暴発 4人軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6541466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/37aa86f8d707e9faf90a251a9a23e63984ff62c30bb613773142a03d15bd68d9.jpg> ラーメン店で食中毒 8人に症状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/bb7e11fc55de157792f48ff2b09c01fdf1c3da335942c227399f9ea31c0f0573.jpg> パラグライダー墜落 1人意識不明
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8c80222493e682025ae16642ff9c5229b0798c2591256087d09e3a8690fc04e3.jpg> ピンク色のキリギリス 5歳児発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/fe2898150f7b83031248f3761a5d6d0cd121eec5da4581b11691695ef855b8c4.jpg> 巨人 長嶋茂雄さん死去後初の白星
+      <a href=https://news.yahoo.co.jp/pickup/6541472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e47b94db4e57b6c2904cbd80bf74a602833c5b9f33b67b54f777cf17ac6dcf88.jpg> 73キロの超遅球 よけきれず死球に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 19:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 20:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
