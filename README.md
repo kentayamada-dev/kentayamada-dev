@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f592979c0f22ed5beefcdd849f442618.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a4644beb3e2a0cbe5516c274ffee556.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6d3a0c18cfa29825b1322abd7a171bcac264dc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉大臣「海外から緊急輸入検討」　スポット取引価格が急落　コメ値下がりの兆し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fedcbe82772a13932a1a5fdf51eaf3f645b894de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議「さらに進展」、一致点まだ見いだせず－赤沢再生相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ba5c86ff92cf4d79bfe1ebd7da569a923dbfa15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 【速報】万博55日目の来場者は約15万9000人　“レジオネラ属菌”再び指針値以上検出でショーは当分の間中止に　予約振替行われず
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba89df725ceddb8631f6283dc37197013360d096>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000054-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=42&cw=604&ch=604&exp=10800&fmt=webp> 日米関税交渉「一致点まだ」　6月中旬の首脳合意見通せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5e89f0a44e6ec88bde94c5914846eb0b43ddac4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070226-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=1263&ch=1263&exp=10800&fmt=webp> 栗山英樹氏「お礼だけ一言言いたかった」大谷二刀流後押し長嶋茂雄さん２時間23分弔問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/837b13d0d211ee3ab2cd78cfb18fa4cb3162b030>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00258190-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「小泉米」放出に米店の怒り「我々をバカにするな」　 4月発注の「江藤米」がまだ届かないワケ
+      <a href=https://news.yahoo.co.jp/articles/7c23ed0f53a88e8d0ad777173bd5fc2cd3c8525b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8a722f0fd88f6a8120d044237bacc3523b9b6af57362d28b34c9d438438d10da.jpg> 兵庫県知事「減給」案 政党の思惑
+      <a href=https://news.yahoo.co.jp/pickup/6541405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8abf803515e2557ed7db82e36cd84470e2d1c3aea4949a226940153a86fb3093.jpg> コメの業者間相場 2割近く急落
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/472786c17b44a2c274e7a60bc2aa30142ee4cedfe85fbb058d400511cbfaf918.jpg> ひき逃げ 自転車男性はねられ重体
+      <a href=https://news.yahoo.co.jp/pickup/6541402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚「終身刑化」が顕著
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7e667b30560911ad8a1a9b8ddeea8107d211bb3416ba296cfe3b963a0173b52a.jpg> ベッカム氏に爵位授与へ 英報道
+      <a href=https://news.yahoo.co.jp/pickup/6541404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/472786c17b44a2c274e7a60bc2aa30142ee4cedfe85fbb058d400511cbfaf918.jpg> ひき逃げ 自転車男性はねられ重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 10:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 10:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
