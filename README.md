@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/321c37692c51c1d6ebfa26b05245eaaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c097d013363d97bc8eee29d6b5240c02.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ffcb94929a722d47948452f1b657547ada6de51>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36072270-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 【全仏オープン】３連覇の小田凱人「上がってきた相手、ねじ伏せた」「自分のショー見せられた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a7ac599cc9151c9b04a8e65d6867b517e5cb1c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-04480488-saga-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 原口一博氏「古古古米はニワトリが一番食べている」　備蓄米巡り「人間様は食べていない」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 00:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 01:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
