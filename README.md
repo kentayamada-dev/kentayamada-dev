@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b9aac1ef0ffccfba0542aad40ca952a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5553dd73b5c59adb29b9febd9561c3d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1cdb8658d785e7e130197935cb922068c5c25997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000179-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=695&ch=695&exp=10800&fmt=webp> BTS、メンバー4人の除隊控え事務所が注意喚起「現場へのご訪問は固くお断りいたします」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73f69275d6601f28bec47d9325c7dbf6873f3a04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347492-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=860&ch=860&exp=10800&fmt=webp> Ａｌｅｘａｎｄｒｏｓ　ボーカル川上の喉の不調でライブ中止　６日もアンコール届けられず「本当にごめん」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000179-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=695&ch=695&exp=10800&fmt=webp> BTS、メンバー4人の除隊控え事務所が注意喚起「現場へのご訪問は固くお断りいたします」
       </a>
     </td>
   </tr>
@@ -387,19 +379,27 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/68898d653a010f328f4371c4843214c462b569ede6633783bdd8fa156e0e2e8f.jpg> 公明が減税封印 与党不一致避ける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/17c6e92a9aafcaad4d0eaf34498a19d5fae6c38524fc4c1cbaf7c9fead7ab8b2.jpg> 備蓄米ブーム? 米価格下落するか
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541433>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f0baa6768aa0516b30e36935953135f425fbd5feca9dbdf05817094a8ee124be.jpg> 各地で30℃超え 熱中症のリスク大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/58aa641721aa6ff33bb0dbbffbdf211ad02f75679a77cc218df013f372c00cea.jpg> 露 侵攻は「国家存亡懸けた」戦い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/17c6e92a9aafcaad4d0eaf34498a19d5fae6c38524fc4c1cbaf7c9fead7ab8b2.jpg> 備蓄米ブーム? 米価格下落するか
+      <a href=https://news.yahoo.co.jp/pickup/6541435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/622a509de4a00dc96808a406a1ff82a44d9d135944e844622613ca65fc81a3bd.jpg> 英で観光公害 自宅を黒く塗る住民
       </a>
     </td>
   </tr>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/868443ffbd360bb730ce0626e91a1e762c534912b5c7a284d71a7af801ac13d3.jpg> ガルベス氏 長嶋さんに謝りたい
+      <a href=https://news.yahoo.co.jp/pickup/6541437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e33764026b0820dcef46da0b35b7f2f270755e6499bc57e47d6cb925a298a42d.jpg> BTS メンバー4人が兵役終了へ
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 14:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 15:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
