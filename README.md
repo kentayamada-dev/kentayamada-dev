@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e47d01fa14d464de8f24c3848aff8e14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2557efaaf4d837588f21539e90db6674.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/437dde231dc514fc8e77be48f4330b9f47d9dda0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983610-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相が担当閣僚らと会談「一致点を見いだせていません」双方の主張に今も“隔たり”あるとの認識　5回目の関税交渉ため訪米中
+      <a href=https://news.yahoo.co.jp/articles/08e4216410ab504d2d586b32ec5649d914f7af48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-90013045-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 格安備蓄米の精米　県内でも始まる…通常分に上乗せで精米工場は土日もフル稼働へ【福井】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb96e57c2a6fa7a72bcbbc2df71bed5cfd7743d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983619-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「交渉は順調に進むだろう」アメリカと中国の2回目貿易交渉が9日ロンドンで開催へ　レアアース規制について「輸出再開に同意した」と主張
       </a>
     </td>
   </tr>
@@ -366,31 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2ab1cab6f1c490366089aeb8678a4d887774581>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-02621481-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 早朝から整理券求める大行列　"随意契約"備蓄米　福岡市内の大手小売店で販売開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cde68a33cc5770d3cc88adde1b48501a625f1216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070370-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=1179&ch=1179&exp=10800&fmt=webp> 電撃引退の西内まりやさん「悔しかった」「ごめんなさい」　SNSで“本音”吐露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a2dbc4ddc49e08985fd594a18e389d976a88b99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000040-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=446&cy=0&cw=1400&ch=1400&exp=10800&fmt=webp> 阪神　打球直撃の石井大智に「頼むから無事で」「健康でいてくれれば」「慌てず万全で」ファンの祈る声広がる
+      <a href=https://news.yahoo.co.jp/articles/769bdea06c81135325a6b5fb5b47eba0b5681a4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000006-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=527&ch=527&exp=10800&fmt=webp> 東電旧経営陣賠償取り消し　高裁「津波予見困難」　原発事故訴訟　株主側が逆転敗訴
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5327cfaf587533cc0e090ff864f9aee3b188ddb76e601fa7a0af4e22c6f5dd82.jpg> 自民が都議選公約 所得倍増へ支援
+      <a href=https://news.yahoo.co.jp/pickup/6541423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f0baa6768aa0516b30e36935953135f425fbd5feca9dbdf05817094a8ee124be.jpg> 各地で30℃超え 熱中症のリスク大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e3002a08318922b2b951c4da3a5f278041f108ac98fa531bd5e92e53fbf63c72.jpg> 香港 服役中の民主活動家を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8a96f5fb0159eec23cd5c27a7295a109ee237183f7bb86a7d10b90f5aafa6d98.jpg> 東電株主訴訟 揺れる司法判断
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚 厳罰化で獄死が増加
+      <a href=https://news.yahoo.co.jp/pickup/6541398>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02226291/title-1749242920122.jpeg?exp=10800> 電話が苦手な20代 企業の対応は
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 12:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 13:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
