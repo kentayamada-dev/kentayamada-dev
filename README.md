@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ec2eb4d2d204424f8a02d935faa9ae8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9496ab0c2cec75dcd7a20d49a8a09227.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82805c7e14fecd294ba4d1073ebd8b5f403448c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010004-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1616&ch=1616&exp=10800&fmt=webp> 死闘制し全仏OP初優勝「やり遂げた」 世界2位ガウフ「この大会が一番勝てると思っていた」＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/ed6e440dfe5858227167ed5264e8a366a6f88fd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964351-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 9日以降大雨のおそれ 前線が九州に停滞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44e15b98003835129f98ad2a8d3eec1a6ffc7ee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア空爆で1人死亡40人負傷　ウクライナ東部ハルキウ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38559172738ba35f2193e65460159a5ebd7a4135>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010005-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=1628&ch=1628&exp=10800&fmt=webp> ミス70本で逆転負け「最悪の決勝」 準Vサバレンカ「彼女が素晴らしいプレーをしたからではない…」＜女子テニス＞
       </a>
     </td>
   </tr>
@@ -370,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/af7f37f9227716da4fc9c2e05afd6c4a214ff33ae6d503c3d3b5213ae7772849.jpg> 陰謀論が拡散 韓国大統領選の裏側
+      <a href=https://news.yahoo.co.jp/pickup/6541498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/95cfbd02da663317a8708756c87c8523742ab37407009d2eb054e3fffc4d1825.jpg> 九州で警報級大雨続く恐れ 警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8dd6738a44d2a6f7e4c545640041ab7a01b317335281872e5ef4c1e5f66eb458.jpg> ロシアがウ北東部に大規模攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6541485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/af7f37f9227716da4fc9c2e05afd6c4a214ff33ae6d503c3d3b5213ae7772849.jpg> 陰謀論が拡散 韓国大統領選の裏側
       </a>
     </td>
   </tr>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e3dcc33b83caad6ef93801e286e892f73a39dcdde3134c63602eb6bde3baabf7.jpg> 友人の首切り付け疑い 男2人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/ede17c4fde76d29aba8d9b8bf5230bc0ab8c1e550274d8414d0ae4704565902e.jpg> パラグライダー大会 女性溺れ死亡
       </a>
     </td>
   </tr>
@@ -410,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9bc3d0918fc2664b1a65598433d195589aff389434ae83b3676eaccab75041e6.jpg> なぜ 体調崩す前に子どもが二重
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541475>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
       </a>
@@ -418,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/add48de21ff6a7fd052fe7ef5b90563bf1b62c36b712637a07355e93d8f6a010.png> 結婚支援で成婚急増 滋賀県の試み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/a7c84e68f70edb9889a1663f6de0293375f0260c6928878c69295a55f4cb0499.jpg> 異例 Snow Manが会場から生配信
+      <a href=https://news.yahoo.co.jp/pickup/6541495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6fde760540fc5fa82a55b561fc18c0afc27912710280922179e7b0794e3c8790.jpg> 鈴木誠也が1試合2HR 敵地に衝撃
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 07:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 07:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
