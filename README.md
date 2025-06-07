@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f10c46968fc030787e361d1902fb8950.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a005a750164c92ad9fab197c1c632693.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c96985c8f4a607bf9b792c1cae71afdf111d0ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000049-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシア ウクライナ東部に侵攻開始以降「最大規模の攻撃」3人死亡 子供2人含む22人けが
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fab39fd3dbae7f3d46919166683f93282e8bc8c7>
@@ -394,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5f61a23697f993d1fbd06a676c9157a13f166f6868010ef2386742c0a3ff804b.jpg> 8日から10日にかけ九州で大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6541474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/d534b4835527d0255cb56838cd5463f469c58785f4b6b6c782982fc92e6120e9.jpg> 自民幹事長 コメ輸入拡大に難色
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/6b2865b0a7e517bfe31a18406593940fa220fd0916556e34b19c50fe679983d6.jpg> 筑波大 人文系の教育課程変更方針
+      <a href=https://news.yahoo.co.jp/pickup/6541483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8dd6738a44d2a6f7e4c545640041ab7a01b317335281872e5ef4c1e5f66eb458.jpg> ロシアがウ北東部に大規模攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/3506db104bd8063fc7c63a037b1f4e050bd3f02d288d8288715f22f487fe70e2.jpg> パラグライダーの大会で事故 重体
+      <a href=https://news.yahoo.co.jp/pickup/6541467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2bc23d73c1842097bd313ed4fd43a7cf0f5efee022b626d8692e58d87361f020.jpg> 日本郵便に重い処分 業界に影響?
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
+      <a href=https://news.yahoo.co.jp/pickup/6541482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2d97a1bfbe1e6db78d54b98c6ebf455453d3aa0f2911d7272bbfe4da76c61f16.jpg> 交通事故のタンチョウ 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8ac663e6abee0914e75b279042562f3ab935d5f280ae256976b799cfad0cbdf6.jpg> 朝倉未来 クレベルとの対戦決定
+      <a href=https://news.yahoo.co.jp/pickup/6541475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 21:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 22:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
