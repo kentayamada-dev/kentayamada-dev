@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21992c431e0c1dffcdced937883719c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1f3dbc13db33770baa30600a06fc4e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/140ae627b000a83e79aab84f6ef928a19937d8a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050016-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> シングルスとの２冠狙った小田凱人、ダブルスは準優勝…全仏テニス
+      <a href=https://news.yahoo.co.jp/articles/0786699dd575d603760ed2ab81ba67db738e1d57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00031378-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> マッチタイブレーク4-7から6ポイント連取のヒュウェット／リードが全豪に続き男子ダブルス6連覇、小田凱人は単複2冠ならず [フレンチ・オープン車いすテニス]
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 04:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 05:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
