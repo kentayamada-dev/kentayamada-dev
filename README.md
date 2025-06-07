@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee960a2e0e9b9d53ce49c8c2ce15ff89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/776c2916779c72b1165a7adf49deb2e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c49b4c8bdca6e873fc01f4ddd7ff1d1d32a1a9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-06071216-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 【オリックス】水本ヘッドコーチが阪神側に謝罪「申し訳なかった」…広岡大志の守備妨害「警告」受け
+      <a href=https://news.yahoo.co.jp/articles/c6691710a700a60474f1e0aac049773eab1f0b0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36071355-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 【阪神】メンバー表交換時に審判団が「警告プレー」説明か　両監督の握手に球場から拍手も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b7f85ab8965f9a7c8c4afb2303f75499827e3f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050117-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「古古古米は鶏さんが一番食べている」「恐ろしいでしょ」…立憲民主の原口一博氏が発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d37e177a0cdd4a64603053e934d75c521e60f55e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガソリン減税、共同提出へ　立維国、詰めの作業
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a862d9c2fd31d35e9ea088323d84fc9ad4c6b0b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983681-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 5回目の関税交渉で訪米中の赤沢経済再生相が担当閣僚らと会談…双方の主張に今も“隔たり”あるとの認識示す　石破首相「国益を犠牲にしてまで急ぐつもりはない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81cba5fcd00925e303ca0c0fc95cee9bbb7e39aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000399-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=761&ch=761&exp=10800&fmt=webp> ジェラードン・かみちぃ結婚！相手はTEAM BANANA・山田愛実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afd43f37babfb60c0c27a26231e689817d9b7602>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000110-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 【お米に暴言全文】立憲・原口一博氏「古古古米はニワトリさんが一番食べてる。人間様は食べてない」演説で小泉米酷評「本当のこと言っちゃいけないんですか？」※キリトリなし
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2316234fdb02b905920efb54fa89f844b49e18249f043e7d3d73b648f141a3dc.jpg> 災害取材時に生理 アナ語る苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6541457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8c80222493e682025ae16642ff9c5229b0798c2591256087d09e3a8690fc04e3.jpg> ピンク色のキリギリス 5歳児発見
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 18:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 18:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
