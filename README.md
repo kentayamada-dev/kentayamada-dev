@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e065da32b1de60cca1deb459bd9cf931.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a06bf2bd7df78aa1b61d73f1b5d3789b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f92c001c345b2231f5daeae9b95b5be021b55a89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-10547708-baseballk-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=632&ch=632&exp=10800&fmt=webp> ソフトバンク、守護神・オスナが痛恨のセーブ失敗…谷繁元信氏「9回もモイネロ続投という考えもあったと思うんですよ…」
+      <a href=https://news.yahoo.co.jp/articles/6f46176fa90de18061b73c095b441639e2fbdfe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010001-chibatopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 自転車の男性ひき逃げされ意識不明の重体　千葉市稲毛区の交差点
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7c0f72a71b7a60cfcd0faea9c1ae829b49adc935b059540bf8b9eeb7bfcbbf44.jpg> 米大統領「マスク氏正気失った」
+      <a href=https://news.yahoo.co.jp/pickup/6541403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8a722f0fd88f6a8120d044237bacc3523b9b6af57362d28b34c9d438438d10da.jpg> 兵庫県知事「減給」案 政党の思惑
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/df31bbaa6344bddb1c606f389061d509a9435ee8b18e4cbcc100b7d8771d0368.jpg> 京都市で観光客切り付け 犯人逃走
+      <a href=https://news.yahoo.co.jp/pickup/6541404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/9627bdf5fe837dccc0638212109aeba9c19f67b8d686dc4e6b8fc84ab4fc7199.jpg> ひき逃げ 自転車男性はねられ重体
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/015df8b22a1337fe9beddcf8b6a360eaafb2e0c2a365f4b2e4ca4fd804e3d013.jpg> SB監督 モイネロには申し訳ない
+      <a href=https://news.yahoo.co.jp/pickup/6541401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 引退から9年 宮間あやさんの現在
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 09:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 09:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
