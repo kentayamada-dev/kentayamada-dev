@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f555942442291fdf6d6296eae64b184d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc17567dce326c6b7ef5fc9e5e7a9714.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0786699dd575d603760ed2ab81ba67db738e1d57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00031378-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> マッチタイブレーク4-7から6ポイント連取のヒュウェット／リードが全豪に続き男子ダブルス6連覇、小田凱人は単複2冠ならず [フレンチ・オープン車いすテニス]
+      <a href=https://news.yahoo.co.jp/articles/82805c7e14fecd294ba4d1073ebd8b5f403448c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010004-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1616&ch=1616&exp=10800&fmt=webp> 死闘制し全仏OP初優勝「やり遂げた」 世界2位ガウフ「この大会が一番勝てると思っていた」＜女子テニス＞
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 06:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 06:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
