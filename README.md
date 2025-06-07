@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/852d2c9f01fcdcfeaffae3fc3bbba03b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1da0799e5fd2dd2f3693d03f1ce28c8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4cbe2b0a79ccc1246587070be2551bf59c47ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983605-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 交差点を横断していた自転車に車が衝突そのまま走り去る…自転車の男性が意識不明の重体　警察はひき逃げ事件として捜査　千葉市
+      <a href=https://news.yahoo.co.jp/articles/5182ac3d1df4bf2934a9461455be1edb3a8f461a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241447-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税” 5回目の日米閣僚協議　赤沢大臣「一致点見出すまでには至らず」　次回日程は未定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cde68a33cc5770d3cc88adde1b48501a625f1216>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070370-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=1179&ch=1179&exp=10800&fmt=webp> 電撃引退の西内まりやさん「悔しかった」「ごめんなさい」　SNSで“本音”吐露
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/720ae1504df40c56f53b5a41ad07e05b70628579>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050072-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=333&ch=333&exp=10800&fmt=webp> ９日に米中閣僚級協議、トランプ氏がＳＮＳで発表…レアアース輸出規制や関税など議題か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12bd02db6fb3202e6b34a31f8d0ede654bae3f3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000024-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 水俣病誤記の教材問題、トライが再発防止策　正しい内容の動画公開へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ba5c86ff92cf4d79bfe1ebd7da569a923dbfa15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 【速報】万博55日目の来場者は約15万9000人　“レジオネラ属菌”再び指針値以上検出でショーは当分の間中止に　予約振替行われず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚 厳罰化で獄死が増加
+      <a href=https://news.yahoo.co.jp/pickup/6541416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f472658dfb16491440e731654862c7c32633bc18f9417713fe28c1037b984eb8.jpg> トンネルで車が正面衝突 男性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1db55aaad7e36b854823b732c52c28f1c9908b31e04c902d08a79805f69f12b3.jpg> 「赤本」表紙変更 売り上げ影響は
+      <a href=https://news.yahoo.co.jp/pickup/6541415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚 厳罰化で獄死が増加
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 11:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 12:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
