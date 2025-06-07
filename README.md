@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6952b43083f0272f9563dddc164e0f62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12052f74da19a8690e0606c5af2da87d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97a405ff04789c5be73ab5279186da004c98535d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00031377-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 女子世界トップ2対決の決勝でサバレンカに逆転勝利のガウフが2度目のグランドスラム制覇、2018年ジュニア＆24年女子ダブルスに続くフレンチ・オープン3冠目 [テニス]
+      <a href=https://news.yahoo.co.jp/articles/5b0047494f074377c64bc23137b08d610c0bd590>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010003-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1968&ch=1968&exp=10800&fmt=webp> 世界1位 準Vに涙「本当に辛い」 逆転負けサバレンカ「ひどい決勝戦」＜全仏オープン＞
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 02:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 02:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
