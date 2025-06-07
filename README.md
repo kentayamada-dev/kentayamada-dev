@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f0df6b74bf91cf674da8980fc014151.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e065da32b1de60cca1deb459bd9cf931.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07b0d9d831681418957d2e120249ba2dd7ebd6e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983568-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・中国の次回貿易協議　6月9日にロンドンで開催へ　トランプ氏「交渉は順調に進むだろう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/202b5289e54d94caa639c82cfd445fcf40023b49edc6d7822580363f197c30cf.jpg> 大川原冤罪 国と都が上告断念検討
+      <a href=https://news.yahoo.co.jp/pickup/6541393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7c0f72a71b7a60cfcd0faea9c1ae829b49adc935b059540bf8b9eeb7bfcbbf44.jpg> 米大統領「マスク氏正気失った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7c0f72a71b7a60cfcd0faea9c1ae829b49adc935b059540bf8b9eeb7bfcbbf44.jpg> 米大統領「マスク氏正気失った」
+      <a href=https://news.yahoo.co.jp/pickup/6541397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/00ee2275d8e713b2080cd63d1c9b48a4b00985c9bdb0d4cff5ea7be62b4d5b79.jpg> ふるさと納税 2市町を対象除外へ
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ff9b0b37288bb545f11ad83bfbaca1406f52f81727ee98d7ec068240dd873623.jpg> いとうまい子 八十二銀の社外取に
+      <a href=https://news.yahoo.co.jp/pickup/6541399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7e667b30560911ad8a1a9b8ddeea8107d211bb3416ba296cfe3b963a0173b52a.jpg> ベッカム氏に爵位授与へ 英報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/63430d38f86b357302fc806641d364ed0ff9b3b3d1bd1da8bb748be3b45c14be.jpg> J3奈良 監督の不適切行為で調査へ
+      <a href=https://news.yahoo.co.jp/pickup/6541400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/76e9be20abd28bba2745c39050d8778b3998120ea04137f27ffa1c5b0686c0be.jpg> 「バイオハザード」最新作を発表
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 08:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 09:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
