@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ulEK4rQFY7M?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1da0799e5fd2dd2f3693d03f1ce28c8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e47d01fa14d464de8f24c3848aff8e14.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5182ac3d1df4bf2934a9461455be1edb3a8f461a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241447-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税” 5回目の日米閣僚協議　赤沢大臣「一致点見出すまでには至らず」　次回日程は未定
+      <a href=https://news.yahoo.co.jp/articles/437dde231dc514fc8e77be48f4330b9f47d9dda0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983610-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相が担当閣僚らと会談「一致点を見いだせていません」双方の主張に今も“隔たり”あるとの認識　5回目の関税交渉ため訪米中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2ab1cab6f1c490366089aeb8678a4d887774581>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-02621481-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 早朝から整理券求める大行列　"随意契約"備蓄米　福岡市内の大手小売店で販売開始
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/348c8e06ec9836be0c58699840d9c9c8cc54b1ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000008-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 小泉進次郎農相、父・純一郎氏の郵政民営化を彷彿とさせる手腕　農水族や農協という抵抗勢力と対立しながら国民にアピール、石破内閣のコメ無策を批判していた野党を蚊帳の外に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ba5c86ff92cf4d79bfe1ebd7da569a923dbfa15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 【速報】万博55日目の来場者は約15万9000人　“レジオネラ属菌”再び指針値以上検出でショーは当分の間中止に　予約振替行われず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
+      <a href=https://news.yahoo.co.jp/articles/6a2dbc4ddc49e08985fd594a18e389d976a88b99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000040-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=446&cy=0&cw=1400&ch=1400&exp=10800&fmt=webp> 阪神　打球直撃の石井大智に「頼むから無事で」「健康でいてくれれば」「慌てず万全で」ファンの祈る声広がる
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ad818a8036222a9840cf6514175f7c29a53111c72a96104bc832996953126c78.jpg> 長嶋茂雄さん死去 元Gマイコ絶句
+      <a href=https://news.yahoo.co.jp/pickup/6541421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/868443ffbd360bb730ce0626e91a1e762c534912b5c7a284d71a7af801ac13d3.jpg> ガルベス氏 長嶋さんに謝りたい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 突然の引退 宮間あやさんの現在
+      <a href=https://news.yahoo.co.jp/pickup/6541418>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimatafuyu/02239365/title-1749251856546.jpeg?exp=10800> 6月の風物詩 大河クランクイン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 12:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 12:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
