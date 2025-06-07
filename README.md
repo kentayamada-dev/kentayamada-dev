@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/776c2916779c72b1165a7adf49deb2e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6b0542debf90467008fe23dc4223c82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6691710a700a60474f1e0aac049773eab1f0b0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36071355-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=1135&ch=1135&exp=10800&fmt=webp> 【阪神】メンバー表交換時に審判団が「警告プレー」説明か　両監督の握手に球場から拍手も
+      <a href=https://news.yahoo.co.jp/articles/a1c1d36a23cd03672c17a4572920256d67b51c22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 5回目の日米関税交渉　石破首相「完全に一致までは行ってない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b7f85ab8965f9a7c8c4afb2303f75499827e3f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050117-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「古古古米は鶏さんが一番食べている」「恐ろしいでしょ」…立憲民主の原口一博氏が発言
+      <a href=https://news.yahoo.co.jp/articles/4c84e9b0ef6bb0feb335327fe19d46e30659421d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000127-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=624&ch=624&exp=10800&fmt=webp> 古古古米、ニワトリが一番食べる　立民原口氏、備蓄米巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d37e177a0cdd4a64603053e934d75c521e60f55e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガソリン減税、共同提出へ　立維国、詰めの作業
+      <a href=https://news.yahoo.co.jp/articles/c5f5c51d9b820bb51eb5b471cc45ff7aef8cbbfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000116-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=411&ch=411&exp=10800&fmt=webp> オリックス・広岡大志に甲子園大ブーイング…プレーボール直後から異様な空気　前日、二塁へのスライディングで警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a862d9c2fd31d35e9ea088323d84fc9ad4c6b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983681-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 5回目の関税交渉で訪米中の赤沢経済再生相が担当閣僚らと会談…双方の主張に今も“隔たり”あるとの認識示す　石破首相「国益を犠牲にしてまで急ぐつもりはない」
+      <a href=https://news.yahoo.co.jp/articles/1771eea8e9a6ab58257fc18f7686c4f66410e71e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-10182416-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 埼玉の射撃場で散弾銃が“暴発” 弾が当たった男性4人けが
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/01a9a4d618a529be4c9b92707b85cd78944183dcc527a7f91b73cd61e61d0de6.jpg> 石破氏 群馬と聞くと怖い人いそう
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/86f6ea0e82efd18eaaf4171a7b82abd871e9a458c641c3c581007ffbb1ce0303.jpg> 立憲原口氏 古古古米は人間食べず
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4c492277a643716e45216d074f643c65bbdd98d3cde7d974e4925b43469b96ec.jpg> トランプ氏 テスラ車の処分を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/338ac4ac9f67d99dceb4f0d0e4c8c9784f3739bac38765eb17038b42a7ab48e7.jpg> マンション工事現場 作業員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/dd7075b06495679221a0fa1c8f29dffc9613167669329410a776ae435b748097.jpg> 射撃場で散弾銃が暴発 4人軽傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ce9c688a2bda314b6762a5af8b64d60086f04e7131383af7be5c776734e93394.jpg> 親にゲイ告白 当時振り返る息子
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8c80222493e682025ae16642ff9c5229b0798c2591256087d09e3a8690fc04e3.jpg> ピンク色のキリギリス 5歳児発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4b2c25069b8d1d2f01f9743c0e0b85300801def26398ea564b2d9c5668326c61.jpg> ジェラードン・かみちぃ結婚発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 18:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 19:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
