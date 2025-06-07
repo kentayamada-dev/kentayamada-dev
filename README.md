@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a06bf2bd7df78aa1b61d73f1b5d3789b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f592979c0f22ed5beefcdd849f442618.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f46176fa90de18061b73c095b441639e2fbdfe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010001-chibatopi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 自転車の男性ひき逃げされ意識不明の重体　千葉市稲毛区の交差点
+      <a href=https://news.yahoo.co.jp/articles/0ba5c86ff92cf4d79bfe1ebd7da569a923dbfa15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 【速報】万博55日目の来場者は約15万9000人　“レジオネラ属菌”再び指針値以上検出でショーは当分の間中止に　予約振替行われず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c23ed0f53a88e8d0ad777173bd5fc2cd3c8525b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
+      <a href=https://news.yahoo.co.jp/articles/ba89df725ceddb8631f6283dc37197013360d096>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000054-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=42&cw=604&ch=604&exp=10800&fmt=webp> 日米関税交渉「一致点まだ」　6月中旬の首脳合意見通せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5e89f0a44e6ec88bde94c5914846eb0b43ddac4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070226-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=219&cw=1263&ch=1263&exp=10800&fmt=webp> 栗山英樹氏「お礼だけ一言言いたかった」大谷二刀流後押し長嶋茂雄さん２時間23分弔問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/837b13d0d211ee3ab2cd78cfb18fa4cb3162b030>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00258190-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「小泉米」放出に米店の怒り「我々をバカにするな」　 4月発注の「江藤米」がまだ届かないワケ
       </a>
     </td>
   </tr>
@@ -386,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/02782e4bb5a503a87b5261a30a760bc181eed72c41ac6588321dd2fce18a8edb.jpg> 「骨太方針」実質賃金1%上げ目標
+      <a href=https://news.yahoo.co.jp/pickup/6541407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/cd05b0c5304b676905c35f0be5e8b49cad07f734e56a3698f2884ed228a4c314.jpg> 日米交渉 赤沢氏「一致点まだ」
       </a>
     </td>
   </tr>
@@ -411,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/9627bdf5fe837dccc0638212109aeba9c19f67b8d686dc4e6b8fc84ab4fc7199.jpg> ひき逃げ 自転車男性はねられ重体
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/472786c17b44a2c274e7a60bc2aa30142ee4cedfe85fbb058d400511cbfaf918.jpg> ひき逃げ 自転車男性はねられ重体
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 引退から9年 宮間あやさんの現在
+      <a href=https://news.yahoo.co.jp/pickup/6541406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 突然の引退 宮間あやさんの現在
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 09:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 10:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
