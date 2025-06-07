@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c473c0247e7a110971fe801a61591f8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/852d2c9f01fcdcfeaffae3fc3bbba03b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6d3a0c18cfa29825b1322abd7a171bcac264dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉大臣「海外から緊急輸入検討」　スポット取引価格が急落　コメ値下がりの兆し
+      <a href=https://news.yahoo.co.jp/articles/f4cbe2b0a79ccc1246587070be2551bf59c47ec2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983605-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=524&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 交差点を横断していた自転車に車が衝突そのまま走り去る…自転車の男性が意識不明の重体　警察はひき逃げ事件として捜査　千葉市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fedcbe82772a13932a1a5fdf51eaf3f645b894de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議「さらに進展」、一致点まだ見いだせず－赤沢再生相
+      <a href=https://news.yahoo.co.jp/articles/348c8e06ec9836be0c58699840d9c9c8cc54b1ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000008-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 小泉進次郎農相、父・純一郎氏の郵政民営化を彷彿とさせる手腕　農水族や農協という抵抗勢力と対立しながら国民にアピール、石破内閣のコメ無策を批判していた野党を蚊帳の外に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/720ae1504df40c56f53b5a41ad07e05b70628579>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050072-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=333&ch=333&exp=10800&fmt=webp> ９日に米中閣僚級協議、トランプ氏がＳＮＳで発表…レアアース輸出規制や関税など議題か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12bd02db6fb3202e6b34a31f8d0ede654bae3f3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000024-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 水俣病誤記の教材問題、トライが再発防止策　正しい内容の動画公開へ
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ba5c86ff92cf4d79bfe1ebd7da569a923dbfa15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010002-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 【速報】万博55日目の来場者は約15万9000人　“レジオネラ属菌”再び指針値以上検出でショーは当分の間中止に　予約振替行われず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c23ed0f53a88e8d0ad777173bd5fc2cd3c8525b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/cd05b0c5304b676905c35f0be5e8b49cad07f734e56a3698f2884ed228a4c314.jpg> 日米交渉 赤沢氏「一致点まだ」
+      <a href=https://news.yahoo.co.jp/pickup/6541394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e3002a08318922b2b951c4da3a5f278041f108ac98fa531bd5e92e53fbf63c72.jpg> 香港 服役中の民主活動家を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8abf803515e2557ed7db82e36cd84470e2d1c3aea4949a226940153a86fb3093.jpg> コメの業者間相場 2割近く急落
+      <a href=https://news.yahoo.co.jp/pickup/6541414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5943f44539c4cc73d906cc8dc3f5c0cc01e569fc3e6e887ee2def829ce266ad6.jpg> コメ適正価格は3000円 生産者団体
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541415>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚 厳罰化で獄死が増加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/76e9be20abd28bba2745c39050d8778b3998120ea04137f27ffa1c5b0686c0be.jpg> 「バイオハザード」最新作を発表
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4525416f391af0283d95d32d19b85af8ef479fd143dbdc67d2dd58e66422dd13.jpg> 西内まりや SNS更新「お元気で」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 11:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 11:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
