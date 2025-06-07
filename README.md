@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9496ab0c2cec75dcd7a20d49a8a09227.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57c955d85b2287ee0de7f26757bc2505.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed6e440dfe5858227167ed5264e8a366a6f88fd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964351-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 9日以降大雨のおそれ 前線が九州に停滞
+      <a href=https://news.yahoo.co.jp/articles/cf8a735bcbf2876d22ab0b7f9c2de6f90436f560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964358-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=430&ch=430&exp=10800&fmt=webp> 【気象情報】九州地方 9日から10日にかけ非常に激しい雨に警戒【雨の動き予測】九州南部で24時間降水量120ミリ予測…低い土地の浸水、河川の増水に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44e15b98003835129f98ad2a8d3eec1a6ffc7ee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア空爆で1人死亡40人負傷　ウクライナ東部ハルキウ
+      <a href=https://news.yahoo.co.jp/articles/084dd426fc5d15fbc4063309bcc9b0e38862784a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38559172738ba35f2193e65460159a5ebd7a4135>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010005-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=1628&ch=1628&exp=10800&fmt=webp> ミス70本で逆転負け「最悪の決勝」 準Vサバレンカ「彼女が素晴らしいプレーをしたからではない…」＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/2524f45798760b11a29a0ebca32808a8cf2ad7aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全仏テニス、小田凱人組は準優勝　車いすの部
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/af7f37f9227716da4fc9c2e05afd6c4a214ff33ae6d503c3d3b5213ae7772849.jpg> 陰謀論が拡散 韓国大統領選の裏側
+      <a href=https://news.yahoo.co.jp/pickup/6541502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/71f74ff6996fe9599cc0327f7bff8217ebd9626759ef1b917164ad2493b448ca.jpg> 大川原冤罪 捜査の問題点検証へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
+      <a href=https://news.yahoo.co.jp/pickup/6541495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6fde760540fc5fa82a55b561fc18c0afc27912710280922179e7b0794e3c8790.jpg> 鈴木誠也が1試合2HR 敵地に衝撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6fde760540fc5fa82a55b561fc18c0afc27912710280922179e7b0794e3c8790.jpg> 鈴木誠也が1試合2HR 敵地に衝撃
+      <a href=https://news.yahoo.co.jp/pickup/6541501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f90b62b08cfa3c32454131c0794d2e2fe4e887b42d47f94160aa257dd64caa67.jpg> 丸山隆平の主演映画 上映館が拡大
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 07:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 08:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
