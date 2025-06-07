@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2792801e9e5ea630d16f9725f8fa9229.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f3d02a8c20a746d22412f90b9aea5e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9bafb53073751287478127e45e9217625168c9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36070675-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1000&ch=1000&exp=10800&fmt=webp> 元横綱白鵬の宮城野親方が帰国　故郷モンゴルで父関連式典参加「ゆっくりできなかった」と苦笑
+      <a href=https://news.yahoo.co.jp/articles/173ba02c543468642628ab424bad4b31a38bc6e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 梅雨前線北上で続々と梅雨入りの可能性も　いきなり前線活動活発化で大雨　停滞で雨が長引くおそれも
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/17c6e92a9aafcaad4d0eaf34498a19d5fae6c38524fc4c1cbaf7c9fead7ab8b2.jpg> 備蓄米ブーム? 米価格下落するか
+      <a href=https://news.yahoo.co.jp/pickup/6541413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c418753604806d0ed7c5b35c7beb016390587149804baa8e554db3cfb5834dee.jpg> 印から露軍に 消えた男性の妻が涙
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/965c77491bebbcaaf463e3e5eb1aa7bdf8c5a18f103d12d15e258ff16df3e2c6.jpg> 頭部に打球 阪神・石井が自宅静養
+      <a href=https://news.yahoo.co.jp/pickup/6541444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7bfb0ae1bfd6023f59ff8c50a846f4e4f26d47a508bf8e81681c6c4ab20b0836.jpg> 元横綱白鵬 9日にすべて話します
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/648040f1fd4be1707566737f22e8d1cf3e61063b79645465ad74d26c6b7c1d9e.jpg> 天心パンツ脱ぎ計量クリア 苦笑い
+      <a href=https://news.yahoo.co.jp/pickup/6541445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/965c77491bebbcaaf463e3e5eb1aa7bdf8c5a18f103d12d15e258ff16df3e2c6.jpg> 頭部に打球 阪神・石井が自宅静養
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 15:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 16:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
