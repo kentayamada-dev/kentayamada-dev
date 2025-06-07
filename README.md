@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/482955e562ecc6e7b5f01def9360210d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df8f42eb74d3888d130cfc246de49d30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d88b2328372f4cce4ccb283deb824b76b85e433b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00030114-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 7日は1か月半ぶり真夏日100地点超え　明日8日も関東や東北で30℃以上
+      <a href=https://news.yahoo.co.jp/articles/02036559cb4d8d447c2c278ba9211a653306a645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000257-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=877&ch=877&exp=10800&fmt=webp> オリックス・水本ヘッド「警告が出たことを現実に受け止めて」6日の警告について阪神へ謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/451d2d7097c599beeab3c939cf06f51480e0e00f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博レジオネラ属菌、消毒しても指針値超え…噴水ショーは当面休止
+      <a href=https://news.yahoo.co.jp/articles/b1a80bfd2b16598a0aad13fa09fe4dcad4becc07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000251-spnannex-000-34-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=356&ch=356&exp=10800&fmt=webp> ジェラードン・かみちぃ＆TEAM BANANA山田が結婚　交際15年以上！3年前求婚も…吉本芸人同士
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be89daa25c92148ee00deb112bbe5eaaf767e296>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-01769481-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 頭部にライナー直撃…阪神・石井大智が登録抹消　中日からトレード加入のオリ岩崎翔が1軍へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19c8299428a30825450e534d50cb813c89b873f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21962493-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> レアアースをめぐる米中の攻防激化、日欧にも既に影響【播摩卓士の経済コラム】
+      <a href=https://news.yahoo.co.jp/articles/9fd4f1f85ee5e966e26b39ea82cddbd03b9c85f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241481-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「国益を犠牲にしてまで急ぐつもりない」　日米関税交渉めぐり　6月半ばのG7サミットが目処
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1907a5468d2a985af94ccd858246be3977727947a76e9b61d7ccec2c258f3d64.jpg> レアアース輸出再開に習氏同意 米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541448>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/62a6ecbf1803ce56ebf0b4fd77221f5d2721a2a41833ef75b975bb0a89c8c7ff.jpg> 8日から梅雨入りラッシュ 備えを
       </a>
@@ -418,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c418753604806d0ed7c5b35c7beb016390587149804baa8e554db3cfb5834dee.jpg> 印から露軍に 消えた男性の妻が涙
+      <a href=https://news.yahoo.co.jp/pickup/6541424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1907a5468d2a985af94ccd858246be3977727947a76e9b61d7ccec2c258f3d64.jpg> レアアース輸出再開に習氏同意 米
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/557cb25cf94d8b2d019eb9ea069009f97c339baaf38fa2658fc406a7fadeb179.jpg> 手違いで送還された男 米に帰国
+      <a href=https://news.yahoo.co.jp/pickup/6541454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/59b3942b2b1d88b7043f05354de6f00b2d3849503126f8469ff275ae6b4e5c2b.jpg> 石破氏 群馬と聞くと怖い人いそう
       </a>
     </td>
   </tr>
@@ -458,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/71661addce8efdd94e4a75df6364c9907175635c7646176b3d67c09da42dbc69.jpg> 千賀滉大「打者天国」洗礼も好投
+      <a href=https://news.yahoo.co.jp/pickup/6541458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e2e1b4a60e982601e96ec55b6781c81300e2e9666165af5813729b3197114e53.jpg> ジェラードンかみちぃ 結婚生報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/42bd26334239b8fc05511857df45b07d72c126f7b20189fafbbb9f87dcf76c66.jpg> 声優のクレカ企画に批判 運営終了
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 17:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 17:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
