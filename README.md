@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b47e3c0f597c4e46867279c9106cae8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6952b43083f0272f9563dddc164e0f62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53389a9e4bd7cea3944a09274c85d99b4cf2d468>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00006845-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガウフ、世界1位サバレンカとの熱戦を制して全仏オープン初優勝！3年前の“忘れ物”を取り戻す【テニス】
+      <a href=https://news.yahoo.co.jp/articles/97a405ff04789c5be73ab5279186da004c98535d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00031377-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 女子世界トップ2対決の決勝でサバレンカに逆転勝利のガウフが2度目のグランドスラム制覇、2018年ジュニア＆24年女子ダブルスに続くフレンチ・オープン3冠目 [テニス]
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 01:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 02:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
