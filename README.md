@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a005a750164c92ad9fab197c1c632693.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01aa3cfb58c36f7c50d1d48cd31b8de9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a7ac599cc9151c9b04a8e65d6867b517e5cb1c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-04480488-saga-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 原口一博氏「古古古米はニワトリが一番食べている」　備蓄米巡り「人間様は食べていない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1d475f07adde465d791c5c8dbf2016814c57444>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36072200-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1081&ch=1081&exp=10800&fmt=webp> 【阪神】藤川監督「無事にゲームを、と約束」前夜の警告でオリ岸田監督、審判団とのやりとり説明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c96985c8f4a607bf9b792c1cae71afdf111d0ac5>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b5e0fd689b5d34efb68d522aa49a82cbd098b8f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 日米関税交渉、首相「国益犠牲にしてまで急ぐつもりはない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f38777eb670da872f26608c6e316d1b23b080fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983762-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲・原口衆院議員「古古古米はニワトリさんが一番食べてる」と発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c905cfb641d35ddf1af59bb2630f7f13c77c9c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347552-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神ーオリックス　前夜は警告試合…藤川監督、岸田監督ともにメンバー交換は笑顔で握手
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2bc23d73c1842097bd313ed4fd43a7cf0f5efee022b626d8692e58d87361f020.jpg> 日本郵便に重い処分 業界に影響?
+      <a href=https://news.yahoo.co.jp/pickup/6541466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/37aa86f8d707e9faf90a251a9a23e63984ff62c30bb613773142a03d15bd68d9.jpg> ラーメン店で食中毒 8人に症状
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/37aa86f8d707e9faf90a251a9a23e63984ff62c30bb613773142a03d15bd68d9.jpg> ラーメン店で食中毒 8人に症状
+      <a href=https://news.yahoo.co.jp/pickup/6541484>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> TOEIC不正受験 日本の試験標的か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 22:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 22:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
