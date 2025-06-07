@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3885d2dea7df6fd1002c8cc24d98ed7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4fced1ee68388bad8d8e5abc83c6e95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9019ba61fcc537525533639e5d4030ea4a487b21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347559-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＲＩＺＩＮ】朝倉未来　復帰２戦目は超RIZIN.4でクレベルと再激突「４年越しに借りを返したい」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b5e0fd689b5d34efb68d522aa49a82cbd098b8f>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/196524e46d52c9f0070bf34e609198ba46ac9d91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21964231-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雨情報】梅雨前線の影響で9日（月）にかけて九州では24時間予想雨量が150ミリのところも 大雨による土砂災害などに注意・警戒を 雨と風シミュレーション
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2f489b35826f457d872815c6dde56ded6f605b3acb9ec943565ee55b30d05c4f.jpg> 暫定税率廃止案 立維国共同提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/d9ebfc5786be03cdff792ebc8107fbb227095d9b4e0165de68b1f273afc10048.jpg> 炎上沈没の海自掃海艇 引き揚げ
+      <a href=https://news.yahoo.co.jp/pickup/6541473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5f61a23697f993d1fbd06a676c9157a13f166f6868010ef2386742c0a3ff804b.jpg> 8日から10日にかけ九州で大雨恐れ
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541446>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/6b2865b0a7e517bfe31a18406593940fa220fd0916556e34b19c50fe679983d6.jpg> 筑波大 人文系の教育課程変更方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/86f6ea0e82efd18eaaf4171a7b82abd871e9a458c641c3c581007ffbb1ce0303.jpg> 立憲原口氏 古古古米は人間食べず
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541472>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e47b94db4e57b6c2904cbd80bf74a602833c5b9f33b67b54f777cf17ac6dcf88.jpg> 73キロの超遅球 よけきれず死球に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/cac553f28a8fceac960c6ac2ac3545c41135343ca07c1a0e1afdf08bad98be12.jpg> 深川麻衣 梅干しを毎日1粒食べる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 20:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 21:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
