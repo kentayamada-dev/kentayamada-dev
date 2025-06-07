@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/739fe87734a805638a1d0c31a055985d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b9aac1ef0ffccfba0542aad40ca952a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ddbaa4eae255c2c556667f0275ea921febcc12f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00544914-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 那須川天心、“全裸計量”に苦笑い「公共の場に僕のスッポンを…」　世界前哨戦へ、下着脱いでなんとかクリア
+      <a href=https://news.yahoo.co.jp/articles/1cdb8658d785e7e130197935cb922068c5c25997>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000179-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=695&ch=695&exp=10800&fmt=webp> BTS、メンバー4人の除隊控え事務所が注意喚起「現場へのご訪問は固くお断りいたします」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17d84f67fe2af419a048c7623d88550f4f90b544>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=396&ch=396&exp=10800&fmt=webp> トランプ大統領「９日にロンドンで貿易会談…習主席、レアアース対米輸出再開に同意」
+      <a href=https://news.yahoo.co.jp/articles/73f69275d6601f28bec47d9325c7dbf6873f3a04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347492-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=860&ch=860&exp=10800&fmt=webp> Ａｌｅｘａｎｄｒｏｓ　ボーカル川上の喉の不調でライブ中止　６日もアンコール届けられず「本当にごめん」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19c8299428a30825450e534d50cb813c89b873f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21962493-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> レアアースをめぐる米中の攻防激化、日欧にも既に影響【播摩卓士の経済コラム】
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/b66ff31ad88e62831d49b1902e5ea305ed07913f11345ecc49c986de8ef0a090.jpg> 選択的夫婦別姓 なぜ30年近く停滞
+      <a href=https://news.yahoo.co.jp/pickup/6541433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/b66ff31ad88e62831d49b1902e5ea305ed07913f11345ecc49c986de8ef0a090.jpg> 別姓婚待ち58万人超の推計も 背景
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f472658dfb16491440e731654862c7c32633bc18f9417713fe28c1037b984eb8.jpg> トンネルで車が正面衝突 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/17c6e92a9aafcaad4d0eaf34498a19d5fae6c38524fc4c1cbaf7c9fead7ab8b2.jpg> 備蓄米ブーム? 米価格下落するか
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 14:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 14:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
