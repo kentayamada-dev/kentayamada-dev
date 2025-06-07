@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cd549faa064de3bb2fe88703210a885.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/321c37692c51c1d6ebfa26b05245eaaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6307ce1596d00c65abf39535935023e89c35311f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241502-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ホテルのベッドの上に男性（32）の遺体　目立った外傷なし　事件と事故の両面で捜査　名古屋・中区
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ffcb94929a722d47948452f1b657547ada6de51>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/dcf9b0e163b5f9749c2e380737fb2acbe6b11e5ebd455e54d06b5b948d679fbe.jpg> 民主導の地方創生 会議体を設置へ
+      <a href=https://news.yahoo.co.jp/pickup/6541494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0c6e144bfb77c35ac8cd9365fd3369f90cafa0201745674ceea4740ec1620193.jpg> ホテルに上半身裸の男性遺体 捜査
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 23:52:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 00:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
