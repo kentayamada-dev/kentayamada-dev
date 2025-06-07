@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a4644beb3e2a0cbe5516c274ffee556.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c473c0247e7a110971fe801a61591f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6d3a0c18cfa29825b1322abd7a171bcac264dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉大臣「海外から緊急輸入検討」　スポット取引価格が急落　コメ値下がりの兆し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉大臣「海外から緊急輸入検討」　スポット取引価格が急落　コメ値下がりの兆し
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c23ed0f53a88e8d0ad777173bd5fc2cd3c8525b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00037057-jprime-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「誰が隠し持ってたんだ」備蓄米放出の途端に“銘柄米”が店頭に、値段釣り上げの悪質に国民激怒
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da28f015ccd98fc362adac49f30cb4b147b3b5d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000050-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【内田雅也の追球】勝負のなか人間を見た。
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5327cfaf587533cc0e090ff864f9aee3b188ddb76e601fa7a0af4e22c6f5dd82.jpg> 自民が都議選公約 所得倍増へ支援
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541407>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/00ee2275d8e713b2080cd63d1c9b48a4b00985c9bdb0d4cff5ea7be62b4d5b79.jpg> ふるさと納税 2市町を対象除外へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚「終身刑化」が顕著
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/472786c17b44a2c274e7a60bc2aa30142ee4cedfe85fbb058d400511cbfaf918.jpg> ひき逃げ 自転車男性はねられ重体
+      <a href=https://news.yahoo.co.jp/pickup/6541415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/964f7cee04b88056e2870482e0fc864da99fe7006502007f05354c9ff3fed142.jpg> 無期懲役囚 厳罰化で獄死が増加
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 突然の引退 宮間あやさんの現在
+      <a href=https://news.yahoo.co.jp/pickup/6541410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1db55aaad7e36b854823b732c52c28f1c9908b31e04c902d08a79805f69f12b3.jpg> 「赤本」表紙変更 売り上げ影響は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/963e8ca6bc96419b54c15d5c2c182ffff4c05d07a5fddc267d6618b353191ea2.jpg> 西内まりや 引退のきっかけ語る
+      <a href=https://news.yahoo.co.jp/pickup/6541412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ad818a8036222a9840cf6514175f7c29a53111c72a96104bc832996953126c78.jpg> 長嶋茂雄さん死去 元Gマイコ絶句
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c51ad475f4e7f019a0321280e338a01474285e38aae15b0f0985d37dec1d7df6.jpg> 突然の引退 宮間あやさんの現在
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 10:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 11:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
