@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86ce061d62c22088f2f7b150076312bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/482955e562ecc6e7b5f01def9360210d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4bf8ac03533be9864d7c8d2a3bbf8315d2d4054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00030113-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 来週は広範囲で梅雨入りの見通し　西日本で大雨の恐れ　東日本も土砂降りの雨に注意
+      <a href=https://news.yahoo.co.jp/articles/d88b2328372f4cce4ccb283deb824b76b85e433b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00030114-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 7日は1か月半ぶり真夏日100地点超え　明日8日も関東や東北で30℃以上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/451d2d7097c599beeab3c939cf06f51480e0e00f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博レジオネラ属菌、消毒しても指針値超え…噴水ショーは当面休止
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/62a6ecbf1803ce56ebf0b4fd77221f5d2721a2a41833ef75b975bb0a89c8c7ff.jpg> 8日から梅雨入りラッシュ 備えを
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541413>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c418753604806d0ed7c5b35c7beb016390587149804baa8e554db3cfb5834dee.jpg> 印から露軍に 消えた男性の妻が涙
       </a>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/62a6ecbf1803ce56ebf0b4fd77221f5d2721a2a41833ef75b975bb0a89c8c7ff.jpg> 8日から梅雨入りラッシュ 備えを
+      <a href=https://news.yahoo.co.jp/pickup/6541451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/86f6ea0e82efd18eaaf4171a7b82abd871e9a458c641c3c581007ffbb1ce0303.jpg> 立憲原口氏 古古古米は人間食べず
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/622a509de4a00dc96808a406a1ff82a44d9d135944e844622613ca65fc81a3bd.jpg> 英で観光公害 自宅を黒く塗る住民
+      <a href=https://news.yahoo.co.jp/pickup/6541453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/97e708069b3cd4c92a798239db20aecf148fbc41e58ebd8a0d36effd0a3ad114.jpg> オリ側 警告プレー巡り阪神に謝罪
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7bfb0ae1bfd6023f59ff8c50a846f4e4f26d47a508bf8e81681c6c4ab20b0836.jpg> 元横綱白鵬 9日にすべて話します
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 16:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 17:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
