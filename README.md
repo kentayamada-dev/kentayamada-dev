@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8526da8ddbe22dffc94a5ecc610cfaef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21992c431e0c1dffcdced937883719c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b0047494f074377c64bc23137b08d610c0bd590>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010003-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1968&ch=1968&exp=10800&fmt=webp> 世界1位 準Vに涙「本当に辛い」 逆転負けサバレンカ「ひどい決勝戦」＜全仏オープン＞
+      <a href=https://news.yahoo.co.jp/articles/140ae627b000a83e79aab84f6ef928a19937d8a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050016-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=333&ch=333&exp=10800&fmt=webp> シングルスとの２冠狙った小田凱人、ダブルスは準優勝…全仏テニス
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 04:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 04:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
