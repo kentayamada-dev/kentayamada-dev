@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e39043365ea83267522fa4e23719ae95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/739fe87734a805638a1d0c31a055985d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ddbaa4eae255c2c556667f0275ea921febcc12f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00544914-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 那須川天心、“全裸計量”に苦笑い「公共の場に僕のスッポンを…」　世界前哨戦へ、下着脱いでなんとかクリア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17d84f67fe2af419a048c7623d88550f4f90b544>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=396&ch=396&exp=10800&fmt=webp> トランプ大統領「９日にロンドンで貿易会談…習主席、レアアース対米輸出再開に同意」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9685b57ec16845f044641ddbe55537a214b1ade1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010018-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 5キロ1800円「底値」のコメはいつから買える？ 備蓄米の“流通スピード”と販売店を調査！
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb96e57c2a6fa7a72bcbbc2df71bed5cfd7743d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983619-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「交渉は順調に進むだろう」アメリカと中国の2回目貿易交渉が9日ロンドンで開催へ　レアアース規制について「輸出再開に同意した」と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e73aa2868681185a9d7bff6da3b78f9c830ee50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/769bdea06c81135325a6b5fb5b47eba0b5681a4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000006-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=527&ch=527&exp=10800&fmt=webp> 東電旧経営陣賠償取り消し　高裁「津波予見困難」　原発事故訴訟　株主側が逆転敗訴
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000360-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 万博「レジオネラ属菌」問題…人気の水上ショー当分の間中止で「ご予約について」発表【全文】
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/b66ff31ad88e62831d49b1902e5ea305ed07913f11345ecc49c986de8ef0a090.jpg> 選択的夫婦別姓 なぜ30年近く停滞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541423>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/f0baa6768aa0516b30e36935953135f425fbd5feca9dbdf05817094a8ee124be.jpg> 各地で30℃超え 熱中症のリスク大
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8a96f5fb0159eec23cd5c27a7295a109ee237183f7bb86a7d10b90f5aafa6d98.jpg> 東電株主訴訟 揺れる司法判断
+      <a href=https://news.yahoo.co.jp/pickup/6541425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/58aa641721aa6ff33bb0dbbffbdf211ad02f75679a77cc218df013f372c00cea.jpg> 露 侵攻は「国家存亡懸けた」戦い
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541398>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02226291/title-1749242920122.jpeg?exp=10800> 電話が苦手な20代 企業の対応は
+      <a href=https://news.yahoo.co.jp/pickup/6541430>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 豪で車転落し男女死亡 男性は邦人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c007c070db230d52db5a91fec5ec7bab4630d50fd9b7c6916c765f4bf4829ed9.jpg> 自転車で万博へ行く 記者が実走
+      <a href=https://news.yahoo.co.jp/pickup/6541429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/c383de59e60f069acbba6c2e466cf1945a7ba86c5ca0d68c46f7c8bbfdc03426.jpg> 天心パンツ脱ぎ計量クリア 苦笑い
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4525416f391af0283d95d32d19b85af8ef479fd143dbdc67d2dd58e66422dd13.jpg> 西内まりや SNS更新「お元気で」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 13:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 14:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
