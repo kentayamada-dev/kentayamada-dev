@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6b0542debf90467008fe23dc4223c82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e00f314edf1e8391eb4456fc8f160db3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1c1d36a23cd03672c17a4572920256d67b51c22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 5回目の日米関税交渉　石破首相「完全に一致までは行ってない」
+      <a href=https://news.yahoo.co.jp/articles/58db84401dcf2a76c6d0b5646facee01014e5830>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国の関心は中国へ？　6月の日米合意に暗雲　経済安保でトランプ氏引き付けられるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c84e9b0ef6bb0feb335327fe19d46e30659421d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000127-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=624&ch=624&exp=10800&fmt=webp> 古古古米、ニワトリが一番食べる　立民原口氏、備蓄米巡り
+      <a href=https://news.yahoo.co.jp/articles/7d54d2489d0515ba586375843cc36303dd80b634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=734&ch=734&exp=10800&fmt=webp> 立憲・原口元総務相「古古古米、人間様は食べてない」と発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50476dbdfb750382f651a51eee178ff95d5e79ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00050120-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=351&ch=351&exp=10800&fmt=webp> 海自掃海艇「うくしま」、５０ｍの海底から主要部引き揚げ…昨年１１月に火災で沈没
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1771eea8e9a6ab58257fc18f7686c4f66410e71e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-10182416-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 埼玉の射撃場で散弾銃が“暴発” 弾が当たった男性4人けが
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541460>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 韓国大統領 G7サミットに出席へ
+      <a href=https://news.yahoo.co.jp/pickup/6541461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/2f489b35826f457d872815c6dde56ded6f605b3acb9ec943565ee55b30d05c4f.jpg> 暫定税率廃止案 立維国共同提出へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/42bd26334239b8fc05511857df45b07d72c126f7b20189fafbbb9f87dcf76c66.jpg> 声優のクレカ企画に批判 運営終了
+      <a href=https://news.yahoo.co.jp/pickup/6541462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/fe2898150f7b83031248f3761a5d6d0cd121eec5da4581b11691695ef855b8c4.jpg> 巨人 長嶋茂雄さん死去後初の白星
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 19:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 19:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
