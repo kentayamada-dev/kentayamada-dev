@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f3d02a8c20a746d22412f90b9aea5e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86ce061d62c22088f2f7b150076312bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/173ba02c543468642628ab424bad4b31a38bc6e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00010001-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 梅雨前線北上で続々と梅雨入りの可能性も　いきなり前線活動活発化で大雨　停滞で雨が長引くおそれも
+      <a href=https://news.yahoo.co.jp/articles/d4bf8ac03533be9864d7c8d2a3bbf8315d2d4054>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00030113-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 来週は広範囲で梅雨入りの見通し　西日本で大雨の恐れ　東日本も土砂降りの雨に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/be89daa25c92148ee00deb112bbe5eaaf767e296>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-01769481-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 頭部にライナー直撃…阪神・石井大智が登録抹消　中日からトレード加入のオリ岩崎翔が1軍へ
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/68898d653a010f328f4371c4843214c462b569ede6633783bdd8fa156e0e2e8f.jpg> 公明が減税封印 与党不一致避ける
+      <a href=https://news.yahoo.co.jp/pickup/6541424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/1907a5468d2a985af94ccd858246be3977727947a76e9b61d7ccec2c258f3d64.jpg> レアアース輸出再開に習氏同意 米
       </a>
     </td>
   </tr>
@@ -402,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4c492277a643716e45216d074f643c65bbdd98d3cde7d974e4925b43469b96ec.jpg> トランプ氏 テスラ車の処分を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/557cb25cf94d8b2d019eb9ea069009f97c339baaf38fa2658fc406a7fadeb179.jpg> 手違いで送還された男 米に帰国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/3f7e139f277e195c1f1544d90c5dd6d5ce7cbcf438d0db43c28e06ea7c9bf77b.jpg> 兵庫の維新議員 離党・除名相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6541448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/62a6ecbf1803ce56ebf0b4fd77221f5d2721a2a41833ef75b975bb0a89c8c7ff.jpg> 8日から梅雨入りラッシュ 備えを
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/4c492277a643716e45216d074f643c65bbdd98d3cde7d974e4925b43469b96ec.jpg> トランプ氏 テスラ車の処分を検討
       </a>
     </td>
   </tr>
@@ -426,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/71661addce8efdd94e4a75df6364c9907175635c7646176b3d67c09da42dbc69.jpg> 千賀滉大「打者天国」洗礼も好投
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541444>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/7bfb0ae1bfd6023f59ff8c50a846f4e4f26d47a508bf8e81681c6c4ab20b0836.jpg> 元横綱白鵬 9日にすべて話します
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/965c77491bebbcaaf463e3e5eb1aa7bdf8c5a18f103d12d15e258ff16df3e2c6.jpg> 頭部に打球 阪神・石井が自宅静養
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/e33764026b0820dcef46da0b35b7f2f270755e6499bc57e47d6cb925a298a42d.jpg> BTS メンバー4人が兵役終了へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 16:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 16:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
