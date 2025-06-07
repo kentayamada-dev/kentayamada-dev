@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4fced1ee68388bad8d8e5abc83c6e95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f10c46968fc030787e361d1902fb8950.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9019ba61fcc537525533639e5d4030ea4a487b21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347559-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＲＩＺＩＮ】朝倉未来　復帰２戦目は超RIZIN.4でクレベルと再激突「４年越しに借りを返したい」
+      <a href=https://news.yahoo.co.jp/articles/fab39fd3dbae7f3d46919166683f93282e8bc8c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-02923452-teny-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=422&ch=422&exp=10800&fmt=webp> パラグライダー大会参加の女性が落下か 意識不明の重体 川でうつぶせの状態で発見≪新潟・南魚沼市≫　
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/338ac4ac9f67d99dceb4f0d0e4c8c9784f3739bac38765eb17038b42a7ab48e7.jpg> マンション工事現場 作業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/3506db104bd8063fc7c63a037b1f4e050bd3f02d288d8288715f22f487fe70e2.jpg> パラグライダーの大会で事故 重体
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/793d24c4877449aed9220bc79967d9b7248230a357154e24123808bf6ff22bfa.jpg> 食べ残し持ち帰り OKの飲食店増
+      <a href=https://news.yahoo.co.jp/pickup/6541475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/759fa3a13d7a95b38dc75806151483fe94b0b7b2a2eb6b9e1a5f7d69619f409b.jpg> Switch2転売アカ ノジマ利用停止
+      <a href=https://news.yahoo.co.jp/pickup/6541477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/8ac663e6abee0914e75b279042562f3ab935d5f280ae256976b799cfad0cbdf6.jpg> 朝倉未来 クレベルとの対戦決定
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/cac553f28a8fceac960c6ac2ac3545c41135343ca07c1a0e1afdf08bad98be12.jpg> 深川麻衣 梅干しを毎日1粒食べる
+      <a href=https://news.yahoo.co.jp/pickup/6541478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/5f84dc3d4c6f8ba872f9ca44f99897543dde9e36c4d91d573dbde77d667d0903.jpg> のん&橋本愛が登場 沿道から歓声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 21:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 21:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
