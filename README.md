@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c097d013363d97bc8eee29d6b5240c02.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b47e3c0f597c4e46867279c9106cae8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6307ce1596d00c65abf39535935023e89c35311f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241502-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ホテルのベッドの上に男性（32）の遺体　目立った外傷なし　事件と事故の両面で捜査　名古屋・中区
+      <a href=https://news.yahoo.co.jp/articles/53389a9e4bd7cea3944a09274c85d99b4cf2d468>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00006845-tennisc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガウフ、世界1位サバレンカとの熱戦を制して全仏オープン初優勝！3年前の“忘れ物”を取り戻す【テニス】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ffcb94929a722d47948452f1b657547ada6de51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-36072270-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 【全仏オープン】３連覇の小田凱人「上がってきた相手、ねじ伏せた」「自分のショー見せられた」
+      <a href=https://news.yahoo.co.jp/articles/6307ce1596d00c65abf39535935023e89c35311f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-07241502-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ホテルのベッドの上に男性（32）の遺体　目立った外傷なし　事件と事故の両面で捜査　名古屋・中区
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 01:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 01:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
