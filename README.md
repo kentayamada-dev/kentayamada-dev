@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2e1cf2cf3d9230d86850f39c5ec4b8d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3885d2dea7df6fd1002c8cc24d98ed7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b5e0fd689b5d34efb68d522aa49a82cbd098b8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 日米関税交渉、首相「国益犠牲にしてまで急ぐつもりはない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f38777eb670da872f26608c6e316d1b23b080fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00983762-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲・原口衆院議員「古古古米はニワトリさんが一番食べてる」と発言
       </a>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c905cfb641d35ddf1af59bb2630f7f13c77c9c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347552-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神ーオリックス　前夜は警告試合…藤川監督、岸田監督ともにメンバー交換は笑顔で握手
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-00347552-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神ーオリックス　前夜は警告試合…藤川監督、岸田監督ともにメンバー交換は笑顔で握手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58db84401dcf2a76c6d0b5646facee01014e5830>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国の関心は中国へ？　6月の日米合意に暗雲　経済安保でトランプ氏引き付けられるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efd195acfad8ce9b5a646a37651a7e51a9bf9f0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パラグライダー着陸失敗　1人重体1人重傷、宮崎
+      <a href=https://news.yahoo.co.jp/articles/196524e46d52c9f0070bf34e609198ba46ac9d91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250607-21964231-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雨情報】梅雨前線の影響で9日（月）にかけて九州では24時間予想雨量が150ミリのところも 大雨による土砂災害などに注意・警戒を 雨と風シミュレーション
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541468>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/d9ebfc5786be03cdff792ebc8107fbb227095d9b4e0165de68b1f273afc10048.jpg> 炎上沈没の海自掃海艇 引き揚げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/6b2865b0a7e517bfe31a18406593940fa220fd0916556e34b19c50fe679983d6.jpg> 筑波大 人文系の教育課程変更方針
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/bb7e11fc55de157792f48ff2b09c01fdf1c3da335942c227399f9ea31c0f0573.jpg> パラグライダー墜落 1人意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/ce9c688a2bda314b6762a5af8b64d60086f04e7131383af7be5c776734e93394.jpg> 親にゲイ告白 当時振り返る息子
+      <a href=https://news.yahoo.co.jp/pickup/6541471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/793d24c4877449aed9220bc79967d9b7248230a357154e24123808bf6ff22bfa.jpg> 食べ残し持ち帰り OKの飲食店増
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/07 20:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/07 20:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
