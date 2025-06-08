@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63399a2a2895d918a64426701faa16ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed051c4713809b9e94de93529271b34d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4eec3a5f83dded828a45fc650ff7057a1bd0e6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-15328034-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 九州北部地方の梅雨入り発表　９日夜からは警報級の大雨の恐れも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60805b2800e1531514deeb7043b37d89716a292e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983836-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> レアアース輸出規制「法律に従い輸出申請を承認している」中国商務省が発表　米中首脳の電話会談受けた対応か
+      <a href=https://news.yahoo.co.jp/articles/f8de7bd5d937c9366b265eec3d4b4b6d46b53e01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000023-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 沖縄、「史上最早」タイの梅雨明け　九州北部・四国は梅雨入り
       </a>
     </td>
   </tr>
@@ -410,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0b4b5bedd279f6016756e173a065a38f387d773781736cdd9411b3c3797372e9.jpg> 沖縄地方 史上最も早い梅雨明け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541534>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bd6bbd0e098ecbfbcbbf12962845b81ebdeb8af0966c184a503aca5bf3bf4d39.jpg> コロンビア大統領候補 銃撃受ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4b51abda8983af6436116bfd729166829017e0899268a7e854c99391300cd7b4.jpg> 一家死傷事故10年 唯一生存の少女
       </a>
     </td>
   </tr>
@@ -464,11 +440,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/c722d8ed8a4e00166131ab1b11d088f4c6a28aec6b3394e68f5f29a7a6c922eb.jpg> 末續慎吾が悔し涙 世陸は困難に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2e26430d9d4d28a79e78fcdd560c72d723ddfaad04b07f1febfcd1e0692a4625.jpg> 俳優・岡田龍太郎 司法試験に合格
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 12:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 13:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
