@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0aebf313fff37efbbc0d3d1cd74c819a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92c4c753838296d0205e5e8f7573f5bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5620aff8f5bb2f1c2820552504b0a08054bdcfb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00347590-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸が７勝目逃す　６回４安打無失点、９奪三振の好投も打線沈黙
+      <a href=https://news.yahoo.co.jp/articles/05d69f0418dbd47ede7dfe2c0678e5d3059f74cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182463-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ東部に“過去最大規模”の攻撃 4人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2ed9c595e3ddea217b88d562f53fb6557fd7f4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04582534-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=466&ch=466&exp=10800&fmt=webp> マユリカ阪本、第1子誕生を発表 相方・中谷“ギャン泣き”の報告振り返る「顔腫れるくらい泣いてもうた」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/084dd426fc5d15fbc4063309bcc9b0e38862784a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8f60aa55b81d79281e07757b35d1235fe6f017bc5b8db34ffabf512b314f9551.jpg> 選挙掲示板「余白大きすぎ」話題
+      <a href=https://news.yahoo.co.jp/pickup/6541512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/b6a42ce1c00252c29166a3845de959183e61dca25c99f4d7ca0bb98c72c5fcb6.jpg> OTC類似薬見直し検討 メリデメは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e37b1be3ac6762c374a364345c547a4775deb0708441a493988b2b725842c696.jpg> 父は死刑 弾圧受けた台湾先住民
+      <a href=https://news.yahoo.co.jp/pickup/6541522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8f60aa55b81d79281e07757b35d1235fe6f017bc5b8db34ffabf512b314f9551.jpg> 選挙掲示板「余白大きすぎ」話題
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/ede17c4fde76d29aba8d9b8bf5230bc0ab8c1e550274d8414d0ae4704565902e.jpg> パラグライダー大会 女性溺れ死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/71ed3a063ac0c854cca2ee47187ed290daf654c2ef2b11b58199913ddc77b158.jpg> 70歳で退職 心奪われ城120枚描く
+      <a href=https://news.yahoo.co.jp/pickup/6541528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/51a2d18078fffe80bf772d21a5127afff640de625b69b8fae582c09c5357f6e0.jpg> 青木マッチョ ジム行けない日後悔
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 10:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 11:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
