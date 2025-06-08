@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c853901de84d009a44259a81c437a225.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de9a47097406de2fbc2c858c0df6405c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86ae3b518554979e4a62873ddb5703946b73cc9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000132-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1529&ch=1529&exp=10800&fmt=webp> 松井秀喜氏　長嶋茂雄さんとの「約束」に言及「監督が導いてくれるんじゃないかな」次女・三奈さんとも「ある約束」交わしていた
+      <a href=https://news.yahoo.co.jp/articles/a82d4669cbd9e31e2de82fc9842096fe7d3060ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】九州から東海にかけ、関東も南部中心に雨　沖縄は夏空
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51a836db42f6916f66affa2d76fc3a25c546407d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026818-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「9番街レトロ」なかむら★しゅんが活動再開「お笑いの道一筋にまい進していきたい」
+      <a href=https://news.yahoo.co.jp/articles/7d6ed7d8d3b8ec56661e0f905d37f2105d5776d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050054-yom-000-4-view.jpg?pri=l&w=192&h=140&exp=10800&fmt=webp> 長島三奈さん「長嶋家は毎日青空で、父が太陽のように笑顔たくさん振りまいてくれました」…長嶋茂雄さん通夜であいさつ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20baac6c81f28aaab8c2c3784c35dde44b2a88fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964837-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　鹿児島県で大雨　薩摩、大隅、種子島・屋久島地方では、10日にかけ土砂災害、低い土地の浸水、河川の増水に十分注意　鹿児島ニュース　気象庁
+      <a href=https://news.yahoo.co.jp/articles/e04a3e88447451d7d51985ca027f511bb4d886be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-35233993-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 上院議員銃撃で１５歳少年逮捕、大統領は「首謀者」割り出し誓う　コロンビア
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f50b3ed2ae6f5f14d928ad7fa7864f595c84fe0e8b8b25168298718aabccf0e0.jpg> ラーメン店食中毒絶えず 防ぐには
+      <a href=https://news.yahoo.co.jp/pickup/6541561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f575fbced69618cbaffebd783ab0036dd5a47e3adce4fe7fdf0f5adcd3e18b9f.jpg> 弁当店の倒産 過去最多ペース
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/55d055dd83ade6ef0da179346b20c76b7a891daa4397f2fa73b7d49cf399b0a2.jpg> さだまさし 借金28億円に後悔ない
+      <a href=https://news.yahoo.co.jp/pickup/6541540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2e26430d9d4d28a79e78fcdd560c72d723ddfaad04b07f1febfcd1e0692a4625.jpg> 俳優・岡田龍太郎 司法試験に合格
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 18:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 18:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
