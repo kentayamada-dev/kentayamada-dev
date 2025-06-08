@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95cab2f678ce33ca44924d1cc66f27ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0e6889477ea2223a9c1d266ec0e2f87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/196cda5217515b8776c1d6d4a14a1f1a00e8ff91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36081660-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=1070&ch=1070&exp=10800&fmt=webp> 長嶋茂雄さん６月３日死去から７日通夜、８日告別式まで／時系列アラカルト
+      <a href=https://news.yahoo.co.jp/articles/6343f0a1277ea6b4ed184559dac7d8a1f944a0f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「最後まで長嶋茂雄を貫いた」　次女三奈さん、最期の様子語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63031b2a559b0f9e4681f6873dcdda2aef1b25c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-05853174-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 【梅雨入り】熊本県内では9日昼過ぎから大雨のおそれ
+      <a href=https://news.yahoo.co.jp/articles/d8a2b5f47be21be4ba9213a12785528537897d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964840-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　九州北部地方と九州南部で非常に激しい雨の見込み　前線停滞で総降水量が多くなるおそれ　警報級大雨に警戒を　気象庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b7a0868d4440bdda355b18b5aa915e4681ace7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964832-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 追突されたトラックが押し出され男性と衝突 男性は意識不明の重体　
+      <a href=https://news.yahoo.co.jp/articles/e215e37f6d0b0fd569617f706242b7fbb4aa4912>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04733462-nib-000-2-thumb.jpg?exp=10800&fmt=webp> 九州北部地方が梅雨入り　10日は警報級の大雨となる可能性も《長崎》　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a6d1393e8dd8b75c21a30c107b3030b2988b24d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-09761931-kytnews-000-4-thumb.jpg?exp=10800&fmt=webp> 開店前に1200人の行列　鹿児島市のスーパーで随意契約の備蓄米販売開始
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d4b3a629be314bc650975f3946a32d87a3e593f18377a7925d02c6c2eb77cd88.jpg> 森山氏 消費減税「財源今はない」
+      <a href=https://news.yahoo.co.jp/pickup/6541586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2fba89c2b184c271f3803bd9e47459beb0e03f4c77d620ccf030cc4e171e1d78.jpg> 9日 九州から関東にかけ広く雨
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 20:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 20:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
