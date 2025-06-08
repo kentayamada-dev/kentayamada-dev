@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e64b6f620b2c56940276ebcee5e3bd57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59e8feb541496ca09fd7adfeaccf84bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf4dca6431da1c3aa065956e2ddbf322dcfcbc55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b3fc16ecbb920e064b3b6b2a8ddae8c8d3cab84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026444-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> パラグライダーの大会で着陸時に事故　東京都の62歳女性が死亡　着陸時に翼が魚野川に引き込まれ溺れる…新潟・南魚沼市
+      <a href=https://news.yahoo.co.jp/articles/cdbd5cd39e5e627e8d1801fcadd8ad4fe3cecd84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964669-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　梅雨前線が種子島・屋久島地方付近に　10日にかけて九州北部地方へゆっくりと北上　警報級の大雨の可能性　気象庁　鹿児島ニュース
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/97652574e52410b8cca563851106c32a731967fe724e9a61b1f5c4ccb7f64aee.jpg> G7開幕迫る 不安材料は米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6541557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02240679/title-1749362016224.jpeg?exp=10800> 九州四国で梅雨入り 今後の見通し
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e1c13795b22887bfeee3652cc6625f87c0c0ba50bd962374f30be2087ec2a549.jpg> べらぼうにクールポコ。餅つく役
+      <a href=https://news.yahoo.co.jp/pickup/6541550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4703d935d71bc3465423592f533758846c3f6e1cad0568b274121a215cf07130.jpg> イナズマロックチケ 初の返礼品に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 15:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 16:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
