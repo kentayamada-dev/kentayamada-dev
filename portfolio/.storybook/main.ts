@@ -17,7 +17,7 @@ const config: StorybookConfig = {
   env: (config) => {
     return {
       ...config,
-      NEXT_PUBLIC_RECAPTCHA_SITE_KEY: 'NEXT_PUBLIC_RECAPTCHA_SITE_KEY'
+      NEXT_PUBLIC_RECAPTCHA_SITEKEY: 'NEXT_PUBLIC_RECAPTCHA_SITEKEY'
     };
   },
   core: {

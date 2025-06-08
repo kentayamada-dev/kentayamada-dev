@@ -15,10 +15,6 @@
   --font-pixel: var(--font-press-start-2p);
 }
 
-.grecaptcha-badge {
-  visibility: hidden;
-}
-
 .scroll-hint-text {
   display: none;
 }

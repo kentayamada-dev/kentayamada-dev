@@ -4,6 +4,7 @@ import type { LocaleKeyType } from '../i18n/types';
 import type { NavigationType } from './types';
 
 const REQUEST_URL_HEADER = 'x-request-url';
+const X_REAL_IP_HEADER = 'x-real-ip';
 
 /* eslint-disable sort-keys*/
 const navigationItems = (locale: LocaleKeyType): NavigationType => {
@@ -19,4 +20,4 @@ const navigationItems = (locale: LocaleKeyType): NavigationType => {
 };
 /* eslint-enable sort-keys*/
 
-export { REQUEST_URL_HEADER, navigationItems };
+export { REQUEST_URL_HEADER, X_REAL_IP_HEADER, navigationItems };

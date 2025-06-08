@@ -14,11 +14,11 @@ export const envClient = createEnv({
 
         return false;
       }),
-    NEXT_PUBLIC_RECAPTCHA_SITE_KEY: z.string()
+    NEXT_PUBLIC_RECAPTCHA_SITEKEY: z.string()
   },
   emptyStringAsUndefined: true,
   runtimeEnv: {
     NEXT_PUBLIC_IS_PRODUCTION: process.env['VERCEL_ENV'],
-    NEXT_PUBLIC_RECAPTCHA_SITE_KEY: process.env['NEXT_PUBLIC_RECAPTCHA_SITE_KEY']
+    NEXT_PUBLIC_RECAPTCHA_SITEKEY: process.env['NEXT_PUBLIC_RECAPTCHA_SITEKEY']
   }
 });

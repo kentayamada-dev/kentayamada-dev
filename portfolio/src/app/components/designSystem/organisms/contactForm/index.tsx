@@ -1,8 +1,10 @@
 'use client';
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
-import Link from 'next/link';
-import { useActionState, useMemo } from 'react';
+import { useActionState, useMemo, useRef } from 'react';
+// @ts-expect-error type not found
+// eslint-disable-next-line import/no-named-as-default
+import ReCAPTCHA from 'react-google-recaptcha';
 import { Controller, useForm } from 'react-hook-form';
 import { Input, TextArea } from '@/components/designSystem/atoms';
 import { ChevronDownIcon } from '@/components/icons';
@@ -11,46 +13,57 @@ import { dictionaries } from '@/constants/i18n';
 import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
 import { getEntries } from '@/utils';
 import { createPost, verifyRecaptcha } from './actions';
+import { contactSchema } from './schema';
 import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types';
 import type { ContactFormSchemaType, ContactFormStateType, ContactFormType } from './types';
 
 const ContactForm: ContactFormType = (props) => {
   const { form } = dictionaries[props.locale];
+  const recaptchaRef = useRef(null);
 
   const { control, register, watch } = useForm<ContactFormSchemaType>({
     defaultValues: {
-      countryCode: defaultIntlTelCode,
-      email: '',
-      firstName: '',
-      lastName: '',
-      message: '',
-      phoneNumber: ''
+      'countryCode': defaultIntlTelCode,
+      'email': '',
+      'firstName': '',
+      'g-recaptcha-response': '',
+      'lastName': '',
+      'message': '',
+      'phoneNumber': ''
     }
   });
 
   const actionWithRecaptcha = async (prevState: ContactFormStateType, formData: FormData): Promise<ContactFormStateType> => {
-    const token = await new Promise<string>((resolve) => {
-      // eslint-disable-next-line no-undef
-      grecaptcha.ready(() => {
-        // eslint-disable-next-line no-undef
-        grecaptcha.execute(envClient.NEXT_PUBLIC_RECAPTCHA_SITE_KEY, { action: 'submit' }).then(resolve);
-      });
-    });
+    const rawData = Object.fromEntries(formData);
+    const parsed = contactSchema.safeParse(rawData);
 
-    const isHuman = await verifyRecaptcha(token);
+    if (!parsed.success) {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
+      return { data: rawData as ContactFormSchemaType, errors: parsed.error.formErrors };
+    }
+
+    const isHuman = await verifyRecaptcha(parsed.data['g-recaptcha-response']);
 
     if (!isHuman) {
       return {
         // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
         data: Object.fromEntries(formData) as ContactFormSchemaType,
         errors: {
-          fieldErrors: {},
-          formErrors: ['Failed reCAPTCHA verification.']
+          fieldErrors: {
+            'g-recaptcha-response': ['Failed reCAPTCHA verification.']
+          },
+          formErrors: []
         }
       };
     }
 
-    return createPost(prevState, formData);
+    const result = await createPost(prevState, formData);
+
+    // @ts-expect-error type missing
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-call
+    recaptchaRef.current.reset();
+
+    return result;
   };
 
   const [state, action, isPending] = useActionState(actionWithRecaptcha, {});
@@ -182,23 +195,13 @@ const ContactForm: ContactFormType = (props) => {
         rows={4}
         {...register('message')}
       />
-      <div className='text-secondary mb-3 text-sm'>
-        This site is protected by reCAPTCHA and the Google&nbsp;
-        <Link className='text-blue-500' href='https://policies.google.com/privacy'>
-          Privacy Policy
-        </Link>
-        &nbsp;and&nbsp;
-        <Link className='text-blue-500' href='https://policies.google.com/terms'>
-          Terms of Service
-        </Link>
-        &nbsp;apply.
-      </div>
+      <ReCAPTCHA hl={props.locale} ref={recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
       <input
         className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
         disabled={isPending}
         type='submit'
       />
-      {state.errors?.formErrors ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
+      {state.errors?.fieldErrors['g-recaptcha-response'] ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </form>
   );
 };
