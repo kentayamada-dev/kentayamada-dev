@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2530c18e0ca8ac68d95caafb9d571d34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3efcc64647136c3266883b71d70f43e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6405060900ee584c70cc8645e69efdb30d259540>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ軍、ロシアの東部州侵入を否定
+      <a href=https://news.yahoo.co.jp/articles/c348f4063fcca9c4d255c49b9ccb196bd91e641c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-01722437-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=347&ch=347&exp=10800&fmt=webp> ロシア軍、ウクライナ東部の新たな州への進軍発表
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43bd312c00f94d2a51c34b9d1b71eb288c414cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082112-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中畑清氏「あなたは私の人生全て」長嶋さん告別式で弔辞「夢の時間」キャンプでの挑発の秘密も告白
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3de8105519f8012be4ed32ccf451b032715fd9f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983961-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉「直ちに首脳会談をして合意に結びつくことにはなかなかならない」赤沢経済再生相　石破首相に訪米報告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082112-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中畑清氏「あなたは私の人生全て」長嶋さん告別式で弔辞「夢の時間」キャンプでの挑発の秘密も告白
       </a>
     </td>
   </tr>
@@ -387,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a6d1393e8dd8b75c21a30c107b3030b2988b24d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-09761931-kytnews-000-4-thumb.jpg?exp=10800&fmt=webp> 開店前に1200人の行列　鹿児島市のスーパーで随意契約の備蓄米販売開始
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f1de632987886ee6973780b99f374167541ab1ccf3ac7243881fd38db97f3c2d.jpg> 日米関税交渉 首相の訪米は見送り
+      <a href=https://news.yahoo.co.jp/pickup/6541604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/1431b8878c3317cb346adc43810b90893379cb76e86cfd1fa09882e0dd2163d5.jpg> 小泉農水相の要求 卸売業者の反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> 露 ウクライナ東部州を地上攻撃か
+      <a href=https://news.yahoo.co.jp/pickup/6541601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/99ec94b477cea3dfc23a88e95d6d0d77089afc869b9766fb37cb8b83711aadac.jpg> トランプ氏とマスク氏 決裂の代償
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/b6e8f27f913fb86b8c34390a80748837542db1cf2b07c75413d22dc58ddf48fe.jpg> コロンビア議員銃撃事件 15歳逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bab20dc331fdea6acb42590d510a79165f387f5120285e65635aeb44178261ca.jpg> グレタさんのガザ訪問 軍が阻止へ
       </a>
     </td>
   </tr>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/1db6db408e3931281c89e57145dbe99e6d5fda76043dd1be4b24e80c21af9451.jpg> べらぼう 難解なのに評判良い訳
+      <a href=https://news.yahoo.co.jp/pickup/6541577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9fd2566d35442f32822bc6178ad3106ddb3825e94c188b91765397bf7e5592a4.jpg> 「声優ブーム」露出増加の光と影
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 23:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 23:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
