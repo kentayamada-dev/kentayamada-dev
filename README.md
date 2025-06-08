@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6810d3fa61411f483ae252c28c942186.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47b9dfecdb7f78c6094aedb1d8dfaa8c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40d790cfac4063c02c51a536714daeead08d53a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010002-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 【速報】アルカラス 3度のMP凌ぎ世界1位シナーから第4セットを奪取！全仏OP決勝はファイナルセットへ＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/f39182281adca01bfd683a2421bce8a0a8cd4856>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00031395-tennismagv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 崖っぷちから生還のアルカラスが最終セットに持ち込む、シナーは3つのチャンピオンシップポイントを決めきれず [フレンチ・オープン／テニス]
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43bd312c00f94d2a51c34b9d1b71eb288c414cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082112-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中畑清氏「あなたは私の人生全て」長嶋さん告別式で弔辞「夢の時間」キャンプでの挑発の秘密も告白
+      <a href=https://news.yahoo.co.jp/articles/ac64a5908c9bfcdd6203aec065a73366aee927c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000435-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=889&ch=889&exp=10800&fmt=webp> 長嶋茂雄さんが語っていた監督1年目　最下位に終わり「選手の方がいいな、と」　Nスペが過去映像で追悼
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 03:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 03:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
