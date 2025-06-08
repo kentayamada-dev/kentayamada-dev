@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bacb27faf73aeacc63e1ec3601d54afe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c853901de84d009a44259a81c437a225.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cabc64fb79dea49a955bfb4a2bd5fd5e0bec90b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=329&ch=329&exp=10800&fmt=webp> 王貞治さん「あなたは日本の健康優良児でした」…長嶋茂雄さん告別式で弔辞
+      <a href=https://news.yahoo.co.jp/articles/86ae3b518554979e4a62873ddb5703946b73cc9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000132-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1529&ch=1529&exp=10800&fmt=webp> 松井秀喜氏　長嶋茂雄さんとの「約束」に言及「監督が導いてくれるんじゃないかな」次女・三奈さんとも「ある約束」交わしていた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08016a9897601a35f37abcde933c9fe4bbb6e2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182494-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 米LAで不法移民の取り締まり反対デモ激化 トランプ大統領が州兵投入へ
+      <a href=https://news.yahoo.co.jp/articles/51a836db42f6916f66affa2d76fc3a25c546407d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026818-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「9番街レトロ」なかむら★しゅんが活動再開「お笑いの道一筋にまい進していきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/502eab1d8dbfbd5542f3636d581bdcee00b0db7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964805-tuliptv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 梅雨前線が北上 停滞へ…西日本で「1時間50mm以上」の激しい雨も 【雨の動きシミュレーション】気象庁は土砂災害・河川氾濫に警戒呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/20baac6c81f28aaab8c2c3784c35dde44b2a88fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964837-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　鹿児島県で大雨　薩摩、大隅、種子島・屋久島地方では、10日にかけ土砂災害、低い土地の浸水、河川の増水に十分注意　鹿児島ニュース　気象庁
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2922976f6b74132c46904ab7b9e20da4a938cc341c807aa2be864d687eaf2c48.jpg> 秋葉原殺傷 現場で救助しPTSD
+      <a href=https://news.yahoo.co.jp/pickup/6541551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/544bab03b36b704cee0219d2e6053ba27182fd8f637ef0f25d6c9d886fbeb6e3.jpg> 米大統領 マスク氏民主支援に警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/403bc4139c58756d7951514f1afb1ba537b17291a1b9e540bef58d194987bdc1.jpg> 山手線駅がクラブに 社長一言から
+      <a href=https://news.yahoo.co.jp/pickup/6541566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2922976f6b74132c46904ab7b9e20da4a938cc341c807aa2be864d687eaf2c48.jpg> 秋葉原殺傷 現場で救助しPTSD
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4483940a3ed8a016073e588a424bdd558d9ad02656f16b1535e1a0a81fb6781e.jpg> 長嶋さん告別式 王貞治氏らが弔辞
+      <a href=https://news.yahoo.co.jp/pickup/6541571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 17:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 18:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
