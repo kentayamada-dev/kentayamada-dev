@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a8a0d0c8379e938dbd0877c7b7d8744.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b3779c371ed29dd45e561820f16dc0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a0f02c2132d4b7e8f21b4fbd1c731f6ae696c85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000400-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 有吉弘行「時代なのかね…」　長嶋茂雄さん訃報に思うこと「知っている世代は70代とかだから」
+      <a href=https://news.yahoo.co.jp/articles/b45e905bb04a850dcf03aae46e199857018ec266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081328-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ほほ笑む長嶋さんの遺影…２１年に球界初の文化勲章受章の際に撮影
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f82e963a0d7a2c24d926860e4d561bce153e48f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000399-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 宮野真守　所属事務所退所　契約満了のため
+      <a href=https://news.yahoo.co.jp/articles/c5bf161f2fc992524f8d3be2959419d182e9d4ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04582958-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 宮野真守、30年以上在籍の「劇団ひまわり」退所を発表「契約満了につき」誕生日に報告
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0dbf534a1fb21385808539935660be1dc25598273c3b9bff61a436a22cb5d9ef.jpg> ホテルで男性死亡 殺人事件と断定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541585>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/17a0f6df3940e26f424331042f56eb6954d709f4a424f3fa7218e991e597c4e8.jpg> 備蓄米求め 午前1時から待った客
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/5d95592473ed738e2b3ddf0bb27cd263587b9b696245250e1e76e2dcbdcafd2b.jpg> 天心が判定勝利 世界初挑戦へ前進
+      <a href=https://news.yahoo.co.jp/pickup/6541592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e1bccee30267476cd261e01497037268c900575f62f355af38f2a1f762f622f1.jpg> 長島三奈さん 松井秀喜氏との約束
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
+      <a href=https://news.yahoo.co.jp/pickup/6541593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/622fe87cbbb9fdc8748ff8addbd21cd656a6c64bd829ef31371ad4c526fc2c07.jpg> 中谷潤人TKO勝ち 2団体王座統一
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/855ef7f1365bf750fa01460d0dead4e1ccf16937fff0b1b5b20464cfea34d3f0.jpg> 宮野真守 所属事務所を退所
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 22:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
