@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/948d7ec1f4972635edacf119f25a3869.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a96432bf87c0933d7c7f511a7efe9252.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/347b82f9f21879c76abd1e156b5ea76e2de32bf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00097682-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 戦慄の左・中谷潤人のエグい破壊力に米老舗誌が震え...痛々しい西田凌佑の“衝撃姿”を公開「闘うのは無理だと言った」
+      <a href=https://news.yahoo.co.jp/articles/798e6a8371c0c09d44f4b59d6a3f6a495596e8ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000163-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 西田凌佑、右肩脱臼により無念の棄権で初黒星　試合後は病院に直行　中谷潤人相手に一歩も引かず大きな「西田」コールも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2560c49bac2bde9f142f90d46b310b581db3b8a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06533621-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【山口天気 朝刊6/9】一日大きめの傘の出番に あす10日(火)は警報クラスの大雨になるおそれも
+      <a href=https://news.yahoo.co.jp/articles/f26cf34b6a15883784804a219e244d10b8cd3b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090088-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=994&ch=994&exp=10800&fmt=webp> 長嶋茂雄さん、選手・監督時代の各シーズン全成績　「記憶」だけでない数々のタイトル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2bd1ed909b5eb69c137cbb0bb54b4c8912312ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】9日の天気 - 梅雨前線北上 九州は大雨警戒　　鹿児島で線状降水帯発生のおそれ（9日7時更新）
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cbccf6e3fde6f4c89fe3d954d5e55d8f451b5ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 三奈さん「涙ぐみながら笑顔で思い出話をする。そんな方は、父にとっては王会長だけでした」長嶋茂雄さん告別式
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1ed8e5893f76b166a2d3cbd0e40523f8bd2a16b5379f6d86d3efc59402988e6d.jpg> 鹿児島県 線状降水帯が発生の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6541611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1ed8e5893f76b166a2d3cbd0e40523f8bd2a16b5379f6d86d3efc59402988e6d.jpg> 鹿児島県 線状降水帯が発生の恐れ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/1431b8878c3317cb346adc43810b90893379cb76e86cfd1fa09882e0dd2163d5.jpg> 小泉農水相の要求 卸売業者の反応
+      <a href=https://news.yahoo.co.jp/pickup/6541612>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 財務省と文科省 私学助成巡り対立
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d5fa3e974011e2d7cb96c8f90ace9ac170e385a73d1527f0f3362cf30c2d5c6e.jpg> ホテルに上半身裸の遺体 窒息死
+      <a href=https://news.yahoo.co.jp/pickup/6541615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e8aef2e3a35ec60d11492947318f1d56cdeb067a95fd0fa9864fa28b8655bb9a.jpg> さくら水産 160→11店に縮小の訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 07:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 08:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
