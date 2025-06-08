@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c8a4f23a6284c98e46e025736d4f246.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63399a2a2895d918a64426701faa16ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/728d9708e3a9d620a1ad3c5fc44d2a232831f85e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000022-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 沖縄、最も早い梅雨明け　九州北部、四国は入り
+      <a href=https://news.yahoo.co.jp/articles/a4eec3a5f83dded828a45fc650ff7057a1bd0e6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-15328034-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 九州北部地方の梅雨入り発表　９日夜からは警報級の大雨の恐れも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60805b2800e1531514deeb7043b37d89716a292e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983836-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> レアアース輸出規制「法律に従い輸出申請を承認している」中国商務省が発表　米中首脳の電話会談受けた対応か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c27f6667184c12e9ceba7636db642c5f776c8c5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=327&ch=327&exp=10800&fmt=webp> ロシア、捕虜交換控えてウクライナ空爆…「全面戦争後で最も強い攻撃」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8d7677a5b999edd8845947e915c6e5ec339e127>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010006-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 大注目 シナーvsアルカラス 全仏OP決勝は今夜22時開始＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d082ddd2f24f47416c60cfaf214a4ffc477ef478>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04662314-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 一家５人死傷事故から１０年　当時の同級生らが献花で追悼　飲酒運転根絶を訴える　北海道砂川市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05d69f0418dbd47ede7dfe2c0678e5d3059f74cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182463-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ東部に“過去最大規模”の攻撃 4人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d32f9a024cf6cc3bf9bb56a58e2a299146336806>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00097645-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 21歳ガウフがサバレンカとの頂上決戦を制し全仏オープン初優勝！「何とかやり遂げた。それが全て」＜SMASH＞
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4288a0ff440f831779123b80cce0b7f0e96f67f3435426df7c8f7dbf486c5cc3.jpg> コメ卸間の取引相場急落 業者驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541527>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4b51abda8983af6436116bfd729166829017e0899268a7e854c99391300cd7b4.jpg> 一家死傷事故10年 唯一生存の少女
       </a>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/41f153982c480bf68fe8785fcbef65b328b6694505ebe4539ac44418d8b1375e.jpg> 「オナラ1日に500回」中2で異変
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 12:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 12:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
