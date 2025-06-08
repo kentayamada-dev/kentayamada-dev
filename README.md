@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4a1f05b6bc4f8745871216d68557e01f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a2bd846375fc48a8bb304896390e78e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d0b4eee4139183fed6826ceac068023de07acce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00545629-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 中谷潤人のTKO勝利に米リング誌はもはや畏怖の絶賛「手に負えない」　ラウンド間の笑みは「不吉だった」
+      <a href=https://news.yahoo.co.jp/articles/72538cd0a34c381c4ec56649ba26703490552a03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「バンタム級は限界」中谷潤人が「非情だが勝つために」勇敢なIBF王者を“病院送り”にしてベルト統一も来年5月に井上尚弥とのスーパーマッチを計画する大橋会長は問題点を指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4246f3c6c2ed6c6eb01311f2a7543fb876462fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01305537-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東日本大震災での放出は「4万トン」…備蓄米は本当に「100万トン」も必要なのか　JAの影が見え隠れする“備蓄米ビジネス”のカラクリ
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6efe05f8138c0d01dde6dd6a519632427a4afc84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1861&ch=1861&exp=10800&fmt=webp> 世界1位シナー 逆転負けで全仏OP準V「全てを出し切った」「今はとても辛い」＜男子テニス＞
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1861&ch=1861&exp=10800&fmt=webp> 世界1位シナー 逆転負けで全仏OP準V「全てを出し切った」「今はとても辛い」＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -374,7 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/490cccec7e545c3f4913f9ed6907d5330e4ff157>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000057-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> 巨人・阿部監督　長嶋さんへ誓いの白星　岸田の満塁弾に「スカッとしました。久しぶりに」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000057-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> 巨人・阿部監督　長嶋さんへ誓いの白星　岸田の満塁弾に「スカッとしました。久しぶりに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85b1c597cae1ab0e93d4360226299304aff8905f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 『Travis Japnan』、7カ月ぶり7人で生パフォーマンス　全国ツアーファイナル、川島如恵留がラスト2日間で合流
       </a>
     </td>
   </tr>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dfd3846c210e12d6dcc1b477c7ec490e408b7c5a464bbf8f9804fff2a9f24ea9.jpg> JPドラゴン ルフィ事件への関与は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541599>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d5fa3e974011e2d7cb96c8f90ace9ac170e385a73d1527f0f3362cf30c2d5c6e.jpg> ホテルに上半身裸の遺体 窒息死
       </a>
@@ -434,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
+      <a href=https://news.yahoo.co.jp/pickup/6541606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf79248bf680271b294a3926babda660ca9fc787ec4cb2c706571659252cfa43.jpg> 中谷潤人TKO勝ち 井上尚弥が反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/4d9ce6c5aaf78c6480ffc4cd3a3a2ba70ae26b86633b49380007caa2a3fd552d.jpg> トラジャ川島が復帰 7人で千秋楽
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 06:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 06:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
