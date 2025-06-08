@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a96432bf87c0933d7c7f511a7efe9252.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b1964c5fdf835b6d7c093116613bd43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/798e6a8371c0c09d44f4b59d6a3f6a495596e8ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000163-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 西田凌佑、右肩脱臼により無念の棄権で初黒星　試合後は病院に直行　中谷潤人相手に一歩も引かず大きな「西田」コールも
+      <a href=https://news.yahoo.co.jp/articles/a1f60d235835d268ffc64c36013faf4b69cee541>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自転車の男性をひき逃げか　29歳の男を逮捕　千葉市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0af8640cc018a298ba1841259a1a2559fd77014>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「那須川天心はプロの壁にぶつかっている」世界前哨戦でWBA世界6位を3－0シャットアウトもKO決着できずに猛反省…早ければ11月にも世界挑戦へ
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f26cf34b6a15883784804a219e244d10b8cd3b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090088-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=994&ch=994&exp=10800&fmt=webp> 長嶋茂雄さん、選手・監督時代の各シーズン全成績　「記憶」だけでない数々のタイトル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2bd1ed909b5eb69c137cbb0bb54b4c8912312ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】9日の天気 - 梅雨前線北上 九州は大雨警戒　　鹿児島で線状降水帯発生のおそれ（9日7時更新）
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090088-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=994&ch=994&exp=10800&fmt=webp> 長嶋茂雄さん、選手・監督時代の各シーズン全成績　「記憶」だけでない数々のタイトル
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7cc9fa8d3d5231b5e4c01ac0055e81c487db9dae23c27af9ffcc1e91df1c5b56.jpg> 米LAで抗議デモ激化 州兵が到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541610>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3cef4be74047718cd56663399c6caa2e846d389634a33f2c42107d7640bf9a0f.jpg> 中国海軍の空母 南鳥島沖に初進出
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/99ec94b477cea3dfc23a88e95d6d0d77089afc869b9766fb37cb8b83711aadac.jpg> トランプ氏とマスク氏 決裂の代償
+      <a href=https://news.yahoo.co.jp/pickup/6541619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf79248bf680271b294a3926babda660ca9fc787ec4cb2c706571659252cfa43.jpg> 中谷潤人TKO勝ち 井上尚弥が反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0ca8c433ae65fa148c4fa011c157eb1b12ddafa6658f17e7c1e7ef4301e5eb6d.jpg> 全仏OP決勝 史上最長の5時間29分
+      <a href=https://news.yahoo.co.jp/pickup/6541614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 08:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 08:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
