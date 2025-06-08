@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7d709c97ca8efbbc2deb6f646067814.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95cab2f678ce33ca44924d1cc66f27ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63031b2a559b0f9e4681f6873dcdda2aef1b25c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-05853174-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 【梅雨入り】熊本県内では9日昼過ぎから大雨のおそれ
+      <a href=https://news.yahoo.co.jp/articles/196cda5217515b8776c1d6d4a14a1f1a00e8ff91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36081660-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=1070&ch=1070&exp=10800&fmt=webp> 長嶋茂雄さん６月３日死去から７日通夜、８日告別式まで／時系列アラカルト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d46b76ff19045cadc299cc7feccf7193717ace40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000148-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1569&ch=1569&exp=10800&fmt=webp> 長嶋茂雄さん葬儀　三奈さんのあいさつがファンの胸を打つ「長嶋茂雄の娘をこんなにも体現する人って」「本当にしっかりした娘さん」
+      <a href=https://news.yahoo.co.jp/articles/b63031b2a559b0f9e4681f6873dcdda2aef1b25c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-05853174-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 【梅雨入り】熊本県内では9日昼過ぎから大雨のおそれ
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/544bab03b36b704cee0219d2e6053ba27182fd8f637ef0f25d6c9d886fbeb6e3.jpg> 米大統領 マスク氏民主支援に警告
+      <a href=https://news.yahoo.co.jp/pickup/6541568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6014415d760dcb40899025f7e99fff2ee164aef892818d19479d90a6319bb4e8.jpg> 米大統領 デモ鎮圧に州兵派遣へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/ca854872b2e831ecabdbf1bbdf842451115e8d5c9cb06af41d09aec615c2d55a.jpg> 路駐トラックに車追突 男性が重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/3050740ca6fdd07c4854b0798cf37862493db99ece78fe7cda2d69f4651fc5a7.jpg> バカ女と言われ 介護カスハラ実態
+      <a href=https://news.yahoo.co.jp/pickup/6541583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0dbf534a1fb21385808539935660be1dc25598273c3b9bff61a436a22cb5d9ef.jpg> ホテルで男性死亡 殺人事件と断定
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0f3a8892e7679a2466cba5ed99c988d0ce2617fc290ea9a1bbeb541a87028698.jpg> 背徳グルメ人気 ギルティー映えも
+      <a href=https://news.yahoo.co.jp/pickup/6541581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/02e2ffb06c27becc1510c9ac899b9610b53c3a4d9e5c5564e9bcb39bd6362361.jpg> 出生前診断異常なし 子がダウン症
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2ad0dc7f021a411a4d291843717bdc29623586c6fdb162c181bf600f2ae8a64a.jpg> ALSの彼と結婚し出産 幸せの選択
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 19:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 20:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
