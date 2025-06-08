@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ec76b101054f273ae27a23cb8aa9565.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0aebf313fff37efbbc0d3d1cd74c819a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/73e63bc719a963ee09aec894dacc017d03fe76fb0e07aed58ac6c28a2363885b.jpg> 児童8人刺殺「もう二度と」父訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541503>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e37b1be3ac6762c374a364345c547a4775deb0708441a493988b2b725842c696.jpg> 父は死刑 弾圧受けた台湾先住民
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/153281d1c6ece2ae8131d60c1b7172ceac7b402d598c80d2b83f835396a6c1a2.jpg> 答案ふやけて破ける 多汗症の16歳
+      <a href=https://news.yahoo.co.jp/pickup/6541517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/71ed3a063ac0c854cca2ee47187ed290daf654c2ef2b11b58199913ddc77b158.jpg> 70歳で退職 心奪われ城120枚描く
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/aa39b874d0a4a7c0773918f39287b3a291f7ac33499a6c26ec52dc20b19d133d.jpg> BTSメンバー全員兵役終了へ 展望
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 10:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 10:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
