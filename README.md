@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b3779c371ed29dd45e561820f16dc0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/947f1e7238878c29e4838503b3d65cc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b45e905bb04a850dcf03aae46e199857018ec266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081328-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ほほ笑む長嶋さんの遺影…２１年に球界初の文化勲章受章の際に撮影
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5bf161f2fc992524f8d3be2959419d182e9d4ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04582958-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 宮野真守、30年以上在籍の「劇団ひまわり」退所を発表「契約満了につき」誕生日に報告
+      <a href=https://news.yahoo.co.jp/articles/1d292e4154946ca95c96f3f2db03508dfaf3dcca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082175-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1043&ch=1043&exp=10800&fmt=webp> 松井秀喜氏「涙止まりませんでした」長嶋茂雄さんと“夢の時間”の終わりを覚悟した日　弔辞
       </a>
     </td>
   </tr>
@@ -375,6 +367,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3de8105519f8012be4ed32ccf451b032715fd9f8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983961-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉「直ちに首脳会談をして合意に結びつくことにはなかなかならない」赤沢経済再生相　石破首相に訪米報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0bdc9640ea6d8521f2c5c30f07afebe15b7ac74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010035-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岡山天音が『べらぼう』恋川春町役に感じる魅力　「小さく小さく実は成長しているところ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de5876d166e1c4c697f16357fc816b75f005975d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍 ウクライナ東部4州越え侵攻か　ドニプロペトロウシク州を攻撃と国防省発表
       </a>
     </td>
   </tr>
@@ -394,24 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e95038a25cfc5efea4677a62af1c5e732c46c7f96e2ac900d823fed1cf8ba289.jpg> 野党 日米関税巡り党首会談を要求
+      <a href=https://news.yahoo.co.jp/pickup/6541591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f1de632987886ee6973780b99f374167541ab1ccf3ac7243881fd38db97f3c2d.jpg> 日米関税交渉 首相の訪米は見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541587>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitakahiro/02240856/title-1749358672684.jpeg?exp=10800> 米大学の混乱 日本の対応と課題
+      <a href=https://news.yahoo.co.jp/pickup/6541598>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 露 ウクライナ東部州を地上攻撃か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/17a0f6df3940e26f424331042f56eb6954d709f4a424f3fa7218e991e597c4e8.jpg> 備蓄米求め 午前1時から待った客
+      <a href=https://news.yahoo.co.jp/pickup/6541574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/b6e8f27f913fb86b8c34390a80748837542db1cf2b07c75413d22dc58ddf48fe.jpg> コロンビア議員銃撃事件 15歳逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d5fa3e974011e2d7cb96c8f90ace9ac170e385a73d1527f0f3362cf30c2d5c6e.jpg> ホテルに上半身裸の遺体 窒息死
       </a>
     </td>
   </tr>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541581>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/02e2ffb06c27becc1510c9ac899b9610b53c3a4d9e5c5564e9bcb39bd6362361.jpg> 出生前診断異常なし 子がダウン症
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2ad0dc7f021a411a4d291843717bdc29623586c6fdb162c181bf600f2ae8a64a.jpg> ALSの彼と結婚し出産 幸せの選択
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 22:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 22:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
