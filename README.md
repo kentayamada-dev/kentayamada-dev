@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57c955d85b2287ee0de7f26757bc2505.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea3951cfede5edc3c131a7af6dfb50c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf8a735bcbf2876d22ab0b7f9c2de6f90436f560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964358-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=430&ch=430&exp=10800&fmt=webp> 【気象情報】九州地方 9日から10日にかけ非常に激しい雨に警戒【雨の動き予測】九州南部で24時間降水量120ミリ予測…低い土地の浸水、河川の増水に警戒
+      <a href=https://news.yahoo.co.jp/articles/d32f9a024cf6cc3bf9bb56a58e2a299146336806>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00097645-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 21歳ガウフがサバレンカとの頂上決戦を制し全仏オープン初優勝！「何とかやり遂げた。それが全て」＜SMASH＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ff9af3a3d8ec954c19587a5c74b623c89513273>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00097640-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 山本由伸、６回９K無失点の快投も７勝目ならず...米球界を代表する超エース級「37％」を記録もLA記者落胆「援護はゼロだ」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/084dd426fc5d15fbc4063309bcc9b0e38862784a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2524f45798760b11a29a0ebca32808a8cf2ad7aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全仏テニス、小田凱人組は準優勝　車いすの部
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/71f74ff6996fe9599cc0327f7bff8217ebd9626759ef1b917164ad2493b448ca.jpg> 大川原冤罪 捜査の問題点検証へ
+      <a href=https://news.yahoo.co.jp/pickup/6541500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0e34932195666c1561f0551b55752942af3883c39d177e7dfee0ae5d793b846a.jpg> タイ・カンボジア国境 緊張高まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0c6e144bfb77c35ac8cd9365fd3369f90cafa0201745674ceea4740ec1620193.jpg> ホテルに上半身裸の男性遺体 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6541510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/73e63bc719a963ee09aec894dacc017d03fe76fb0e07aed58ac6c28a2363885b.jpg> 児童8人刺殺「もう二度と」父訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4288a0ff440f831779123b80cce0b7f0e96f67f3435426df7c8f7dbf486c5cc3.jpg> コメ卸間の取引相場急落 業者驚き
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/7/3a5c5ecfd69b825b6ba0f21c43d98170f691a11eaecf2503c07a62dc9083d3ab.jpg> 店員とトラブル 車で店に突っ込む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541499>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9bc3d0918fc2664b1a65598433d195589aff389434ae83b3676eaccab75041e6.jpg> なぜ 体調崩す前に子どもが二重
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6fde760540fc5fa82a55b561fc18c0afc27912710280922179e7b0794e3c8790.jpg> 鈴木誠也が1試合2HR 敵地に衝撃
+      <a href=https://news.yahoo.co.jp/pickup/6541511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d9f58ae17071ce879ae7b6b0eee99a196bba8ef0b8a17500ea79130e953e9655.jpg> 由伸 6回無失点9奪三振の力投
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 08:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 09:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
