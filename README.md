@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59e8feb541496ca09fd7adfeaccf84bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93df03cb007121d200a6e1b9715397d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbce57e89c14353205b151dc99695d88927a92d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36080680-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ解説委員、森山幹事長の心境は「参院選までは小泉さんの手法見守り、行けるところまで行く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf4dca6431da1c3aa065956e2ddbf322dcfcbc55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-14-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0abe78b65e8fa38125251e7ef70f8a495f6f2a08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00254187-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 「死人が出たらどうする」「人殺し」那須川天心との対戦も「逃げてる」…格闘家・武尊が苦しんだSNS誹謗中傷の声
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cdbd5cd39e5e627e8d1801fcadd8ad4fe3cecd84>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964669-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　梅雨前線が種子島・屋久島地方付近に　10日にかけて九州北部地方へゆっくりと北上　警報級の大雨の可能性　気象庁　鹿児島ニュース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b18ac5de6265eb3b8954e21ac65d2724934099bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=534&ch=534&exp=10800&fmt=webp> マスク氏が米民主党支援すれば「深刻な代償払う」　トランプ氏が警告
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/41f153982c480bf68fe8785fcbef65b328b6694505ebe4539ac44418d8b1375e.jpg> 「オナラ1日に500回」中2で異変
+      <a href=https://news.yahoo.co.jp/pickup/6541554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f50b3ed2ae6f5f14d928ad7fa7864f595c84fe0e8b8b25168298718aabccf0e0.jpg> ラーメン店食中毒絶えず 防ぐには
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541555>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miyatarie/02189382/title-1745847926951.jpeg?exp=10800> 頭包む「真知子巻き」人気の訳
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541553>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/18ef8e129babc2c91ceeafdad9df97443fda19f8d0c37c68a6ebfcd8ca53fa28.jpg> トレードほぼ確実 菅野智之の心境
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4703d935d71bc3465423592f533758846c3f6e1cad0568b274121a215cf07130.jpg> イナズマロックチケ 初の返礼品に
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 16:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 16:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
