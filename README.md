@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93df03cb007121d200a6e1b9715397d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b023dea9a49758cbeaa49b3baede6893.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbce57e89c14353205b151dc99695d88927a92d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36080680-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ解説委員、森山幹事長の心境は「参院選までは小泉さんの手法見守り、行けるところまで行く」
+      <a href=https://news.yahoo.co.jp/articles/0c9c602540457c9ec138154cc757e67c508ec5fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010005-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 9日(月)～11日(水)ごろは九州で大雨のおそれ　非常に激しい雷雨も　土砂災害などに警戒・注意を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf4dca6431da1c3aa065956e2ddbf322dcfcbc55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-14-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
+      <a href=https://news.yahoo.co.jp/articles/ffa8cc55d5c98132c3a6ad25304e322336c7e7c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000068-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 長嶋茂雄さん告別式、王貞治さん、松井秀喜さん、原辰徳さんら参列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f89d3e8d5a7eed12cf0728a8f7feaf60389a55a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964730-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「美味しいが“卸の使命”」小泉大臣の要求に卸売業者が悲鳴 　「最後の切り札」緊急輸入で市場の“けん制”も【サンデーモーニング】
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0abe78b65e8fa38125251e7ef70f8a495f6f2a08>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00254187-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 「死人が出たらどうする」「人殺し」那須川天心との対戦も「逃げてる」…格闘家・武尊が苦しんだSNS誹謗中傷の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdbd5cd39e5e627e8d1801fcadd8ad4fe3cecd84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964669-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　梅雨前線が種子島・屋久島地方付近に　10日にかけて九州北部地方へゆっくりと北上　警報級の大雨の可能性　気象庁　鹿児島ニュース
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541544>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02240304/title-1749307917544.jpeg?exp=10800> 潮目変わった万博 黒字化に現実味
+      <a href=https://news.yahoo.co.jp/pickup/6541566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2922976f6b74132c46904ab7b9e20da4a938cc341c807aa2be864d687eaf2c48.jpg> 秋葉原殺傷 現場で救助しPTSD
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/7efc1646007a49e9a6ab5d3c6e963535477135fbc60a1a6083be80601443315b.jpg> 珍景 トンネルの上になぜトンネル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541555>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miyatarie/02189382/title-1745847926951.jpeg?exp=10800> 頭包む「真知子巻き」人気の訳
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2e26430d9d4d28a79e78fcdd560c72d723ddfaad04b07f1febfcd1e0692a4625.jpg> 俳優・岡田龍太郎 司法試験に合格
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 16:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 17:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
