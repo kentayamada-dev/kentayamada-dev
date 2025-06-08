@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6810d3fa61411f483ae252c28c942186.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/948d7ec1f4972635edacf119f25a3869.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40d790cfac4063c02c51a536714daeead08d53a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010002-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 【速報】アルカラス 3度のMP凌ぎ世界1位シナーから第4セットを奪取！全仏OP決勝はファイナルセットへ＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/347b82f9f21879c76abd1e156b5ea76e2de32bf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00097682-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 戦慄の左・中谷潤人のエグい破壊力に米老舗誌が震え...痛々しい西田凌佑の“衝撃姿”を公開「闘うのは無理だと言った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee98a6829d83857eebe6606ccb8a21af663ebdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241632-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍 ウクライナ東部の新たな州に侵攻か　ウクライナ側は否定
+      <a href=https://news.yahoo.co.jp/articles/2560c49bac2bde9f142f90d46b310b581db3b8a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06533621-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【山口天気 朝刊6/9】一日大きめの傘の出番に あす10日(火)は警報クラスの大雨になるおそれも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/691385fffdedf8e97dcc4b5d3d40ae023d20e221>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090006-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 【ボクシング】西田凌佑は右肩関節脱臼後の腱盤損傷の疑い　中谷潤人に敗戦後病院に直行
+      <a href=https://news.yahoo.co.jp/articles/54d8a8acd1dda158a189cbdf016fefedfb9307e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182525-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=996&ch=996&exp=10800&fmt=webp> “小泉コメ劇場”にムネオ氏の娘・貴子氏が物申す「政治が価格に介入をすることは慎重であるべき」「小泉大臣と対立軸を作るのは不毛」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43bd312c00f94d2a51c34b9d1b71eb288c414cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082112-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中畑清氏「あなたは私の人生全て」長嶋さん告別式で弔辞「夢の時間」キャンプでの挑発の秘密も告白
+      <a href=https://news.yahoo.co.jp/articles/1cbccf6e3fde6f4c89fe3d954d5e55d8f451b5ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 三奈さん「涙ぐみながら笑顔で思い出話をする。そんな方は、父にとっては王会長だけでした」長嶋茂雄さん告別式
       </a>
     </td>
   </tr>
@@ -392,6 +392,30 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1ed8e5893f76b166a2d3cbd0e40523f8bd2a16b5379f6d86d3efc59402988e6d.jpg> 鹿児島県 線状降水帯が発生の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3cef4be74047718cd56663399c6caa2e846d389634a33f2c42107d7640bf9a0f.jpg> 中国海軍の空母 南鳥島沖に初進出
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541604>
@@ -410,22 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bab20dc331fdea6acb42590d510a79165f387f5120285e65635aeb44178261ca.jpg> グレタさんのガザ訪問 軍が阻止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dfd3846c210e12d6dcc1b477c7ec490e408b7c5a464bbf8f9804fff2a9f24ea9.jpg> JPドラゴン ルフィ事件への関与は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541599>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d5fa3e974011e2d7cb96c8f90ace9ac170e385a73d1527f0f3362cf30c2d5c6e.jpg> ホテルに上半身裸の遺体 窒息死
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/02e2ffb06c27becc1510c9ac899b9610b53c3a4d9e5c5564e9bcb39bd6362361.jpg> 出生前診断異常なし 子がダウン症
+      <a href=https://news.yahoo.co.jp/pickup/6541606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf79248bf680271b294a3926babda660ca9fc787ec4cb2c706571659252cfa43.jpg> 中谷潤人TKO勝ち 井上尚弥が反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/855ef7f1365bf750fa01460d0dead4e1ccf16937fff0b1b5b20464cfea34d3f0.jpg> 宮野真守 所属事務所を退所
+      <a href=https://news.yahoo.co.jp/pickup/6541609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0ca8c433ae65fa148c4fa011c157eb1b12ddafa6658f17e7c1e7ef4301e5eb6d.jpg> 全仏OP決勝 史上最長の5時間29分
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 03:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 07:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
