@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fccf17211587ed97247a38314e09d96a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3ac9f63faba663745905fc754574ea6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a4f874e3d19d542b396e190769ae3eceb521734>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> ライダー俳優の岡田龍太郎、司法試験合格を報告　４年ぶりＳＮＳ更新　早稲田大学法学部卒
+      <a href=https://news.yahoo.co.jp/articles/f2aaf7e43c7b6dd0f0596d0cadd481fe422be64e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010007-getsuriku-000-1-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> 【陸上】男子200m初の同着V！地元IPU大橋「自信があった」岩手大・佐々木「優勝は狙っていなかった」／日本IC
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/41f153982c480bf68fe8785fcbef65b328b6694505ebe4539ac44418d8b1375e.jpg> 「オナラ1日に500回」中2で異変
+      <a href=https://news.yahoo.co.jp/pickup/6541541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dc27635bf4553ebc3e80fa3f9e049d8d66277319e572583c6d0a4429c127347a.jpg> 女性重体も 自家発電機の事故注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/85832c3cadb21a17342a9aa78473b68ea932dc2e2928882be3c56e24f2072bb7.jpg> 664gの子 2歳を初めて自宅で祝う
+      <a href=https://news.yahoo.co.jp/pickup/6541535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/41f153982c480bf68fe8785fcbef65b328b6694505ebe4539ac44418d8b1375e.jpg> 「オナラ1日に500回」中2で異変
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 13:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 14:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
