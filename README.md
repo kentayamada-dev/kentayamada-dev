@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a2bd846375fc48a8bb304896390e78e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea31fc41844e7729161eee5a52c61b4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72538cd0a34c381c4ec56649ba26703490552a03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「バンタム級は限界」中谷潤人が「非情だが勝つために」勇敢なIBF王者を“病院送り”にしてベルト統一も来年5月に井上尚弥とのスーパーマッチを計画する大橋会長は問題点を指摘
+      <a href=https://news.yahoo.co.jp/articles/9caae2525f9245a1389160b50160cfb6cbca50be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36082405-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1379&ch=1379&exp=10800&fmt=webp> 中谷潤人、ロス合宿中「出待ちはほとんど毎日」井上尚弥から対戦呼びかけで海外知名度一気にUP
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4246f3c6c2ed6c6eb01311f2a7543fb876462fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01305537-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東日本大震災での放出は「4万トン」…備蓄米は本当に「100万トン」も必要なのか　JAの影が見え隠れする“備蓄米ビジネス”のカラクリ
+      <a href=https://news.yahoo.co.jp/articles/54d8a8acd1dda158a189cbdf016fefedfb9307e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182525-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=996&ch=996&exp=10800&fmt=webp> “小泉コメ劇場”にムネオ氏の娘・貴子氏が物申す「政治が価格に介入をすることは慎重であるべき」「小泉大臣と対立軸を作るのは不毛」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6efe05f8138c0d01dde6dd6a519632427a4afc84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1861&ch=1861&exp=10800&fmt=webp> 世界1位シナー 逆転負けで全仏OP準V「全てを出し切った」「今はとても辛い」＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/eb3f58ad120bd6397e01c7467eb3008c46ad3480>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アルカラス　５時間２９分の大会史上最長決勝の激闘を大逆転で制し２連覇　全仏オープン・テニス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/490cccec7e545c3f4913f9ed6907d5330e4ff157>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000057-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> 巨人・阿部監督　長嶋さんへ誓いの白星　岸田の満塁弾に「スカッとしました。久しぶりに」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85b1c597cae1ab0e93d4360226299304aff8905f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 『Travis Japnan』、7カ月ぶり7人で生パフォーマンス　全国ツアーファイナル、川島如恵留がラスト2日間で合流
+      <a href=https://news.yahoo.co.jp/articles/1cbccf6e3fde6f4c89fe3d954d5e55d8f451b5ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 三奈さん「涙ぐみながら笑顔で思い出話をする。そんな方は、父にとっては王会長だけでした」長嶋茂雄さん告別式
       </a>
     </td>
   </tr>
@@ -400,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1ed8e5893f76b166a2d3cbd0e40523f8bd2a16b5379f6d86d3efc59402988e6d.jpg> 鹿児島県 線状降水帯が発生の恐れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541604>
@@ -442,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0ca8c433ae65fa148c4fa011c157eb1b12ddafa6658f17e7c1e7ef4301e5eb6d.jpg> 全仏OP決勝 史上最長の5時間29分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf79248bf680271b294a3926babda660ca9fc787ec4cb2c706571659252cfa43.jpg> 中谷潤人TKO勝ち 井上尚弥が反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/4d9ce6c5aaf78c6480ffc4cd3a3a2ba70ae26b86633b49380007caa2a3fd552d.jpg> トラジャ川島が復帰 7人で千秋楽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/855ef7f1365bf750fa01460d0dead4e1ccf16937fff0b1b5b20464cfea34d3f0.jpg> 宮野真守 所属事務所を退所
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 06:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 07:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
