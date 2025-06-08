@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3ac9f63faba663745905fc754574ea6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d90ea35e7edef2b324f3ab0c0e2a7b50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2aaf7e43c7b6dd0f0596d0cadd481fe422be64e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010007-getsuriku-000-1-view.jpg?pri=l&w=192&h=127&exp=10800&fmt=webp> 【陸上】男子200m初の同着V！地元IPU大橋「自信があった」岩手大・佐々木「優勝は狙っていなかった」／日本IC
+      <a href=https://news.yahoo.co.jp/articles/2e505261d2288832400138fa49c60fa7911f9904>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000318-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『べらぼう』餅をつく人役に小野まじめ（クールポコ。）　第22回ゲスト
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/18948b6ff266a63e5d4dfc9d8c16c811276fee49afa0d0ce91c189e8d24506b7.jpg> 九州北部と四国梅雨入り 大雨警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/97652574e52410b8cca563851106c32a731967fe724e9a61b1f5c4ccb7f64aee.jpg> G7開幕迫る 不安材料は米大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bd6bbd0e098ecbfbcbbf12962845b81ebdeb8af0966c184a503aca5bf3bf4d39.jpg> コロンビア大統領候補 銃撃受ける
+      <a href=https://news.yahoo.co.jp/pickup/6541524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/fe1d81c1ad1bba007a9d8b3bee4f5997b664272c5e1221bbb02dfad1aef56c76.jpg> 非公認後ポスターに「自民」なぜ
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541542>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0d5314ba2efcf95018419e8e4efdd83c3b1154228e24aec3107f491b718d488a.jpg> 悪質ひきこもり支援で被害 実態は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/c722d8ed8a4e00166131ab1b11d088f4c6a28aec6b3394e68f5f29a7a6c922eb.jpg> 末續慎吾が悔し涙 世陸は困難に
+      <a href=https://news.yahoo.co.jp/pickup/6541548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4e07b61c223298367e456eea77a32e16dd90c1b13e755d0b2ebd24265756fd78.jpg> 会場どよめき 男子200mで同着V
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e1c13795b22887bfeee3652cc6625f87c0c0ba50bd962374f30be2087ec2a549.jpg> べらぼうにクールポコ。餅つく役
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 14:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 14:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
