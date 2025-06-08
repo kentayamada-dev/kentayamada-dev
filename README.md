@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fee334205ff94e55baf103afc151416b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06ae890a8cb17be7ee58ce5bff94b6f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/581af046823c6be65470c166137c76110d1af409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00983972-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア軍がウクライナ東部で新たな侵攻か　ウ軍参謀本部は「事実ではない」と否定
+      <a href=https://news.yahoo.co.jp/articles/5ee98a6829d83857eebe6606ccb8a21af663ebdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍 ウクライナ東部の新たな州に侵攻か　ウクライナ側は否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6a13104adea82287ec84825cd6687a609adc0b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 【速報】世界1位シナー 全仏OP初優勝まであと1セット！決勝で前年王者アルカラスと激突＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/18a29b2f0e763926bcfd80f51b6a0633666c5a84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000000-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍　グレタさんら乗る船のガザ地区到着を阻止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/deacfb612a2f5ce90f64371b4a3687708905fafd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010001-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=1397&ch=1397&exp=10800&fmt=webp> 【速報】連覇狙うアルカラス 世界1位シナーから第3セットを取り返す、ここから巻き返しなるか＜全仏オープン＞
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43bd312c00f94d2a51c34b9d1b71eb288c414cf3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-36082112-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中畑清氏「あなたは私の人生全て」長嶋さん告別式で弔辞「夢の時間」キャンプでの挑発の秘密も告白
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0bdc9640ea6d8521f2c5c30f07afebe15b7ac74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010035-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岡山天音が『べらぼう』恋川春町役に感じる魅力　「小さく小さく実は成長しているところ」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 01:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 02:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
