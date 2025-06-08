@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d90ea35e7edef2b324f3ab0c0e2a7b50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7220715108f69dbb08724a7e2cc7fdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e505261d2288832400138fa49c60fa7911f9904>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000318-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『べらぼう』餅をつく人役に小野まじめ（クールポコ。）　第22回ゲスト
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b3fc16ecbb920e064b3b6b2a8ddae8c8d3cab84>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d082ddd2f24f47416c60cfaf214a4ffc477ef478>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04662314-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 一家５人死傷事故から１０年　当時の同級生らが献花で追悼　飲酒運転根絶を訴える　北海道砂川市
+      <a href=https://news.yahoo.co.jp/articles/b18ac5de6265eb3b8954e21ac65d2724934099bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=534&ch=534&exp=10800&fmt=webp> マスク氏が米民主党支援すれば「深刻な代償払う」　トランプ氏が警告
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0d5314ba2efcf95018419e8e4efdd83c3b1154228e24aec3107f491b718d488a.jpg> 悪質ひきこもり支援で被害 実態は
+      <a href=https://news.yahoo.co.jp/pickup/6541544>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02240304/title-1749307917544.jpeg?exp=10800> 潮目変わった万博 黒字化に現実味
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 14:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 15:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
