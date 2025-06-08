@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cd1342c3f866938b2cc6ccbb4d88ebd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ec76b101054f273ae27a23cb8aa9565.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3621219e9519b0907e33fe725fcdc3517c4f7acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21958631-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 山本由伸「これが野球かな」6回9K無失点も味方打線が無得点、「スプリットとカーブの時、いいフォームで投げられた」と収穫
+      <a href=https://news.yahoo.co.jp/articles/5620aff8f5bb2f1c2820552504b0a08054bdcfb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00347590-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸が７勝目逃す　６回４安打無失点、９奪三振の好投も打線沈黙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e51785eb7222b451d792c90583131b16c19a12c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000006-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「レアアース輸出合意」 トランプ氏…9日に2回目の閣僚級協議へ　中国側は言及せず
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0e34932195666c1561f0551b55752942af3883c39d177e7dfee0ae5d793b846a.jpg> タイ・カンボジア国境 緊張高まる
+      <a href=https://news.yahoo.co.jp/pickup/6541522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8f60aa55b81d79281e07757b35d1235fe6f017bc5b8db34ffabf512b314f9551.jpg> 選挙掲示板「余白大きすぎ」話題
       </a>
     </td>
   </tr>
@@ -404,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541510>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/73e63bc719a963ee09aec894dacc017d03fe76fb0e07aed58ac6c28a2363885b.jpg> 児童8人刺殺「もう二度と」父訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e37b1be3ac6762c374a364345c547a4775deb0708441a493988b2b725842c696.jpg> 父は死刑 弾圧受けた台湾先住民
       </a>
     </td>
   </tr>
@@ -426,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9bc3d0918fc2664b1a65598433d195589aff389434ae83b3676eaccab75041e6.jpg> なぜ 体調崩す前に子どもが二重
+      <a href=https://news.yahoo.co.jp/pickup/6541520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/153281d1c6ece2ae8131d60c1b7172ceac7b402d598c80d2b83f835396a6c1a2.jpg> 答案ふやけて破ける 多汗症の16歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d9f58ae17071ce879ae7b6b0eee99a196bba8ef0b8a17500ea79130e953e9655.jpg> 由伸 6回無失点9奪三振の力投
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9e91b5158fd486b26ab47570942c280e53b82fabfade9f8cc18b01730fbdd0b4.jpg> マユリカ阪本 第1子の誕生を報告
+      <a href=https://news.yahoo.co.jp/pickup/6541515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dc353a085e420bb9a7583ea9065161e33b189daf127beb3b8e37042c5023f35e.jpg> 長嶋氏記念碑に花 最初に供えた人
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 09:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 10:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
