@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea31fc41844e7729161eee5a52c61b4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/948d7ec1f4972635edacf119f25a3869.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9caae2525f9245a1389160b50160cfb6cbca50be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36082405-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1379&ch=1379&exp=10800&fmt=webp> 中谷潤人、ロス合宿中「出待ちはほとんど毎日」井上尚弥から対戦呼びかけで海外知名度一気にUP
+      <a href=https://news.yahoo.co.jp/articles/347b82f9f21879c76abd1e156b5ea76e2de32bf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00097682-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 戦慄の左・中谷潤人のエグい破壊力に米老舗誌が震え...痛々しい西田凌佑の“衝撃姿”を公開「闘うのは無理だと言った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2560c49bac2bde9f142f90d46b310b581db3b8a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06533621-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【山口天気 朝刊6/9】一日大きめの傘の出番に あす10日(火)は警報クラスの大雨になるおそれも
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/54d8a8acd1dda158a189cbdf016fefedfb9307e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182525-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=996&ch=996&exp=10800&fmt=webp> “小泉コメ劇場”にムネオ氏の娘・貴子氏が物申す「政治が価格に介入をすることは慎重であるべき」「小泉大臣と対立軸を作るのは不毛」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb3f58ad120bd6397e01c7467eb3008c46ad3480>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アルカラス　５時間２９分の大会史上最長決勝の激闘を大逆転で制し２連覇　全仏オープン・テニス
       </a>
     </td>
   </tr>
@@ -402,6 +402,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3cef4be74047718cd56663399c6caa2e846d389634a33f2c42107d7640bf9a0f.jpg> 中国海軍の空母 南鳥島沖に初進出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541604>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/1431b8878c3317cb346adc43810b90893379cb76e86cfd1fa09882e0dd2163d5.jpg> 小泉農水相の要求 卸売業者の反応
       </a>
@@ -418,32 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bab20dc331fdea6acb42590d510a79165f387f5120285e65635aeb44178261ca.jpg> グレタさんのガザ訪問 軍が阻止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541599>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d5fa3e974011e2d7cb96c8f90ace9ac170e385a73d1527f0f3362cf30c2d5c6e.jpg> ホテルに上半身裸の遺体 窒息死
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/02e2ffb06c27becc1510c9ac899b9610b53c3a4d9e5c5564e9bcb39bd6362361.jpg> 出生前診断異常なし 子がダウン症
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0ca8c433ae65fa148c4fa011c157eb1b12ddafa6658f17e7c1e7ef4301e5eb6d.jpg> 全仏OP決勝 史上最長の5時間29分
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0ca8c433ae65fa148c4fa011c157eb1b12ddafa6658f17e7c1e7ef4301e5eb6d.jpg> 全仏OP決勝 史上最長の5時間29分
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 07:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 07:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
