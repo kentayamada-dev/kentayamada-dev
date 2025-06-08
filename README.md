@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92c4c753838296d0205e5e8f7573f5bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a52ea279ec82bfcbbfe7daa5a2cf170.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2ed9c595e3ddea217b88d562f53fb6557fd7f4b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04582534-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=466&ch=466&exp=10800&fmt=webp> マユリカ阪本、第1子誕生を発表 相方・中谷“ギャン泣き”の報告振り返る「顔腫れるくらい泣いてもうた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e51785eb7222b451d792c90583131b16c19a12c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000006-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「レアアース輸出合意」 トランプ氏…9日に2回目の閣僚級協議へ　中国側は言及せず
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4b51abda8983af6436116bfd729166829017e0899268a7e854c99391300cd7b4.jpg> 一家死傷事故10年 唯一生存の少女
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dc353a085e420bb9a7583ea9065161e33b189daf127beb3b8e37042c5023f35e.jpg> 長嶋氏記念碑に花 最初に供えた人
+      <a href=https://news.yahoo.co.jp/pickup/6541528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 11:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 11:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
