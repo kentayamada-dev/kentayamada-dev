@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a52ea279ec82bfcbbfe7daa5a2cf170.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c8a4f23a6284c98e46e025736d4f246.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05d69f0418dbd47ede7dfe2c0678e5d3059f74cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182463-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ東部に“過去最大規模”の攻撃 4人死亡
+      <a href=https://news.yahoo.co.jp/articles/728d9708e3a9d620a1ad3c5fc44d2a232831f85e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000022-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 沖縄、最も早い梅雨明け　九州北部、四国は入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2ed9c595e3ddea217b88d562f53fb6557fd7f4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04582534-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=466&ch=466&exp=10800&fmt=webp> マユリカ阪本、第1子誕生を発表 相方・中谷“ギャン泣き”の報告振り返る「顔腫れるくらい泣いてもうた」
+      <a href=https://news.yahoo.co.jp/articles/d082ddd2f24f47416c60cfaf214a4ffc477ef478>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04662314-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 一家５人死傷事故から１０年　当時の同級生らが献花で追悼　飲酒運転根絶を訴える　北海道砂川市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05d69f0418dbd47ede7dfe2c0678e5d3059f74cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182463-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=715&ch=715&exp=10800&fmt=webp> ウクライナ東部に“過去最大規模”の攻撃 4人死亡
       </a>
     </td>
   </tr>
@@ -386,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610460839_1610460816_aflo_132608048.jpg> 公立高再編 政府主導で計画策定へ
+      <a href=https://news.yahoo.co.jp/pickup/6541533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/18948b6ff266a63e5d4dfc9d8c16c811276fee49afa0d0ce91c189e8d24506b7.jpg> 九州北部と四国梅雨入り 大雨警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/b6a42ce1c00252c29166a3845de959183e61dca25c99f4d7ca0bb98c72c5fcb6.jpg> OTC類似薬見直し検討 メリデメは
+      <a href=https://news.yahoo.co.jp/pickup/6541531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0b4b5bedd279f6016756e173a065a38f387d773781736cdd9411b3c3797372e9.jpg> 沖縄地方 史上最も早い梅雨明け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8f60aa55b81d79281e07757b35d1235fe6f017bc5b8db34ffabf512b314f9551.jpg> 選挙掲示板「余白大きすぎ」話題
+      <a href=https://news.yahoo.co.jp/pickup/6541534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/bd6bbd0e098ecbfbcbbf12962845b81ebdeb8af0966c184a503aca5bf3bf4d39.jpg> コロンビア大統領候補 銃撃受ける
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/aa39b874d0a4a7c0773918f39287b3a291f7ac33499a6c26ec52dc20b19d133d.jpg> BTSメンバー全員兵役終了へ 展望
+      <a href=https://news.yahoo.co.jp/pickup/6541530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/85832c3cadb21a17342a9aa78473b68ea932dc2e2928882be3c56e24f2072bb7.jpg> 664gの子 2歳を初めて自宅で祝う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/51a2d18078fffe80bf772d21a5127afff640de625b69b8fae582c09c5357f6e0.jpg> 青木マッチョ ジム行けない日後悔
+      <a href=https://news.yahoo.co.jp/pickup/6541536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/90d14256edc036d60b2df5bd8d6cf1e19e3fd8c2bccc568b5c9bab7cb2153a49.jpg> 感染性胃腸炎「免疫負債」も影響
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 11:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 12:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
