@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b837519a0a59ef50eb8caa7ed08af11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7d709c97ca8efbbc2deb6f646067814.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf06e37911898d353f7c8dac15a848e3c3e19be3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964846-mbcnewsv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【福岡は6月ひと月分の雨か?】福岡200ミリ 熊本300ミリ 鹿児島300ミリ「大雨に関する気象情報」気象台発表詳しく【雨のシミュレーション8日（日）〜13日（金）】
+      <a href=https://news.yahoo.co.jp/articles/b63031b2a559b0f9e4681f6873dcdda2aef1b25c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-05853174-kkt-000-1-thumb.jpg?exp=10800&fmt=webp> 【梅雨入り】熊本県内では9日昼過ぎから大雨のおそれ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97e53efbb6f09103609c454b89f71f15d033a5dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081241-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高橋由伸氏、長嶋茂雄さんの告別式は「明るくてとても笑顔が多かった」「もちろん悲しいんですけど…」…「バンキシャ！」生出演
+      <a href=https://news.yahoo.co.jp/articles/d46b76ff19045cadc299cc7feccf7193717ace40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000148-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1569&ch=1569&exp=10800&fmt=webp> 長嶋茂雄さん葬儀　三奈さんのあいさつがファンの胸を打つ「長嶋茂雄の娘をこんなにも体現する人って」「本当にしっかりした娘さん」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/3050740ca6fdd07c4854b0798cf37862493db99ece78fe7cda2d69f4651fc5a7.jpg> バカ女と言われ 介護カスハラ実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541561>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f575fbced69618cbaffebd783ab0036dd5a47e3adce4fe7fdf0f5adcd3e18b9f.jpg> 弁当店の倒産 過去最多ペース
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8feb352dbab3a062739f44f6fa9abc614076092d8c80dbc269509446041a2419.jpg> たこ焼き 物価高騰で「脱たこ」も
+      <a href=https://news.yahoo.co.jp/pickup/6541547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0f3a8892e7679a2466cba5ed99c988d0ce2617fc290ea9a1bbeb541a87028698.jpg> 背徳グルメ人気 ギルティー映えも
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541571>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/18ef8e129babc2c91ceeafdad9df97443fda19f8d0c37c68a6ebfcd8ca53fa28.jpg> トレードほぼ確実 菅野智之の心境
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 19:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
