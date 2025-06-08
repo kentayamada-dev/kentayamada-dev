@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b023dea9a49758cbeaa49b3baede6893.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bacb27faf73aeacc63e1ec3601d54afe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c9c602540457c9ec138154cc757e67c508ec5fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010005-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 9日(月)～11日(水)ごろは九州で大雨のおそれ　非常に激しい雷雨も　土砂災害などに警戒・注意を
+      <a href=https://news.yahoo.co.jp/articles/cabc64fb79dea49a955bfb4a2bd5fd5e0bec90b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=329&ch=329&exp=10800&fmt=webp> 王貞治さん「あなたは日本の健康優良児でした」…長嶋茂雄さん告別式で弔辞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffa8cc55d5c98132c3a6ad25304e322336c7e7c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000068-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 長嶋茂雄さん告別式、王貞治さん、松井秀喜さん、原辰徳さんら参列
+      <a href=https://news.yahoo.co.jp/articles/08016a9897601a35f37abcde933c9fe4bbb6e2ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-10182494-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 米LAで不法移民の取り締まり反対デモ激化 トランプ大統領が州兵投入へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f89d3e8d5a7eed12cf0728a8f7feaf60389a55a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964730-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=410&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「美味しいが“卸の使命”」小泉大臣の要求に卸売業者が悲鳴 　「最後の切り札」緊急輸入で市場の“けん制”も【サンデーモーニング】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0abe78b65e8fa38125251e7ef70f8a495f6f2a08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00254187-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 「死人が出たらどうする」「人殺し」那須川天心との対戦も「逃げてる」…格闘家・武尊が苦しんだSNS誹謗中傷の声
+      <a href=https://news.yahoo.co.jp/articles/502eab1d8dbfbd5542f3636d581bdcee00b0db7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964805-tuliptv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 梅雨前線が北上 停滞へ…西日本で「1時間50mm以上」の激しい雨も 【雨の動きシミュレーション】気象庁は土砂災害・河川氾濫に警戒呼びかけ
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02240679/title-1749362016224.jpeg?exp=10800> 九州四国で梅雨入り 今後の見通し
+      <a href=https://news.yahoo.co.jp/pickup/6541567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/d4b3a629be314bc650975f3946a32d87a3e593f18377a7925d02c6c2eb77cd88.jpg> 森山氏 消費減税「財源今はない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/cdfd5c04e012a1ebb43ea73dd66aa445416b47f6be11a3a97d1077d7e139d889.jpg> イスラエル攻撃 配給所近くで死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02240679/title-1749362016224.jpeg?exp=10800> 九州四国で梅雨入り 今後の見通し
       </a>
     </td>
   </tr>
@@ -434,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/7efc1646007a49e9a6ab5d3c6e963535477135fbc60a1a6083be80601443315b.jpg> 珍景 トンネルの上になぜトンネル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miyatarie/02189382/title-1745847926951.jpeg?exp=10800> 頭包む「真知子巻き」人気の訳
+      <a href=https://news.yahoo.co.jp/pickup/6541563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4483940a3ed8a016073e588a424bdd558d9ad02656f16b1535e1a0a81fb6781e.jpg> 長嶋さん告別式 王貞治氏らが弔辞
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/55d055dd83ade6ef0da179346b20c76b7a891daa4397f2fa73b7d49cf399b0a2.jpg> さだまさし 借金28億円に後悔ない
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 17:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 17:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
