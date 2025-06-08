@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0e6889477ea2223a9c1d266ec0e2f87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4033a7cbf8c8e26409de00538ad192a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d52b1fc79e9ffb7967ca778c46bbe5b590c156d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964946-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 屋久島町　解析雨量で1時間に約60ミリの雨　夜遅くにかけて低地の浸水に警戒を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/714dfe3a1294b9b2c02715eb46b2c0d41ff4e2e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-03151842-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】九州や四国、近畿、東海、関東は広く雨　九州南部、非常に激しい雨の降る所も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6343f0a1277ea6b4ed184559dac7d8a1f944a0f7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「最後まで長嶋茂雄を貫いた」　次女三奈さん、最期の様子語る
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8a2b5f47be21be4ba9213a12785528537897d94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964840-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大雨情報　九州北部地方と九州南部で非常に激しい雨の見込み　前線停滞で総降水量が多くなるおそれ　警報級大雨に警戒を　気象庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e215e37f6d0b0fd569617f706242b7fbb4aa4912>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-04733462-nib-000-2-thumb.jpg?exp=10800&fmt=webp> 九州北部地方が梅雨入り　10日は警報級の大雨となる可能性も《長崎》　
+      <a href=https://news.yahoo.co.jp/articles/ee49a58833a3b27ef1d6136b52c2c5841d5271bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983952-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉を巡り党首会談開催を要求　立憲・野田氏と国民・玉木氏「何もしないのは無責任」「情報共有を」
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541587>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitakahiro/02240856/title-1749358672684.jpeg?exp=10800> 米大学の混乱 日本の対応と課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541568>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6014415d760dcb40899025f7e99fff2ee164aef892818d19479d90a6319bb4e8.jpg> 米大統領 デモ鎮圧に州兵派遣へ
       </a>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f575fbced69618cbaffebd783ab0036dd5a47e3adce4fe7fdf0f5adcd3e18b9f.jpg> 弁当店の倒産 過去最多ペース
+      <a href=https://news.yahoo.co.jp/pickup/6541585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/17a0f6df3940e26f424331042f56eb6954d709f4a424f3fa7218e991e597c4e8.jpg> 備蓄米求め 午前1時から待った客
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2e26430d9d4d28a79e78fcdd560c72d723ddfaad04b07f1febfcd1e0692a4625.jpg> 俳優・岡田龍太郎 司法試験に合格
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 20:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 21:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
