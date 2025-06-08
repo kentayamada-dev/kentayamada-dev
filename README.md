@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca600368fab1ca338027c9d231d0bc83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/196477f8c454ac4e80615511cb208e3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb1803647ea4173fd65449e4104dbfb6944109c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00031396-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アルカラスが5時間29分の劇的な逆転勝利でフレンチ・オープン2連覇達成、シナーはグランドスラム3大会連続優勝ならず [テニス]
+      <a href=https://news.yahoo.co.jp/articles/f11dabbd702848f09a446d7a213970c14259f34d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 中谷潤人が衝撃TKOで2団体王座統一！ 刺激受けた井上尚弥がメッセージ「こんな強い日本人がいたらワクワクしちゃうよな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/691385fffdedf8e97dcc4b5d3d40ae023d20e221>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090006-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 【ボクシング】西田凌佑は右肩関節脱臼後の腱盤損傷の疑い　中谷潤人に敗戦後病院に直行
+      <a href=https://news.yahoo.co.jp/articles/2e5660f36e3e8bfc5fdbf9814df1fb9511691340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> アルカラス 全仏OP決勝史上最長の死闘制し2連覇、シナーへ「君と歴史を作る」＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 04:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 05:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
