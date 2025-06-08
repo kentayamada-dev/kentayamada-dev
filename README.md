@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3efcc64647136c3266883b71d70f43e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39b15cb672483f0cf3b416aa90736e89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e1bccee30267476cd261e01497037268c900575f62f355af38f2a1f762f622f1.jpg> 長島三奈さん 松井秀喜氏との約束
+      <a href=https://news.yahoo.co.jp/pickup/6541584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/b2f4cc596fbc7f05af5f28ea37363e9c1b0e2c3954432b3d896f2762b3e34768.jpg> 福岡のうどん なぜ「ごぼう天」?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9fd2566d35442f32822bc6178ad3106ddb3825e94c188b91765397bf7e5592a4.jpg> 「声優ブーム」露出増加の光と影
+      <a href=https://news.yahoo.co.jp/pickup/6541571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 23:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
