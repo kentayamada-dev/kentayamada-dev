@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed051c4713809b9e94de93529271b34d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fccf17211587ed97247a38314e09d96a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8de7bd5d937c9366b265eec3d4b4b6d46b53e01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000023-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 沖縄、「史上最早」タイの梅雨明け　九州北部・四国は梅雨入り
+      <a href=https://news.yahoo.co.jp/articles/4a4f874e3d19d542b396e190769ae3eceb521734>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081071-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> ライダー俳優の岡田龍太郎、司法試験合格を報告　４年ぶりＳＮＳ更新　早稲田大学法学部卒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b3fc16ecbb920e064b3b6b2a8ddae8c8d3cab84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026444-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> パラグライダーの大会で着陸時に事故　東京都の62歳女性が死亡　着陸時に翼が魚野川に引き込まれ溺れる…新潟・南魚沼市
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c27f6667184c12e9ceba7636db642c5f776c8c5f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=327&ch=327&exp=10800&fmt=webp> ロシア、捕虜交換控えてウクライナ空爆…「全面戦争後で最も強い攻撃」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8d7677a5b999edd8845947e915c6e5ec339e127>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00010006-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 大注目 シナーvsアルカラス 全仏OP決勝は今夜22時開始＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/0d5314ba2efcf95018419e8e4efdd83c3b1154228e24aec3107f491b718d488a.jpg> 悪質ひきこもり支援で被害 実態は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2f6924e1b28c7d2df1df9f00ed5a3923e27d898718f8e5ced467958081620349.jpg> パラグライダー着陸失敗 男性死亡
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/90d14256edc036d60b2df5bd8d6cf1e19e3fd8c2bccc568b5c9bab7cb2153a49.jpg> 感染性胃腸炎「免疫負債」も影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541538>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/c722d8ed8a4e00166131ab1b11d088f4c6a28aec6b3394e68f5f29a7a6c922eb.jpg> 末續慎吾が悔し涙 世陸は困難に
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 13:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 13:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
