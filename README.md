@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47b9dfecdb7f78c6094aedb1d8dfaa8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e939caa41d34f10a757099e502bb5cda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f39182281adca01bfd683a2421bce8a0a8cd4856>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00031395-tennismagv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 崖っぷちから生還のアルカラスが最終セットに持ち込む、シナーは3つのチャンピオンシップポイントを決めきれず [フレンチ・オープン／テニス]
+      <a href=https://news.yahoo.co.jp/articles/463ce1ee2143bacc891f2e27a1a44ed454aa5008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000111-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【全仏OP】決勝史上最長5時間29分の死闘！アルカラスV2　世界1位シナーに0―2から大逆転勝利
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/691385fffdedf8e97dcc4b5d3d40ae023d20e221>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090006-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=1014&ch=1014&exp=10800&fmt=webp> 【ボクシング】西田凌佑は右肩関節脱臼後の腱盤損傷の疑い　中谷潤人に敗戦後病院に直行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac64a5908c9bfcdd6203aec065a73366aee927c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000435-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=889&ch=889&exp=10800&fmt=webp> 長嶋茂雄さんが語っていた監督1年目　最下位に終わり「選手の方がいいな、と」　Nスペが過去映像で追悼
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 03:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 04:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
