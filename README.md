@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7220715108f69dbb08724a7e2cc7fdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e64b6f620b2c56940276ebcee5e3bd57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b3fc16ecbb920e064b3b6b2a8ddae8c8d3cab84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026444-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> パラグライダーの大会で着陸時に事故　東京都の62歳女性が死亡　着陸時に翼が魚野川に引き込まれ溺れる…新潟・南魚沼市
+      <a href=https://news.yahoo.co.jp/articles/bf4dca6431da1c3aa065956e2ddbf322dcfcbc55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000025-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナ第2の都市で「侵攻開始以降 最大の攻撃」 4人死亡 60人以上けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c27f6667184c12e9ceba7636db642c5f776c8c5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=327&ch=327&exp=10800&fmt=webp> ロシア、捕虜交換控えてウクライナ空爆…「全面戦争後で最も強い攻撃」
+      <a href=https://news.yahoo.co.jp/articles/0b3fc16ecbb920e064b3b6b2a8ddae8c8d3cab84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-90026444-nsttv-000-1-thumb.jpg?exp=10800&fmt=webp> パラグライダーの大会で着陸時に事故　東京都の62歳女性が死亡　着陸時に翼が魚野川に引き込まれ溺れる…新潟・南魚沼市
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/fe1d81c1ad1bba007a9d8b3bee4f5997b664272c5e1221bbb02dfad1aef56c76.jpg> 非公認後ポスターに「自民」なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6541519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/cdfd5c04e012a1ebb43ea73dd66aa445416b47f6be11a3a97d1077d7e139d889.jpg> イスラエル攻撃 配給所近くで死亡
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/dc27635bf4553ebc3e80fa3f9e049d8d66277319e572583c6d0a4429c127347a.jpg> 女性重体も 自家発電機の事故注意
+      <a href=https://news.yahoo.co.jp/pickup/6541552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/403bc4139c58756d7951514f1afb1ba537b17291a1b9e540bef58d194987bdc1.jpg> 山手線駅がクラブに 社長一言から
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/4e07b61c223298367e456eea77a32e16dd90c1b13e755d0b2ebd24265756fd78.jpg> 会場どよめき 男子200mで同着V
+      <a href=https://news.yahoo.co.jp/pickup/6541553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/18ef8e129babc2c91ceeafdad9df97443fda19f8d0c37c68a6ebfcd8ca53fa28.jpg> トレードほぼ確実 菅野智之の心境
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 15:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 15:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
