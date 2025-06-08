@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5488c6fe11510307fbe4af2e8acf9c7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a1f05b6bc4f8745871216d68557e01f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ba498e3b5a30ce76d054b14796bde0eca10b24a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06081347-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=859&ch=859&exp=10800&fmt=webp> 中谷潤人「サプライズ」いきなり猛攻で王座統一　井上尚弥戦についてＮＢＡ選手からＤＭ届く
+      <a href=https://news.yahoo.co.jp/articles/6d0b4eee4139183fed6826ceac068023de07acce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00545629-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 中谷潤人のTKO勝利に米リング誌はもはや畏怖の絶賛「手に負えない」　ラウンド間の笑みは「不吉だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6efe05f8138c0d01dde6dd6a519632427a4afc84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1861&ch=1861&exp=10800&fmt=webp> 世界1位シナー 逆転負けで全仏OP準V「全てを出し切った」「今はとても辛い」＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/490cccec7e545c3f4913f9ed6907d5330e4ff157>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000057-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> 巨人・阿部監督　長嶋さんへ誓いの白星　岸田の満塁弾に「スカッとしました。久しぶりに」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e5660f36e3e8bfc5fdbf9814df1fb9511691340>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> アルカラス 全仏OP決勝史上最長の死闘制し2連覇、シナーへ「君と歴史を作る」＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 05:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 06:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
