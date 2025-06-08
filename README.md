@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4033a7cbf8c8e26409de00538ad192a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a8a0d0c8379e938dbd0877c7b7d8744.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d52b1fc79e9ffb7967ca778c46bbe5b590c156d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964946-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 屋久島町　解析雨量で1時間に約60ミリの雨　夜遅くにかけて低地の浸水に警戒を
+      <a href=https://news.yahoo.co.jp/articles/9a0f02c2132d4b7e8f21b4fbd1c731f6ae696c85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000400-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 有吉弘行「時代なのかね…」　長嶋茂雄さん訃報に思うこと「知っている世代は70代とかだから」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714dfe3a1294b9b2c02715eb46b2c0d41ff4e2e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-03151842-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】九州や四国、近畿、東海、関東は広く雨　九州南部、非常に激しい雨の降る所も
+      <a href=https://news.yahoo.co.jp/articles/f82e963a0d7a2c24d926860e4d561bce153e48f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000399-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 宮野真守　所属事務所退所　契約満了のため
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6343f0a1277ea6b4ed184559dac7d8a1f944a0f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「最後まで長嶋茂雄を貫いた」　次女三奈さん、最期の様子語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee49a58833a3b27ef1d6136b52c2c5841d5271bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983952-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉を巡り党首会談開催を要求　立憲・野田氏と国民・玉木氏「何もしないのは無責任」「情報共有を」
+      <a href=https://news.yahoo.co.jp/articles/3de8105519f8012be4ed32ccf451b032715fd9f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00983961-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉「直ちに首脳会談をして合意に結びつくことにはなかなかならない」赤沢経済再生相　石破首相に訪米報告
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2fba89c2b184c271f3803bd9e47459beb0e03f4c77d620ccf030cc4e171e1d78.jpg> 9日 九州から関東にかけ広く雨
+      <a href=https://news.yahoo.co.jp/pickup/6541589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/e95038a25cfc5efea4677a62af1c5e732c46c7f96e2ac900d823fed1cf8ba289.jpg> 野党 日米関税巡り党首会談を要求
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541587>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitakahiro/02240856/title-1749358672684.jpeg?exp=10800> 米大学の混乱 日本の対応と課題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/6014415d760dcb40899025f7e99fff2ee164aef892818d19479d90a6319bb4e8.jpg> 米大統領 デモ鎮圧に州兵派遣へ
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/5d95592473ed738e2b3ddf0bb27cd263587b9b696245250e1e76e2dcbdcafd2b.jpg> 天心が判定勝利 世界初挑戦へ前進
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541571>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/87e754732890f3de8a8c12597b51114ac80bf52fe34dccdc8b94650fdd438ef7.jpg> 長嶋さんの最期 三奈さんが明かす
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 21:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 21:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
