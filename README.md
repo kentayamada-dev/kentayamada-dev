@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de9a47097406de2fbc2c858c0df6405c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b837519a0a59ef50eb8caa7ed08af11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a82d4669cbd9e31e2de82fc9842096fe7d3060ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】九州から東海にかけ、関東も南部中心に雨　沖縄は夏空
+      <a href=https://news.yahoo.co.jp/articles/cf06e37911898d353f7c8dac15a848e3c3e19be3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964846-mbcnewsv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【福岡は6月ひと月分の雨か?】福岡200ミリ 熊本300ミリ 鹿児島300ミリ「大雨に関する気象情報」気象台発表詳しく【雨のシミュレーション8日（日）〜13日（金）】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d6ed7d8d3b8ec56661e0f905d37f2105d5776d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00050054-yom-000-4-view.jpg?pri=l&w=192&h=140&exp=10800&fmt=webp> 長島三奈さん「長嶋家は毎日青空で、父が太陽のように笑顔たくさん振りまいてくれました」…長嶋茂雄さん通夜であいさつ
+      <a href=https://news.yahoo.co.jp/articles/97e53efbb6f09103609c454b89f71f15d033a5dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-06081241-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高橋由伸氏、長嶋茂雄さんの告別式は「明るくてとても笑顔が多かった」「もちろん悲しいんですけど…」…「バンキシャ！」生出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e04a3e88447451d7d51985ca027f511bb4d886be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-35233993-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 上院議員銃撃で１５歳少年逮捕、大統領は「首謀者」割り出し誓う　コロンビア
+      <a href=https://news.yahoo.co.jp/articles/9b7a0868d4440bdda355b18b5aa915e4681ace7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21964832-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 追突されたトラックが押し出され男性と衝突 男性は意識不明の重体　
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02240679/title-1749362016224.jpeg?exp=10800> 九州四国で梅雨入り 今後の見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541551>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/544bab03b36b704cee0219d2e6053ba27182fd8f637ef0f25d6c9d886fbeb6e3.jpg> 米大統領 マスク氏民主支援に警告
       </a>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/2922976f6b74132c46904ab7b9e20da4a938cc341c807aa2be864d687eaf2c48.jpg> 秋葉原殺傷 現場で救助しPTSD
+      <a href=https://news.yahoo.co.jp/pickup/6541576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/ca854872b2e831ecabdbf1bbdf842451115e8d5c9cb06af41d09aec615c2d55a.jpg> 路駐トラックに車追突 男性が重体
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541561>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f575fbced69618cbaffebd783ab0036dd5a47e3adce4fe7fdf0f5adcd3e18b9f.jpg> 弁当店の倒産 過去最多ペース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/8feb352dbab3a062739f44f6fa9abc614076092d8c80dbc269509446041a2419.jpg> たこ焼き 物価高騰で「脱たこ」も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 18:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 19:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
