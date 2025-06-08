@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea3951cfede5edc3c131a7af6dfb50c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cd1342c3f866938b2cc6ccbb4d88ebd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3621219e9519b0907e33fe725fcdc3517c4f7acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-21958631-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 山本由伸「これが野球かな」6回9K無失点も味方打線が無得点、「スプリットとカーブの時、いいフォームで投げられた」と収穫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d32f9a024cf6cc3bf9bb56a58e2a299146336806>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00097645-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 21歳ガウフがサバレンカとの頂上決戦を制し全仏オープン初優勝！「何とかやり遂げた。それが全て」＜SMASH＞
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ff9af3a3d8ec954c19587a5c74b623c89513273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-00097640-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 山本由伸、６回９K無失点の快投も７勝目ならず...米球界を代表する超エース級「37％」を記録もLA記者落胆「援護はゼロだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/084dd426fc5d15fbc4063309bcc9b0e38862784a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250608-07241521-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> ウクライナ・ハルキウ　ロシア軍のドローン攻撃などで4人死亡
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/95cfbd02da663317a8708756c87c8523742ab37407009d2eb054e3fffc4d1825.jpg> 九州で警報級大雨続く恐れ 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6541506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610460839_1610460816_aflo_132608048.jpg> 公立高再編 政府主導で計画策定へ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/f90b62b08cfa3c32454131c0794d2e2fe4e887b42d47f94160aa257dd64caa67.jpg> 丸山隆平の主演映画 上映館が拡大
+      <a href=https://news.yahoo.co.jp/pickup/6541514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/8/9e91b5158fd486b26ab47570942c280e53b82fabfade9f8cc18b01730fbdd0b4.jpg> マユリカ阪本 第1子の誕生を報告
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/08 09:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/08 09:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
