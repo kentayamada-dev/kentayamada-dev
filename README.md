@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cdb485b9b9dac04050a521cc657774e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0abf82ece8d174e69ac7f8e063d7fc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8888a70c00d2fcfe5484328eab99a0540fb5ee63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000171-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 渡辺正行　備蓄米の放出に「備蓄米って大体、税金で買ってるんだからね、買ったカネで出せばいい」
+      <a href=https://news.yahoo.co.jp/articles/a5d51ca703221e91fb3c8ccadeed26fcb2fc4f37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 谷本有香氏　小泉農相“コメ緊急輸入も選択肢”発言に見解　「パニック買いが起こり得る状況において…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/741bb91ef66440edd699724cea322bf58d4124de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00030133-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東海地方が梅雨入り　平年より3日遅く　11日にかけて梅雨入り早々の大雨に警戒
+      <a href=https://news.yahoo.co.jp/articles/22ac44932905c7f4d21692dc9ab76072192615fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90019935-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 近畿・東海・中国地方『梅雨入り』気象庁が発表　3カ月予報で6・7月降水量は平年並み見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa9192fee37c9de6719d90560d24826a4006713f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182587-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 「茶番は終わりだ」イスラエル軍 グレタさん乗せたガザ支援船を拿捕
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1e958f0f0b62be1ccbc80bbebce646bbfa86b33>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 玉川徹氏、長嶋茂雄さんの告別式の映像にポツリ「昭和っていうものが終わっていくなあっていう…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46233cf7f3122d0d77b8d4c34db2cf59e2af042a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-annd-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1013&ch=1013&exp=10800&fmt=webp> グレタさんが乗った船をイスラエル軍が拿捕し活動家らを拘束　現地メディア
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ffb97254bec0fc32be6b7e66f3e929a1243f662ae11f1db2added707c4f866c2.jpg> 備蓄米売り渡しを評価72%ANN調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
+      <a href=https://news.yahoo.co.jp/pickup/6541635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/86e94e744b4f33356fb8bf6d257051b759ff55f976ec9d419777bd3dc4e6722c.jpg> ホテルに遺体 強盗殺人疑いで逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ff0a4bf7e68b1d61e8d27fba988b673c164e4af4ccf49b74d1565621cebc9e7b.jpg> 唐揚げ1個の給食が話題 市の事情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
+      <a href=https://news.yahoo.co.jp/pickup/6541622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/293d28ed4c2bf236f531cbb3b27c9f3acbe4c4d2def949776ac3cc56f803d7df.jpg> 末續慎吾45歳 世界陸上を目指す訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 11:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 12:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
