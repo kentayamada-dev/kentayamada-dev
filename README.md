@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99e58e03d2f005978f969923945050b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9eb2738783096f579ff0afd0f30467e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cca7830cf6f161b88234a27d6ea735bf50f9b1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182638-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=646&ch=646&exp=10800&fmt=webp> “パーン！”発砲音と怒号が響く…石を投げるデモ隊と催涙ガス警備隊 ロサンゼルスで激しい衝突
+      <a href=https://news.yahoo.co.jp/articles/329b0cdeef5ebd165938a09c3e3260ea6a202dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000008-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏、地元の反対無視し強権発動　デモ鎮圧で州兵派遣　米軍「私物化」に懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/53ddf42f4ae14f3fabe98ec90532d29d1336a301>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 衝撃の“新怪物”！“神の拳”を継承する増田陸は87秒“ワンパンKO”で那須川天心よりもインパクトを残した…狙うは「WBA堤聖也へのリベンジと中谷潤人が持つWBCのベルト」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57733070de216e3d4ecf8cde4f858e14dc567b4c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010013-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井ノ原快彦、『特捜9』クランクアップで涙　約20年を振り返り「いつもハッピーでした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b25b3bc9a3f4a6a0914d99700ded2ab5233816e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06091270-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 中谷潤人　ＶＳ尚弥の前にＳバンタム級で「１～２戦はやりたい」…次戦にも転向　対戦相手候補の具体名も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 07:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 07:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
