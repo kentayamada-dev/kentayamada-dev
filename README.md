@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f59b781b4ce219fabb66e1c6396afb78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9863b9e71d579719d2695666399c4b61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea563579149613480a8ecd7fe204531d06751663>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000062-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 白鵬翔さん、退職会見「照ノ富士の下が嫌だ、そういうのは全くありません」
+      <a href=https://news.yahoo.co.jp/articles/73582e954fdc162bc61eea38b7b948ed23b1a224>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090604-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 白鵬翔さん「相撲に愛され相撲を愛した25年」「最終的に自分自身で退職を決断」会見主なやりとり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5aa358e7d6c1f8f27590d09dc7dadfe011fcc85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-05784528-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「今後の動向しっかり見ていく」卸売業者間のコメ取引価格下落傾向に
+      <a href=https://news.yahoo.co.jp/articles/60bc59d22db8a101fd0d7e56bec4a0ea0abb83c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984195-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 環境活動家・グレタ・トゥンベリさんら乗せた船をイスラエル軍が拿捕、航行阻止　ガザに支援物資届ける途中で…イスラエル外務省「見世物は終わりだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b4bde5a93d3dd913e65519e612754d9c1f3b1c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241717-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「随意契約」の影響で卸売業者間のコメ取引価格が下落　小泉農水大臣「今後の動向をしっかり見ていく」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e91c7ae5ec49fd7bd8f0ea3749a9b2c290b66fdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010004-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> グレタさんらのガザ支援船にイスラエル当局者が乗り込む瞬間とみられる映像公開、拿捕された模様
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33eac5ac9ae7a1e43bbf7223aeb5eb8b0a2347d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/24a4e4a5b9b0a38af74e7522b364e0ab31d9dc79c41abd0430a14572bc222c76.jpg> 白鵬氏 元照ノ富士との確執を否定
+      <a href=https://news.yahoo.co.jp/pickup/6541652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/753d0a6717a297fa7ea29d8a9d98057e69f0657139afb009073a1396e8827159.jpg> 白鵬氏 指導に身入らなかったかも
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 15:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 15:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
