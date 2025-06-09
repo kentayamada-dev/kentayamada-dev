@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91a8c3a2fdee3800d47f9b82430275dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99e58e03d2f005978f969923945050b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30216379bd49afa69e6f63581d30bf3734593f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984578-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 九州で“線状降水帯”の恐れ　土砂災害や河川氾濫など警戒
+      <a href=https://news.yahoo.co.jp/articles/4cca7830cf6f161b88234a27d6ea735bf50f9b1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182638-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=646&ch=646&exp=10800&fmt=webp> “パーン！”発砲音と怒号が響く…石を投げるデモ隊と催涙ガス警備隊 ロサンゼルスで激しい衝突
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/007e86712f20d4dc3891b9a326e50984e51bfe2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+      <a href=https://news.yahoo.co.jp/articles/8b616d37f42ad1268241f35fa0e8a81d3633435e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-01648535-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> コメ5キロ「4223円」2週連続の値下がり　銘柄米も“変化の兆し”　実態は…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57733070de216e3d4ecf8cde4f858e14dc567b4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010013-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井ノ原快彦、『特捜9』クランクアップで涙　約20年を振り返り「いつもハッピーでした」
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d12877f2493cf722de6d5253711ad92558b0425c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
+      <a href=https://news.yahoo.co.jp/pickup/6541707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/2d67bf6bfb09c2c886d20dadf773a522289a319ec308f785a6376adbef9bad04.jpg> 立憲 内閣不信任案見送りで調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/75603d11a6e41d48c9bdc0f8519e54dbc2be3e34dbce5f68eb1f27bc3cfbb731.jpg> LA衝突 非殺傷弾で記者撃たれる
+      <a href=https://news.yahoo.co.jp/pickup/6541691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541702>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> うつ病に認知症物質が関与か 研究
+      <a href=https://news.yahoo.co.jp/pickup/6541706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ad06f802c923bb7c3be1933655ee39fce3fdfdd961cb78a97f0154c456afad7f.jpg> 白鵬氏会見 担当記者の「違和感」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/252e0e7407df1b97ee05e582be8e8c9187d5367e63cbf86f378d215362c9d3c5.jpg> 右腕切断 佐野慈紀さん語る糖尿病
+      <a href=https://news.yahoo.co.jp/pickup/6541708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/64f0cef2775071eb5836ec8d846c3739934dab3029e7dd180f1f510204d71ee4.jpg> 井ノ原 特捜9シリーズ撮了に涙
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 06:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 07:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
