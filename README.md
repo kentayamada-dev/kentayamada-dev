@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78c9cc6885c26e8b10c0881e727f10a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e11c84a0edeadef2bc02b5e4eeab2a59.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd410e18ab480829b177db2ab119bc56b042b93f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00160664-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉農水相 外国産米「緊急輸入」発言の狙いとは　業者に在庫をはかせるハッタリ?カズレーザー氏「ずっと安いままは農家としても無理」
+      <a href=https://news.yahoo.co.jp/articles/0932dcbfe5880ee72e186f0fbac3642678ca4c2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050124-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=355&ch=355&exp=10800&fmt=webp> 赤沢経済再生相、今週後半に訪米で調整…首脳会談への最終調整との位置づけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2934c3139f21edc248a7d517dcbf98fe227c4e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984210-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホテルに会社員男性（32）遺体　20歳男を強盗殺人の疑いで緊急逮捕　名古屋市
+      <a href=https://news.yahoo.co.jp/articles/8f7390d7f965a1c625f764251c2842ff4b7977fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> JR武蔵野線と西武池袋線が2028年度メドに直通運転へ 　乗り換えなしで東京ディズニーリゾートと聖地巡礼も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd410e18ab480829b177db2ab119bc56b042b93f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00160664-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉農水相 外国産米「緊急輸入」発言の狙いとは　業者に在庫をはかせるハッタリ?カズレーザー氏「ずっと安いままは農家としても無理」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a4fd8a0069bf8c96c872cd8c1b2d94b1bba8e45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-48550100-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 野田立民代表、ＴＰＰ拡充で自由貿易体制の優位性高めよ-日米関税協議
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/bb694b446aeeaba4231559d4d5cc51c1220a9fa3555c90d169c58a2a5e60ba29.jpg> 関東10日にも梅雨入りか 本降り雨
+      <a href=https://news.yahoo.co.jp/pickup/6541653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 不発弾作業中爆発 自衛隊4人けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 不発弾作業中爆発 自衛隊4人けが
+      <a href=https://news.yahoo.co.jp/pickup/6541658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/bb694b446aeeaba4231559d4d5cc51c1220a9fa3555c90d169c58a2a5e60ba29.jpg> 関東10日にも梅雨入りか 本降り雨
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541651>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanagiharamika/02241480/title-1749428907534.jpeg?exp=10800> 「自己満足」不正改造車の危険性
+      <a href=https://news.yahoo.co.jp/pickup/6541664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5a402ca18751d8d60ff74a9c5600e9a14d6e2a860753b5980fda1f8ae6ba16c5.jpg> ホテルに男性遺体 女性と入室か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/65afe91877ec0166c983da47d7b6389eb93888d36cbe91e7395c9bf0dce79b3f.jpg> 元ミセスのドラマー 今は社労士
+      <a href=https://news.yahoo.co.jp/pickup/6541665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/47ee1a6072fd73e1c687c97c83f0b96563408ba33d7b7258795249b36786cfa3.jpg> FRUITS ZIPPER 紅白落選で挫折
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 17:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 17:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
