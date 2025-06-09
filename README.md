@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9eb2738783096f579ff0afd0f30467e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6a8d74b04a6be35189b26a48e839584.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/329b0cdeef5ebd165938a09c3e3260ea6a202dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000008-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏、地元の反対無視し強権発動　デモ鎮圧で州兵派遣　米軍「私物化」に懸念
+      <a href=https://news.yahoo.co.jp/articles/d1070c91395b133b4446e984ab933b0475f1353d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロス抗議デモ、海兵隊派遣へ　米政権、10日にも700人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/319766175c9347f125b71499c431a26876e0bbfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182733-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=779&ch=779&exp=10800&fmt=webp> スーパーのコメの平均価格、2週連続で値下がり 小泉大臣「スピード感を緩めず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0545b003e53476d7ef0f395791a80ac013811f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000187-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 巨人・坂本勇人が1軍合流　長嶋魂を胸に…恩返し日本一へ「チームの勝ちに貢献できるように」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b616d37f42ad1268241f35fa0e8a81d3633435e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-01648535-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> コメ5キロ「4223円」2週連続の値下がり　銘柄米も“変化の兆し”　実態は…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57733070de216e3d4ecf8cde4f858e14dc567b4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010013-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井ノ原快彦、『特捜9』クランクアップで涙　約20年を振り返り「いつもハッピーでした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d12877f2493cf722de6d5253711ad92558b0425c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
+      <a href=https://news.yahoo.co.jp/pickup/6541710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b0b82a23cfa1bce873f9a4db641e04c4705851e38169db7eb3230412a17cb248.jpg> 1人数万円給付 自民公約の方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 07:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 08:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
