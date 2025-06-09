@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e11c84a0edeadef2bc02b5e4eeab2a59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dcb98d18e7257e3c84159c6a581d409.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0932dcbfe5880ee72e186f0fbac3642678ca4c2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050124-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=355&ch=355&exp=10800&fmt=webp> 赤沢経済再生相、今週後半に訪米で調整…首脳会談への最終調整との位置づけ
+      <a href=https://news.yahoo.co.jp/articles/53d7fda795db3ed2f7fff943e23006097ecd1198>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01161598-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 東京・銀座のビルでエレベーター傾く　2階と3階の間で停止　けが人なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f7390d7f965a1c625f764251c2842ff4b7977fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> JR武蔵野線と西武池袋線が2028年度メドに直通運転へ 　乗り換えなしで東京ディズニーリゾートと聖地巡礼も
+      <a href=https://news.yahoo.co.jp/articles/2c25b26b325c4ed4976e1a21f9c991be637d1e7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-03496311-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 宮野真守、7歳から約35年所属した『劇団ひまわり』を退所　『研音』への所属が決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9be13c1c4147c76c41fbea0f45b5667d9f8683bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01477984-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相、今週後半にも訪米で調整　6回目の日米関税協議へ
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd410e18ab480829b177db2ab119bc56b042b93f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00160664-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉農水相 外国産米「緊急輸入」発言の狙いとは　業者に在庫をはかせるハッタリ?カズレーザー氏「ずっと安いままは農家としても無理」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d3b04f3ab5c52900e41f5aa7ed60cc92f24f0c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984204-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がグレタ・トゥンベリさんら乗せた船を拿捕　支援物資届けるためガザに向かう途中…「見世物は終わりだ」「乗組員全員が母国に戻ることになる」
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/44a691e5982df7bd6b2c3452acd192562899539fe466d4f442513017db532a7a.jpg> 西武池袋線と武蔵野線 直通検討
+      <a href=https://news.yahoo.co.jp/pickup/6541669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/6782b39079fdc02856a0842fd8dc56827f8dfc28efbebd5e16a81a82984f8126.jpg> エレベーターの支柱傾き停止 銀座
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/428a24edec692aa30780c350ae648d693e1d31ad922d34a9c13265fdace2c80b.jpg> 観光バブルで家賃倍増 宮古島の今
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541657>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/66ef6b1254c81c49e66d2f0f1bb8a0e8a8769e943c2f1907db3be51f72afd307.jpg> 2000万円超着服 行司を懲戒解雇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8f524011118aa2231ebaba1cede8ea12de691f32d5f2e941e0b8e56defe0ca78.jpg> 宮野真守「研音」所属を発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 17:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 18:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
