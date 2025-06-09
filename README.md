@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dcb98d18e7257e3c84159c6a581d409.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/253dbda4354dea893457f523ea4f16b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53d7fda795db3ed2f7fff943e23006097ecd1198>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01161598-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 東京・銀座のビルでエレベーター傾く　2階と3階の間で停止　けが人なし
+      <a href=https://news.yahoo.co.jp/articles/0395a231cb61210856207cb4103dd624460c2844>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90032580-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米　静岡県内の販売はいつから？　「早くスーパーに」「安い方が」　消費者もやきもき
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c25b26b325c4ed4976e1a21f9c991be637d1e7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-03496311-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 宮野真守、7歳から約35年所属した『劇団ひまわり』を退所　『研音』への所属が決定
+      <a href=https://news.yahoo.co.jp/articles/dc067553f2a040df5adcdfa36aab93351e848908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米中、英ロンドンで貿易協議へ　レアアース規制を巡る進展が焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9be13c1c4147c76c41fbea0f45b5667d9f8683bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-01477984-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相、今週後半にも訪米で調整　6回目の日米関税協議へ
+      <a href=https://news.yahoo.co.jp/articles/ebd647e9d589e407596e9dbdade4641949e3797e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00491523-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国　きょうのニュース（6月9日）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd410e18ab480829b177db2ab119bc56b042b93f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00160664-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉農水相 外国産米「緊急輸入」発言の狙いとは　業者に在庫をはかせるハッタリ?カズレーザー氏「ずっと安いままは農家としても無理」
+      <a href=https://news.yahoo.co.jp/articles/f6b975ae68d30a6c40707075e5525a9772f4ef37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00066325-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】「レジオネラ属菌」めぐり市議会で質疑　健康被害が出たら誰が責任を？博覧会協会は因果関係が認められれば治療費支払う方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d3b04f3ab5c52900e41f5aa7ed60cc92f24f0c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984204-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がグレタ・トゥンベリさんら乗せた船を拿捕　支援物資届けるためガザに向かう途中…「見世物は終わりだ」「乗組員全員が母国に戻ることになる」
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 不発弾作業中爆発 自衛隊4人けが
+      <a href=https://news.yahoo.co.jp/pickup/6541672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1aa3b982e6a182a32b7a9b472d388d9662cd0dac9dd6113410298911a65a3d6f.jpg> 赤沢氏が4週連続で訪米へ 調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/bb694b446aeeaba4231559d4d5cc51c1220a9fa3555c90d169c58a2a5e60ba29.jpg> 関東10日にも梅雨入りか 本降り雨
+      <a href=https://news.yahoo.co.jp/pickup/6541663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf00871cde5879dbcb2a603d45f051ab85f3427bbb4c24bfaeeeb850677c3033.jpg> 外国人増巡る問題 首相が対策強調
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/6782b39079fdc02856a0842fd8dc56827f8dfc28efbebd5e16a81a82984f8126.jpg> エレベーターの支柱傾き停止 銀座
+      <a href=https://news.yahoo.co.jp/pickup/6541667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/170dcc5193a5d33d8caff547ce35e05e513d952face59c57417b87990a09469d.jpg> 大阪府 19～22歳に食費支援実施へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/428a24edec692aa30780c350ae648d693e1d31ad922d34a9c13265fdace2c80b.jpg> 観光バブルで家賃倍増 宮古島の今
+      <a href=https://news.yahoo.co.jp/pickup/6541669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/6782b39079fdc02856a0842fd8dc56827f8dfc28efbebd5e16a81a82984f8126.jpg> エレベーターの支柱傾き停止 銀座
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 18:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 18:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
