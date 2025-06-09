@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74c007a209241003abf85cfcf3b499ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3dc23221ce7280676321ccd77a114ea1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee45d7ee8f6d2cdd143c7576631eefb742644503>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000213-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 白鵬翔氏　弟子の過半数引退の理由に言及「弟子たちは大島部屋に行きたいという思いがあった」
+      <a href=https://news.yahoo.co.jp/articles/c337e943e8d818ebd0d3fa7c053c5084ca127adb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000226-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 白鵬氏　「弟子の指導に身が入っていない」との指摘に　退職に悩む中で…「気持ちの揺れがあった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aefa41c5a722d1ed0d3227f974c79d34dfc144ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090507-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 「君たち早く出してねというメッセージ」小泉進次郎農相のコメ緊急輸入検討発言を専門家が解説
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5d51ca703221e91fb3c8ccadeed26fcb2fc4f37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 谷本有香氏　小泉農相“コメ緊急輸入も選択肢”発言に見解　「パニック買いが起こり得る状況において…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c007241d972388f2657384c29262e8d1f9f8ac12239540f34dedb8cc9fd34ebd.jpg> 首相 韓国の李大統領と電話会談
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/05fa4a984418671928bae828c4ec1b123f126afa4fbaa344a099e7e8f49e32ce.jpg> 首相 韓国の李大統領と電話会談
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541646>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 嘉手納基地で爆発 自衛隊員がけが
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c08ef7643122a7f981c4ff30b3c83f198d4b37194ef5282781bd69d850344971.jpg> 嘉手納基地で爆発 自衛隊員がけが
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/950126d6abe4360fab634a734c6154f066fc7eef17e6c10b9ee621c8ff0d6226.jpg> 白鵬氏「外から相撲に貢献する」
+      <a href=https://news.yahoo.co.jp/pickup/6541647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/390cd6c89ff667bf2126c0796df1abac5d841f16815438bb06e119256485dc60.jpg> 白鵬氏 元照ノ富士との確執を否定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 13:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 13:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
