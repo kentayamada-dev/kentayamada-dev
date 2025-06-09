@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/638b72fc5534d411143a30ea92a4f99f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db5d8528d6b7e37f0f921c68bacbbc41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2039a0c17bb44ff2a885bfea8579948e4d94ec63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1033&ch=1033&exp=10800&fmt=webp> 白鵬さんの指導に身が入っていなかった？　元横綱・旭富士の宮城野親方「辞める意思を持った中では自然なこと。変な誤解」と指摘
+      <a href=https://news.yahoo.co.jp/articles/5dd1ac4c86eac35372dc98590b593113535b605a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=900&ch=900&exp=10800&fmt=webp> コメ価格高騰は「スポット価格」上昇が影響?　小泉農相　実態把握へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb54a9bfb1c5d1f953e8df50f22a621a3660ef2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90013057-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「とにかく安く、早く」店の思い　精米会社は“土日返上”で稼働　6月中旬から販売が本格化　【福井】　
+      <a href=https://news.yahoo.co.jp/articles/dd584039270888c000d5d57324d44c62e1056d4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36091307-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 元照ノ富士「言ってねーし」白鵬さんとの不仲報道否定「おもしろおかしく書かれることも多い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78005c52ed2185d5a62b4865537933556c62d9b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税巡り12日に党首会談　トップ交渉前、協力要請
+      <a href=https://news.yahoo.co.jp/articles/1a89ebcbc1cc66c5b01ac93f421e92c6644476b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050135-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 三奈さん「父はきっと天国でも日課の散歩している」「晴れた日には空見上げて思い出して」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 19:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 19:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
