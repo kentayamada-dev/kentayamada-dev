@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93c2651d997aa626a3cc80cdc4160d79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/004280fddaf2ab25aabd2a856fd60726.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4b86a8b0a743122cb5fb71fb95f3192623e4aa0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、ニューサム知事逮捕にも言及－ＬＡ抗議デモ巡る対立激化
+      <a href=https://news.yahoo.co.jp/articles/6bcdcc3abdd3193fb8c7375ccadb1285c6a52f86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米加州知事、州兵派遣差し止め求め提訴へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/329ea67c50b67817a54815f63e9f10911a6e7557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010004-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 『中谷潤人こそ、井上尚弥を倒せる男だ』――カネロ対クロフォード戦以上のビッグマッチが実現!?　超大物プロモーターも心待ち「日本ボクシング史上、最大の試合になる」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d892634625f207c696e259104e172cecc6be2a6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000000-ann-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナとロシアが捕虜の交換を開始　2日のトルコでの直接協議で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db9ad6fde7eaba94028dbb9a3994a7f09bd5fed2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241856-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 鹿児島・大隅地方で「線状降水帯」災害発生の危険度高まる　家の中が“1メートル以上浸水”も　すでに“がけ崩れ”も発生　10日も警報級大雨おそれ【news23】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 05:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 05:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
