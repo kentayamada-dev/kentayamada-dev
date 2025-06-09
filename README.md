@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a6eb17adb0a0faa7c181e376d6cad12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8f035382cd7c16bbac51d98de8b677a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a85bef196374de4f37651260a5b5d472dcfca2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182720-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=559&ch=559&exp=10800&fmt=webp> ロス抗議デモ トランプ政権とカリフォルニア州知事が対立
+      <a href=https://news.yahoo.co.jp/articles/5cc2c2e0bd6da3fda619bcaf65e394e5ed366713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1502&ch=1502&exp=10800&fmt=webp> ロサンゼルス抗議デモ、州知事が州兵派遣巡り提訴の意向　市中心部集会禁止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e05acf18daef6b5520d1a1a4f1087beba7f3677>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984567-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナが捕虜交換を実施　今月2日の直接交渉での合意で　人数は「同数」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ddbe0cbd0d9a21bf4663fd0cb984cdbf385089a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967545-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 全国のコメ5キロ平均価格は4,223円　鹿児島では3,758円と前週より108円安く
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e47a0f6d50f1b3d59a0c6351026ff0bd4666139>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「もっと速やかにやれた」レジオネラ属菌対応、万博事務総長が謝罪　水上ショー再開は未定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eed6a501009e98adfda3d9eb92b0a484124df2df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000087-ann-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> スーパーのコメ平均価格「4233円（5kg・前週比－37円）」　2週連続値下がりは26週ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5714d51ce8296030e8e167a4526e3721dcb0a58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000066-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=359&ch=359&exp=10800&fmt=webp> ロシアとウクライナが捕虜交換を開始　25歳以下や重傷の兵ら
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 00:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 01:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
