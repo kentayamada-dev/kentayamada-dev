@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dec05ec93081d72cff102172e810cd77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ccf21bd23e82e7c2d6fed42da6d8b7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e47a0f6d50f1b3d59a0c6351026ff0bd4666139>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「もっと速やかにやれた」レジオネラ属菌対応、万博事務総長が謝罪　水上ショー再開は未定
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eed6a501009e98adfda3d9eb92b0a484124df2df>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a0301e48e6137477e7f6cb8f21912857b1354b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050151-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博でレジオネラ菌、事務総長が謝罪…菌との因果関係あれば治療費負担
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/20eba6b94c787eaa710adf7c9e4de4b28e8ec8306305ffc66dac436d9dfe3837.jpg> 広範囲で大雨 各地の警戒期間は
+      <a href=https://news.yahoo.co.jp/pickup/6541691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/a4ada3c2473b721072871d3bd037d1a92823a6d3613b367f194ae88983c89e8d.jpg> 露とウクライナ 捕虜交換を実施
+      <a href=https://news.yahoo.co.jp/pickup/6541695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/20eba6b94c787eaa710adf7c9e4de4b28e8ec8306305ffc66dac436d9dfe3837.jpg> 広範囲で大雨 各地の警戒期間は
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541702>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> うつ病に認知症物質が関与か 研究
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541696>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/d1142e40d576f609c2afd6b0e1224f5171b1ca2a84a1694302b6bb82c406c0e8.jpg> 線路にゴミ 中の履歴書から男浮上
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ad47f2f3a1625b994e97d35edca711825a5566c0c99d6c9393208ff007f4025b.jpg> 映画コナンの特別給食 評判は上々
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e617f0a0f44dde13bb80da83c9b15b7f65aad9c662d6111a3d0f09e38602e918.jpg> FRUITS ZIPPER 迷惑行為に警告
+      <a href=https://news.yahoo.co.jp/pickup/6541703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8e27c8b356b28ac01aca0a407dfef4bc01acdcd66e7b0d34bee61a9b096befc3.jpg> 橋幸夫が退院 11日から公演復帰
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 23:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 23:51:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
