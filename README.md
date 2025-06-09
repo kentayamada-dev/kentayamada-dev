@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9863b9e71d579719d2695666399c4b61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75ef967c55e17283e17de6591d59907a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73582e954fdc162bc61eea38b7b948ed23b1a224>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090604-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 白鵬翔さん「相撲に愛され相撲を愛した25年」「最終的に自分自身で退職を決断」会見主なやりとり
+      <a href=https://news.yahoo.co.jp/articles/aaa40f47bd8612f92872df2a97561fb2fbb19713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-04616962-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊の不発弾保管庫付近で爆発　自衛官4人けが　沖縄・読谷村の米軍嘉手納弾薬庫地区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60bc59d22db8a101fd0d7e56bec4a0ea0abb83c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984195-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 環境活動家・グレタ・トゥンベリさんら乗せた船をイスラエル軍が拿捕、航行阻止　ガザに支援物資届ける途中で…イスラエル外務省「見世物は終わりだ」
+      <a href=https://news.yahoo.co.jp/articles/1d3b04f3ab5c52900e41f5aa7ed60cc92f24f0c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984204-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がグレタ・トゥンベリさんら乗せた船を拿捕　支援物資届けるためガザに向かう途中…「見世物は終わりだ」「乗組員全員が母国に戻ることになる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9299ddaafa59fc8c506693120163bceaa3a64ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00808568-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「昭和終わったなあ」　上沼恵美子が長嶋茂雄さんを追悼「栄光（の星）が1つポンと消えちゃってさ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a4fd8a0069bf8c96c872cd8c1b2d94b1bba8e45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-48550100-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 野田立民代表、ＴＰＰ拡充で自由貿易体制の優位性高めよ-日米関税協議
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2b4bde5a93d3dd913e65519e612754d9c1f3b1c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241717-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「随意契約」の影響で卸売業者間のコメ取引価格が下落　小泉農水大臣「今後の動向をしっかり見ていく」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a831b6c61a32263ad37df7ddadcf5012aad2e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984123-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 攻勢続けるロシア軍ウクライナ東部ドネツク州越えドニプロペトロウスク州入りか　2022年侵攻開始以来初と欧米メディア　ウクライナ側は否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33eac5ac9ae7a1e43bbf7223aeb5eb8b0a2347d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 嘉手納基地で爆発 自衛隊員がけが
+      <a href=https://news.yahoo.co.jp/pickup/6541653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 不発弾作業中爆発 自衛隊4人けが
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 15:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 16:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
