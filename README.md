@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db5d8528d6b7e37f0f921c68bacbbc41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b748f8c406e00b579d9e5fbfffbc0c73.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dd1ac4c86eac35372dc98590b593113535b605a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=900&ch=900&exp=10800&fmt=webp> コメ価格高騰は「スポット価格」上昇が影響?　小泉農相　実態把握へ
+      <a href=https://news.yahoo.co.jp/articles/448b803189610e02aaae5a003a8710c85e832cb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-21966702-rkkv-000-1-thumb.jpg?exp=10800&fmt=webp> “まるで株式市場” という声も　熊本でも備蓄米が『5キロ1944円』で販売　コメ価格は今後どうなる?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd584039270888c000d5d57324d44c62e1056d4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36091307-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 元照ノ富士「言ってねーし」白鵬さんとの不仲報道否定「おもしろおかしく書かれることも多い」
+      <a href=https://news.yahoo.co.jp/articles/f6d8da22aaeb8909f1424abfca8b858fe17228dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=606&ch=606&exp=10800&fmt=webp> 「2040年に平均所得を5割上昇」　石破首相が参院選公約へ指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a89ebcbc1cc66c5b01ac93f421e92c6644476b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050135-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 三奈さん「父はきっと天国でも日課の散歩している」「晴れた日には空見上げて思い出して」
+      <a href=https://news.yahoo.co.jp/articles/fdc456cd10351b0a6d27fcee523d68473a3f1ba0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00051664-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「もっと早く措置をとるべきだった」「お客様に多大な迷惑」万博・石毛事務総長が謝罪　会場内のレジオネラ属菌発生への対応受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6b975ae68d30a6c40707075e5525a9772f4ef37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00066325-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】「レジオネラ属菌」めぐり市議会で質疑　健康被害が出たら誰が責任を？博覧会協会は因果関係が認められれば治療費支払う方針
+      <a href=https://news.yahoo.co.jp/articles/c0351baeabe8d1cdfdbab4bf0e4f67921668919c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182681-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 鹿児島県に線状降水帯が発生
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/f8894d1054907c5f08baacb7e3edca2428e9acaf2d854d45966d6ee88e9481ac.jpg> 鹿児島県に線状降水帯が発生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541676>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民が「給付検討」参院選公約
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1aa3b982e6a182a32b7a9b472d388d9662cd0dac9dd6113410298911a65a3d6f.jpg> 赤沢氏が4週連続で訪米へ 調整
+      <a href=https://news.yahoo.co.jp/pickup/6541678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/53abdf6f0a06840022773768588f4a0646d070e31495d763b96f6020d7362c15.jpg> 備蓄米は家畜用 原口氏を立憲注意
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/6782b39079fdc02856a0842fd8dc56827f8dfc28efbebd5e16a81a82984f8126.jpg> エレベーターの支柱傾き停止 銀座
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/121f047ad30359eaa4062bea06b2bfaf89a4c6c2ef3223a59e5a228c5c7f5473.jpg> 鬼滅キャラ無断で広告利用か 物議
+      <a href=https://news.yahoo.co.jp/pickup/6541668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/a2b51b1b634d22792dcd8a232467e2c1b4580180ee20182df859ca3e5bec885d.jpg> 地面師と接触した人物語る違和感
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cd66ef1bd10daa97bb4a6bd3171eda98b3b897547108485760bdbb1f8459ba40.jpg> 白鵬氏 弟子9人の引退理由を告白
+      <a href=https://news.yahoo.co.jp/pickup/6541670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/121f047ad30359eaa4062bea06b2bfaf89a4c6c2ef3223a59e5a228c5c7f5473.jpg> 鬼滅キャラ無断で広告利用か 物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/47ee1a6072fd73e1c687c97c83f0b96563408ba33d7b7258795249b36786cfa3.jpg> FRUITS ZIPPER 紅白落選で挫折
+      <a href=https://news.yahoo.co.jp/pickup/6541677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cd66ef1bd10daa97bb4a6bd3171eda98b3b897547108485760bdbb1f8459ba40.jpg> 白鵬氏 弟子9人の引退理由を告白
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 19:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 20:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
