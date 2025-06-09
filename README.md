@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09f0e79f134b8bc63b6086a54315d942.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0302230af3534a41a2192b6184f7e16.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9718ac79a99757b7ac6b34fa64129698210cb909>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090221-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏「昭和はここで終わったのかな」長嶋茂雄さん告別式に思い
+      <a href=https://news.yahoo.co.jp/articles/19e7202647ec124de42a47146689653253c27ce0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090276-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=831&ch=831&exp=10800&fmt=webp> カズレーザー「発言は必要」　小泉進次郎農相の外国産米緊急輸入「検討」発言めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e0074c437fb1060c9376b052ea7faca62b51604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00808400-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 鈴木奈穂子アナ、「私の妻夫木くん」発言バラされる「喜びを押し殺して見てます」
+      <a href=https://news.yahoo.co.jp/articles/5188f17ade92aed4bc1d0cf46d042dace3bfa953>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090223-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1408&ch=1408&exp=10800&fmt=webp> 藤浪晋太郎　１回を無安打で７試合連続無失点、４ホールド目　防御率は一時13.50→6.11
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9718ac79a99757b7ac6b34fa64129698210cb909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090221-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏「昭和はここで終わったのかな」長嶋茂雄さん告別式に思い
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ac20826213e33daae7cb2d1489f4f9641dfcceb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル国防相、ガザ地区に支援物資乗せたグレタさんらの船の到着阻止を軍に指示　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab8bb59bc2bc8f6e38e4c4fbf75acca96932de76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00079612-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 小泉進次郎農水相が就任早々、JA全農トップに直談判した“異例の内容”は？〈独占告白〉
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル国防相、ガザ地区に支援物資載せたグレタさんらの船の到着阻止を軍に指示　
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/d03990f09db2f7b3b44bf27e4fafc38d41b67a83b0eeb9d76dd9c3a90697bf15.jpg> Xbox初の携帯型ゲーム機 発表
+      <a href=https://news.yahoo.co.jp/pickup/6541627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/646158b43d4a7d150635982f8af8c2fd34831f2618290e06748487752e64f622.jpg> 3A藤浪が4ホールド目 防御率6.11
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 10:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 10:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
