@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3dc23221ce7280676321ccd77a114ea1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36c873e163448a9be2753298c2192ef4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c337e943e8d818ebd0d3fa7c053c5084ca127adb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000226-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 白鵬氏　「弟子の指導に身が入っていない」との指摘に　退職に悩む中で…「気持ちの揺れがあった」
+      <a href=https://news.yahoo.co.jp/articles/7f9a8372d9e5cb8ab00aceb4d2ffa02e2248f8f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090554-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 白鵬翔さん「去年の話と今年の話でずれがある」相撲協会退職の経緯について詳細に語る
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aefa41c5a722d1ed0d3227f974c79d34dfc144ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090507-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 「君たち早く出してねというメッセージ」小泉進次郎農相のコメ緊急輸入検討発言を専門家が解説
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090507-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 「君たち早く出してねというメッセージ」小泉進次郎農相のコメ緊急輸入検討発言を専門家が解説
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/4099714509fda170860fa54f491ad00ed462d2a52c5a57b10e938cb915090278.jpg> 首相 韓国の李大統領と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541632>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1e748ca017517ca1138f326cec4e753b088d6c57316217b5d41fceefe9d14f54.jpg> 東海・近畿・中国地方が梅雨入り
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/05fa4a984418671928bae828c4ec1b123f126afa4fbaa344a099e7e8f49e32ce.jpg> 首相 韓国の李大統領と電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6541636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ad7436e9f9066ba49463ade9e031240f4973f19b6dbcb8b5e03e9199ac439a25.jpg> 米政権への怒り発信 米TikToker
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7c5234242c8e31da73d93444d6d345b7192ec6c10e5dc98e36b60c2c328cc9b5.jpg> グレタさんら乗るガザ支援船 拿捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 13:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 14:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
