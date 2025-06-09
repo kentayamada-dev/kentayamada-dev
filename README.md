@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f85b4ab33868d5cf0d9441bdc8efe92a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91a8c3a2fdee3800d47f9b82430275dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30216379bd49afa69e6f63581d30bf3734593f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984578-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 九州で“線状降水帯”の恐れ　土砂災害や河川氾濫など警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/007e86712f20d4dc3891b9a326e50984e51bfe2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2b25b3bc9a3f4a6a0914d99700ded2ab5233816e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06091270-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 中谷潤人　ＶＳ尚弥の前にＳバンタム級で「１～２戦はやりたい」…次戦にも転向　対戦相手候補の具体名も
       </a>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d12877f2493cf722de6d5253711ad92558b0425c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bcdcc3abdd3193fb8c7375ccadb1285c6a52f86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米加州知事、州兵派遣差し止め求め提訴へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
+      <a href=https://news.yahoo.co.jp/pickup/6541704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6e5967b32115b7865a909f139f2a11a39bb2b42111e0da1a4e8154a7bf03c787.jpg> 九州北部 線状降水帯発生の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/20eba6b94c787eaa710adf7c9e4de4b28e8ec8306305ffc66dac436d9dfe3837.jpg> 広範囲で大雨 各地の警戒期間は
+      <a href=https://news.yahoo.co.jp/pickup/6541691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/07ce566afffd375337b8f76b82d1024ee0fc0cec62465b9022ab69484ac1ef6a.jpg> 与党 所得制限なしの現金給付検討
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
+      <a href=https://news.yahoo.co.jp/pickup/6541705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/184821e79849b175f96f3ddb9fc8dc87ddbfaf85c0d1836cc1e693d6df2619a9.jpg> 国道に逆走車 衝突された27歳死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541702>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> うつ病に認知症物質が関与か 研究
+      <a href=https://news.yahoo.co.jp/pickup/6541686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/252e0e7407df1b97ee05e582be8e8c9187d5367e63cbf86f378d215362c9d3c5.jpg> 右腕切断 佐野慈紀さん語る糖尿病
+      <a href=https://news.yahoo.co.jp/pickup/6541702>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> うつ病に認知症物質が関与か 研究
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8e27c8b356b28ac01aca0a407dfef4bc01acdcd66e7b0d34bee61a9b096befc3.jpg> 橋幸夫が退院 11日から公演復帰
+      <a href=https://news.yahoo.co.jp/pickup/6541687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/252e0e7407df1b97ee05e582be8e8c9187d5367e63cbf86f378d215362c9d3c5.jpg> 右腕切断 佐野慈紀さん語る糖尿病
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 06:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 06:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
