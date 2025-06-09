@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf9f91fd6fa71c9a4ef8f695cb6fa41c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/155d918d917b94cb02a5cca531b99c0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cc2c2e0bd6da3fda619bcaf65e394e5ed366713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000005-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1502&ch=1502&exp=10800&fmt=webp> ロサンゼルス抗議デモ、州知事が州兵派遣巡り提訴の意向　市中心部集会禁止
+      <a href=https://news.yahoo.co.jp/articles/c2e6a374c682b579ac8dc4e7a1f5abe01dc84ee8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000009-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1344&ch=1344&exp=10800&fmt=webp> トランプ氏、州兵派遣なければ「ロサンゼルス壊滅」　自らの決断を擁護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e05acf18daef6b5520d1a1a4f1087beba7f3677>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984567-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアとウクライナが捕虜交換を実施　今月2日の直接交渉での合意で　人数は「同数」
+      <a href=https://news.yahoo.co.jp/articles/1d892634625f207c696e259104e172cecc6be2a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000000-ann-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナとロシアが捕虜の交換を開始　2日のトルコでの直接協議で合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db9ad6fde7eaba94028dbb9a3994a7f09bd5fed2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241856-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 鹿児島・大隅地方で「線状降水帯」災害発生の危険度高まる　家の中が“1メートル以上浸水”も　すでに“がけ崩れ”も発生　10日も警報級大雨おそれ【news23】
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ddbe0cbd0d9a21bf4663fd0cb984cdbf385089a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967545-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 全国のコメ5キロ平均価格は4,223円　鹿児島では3,758円と前週より108円安く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e47a0f6d50f1b3d59a0c6351026ff0bd4666139>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「もっと速やかにやれた」レジオネラ属菌対応、万博事務総長が謝罪　水上ショー再開は未定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faa640d3bba7e7dda14e50703cf08079ef0a2efd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000138-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 2040年に平均所得5割増　自民が参院選の最重点公約に明記へ　石破首相が指示
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 01:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 02:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
