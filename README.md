@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7152d6d667a179dab81d0b2b220aba12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cdb485b9b9dac04050a521cc657774e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3e7f611c183c37015104690b852a691fea26678>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241672-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「仮装身分捜査」で全国初の摘発 「闇バイト」の特殊詐欺事件　警視庁
+      <a href=https://news.yahoo.co.jp/articles/8888a70c00d2fcfe5484328eab99a0540fb5ee63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000171-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 渡辺正行　備蓄米の放出に「備蓄米って大体、税金で買ってるんだからね、買ったカネで出せばいい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dca56bc731ff930e5d69464127627cc4dd2c3b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984021-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> グレタ・トゥンベリさんのガザ行きの船「あらゆる措置を講じて」イスラエル国防相が到着阻止するよう指示
+      <a href=https://news.yahoo.co.jp/articles/741bb91ef66440edd699724cea322bf58d4124de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00030133-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東海地方が梅雨入り　平年より3日遅く　11日にかけて梅雨入り早々の大雨に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31c9fbc42159ddeb972c1cf4cd8de99833330d6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=214&ch=214&exp=10800&fmt=webp> カズレーザー、米の価格について私見「僕は普通に上がるべきだと思うんです」とした真意は…サン！シャイン
+      <a href=https://news.yahoo.co.jp/articles/b1e958f0f0b62be1ccbc80bbebce646bbfa86b33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 玉川徹氏、長嶋茂雄さんの告別式の映像にポツリ「昭和っていうものが終わっていくなあっていう…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab53528077074ef48883e4dd067e864b17821d86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000062-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1560&ch=1560&exp=10800&fmt=webp> 「泣ける…」長嶋茂雄さん葬儀参列者の顔ぶれ話題に　監督時代に支えたメンバー、松井氏と落合氏が並び清原氏も　「懐かしい名前ばかり」
+      <a href=https://news.yahoo.co.jp/articles/46233cf7f3122d0d77b8d4c34db2cf59e2af042a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010005-annd-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1013&ch=1013&exp=10800&fmt=webp> グレタさんが乗った船をイスラエル軍が拿捕し活動家らを拘束　現地メディア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b489a77eeb8f98284d95c6b3c98907932e3ab141>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050021-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア地上部隊が新たな州に進軍、占領拡大の動き…「併合４州」隣接のドニプロペトロウシク州
+      <a href=https://news.yahoo.co.jp/articles/f06bae45aacdc620a95b70a2d0cefe41cab1be03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-35234002-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア軍、ウクライナ中部に進軍と発表　ウクライナは否定
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
+      <a href=https://news.yahoo.co.jp/pickup/6541632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1e748ca017517ca1138f326cec4e753b088d6c57316217b5d41fceefe9d14f54.jpg> 東海・近畿・中国地方が梅雨入り
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
+      <a href=https://news.yahoo.co.jp/pickup/6541625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e8aef2e3a35ec60d11492947318f1d56cdeb067a95fd0fa9864fa28b8655bb9a.jpg> さくら水産 160→11店に縮小の訳
+      <a href=https://news.yahoo.co.jp/pickup/6541630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 11:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 11:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
