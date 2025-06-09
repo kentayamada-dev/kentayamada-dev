@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ccf21bd23e82e7c2d6fed42da6d8b7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a6eb17adb0a0faa7c181e376d6cad12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a85bef196374de4f37651260a5b5d472dcfca2ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182720-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=559&ch=559&exp=10800&fmt=webp> ロス抗議デモ トランプ政権とカリフォルニア州知事が対立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e47a0f6d50f1b3d59a0c6351026ff0bd4666139>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000146-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「もっと速やかにやれた」レジオネラ属菌対応、万博事務総長が謝罪　水上ショー再開は未定
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eed6a501009e98adfda3d9eb92b0a484124df2df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> スーパーのコメ平均価格「4233円（5kg・前週比－37円）」　2週連続値下がりは26週ぶり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000087-ann-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> スーパーのコメ平均価格「4233円（5kg・前週比－37円）」　2週連続値下がりは26週ぶり
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5714d51ce8296030e8e167a4526e3721dcb0a58>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000066-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=359&ch=359&exp=10800&fmt=webp> ロシアとウクライナが捕虜交換を開始　25歳以下や重傷の兵ら
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f09ba8a3051f77ec4b7a5fabb8504fbec7332348>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182714-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=669&ch=669&exp=10800&fmt=webp> 「試合が中止になっていたかもしれない」米ロス“過激デモ”がドジャース戦に影響も？“州兵”って何？ 移民の心中は？ 元ANNロサンゼルス支局長が解説
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
+      <a href=https://news.yahoo.co.jp/pickup/6541699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/75603d11a6e41d48c9bdc0f8519e54dbc2be3e34dbce5f68eb1f27bc3cfbb731.jpg> LA衝突 非殺傷弾で記者撃たれる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5260950b9d86fd72db660c51ec2c31e28fb155983a121605b0546f7337bed0d8.jpg> JOC 竹田氏を名誉会長に推薦へ
+      <a href=https://news.yahoo.co.jp/pickup/6541686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 23:51:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 00:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
