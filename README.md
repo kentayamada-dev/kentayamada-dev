@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/048668fb27b56992672545b86e58a686.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/407c53a56df3602191cd54e751ab9e1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faa640d3bba7e7dda14e50703cf08079ef0a2efd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000138-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 2040年に平均所得5割増　自民が参院選の最重点公約に明記へ　石破首相が指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5063ea3074beec1cf426c62f2985aaa5ed705b68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-04934972-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「スピード感緩めずに」スーパーのコメ平均価格、2週連続値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbdf289f85f2832b0e286b6959eb8994fb832ed8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241841-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 鹿児島ですでに“がけ崩れ”も　大隅地方に線状降水帯発生情報　土砂災害に厳重警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a9a0301e48e6137477e7f6cb8f21912857b1354b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050151-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博でレジオネラ菌、事務総長が謝罪…菌との因果関係あれば治療費負担
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/330743ba059c3701a441e3caa1e303606b630e5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000058-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相が参院公約の柱を指示「2040年に平均所得1.5倍に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/220b7ff7daca867e44dc8b095a212e3183d7ec8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000055-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> コメ価格、約半年ぶりに2週連続で値下がり　5キロ4223円に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050151-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博でレジオネラ菌、事務総長が謝罪…菌との因果関係あれば治療費負担
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a89ebcbc1cc66c5b01ac93f421e92c6644476b4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050135-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 三奈さん「父はきっと天国でも日課の散歩している」「晴れた日には空見上げて思い出して」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d4f58b2f4a709f5f25fbadda7ecd4a5435d5565>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00051663-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 本物そっくり“大阪府警の偽サイト”に注意！　個人情報抜き取り目的か　特殊詐欺に使われる恐れ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/a73238ea3b1720add9358635d086da74994cf95c4f3a2b283f9331d7b4b1ae01.jpg> コメ5キロ4223円 2週連続値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541686>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/121f047ad30359eaa4062bea06b2bfaf89a4c6c2ef3223a59e5a228c5c7f5473.jpg> 鬼滅キャラ無断で広告利用か 物議
+      <a href=https://news.yahoo.co.jp/pickup/6541685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/42c9baacc76d062caf35eac1e414eea6c7edc53168f0d7ec9a08208afc39f82e.jpg> 大阪府警の偽サイト発見 注意喚起
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/89b14054998cf5219d7002a52719ef89714f03d4725965ee2925b2304f0e8ae4.jpg> 営業益500%と小泉氏 コメ卸反論
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/13a91cc862ced2e231471a55ec5fbb7d1753a243155dfec8817f53946f4e0186.jpg> 代表MF熊坂 右膝じん帯を断裂
+      <a href=https://news.yahoo.co.jp/pickup/6541692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8b2cb8464be4cfed05cbd0836fc7dc8184620a5b6bd595b183652290c1568a1b.jpg> 異例 MLBで選手&監督ダブル退場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 22:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 22:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
