@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27ae0ffbf5172d7791eba0459f60f8f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78c9cc6885c26e8b10c0881e727f10a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c25c7e336c96ad0490cb07e880e3398e591fe30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090923-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1243&ch=1243&exp=10800&fmt=webp> 行司の木村銀治郎が懲戒解雇「横領や搾取したお金をギャンブルなどの遊興費に費消」処分内容全文
+      <a href=https://news.yahoo.co.jp/articles/b2934c3139f21edc248a7d517dcbf98fe227c4e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984210-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホテルに会社員男性（32）遺体　20歳男を強盗殺人の疑いで緊急逮捕　名古屋市
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/217f0215ba81905a5b4f0587fc981692c3880c6e38a1909fea50789a5795896f.jpg> 副市長逮捕から4年 傷痕残るまち
+      <a href=https://news.yahoo.co.jp/pickup/6541656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9a23ad0601f1f679d99e042ea932c4b211359ba255cc01f211b7e891b798ef28.jpg> 原付と乗用車が衝突 高校生死亡
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541631>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02240166/title-1749299965830.jpeg?exp=10800> 水泳授業 中止や委託が進む背景
+      <a href=https://news.yahoo.co.jp/pickup/6541661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/44a691e5982df7bd6b2c3452acd192562899539fe466d4f442513017db532a7a.jpg> 西武池袋線と武蔵野線 直通検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/753d0a6717a297fa7ea29d8a9d98057e69f0657139afb009073a1396e8827159.jpg> 白鵬氏 指導に身入らなかったかも
+      <a href=https://news.yahoo.co.jp/pickup/6541657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/66ef6b1254c81c49e66d2f0f1bb8a0e8a8769e943c2f1907db3be51f72afd307.jpg> 2000万円超着服 行司を懲戒解雇
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 16:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 17:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
