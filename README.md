@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/407c53a56df3602191cd54e751ab9e1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28c81e112bbabc4aadc74d713819dddc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f09ba8a3051f77ec4b7a5fabb8504fbec7332348>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182714-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=669&ch=669&exp=10800&fmt=webp> 「試合が中止になっていたかもしれない」米ロス“過激デモ”がドジャース戦に影響も？“州兵”って何？ 移民の心中は？ 元ANNロサンゼルス支局長が解説
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/faa640d3bba7e7dda14e50703cf08079ef0a2efd>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbdf289f85f2832b0e286b6959eb8994fb832ed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241841-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 鹿児島ですでに“がけ崩れ”も　大隅地方に線状降水帯発生情報　土砂災害に厳重警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a9a0301e48e6137477e7f6cb8f21912857b1354b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050151-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 万博でレジオネラ菌、事務総長が謝罪…菌との因果関係あれば治療費負担
       </a>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a89ebcbc1cc66c5b01ac93f421e92c6644476b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050135-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 三奈さん「父はきっと天国でも日課の散歩している」「晴れた日には空見上げて思い出して」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050135-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 三奈さん「父はきっと天国でも日課の散歩している」「晴れた日には空見上げて思い出して」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/20eba6b94c787eaa710adf7c9e4de4b28e8ec8306305ffc66dac436d9dfe3837.jpg> 広範囲で大雨 各地の警戒期間は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541682>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/780fe4b5eec08f02b9e8f8b7107ebc0f49f5176faa393a63693f57317277f81e.jpg> 2040年に「所得5割増」公約 首相
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541666>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sugieyuji/02241606/title-1749432418988.jpeg?exp=10800> 「線状降水帯予測情報」留意点は
+      <a href=https://news.yahoo.co.jp/pickup/6541697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7fc3fece9b941402ea15d62d9d30ac8d98483a4fa8aece12d1baf96e93ee8ec2.jpg> 不発弾爆発 隊発足51年で初の事故
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/42c9baacc76d062caf35eac1e414eea6c7edc53168f0d7ec9a08208afc39f82e.jpg> 大阪府警の偽サイト発見 注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6541696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/d1142e40d576f609c2afd6b0e1224f5171b1ca2a84a1694302b6bb82c406c0e8.jpg> 線路にゴミ 中の履歴書から男浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/89b14054998cf5219d7002a52719ef89714f03d4725965ee2925b2304f0e8ae4.jpg> 営業益500%と小泉氏 コメ卸反論
+      <a href=https://news.yahoo.co.jp/pickup/6541687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/252e0e7407df1b97ee05e582be8e8c9187d5367e63cbf86f378d215362c9d3c5.jpg> 右腕切断 佐野慈紀さん語る糖尿病
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8b2cb8464be4cfed05cbd0836fc7dc8184620a5b6bd595b183652290c1568a1b.jpg> 異例 MLBで選手&監督ダブル退場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/f5eb17c000f938b44398999761f4e363d59bf1d3cbd33b936b357c52ad145114.jpg> 中條かな子 緒方氏と結婚決めた日
+      <a href=https://news.yahoo.co.jp/pickup/6541698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e617f0a0f44dde13bb80da83c9b15b7f65aad9c662d6111a3d0f09e38602e918.jpg> FRUITS ZIPPER 迷惑行為に警告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 22:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 23:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
