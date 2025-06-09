@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/253dbda4354dea893457f523ea4f16b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/638b72fc5534d411143a30ea92a4f99f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0395a231cb61210856207cb4103dd624460c2844>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90032580-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 随意契約の備蓄米　静岡県内の販売はいつから？　「早くスーパーに」「安い方が」　消費者もやきもき
+      <a href=https://news.yahoo.co.jp/articles/2039a0c17bb44ff2a885bfea8579948e4d94ec63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091195-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1033&ch=1033&exp=10800&fmt=webp> 白鵬さんの指導に身が入っていなかった？　元横綱・旭富士の宮城野親方「辞める意思を持った中では自然なこと。変な誤解」と指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc067553f2a040df5adcdfa36aab93351e848908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米中、英ロンドンで貿易協議へ　レアアース規制を巡る進展が焦点
+      <a href=https://news.yahoo.co.jp/articles/bb54a9bfb1c5d1f953e8df50f22a621a3660ef2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90013057-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米「とにかく安く、早く」店の思い　精米会社は“土日返上”で稼働　6月中旬から販売が本格化　【福井】　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebd647e9d589e407596e9dbdade4641949e3797e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00491523-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国　きょうのニュース（6月9日）
+      <a href=https://news.yahoo.co.jp/articles/78005c52ed2185d5a62b4865537933556c62d9b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税巡り12日に党首会談　トップ交渉前、協力要請
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民が「給付検討」参院選公約
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1aa3b982e6a182a32b7a9b472d388d9662cd0dac9dd6113410298911a65a3d6f.jpg> 赤沢氏が4週連続で訪米へ 調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cf00871cde5879dbcb2a603d45f051ab85f3427bbb4c24bfaeeeb850677c3033.jpg> 外国人増巡る問題 首相が対策強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9a23ad0601f1f679d99e042ea932c4b211359ba255cc01f211b7e891b798ef28.jpg> 原付と乗用車が衝突 高校生死亡
       </a>
     </td>
   </tr>
@@ -434,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/170dcc5193a5d33d8caff547ce35e05e513d952face59c57417b87990a09469d.jpg> 大阪府 19～22歳に食費支援実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541669>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/6782b39079fdc02856a0842fd8dc56827f8dfc28efbebd5e16a81a82984f8126.jpg> エレベーターの支柱傾き停止 銀座
       </a>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/121f047ad30359eaa4062bea06b2bfaf89a4c6c2ef3223a59e5a228c5c7f5473.jpg> 鬼滅キャラ無断で広告利用か 物議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541657>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/66ef6b1254c81c49e66d2f0f1bb8a0e8a8769e943c2f1907db3be51f72afd307.jpg> 2000万円超着服 行司を懲戒解雇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/cd66ef1bd10daa97bb4a6bd3171eda98b3b897547108485760bdbb1f8459ba40.jpg> 白鵬氏 弟子9人の引退理由を告白
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 18:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 19:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
