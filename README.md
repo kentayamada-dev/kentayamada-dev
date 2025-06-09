@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6a8d74b04a6be35189b26a48e839584.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31d9a5b2fa45dc28aa8b84811684d53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1070c91395b133b4446e984ab933b0475f1353d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロス抗議デモ、海兵隊派遣へ　米政権、10日にも700人
+      <a href=https://news.yahoo.co.jp/articles/b6d16917e6bb50721d85ebf35b569500361f99ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、LAデモ取り締まりへ海兵隊700人派遣
       </a>
     </td>
   </tr>
@@ -373,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0545b003e53476d7ef0f395791a80ac013811f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000187-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1038&ch=1038&exp=10800&fmt=webp> 巨人・坂本勇人が1軍合流　長嶋魂を胸に…恩返し日本一へ「チームの勝ちに貢献できるように」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53ddf42f4ae14f3fabe98ec90532d29d1336a301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 衝撃の“新怪物”！“神の拳”を継承する増田陸は87秒“ワンパンKO”で那須川天心よりもインパクトを残した…狙うは「WBA堤聖也へのリベンジと中谷潤人が持つWBCのベルト」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d12877f2493cf722de6d5253711ad92558b0425c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36091325-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1377&ch=1377&exp=10800&fmt=webp> 【潜入】柴田勲氏が３日連続で弔問した理由「１番親しくさせてもらった」長嶋茂雄さんへの思い
+      <a href=https://news.yahoo.co.jp/articles/329b0cdeef5ebd165938a09c3e3260ea6a202dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000008-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏、地元の反対無視し強権発動　デモ鎮圧で州兵派遣　米軍「私物化」に懸念
       </a>
     </td>
   </tr>
@@ -434,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c107cf456ff3a1123b7246dda031836cec4844402be92a9f486a4959c0a140e0.jpg> 21歳女性プロ囲碁棋士 事故で急死
+      <a href=https://news.yahoo.co.jp/pickup/6541715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/8af3265e2875323a487d358045fad9bc5b7ea79de1d3802eb94b87a923d82a1c.jpg> 町施設で入浴停止 菌検出公表せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/d1142e40d576f609c2afd6b0e1224f5171b1ca2a84a1694302b6bb82c406c0e8.jpg> 線路にゴミ 中の履歴書から男浮上
+      <a href=https://news.yahoo.co.jp/pickup/6541713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ebd5512e72e23f3cefb5cc25cf1ad0563a1371b4997d5e0ef53faa04db7a3070.jpg> 家賃100万円も 福岡で高級賃貸増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c7d636e1b37e144ec41ef938691c98e9855d7f639fad0fa017a028a0c89e1af5.jpg> G坂本1軍復帰へ 存在必要と監督
       </a>
     </td>
   </tr>
@@ -456,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/64f0cef2775071eb5836ec8d846c3739934dab3029e7dd180f1f510204d71ee4.jpg> 井ノ原 特捜9シリーズ撮了に涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 08:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 08:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
