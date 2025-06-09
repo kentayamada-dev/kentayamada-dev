@@ -1,7 +1,7 @@
 'use client';
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
-import { useActionState, useMemo, useRef } from 'react';
+import { useActionState, useMemo, useRef, useState } from 'react';
 // @ts-expect-error type not found
 // eslint-disable-next-line import/no-named-as-default
 import ReCAPTCHA from 'react-google-recaptcha';
@@ -20,16 +20,17 @@ import type { ContactFormSchemaType, ContactFormStateType, ContactFormType } fro
 const ContactForm: ContactFormType = (props) => {
   const { form } = dictionaries[props.locale];
   const recaptchaRef = useRef(null);
+  const recaptchaToken = useRef('');
+  const [isRcError, setIsRcError] = useState(false);
 
   const { control, register, watch } = useForm<ContactFormSchemaType>({
     defaultValues: {
-      'countryCode': defaultIntlTelCode,
-      'email': '',
-      'firstName': '',
-      'g-recaptcha-response': '',
-      'lastName': '',
-      'message': '',
-      'phoneNumber': ''
+      countryCode: defaultIntlTelCode,
+      email: '',
+      firstName: '',
+      lastName: '',
+      message: '',
+      phoneNumber: ''
     }
   });
 
@@ -42,18 +43,14 @@ const ContactForm: ContactFormType = (props) => {
       return { data: rawData as ContactFormSchemaType, errors: parsed.error.formErrors };
     }
 
-    const isHuman = await verifyRecaptcha(parsed.data['g-recaptcha-response']);
+    const isHuman = await verifyRecaptcha(recaptchaToken.current);
 
     if (!isHuman) {
+      setIsRcError(true);
+
       return {
         // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-        data: Object.fromEntries(formData) as ContactFormSchemaType,
-        errors: {
-          fieldErrors: {
-            'g-recaptcha-response': ['Failed reCAPTCHA verification.']
-          },
-          formErrors: []
-        }
+        data: Object.fromEntries(formData) as ContactFormSchemaType
       };
     }
 
@@ -62,6 +59,8 @@ const ContactForm: ContactFormType = (props) => {
     // @ts-expect-error type missing
     // eslint-disable-next-line @typescript-eslint/no-unsafe-call
     recaptchaRef.current.reset();
+
+    setIsRcError(false);
 
     return result;
   };
@@ -91,6 +90,10 @@ const ContactForm: ContactFormType = (props) => {
         {} as Record<IntlTelKeyType, IntlTelEntryType>
       );
   }, [props.locale]);
+
+  const handleRc = (value: string): void => {
+    recaptchaToken.current = value;
+  };
 
   return (
     <form action={action} className='flex flex-col space-y-6'>
@@ -195,13 +198,13 @@ const ContactForm: ContactFormType = (props) => {
         rows={4}
         {...register('message')}
       />
-      <ReCAPTCHA hl={props.locale} ref={recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
+      <ReCAPTCHA hl={props.locale} onChange={handleRc} ref={recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
       <input
         className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
         disabled={isPending}
         type='submit'
       />
-      {state.errors?.fieldErrors['g-recaptcha-response'] ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
+      {isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </form>
   );
 };
