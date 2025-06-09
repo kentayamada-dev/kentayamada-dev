@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36c873e163448a9be2753298c2192ef4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4abad9a9e8d583be093d690b2e9c0986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f9a8372d9e5cb8ab00aceb4d2ffa02e2248f8f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090554-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 白鵬翔さん「去年の話と今年の話でずれがある」相撲協会退職の経緯について詳細に語る
+      <a href=https://news.yahoo.co.jp/articles/442209a560c2e86c53b6fdad0fbf0d13b2fee11d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000242-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「伊勢ケ浜」襲名の照ノ富士親方　白鵬翔氏との“確執”完全否定「一切そういう悪い関係はありません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aefa41c5a722d1ed0d3227f974c79d34dfc144ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090507-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 「君たち早く出してねというメッセージ」小泉進次郎農相のコメ緊急輸入検討発言を専門家が解説
+      <a href=https://news.yahoo.co.jp/articles/b591aaca22fae8e36afd67d4c8af42f54304f1e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010008-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【コメ流通のブラックボックス】『5次問屋』出現？ブローカーの転売で価格高騰？　需給把握のため「1回全力で作ってみて、どれくらい余るか見た方がいい」と専門家【解説】
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33eac5ac9ae7a1e43bbf7223aeb5eb8b0a2347d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1e748ca017517ca1138f326cec4e753b088d6c57316217b5d41fceefe9d14f54.jpg> 東海・近畿・中国地方が梅雨入り
+      <a href=https://news.yahoo.co.jp/pickup/6541646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/40195b38da785bb986f61fba3494fd0be56a2f39e2580293e5c267a6475f2484.jpg> 嘉手納基地で爆発 自衛隊員がけが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/217f0215ba81905a5b4f0587fc981692c3880c6e38a1909fea50789a5795896f.jpg> 副市長逮捕から4年 傷痕残るまち
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541636>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ad7436e9f9066ba49463ade9e031240f4973f19b6dbcb8b5e03e9199ac439a25.jpg> 米政権への怒り発信 米TikToker
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/c08ef7643122a7f981c4ff30b3c83f198d4b37194ef5282781bd69d850344971.jpg> 嘉手納基地で爆発 自衛隊員がけが
       </a>
     </td>
   </tr>
@@ -451,15 +451,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/390cd6c89ff667bf2126c0796df1abac5d841f16815438bb06e119256485dc60.jpg> 白鵬氏 元照ノ富士との確執を否定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/24a4e4a5b9b0a38af74e7522b364e0ab31d9dc79c41abd0430a14572bc222c76.jpg> 白鵬氏 元照ノ富士との確執を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b017c0cafa278d73dd68a860b3bb9121cafe4bfa520073500a58c4c29585a3e6.jpg> ジャッジ22&23号もヤンキース敗戦
+      <a href=https://news.yahoo.co.jp/pickup/6541648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/65afe91877ec0166c983da47d7b6389eb93888d36cbe91e7395c9bf0dce79b3f.jpg> 元ミセスのドラマー 今は社労士
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 14:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 14:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
