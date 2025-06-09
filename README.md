@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c8ca46b239ad10933acbed71fca3ed5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09f0e79f134b8bc63b6086a54315d942.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddd71663989f23d41c71a0d3d917265cbd1e1c30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=468&ch=468&exp=10800&fmt=webp> 安住紳一郎アナ、長嶋茂雄さんの告別式報じ「常に丁寧に対応している娘・三奈さんの姿も大変に印象的でした」…ＴＨＥ　ＴＩＭＥ，
+      <a href=https://news.yahoo.co.jp/articles/9718ac79a99757b7ac6b34fa64129698210cb909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090221-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏「昭和はここで終わったのかな」長嶋茂雄さん告別式に思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8255a35e8a6c0c765e8ecf625e0f8a3a94171896>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000051-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=618&cy=0&cw=1448&ch=1448&exp=10800&fmt=webp> プロ初黒星の西田凌佑「結果出せずに申し訳ありません」中谷潤人の猛攻に右目ボコボコ、右肩脱臼で試合続行不可能に
+      <a href=https://news.yahoo.co.jp/articles/1e0074c437fb1060c9376b052ea7faca62b51604>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00808400-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 鈴木奈穂子アナ、「私の妻夫木くん」発言バラされる「喜びを押し殺して見てます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ac20826213e33daae7cb2d1489f4f9641dfcceb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル国防相、ガザ地区に支援物資乗せたグレタさんらの船の到着阻止を軍に指示　
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab8bb59bc2bc8f6e38e4c4fbf75acca96932de76>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00079612-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 小泉進次郎農水相が就任早々、JA全農トップに直談判した“異例の内容”は？〈独占告白〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d45a5714c182858af7380e415fc6c3749d431f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』第52話、嵩（北村匠海）が健太郎（高橋文哉）との再会で心が救われる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 09:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 10:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
