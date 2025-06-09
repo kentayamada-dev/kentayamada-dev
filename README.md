@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75ef967c55e17283e17de6591d59907a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27ae0ffbf5172d7791eba0459f60f8f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaa40f47bd8612f92872df2a97561fb2fbb19713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-04616962-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自衛隊の不発弾保管庫付近で爆発　自衛官4人けが　沖縄・読谷村の米軍嘉手納弾薬庫地区
+      <a href=https://news.yahoo.co.jp/articles/dd410e18ab480829b177db2ab119bc56b042b93f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00160664-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 小泉農水相 外国産米「緊急輸入」発言の狙いとは　業者に在庫をはかせるハッタリ?カズレーザー氏「ずっと安いままは農家としても無理」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c25c7e336c96ad0490cb07e880e3398e591fe30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090923-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1243&ch=1243&exp=10800&fmt=webp> 行司の木村銀治郎が懲戒解雇「横領や搾取したお金をギャンブルなどの遊興費に費消」処分内容全文
       </a>
     </td>
   </tr>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9299ddaafa59fc8c506693120163bceaa3a64ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00808568-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「昭和終わったなあ」　上沼恵美子が長嶋茂雄さんを追悼「栄光（の星）が1つポンと消えちゃってさ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a4fd8a0069bf8c96c872cd8c1b2d94b1bba8e45>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-48550100-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 野田立民代表、ＴＰＰ拡充で自由貿易体制の優位性高めよ-日米関税協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b4bde5a93d3dd913e65519e612754d9c1f3b1c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241717-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「随意契約」の影響で卸売業者間のコメ取引価格が下落　小泉農水大臣「今後の動向をしっかり見ていく」
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/4099714509fda170860fa54f491ad00ed462d2a52c5a57b10e938cb915090278.jpg> 首相 韓国の李大統領と電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6541658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/bb694b446aeeaba4231559d4d5cc51c1220a9fa3555c90d169c58a2a5e60ba29.jpg> 関東10日にも梅雨入りか 本降り雨
       </a>
     </td>
   </tr>
@@ -420,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/217f0215ba81905a5b4f0587fc981692c3880c6e38a1909fea50789a5795896f.jpg> 副市長逮捕から4年 傷痕残るまち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7c5234242c8e31da73d93444d6d345b7192ec6c10e5dc98e36b60c2c328cc9b5.jpg> グレタさんら乗るガザ支援船 拿捕
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8f524011118aa2231ebaba1cede8ea12de691f32d5f2e941e0b8e56defe0ca78.jpg> 宮野真守「研音」所属を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541648>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/65afe91877ec0166c983da47d7b6389eb93888d36cbe91e7395c9bf0dce79b3f.jpg> 元ミセスのドラマー 今は社労士
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 16:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 16:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
