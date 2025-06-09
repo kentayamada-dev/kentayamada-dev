@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/KdkpSIRaanw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0302230af3534a41a2192b6184f7e16.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7152d6d667a179dab81d0b2b220aba12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19e7202647ec124de42a47146689653253c27ce0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090276-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=831&ch=831&exp=10800&fmt=webp> カズレーザー「発言は必要」　小泉進次郎農相の外国産米緊急輸入「検討」発言めぐり
+      <a href=https://news.yahoo.co.jp/articles/f3e7f611c183c37015104690b852a691fea26678>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241672-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「仮装身分捜査」で全国初の摘発 「闇バイト」の特殊詐欺事件　警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5188f17ade92aed4bc1d0cf46d042dace3bfa953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090223-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1408&ch=1408&exp=10800&fmt=webp> 藤浪晋太郎　１回を無安打で７試合連続無失点、４ホールド目　防御率は一時13.50→6.11
+      <a href=https://news.yahoo.co.jp/articles/4dca56bc731ff930e5d69464127627cc4dd2c3b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984021-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> グレタ・トゥンベリさんのガザ行きの船「あらゆる措置を講じて」イスラエル国防相が到着阻止するよう指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9718ac79a99757b7ac6b34fa64129698210cb909>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090221-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏「昭和はここで終わったのかな」長嶋茂雄さん告別式に思い
+      <a href=https://news.yahoo.co.jp/articles/31c9fbc42159ddeb972c1cf4cd8de99833330d6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=214&ch=214&exp=10800&fmt=webp> カズレーザー、米の価格について私見「僕は普通に上がるべきだと思うんです」とした真意は…サン！シャイン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ac20826213e33daae7cb2d1489f4f9641dfcceb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル国防相、ガザ地区に支援物資載せたグレタさんらの船の到着阻止を軍に指示　
+      <a href=https://news.yahoo.co.jp/articles/ab53528077074ef48883e4dd067e864b17821d86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000062-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1560&ch=1560&exp=10800&fmt=webp> 「泣ける…」長嶋茂雄さん葬儀参列者の顔ぶれ話題に　監督時代に支えたメンバー、松井氏と落合氏が並び清原氏も　「懐かしい名前ばかり」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b489a77eeb8f98284d95c6b3c98907932e3ab141>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050021-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア地上部隊が新たな州に進軍、占領拡大の動き…「併合４州」隣接のドニプロペトロウシク州
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
       </a>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7cc9fa8d3d5231b5e4c01ac0055e81c487db9dae23c27af9ffcc1e91df1c5b56.jpg> 米LAで抗議デモ激化 州兵が到着
+      <a href=https://news.yahoo.co.jp/pickup/6541628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e9755afa97de946a7a09357b8b03236586ae116beb949fdec167816a03150719.jpg> ウでのドローン製造を検討 ルノー
       </a>
     </td>
   </tr>
@@ -442,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/646158b43d4a7d150635982f8af8c2fd34831f2618290e06748487752e64f622.jpg> 3A藤浪が4ホールド目 防御率6.11
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 10:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 11:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
