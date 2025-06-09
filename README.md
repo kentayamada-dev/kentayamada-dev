@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/155d918d917b94cb02a5cca531b99c0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/002fc8852d4a36011bfe06b1c7cdf7f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2e6a374c682b579ac8dc4e7a1f5abe01dc84ee8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000009-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=1344&ch=1344&exp=10800&fmt=webp> トランプ氏、州兵派遣なければ「ロサンゼルス壊滅」　自らの決断を擁護
+      <a href=https://news.yahoo.co.jp/articles/daa6d518abb5aed3aef445dc3b8141e0545d20ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000001-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理　2040年「平均所得5割以上上昇」公約に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14cfe97ba36c2ca4e33df6db57a3ae6b3dffc400>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90026935-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領が“移民摘発”抗議デモに…60年ぶり“要請なき州兵派遣”　狙いは？
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 02:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 02:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
