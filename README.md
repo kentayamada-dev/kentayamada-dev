@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b748f8c406e00b579d9e5fbfffbc0c73.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a403f02a06a1712b8d97b1ba32a5e600.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/448b803189610e02aaae5a003a8710c85e832cb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-21966702-rkkv-000-1-thumb.jpg?exp=10800&fmt=webp> “まるで株式市場” という声も　熊本でも備蓄米が『5キロ1944円』で販売　コメ価格は今後どうなる?
+      <a href=https://news.yahoo.co.jp/articles/133510bd3034ce4a5da4de34188ca2b185aa12eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182693-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=980&ch=980&exp=10800&fmt=webp> スーパーのコメ平均価格 5kg4223円 2週連続値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/696680e004c9fe58bf5c6198a92c120b15b00671>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000126-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 那須川天心「僕は他のボクサーに比べてもパンチ力はない」「全知全能のゼウスを目指したい」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0351baeabe8d1cdfdbab4bf0e4f67921668919c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182681-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 鹿児島県に線状降水帯が発生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d3b04f3ab5c52900e41f5aa7ed60cc92f24f0c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984204-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がグレタ・トゥンベリさんら乗せた船を拿捕　支援物資届けるためガザに向かう途中…「見世物は終わりだ」「乗組員全員が母国に戻ることになる」
+      <a href=https://news.yahoo.co.jp/articles/2c25b26b325c4ed4976e1a21f9c991be637d1e7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-03496311-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 宮野真守、7歳から約35年所属した『劇団ひまわり』を退所　『研音』への所属が決定
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5a402ca18751d8d60ff74a9c5600e9a14d6e2a860753b5980fda1f8ae6ba16c5.jpg> ホテルに男性遺体 女性と入室か
+      <a href=https://news.yahoo.co.jp/pickup/6541671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/fc953237e9cc0df8d358d4c937bb95a4d48e1d7e0d4a79f7d07dca7781738c33.jpg> 万博海水で菌検出 事務総長が謝罪
       </a>
     </td>
   </tr>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541668>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/a2b51b1b634d22792dcd8a232467e2c1b4580180ee20182df859ca3e5bec885d.jpg> 地面師と接触した人物語る違和感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/66ef6b1254c81c49e66d2f0f1bb8a0e8a8769e943c2f1907db3be51f72afd307.jpg> 2000万円超着服 行司を懲戒解雇
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b219ed786b091b7f4112314c3c3a5e4219ff8be32beab17645441db0c47076a0.jpg> 那須川天心が本音 神童じゃない
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 20:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 20:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
