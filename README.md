@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0abf82ece8d174e69ac7f8e063d7fc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32934d98eebf5f810d9cc41886bb81b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33eac5ac9ae7a1e43bbf7223aeb5eb8b0a2347d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3630b5ddda2812fa9ccdd4421e1bc4bb4124fbeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-16492862-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ガザへ向かう支援船にイスラエル軍乗り込むと活動団体、トゥーンベリ氏ら乗船
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26034fb42b97b5891efb54307f4574d2ad7002bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000030-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】名古屋 ホテルで男性殺害　20歳無職の男を強盗殺人容疑で緊急逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5d51ca703221e91fb3c8ccadeed26fcb2fc4f37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 谷本有香氏　小泉農相“コメ緊急輸入も選択肢”発言に見解　「パニック買いが起こり得る状況において…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22ac44932905c7f4d21692dc9ab76072192615fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-90019935-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 近畿・東海・中国地方『梅雨入り』気象庁が発表　3カ月予報で6・7月降水量は平年並み見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa9192fee37c9de6719d90560d24826a4006713f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182587-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 「茶番は終わりだ」イスラエル軍 グレタさん乗せたガザ支援船を拿捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1e958f0f0b62be1ccbc80bbebce646bbfa86b33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 玉川徹氏、長嶋茂雄さんの告別式の映像にポツリ「昭和っていうものが終わっていくなあっていう…」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e9755afa97de946a7a09357b8b03236586ae116beb949fdec167816a03150719.jpg> ウでのドローン製造を検討 ルノー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541637>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ffb97254bec0fc32be6b7e66f3e929a1243f662ae11f1db2added707c4f866c2.jpg> 備蓄米売り渡しを評価72%ANN調査
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/5c753167b5c928084588b65a84229593c73f0d9442e6f46cffe7806573b2f672.jpg> 1121人散った戦艦 元乗員の102歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7c5234242c8e31da73d93444d6d345b7192ec6c10e5dc98e36b60c2c328cc9b5.jpg> グレタさんら乗るガザ支援船 拿捕
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/293d28ed4c2bf236f531cbb3b27c9f3acbe4c4d2def949776ac3cc56f803d7df.jpg> 末續慎吾45歳 世界陸上を目指す訳
+      <a href=https://news.yahoo.co.jp/pickup/6541639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 元白鵬が協会退職巡り会見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 12:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 12:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
