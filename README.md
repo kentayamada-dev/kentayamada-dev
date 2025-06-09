@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/513235a171da5b8e308eaefcba6a5617.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c8ca46b239ad10933acbed71fca3ed5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69cf871d8f14d60658fa6866da76dae1d9c90b8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00545727-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> TKO負け西田凌佑「結果出せずに申し訳ありません」　試合後にSNS更新　病院直行で会見できず、中谷潤人に感謝も
+      <a href=https://news.yahoo.co.jp/articles/ddd71663989f23d41c71a0d3d917265cbd1e1c30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=468&ch=468&exp=10800&fmt=webp> 安住紳一郎アナ、長嶋茂雄さんの告別式報じ「常に丁寧に対応している娘・三奈さんの姿も大変に印象的でした」…ＴＨＥ　ＴＩＭＥ，
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8255a35e8a6c0c765e8ecf625e0f8a3a94171896>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000051-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=618&cy=0&cw=1448&ch=1448&exp=10800&fmt=webp> プロ初黒星の西田凌佑「結果出せずに申し訳ありません」中谷潤人の猛攻に右目ボコボコ、右肩脱臼で試合続行不可能に
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c8d45a5714c182858af7380e415fc6c3749d431f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』第52話、嵩（北村匠海）が健太郎（高橋文哉）との再会で心が救われる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f26cf34b6a15883784804a219e244d10b8cd3b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090088-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=994&ch=994&exp=10800&fmt=webp> 長嶋茂雄さん、選手・監督時代の各シーズン全成績　「記憶」だけでない数々のタイトル
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3cef4be74047718cd56663399c6caa2e846d389634a33f2c42107d7640bf9a0f.jpg> 中国海軍の空母 南鳥島沖に初進出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541619>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ff0a4bf7e68b1d61e8d27fba988b673c164e4af4ccf49b74d1565621cebc9e7b.jpg> 唐揚げ1個の給食が話題 市の事情
       </a>
     </td>
   </tr>
@@ -442,16 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
+      <a href=https://news.yahoo.co.jp/pickup/6541623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/0f3f36e7455be4117ae56fd19e007d1ba711ba55a9dfbce0cd1077b84e6910aa.jpg> 家賃2.5倍 オーナーが撤回を明言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3b3a11ceff417bd20400a10ddb1c591f8cdcb9559fdada3a0b7a2bc77ffea63e.jpg> 妻夫木聡「夢だった」朝ドラ出演
+      <a href=https://news.yahoo.co.jp/pickup/6541620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ff0a4bf7e68b1d61e8d27fba988b673c164e4af4ccf49b74d1565621cebc9e7b.jpg> 唐揚げ1個の給食が話題 市の事情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/d03990f09db2f7b3b44bf27e4fafc38d41b67a83b0eeb9d76dd9c3a90697bf15.jpg> Xbox初の携帯型ゲーム機 発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 09:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 09:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
