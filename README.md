@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4abad9a9e8d583be093d690b2e9c0986.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f59b781b4ce219fabb66e1c6396afb78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/442209a560c2e86c53b6fdad0fbf0d13b2fee11d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000242-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「伊勢ケ浜」襲名の照ノ富士親方　白鵬翔氏との“確執”完全否定「一切そういう悪い関係はありません」
+      <a href=https://news.yahoo.co.jp/articles/ea563579149613480a8ecd7fe204531d06751663>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000062-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 白鵬翔さん、退職会見「照ノ富士の下が嫌だ、そういうのは全くありません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b591aaca22fae8e36afd67d4c8af42f54304f1e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010008-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【コメ流通のブラックボックス】『5次問屋』出現？ブローカーの転売で価格高騰？　需給把握のため「1回全力で作ってみて、どれくらい余るか見た方がいい」と専門家【解説】
+      <a href=https://news.yahoo.co.jp/articles/e5aa358e7d6c1f8f27590d09dc7dadfe011fcc85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-05784528-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「今後の動向しっかり見ていく」卸売業者間のコメ取引価格下落傾向に
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ad7436e9f9066ba49463ade9e031240f4973f19b6dbcb8b5e03e9199ac439a25.jpg> 米政権への怒り発信 米TikToker
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7c5234242c8e31da73d93444d6d345b7192ec6c10e5dc98e36b60c2c328cc9b5.jpg> グレタさんら乗るガザ支援船 拿捕
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/86e94e744b4f33356fb8bf6d257051b759ff55f976ec9d419777bd3dc4e6722c.jpg> ホテルに遺体 強盗殺人疑いで逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541651>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanagiharamika/02241480/title-1749428907534.jpeg?exp=10800> 「自己満足」不正改造車の危険性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541631>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02240166/title-1749299965830.jpeg?exp=10800> 水泳授業 中止や委託が進む背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 14:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 15:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
