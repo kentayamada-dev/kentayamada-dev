@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7152d6d667a179dab81d0b2b220aba12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32934d98eebf5f810d9cc41886bb81b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3e7f611c183c37015104690b852a691fea26678>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-07241672-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「仮装身分捜査」で全国初の摘発 「闇バイト」の特殊詐欺事件　警視庁
+      <a href=https://news.yahoo.co.jp/articles/33eac5ac9ae7a1e43bbf7223aeb5eb8b0a2347d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050031-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 裸のバットを抱え、ＮＹの高級ホテルに現れた松井秀喜さん…長嶋茂雄さん通夜で喪主・三奈さん明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dca56bc731ff930e5d69464127627cc4dd2c3b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00984021-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=499&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> グレタ・トゥンベリさんのガザ行きの船「あらゆる措置を講じて」イスラエル国防相が到着阻止するよう指示
+      <a href=https://news.yahoo.co.jp/articles/3630b5ddda2812fa9ccdd4421e1bc4bb4124fbeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-16492862-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ガザへ向かう支援船にイスラエル軍乗り込むと活動団体、トゥーンベリ氏ら乗船
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31c9fbc42159ddeb972c1cf4cd8de99833330d6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-06091056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=214&ch=214&exp=10800&fmt=webp> カズレーザー、米の価格について私見「僕は普通に上がるべきだと思うんです」とした真意は…サン！シャイン
+      <a href=https://news.yahoo.co.jp/articles/26034fb42b97b5891efb54307f4574d2ad7002bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000030-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】名古屋 ホテルで男性殺害　20歳無職の男を強盗殺人容疑で緊急逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab53528077074ef48883e4dd067e864b17821d86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000062-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1560&ch=1560&exp=10800&fmt=webp> 「泣ける…」長嶋茂雄さん葬儀参列者の顔ぶれ話題に　監督時代に支えたメンバー、松井氏と落合氏が並び清原氏も　「懐かしい名前ばかり」
+      <a href=https://news.yahoo.co.jp/articles/a5d51ca703221e91fb3c8ccadeed26fcb2fc4f37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00000185-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 谷本有香氏　小泉農相“コメ緊急輸入も選択肢”発言に見解　「パニック買いが起こり得る状況において…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b489a77eeb8f98284d95c6b3c98907932e3ab141>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00050021-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア地上部隊が新たな州に進軍、占領拡大の動き…「併合４州」隣接のドニプロペトロウシク州
+      <a href=https://news.yahoo.co.jp/articles/f06bae45aacdc620a95b70a2d0cefe41cab1be03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-35234002-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア軍、ウクライナ中部に進軍と発表　ウクライナは否定
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
+      <a href=https://news.yahoo.co.jp/pickup/6541632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1e748ca017517ca1138f326cec4e753b088d6c57316217b5d41fceefe9d14f54.jpg> 東海・近畿・中国地方が梅雨入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ffb97254bec0fc32be6b7e66f3e929a1243f662ae11f1db2added707c4f866c2.jpg> 備蓄米売り渡しを評価72%ANN調査
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e9755afa97de946a7a09357b8b03236586ae116beb949fdec167816a03150719.jpg> ウでのドローン製造を検討 ルノー
+      <a href=https://news.yahoo.co.jp/pickup/6541638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/7c5234242c8e31da73d93444d6d345b7192ec6c10e5dc98e36b60c2c328cc9b5.jpg> グレタさんら乗るガザ支援船 拿捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
+      <a href=https://news.yahoo.co.jp/pickup/6541630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8dd198d27a968c1d9938ffed650a1cd939d8fb91e3c086e7219049c8b4e68d99.jpg> 「仮装身分捜査」で初摘発 警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/e8aef2e3a35ec60d11492947318f1d56cdeb067a95fd0fa9864fa28b8655bb9a.jpg> さくら水産 160→11店に縮小の訳
+      <a href=https://news.yahoo.co.jp/pickup/6541635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/86e94e744b4f33356fb8bf6d257051b759ff55f976ec9d419777bd3dc4e6722c.jpg> ホテルに遺体 強盗殺人疑いで逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ff0a4bf7e68b1d61e8d27fba988b673c164e4af4ccf49b74d1565621cebc9e7b.jpg> 唐揚げ1個の給食が話題 市の事情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/8efc26f6c898ceac5e4a3c5d8775660d44f1167a6b46bdef386b4ce446c1a3fc.jpg> 天心 カエルパンチを使った意図
+      <a href=https://news.yahoo.co.jp/pickup/6541639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 元白鵬が協会退職巡り会見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 11:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 12:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
