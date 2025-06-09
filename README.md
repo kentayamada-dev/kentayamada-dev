@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b1964c5fdf835b6d7c093116613bd43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/513235a171da5b8e308eaefcba6a5617.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1f60d235835d268ffc64c36013faf4b69cee541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010000-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自転車の男性をひき逃げか　29歳の男を逮捕　千葉市
+      <a href=https://news.yahoo.co.jp/articles/69cf871d8f14d60658fa6866da76dae1d9c90b8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00545727-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> TKO負け西田凌佑「結果出せずに申し訳ありません」　試合後にSNS更新　病院直行で会見できず、中谷潤人に感謝も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0af8640cc018a298ba1841259a1a2559fd77014>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 「那須川天心はプロの壁にぶつかっている」世界前哨戦でWBA世界6位を3－0シャットアウトもKO決着できずに猛反省…早ければ11月にも世界挑戦へ
+      <a href=https://news.yahoo.co.jp/articles/ab8bb59bc2bc8f6e38e4c4fbf75acca96932de76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00079612-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 小泉進次郎農水相が就任早々、JA全農トップに直談判した“異例の内容”は？〈独占告白〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8d45a5714c182858af7380e415fc6c3749d431f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』第52話、嵩（北村匠海）が健太郎（高橋文哉）との再会で心が救われる
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f26cf34b6a15883784804a219e244d10b8cd3b9b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-36090088-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=994&ch=994&exp=10800&fmt=webp> 長嶋茂雄さん、選手・監督時代の各シーズン全成績　「記憶」だけでない数々のタイトル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54d8a8acd1dda158a189cbdf016fefedfb9307e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250609-10182525-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=996&ch=996&exp=10800&fmt=webp> “小泉コメ劇場”にムネオ氏の娘・貴子氏が物申す「政治が価格に介入をすることは慎重であるべき」「小泉大臣と対立軸を作るのは不毛」
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541611>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/9848d274094ab275c26357753862bceaa974f21f85e7c497b33781c7afc2e0f2.jpg> 続々と梅雨入りか 大雨災害に警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/1ed8e5893f76b166a2d3cbd0e40523f8bd2a16b5379f6d86d3efc59402988e6d.jpg> 鹿児島県 線状降水帯が発生の恐れ
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541612>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 財務省と文科省 私学助成巡り対立
+      <a href=https://news.yahoo.co.jp/pickup/6541619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/b1e81682ab0fbed313b7caa72c9cf65c615d46793bf16c799f284b8520cce862.jpg> ひき逃げ疑いで男逮捕 男性が重体
+      <a href=https://news.yahoo.co.jp/pickup/6541620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/ff0a4bf7e68b1d61e8d27fba988b673c164e4af4ccf49b74d1565621cebc9e7b.jpg> 唐揚げ1個の給食が話題 市の事情
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/9/3b3a11ceff417bd20400a10ddb1c591f8cdcb9559fdada3a0b7a2bc77ffea63e.jpg> 妻夫木聡「夢だった」朝ドラ出演
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/09 08:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/09 09:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
