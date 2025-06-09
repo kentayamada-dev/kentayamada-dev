@@ -1,4 +1,4 @@
-import { JapanFlagIcon, UsFlagIcon } from '@/components/icons';
+import { GbFlagIcon, JpFlagIcon } from '@/components/icons';
 import { envClient } from '@/constants/env';
 import { getKeysFromObject } from '@/utils';
 import en from './dictionaries/en.json';
@@ -6,8 +6,8 @@ import ja from './dictionaries/ja.json';
 import type { DictionariesType, LocaleKeyType, LocaleType } from './types';
 
 const locales = {
-  en: { icon: UsFlagIcon, name: 'English' },
-  ja: { icon: JapanFlagIcon, name: '日本語' }
+  en: { icon: GbFlagIcon, name: 'English' },
+  ja: { icon: JpFlagIcon, name: '日本語' }
 } as const satisfies LocaleType;
 
 const dictionaries = {

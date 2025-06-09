@@ -22,7 +22,7 @@ const SidePanel: SidePanelType = (props) => {
 
   return (
     <>
-      <button aria-label={openSidePanelLabel} className='btn-icon mr-4 w-6 md:hidden' onClick={props.handleToggle} type='button'>
+      <button aria-label={openSidePanelLabel} className='btn-icon mr-4 size-8 md:hidden' onClick={props.handleToggle} type='button'>
         <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.isOpened}>
@@ -34,7 +34,7 @@ const SidePanel: SidePanelType = (props) => {
           className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 text-sm shadow-xl duration-500 data-[closed]:-translate-x-full sm:text-base dark:bg-slate-800'
           transition
         >
-          <button aria-label={closeSidePanelLabel} className='btn-icon ml-auto w-6' data-autofocus onClick={props.handleToggle} type='button'>
+          <button aria-label={closeSidePanelLabel} className='btn-icon ml-auto size-8' data-autofocus onClick={props.handleToggle} type='button'>
             <CrossIcon />
           </button>
           <nav className='mt-3'>
@@ -42,7 +42,7 @@ const SidePanel: SidePanelType = (props) => {
               {Object.entries(props.items).map(([key, { href, icon, title }]) => {
                 return (
                   <li
-                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} rounded-lg p-2 font-medium hover:cursor-pointer hover:bg-slate-100 hover:dark:bg-slate-600/30`}
+                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} hover-secondary rounded-lg p-2 font-medium hover:cursor-pointer`}
                     key={key}
                   >
                     <Link href={href} legacyBehavior passHref>

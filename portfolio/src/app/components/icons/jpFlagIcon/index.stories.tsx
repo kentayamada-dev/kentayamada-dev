@@ -1,9 +1,9 @@
-import { JapanFlagIcon } from '.';
+import { JpFlagIcon } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  component: JapanFlagIcon,
+  component: JpFlagIcon,
   decorators: [
     (Story): JSXElementType => {
       return (
@@ -13,7 +13,7 @@ const meta = {
       );
     }
   ]
-} satisfies Meta<typeof JapanFlagIcon>;
+} satisfies Meta<typeof JpFlagIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

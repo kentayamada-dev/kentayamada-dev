@@ -1,9 +1,9 @@
-import { UsFlagIcon } from '.';
+import { GbFlagIcon } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  component: UsFlagIcon,
+  component: GbFlagIcon,
   decorators: [
     (Story): JSXElementType => {
       return (
@@ -13,7 +13,7 @@ const meta = {
       );
     }
   ]
-} satisfies Meta<typeof UsFlagIcon>;
+} satisfies Meta<typeof GbFlagIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

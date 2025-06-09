@@ -11,26 +11,31 @@ const Header: HeaderType = (props) => {
   const { githubLinkLabel, homeLinkLabel, storybookLinkLabel } = dictionaries[props.locale].labels;
 
   return (
-    <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-4 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
+    <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-2 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
       <span className='flex items-center'>
         <SidePanelWrapper author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} locale={props.locale} />
         <Link aria-label={homeLinkLabel} className='w-10 text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
           <KyIcon />
         </Link>
       </span>
-      <span className='gap-x-reverse flex gap-x-4'>
+      <span className='gap-x-reverse flex items-center gap-x-2'>
         <span className='hidden md:block'>
           <NavItemsWrapper locale={props.locale} />
         </span>
-        <span className='border-primary hidden border-l md:block' />
+        <span className='border-primary hidden h-10 border-l md:block' />
         <LocaleSwitcherWrapper locale={props.locale} />
         <ThemeSwitcherWrapper locale={props.locale} />
-        <Link aria-label={storybookLinkLabel} className='hidden w-6 md:block' href='/storybook' target='_blank'>
+        <Link
+          aria-label={storybookLinkLabel}
+          className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 md:flex'
+          href='/storybook'
+          target='_blank'
+        >
           <StorybookIcon />
         </Link>
         <Link
           aria-label={githubLinkLabel}
-          className='hidden w-6 text-black md:block dark:text-white'
+          className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 text-black md:flex dark:text-white'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           target='_blank'
         >

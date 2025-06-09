@@ -7,14 +7,17 @@ const Switcher: SwitcherType = (props) => {
   return (
     <Listbox onChange={props.onChange} value={props.value}>
       <div className='relative'>
-        <div className='size-6'>
+        <div className='size-10'>
           {props.isMounted ? (
-            <ListboxButton aria-label={props.buttonLabel} className='btn-list'>
+            <ListboxButton
+              aria-label={props.buttonLabel}
+              className='hover-secondary flex size-full items-center justify-center overflow-hidden rounded-lg p-2 text-blue-500 hover:cursor-pointer'
+            >
               <props.buttonIcon />
             </ListboxButton>
           ) : (
             <div className='size-full animate-pulse'>
-              <div className='size-full rounded-full bg-slate-200 dark:bg-slate-700' />
+              <div className='size-full rounded-lg bg-slate-200 dark:bg-slate-700' />
             </div>
           )}
         </div>

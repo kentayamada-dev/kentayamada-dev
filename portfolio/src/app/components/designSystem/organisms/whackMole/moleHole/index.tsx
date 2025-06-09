@@ -17,7 +17,7 @@ const MoleHole = memo<Parameters<MoleHoleType>[0]>((props) => {
           props.onMoleClick(props.index);
         }}
         role='button'
-        tabIndex={0}
+        tabIndex={-1}
         transition={{
           duration: props.isHit ? HIT_ANIMATION_DURATION : ANIMATION_DURATION,
           ease: 'easeInOut'

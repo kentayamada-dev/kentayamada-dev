@@ -164,6 +164,7 @@ const WhackMole: WhackMoleType = () => {
             <button
               className='button cursor-pointer rounded-lg border-b-[1px] border-amber-700 bg-amber-600 px-5 py-3 [box-shadow:0_10px_0_0_#92400e,0_15px_0_0_#92400e41] transition-all duration-150 select-none active:translate-y-2 active:border-b-[0px] active:[box-shadow:0_0px_0_0_#92400e,0_0px_0_0_#92400e41]'
               onClick={handleStartGame}
+              tabIndex={-1}
               type='button'
             >
               <span className='font-pixel text-sm font-semibold text-white'>START</span>
@@ -183,6 +184,7 @@ const WhackMole: WhackMoleType = () => {
                 visible: new Set()
               });
             }}
+            tabIndex={-1}
             type='button'
           >
             END

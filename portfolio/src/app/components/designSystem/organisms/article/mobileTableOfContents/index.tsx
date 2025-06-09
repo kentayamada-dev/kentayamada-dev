@@ -45,7 +45,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
             <div className='w-72 rounded-t-lg bg-white p-5 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:ring-slate-300/10'>
               <div className='flex items-center justify-between px-1 pb-3'>
                 <div className='text-primary text-lg font-semibold'>{props.title}</div>
-                <button className='btn-icon ml-auto w-6' onClick={closeDrawer} type='button'>
+                <button className='btn-icon ml-auto size-8' onClick={closeDrawer} type='button'>
                   <CrossIcon />
                 </button>
               </div>

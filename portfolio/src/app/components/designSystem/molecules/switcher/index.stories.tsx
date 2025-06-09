@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { JapanFlagIcon } from '@/components/icons';
+import { JpFlagIcon } from '@/components/icons';
 import { arrayOfLocales, locales } from '@/constants/i18n';
 import { Switcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -8,7 +8,7 @@ import type { JSXElementType } from '@/types/components';
 const meta = {
   argTypes: { value: { control: 'select', options: arrayOfLocales } },
   args: {
-    buttonIcon: JapanFlagIcon,
+    buttonIcon: JpFlagIcon,
     buttonLabel: 'Button Label',
     isMounted: true,
     onChange: fn(),
