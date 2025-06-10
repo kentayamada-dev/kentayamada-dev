@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b6a1bceda88274149711ef8447c0cc0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5ba5eea00d774ef3c793b3cfa84d89c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fc7b6d9bc3dffd1d06ecee7a445724d89862867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101066-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菊池雄星、今季初の７回１／３を投げ１安打無失点で２勝目　防御率はリーグ１１位の２・９２で２点台突入
+      <a href=https://news.yahoo.co.jp/articles/48d9c7409f4a82cff066402802405c05c292d8d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00079761-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプへの怒りを「沈静化」するマスク、和解を探る可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/779aa773cbec5d8f14928f056de618e9b9634ef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 加州知事逮捕されれば「素晴らしい」 LAデモめぐりトランプ氏
+      <a href=https://news.yahoo.co.jp/articles/58b9a291f7d1ef5bb41e85523f5505fe94ae1d61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984764-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「余ったお金は減税で返すべき」自公の現金など給付案
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de690616d22f133a17230c8a310ae8c29fa4671d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00051673-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一般来場者数６００万人を突破　一方でレジオネラ菌問題続く　水上ショー再開のメドは立たず・・・
+      <a href=https://news.yahoo.co.jp/articles/46faa906eb6e4b99f523784442cbfc2c5d690b78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 南海トラフ、死者数8割減　対策計画に目標設定へ　政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c52920298c1b5a7a1773f39e429d3f500b25a473>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 自民党が1人当たり数万円の給付を検討：3万円でGDP0.16％押し上げ：消費税減税よりは良いが低所得者を対象にすべき
+      <a href=https://news.yahoo.co.jp/articles/de690616d22f133a17230c8a310ae8c29fa4671d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00051673-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一般来場者数６００万人を突破　一方でレジオネラ菌問題続く　水上ショー再開のメドは立たず・・・
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b16c88fd4cfc29664b2fc0f59e59e2c9c3801b6c305c31c54305cb30db058820.jpg> 自民・公明 現金など給付方針一致
+      <a href=https://news.yahoo.co.jp/pickup/6541722>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネットカジノ相談急増 若年層多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c1a412b25e7161b9888b8dbbf3689332bb50791430aa6bd6c3e7aa55d47b9240.jpg> トランプ氏 グレタさんを再びやゆ
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/acbd87a250a06d099719c4ab2c65444f782e6b56ed4a10f5981026c3b9013fe8.jpg> iPhoneフィルム自動貼り機 話題
+      <a href=https://news.yahoo.co.jp/pickup/6541752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d21f4768e5f4770d57c612c293cb35816d95753fa8c38681e459c9092c3bfcdf.jpg> 来来亭・浜松幸店 異物混入で休業
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3ff650cc675f6fe12196915ee1623e56a8e81ce21fcb2ac1227d6bacbd5f2080.jpg> 「安くない」コメダ 愛される理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/769ba30e604943970805d53c590dc653aea7969113a25bf219287e010d2fedbe.jpg> チョコプラ松尾に第2子 長田報告
+      <a href=https://news.yahoo.co.jp/pickup/6541748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/86ba8ebdf84f03557f12d4bbf9bab5e80c664a0f054f831aa87254e73de41f6b.jpg> 伊沢拓司 小学生の頃は勉強苦手
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 13:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 14:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
