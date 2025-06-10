@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ef010cfd4af8c297637afdc69b0868f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/756205aa82eede6b68467c6384d8cd8c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8967180eff2bc6f248d2142fdd4b7e52422571ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00030167-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 発達した雨雲が近畿を通過中　大雨警報も　土砂災害や低い土地の浸水に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/525b6ca4e8122be87af2699094b4ab78901107e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 大谷翔平、３度目ライブBPは44球　打者11人に無安打６三振と上々の内容
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff09b8d53aa83ec3dac0ab2f414d887af69ddb53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985227-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=509&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領がロサンゼルス抗議デモで反乱法の発動示唆「ひどい状態…彼らは報酬もらい問題を起こす扇動者だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/644266a0fd67a67fd2485e165e4c8edab1351dff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 夏の選挙の争点は「コメ政策」になる？政治ジャーナリストが各党の立ち位置を分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e55cc112b00fd75b89d5e947dd440e248de8e22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000113-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平が術後3度目のライブBP登板　ダルビッシュが見守る中、術後最多44球で圧巻6奪三振
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20c1cb1ab189336ae3101590409810153370daee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234084-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏「危険なくなるまで州兵駐留」　米ロス移民摘発抗議デモ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cf4175375e86c2bcbf63c0a56b41b18ebf4961c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000004-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 九州 大雨災害に厳重警戒 異例の遅さ 台風1号発生へ
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e7672fe9a76094cffe558057050988a8b4c9a9421b1196d2654671fbfa802bb4.jpg> 混乱続くLAデモ 深まる米の分断
+      <a href=https://news.yahoo.co.jp/pickup/6541825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/22ab69781854eea557e0b52017ce86f2b7dbe25ce771da13889c558db7257df0.jpg> 柏崎原発に燃料装てん 異例の手順
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2f75f6c01df933fda1118e6135b6bb1cd8c2181b48321a0a254d1a8be88f4a48.jpg> ホテル強殺 19歳少女の身柄確保
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f7981992d6dbef61655cb3f8669bc2b05335a7cb3a41b714ec949f2187202b17.jpg> 大谷 ダルの前で奪三振ショー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/0319346808bcb5840b54721fb1f564397a3860928a0f9fc5430167128facf839.jpg> 生放送中に骨折 岩崎大昇コメント
+      <a href=https://news.yahoo.co.jp/pickup/6541827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f7981992d6dbef61655cb3f8669bc2b05335a7cb3a41b714ec949f2187202b17.jpg> 大谷が奪三振ショー ライブBP
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 07:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 07:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
