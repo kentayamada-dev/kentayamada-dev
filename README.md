@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c715a122c1099c79e2ccd5c37e77325b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfc3d1cd4860713acee3350dc8e4cc67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ad7b280e893aacd3e29492b8b8fa4251dc3dcd4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174657-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「クボがクライファートを沈める」スペイン大手紙も久保建英の活躍を称賛！ 圧勝した日本の戦いぶりには驚き「かつてないほど興奮させた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dde10d27f7ed41eae123ce09080e067fd3a02368>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000002-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=460&cw=1110&ch=1110&exp=10800&fmt=webp> 自民・公明、2万～4万円給付案　物価高対策、野党は減税
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 03:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 03:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
