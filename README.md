@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e692f130834b79498174f682e6a98d6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45b50295ba530fa88cb989d255c92330.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cea5417398942648da36ab8d2bd059322903a002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969767-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『備蓄米』20万トンを追加放出でも…「手を出さない」コメ小売店も　備蓄米の放出以上に店が望むのはコメの”安定供給”「何でこうなったのか…」本音ポロリ
+      <a href=https://news.yahoo.co.jp/articles/e07ebbf475a46cd9e868e2517b768c03c1d236c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000106-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 現金給付は「1人3～4万円」　低所得者に増額も　政府検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f4795be147ce9ae10d9760e6bfa1af09169392a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民、物価対策の給付「参院選公約の柱」に掲げる　「無策」批判を恐れ「見送り」から一転
+      <a href=https://news.yahoo.co.jp/articles/9bf539cf4033dc59cd8451b6bd744cce78852d2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90040783-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “古古古古米”の売り渡しも決定…備蓄米放出で今後コメの価格の見通しは？専門店「相場に動きが出ている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/665b2726ce1c5f671075222d37d4667a2f385297>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00546196-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ソフトバンク周東、頭部死球に対する振る舞いに「紳士」「優しい」の声　終始落ち着き出場継続
+      <a href=https://news.yahoo.co.jp/articles/64ab90f96d84750ea3c14c989f82e19f64cddb3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-08625254-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 混乱続くLA暴動…海兵隊も派遣へ　NYでも警察とデモ隊が衝突　不法移民取り締まりへの抗議デモ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5a14ceb4582933183acb9a39b795d2df6ac9740>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000197-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=667&ch=667&exp=10800&fmt=webp> G7首脳宣言、見送り公算大　トランプ氏と集約困難
+      <a href=https://news.yahoo.co.jp/articles/41f43a13d880372afc92b85f0623026e1ffe5b2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000082-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 備蓄米などの転売を禁止する措置検討　小泉農水大臣
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/4534bea1d6c7ca523a008b664a06b9055143860bbdb49a2813d2efb657f1334a.jpg> 自民幹部 現金給付非常に望ましい
+      <a href=https://news.yahoo.co.jp/pickup/6541808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ad94a888f7ce4f29793e34448e9b22a1bd2957b2587843909e2ce445a57b2d26.jpg> 食品消費税0%や給付金も 立憲公約
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/670234443ef8647b460bf84ba094d25aee54a5e7803dafa7b4e799d932e6836a.jpg> ホテル強殺事件 2人は面識なしか
+      <a href=https://news.yahoo.co.jp/pickup/6541805>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02243769/title-1749554043226.jpeg?exp=10800> 元監督が学費詐取疑い カラクリは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f862790cf93a48e3b09969911df7f659cc5b0a7cf39c806c382ac1252512e178.jpg> 豊田織株主 TOB価格に不満相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6541792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/aee73932b9ffbd420597d9e80d934c6aba1e9d7395e3a0c1ff8b4af4ff651307.jpg> 高級車を転売 5億円申告漏れ指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/518acbcca3d25ab54de5846e4d35417caaf96efb3e365ac28bd3b9f1825bf5ba.jpg> 速報・森保J インドネシア戦
+      <a href=https://news.yahoo.co.jp/pickup/6541809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b9c46648728301a69e79802761921eef7aa790b802fe7ca09b508fd73a5da4b3.jpg> 森保J「ゴールラッシュ」6-0快勝
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 21:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 22:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
