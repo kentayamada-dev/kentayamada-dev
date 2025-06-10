@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35da0edefada4aa9e19d3d6bb35e0d7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/923ef563a5d73d801abbc562e80f7360.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82942fc3aac82a668428be2f27fbf110d3bbef89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000031-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自民・公明、物価高対策の給付で合意　全国民に一律数万円の案が浮上
+      <a href=https://news.yahoo.co.jp/articles/1d82ca007b5dec17d4ab588fbc82e9278bf513d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00030152-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 異例の梅雨　梅雨入り早々に災害級の大雨　大雨のピークは11日までと今週末の2回
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb2c3173cb511e06e8bd3f1a1a24cc31b491ec73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10551533-baseballk-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カブス、サヨナラ負けで約1ヶ月ぶり2連敗　指揮官が2戦連続の退場処分　鈴木誠也は2試合ぶり安打
+      <a href=https://news.yahoo.co.jp/articles/9b35770d85d6f848781074f4d7974d33a5f39700>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984675-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “移民取り締まり”抗議デモへの対応に異例約700人…トランプ政権が海兵隊員派遣を決定　先週末には約70人逮捕、混乱続く　アメリカ・ロサンゼルス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06a68f88a936f94c8c6c052f64b9d94871faf5b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米LAの抗議デモに海兵隊700人派遣へ　知事は反発「挑発だ」
+      <a href=https://news.yahoo.co.jp/articles/b7b3b2882c6c35750335f2fc7995440e7fcfc49b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-03686455-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「できることは何でもやる」小泉農水相、備蓄米20万トン追加放出を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44d9f3f424f630b0c839b277b3facb44d1d2b48d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101032-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 「本当に全部出すつもり…そこまでして下げようとしている」…小泉進次郎農相「備蓄米」さらに「２０万トン放出」表明…「モーニングショー」玉川徹氏が見解
+      <a href=https://news.yahoo.co.jp/articles/897dd209c6625abf798678566f9eaa0e9880ae3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241916-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「国民の皆さんたちに還元する方法を」自民・公明両党の幹部が会談　物価高対策として現金などの給付をおこなうことで一致　夏の参議院選挙の公約にも盛り込む方針
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f872652ec1321c2d988c4c92a50c1d79092a611804490942bdfce6631f98e5c7.jpg> 支援船のグレタさんら送還へ
+      <a href=https://news.yahoo.co.jp/pickup/6541734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b16c88fd4cfc29664b2fc0f59e59e2c9c3801b6c305c31c54305cb30db058820.jpg> 自民・公明 現金など給付方針一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/0e1620b883f58bebd52e7b5f6397647960a85900c1ae45d2d1dd67b6bed2c2d7.jpg> 日大重量挙部元監督 詐欺疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/337192e526d15188ec1aebbec99a1558d00aa667ac9fa30218bb5ab6dddb6952.jpg> 私的情報漏えい 知事らを刑事告発
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/71cb4012e494e90954fbbeb654ec576a981f186362f56b504ab4998d1110f07c.jpg> 息子を刺し殺人未遂の疑い 父逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541717>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02242752/title-1749500079158.jpeg?exp=10800> 「賞味期限切れ」の水 捨てないで
+      <a href=https://news.yahoo.co.jp/pickup/6541740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ba8e5e3f08f5d1d42b73e3b8c9f94ad0ffd1086ea69b136c731f549e73cc296a.jpg> 道路陥没で約1.5m幅の穴 福岡市
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5e5870f3ee2aa795eeaed8acd45f8cd8452389eeb89f9ba94a09cf60967792e5.jpg> スライ・ストーンさん死去 82歳
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 11:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 12:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
