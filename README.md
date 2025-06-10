@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7c008b9524d25786944712fbe411654.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af0ccd29da52126607a1683ccfaca762.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dde10d27f7ed41eae123ce09080e067fd3a02368>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000002-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=460&cw=1110&ch=1110&exp=10800&fmt=webp> 自民・公明、2万～4万円給付案　物価高対策、野党は減税
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/218a70bfd50072acf83797e2f027d3588ce06895>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985184-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相が備蓄米20万トン追加放出発表　転売対策も検討中　アイリスオーヤマは新幹線で輸送
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 02:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 02:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
