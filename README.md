@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82951140c18d68bd86e5ee8be2fbb988.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fba641d334e10b54919ebb6f40cfe42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/70485f60ecd8dc376c79c3995238c6cc6e3c310d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101213-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「ＫＥＹ　ＴＯ　ＬＩＴ」の岩﨑大昇、ＴＢＳ系情報番組「ラヴィット！」生放送中に右手首を骨折　同局は謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/51b227518ca079f493354218d7310c4336af03ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-09419468-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 初の“古古古古米”放出へ　小泉農水相「できることは何でもやる」　銘柄米に値下げの動きも…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a023e011c32ea9cb82855c074a91ca51b9f944e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984888-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・公明「現金など給付」を参院選の公約に盛り込むことで一致　「1人数万円案」、「マイナポイント案」浮上…野党の消費減税案に対抗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78d93fc2b0c88496d7ecb8e59a0a3bfe01eae3e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969963-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「食と農を守ることは国防」“令和の百姓一揆”参加者の叫び…小泉農水相が備蓄米追加 20トン放出を発表【静岡】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65aa98d4044303744946b196410c4d2336c2605d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000139-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 「ラヴィット」出演アイドルが放送中に骨折　全治６週間も今後の仕事は「特段の支障はない」
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541790>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e406943d33de6d2584610da81a16e4d286fc03027113a405e091cb8a198eed36.jpg> 今年の梅雨は異例続き 大雨に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/4534bea1d6c7ca523a008b664a06b9055143860bbdb49a2813d2efb657f1334a.jpg> 自民幹部 現金給付非常に望ましい
       </a>
     </td>
   </tr>
@@ -426,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/7f4860cd3e3afda27f72799e55f46454e47a878128a3f019ff562f019dd6588c.jpg> グレタさん イスラエルから送還
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/217490b1d862ecbbec9c545544818b2d1c967706a2b05e718288f4d6d9d25d89.jpg> ミスド新商品 売り切れ続出で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6541797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/09bb4f5c392528a329d526cab6238af70b88e1b663963083441564094a56ef79.jpg> 選手実家の口コミ荒らし 違法性は
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/2ff4d6cbd706819a112712dbb38ae241a8697fe4a01b880cf573a09784075001.jpg> TBSラヴィット放送中 出演者骨折
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 20:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 20:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
