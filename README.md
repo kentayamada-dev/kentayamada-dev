@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9046abd4664a3086a5f6dd3b6b5ed155.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d473d804a33f86349beab4df95133195.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/122779a44a9652abe965f94ddd9bdda299a5b235>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000110-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1134&ch=1134&exp=10800&fmt=webp> 国宝「金銅製矛鞘」に象眼文様を確認　「海の正倉院」沖ノ島出土
+      <a href=https://news.yahoo.co.jp/articles/74a1f63615ee6d9d581ccfc15c9a8e1ca32fb306>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00060387-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 参院選候補予定者に聞くコメ問題　コメの「適正価格」はいくら？　静岡
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bf539cf4033dc59cd8451b6bd744cce78852d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90040783-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “古古古古米”の売り渡しも決定…備蓄米放出で今後コメの価格の見通しは？専門店「相場に動きが出ている」
+      <a href=https://news.yahoo.co.jp/articles/64ab90f96d84750ea3c14c989f82e19f64cddb3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-08625254-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 混乱続くLA暴動…海兵隊も派遣へ　NYでも警察とデモ隊が衝突　不法移民取り締まりへの抗議デモ
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/189af771abd75a6191dbd0f713f13c2b393114a32cf116decb287d7934e48479.jpg> LAデモ 移民の街に恐怖と怒り
+      <a href=https://news.yahoo.co.jp/pickup/6541807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c54081236b55c86e91baf6c4322936e86f9b357d39273c8c11db45954c859356.jpg> 小泉氏 備蓄米など転売規制を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c54081236b55c86e91baf6c4322936e86f9b357d39273c8c11db45954c859356.jpg> 小泉氏 備蓄米など転売規制を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e77c7f6f9c6fc6f36fabd5492f6df11573f8d41fbabda15a57c687cb8b6ea8fe.jpg> 11日朝にかけ雨足強まる恐れ 警戒
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/78077e8d0e5b52fe321649a60426827ccbae06900ff45c1fbd53cc9326242b5b.jpg> 財政難も市幹部は接待受け 怒る声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541781>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f21cfe7c7d1cfb5436753edc2093f8e7db026f477f1b101447e94386d823ad41.jpg> 政治系YouTuber 過激表現に警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6541814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ed37790823e7a4f8921957bc817b5c50e88146cfe51fb054df3da064232fa1b7.jpg> 国宝・金銅製矛鞘に前例なき発見
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b9c46648728301a69e79802761921eef7aa790b802fe7ca09b508fd73a5da4b3.jpg> 森保J「ゴールラッシュ」6-0快勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d48dd89fccf3e6f7d649685a7832831579eb7a39c7cfaa384d1f9f8c997e23f7.jpg> 北斗晶 生放送中に着信音響き渡る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 23:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 23:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
