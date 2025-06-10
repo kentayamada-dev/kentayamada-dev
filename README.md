@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/756205aa82eede6b68467c6384d8cd8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/652f845045e2cb1159ca4ee17c1d018b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8967180eff2bc6f248d2142fdd4b7e52422571ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00030167-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 発達した雨雲が近畿を通過中　大雨警報も　土砂災害や低い土地の浸水に警戒
+      <a href=https://news.yahoo.co.jp/articles/dc90d77cb9b2426541046067d81e5493b0ccb340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771518-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ダルビッシュ＆由伸と談笑　ライブBP直後…敵地で17分間の“3者対談”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/525b6ca4e8122be87af2699094b4ab78901107e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1032&ch=1032&exp=10800&fmt=webp> 大谷翔平、３度目ライブBPは44球　打者11人に無安打６三振と上々の内容
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff09b8d53aa83ec3dac0ab2f414d887af69ddb53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985227-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=509&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領がロサンゼルス抗議デモで反乱法の発動示唆「ひどい状態…彼らは報酬もらい問題を起こす扇動者だ」
+      <a href=https://news.yahoo.co.jp/articles/92e9eb23027f43db9e2088ac5fe54b8450e50772>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182933-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=584&ch=584&exp=10800&fmt=webp> 抗議デモ激化 トランプ大統領の指示で海兵隊約700人が米・ロスに到着
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/644266a0fd67a67fd2485e165e4c8edab1351dff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 夏の選挙の争点は「コメ政策」になる？政治ジャーナリストが各党の立ち位置を分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3d2ca6542611d1e9e0d4902e15040a657be45ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985222-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「国全体を揺るがす悲劇だ」学校で銃乱射…10人死亡12人重軽傷　元生徒の男が犯行後トイレで自殺　男はいじめの被害者か　オーストリア
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541825>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/22ab69781854eea557e0b52017ce86f2b7dbe25ce771da13889c558db7257df0.jpg> 柏崎原発に燃料装てん 異例の手順
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2f75f6c01df933fda1118e6135b6bb1cd8c2181b48321a0a254d1a8be88f4a48.jpg> ホテル強殺 19歳少女の身柄確保
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d48dd89fccf3e6f7d649685a7832831579eb7a39c7cfaa384d1f9f8c997e23f7.jpg> 北斗晶 生放送中に着信音響き渡る
+      <a href=https://news.yahoo.co.jp/pickup/6541829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d34513b8a021522e434fdb421e59131b82a1c5ee5b2137f689379e365a04aa58.jpg> 「FNS歌謡祭」出演者の第2弾解禁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ce82723df6c663dbea2d7a511099abf6824957826e0e21ada3766c6330dfc2da.jpg> VIVANT続編制作 堺雅人が生発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
