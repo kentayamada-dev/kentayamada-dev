@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e881e6effd82ee447bdfdd100d64d214.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/607c719fb1c8e4c1160889a1ee45cdb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd6d43ddd6375a9c5c8160d2c6afa0b5520d430e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000018-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=551&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 米海兵隊700人がＬＡ到着、大統領命令で　州当局は反発
+      <a href=https://news.yahoo.co.jp/articles/775bf7299e279b6dfdc064a30baa060f8dd0c166>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000005-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 抗議デモ激化のロサンゼルス　海兵隊700人が到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3cf4175375e86c2bcbf63c0a56b41b18ebf4961c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000004-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 九州 大雨災害に厳重警戒 異例の遅さ 台風1号発生へ
       </a>
     </td>
   </tr>
@@ -370,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e7672fe9a76094cffe558057050988a8b4c9a9421b1196d2654671fbfa802bb4.jpg> 混乱続くLAデモ 深まる米の分断
+      <a href=https://news.yahoo.co.jp/pickup/6541821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b70068a57858b9560eb6e6daa603736463954a74b8c401a913afb5cf9e1f45e9.jpg> 雨 九州南部は土砂災害に厳重警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e77c7f6f9c6fc6f36fabd5492f6df11573f8d41fbabda15a57c687cb8b6ea8fe.jpg> 11日朝にかけ雨足強まる恐れ 警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e7672fe9a76094cffe558057050988a8b4c9a9421b1196d2654671fbfa802bb4.jpg> 混乱続くLAデモ 深まる米の分断
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53495db4cb2ec8fe7e66ec6ff6a0e8987ca2c19a4526c8cd272af7e070305c16.jpg> 車炎上した事故 死亡男性から薬物
+      <a href=https://news.yahoo.co.jp/pickup/6541820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b9758c44cdf22068f0a17668263e43d2ce71586fc48b35191c6615fbae0cb8fd.jpg> 60代専務が過労死 労災認定
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 06:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 06:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
