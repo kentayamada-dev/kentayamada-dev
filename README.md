@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b77dcefb6aa217601041dda2a250667.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/771a1c1cc7cd86e670374f9f8974c209.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0808ad90f81c26481effea3d63e54ea512cb7bc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00318545-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 日野と三菱ふそう、経営統合で最終合意　新会社を来年4月上場　議決権はトヨタ19.9％、ダイムラートラック26.7％
+      <a href=https://news.yahoo.co.jp/articles/1e030a5eeb330de6f6db9c04432a930e354f7194>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-26764715-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「私を逮捕しろ」とカリフォルニア州知事　移民摘発めぐるデモ、トランプ氏との政治的対立に発展
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2e7e8114b3cf24c9d77508f8836dd927d745db5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182829-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=981&ch=981&exp=10800&fmt=webp> G7サミット 共同声明見送りへ トランプ大統領との対立回避で
+      <a href=https://news.yahoo.co.jp/articles/a20be6a535afef3faa385b65ebb90a1a884ce472>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90025848-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 米5キロ4223円　2週連続の値下がりも…福岡の消費者「まだ高い」　小泉農水相が備蓄米20万トン追加放出を発表　“銘柄米の3000円台”なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06cc5a52d2998e46344baa33f3f6010d816cbf8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-11648938-ksbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 5kg4299円…入札の備蓄米が岡山でも販売開始　店は心配「売れなかったらお総菜コーナーで」
+      <a href=https://news.yahoo.co.jp/articles/5d7b4af86e02ffb6936aafc001d3d5829860456d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00347867-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【ソフトバンク】「秋広対策は大丈夫ですか？」本人の直撃に巨人・甲斐が爆笑〝塩回答〟
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3880f464ece0ecd0387ffb36477c4f5f7bfed818e22e94623d23bf64371b950a.jpg> 九州で断続的に大雨 厳重警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6541765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f8e0187256e3d7b42600edad59dbed895e48d6e21cce1d4ab0b6a2e495321e94.jpg> 不信任案可決リスク 揺れる与野党
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/944f0081a345f8dece0626cb2d63792f40b2ce2ddf369400397cbba617948407.jpg> 警察官自殺 1.3億円の賠償命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541781>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3f0c2493490427bcc2e4f88f968ea6a3a972ec8ccc86a5f4a94246ddb045c674.jpg> 楽天 20年ア・リーグ本塁打王獲得
+      <a href=https://news.yahoo.co.jp/pickup/6541782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/265b489123a7dddd9c4cf690f507ff336b63eec11e2b8c8b154bb8b0ef56a6d8.jpg> 免許センター ニホンカモシカ出没
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/35633d3a06b888b600db5f23d4c3659b8cc0c5e1b09c425ffc35a49f4b444fb4.jpg> オンカジ問題から復帰 コンビ解散
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 17:31:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 18:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
