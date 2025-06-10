@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6f24e0d2f9270693fcb6298db187095.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab91d678083b2c6dd6f873ad8c7f581d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ad7b280e893aacd3e29492b8b8fa4251dc3dcd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174657-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「クボがクライファートを沈める」スペイン大手紙も久保建英の活躍を称賛！ 圧勝した日本の戦いぶりには驚き「かつてないほど興奮させた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174657-sdigestw-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「クボがクライファートを沈める」スペイン大手紙も久保建英の活躍を称賛！ 圧勝した日本の戦いぶりには驚き「かつてないほど興奮させた」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bf539cf4033dc59cd8451b6bd744cce78852d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90040783-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “古古古古米”の売り渡しも決定…備蓄米放出で今後コメの価格の見通しは？専門店「相場に動きが出ている」
+      <a href=https://news.yahoo.co.jp/articles/74a1f63615ee6d9d581ccfc15c9a8e1ca32fb306>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00060387-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 参院選候補予定者に聞くコメ問題　コメの「適正価格」はいくら？　静岡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 01:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 01:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
