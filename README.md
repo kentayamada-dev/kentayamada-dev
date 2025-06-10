@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fba641d334e10b54919ebb6f40cfe42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5784127b0fa74c2054a69d6acba2241d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70485f60ecd8dc376c79c3995238c6cc6e3c310d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101213-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「ＫＥＹ　ＴＯ　ＬＩＴ」の岩﨑大昇、ＴＢＳ系情報番組「ラヴィット！」生放送中に右手首を骨折　同局は謝罪
+      <a href=https://news.yahoo.co.jp/articles/880060b6d7dae5a05f97ee65b76d86ab6617b296>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000096-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 「素晴らしい決断」　トランプ氏、海兵隊派遣を自賛　LA抗議デモ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f4795be147ce9ae10d9760e6bfa1af09169392a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000143-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民、物価対策の給付「参院選公約の柱」に掲げる　「無策」批判を恐れ「見送り」から一転
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/51b227518ca079f493354218d7310c4336af03ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-09419468-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 初の“古古古古米”放出へ　小泉農水相「できることは何でもやる」　銘柄米に値下げの動きも…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a023e011c32ea9cb82855c074a91ca51b9f944e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984888-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・公明「現金など給付」を参院選の公約に盛り込むことで一致　「1人数万円案」、「マイナポイント案」浮上…野党の消費減税案に対抗
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e406943d33de6d2584610da81a16e4d286fc03027113a405e091cb8a198eed36.jpg> 今年の梅雨は異例続き 大雨に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/189af771abd75a6191dbd0f713f13c2b393114a32cf116decb287d7934e48479.jpg> LAデモ 移民の街に恐怖と怒り
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541791>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> オーストリア高校で乱射事件 報道
+      <a href=https://news.yahoo.co.jp/pickup/6541801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/eaca16323d202afc6f29a6b4b62d4b15c2f73d52da048e7fb803a1d9815fcb9c.jpg> オーストリアの高校銃撃 10人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/01cb98250336e09b6d136b3c2130dd77fa94aa7a5708a32fe5cfa5c72fd3484b.jpg> 逮捕 日大重量挙げ部元監督の一面
+      <a href=https://news.yahoo.co.jp/pickup/6541796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/670234443ef8647b460bf84ba094d25aee54a5e7803dafa7b4e799d932e6836a.jpg> ホテル強殺事件 2人は面識なしか
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 20:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 21:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
