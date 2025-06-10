@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45b50295ba530fa88cb989d255c92330.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91b0b6fde2cf95675d704fa43eb5f744.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e07ebbf475a46cd9e868e2517b768c03c1d236c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000106-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 現金給付は「1人3～4万円」　低所得者に増額も　政府検討
+      <a href=https://news.yahoo.co.jp/articles/1894d9f569256e6043f3282633491f9856f1c854>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自公が「給付」に再びかじ、他に公約の目玉見当たらず…改選迎える議員「選挙戦う武器ない」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f43a13d880372afc92b85f0623026e1ffe5b2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000082-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 備蓄米などの転売を禁止する措置検討　小泉農水大臣
+      <a href=https://news.yahoo.co.jp/articles/932b3d452459230421d5855800f7a3ce81bb7f47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000093-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 自公が物価高対策の「給付」で一致　現金とマイナポイント案、赤字国債発行せず税収増活用
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ad94a888f7ce4f29793e34448e9b22a1bd2957b2587843909e2ce445a57b2d26.jpg> 食品消費税0%や給付金も 立憲公約
+      <a href=https://news.yahoo.co.jp/pickup/6541803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6187ba98431d75b1c77f15d42e8498054c66884d6076f481ff856af2b2dddd01.jpg> 自公の現金給付案 なぜ再び浮上
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02243769/title-1749554043226.jpeg?exp=10800> 元監督が学費詐取疑い カラクリは
+      <a href=https://news.yahoo.co.jp/pickup/6541781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b9c46648728301a69e79802761921eef7aa790b802fe7ca09b508fd73a5da4b3.jpg> 森保J「ゴールラッシュ」6-0快勝
+      <a href=https://news.yahoo.co.jp/pickup/6541799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f21cfe7c7d1cfb5436753edc2093f8e7db026f477f1b101447e94386d823ad41.jpg> 政治系YouTuber 過激表現に警鐘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/917f2137b2f69da0d4d88e3a90f66eed80ca0473c2651c37b36ddaaa31f8c935.jpg> 周東の頭に死球 起き上がりニコリ
+      <a href=https://news.yahoo.co.jp/pickup/6541809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b9c46648728301a69e79802761921eef7aa790b802fe7ca09b508fd73a5da4b3.jpg> 森保J「ゴールラッシュ」6-0快勝
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 22:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
