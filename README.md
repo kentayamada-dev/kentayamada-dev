@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9753241e3d13b5bd1a2d8343416b35e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68963a006a765253519168f95a96139a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1894d9f569256e6043f3282633491f9856f1c854>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00050154-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自公が「給付」に再びかじ、他に公約の目玉見当たらず…改選迎える議員「選挙戦う武器ない」
+      <a href=https://news.yahoo.co.jp/articles/df706d75f8af17dbe885a65ce9a8cde145ef01b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-02027714-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 6失点大敗にインドネシア指揮官、日本を激賞「偉大なチーム。W杯で戦う国はどこも厳しい戦いを強いられる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3421f91b5eb548d87c283956d141ec4964bc5c37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000395-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 「KEY　TO　LIT」岩崎大昇コメント発表「今は痛みも落ち着いて」右手首骨折　ラヴィット生放送中に
+      <a href=https://news.yahoo.co.jp/articles/dde10d27f7ed41eae123ce09080e067fd3a02368>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民・公明、2万～4万円給付案　物価高対策、野党は減税
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53495db4cb2ec8fe7e66ec6ff6a0e8987ca2c19a4526c8cd272af7e070305c16.jpg> 車炎上した事故 死亡男性から薬物
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b9c46648728301a69e79802761921eef7aa790b802fe7ca09b508fd73a5da4b3.jpg> 森保J「ゴールラッシュ」6-0快勝
+      <a href=https://news.yahoo.co.jp/pickup/6541819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/7d2d6b3f2f518ff483b9231ab935c4851864668f3fba664f50cac421a12bc1b6.jpg> インドネシア監督 森保Jに脱帽
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 23:51:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 00:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
