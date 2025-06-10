@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5784127b0fa74c2054a69d6acba2241d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e692f130834b79498174f682e6a98d6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/880060b6d7dae5a05f97ee65b76d86ab6617b296>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000096-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 「素晴らしい決断」　トランプ氏、海兵隊派遣を自賛　LA抗議デモ
+      <a href=https://news.yahoo.co.jp/articles/cea5417398942648da36ab8d2bd059322903a002>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969767-atv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『備蓄米』20万トンを追加放出でも…「手を出さない」コメ小売店も　備蓄米の放出以上に店が望むのはコメの”安定供給”「何でこうなったのか…」本音ポロリ
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51b227518ca079f493354218d7310c4336af03ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-09419468-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 初の“古古古古米”放出へ　小泉農水相「できることは何でもやる」　銘柄米に値下げの動きも…
+      <a href=https://news.yahoo.co.jp/articles/665b2726ce1c5f671075222d37d4667a2f385297>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00546196-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ソフトバンク周東、頭部死球に対する振る舞いに「紳士」「優しい」の声　終始落ち着き出場継続
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53495db4cb2ec8fe7e66ec6ff6a0e8987ca2c19a4526c8cd272af7e070305c16.jpg> 車炎上した事故 死亡男性から薬物
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/09bb4f5c392528a329d526cab6238af70b88e1b663963083441564094a56ef79.jpg> 選手実家の口コミ荒らし 違法性は
+      <a href=https://news.yahoo.co.jp/pickup/6541800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f862790cf93a48e3b09969911df7f659cc5b0a7cf39c806c382ac1252512e178.jpg> 豊田織株主 TOB価格に不満相次ぐ
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541773>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/518acbcca3d25ab54de5846e4d35417caaf96efb3e365ac28bd3b9f1825bf5ba.jpg> 速報・森保J インドネシア戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/917f2137b2f69da0d4d88e3a90f66eed80ca0473c2651c37b36ddaaa31f8c935.jpg> 周東の頭に死球 起き上がりニコリ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 21:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 21:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
