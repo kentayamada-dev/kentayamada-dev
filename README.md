@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc5252a3aeafdd513d8b353eaee48ec1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b5bc59badf184d97a828993e743b7a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1873370e54b1037697e8c1275ac805a9699f5c01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010022-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=429&ch=429&exp=10800&fmt=webp> 「うわっ！」豪記者がデモ取材中にゴム弾で撃たれる。首相も批判「非常に恐ろしい」【LA移民抗議デモ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e10cb509f9dd726a5ff3f6d273d1a63b6d6539b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000014-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 衆参ダブル選挙「約30％の確率」　内閣不信任案「出したら即解散」石破首相が引けなくなるシナリオ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dbe28c1ac605206df5162bc7bda2a7bf0825d90a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000200-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=997&ch=997&exp=10800&fmt=webp> 銘柄米の店頭価格、下落近い？　識者が予測「政府の狙い通り、銘柄米の不足感がなくなってきている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/622409c9dfd0f6f1de366bb14eb36480e4563b72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010019-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=630&ch=630&exp=10800&fmt=webp> トランプの州兵派遣は「自尊心を満たすため」とカリフォルニア州知事が批判。大統領を提訴【LA移民抗議デモ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dc198ecf1bd182766007f15feb4d7ce03cdd051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90026990-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> お笑いコンビ「ネイチャーバーガー」、オンカジ問題をきっかけに解散
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=997&ch=997&exp=10800&fmt=webp> 銘柄米の店頭価格、下落近い？　識者が予測「政府の狙い通り、銘柄米の不足感がなくなってきている」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541763>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日米関税交渉 トヨタ協力案が浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541758>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/69889f5349b390f800f849b9cb6f506a4f82a3c5960fcc5d60ccaf6a0965bdf7.jpg> 原口氏古古古米発言 残念と小泉氏
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541751>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生徒3人刺傷 女子生徒を鑑定留置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/73372e2237835cb05fd4d776d6d99cbadbeafdf842f5b489556f62e5372cf3e8.jpg> 独身と偽り交際 被害者の訴え
+      <a href=https://news.yahoo.co.jp/pickup/6541769>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅に約150匹ネコ死骸 刑事告発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 15:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 16:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
