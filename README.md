@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5ba5eea00d774ef3c793b3cfa84d89c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ea5a7470eb4be76361af21b1909702a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48d9c7409f4a82cff066402802405c05c292d8d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00079761-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプへの怒りを「沈静化」するマスク、和解を探る可能性
+      <a href=https://news.yahoo.co.jp/articles/7836b0aaff4f8a7bb978868ebc1943492fb72472>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-35234056-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=676&ch=676&exp=10800&fmt=webp> マスク氏、トランプ氏へ歩み寄り　米ＬＡの移民摘発抗議デモきっかけに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58b9a291f7d1ef5bb41e85523f5505fe94ae1d61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984764-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「余ったお金は減税で返すべき」自公の現金など給付案
+      <a href=https://news.yahoo.co.jp/articles/3a2c0b5bc30fe010f7e82337eefbefe1d60b00eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-35234057-cnetj-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゼルダ実写映画、27年5月7日に公開延期--「もう少しだけ時間をください」と宮本氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08934500adba3837155a30373343f0aee6437980>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36100382-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=570&ch=570&exp=10800&fmt=webp> 玉川徹氏、小泉進次郎農相の備蓄米20万トン追加放出方針に「本当に全部出すつもりなんですね」
+      <a href=https://news.yahoo.co.jp/articles/8a64bb891cf113e1ec1456ef49d883f1e050db50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000010-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ご都合主義が過ぎている」国民・玉木代表、自公「給付」を猛批判　「減税で国民に返すべき」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46faa906eb6e4b99f523784442cbfc2c5d690b78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 南海トラフ、死者数8割減　対策計画に目標設定へ　政府
+      <a href=https://news.yahoo.co.jp/articles/c2044c0e22b9a5d0167fc0d8661ff7ed4b0784d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967549-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> コメ“緊急輸入”の可能性は…生産者からは「不安」の声　コメ販売価格2週連続の値下がるも続く高止まりへの対応は?【news23】
       </a>
     </td>
   </tr>
@@ -410,32 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541722>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネットカジノ相談急増 若年層多数
+      <a href=https://news.yahoo.co.jp/pickup/6541750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/9bb84669631a1d9d4da33ecdc025d70e638da368fcda620ff278872c8169d63b.jpg> 南海トラフ死者8割減目標に 政府
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c1a412b25e7161b9888b8dbbf3689332bb50791430aa6bd6c3e7aa55d47b9240.jpg> トランプ氏 グレタさんを再びやゆ
+      <a href=https://news.yahoo.co.jp/pickup/6541751>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生徒3人刺傷 女子生徒を鑑定留置
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/43f9d30b70d16d62d719aeda162c8b0069d1b9633d65ff004564c6c36d53b63b.jpg> 斎藤氏給与巡る条例案 採決見送り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/428825794115cc8eefc6a252bf8b5402aa1bd3d086be4291c9ed915dad8ed5d5.jpg> 性別暴露で提訴された市議 釈明
+      <a href=https://news.yahoo.co.jp/pickup/6541755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/73372e2237835cb05fd4d776d6d99cbadbeafdf842f5b489556f62e5372cf3e8.jpg> 独身と偽り交際 被害者の訴え
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/86ba8ebdf84f03557f12d4bbf9bab5e80c664a0f054f831aa87254e73de41f6b.jpg> 伊沢拓司 小学生の頃は勉強苦手
+      <a href=https://news.yahoo.co.jp/pickup/6541749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5fc492add11d324c926a8dcffc99a2509200fe7435905b8cdd42cc7a2deae330.jpg> 菊池雄星が2勝目 観衆大きな拍手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c5871786ce08d05f8fec8856efb9bf5d237eb3607d5f45622136de7963e2428b.jpg> ウルフ・アロン引退会見 悔いない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 14:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 14:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
