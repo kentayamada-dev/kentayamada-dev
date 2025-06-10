@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b808d13a0230214d8b9a94dfe4febfa9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a4582a12f711d083618f8f40c5c80e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e23e9d8cc6dd52a54d7cca28512137bc2263fc6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21968254-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 11日昼前にかけ大雨に注意　梅雨前線北上に伴い　10日午後にはJR呉線の一部で計画運休　広島
+      <a href=https://news.yahoo.co.jp/articles/08934500adba3837155a30373343f0aee6437980>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36100382-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=570&ch=570&exp=10800&fmt=webp> 玉川徹氏、小泉進次郎農相の備蓄米20万トン追加放出方針に「本当に全部出すつもりなんですね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff66680580372b6c0866a166bb5dc432aff94c11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-16012884-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=559&ch=559&exp=10800&fmt=webp> トランプ政権、海兵隊700人と追加の州兵2000人をロサンゼルスに派遣　州政府は提訴
+      <a href=https://news.yahoo.co.jp/articles/7ad3665531552e468ddc3d963d65d04ca26374d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000155-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=708&ch=708&exp=10800&fmt=webp> チョコプラ松尾　第2子誕生を報告「産まれてきてくれてありがとう」相方・長田は出演番組で生報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eda01853e437cedb60c056e56b7585d7cbc953a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241901-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “古古古古米”の店頭価格について「5キロ＝1700円程度」を想定　小泉農林水産大臣が備蓄米を追加で20万トン放出へ
+      <a href=https://news.yahoo.co.jp/articles/de690616d22f133a17230c8a310ae8c29fa4671d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00051673-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一般来場者数６００万人を突破　一方でレジオネラ菌問題続く　水上ショー再開のメドは立たず・・・
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b86f6413f7d28bb21340f812f22aadad37c723c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 米ロサンゼルス抗議デモ　海兵隊700人を新たに派遣へ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e65a08a35be54ff3f796f1fb7caab2bdd2c6e4a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984623-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 負傷兵・若い兵士の捕虜交換を実施「数日間にわたり段階的におこなわれる」人道面での取引き進む一方でロシア軍がウクライナ東部へ進軍…停戦の見通しは立たず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/630adea8f3169be694a416a18345643bafa0a47fd97b612c65982ded00cc0306.jpg> 関東甲信・北陸が梅雨入り 気象庁
+      <a href=https://news.yahoo.co.jp/pickup/6541741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e4c4977e33da50d49697caea37aa036c807c350fe8fe22ba45e13b602a1fff5d.jpg> 九州北部 夕方にかけ大雨災害警戒
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/337192e526d15188ec1aebbec99a1558d00aa667ac9fa30218bb5ab6dddb6952.jpg> 私的情報漏えい 知事らを刑事告発
+      <a href=https://news.yahoo.co.jp/pickup/6541745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/43f9d30b70d16d62d719aeda162c8b0069d1b9633d65ff004564c6c36d53b63b.jpg> 斎藤氏給与巡る条例案 採決見送り
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541735>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/428825794115cc8eefc6a252bf8b5402aa1bd3d086be4291c9ed915dad8ed5d5.jpg> 性別暴露で提訴された市議 釈明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ba8e5e3f08f5d1d42b73e3b8c9f94ad0ffd1086ea69b136c731f549e73cc296a.jpg> 道路陥没で約1.5m幅の穴 福岡市
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/769ba30e604943970805d53c590dc653aea7969113a25bf219287e010d2fedbe.jpg> チョコプラ松尾に第2子 長田報告
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 12:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 13:01:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
