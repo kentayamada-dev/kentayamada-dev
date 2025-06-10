@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/856b5a0cda30d9d5ff5d456624254f0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e881e6effd82ee447bdfdd100d64d214.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/762f9afe409e33e2780376ead90108f26c5dd3b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロサンゼルスに海兵隊の一部が到着　米報道　派遣費用は州兵と合わせ約194億円
+      <a href=https://news.yahoo.co.jp/articles/cd6d43ddd6375a9c5c8160d2c6afa0b5520d430e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000018-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=551&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 米海兵隊700人がＬＡ到着、大統領命令で　州当局は反発
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 05:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 06:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
