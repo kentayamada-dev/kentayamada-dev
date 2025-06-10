@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/652f845045e2cb1159ca4ee17c1d018b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd9600d76603ec07d4bf7b0be6ceed19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc90d77cb9b2426541046067d81e5493b0ccb340>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771518-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ダルビッシュ＆由伸と談笑　ライブBP直後…敵地で17分間の“3者対談”
+      <a href=https://news.yahoo.co.jp/articles/f0377f8355cabb3e1550a0b8ffd40cf5092e8546>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10552540-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平が術後3度目の実戦登板　ダルビッシュ有見守る中で術後最多44球、打者11人に1安打6K
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b294ae27b04c40b0f1f87382739543b2b72548f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00731199-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「決定力を備えている」鎌田大地がサッカー日本代表で活躍！C・パレスも前線で起用すべき。英紙が提言「その役割を十分担える」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8f6539b8bd2e83691d53cfc230666974de15cd02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985230-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ国家情報長官が広島訪問明かし核廃絶訴える「この狂気を終結させねばならない」
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/644266a0fd67a67fd2485e165e4c8edab1351dff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 夏の選挙の争点は「コメ政策」になる？政治ジャーナリストが各党の立ち位置を分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3d2ca6542611d1e9e0d4902e15040a657be45ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985222-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「国全体を揺るがす悲劇だ」学校で銃乱射…10人死亡12人重軽傷　元生徒の男が犯行後トイレで自殺　男はいじめの被害者か　オーストリア
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9c600638781cb2ba00a55f5bd12515acbabde2955e51d6413ee0d5e7bf3ed3aa.jpg> 送還のグレタさん イスラエル批判
+      <a href=https://news.yahoo.co.jp/pickup/6541828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4c7fa2edbcedbd5d5976a41833b05d624b084fc4428b9c1e18bbf23ccbb78218.jpg> レアアースで脱中国工程表 G7案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b9758c44cdf22068f0a17668263e43d2ce71586fc48b35191c6615fbae0cb8fd.jpg> 60代専務が過労死 労災認定
+      <a href=https://news.yahoo.co.jp/pickup/6541823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9c600638781cb2ba00a55f5bd12515acbabde2955e51d6413ee0d5e7bf3ed3aa.jpg> 送還のグレタさん イスラエル批判
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 08:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 08:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
