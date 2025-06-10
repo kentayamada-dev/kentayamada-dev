@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ea5a7470eb4be76361af21b1909702a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81a6d609f4bca25e20e4af469d4ded05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7836b0aaff4f8a7bb978868ebc1943492fb72472>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-35234056-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=676&ch=676&exp=10800&fmt=webp> マスク氏、トランプ氏へ歩み寄り　米ＬＡの移民摘発抗議デモきっかけに
+      <a href=https://news.yahoo.co.jp/articles/3a6344c7f17db082d4d876080d8c31e748882753>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000190-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=1035&ch=1035&exp=10800&fmt=webp> 【柔道】引退ウルフ・アロン　ベストバウトは「東京五輪の決勝」趙グハムから大内刈り一本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a2c0b5bc30fe010f7e82337eefbefe1d60b00eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-35234057-cnetj-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ゼルダ実写映画、27年5月7日に公開延期--「もう少しだけ時間をください」と宮本氏
+      <a href=https://news.yahoo.co.jp/articles/622409c9dfd0f6f1de366bb14eb36480e4563b72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010019-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=630&ch=630&exp=10800&fmt=webp> トランプの州兵派遣は「自尊心を満たすため」とカリフォルニア州知事が批判。大統領を提訴【LA移民抗議デモ】
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2044c0e22b9a5d0167fc0d8661ff7ed4b0784d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967549-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> コメ“緊急輸入”の可能性は…生産者からは「不安」の声　コメ販売価格2週連続の値下がるも続く高止まりへの対応は?【news23】
+      <a href=https://news.yahoo.co.jp/articles/dbf0295174a78a517bfdda6ed11fa525ca42d1f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984556-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ニワトリさんが一番食べる」立憲・原口議員の“古古古米発言”に身内からも苦言　米輸入に「舵切ったとは言っていない」野党追及に小泉農水相が否定
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/69889f5349b390f800f849b9cb6f506a4f82a3c5960fcc5d60ccaf6a0965bdf7.jpg> 原口氏古古古米発言 残念と小泉氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541751>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 生徒3人刺傷 女子生徒を鑑定留置
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/217490b1d862ecbbec9c545544818b2d1c967706a2b05e718288f4d6d9d25d89.jpg> ミスド新商品 売り切れ続出で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6541759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c5871786ce08d05f8fec8856efb9bf5d237eb3607d5f45622136de7963e2428b.jpg> ウルフ引退会見「表に立ちたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5fc492add11d324c926a8dcffc99a2509200fe7435905b8cdd42cc7a2deae330.jpg> 菊池雄星が2勝目 観衆大きな拍手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c5871786ce08d05f8fec8856efb9bf5d237eb3607d5f45622136de7963e2428b.jpg> ウルフ・アロン引退会見 悔いない
+      <a href=https://news.yahoo.co.jp/pickup/6541757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d027e60aca265b84ea0cc9fa54c7d688e278dcbcd5de467ab2d2e77465fc3fc4.jpg> 漫画家・ma2さん 活動休止を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 14:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 15:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
