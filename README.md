@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a4582a12f711d083618f8f40c5c80e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b6a1bceda88274149711ef8447c0cc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08934500adba3837155a30373343f0aee6437980>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36100382-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=570&ch=570&exp=10800&fmt=webp> 玉川徹氏、小泉進次郎農相の備蓄米20万トン追加放出方針に「本当に全部出すつもりなんですね」
+      <a href=https://news.yahoo.co.jp/articles/8fc7b6d9bc3dffd1d06ecee7a445724d89862867>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101066-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菊池雄星、今季初の７回１／３を投げ１安打無失点で２勝目　防御率はリーグ１１位の２・９２で２点台突入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ad3665531552e468ddc3d963d65d04ca26374d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000155-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=708&ch=708&exp=10800&fmt=webp> チョコプラ松尾　第2子誕生を報告「産まれてきてくれてありがとう」相方・長田は出演番組で生報告
+      <a href=https://news.yahoo.co.jp/articles/779aa773cbec5d8f14928f056de618e9b9634ef5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 加州知事逮捕されれば「素晴らしい」 LAデモめぐりトランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08934500adba3837155a30373343f0aee6437980>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-36100382-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=570&ch=570&exp=10800&fmt=webp> 玉川徹氏、小泉進次郎農相の備蓄米20万トン追加放出方針に「本当に全部出すつもりなんですね」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de690616d22f133a17230c8a310ae8c29fa4671d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00051673-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一般来場者数６００万人を突破　一方でレジオネラ菌問題続く　水上ショー再開のメドは立たず・・・
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b86f6413f7d28bb21340f812f22aadad37c723c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 米ロサンゼルス抗議デモ　海兵隊700人を新たに派遣へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 13:01:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 13:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
