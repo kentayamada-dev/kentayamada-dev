@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d473d804a33f86349beab4df95133195.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9753241e3d13b5bd1a2d8343416b35e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74a1f63615ee6d9d581ccfc15c9a8e1ca32fb306>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00060387-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 参院選候補予定者に聞くコメ問題　コメの「適正価格」はいくら？　静岡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1894d9f569256e6043f3282633491f9856f1c854>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00050154-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自公が「給付」に再びかじ、他に公約の目玉見当たらず…改選迎える議員「選挙戦う武器ない」
       </a>
@@ -373,8 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64ab90f96d84750ea3c14c989f82e19f64cddb3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-08625254-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 混乱続くLA暴動…海兵隊も派遣へ　NYでも警察とデモ隊が衝突　不法移民取り締まりへの抗議デモ
+      <a href=https://news.yahoo.co.jp/articles/3421f91b5eb548d87c283956d141ec4964bc5c37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000395-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 「KEY　TO　LIT」岩崎大昇コメント発表「今は痛みも落ち着いて」右手首骨折　ラヴィット生放送中に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9bf539cf4033dc59cd8451b6bd744cce78852d2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90040783-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “古古古古米”の売り渡しも決定…備蓄米放出で今後コメの価格の見通しは？専門店「相場に動きが出ている」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c54081236b55c86e91baf6c4322936e86f9b357d39273c8c11db45954c859356.jpg> 小泉氏 備蓄米など転売規制を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e7672fe9a76094cffe558057050988a8b4c9a9421b1196d2654671fbfa802bb4.jpg> 混乱続くLAデモ 深まる米の分断
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ed37790823e7a4f8921957bc817b5c50e88146cfe51fb054df3da064232fa1b7.jpg> 国宝・金銅製矛鞘に前例なき発見
+      <a href=https://news.yahoo.co.jp/pickup/6541768>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02243031/title-1749521903226.jpeg?exp=10800> 万博会場で菌も レジオネラ症とは
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d48dd89fccf3e6f7d649685a7832831579eb7a39c7cfaa384d1f9f8c997e23f7.jpg> 北斗晶 生放送中に着信音響き渡る
+      <a href=https://news.yahoo.co.jp/pickup/6541818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/0319346808bcb5840b54721fb1f564397a3860928a0f9fc5430167128facf839.jpg> 生放送中に骨折 岩崎大昇コメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/2ff4d6cbd706819a112712dbb38ae241a8697fe4a01b880cf573a09784075001.jpg> TBSラヴィット放送中 出演者骨折
+      <a href=https://news.yahoo.co.jp/pickup/6541815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d48dd89fccf3e6f7d649685a7832831579eb7a39c7cfaa384d1f9f8c997e23f7.jpg> 北斗晶 生放送中に着信音響き渡る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 23:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 23:51:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
