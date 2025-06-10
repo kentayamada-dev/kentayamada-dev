@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa0342a3a5c91571cafbedf457b464c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35da0edefada4aa9e19d3d6bb35e0d7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82942fc3aac82a668428be2f27fbf110d3bbef89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000031-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 自民・公明、物価高対策の給付で合意　全国民に一律数万円の案が浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb2c3173cb511e06e8bd3f1a1a24cc31b491ec73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10551533-baseballk-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カブス、サヨナラ負けで約1ヶ月ぶり2連敗　指揮官が2戦連続の退場処分　鈴木誠也は2試合ぶり安打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06a68f88a936f94c8c6c052f64b9d94871faf5b1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米LAの抗議デモに海兵隊700人派遣へ　知事は反発「挑発だ」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d6a59f42367724285ea23d493953ef96fcaf591>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000026-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本大学重量挙部の元監督逮捕　授業料名目などで現金だまし取った疑い　警視庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44d9f3f424f630b0c839b277b3facb44d1d2b48d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101032-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 「本当に全部出すつもり…そこまでして下げようとしている」…小泉進次郎農相「備蓄米」さらに「２０万トン放出」表明…「モーニングショー」玉川徹氏が見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bec7b65713f146896fec105b6d363e788e5c385>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984625-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲・野田代表「バラマキ批判で引っ込めたのでは?」自民の現金給付案“再浮上”に苦言「無策では参院選乗り切れないと追い込まれたか」
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/246baf09a7cc5198de9db3992281559d5790487bf747bf4d07424799410d82d2.jpg> 広い範囲で雨 九州北部は厳重警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c8db74dd0e67bdbaf4beeb8ed67c36dff2d7fd3cc78954d4af690832c172f1a0.jpg> 備蓄米20万トン追加放出と小泉氏
+      <a href=https://news.yahoo.co.jp/pickup/6541738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/630adea8f3169be694a416a18345643bafa0a47fd97b612c65982ded00cc0306.jpg> 関東甲信・北陸が梅雨入り 気象庁
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541733>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/0e1620b883f58bebd52e7b5f6397647960a85900c1ae45d2d1dd67b6bed2c2d7.jpg> 日大重量挙部元監督 詐欺疑い逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/428825794115cc8eefc6a252bf8b5402aa1bd3d086be4291c9ed915dad8ed5d5.jpg> 性別暴露で提訴された市議 釈明
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5e83fe7350ca6481560538e2f8093318420c401e508a3643a6c0a220b2bc3ef6.jpg> BTSのRMとVが除隊 軍服姿で笑顔
+      <a href=https://news.yahoo.co.jp/pickup/6541736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/217490b1d862ecbbec9c545544818b2d1c967706a2b05e718288f4d6d9d25d89.jpg> ミスド新商品 売り切れ続出で謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 11:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 11:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
