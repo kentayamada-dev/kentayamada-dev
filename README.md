@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/923ef563a5d73d801abbc562e80f7360.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b808d13a0230214d8b9a94dfe4febfa9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d82ca007b5dec17d4ab588fbc82e9278bf513d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00030152-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 異例の梅雨　梅雨入り早々に災害級の大雨　大雨のピークは11日までと今週末の2回
+      <a href=https://news.yahoo.co.jp/articles/e23e9d8cc6dd52a54d7cca28512137bc2263fc6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21968254-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 11日昼前にかけ大雨に注意　梅雨前線北上に伴い　10日午後にはJR呉線の一部で計画運休　広島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b35770d85d6f848781074f4d7974d33a5f39700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984675-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “移民取り締まり”抗議デモへの対応に異例約700人…トランプ政権が海兵隊員派遣を決定　先週末には約70人逮捕、混乱続く　アメリカ・ロサンゼルス
+      <a href=https://news.yahoo.co.jp/articles/ff66680580372b6c0866a166bb5dc432aff94c11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-16012884-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=559&ch=559&exp=10800&fmt=webp> トランプ政権、海兵隊700人と追加の州兵2000人をロサンゼルスに派遣　州政府は提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7b3b2882c6c35750335f2fc7995440e7fcfc49b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-03686455-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「できることは何でもやる」小泉農水相、備蓄米20万トン追加放出を発表
+      <a href=https://news.yahoo.co.jp/articles/7eda01853e437cedb60c056e56b7585d7cbc953a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241901-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “古古古古米”の店頭価格について「5キロ＝1700円程度」を想定　小泉農林水産大臣が備蓄米を追加で20万トン放出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/897dd209c6625abf798678566f9eaa0e9880ae3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-07241916-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「国民の皆さんたちに還元する方法を」自民・公明両党の幹部が会談　物価高対策として現金などの給付をおこなうことで一致　夏の参議院選挙の公約にも盛り込む方針
+      <a href=https://news.yahoo.co.jp/articles/c52920298c1b5a7a1773f39e429d3f500b25a473>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 自民党が1人当たり数万円の給付を検討：3万円でGDP0.16％押し上げ：消費税減税よりは良いが低所得者を対象にすべき
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5e5870f3ee2aa795eeaed8acd45f8cd8452389eeb89f9ba94a09cf60967792e5.jpg> スライ・ストーンさん死去 82歳
+      <a href=https://news.yahoo.co.jp/pickup/6541742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3ff650cc675f6fe12196915ee1623e56a8e81ce21fcb2ac1227d6bacbd5f2080.jpg> 「安くない」コメダ 愛される理由
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 12:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 12:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
