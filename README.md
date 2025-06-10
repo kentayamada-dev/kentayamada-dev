@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9eea9f8f9dd376ed6f1478b9366c5c14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b0487a5034ead64a69cb4ce8320af0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a1f188b9ae820c5c39132f6cae060b69de50c12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日大重量挙げ部の元監督逮捕　奨学生から現金詐取疑い、警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18b71d1e0751e09f1e1b096f90944fa2ed1fbf4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】大阪・関西万博 7日に採取した水でも「レジオネラ菌」は基準超 前回調査から倍増 水上ショーは当面中止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-05265273-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博　7日に採取した水でも「レジオネラ菌」基準超　前回調査から倍増　水上ショーは当面中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d139e1c1cfc5804be017dbc4ba025e072b8a09c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「州兵の派遣は違憲」　米カリフォルニア州、トランプ政権を提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87f1d45c6a26e48c27b219e0a7958c87508cf949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000104-spnannex-000-25-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「BTS」V、RMが除隊「待っていてくれたARMYに感謝」今月中に全員除隊へ　完全体復活は年末か
+      <a href=https://news.yahoo.co.jp/articles/1b7289384f86c7ddc417e21f72507ff084872788>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロス抗議デモに海兵隊員700人派遣　州知事はトランプ氏提訴「挑発行為であり不要だ」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/156bcef8f9f131796461e1004700b18e292d18841cc938572f3d81bc9e0bbccb.jpg> LA抗議デモ 海兵隊700人派遣へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541710>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b0b82a23cfa1bce873f9a4db641e04c4705851e38169db7eb3230412a17cb248.jpg> 1人数万円給付 自民公約の方針
       </a>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53bdf5c82bc009773ad714640974a3c991bc3cd930f24cc7f16a76dcf456822e.jpg> 英小説家 フォーサイスさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6541733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/0e1620b883f58bebd52e7b5f6397647960a85900c1ae45d2d1dd67b6bed2c2d7.jpg> 日大重量挙部元監督 詐欺疑い逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/8de9d41e4c0d21053c0f00eabd6d1cab71e60bc7e774888ca94fbb9d56123360.jpg> 「一撃講習」悪質ホストの手口
+      <a href=https://news.yahoo.co.jp/pickup/6541731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/71cb4012e494e90954fbbeb654ec576a981f186362f56b504ab4998d1110f07c.jpg> 息子を刺し殺人未遂の疑い 父逮捕
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/5e83fe7350ca6481560538e2f8093318420c401e508a3643a6c0a220b2bc3ef6.jpg> BTSのRMとVが除隊 軍服姿で笑顔
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 10:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 10:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
