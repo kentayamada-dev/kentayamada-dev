@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/37e6302f403349d90c52e2e878bf31c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99d9744c210bb603247845bddea8938e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd0c147ac6d0152532d8c1a184f11c93618a3f6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00010004-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> まさか警官が「記者を狙った？」...LAデモ取材の豪リポーターが警官の「弾」で負傷、カメラが捉えた「発砲の瞬間」
+      <a href=https://news.yahoo.co.jp/articles/a5a14ceb4582933183acb9a39b795d2df6ac9740>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> G7首脳宣言、見送り公算大　トランプ氏と集約困難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58fe166d6cb9d606c634e6bef74ee478b9b8c298>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000093-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=839&ch=839&exp=10800&fmt=webp> 1人数万円、所得制限なし検討　給付措置、自公が参院選公約に
+      <a href=https://news.yahoo.co.jp/articles/b0777a362c5b3b8929b1f982af3d5e2ffb0f3813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969247-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> コメの値段はどうなる?“新米”争奪戦は愛知でも…農家が小泉大臣に訴えたい「本音」とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a20be6a535afef3faa385b65ebb90a1a884ce472>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90025848-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=522&ch=522&exp=10800&fmt=webp> 米5キロ4223円　2週連続の値下がりも…福岡の消費者「まだ高い」　小泉農水相が備蓄米20万トン追加放出を発表　“銘柄米の3000円台”なるか
+      <a href=https://news.yahoo.co.jp/articles/07268dc54a3da3fa930e9ae58813f88b1d2def61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-05973822-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西・東日本で朝まで激しい雨…九州南部で夕方にかけ非常に激しい雨の降る所も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d7b4af86e02ffb6936aafc001d3d5829860456d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00347867-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【ソフトバンク】「秋広対策は大丈夫ですか？」本人の直撃に巨人・甲斐が爆笑〝塩回答〟
+      <a href=https://news.yahoo.co.jp/articles/932b3d452459230421d5855800f7a3ce81bb7f47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000093-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 自公が物価高対策の「給付」で一致　現金とマイナポイント案、赤字国債発行せず税収増活用
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f8e0187256e3d7b42600edad59dbed895e48d6e21cce1d4ab0b6a2e495321e94.jpg> 不信任案可決リスク 揺れる与野党
+      <a href=https://news.yahoo.co.jp/pickup/6541790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e406943d33de6d2584610da81a16e4d286fc03027113a405e091cb8a198eed36.jpg> 今年の梅雨は異例続き 大雨に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/05de9be23d7ac6db93d3b1fd5f34d9397b9147dac16eb8f85c3accda135b0a22.jpg> 日野自と三菱ふそう 統合に合意
+      <a href=https://news.yahoo.co.jp/pickup/6541765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f8e0187256e3d7b42600edad59dbed895e48d6e21cce1d4ab0b6a2e495321e94.jpg> 不信任案可決リスク 揺れる与野党
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/265b489123a7dddd9c4cf690f507ff336b63eec11e2b8c8b154bb8b0ef56a6d8.jpg> 免許センター ニホンカモシカ出没
+      <a href=https://news.yahoo.co.jp/pickup/6541784>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02243400/title-1749538529056.jpeg?exp=10800> アップル次期OS発表 どう変わる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/soichiromatsutani/02243310/title-1749533816692.jpeg?exp=10800> ジュリー氏出版の本 倫理的問題は
+      <a href=https://news.yahoo.co.jp/pickup/6541736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/217490b1d862ecbbec9c545544818b2d1c967706a2b05e718288f4d6d9d25d89.jpg> ミスド新商品 売り切れ続出で謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 18:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 19:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
