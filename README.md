@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/631b3eedd594f97239f028aada8ac60d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24b77a7f341969d1a88b4ef4e6d68259.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6d16917e6bb50721d85ebf35b569500361f99ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、LAデモ取り締まりへ海兵隊700人派遣
+      <a href=https://news.yahoo.co.jp/articles/ec36062c5b3437acf39c03c91bc56389f16cbf3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967731-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=636&ch=636&exp=10800&fmt=webp> 梅雨前線が西日本に停滞 九州北部で線状降水帯発生のおそれ（福岡・佐賀・長崎・熊本・大分）【雨の動きシミュレーション】24時間雨量180mm予測　記録的豪雨に厳重警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1526e7ed0bb8b910db62c326f2c01719f8614091>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000012-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロス抗議デモ、米軍が海兵隊700人派遣へ　州兵派遣「違憲」と提訴
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/329b0cdeef5ebd165938a09c3e3260ea6a202dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000008-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏、地元の反対無視し強権発動　デモ鎮圧で州兵派遣　米軍「私物化」に懸念
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/156bcef8f9f131796461e1004700b18e292d18841cc938572f3d81bc9e0bbccb.jpg> LA抗議デモ 海兵隊700人派遣へ
+      <a href=https://news.yahoo.co.jp/pickup/6541726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c8db74dd0e67bdbaf4beeb8ed67c36dff2d7fd3cc78954d4af690832c172f1a0.jpg> 備蓄米20万トン追加放出と小泉氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/2d67bf6bfb09c2c886d20dadf773a522289a319ec308f785a6376adbef9bad04.jpg> 立憲 内閣不信任案見送りで調整
+      <a href=https://news.yahoo.co.jp/pickup/6541723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/246baf09a7cc5198de9db3992281559d5790487bf747bf4d07424799410d82d2.jpg> 広い範囲で雨 九州北部は厳重警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/156bcef8f9f131796461e1004700b18e292d18841cc938572f3d81bc9e0bbccb.jpg> LA抗議デモ 海兵隊700人派遣へ
       </a>
     </td>
   </tr>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/184821e79849b175f96f3ddb9fc8dc87ddbfaf85c0d1836cc1e693d6df2619a9.jpg> 国道に逆走車 衝突された27歳死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/8af3265e2875323a487d358045fad9bc5b7ea79de1d3802eb94b87a923d82a1c.jpg> 町施設で入浴停止 菌検出公表せず
+      <a href=https://news.yahoo.co.jp/pickup/6541719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53bdf5c82bc009773ad714640974a3c991bc3cd930f24cc7f16a76dcf456822e.jpg> 英小説家 フォーサイスさん死去
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ebd5512e72e23f3cefb5cc25cf1ad0563a1371b4997d5e0ef53faa04db7a3070.jpg> 家賃100万円も 福岡で高級賃貸増
+      <a href=https://news.yahoo.co.jp/pickup/6541724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/248c44dc396fe839d32f44fda8cc9b64f9ff7c8ec27345d071c2f214d89f9e6f.jpg> せいろ蒸しブーム 時短でヘルシー
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 09:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 09:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
