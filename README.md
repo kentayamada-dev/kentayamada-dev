@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb87c622ef5c4ff4a738c4919731954a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82951140c18d68bd86e5ee8be2fbb988.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b9731a898704ddb071795da6194c18d90dc3150>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90027003-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自公“一律数万円の現金給付”検討　なぜ再浮上？政治部記者が解説
+      <a href=https://news.yahoo.co.jp/articles/6a023e011c32ea9cb82855c074a91ca51b9f944e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984888-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民・公明「現金など給付」を参院選の公約に盛り込むことで一致　「1人数万円案」、「マイナポイント案」浮上…野党の消費減税案に対抗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99ac388fabe4b212ceca41de7904a5514c23347c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00985038-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フェラーリなどスーパーカー数台転売…大阪の医療法人元理事長（64）が約5億円の申告漏れ　3億円余り追徴課税　東京国税局
+      <a href=https://news.yahoo.co.jp/articles/78d93fc2b0c88496d7ecb8e59a0a3bfe01eae3e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969963-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「食と農を守ることは国防」“令和の百姓一揆”参加者の叫び…小泉農水相が備蓄米追加 20トン放出を発表【静岡】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65aa98d4044303744946b196410c4d2336c2605d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000139-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 「ラヴィット」出演アイドルが放送中に骨折　全治６週間も今後の仕事は「特段の支障はない」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5a14ceb4582933183acb9a39b795d2df6ac9740>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000197-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=667&ch=667&exp=10800&fmt=webp> G7首脳宣言、見送り公算大　トランプ氏と集約困難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0777a362c5b3b8929b1f982af3d5e2ffb0f3813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21969247-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> コメの値段はどうなる?“新米”争奪戦は愛知でも…農家が小泉大臣に訴えたい「本音」とは
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f8e0187256e3d7b42600edad59dbed895e48d6e21cce1d4ab0b6a2e495321e94.jpg> 不信任案可決リスク 揺れる与野党
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541791>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> オーストリア高校で乱射事件 報道
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/72032225676b140810e28614d24cb7e99ddfdce39f970a222e05d7ad8af7b40e.jpg> 「独身税」言い換えに三原氏反論
+      <a href=https://news.yahoo.co.jp/pickup/6541780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/01cb98250336e09b6d136b3c2130dd77fa94aa7a5708a32fe5cfa5c72fd3484b.jpg> 逮捕 日大重量挙げ部元監督の一面
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/53495db4cb2ec8fe7e66ec6ff6a0e8987ca2c19a4526c8cd272af7e070305c16.jpg> 車炎上した事故 死亡男性から薬物
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/ef80ef3c291683f957993421d529852c84b56846d17644e8af2b38c9aaad112e.jpg> 秋広と阿部監督が再会 愛のイジり
+      <a href=https://news.yahoo.co.jp/pickup/6541773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/518acbcca3d25ab54de5846e4d35417caaf96efb3e365ac28bd3b9f1825bf5ba.jpg> 速報・森保J インドネシア戦
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 19:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 20:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
