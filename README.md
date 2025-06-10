@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24b77a7f341969d1a88b4ef4e6d68259.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9eea9f8f9dd376ed6f1478b9366c5c14.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec36062c5b3437acf39c03c91bc56389f16cbf3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-21967731-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=636&ch=636&exp=10800&fmt=webp> 梅雨前線が西日本に停滞 九州北部で線状降水帯発生のおそれ（福岡・佐賀・長崎・熊本・大分）【雨の動きシミュレーション】24時間雨量180mm予測　記録的豪雨に厳重警戒
+      <a href=https://news.yahoo.co.jp/articles/18b71d1e0751e09f1e1b096f90944fa2ed1fbf4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】大阪・関西万博 7日に採取した水でも「レジオネラ菌」は基準超 前回調査から倍増 水上ショーは当面中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1526e7ed0bb8b910db62c326f2c01719f8614091>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000012-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロス抗議デモ、米軍が海兵隊700人派遣へ　州兵派遣「違憲」と提訴
+      <a href=https://news.yahoo.co.jp/articles/d139e1c1cfc5804be017dbc4ba025e072b8a09c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「州兵の派遣は違憲」　米カリフォルニア州、トランプ政権を提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87f1d45c6a26e48c27b219e0a7958c87508cf949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000104-spnannex-000-25-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「BTS」V、RMが除隊「待っていてくれたARMYに感謝」今月中に全員除隊へ　完全体復活は年末か
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/8de9d41e4c0d21053c0f00eabd6d1cab71e60bc7e774888ca94fbb9d56123360.jpg> 「一撃講習」悪質ホストの手口
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541717>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iderumi/02242752/title-1749500079158.jpeg?exp=10800> 「賞味期限切れ」の水 捨てないで
       </a>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/a77ce15a9d36f50a120b968dbcdc9579a4f66c43a7b0d103621bdd7e19c0ab9f.jpg> 空の6つの現象が1枚の写真に 驚き
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 09:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 10:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
