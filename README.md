@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91b0b6fde2cf95675d704fa43eb5f744.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9046abd4664a3086a5f6dd3b6b5ed155.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/122779a44a9652abe965f94ddd9bdda299a5b235>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000110-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=1134&ch=1134&exp=10800&fmt=webp> 国宝「金銅製矛鞘」に象眼文様を確認　「海の正倉院」沖ノ島出土
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1894d9f569256e6043f3282633491f9856f1c854>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自公が「給付」に再びかじ、他に公約の目玉見当たらず…改選迎える議員「選挙戦う武器ない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00050154-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自公が「給付」に再びかじ、他に公約の目玉見当たらず…改選迎える議員「選挙戦う武器ない」
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bf539cf4033dc59cd8451b6bd744cce78852d2c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90040783-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “古古古古米”の売り渡しも決定…備蓄米放出で今後コメの価格の見通しは？専門店「相場に動きが出ている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64ab90f96d84750ea3c14c989f82e19f64cddb3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-08625254-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 混乱続くLA暴動…海兵隊も派遣へ　NYでも警察とデモ隊が衝突　不法移民取り締まりへの抗議デモ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/932b3d452459230421d5855800f7a3ce81bb7f47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000093-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 自公が物価高対策の「給付」で一致　現金とマイナポイント案、赤字国債発行せず税収増活用
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6187ba98431d75b1c77f15d42e8498054c66884d6076f481ff856af2b2dddd01.jpg> 自公の現金給付案 なぜ再び浮上
+      <a href=https://news.yahoo.co.jp/pickup/6541807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c54081236b55c86e91baf6c4322936e86f9b357d39273c8c11db45954c859356.jpg> 小泉氏 備蓄米など転売規制を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/eaca16323d202afc6f29a6b4b62d4b15c2f73d52da048e7fb803a1d9815fcb9c.jpg> オーストリアの高校銃撃 10人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/fa927571b54a2119b97bdc263909feb4829031e30c6ee724082e511f8fa6a3c9.jpg> 与党 現金給付1人3～4万円案浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/78077e8d0e5b52fe321649a60426827ccbae06900ff45c1fbd53cc9326242b5b.jpg> 財政難も市幹部は接待受け 怒る声
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541781>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/aee73932b9ffbd420597d9e80d934c6aba1e9d7395e3a0c1ff8b4af4ff651307.jpg> 高級車を転売 5億円申告漏れ指摘
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 22:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 23:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
