@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81a6d609f4bca25e20e4af469d4ded05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc5252a3aeafdd513d8b353eaee48ec1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a6344c7f17db082d4d876080d8c31e748882753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000190-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=1035&ch=1035&exp=10800&fmt=webp> 【柔道】引退ウルフ・アロン　ベストバウトは「東京五輪の決勝」趙グハムから大内刈り一本
+      <a href=https://news.yahoo.co.jp/articles/dbe28c1ac605206df5162bc7bda2a7bf0825d90a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000200-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=997&ch=997&exp=10800&fmt=webp> 銘柄米の店頭価格、下落近い？　識者が予測「政府の狙い通り、銘柄米の不足感がなくなってきている」
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a64bb891cf113e1ec1456ef49d883f1e050db50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000010-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ご都合主義が過ぎている」国民・玉木代表、自公「給付」を猛批判　「減税で国民に返すべき」
+      <a href=https://news.yahoo.co.jp/articles/0dc198ecf1bd182766007f15feb4d7ce03cdd051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-90026990-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> お笑いコンビ「ネイチャーバーガー」、オンカジ問題をきっかけに解散
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbf0295174a78a517bfdda6ed11fa525ca42d1f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984556-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ニワトリさんが一番食べる」立憲・原口議員の“古古古米発言”に身内からも苦言　米輸入に「舵切ったとは言っていない」野党追及に小泉農水相が否定
+      <a href=https://news.yahoo.co.jp/articles/8a64bb891cf113e1ec1456ef49d883f1e050db50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000010-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ご都合主義が過ぎている」国民・玉木代表、自公「給付」を猛批判　「減税で国民に返すべき」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/e4c4977e33da50d49697caea37aa036c807c350fe8fe22ba45e13b602a1fff5d.jpg> 九州北部 夕方にかけ大雨災害警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b879ea9e843872863f47d2115be2998f71fb73112cfe6388bb9095dc96e68b2b.jpg> 梅雨入り早々に災害級大雨 警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/9bb84669631a1d9d4da33ecdc025d70e638da368fcda620ff278872c8169d63b.jpg> 南海トラフ死者8割減目標に 政府
+      <a href=https://news.yahoo.co.jp/pickup/6541743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/9ae70ab37f7a3b0cfeb77588cb1ca77794d73fe6c043bc5d4185f2755c1a8918.jpg> カレー物価 備蓄米で最大2割安か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/d21f4768e5f4770d57c612c293cb35816d95753fa8c38681e459c9092c3bfcdf.jpg> 来来亭・浜松幸店 異物混入で休業
+      <a href=https://news.yahoo.co.jp/pickup/6541759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c5871786ce08d05f8fec8856efb9bf5d237eb3607d5f45622136de7963e2428b.jpg> ウルフ引退会見「表に立ちたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c5871786ce08d05f8fec8856efb9bf5d237eb3607d5f45622136de7963e2428b.jpg> ウルフ引退会見「表に立ちたい」
+      <a href=https://news.yahoo.co.jp/pickup/6541761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/35633d3a06b888b600db5f23d4c3659b8cc0c5e1b09c425ffc35a49f4b444fb4.jpg> オンカジ問題から復帰 コンビ解散
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 15:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 15:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
