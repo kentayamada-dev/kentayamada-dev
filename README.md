@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/607c719fb1c8e4c1160889a1ee45cdb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ef010cfd4af8c297637afdc69b0868f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/775bf7299e279b6dfdc064a30baa060f8dd0c166>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000005-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 抗議デモ激化のロサンゼルス　海兵隊700人が到着
+      <a href=https://news.yahoo.co.jp/articles/644266a0fd67a67fd2485e165e4c8edab1351dff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 夏の選挙の争点は「コメ政策」になる？政治ジャーナリストが各党の立ち位置を分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e55cc112b00fd75b89d5e947dd440e248de8e22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000113-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 大谷翔平が術後3度目のライブBP登板　ダルビッシュが見守る中、術後最多44球で圧巻6奪三振
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20c1cb1ab189336ae3101590409810153370daee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234084-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏「危険なくなるまで州兵駐留」　米ロス移民摘発抗議デモ
       </a>
     </td>
   </tr>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/fa927571b54a2119b97bdc263909feb4829031e30c6ee724082e511f8fa6a3c9.jpg> 与党 現金給付1人3～4万円案浮上
+      <a href=https://news.yahoo.co.jp/pickup/6541823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9c600638781cb2ba00a55f5bd12515acbabde2955e51d6413ee0d5e7bf3ed3aa.jpg> 送還のグレタさん イスラエル批判
       </a>
     </td>
   </tr>
@@ -410,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02243031/title-1749521903226.jpeg?exp=10800> 万博会場で菌も レジオネラ症とは
+      <a href=https://news.yahoo.co.jp/pickup/6541822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2ffa765b775f7e6aa3b47e2063f8c111a504c86f127882f75c09d654455c3337.jpg> 中古車店が突然閉店 納車トラブル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/7d2d6b3f2f518ff483b9231ab935c4851864668f3fba664f50cac421a12bc1b6.jpg> インドネシア監督 森保Jに脱帽
+      <a href=https://news.yahoo.co.jp/pickup/6541824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f7981992d6dbef61655cb3f8669bc2b05335a7cb3a41b714ec949f2187202b17.jpg> 大谷 ダルの前で奪三振ショー
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 06:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 07:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
