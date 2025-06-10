@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QzJO__jigDQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b0487a5034ead64a69cb4ce8320af0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa0342a3a5c91571cafbedf457b464c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1f188b9ae820c5c39132f6cae060b69de50c12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日大重量挙げ部の元監督逮捕　奨学生から現金詐取疑い、警視庁
+      <a href=https://news.yahoo.co.jp/articles/06a68f88a936f94c8c6c052f64b9d94871faf5b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米LAの抗議デモに海兵隊700人派遣へ　知事は反発「挑発だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18b71d1e0751e09f1e1b096f90944fa2ed1fbf4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-05265273-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博　7日に採取した水でも「レジオネラ菌」基準超　前回調査から倍増　水上ショーは当面中止
+      <a href=https://news.yahoo.co.jp/articles/5d6a59f42367724285ea23d493953ef96fcaf591>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000026-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本大学重量挙部の元監督逮捕　授業料名目などで現金だまし取った疑い　警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b7289384f86c7ddc417e21f72507ff084872788>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロス抗議デモに海兵隊員700人派遣　州知事はトランプ氏提訴「挑発行為であり不要だ」
+      <a href=https://news.yahoo.co.jp/articles/44d9f3f424f630b0c839b277b3facb44d1d2b48d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-06101032-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 「本当に全部出すつもり…そこまでして下げようとしている」…小泉進次郎農相「備蓄米」さらに「２０万トン放出」表明…「モーニングショー」玉川徹氏が見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/319766175c9347f125b71499c431a26876e0bbfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182733-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=779&ch=779&exp=10800&fmt=webp> スーパーのコメの平均価格、2週連続で値下がり 小泉大臣「スピード感を緩めず」
+      <a href=https://news.yahoo.co.jp/articles/1bec7b65713f146896fec105b6d363e788e5c385>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984625-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲・野田代表「バラマキ批判で引っ込めたのでは?」自民の現金給付案“再浮上”に苦言「無策では参院選乗り切れないと追い込まれたか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e65a08a35be54ff3f796f1fb7caab2bdd2c6e4a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00984623-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 負傷兵・若い兵士の捕虜交換を実施「数日間にわたり段階的におこなわれる」人道面での取引き進む一方でロシア軍がウクライナ東部へ進軍…停戦の見通しは立たず
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c8db74dd0e67bdbaf4beeb8ed67c36dff2d7fd3cc78954d4af690832c172f1a0.jpg> 備蓄米20万トン追加放出と小泉氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541723>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/246baf09a7cc5198de9db3992281559d5790487bf747bf4d07424799410d82d2.jpg> 広い範囲で雨 九州北部は厳重警戒
       </a>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b0b82a23cfa1bce873f9a4db641e04c4705851e38169db7eb3230412a17cb248.jpg> 1人数万円給付 自民公約の方針
+      <a href=https://news.yahoo.co.jp/pickup/6541726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/c8db74dd0e67bdbaf4beeb8ed67c36dff2d7fd3cc78954d4af690832c172f1a0.jpg> 備蓄米20万トン追加放出と小泉氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/f872652ec1321c2d988c4c92a50c1d79092a611804490942bdfce6631f98e5c7.jpg> 支援船のグレタさんら送還へ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/248c44dc396fe839d32f44fda8cc9b64f9ff7c8ec27345d071c2f214d89f9e6f.jpg> せいろ蒸しブーム 時短でヘルシー
+      <a href=https://news.yahoo.co.jp/pickup/6541732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/acbd87a250a06d099719c4ab2c65444f782e6b56ed4a10f5981026c3b9013fe8.jpg> iPhoneフィルム自動貼り機 話題
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 10:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 11:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
