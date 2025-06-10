@@ -1,8 +1,8 @@
 'use client';
 
 import { motion } from 'motion/react';
-import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { CustomNextLink } from '@/components/designSystem/atoms';
 import { getDateString } from '@/utils';
 import type { HomeArticleListType } from './types';
 
@@ -33,7 +33,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
                   ease: 'easeOut'
                 }}
               >
-                <Link className='bg-primary hover-primary w-full rounded-lg p-3' href={article.href}>
+                <CustomNextLink className='bg-primary hover-primary w-full rounded-lg p-3' href={article.href}>
                   <article className='flex flex-col gap-y-3'>
                     <div className='flex items-center gap-x-2'>
                       <div className='h-3 w-0.5 rounded-full bg-blue-500' />
@@ -48,7 +48,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
                       <div className='size-1 rotate-45 border-t-2 border-r-2 border-blue-500 p-1' />
                     </div>
                   </article>
-                </Link>
+                </CustomNextLink>
               </motion.div>
             );
           })

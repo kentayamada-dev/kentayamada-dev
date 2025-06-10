@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { CustomNextLink } from '@/components/designSystem/atoms';
 import { LinkIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
@@ -32,14 +32,14 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
 
     return (
       <Tag className='group relative flex items-center' id={headingId}>
-        <Link
+        <CustomNextLink
           // eslint-disable-next-line @typescript-eslint/no-base-to-string, @typescript-eslint/restrict-template-expressions
           aria-label={`${articles.permalink}: ${props.children}`}
           className='absolute -left-5 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
           href={`#${headingId}`}
         >
           <LinkIcon />
-        </Link>
+        </CustomNextLink>
         {isFootnotes ? articles.footnotes : props.children}
       </Tag>
     );

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { CustomNextLink } from '@/components/designSystem/atoms';
 import { EyeIcon, HeartIcon } from '@/components/icons';
 import { formatNumber } from '@/utils';
 import type { UtilitiesListType } from './types';
@@ -8,7 +8,7 @@ const UtilitiesList: UtilitiesListType = (props) => {
     <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
       {props.utilities.map((utility) => {
         return (
-          <Link className='bg-primary hover-primary rounded-lg p-3' href={utility.href} key={utility.href}>
+          <CustomNextLink className='bg-primary hover-primary rounded-lg p-3' href={utility.href} key={utility.href}>
             <article className='flex min-h-60 flex-col'>
               <h2 className='text-primary text-2xl font-bold'>{utility.title}</h2>
               <p className='text-secondary mt-2 text-base'>{utility.subtitle}</p>
@@ -27,7 +27,7 @@ const UtilitiesList: UtilitiesListType = (props) => {
                 </div>
               </div>
             </article>
-          </Link>
+          </CustomNextLink>
         );
       })}
     </div>

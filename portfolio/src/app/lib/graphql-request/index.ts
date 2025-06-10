@@ -1,5 +1,6 @@
+'use cache';
+
 import { gql } from 'graphql-request';
-import { cache } from 'react';
 import { apiRequest } from './client';
 import type {
   AboutResponseType,
@@ -30,7 +31,7 @@ import type {
   GetUtilityBySlugType
 } from './types';
 
-const getProjects: GetProjectsType = cache(async () => {
+const getProjects: GetProjectsType = async () => {
   let pinnedRepos: ProjectItemsType = [];
   let cursor: string | null = null;
 
@@ -70,9 +71,9 @@ const getProjects: GetProjectsType = cache(async () => {
   } while (cursor !== null);
 
   return pinnedRepos;
-});
+};
 
-const getSitemap: GetSitemapType = cache(async () => {
+const getSitemap: GetSitemapType = async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -98,9 +99,9 @@ const getSitemap: GetSitemapType = cache(async () => {
   const utilityItems = (await apiRequest<SitemapResponseType>('contentful', query)).utilityCollection.items;
 
   return { articleItems, utilityItems };
-});
+};
 
-const getArticleSlugs: GetSlugsType = cache(async () => {
+const getArticleSlugs: GetSlugsType = async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -114,9 +115,9 @@ const getArticleSlugs: GetSlugsType = cache(async () => {
   const articleSlugs = (await apiRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
 
   return articleSlugs;
-});
+};
 
-const getMetadata: GetMetadataType = cache(async (locale, id) => {
+const getMetadata: GetMetadataType = async (locale, id) => {
   const query = gql`
     query Query($where: MetaDataFilter!, $locale: String!) {
       metaDataCollection(where: $where, locale: $locale) {
@@ -150,9 +151,9 @@ const getMetadata: GetMetadataType = cache(async (locale, id) => {
   }
 
   return metadata;
-});
+};
 
-const getArticles: GetArticlesType = cache(async (locale) => {
+const getArticles: GetArticlesType = async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [ArticleOrder]!) {
       articleCollection(locale: $locale, order: $order) {
@@ -178,9 +179,9 @@ const getArticles: GetArticlesType = cache(async (locale) => {
   ).articleCollection.items;
 
   return articles;
-});
+};
 
-const getContact: GetContactType = cache(async (locale) => {
+const getContact: GetContactType = async (locale) => {
   const query = gql`
     query Query($locale: String!) {
       contactCollection(locale: $locale) {
@@ -203,9 +204,9 @@ const getContact: GetContactType = cache(async (locale) => {
   }
 
   return contact;
-});
+};
 
-const getUtilities: GetUtilitiesType = cache(async (locale) => {
+const getUtilities: GetUtilitiesType = async (locale) => {
   const query = gql`
     query Query($locale: String!, $order: [UtilityOrder]!) {
       utilityCollection(locale: $locale, order: $order) {
@@ -233,9 +234,9 @@ const getUtilities: GetUtilitiesType = cache(async (locale) => {
   ).utilityCollection.items;
 
   return articles;
-});
+};
 
-const getAbout: GetAboutType = cache(async (locale) => {
+const getAbout: GetAboutType = async (locale) => {
   const query = gql`
     query Query($locale: String!) {
       aboutCollection(locale: $locale) {
@@ -263,9 +264,9 @@ const getAbout: GetAboutType = cache(async (locale) => {
   }
 
   return about;
-});
+};
 
-const getArticleBySlug: GetArticleBySlugType = cache(async (locale, slug) => {
+const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   const query = gql`
     query Query($where: ArticleFilter!, $locale: String!) {
       articleCollection(where: $where, locale: $locale) {
@@ -297,9 +298,9 @@ const getArticleBySlug: GetArticleBySlugType = cache(async (locale, slug) => {
   }
 
   return article;
-});
+};
 
-const getUtilityBySlug: GetUtilityBySlugType = cache(async (locale, slug) => {
+const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   const query = gql`
     query Query($where: UtilityFilter, $locale: String) {
       utilityCollection(where: $where, locale: $locale) {
@@ -334,9 +335,9 @@ const getUtilityBySlug: GetUtilityBySlugType = cache(async (locale, slug) => {
   }
 
   return utility;
-});
+};
 
-const getFaqs: GetFaqsType = cache(async (locale, id) => {
+const getFaqs: GetFaqsType = async (locale, id) => {
   const query = gql`
     query Query($locale: String!, $order: [FaqOrder]!, $where: FaqFilter!) {
       faqCollection(locale: $locale, order: $order, where: $where) {
@@ -360,7 +361,7 @@ const getFaqs: GetFaqsType = cache(async (locale, id) => {
   ).faqCollection.items;
 
   return articles;
-});
+};
 
 export {
   getAbout,
