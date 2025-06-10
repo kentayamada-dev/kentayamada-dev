@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f77ac388380cb0ed7df97cc9b26c40af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/256b8d723dedc0b159858460f257e090.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d74ddda32649caa54fb6dcc19856ef651e1cc026>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000104-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 自民参院選公約、1人数万円の給付金明記へ＝関係者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da8eb9234080b94af5816bf99a42a95e849b4855>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000238-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 金子恵美氏　コメ卸業者間の取引価格下落に指摘「お米がなかったわけではないということです」
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e3bd1d866590f573e0528054655335efd96fa2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000065-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> イスラエル、グレタさんを送還　飛行機でフランスに向かう
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bd4354f2df4c356d4f895c3280825dc210b89b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000099-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> アングル：ＬＡデモ対応、トランプ氏に追い込まれるニューサム加州知事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c24fd510f9fbfa7483ea6140024448664af6be85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-01764309-fullcount-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 楽天の新外国人ゴンザレス昇格、マイナー通算105発　メジャー95発のボイトも獲得で打線強化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a64bb891cf113e1ec1456ef49d883f1e050db50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000010-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ご都合主義が過ぎている」国民・玉木代表、自公「給付」を猛批判　「減税で国民に返すべき」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000099-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> アングル：ＬＡデモ対応、トランプ氏に追い込まれるニューサム加州知事
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/b879ea9e843872863f47d2115be2998f71fb73112cfe6388bb9095dc96e68b2b.jpg> 梅雨入り早々に災害級大雨 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6541776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3880f464ece0ecd0387ffb36477c4f5f7bfed818e22e94623d23bf64371b950a.jpg> 九州で断続的に大雨 厳重警戒を
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/851cd2308e471efbd3dfbe06227ade49637025a4f0df6920b5873454a1d5edd0.jpg> コメ緊急輸入の可能性 生産者不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/69889f5349b390f800f849b9cb6f506a4f82a3c5960fcc5d60ccaf6a0965bdf7.jpg> 原口氏古古古米発言 残念と小泉氏
+      <a href=https://news.yahoo.co.jp/pickup/6541775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/72032225676b140810e28614d24cb7e99ddfdce39f970a222e05d7ad8af7b40e.jpg> 「独身税」言い換えに三原氏反論
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/9560300e9f85113ad2dbe91c922e389a705cb849d6d2cc955196a274879c9c56.jpg> 子11人の家族 物価高もにぎやかに
+      <a href=https://news.yahoo.co.jp/pickup/6541779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/af46ac4e6ba47ae1adf3ef66c5ff247ff020433554b8ae3c8ad04b3ee3ea2e5b.jpg> JR東 新たな夜行特急列車導入へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/3f0c2493490427bcc2e4f88f968ea6a3a972ec8ccc86a5f4a94246ddb045c674.jpg> 楽天 20年ア・リーグ本塁打王獲得
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 16:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 17:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
