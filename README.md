@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCbIJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/256b8d723dedc0b159858460f257e090.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b77dcefb6aa217601041dda2a250667.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0808ad90f81c26481effea3d63e54ea512cb7bc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00318545-netdenjd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 日野と三菱ふそう、経営統合で最終合意　新会社を来年4月上場　議決権はトヨタ19.9％、ダイムラートラック26.7％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2e7e8114b3cf24c9d77508f8836dd927d745db5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-10182829-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=981&ch=981&exp=10800&fmt=webp> G7サミット 共同声明見送りへ トランプ大統領との対立回避で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06cc5a52d2998e46344baa33f3f6010d816cbf8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-11648938-ksbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 5kg4299円…入札の備蓄米が岡山でも販売開始　店は心配「売れなかったらお総菜コーナーで」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d74ddda32649caa54fb6dcc19856ef651e1cc026>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000104-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 自民参院選公約、1人数万円の給付金明記へ＝関係者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da8eb9234080b94af5816bf99a42a95e849b4855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000238-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 金子恵美氏　コメ卸業者間の取引価格下落に指摘「お米がなかったわけではないということです」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e3bd1d866590f573e0528054655335efd96fa2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000065-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> イスラエル、グレタさんを送還　飛行機でフランスに向かう
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bd4354f2df4c356d4f895c3280825dc210b89b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250610-00000099-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> アングル：ＬＡデモ対応、トランプ氏に追い込まれるニューサム加州知事
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541763>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日米関税交渉 トヨタ協力案が浮上
+      <a href=https://news.yahoo.co.jp/pickup/6541783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/05de9be23d7ac6db93d3b1fd5f34d9397b9147dac16eb8f85c3accda135b0a22.jpg> 日野自と三菱ふそう 統合に合意
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541769>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 住宅に約150匹ネコ死骸 刑事告発
+      <a href=https://news.yahoo.co.jp/pickup/6541778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/7f4860cd3e3afda27f72799e55f46454e47a878128a3f019ff562f019dd6588c.jpg> グレタさん イスラエルから送還
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/af46ac4e6ba47ae1adf3ef66c5ff247ff020433554b8ae3c8ad04b3ee3ea2e5b.jpg> JR東 新たな夜行特急列車導入へ
+      <a href=https://news.yahoo.co.jp/pickup/6541781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/10/6f794647c7fdcb11769a197a3f60671470382ab92ed82756e5edd245a5becf69.jpg> 喉から鍵 死因コロナと診断で提訴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/10 17:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/10 17:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
