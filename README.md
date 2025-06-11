@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10551f6b1e32128de8e575c5a2a16b38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e0ff185f9ac6e0b83c916210dbfe144.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d9f08b1469a05cd70b1567239527fea1659558e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000071-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 最高検も違法捜査を検証へ　警察・検察がおわび　大川原化工機冤罪
+      <a href=https://news.yahoo.co.jp/articles/7280220bc58106e878503e489d7436c9f978dc45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110471-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> NPBに公取委から独禁法違反の恐れとして警告通知　フジテレビから日本シリーズ取材証を没収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f809dda620ece4ad89740b405f902a10c1036e46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000243-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マチャド　3安打5打点で今季4度目2桁得点の猛攻演出「自分たちの野球を続けることができている」
+      <a href=https://news.yahoo.co.jp/articles/3df73abc0a88edd44d66d2c54f75342e63c880c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 午後3時のドルは145円近辺へ小幅高、米中協議後は売買交錯　膠着感も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71220e4e179104de4e4f1df9a27afa075b16ba5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 米中貿易協議 合意した内容を着実に実行する「枠組み」で一致 米商務長官「解決に向かう」
+      <a href=https://news.yahoo.co.jp/articles/e92d4e5b3ac137442ceccaf87aefc91139b5800d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00097796-thedigest-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャースが26歳右腕を“酷使”。111球９失点の大炎上も異例の続投...地元記者は驚きと苦言「尻拭いをする羽目になった」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/bcfc875fb4fabf1060ad967311ec64abf0425b446fde551496c1f940df05621f.jpg> 雨の中さまよう2歳 保護した男性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e16cdbac7fdb53bed4a725d8b219f18e5456ca82db70c44f89ad8a9ce89db46d.jpg> 即退職する新入社員 企業の対策は
+      <a href=https://news.yahoo.co.jp/pickup/6541883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/839e25b3ea82ff756246f5dd5f6f7ebbca80219b1e33249475c9eabf4ec89168.jpg> 日大元監督 コーチの進言を無視か
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/63f110ba11e15693023cd63d0b18c22ac87254db7d8cc8036b24de69edc597af.jpg> ジャッジが24号特大HR 敵地騒然
+      <a href=https://news.yahoo.co.jp/pickup/6541879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f45a749286f82946ab697c705e9dabed9fa8ff9d2524d30d0c1ca0a1d52e9421.jpg> 耳の中にもカビ 梅雨の時期は注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e1df41c3a0b6d9a2a6c1a5205667d558077a7ceea85abcdebce205baff9652fc.jpg> 取材証没収巡りNPBに警告 公取委
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 15:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 16:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
