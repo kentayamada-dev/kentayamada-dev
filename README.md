@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26225027991338e270670c079f26b44e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/452530c34f207c69d7dcb6cfe6996238.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80eacc383b68761131760941567a68258f2be2b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121030-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「どうやら美人局を企てたとみられます」…名古屋市内ホテル強盗殺人「１９歳の女」逮捕…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝える「逮捕者が３人になりました」
+      <a href=https://news.yahoo.co.jp/articles/d2068ddf3d6bb3a29e76b8c293dba4c7b8ba889a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000124-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1142&ch=1142&exp=10800&fmt=webp> 大谷翔平　今季ワースト9戦不発も三塁打でダメ押し点演出　今季2度目の8戦連続安打　パ軍に勝ち越し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63a7d6078783e280ef38f071ae0bc9bd2772bc46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000260-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平VS松井裕樹は空振り三振　4打席凡退…六回にT・ヘルナンデスが勝ち越し3ラン
+      <a href=https://news.yahoo.co.jp/articles/234c30501ab1ac51e02590fd2c059fd529a177e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010000-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 大谷翔平、9回に三塁打で8戦連続ヒット！ド軍逆転勝利でパドレスにカード勝ち越し　T.ヘルナンデスが決勝3ラン
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d8fe839af950a23fc29d36c6d59b7d05f24d11dae7812e1897886f907f261a4b.jpg> 中国戦闘機 海自機に45mまで接近
+      <a href=https://news.yahoo.co.jp/pickup/6541939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5f8f6c8881409efca6e9e7d95ade114d72a57170155cd9cde4025de370ebd02.jpg> 国連 40機関以上の統廃合を検討
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3aff4f0eba2691f26b3074530fccfe7eb52a153d0871943b965e5736e2ba4d80.jpg> 唐揚げ一つの給食 批判受け改善へ
+      <a href=https://news.yahoo.co.jp/pickup/6541940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cfe05af6b827a20595cc317029fb31f597be15ecda4940e6db0e2b599f0e56ad.jpg> トランプ氏 マスク氏の投稿を評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/04acefd560173a0cecb35b546e5b7b9e01ba2a7a41d479d2735779831142d6d8.jpg> 韓国で過熱「身長」ビジネス
+      <a href=https://news.yahoo.co.jp/pickup/6541941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3aff4f0eba2691f26b3074530fccfe7eb52a153d0871943b965e5736e2ba4d80.jpg> 唐揚げ一つの給食 批判受け改善へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0a33fe4b2ebfe4d7dbbfcf7a708b953d9a98a7c1565f16db90e18bc51bdbb256.jpg> Beach Boysのウィルソンさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6541943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/8b68b5f6ef673e90c46d129065732acefd4a1607efc6c3eb891f6876fe9e1060.jpg> 本田真凜 映画で俳優デビュー発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 07:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 08:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
