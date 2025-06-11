@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/221f532fa52668425554d5e994238416.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/695f6f4aff0a20412006ce0427b2c26c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fef775dbd07587332079e4628c580ca3f3e243a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183098-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 一体、何が起きた？ 大谷翔平、牽制された直後に“まさかの光景”「何してんだよw」予想外のリアクションが話題に「面白すぎる」
+      <a href=https://news.yahoo.co.jp/articles/c10687d484c6eb0233c0661046ce722587302fc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000144-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「サムライトルーパー」草尾毅が続編を応援、旧作も「今日からまたよろしく」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19cfeb91783ed3371c376839fa9f6ac460045b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000217-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平　ライブBP4時間後のパドレス戦で7戦連続安打も…37打席ノーアーチ
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56df89482792eeefa5b15acb9a8372c59a2d737b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000067-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1458&ch=1458&exp=10800&fmt=webp> ＜鎧伝サムライトルーパー＞岡本英郎が明かす“鎧擬亜”デザイン秘話　草尾毅「色あせない斬新なデザイン」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b3dcb920a6309fad29f04e3cac633efc4ce6e4a5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-11649323-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 国民・玉木代表「擁立した私にも責任」山尾志桜里氏に公認取り消し伝える　反応明かさず「相手があること」
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2399ec7e0fbd2c3fb9505bb7833cda7a1ba6d113033b11276dfb908ed65f4817.jpg> 全国民に2万円 与党の給付案判明
+      <a href=https://news.yahoo.co.jp/pickup/6541926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d807019a26853c2b869da8ba002a7223c1436bdb811be86ab1759ac00b146aa8.jpg> 立憲党内 不信任案見送り論強まる
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541921>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2db3172699d11c6fac867f42cd169ee7cdad02c33b476e4b32c0df8a23590e0f.jpg> 山尾氏の公認見送り 玉木氏が説明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/dd52f2f6978391bf8bc77c19ba1b31919d837c47d7040e5dd9746c5b51dc0db3.jpg> マスク氏 トランプ氏批判を後悔
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/1a487957a1700082e180e6851387a70974d41a2f3cc4f66a2bfec65a2f48c6b3.jpg> サムライトルーパー 37年ぶり新作
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 23:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 23:52:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
