@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/NMj-PuzhUHM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20fd89f773024617ae5464c177826af7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23db7f688e676eb63daa1783515cd638.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67b877e30e38846cb4820181296b71de6daf33c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234102-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 移民摘発に抗議のデモ、全米に拡大　ＮＹやシカゴでも
+      <a href=https://news.yahoo.co.jp/articles/069476da8583d41270e88f6a5523490a51c4272f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000052-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原油先物は下落、米中貿易協議の結果見極めへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/556433dc4ff4b2467b324de4764d964f2403656b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110248-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【韓流】BTSのJUNGKOOKとJIMIN、除隊時の言葉　「団結！」と敬礼で締める
+      <a href=https://news.yahoo.co.jp/articles/bb8a740e9fc7a4b203b0fcfdc93949fe2b1c78bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985188-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「気になる味は?」“古古古古米”初放出!備蓄米20トン追加販売へ…スピード優先の随意契約で地域差や不公平感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d01f8150fade7a3254388ebcd34f99c5c4973fe1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京円、144円台後半
+      <a href=https://news.yahoo.co.jp/articles/6fbd87db2a892eeee0ed0552c8089ef65bd90d3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182956-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 南シナ海で台風1号が発生 統計史上5番目の遅さ 列島でも大雨の恐れ
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/6b649d3cf002e085493f7e00d8b660ffeb3df24506038611b1b591fd7754d94b.jpg> 米中 貿易問題巡り枠組み合意
+      <a href=https://news.yahoo.co.jp/pickup/6541852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e873ff1b1aeae93790094a5bfa1037239e4becb1d3c10b341d7a4c039b04ff07.jpg> 21年産備蓄米 随意契約の申請開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/39bec190d13a2c3490eb169751c3964297dbf3739eb60093bbfd68cbecc8929e.jpg> 西日本中心に大雨 土砂災害に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/31383f46903435bd3b7bf010f06aecea11dd90737ee96f11c5dcc671ea74faf1.jpg> 株主提案が最多 経営に厳しい目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ddec385288a8040e5a74cc6fe450710b4d6eae9feabc5d5e104e212f7ae85ffc.jpg> 台風1号が発生 大陸に進む見通し
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/1de8e13e2b6db16057ac1b87dc65a3df30acd26fafe8d0e916a74afd44426d26.jpg> BTSのJIMIN&JUNG KOOKが除隊
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541843>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/795820c662b11c31574eed5d7622154ee497e76ccb9c2c252a19e9be94f6467a.jpg> VIVANT続編ロケ地は「超親日国」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 11:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 11:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
