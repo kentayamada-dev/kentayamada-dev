@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/313fcf8b3c99cbfbdb0c46412933e124.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5e7e73d8db666cf41e03e7a13d23b72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35cc836c2c023c483fdd74d43469563fdced6792>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36111852-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 「説明して終わりですか？」国民・玉木雄一郎代表に山尾志桜里氏擁立見送りの責任問う直球質問
+      <a href=https://news.yahoo.co.jp/articles/7d85cafbd0113293947b333c80928785ad2f752c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00011035-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「浅はかな判断」フジ“ムキムキ”山本賢太アナ、過去オンカジ利用…待ち受ける吉本芸人以上の厳しい今後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d602b119b692efa41b9adf899fcef1d0b9a4c123>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000225-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 山本由伸のブルペンにダルビッシュ有が視線送る　前日は大谷翔平のライブBP観戦　ダルは中1日で軽め投球
+      <a href=https://news.yahoo.co.jp/articles/af536d52594a358388ec8fd2875cb16e9df6fb28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が今季ワースト更新３８打席連続本塁打なし　１打席目空三振…９戦ぶり２４号なるか
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b2d601bed3338ea3cc191e3d98a26c753c203d3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000002-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=917&ch=917&exp=10800&fmt=webp> 中国空母監視中の海上自衛隊機に中国軍機が異常接近　7、8日の2度
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df128a05445aabafad6fd6ea2106f021b937c975>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90027142-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「やっと…」都と国が上告断念し謝罪も　『大川原化工機』めぐる冤罪事件
       </a>
     </td>
   </tr>
@@ -419,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a14af9c11e8e166664d2cc92073c57875cb9657f0d6dca4a7bbd0830af8941f2.jpg> 中国戦闘機 海自機に45mまで接近
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d8fe839af950a23fc29d36c6d59b7d05f24d11dae7812e1897886f907f261a4b.jpg> 中国戦闘機 海自機に45mまで接近
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 05:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 05:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
