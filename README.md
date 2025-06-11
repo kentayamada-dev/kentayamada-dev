@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08f913105e4afbe81d09f5b7220f0057.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/313fcf8b3c99cbfbdb0c46412933e124.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d82902bb5dfd8f2e993f4a068d2ce96c5ed6c87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121011-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ダルビッシュ有が山本由伸のブルペンに熱視線　メジャーの球場だから実現した“ツーショット”
+      <a href=https://news.yahoo.co.jp/articles/35cc836c2c023c483fdd74d43469563fdced6792>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36111852-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 「説明して終わりですか？」国民・玉木雄一郎代表に山尾志桜里氏擁立見送りの責任問う直球質問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d602b119b692efa41b9adf899fcef1d0b9a4c123>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000225-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 山本由伸のブルペンにダルビッシュ有が視線送る　前日は大谷翔平のライブBP観戦　ダルは中1日で軽め投球
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c147cd4233a5b427eaedadb58c69885b73e88cc1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242355-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今国会3回目の党首討論　消費税の減税等めぐり論戦　バラマキ批判に石破総理「侮辱は辞めていただきたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12ce430fa4cadba7d1cdf997b67a6e9326aff4b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 米、対中55％関税維持　中国との合意後も「変更なし」＝商務長官
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 04:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 05:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
