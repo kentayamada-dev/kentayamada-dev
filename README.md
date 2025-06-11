@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/becbec6ede0d4ad39a9c2fbea6cbc8a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08f913105e4afbe81d09f5b7220f0057.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d82902bb5dfd8f2e993f4a068d2ce96c5ed6c87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121011-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ダルビッシュ有が山本由伸のブルペンに熱視線　メジャーの球場だから実現した“ツーショット”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c147cd4233a5b427eaedadb58c69885b73e88cc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242355-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今国会3回目の党首討論　消費税の減税等めぐり論戦　バラマキ批判に石破総理「侮辱は辞めていただきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12ce430fa4cadba7d1cdf997b67a6e9326aff4b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 米、対中55％関税維持　中国との合意後も「変更なし」＝商務長官
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3672eb844efb2323ab0c1b1842236c91f3eda067>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121001-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平９戦ぶり２４号なるか、パドレス戦「１番ＤＨ」スタメン入り　負ければ３位転落危機
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e24de5540828b09bde717aa63601cf655c5e3fca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000000-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 中国軍機が自衛隊機に45メートルの近さまで接近
+      <a href=https://news.yahoo.co.jp/articles/9b2d601bed3338ea3cc191e3d98a26c753c203d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000002-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=917&ch=917&exp=10800&fmt=webp> 中国空母監視中の海上自衛隊機に中国軍機が異常接近　7、8日の2度
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 04:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 04:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
