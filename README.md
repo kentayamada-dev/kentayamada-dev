@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23db7f688e676eb63daa1783515cd638.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7adef0d806a49cc1b992d76ba2dc6944.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/069476da8583d41270e88f6a5523490a51c4272f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000052-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原油先物は下落、米中貿易協議の結果見極めへ
+      <a href=https://news.yahoo.co.jp/articles/f785acf4df63c93eb2b17caea375ee4ff1d57e66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-06111064-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=1052&ch=1052&exp=10800&fmt=webp> 大谷翔平の３度目実戦登板も合格点「次のステップに進むつもり」　首脳陣から絶賛の嵐
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb8a740e9fc7a4b203b0fcfdc93949fe2b1c78bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985188-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「気になる味は?」“古古古古米”初放出!備蓄米20トン追加販売へ…スピード優先の随意契約で地域差や不公平感
+      <a href=https://news.yahoo.co.jp/articles/d265a9a7c8f3e72d9ba856dd4a37cfd387ee23bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050061-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国のレアアース輸出規制、アメリカ側「解決されるだろう」…閣僚級協議終える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fbd87db2a892eeee0ed0552c8089ef65bd90d3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182956-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 南シナ海で台風1号が発生 統計史上5番目の遅さ 列島でも大雨の恐れ
+      <a href=https://news.yahoo.co.jp/articles/d94f5f75552491b7c45397cf15258f37f5906fc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000027-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 連日の大雨 九州で“観測史上最大の雨量”も　台風1号が発生 今後に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ac115c43f8749f3d5d8efc21199bce3e35ab298>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-06111038-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1103&ch=1103&exp=10800&fmt=webp> 大谷翔平の投手順調調整で悩むドジャース首脳陣の葛藤「誘惑される」球宴前復帰の可能性も
+      <a href=https://news.yahoo.co.jp/articles/e03c814e80d4e85c218ead4deff0e36527a37794>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050058-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 備蓄米の追加放出分、受け付け開始…３回目の放出で２０年産５ｋｇ１７００円の見通し
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/31383f46903435bd3b7bf010f06aecea11dd90737ee96f11c5dcc671ea74faf1.jpg> 株主提案が最多 経営に厳しい目
+      <a href=https://news.yahoo.co.jp/pickup/6541857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/afd1d448fe7b146273412e85f2237ad461e4fba6a30db1c2902677b6ba386ec5.jpg> デモ巡りLA一部に夜間外出禁止令
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4f466e7f94cafa1c4666fc5fd4d8ba91a368afe0434a5b7b01c82373b99675b4.jpg> ホテル強殺 19歳女から事情聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9e57db838d7235f802281b2d0641915db45a5699a517430398f917463df0cc49.jpg> オーストリア銃乱射 いじめ動機か
+      <a href=https://news.yahoo.co.jp/pickup/6541840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/31383f46903435bd3b7bf010f06aecea11dd90737ee96f11c5dcc671ea74faf1.jpg> 株主提案が最多 経営に厳しい目
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4bee7e44b56817f522c7cd2e67a15a3548103607d82d867e439dfae3851cf8c5.jpg> 投手大谷の球宴前復帰 監督が示唆
+      <a href=https://news.yahoo.co.jp/pickup/6541856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/caeb1deee13d312d4deeb78e668ffd9fbd789aadb2eb4e1eff8686b79c7e53de.jpg> 大谷の圧巻ライブBP ダル見守る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ec0a088cb561e4f8b6cdecbcac91194286289abb8387243390820948871505ae.jpg> 元キンプリ岩橋BL漫画の実写主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 11:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 12:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
