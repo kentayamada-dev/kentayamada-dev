@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c934665670b073439e3b1e74da6a7a38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a711b2b1923e94319fea10ff8d02550e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91cfe054c58cfff456bcec909a0b1c0405cf1942>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06111290-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1155&ch=1155&exp=10800&fmt=webp> 国民民主党一転…山尾志桜里氏の公認見送り　不倫疑惑など事実上の説明拒否文言連発に批判の声
+      <a href=https://news.yahoo.co.jp/articles/6e6a828b00d44d06b508ac413578fc755f04727c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06111286-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オンラインカジノ利用発覚のフジ・山本賢太アナが謝罪「自らを厳しく律してまいります」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afab4df4e852abc80063fc9f1efc837de6f6fc1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000235-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、第3打席は遊ゴロで40打席ノーアーチ　フリーマン前日に下半身負傷…野手陣も満身創痍
+      <a href=https://news.yahoo.co.jp/articles/fc4243670c8e501e5ae6d1c36ccba98f1de2c1d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-02368325-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】19歳の少女と男(23)を逮捕　美人局の手口でトラブルに発展か　名古屋・中区ホテル強盗殺人事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c79fe576e92796b976da399fb58b134c8e717293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120013-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> ビーチ・ボーイズのブライアン・ウィルソンさん死去「グッド・ヴァイブレーション」近年は認知症
+      <a href=https://news.yahoo.co.jp/articles/5f27990a37470c9847c58fce9777e4667895f0a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井裕樹がドジャース戦今季２度目登板　３連戦初戦は１回１失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4408312bba51a402d0cbeaaca9b9442312766d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 他州への軍派遣も示唆　米国防長官、抗議活動対応で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d85cafbd0113293947b333c80928785ad2f752c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00011035-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「浅はかな判断」フジ“ムキムキ”山本賢太アナ、過去オンカジ利用…待ち受ける吉本芸人以上の厳しい今後
+      <a href=https://news.yahoo.co.jp/articles/31507c5e1c1fff4546e328f2d551805f329d9462>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-11649335-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=640&ch=640&exp=10800&fmt=webp> 国民・玉木氏「遅かった」都議選、参院選前の山尾志桜里氏公認取り消し　責任の取り方問われ「厳しく受け止めたい」
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/6a17b5d03d6df62ec21faa427ca8047d912955159e966f96dea509786145aee7.jpg> ホテルで男性強殺疑い 19歳女逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541924>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京の病院 初の内密出産が判明
+      <a href=https://news.yahoo.co.jp/pickup/6541937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4fcbb76abdb37621641dc62388693bd5a53900103c725b484e741078a0922c2b.jpg> ホテル男性強殺事件 19歳女ら逮捕
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5a26483e76c9d9d984e704c45d0f0f2cdd801cf7e101b01618484944d058b3c.jpg> 福田秀平氏 マリナーズのコーチに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541934>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0a33fe4b2ebfe4d7dbbfcf7a708b953d9a98a7c1565f16db90e18bc51bdbb256.jpg> Beach Boysのウィルソンさん死去
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 06:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 07:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
