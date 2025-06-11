@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eaa210cdb6deb42e3d0685a388947139.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56e5dd4197001ca099aada9188341f15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a71175a8598910a49e0d5d5d4a79c4fdcda641ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010024-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=557&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本代表、インドネシアに6発大勝！ 海外メディアが称賛「3人の経験豊富な選手は、紛れもなく本物のスターだった」
+      <a href=https://news.yahoo.co.jp/articles/3e94a275ada13754f1255f9246f45f0b061b4def>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985577-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「備蓄米と銘柄米のブレンドで米全体の価格を下げよ」　橋下徹氏が小泉農水相の備蓄米放出のスピードに評価も”注文”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e723f1b1f94978a6c9958590bacf3204f68c770e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000072-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 90代男性の軽乗用車が逆走？中央道のトンネルで正面衝突、2人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ac3dc81c06d663eec570942606699e24726d7ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01076410-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表で存在感増す久保建英 だがワールドカップ本大会でもこの「タスク」は相応しいのか
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c890a0c930dc4c9d05609fcbb83add3dbb4682cb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000057-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=357&ch=357&exp=10800&fmt=webp> 「米中会談で貿易枠組みに合意」…米国はレアアースを得て半導体与えたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4db2ea7c904be913bc34f76163c6c3235efde0d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985531-fnn-000-2-view.jpg?pri=l&w=160&h=160&order=c2r&cx=74&cy=0&cw=160&ch=160&exp=10800&fmt=webp> 損保ジャパン　個人情報が最大1750万件漏えいの可能性　4月中旬のサイバー攻撃で顧客の住所・氏名・生年月日など流出か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea43cf2a0dda5f7d9195e1ceaae249552f017ed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000032-flash-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「事務所も注意しろよ」「番組は悪くない」ファンの複雑胸中…『ラヴィット！』放送中に人気アイドルメンバーが骨折
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6541897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2aa2ffff2c98db199cc52cbe20aeb1a2c0ae238f7dc4ed13dca366adb90b58b2.jpg> 損保J 最大1750万件の情報流出か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2aa2ffff2c98db199cc52cbe20aeb1a2c0ae238f7dc4ed13dca366adb90b58b2.jpg> 損保J 最大1750万件の情報流出か
+      <a href=https://news.yahoo.co.jp/pickup/6541900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/c5e98f26c6cda9096c4e4be3698d4c57799835d16f4f499fe8f911d14cf2078d.jpg> トンネルで逆走 正面衝突2人軽傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/652ddcb21acef01fa04e6bf34984903809888e907814055e57d0fd32bb5a688f.jpg> キャプテン翼 大空翼に息子が誕生
+      <a href=https://news.yahoo.co.jp/pickup/6541875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/55979ad6207527822af8d0ce1356206ee9ac9ae6bdddea975c5d34a9f13ccac2.jpg> 女性の甘党傾向 研究で原因解明
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/652ddcb21acef01fa04e6bf34984903809888e907814055e57d0fd32bb5a688f.jpg> キャプテン翼 大空翼に息子が誕生
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 18:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 18:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
