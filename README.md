@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4301ee9d19b22dcff341e5279fb71b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98d4b8aca0ad6ed9b34c3fff384ab6f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/813158027a6051aa41e5dc0a5532e353b863a508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-90030525-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 逆走車が衝突事故　運転していたのは90代男性　中央自動車道・恵那山トンネル　
+      <a href=https://news.yahoo.co.jp/articles/1fdf8f0f629a9aa7951a3bc964ce7fd8f12926c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00097814-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ド軍の“もう１人の二刀流”のピッチングをパ軍シルバー・スラッガーが絶賛？「今まで見たなかで一番厄介なカッター」「皮肉じゃない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf473111c977b5b58bfbd0ec900acc448269bc97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000006-gifuchan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 中央自動車道で逆走車が衝突事故　２人けが　岐阜県中津川市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2252f74e4e562a94b559153efb8eb2760de92bfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-90027088-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米きょうから“追加放出” 徹底調査！多くの人が買える？
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/159f6e4a844e6eff7d5fc9a4b255ed013064132e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242313-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 貿易問題めぐる米中閣僚級協議「双方の懸念の解決に向け新たな進展」中国メディア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e2877dc89e7b1b6c188cbf7e39ca4b936360be3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36111006-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> 苦しい投手陣…大谷翔平「待望論」ライブBPで11人に６K安打性０「非常にポジティブ」コーチ絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65da77a2f60a6d80c75557d4121dad8f9b42eafb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000065-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米追加放出・転売禁止…　政府の対策でコメの値段は下がるのか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242313-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 貿易問題めぐる米中閣僚級協議「双方の懸念の解決に向け新たな進展」 中国メディア
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/902656a5987e195d08eb23805183f9789bc56fcd4f35318fb6cea167e290949b.jpg> 大川原冤罪 警察・検察がおわび
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ac0dbc9c16a1279a8a7adb220ca25611fa8f73e63cc10adbccab6ca15646e662.jpg> 車部品大手マレリ 米破産法を申請
+      <a href=https://news.yahoo.co.jp/pickup/6541908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/77dd646b757bcc0cc6265a39c4e3902561d4fa33dab9eb9c707ca506c8f427ba.jpg> 首相 消費減税は「賛同しかねる」
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiimasumi/02243664/title-1749547552437.jpeg?exp=10800> 預けた猫亡骸で戻る 団体どう選ぶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541904>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e24c43cad5823352683dd99bc9f1abd31dc6629f465212114c3fb2861e97334b.jpg> 三山凌輝 婚約破棄は自分に落ち度
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 19:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 20:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
