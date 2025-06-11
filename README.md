@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7871fa4e268471b88643f1860285d854.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4301ee9d19b22dcff341e5279fb71b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65da77a2f60a6d80c75557d4121dad8f9b42eafb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000065-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米追加放出・転売禁止…　政府の対策でコメの値段は下がるのか
+      <a href=https://news.yahoo.co.jp/articles/813158027a6051aa41e5dc0a5532e353b863a508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-90030525-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 逆走車が衝突事故　運転していたのは90代男性　中央自動車道・恵那山トンネル　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3f7b67188da07ac79733c21ac2dbcefe7d3fdd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972466-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 中央道下り線の恵那山トンネルで軽乗用車が逆走　別の軽乗用車と正面衝突　2人がけが　逆走車は阿南町の90歳男性が運転
+      <a href=https://news.yahoo.co.jp/articles/159f6e4a844e6eff7d5fc9a4b255ed013064132e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242313-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 貿易問題めぐる米中閣僚級協議「双方の懸念の解決に向け新たな進展」中国メディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2e2877dc89e7b1b6c188cbf7e39ca4b936360be3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36111006-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1170&ch=1170&exp=10800&fmt=webp> 苦しい投手陣…大谷翔平「待望論」ライブBPで11人に６K安打性０「非常にポジティブ」コーチ絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65da77a2f60a6d80c75557d4121dad8f9b42eafb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000065-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米追加放出・転売禁止…　政府の対策でコメの値段は下がるのか
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ac3dc81c06d663eec570942606699e24726d7ce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01076410-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表で存在感増す久保建英 だがワールドカップ本大会でもこの「タスク」は相応しいのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c890a0c930dc4c9d05609fcbb83add3dbb4682cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000057-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=357&ch=357&exp=10800&fmt=webp> 「米中会談で貿易枠組みに合意」…米国はレアアースを得て半導体与えたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e92d4e5b3ac137442ceccaf87aefc91139b5800d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00097796-thedigest-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャースが26歳右腕を“酷使”。111球９失点の大炎上も異例の続投...地元記者は驚きと苦言「尻拭いをする羽目になった」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2dd0fbb27de8f9b206efcfabe4f929695df14ef46aa3b3b62aa7904473b3981e.jpg> 3月に事故で重体の男児 意識回復
+      <a href=https://news.yahoo.co.jp/pickup/6541905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/c766017170cdac77d39e59cf753012fd9e3977851bf2956e07ae0edec9200028.jpg> 中2を助けようと 2人とも溺れ重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 19:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 19:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
