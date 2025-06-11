@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/544731cb233da2533862b334e4ac797f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b2c70997fd6fcdc1d11592fa0631c9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93d9944b22e49e36a048240057226bb164ad1e7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972782-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=852&ch=852&exp=10800&fmt=webp> 【 B'z・ 松本孝弘 】　体調不良のため　主催ライブ「B’z presents UNITE ＃02」　出演を辞退　「とても悔しく、残念でならない」
+      <a href=https://news.yahoo.co.jp/articles/69b8d323a024009ab5a46e6c01dc7de03d585eac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000245-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1487&ch=1487&exp=10800&fmt=webp> 川で流され2人死亡　女子生徒と救助男性、岡山
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/798dc011de65186857fe55d607e1453cf4e192e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010014-kkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】鹿児島・口永良部島の噴火警戒レベル3（入山規制）に引き上げ　気象庁
+      <a href=https://news.yahoo.co.jp/articles/6ba58246a2140672e12a57b9f4ac9425e2c147a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000081-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 鹿児島・口永良部島に噴火警戒レベル3　噴石と火砕流に警戒呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac0a71286525a4bd44ee6bcc1f88006709ea706e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-05323295-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 追加備蓄米に71社申し込みも…早くも“新米の価格”に注目　専門家「順調な場合…」
+      <a href=https://news.yahoo.co.jp/articles/07cc16c7077e8358f8cce5ed8f7dc999318ec006>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050136-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 随契備蓄米、３回目の受け付け開始…小泉農相「ニーズが非常にあるという印象」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c09982c03de2492a4d3bc8e0dd13452de8edae5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000129-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米中貿易協議、「枠組み」合意も予断許さず　立場の隔たり大きく
+      <a href=https://news.yahoo.co.jp/articles/4bf34aa6263644e63ee6eb4cae5e4567974687f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース 大谷翔平 3打数1安打 チームは1-11で大敗 6回途中から内野のヘルナンデスが登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8a2ea653e73624f32312af8a255ca661ba090a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183045-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 腰をトントン…大谷翔平もお疲れ？遠征＆13連戦にライブBPも「腰痛そう」「大丈夫？」の声も続々
+      <a href=https://news.yahoo.co.jp/articles/c84fc1996f82e0dd322697c1cd6fca7258add5e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985712-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「疑問払拭する会見で無かった」山尾志桜里氏の公認見送り「全国から公認見送っての声」“出馬会見”翌日に国民民主が発表
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_33.png> 口永良部島 噴火警戒レベル3に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541912>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/dd52f2f6978391bf8bc77c19ba1b31919d837c47d7040e5dd9746c5b51dc0db3.jpg> マスク氏 トランプ氏批判を後悔
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/32bfce7547bc8d80f2ce7631bd43c1287731f9fbbd32bbac41dfa0855df931fc.jpg> 拘束され尿垂れ流し 都に賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6541921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2db3172699d11c6fac867f42cd169ee7cdad02c33b476e4b32c0df8a23590e0f.jpg> 山尾氏の公認見送り 玉木氏が説明
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541917>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f55ebbe66f3e83e2bb7d9a75868174c21e81a5d029042aea60d3fa9b3c5f5d5a.jpg> 中2を助けようと 2人とも溺れ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/32bfce7547bc8d80f2ce7631bd43c1287731f9fbbd32bbac41dfa0855df931fc.jpg> 拘束され尿垂れ流し 都に賠償命令
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e24c43cad5823352683dd99bc9f1abd31dc6629f465212114c3fb2861e97334b.jpg> 三山凌輝 婚約破棄は自分に落ち度
+      <a href=https://news.yahoo.co.jp/pickup/6541916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f1875891422232822e5cede72ac9cc4860e5c3f09dd5d63a26ae2deba61a9978.jpg> B'z松本 体調不良でイベ出演辞退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 21:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 22:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
