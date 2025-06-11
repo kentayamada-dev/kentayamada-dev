@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2430f90a21c9b42ccfdd766904fdcac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ff3a2471a31c698a9083e2c39fb1ee6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fdf8f0f629a9aa7951a3bc964ce7fd8f12926c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00097814-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ド軍の“もう１人の二刀流”のピッチングをパ軍シルバー・スラッガーが絶賛？「今まで見たなかで一番厄介なカッター」「皮肉じゃない」
+      <a href=https://news.yahoo.co.jp/articles/ac0a71286525a4bd44ee6bcc1f88006709ea706e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-05323295-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 追加備蓄米に71社申し込みも…早くも“新米の価格”に注目　専門家「順調な場合…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2252f74e4e562a94b559153efb8eb2760de92bfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-90027088-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米きょうから“追加放出” 徹底調査！多くの人が買える？
+      <a href=https://news.yahoo.co.jp/articles/c09982c03de2492a4d3bc8e0dd13452de8edae5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000129-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米中貿易協議、「枠組み」合意も予断許さず　立場の隔たり大きく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/159f6e4a844e6eff7d5fc9a4b255ed013064132e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242313-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 貿易問題めぐる米中閣僚級協議「双方の懸念の解決に向け新たな進展」 中国メディア
+      <a href=https://news.yahoo.co.jp/articles/d8a2ea653e73624f32312af8a255ca661ba090a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183045-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 腰をトントン…大谷翔平もお疲れ？遠征＆13連戦にライブBPも「腰痛そう」「大丈夫？」の声も続々
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/77dd646b757bcc0cc6265a39c4e3902561d4fa33dab9eb9c707ca506c8f427ba.jpg> 首相 消費減税は「賛同しかねる」
+      <a href=https://news.yahoo.co.jp/pickup/6541914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2399ec7e0fbd2c3fb9505bb7833cda7a1ba6d113033b11276dfb908ed65f4817.jpg> 全国民に2万円 与党の給付案判明
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/8089cc628d1b06722b037498a6a3a6a7729a29c0a9a1df9f3dd374b0c9e4dc50.jpg> SB委託先で14万件個人情報漏洩か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6541912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/dd52f2f6978391bf8bc77c19ba1b31919d837c47d7040e5dd9746c5b51dc0db3.jpg> マスク氏 トランプ氏批判を後悔
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541913>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02244684/title-1749615438995.jpeg?exp=10800> Switch2 驚異の売れ行きどうみる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541904>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e24c43cad5823352683dd99bc9f1abd31dc6629f465212114c3fb2861e97334b.jpg> 三山凌輝 婚約破棄は自分に落ち度
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 20:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 21:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
