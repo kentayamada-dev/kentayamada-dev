@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a711b2b1923e94319fea10ff8d02550e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26225027991338e270670c079f26b44e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e6a828b00d44d06b508ac413578fc755f04727c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06111286-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オンラインカジノ利用発覚のフジ・山本賢太アナが謝罪「自らを厳しく律してまいります」
+      <a href=https://news.yahoo.co.jp/articles/80eacc383b68761131760941567a68258f2be2b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121030-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「どうやら美人局を企てたとみられます」…名古屋市内ホテル強盗殺人「１９歳の女」逮捕…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナが伝える「逮捕者が３人になりました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc4243670c8e501e5ae6d1c36ccba98f1de2c1d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-02368325-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】19歳の少女と男(23)を逮捕　美人局の手口でトラブルに発展か　名古屋・中区ホテル強盗殺人事件
+      <a href=https://news.yahoo.co.jp/articles/63a7d6078783e280ef38f071ae0bc9bd2772bc46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000260-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平VS松井裕樹は空振り三振　4打席凡退…六回にT・ヘルナンデスが勝ち越し3ラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f27990a37470c9847c58fce9777e4667895f0a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松井裕樹がドジャース戦今季２度目登板　３連戦初戦は１回１失点
+      <a href=https://news.yahoo.co.jp/articles/63a3a5ba57cd7cec2ee1bf5bb1a037fe56c5b964>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00258444-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=847&ch=847&exp=10800&fmt=webp> 政界の“最長老”小沢一郎が内閣不信任案を見送るなと「立憲」に苦言　「自民党と裏取引する野党は自滅する」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31507c5e1c1fff4546e328f2d551805f329d9462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-11649335-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=640&ch=640&exp=10800&fmt=webp> 国民・玉木氏「遅かった」都議選、参院選前の山尾志桜里氏公認取り消し　責任の取り方問われ「厳しく受け止めたい」
+      <a href=https://news.yahoo.co.jp/articles/25ec17635ce5b4c60d73e538ae80c323f8c51171>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000249-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=839&ch=839&exp=10800&fmt=webp> 「嘘つくな！」「不倫は不法行為だ」指摘相次ぐ山尾志桜里氏会見「石打ち刑みたい」の声も
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/56266b1c63d44988e453e089ba35359c91beb4827708c9ad52680efe657a3f7b.jpg> トラブル相次ぐ中古車店 客は怒り
+      <a href=https://news.yahoo.co.jp/pickup/6541941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3aff4f0eba2691f26b3074530fccfe7eb52a153d0871943b965e5736e2ba4d80.jpg> 唐揚げ一つの給食 批判受け改善へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 07:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 07:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
