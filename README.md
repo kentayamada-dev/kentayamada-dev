@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7adef0d806a49cc1b992d76ba2dc6944.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2c5df201835c31265c9b5f2bfa69cc9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f785acf4df63c93eb2b17caea375ee4ff1d57e66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-06111064-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=1052&ch=1052&exp=10800&fmt=webp> 大谷翔平の３度目実戦登板も合格点「次のステップに進むつもり」　首脳陣から絶賛の嵐
+      <a href=https://news.yahoo.co.jp/articles/707ab2d386f8aee8a61ffb8d5e9e9293a5b394ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110441-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、７試合連続安打も得点には至らず劣勢が続く　試合前にはライブBPで奪三振ショー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d265a9a7c8f3e72d9ba856dd4a37cfd387ee23bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050061-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 中国のレアアース輸出規制、アメリカ側「解決されるだろう」…閣僚級協議終える
+      <a href=https://news.yahoo.co.jp/articles/83ac045a6b606fc44237c903d062e970eeda007e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01999128-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米中“関税引き下げ”実行への枠組みで合意　貿易問題めぐる2回目の閣僚級協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d94f5f75552491b7c45397cf15258f37f5906fc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000027-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 連日の大雨 九州で“観測史上最大の雨量”も　台風1号が発生 今後に注意
+      <a href=https://news.yahoo.co.jp/articles/f093d93ca2bcc75a14cb6becd5f55b1862eda526>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000076-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1172&ch=1172&exp=10800&fmt=webp> やす子、猛暑の町・熊谷市長とネタ披露　報道陣へ「ウソでも笑ってください」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e03c814e80d4e85c218ead4deff0e36527a37794>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050058-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 備蓄米の追加放出分、受け付け開始…３回目の放出で２０年産５ｋｇ１７００円の見通し
+      <a href=https://news.yahoo.co.jp/articles/13a2fbcf75aff4d3a66b2876e87d7d36242064ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000045-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=919&ch=919&exp=10800&fmt=webp> インドネシアが固めた守りを個の力で崩し、決める…久保建英こそ日本の10番にふさわしい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d52c6ded0ac2be5a9ea1ab579709d600d8e4d358>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000004-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=577&ch=577&exp=10800&fmt=webp> インドネシアに大勝も楽観は許されない…森保ジャパン「’26年W杯での飛躍」への高いハードル
+      <a href=https://news.yahoo.co.jp/articles/14552f0ec810506138f181980ce39cc89847dedb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-05226633-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 備蓄米12万トン…随意契約の受け付け始まる　小泉農水相「すでに約30社が応募」
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e873ff1b1aeae93790094a5bfa1037239e4becb1d3c10b341d7a4c039b04ff07.jpg> 21年産備蓄米 随意契約の申請開始
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541857>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/31383f46903435bd3b7bf010f06aecea11dd90737ee96f11c5dcc671ea74faf1.jpg> 株主提案が最多 経営に厳しい目
+      <a href=https://news.yahoo.co.jp/pickup/6541850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d231bcabaea763714c49bc7064b194f47c53ef10535aa9ae72bc8a3eb35c7a98.jpg> 不登校家庭に10万円 保険開発の訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/404ad704bddacf2f5b77c5e1a0b422bbd268e5c150e8b0e8b2b98b4663a6595a.jpg> 「独身税」と批判 表現は適当か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ec0a088cb561e4f8b6cdecbcac91194286289abb8387243390820948871505ae.jpg> 元キンプリ岩橋BL漫画の実写主演
+      <a href=https://news.yahoo.co.jp/pickup/6541860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b32a09ae9dbce5443f60361ae58cce5a2c2b07672d145a1eb5b699b55bd0af00.jpg> やす子 市長に「M-1出ませんか」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 12:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 12:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
