@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98d4b8aca0ad6ed9b34c3fff384ab6f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2430f90a21c9b42ccfdd766904fdcac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,14 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf473111c977b5b58bfbd0ec900acc448269bc97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000006-gifuchan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 中央自動車道で逆走車が衝突事故　２人けが　岐阜県中津川市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2252f74e4e562a94b559153efb8eb2760de92bfe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-90027088-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 備蓄米きょうから“追加放出” 徹底調査！多くの人が買える？
       </a>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/159f6e4a844e6eff7d5fc9a4b255ed013064132e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242313-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=502&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 貿易問題めぐる米中閣僚級協議「双方の懸念の解決に向け新たな進展」 中国メディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5532370a028b02d3672604134ac1aff8a84e575>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000094-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 警視庁で「抵抗していないのに手錠」　トイレ行かせず　都に賠償命令
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2aa2ffff2c98db199cc52cbe20aeb1a2c0ae238f7dc4ed13dca366adb90b58b2.jpg> 損保J 最大1750万件の情報流出か
+      <a href=https://news.yahoo.co.jp/pickup/6541902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4ced4deedc0971f9d2ab5282eac676a7e4f4633e89649036120b0dda3a800fbc.jpg> 南海トラフ被害1466兆円 学会推計
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/32bfce7547bc8d80f2ce7631bd43c1287731f9fbbd32bbac41dfa0855df931fc.jpg> 拘束され尿垂れ流し 都に賠償命令
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/a67aa6c206ff32458b9940d22a6e03d1dd172ec48cb1f08aa7926d31836048fa.jpg> フジ山本アナ オンカジ利用を後悔
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 20:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 20:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
