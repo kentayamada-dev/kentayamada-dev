@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5e7e73d8db666cf41e03e7a13d23b72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5c5942e17827341704a8d030f8d606c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4fca4db11894f2f3e3daea398bca07a8f03a7799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36112123-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=726&ch=726&exp=10800&fmt=webp> 石破首相「侮辱」と猛反論　国民・玉木代表「選挙で現金配るんですか」などの指摘に　党首討論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a037101b9af0dcb37dd36d5f456efa5981a9e653>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06396632-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 国民民主、山尾氏の公認見送り　玉木氏「理解と信頼得られず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/233640a0e57db500d3b7180308d6c6d14b306da1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平９戦ぶり２４号＆８戦連続安打なるか　２打席目までは快音なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7d85cafbd0113293947b333c80928785ad2f752c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00011035-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「浅はかな判断」フジ“ムキムキ”山本賢太アナ、過去オンカジ利用…待ち受ける吉本芸人以上の厳しい今後
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af536d52594a358388ec8fd2875cb16e9df6fb28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が今季ワースト更新３８打席連続本塁打なし　１打席目空三振…９戦ぶり２４号なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c147cd4233a5b427eaedadb58c69885b73e88cc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242355-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今国会3回目の党首討論　消費税の減税等めぐり論戦　バラマキ批判に石破総理「侮辱は辞めていただきたい」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 05:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 06:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
