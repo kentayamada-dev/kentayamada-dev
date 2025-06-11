@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/452530c34f207c69d7dcb6cfe6996238.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ad739ff1108aad8f3456c735c1c5df6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2068ddf3d6bb3a29e76b8c293dba4c7b8ba889a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000124-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1142&ch=1142&exp=10800&fmt=webp> 大谷翔平　今季ワースト9戦不発も三塁打でダメ押し点演出　今季2度目の8戦連続安打　パ軍に勝ち越し
+      <a href=https://news.yahoo.co.jp/articles/cef9487a5c894539e0ea5a013e358396a9010c9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大リーグ、大谷は8試合連続安打　松井無失点、鈴木は1安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/234c30501ab1ac51e02590fd2c059fd529a177e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010000-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 大谷翔平、9回に三塁打で8戦連続ヒット！ド軍逆転勝利でパドレスにカード勝ち越し　T.ヘルナンデスが決勝3ラン
+      <a href=https://news.yahoo.co.jp/articles/b0a2c738b1a1028fb4aeca906febd43f6fa6d143>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120088-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、自己最長更新の９戦連続ノーアーチも８試合連続安打　激走三塁打で決定的なホームイン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dffe638452d6370d1b546bde06e82cb6f812c524>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00037126-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「かなり引いてますね」玉木雄一郎、“山尾騒動”のカゲで物議を醸した2枚の“ゼロ距離写真”
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25ec17635ce5b4c60d73e538ae80c323f8c51171>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000249-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=839&ch=839&exp=10800&fmt=webp> 「嘘つくな！」「不倫は不法行為だ」指摘相次ぐ山尾志桜里氏会見「石打ち刑みたい」の声も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/240c95f4b20330194e46bb0812e0105aa746d90b941e2f412f2214fed8fc2faf.jpg> 石破首相 衆参同日選見送る方針
+      <a href=https://news.yahoo.co.jp/pickup/6541939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5f8f6c8881409efca6e9e7d95ade114d72a57170155cd9cde4025de370ebd02.jpg> 国連 40機関以上の統廃合を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5f8f6c8881409efca6e9e7d95ade114d72a57170155cd9cde4025de370ebd02.jpg> 国連 40機関以上の統廃合を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ce1d92a45a535adeeb88dd4cad96981c8164c7bf88ceffb177ca2cfb7faa7b5a.jpg> 随契の備蓄米 36都道府県で販売
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5a26483e76c9d9d984e704c45d0f0f2cdd801cf7e101b01618484944d058b3c.jpg> 福田秀平氏 マリナーズのコーチに
+      <a href=https://news.yahoo.co.jp/pickup/6541946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/434a2865a6f25a78fee09f05c4b7ab757e6490d2d05df39f9cc02b450f0cc641.jpg> 松井裕樹 大谷からMLB通算100K
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 08:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 08:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
