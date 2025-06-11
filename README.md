@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2c5df201835c31265c9b5f2bfa69cc9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c733f77cbbc78752faaef1bafb486b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/707ab2d386f8aee8a61ffb8d5e9e9293a5b394ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110441-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 大谷翔平、７試合連続安打も得点には至らず劣勢が続く　試合前にはライブBPで奪三振ショー
+      <a href=https://news.yahoo.co.jp/articles/846984a15e1c55c531156f1a2325cc2aa1fcb106>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985359-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=848&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平オールスター前の投手復帰にロバーツ監督「ゼロではない」　手術後3度目のライブBP登板…ストレート最速154.5キロ・6奪三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83ac045a6b606fc44237c903d062e970eeda007e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01999128-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米中“関税引き下げ”実行への枠組みで合意　貿易問題めぐる2回目の閣僚級協議
+      <a href=https://news.yahoo.co.jp/articles/a88fe6206162c5e032319d72a6026d75c3b9c4be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】日本学術会議を「独立法人」とする法律が成立　学術会議側は「政府からの独立損なわれる」と疑念示す中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f093d93ca2bcc75a14cb6becd5f55b1862eda526>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000076-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1172&ch=1172&exp=10800&fmt=webp> やす子、猛暑の町・熊谷市長とネタ披露　報道陣へ「ウソでも笑ってください」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13a2fbcf75aff4d3a66b2876e87d7d36242064ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000045-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=919&ch=919&exp=10800&fmt=webp> インドネシアが固めた守りを個の力で崩し、決める…久保建英こそ日本の10番にふさわしい
+      <a href=https://news.yahoo.co.jp/articles/9faaf711da7aaf404c24a70e4dcdee3be01938fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985294-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国によるレアアースの輸出規制緩和に期待感　米中閣僚級貿易協議“貿易枠組み”で合意
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cce2d189a0f6fc07871b3a0489b6a5275a2cdcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00595563-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本に為す術なし…「惨敗しても誇り」　敗戦国サポーターの“代表愛”「もっと良くなる」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/afd1d448fe7b146273412e85f2237ad461e4fba6a30db1c2902677b6ba386ec5.jpg> デモ巡りLA一部に夜間外出禁止令
+      <a href=https://news.yahoo.co.jp/pickup/6541865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/8f6f21edeb547fcbbf69e1f028233041e587a8586a4e578480988f8582b745ca.jpg> 学術会議法人化の法律成立 懸念も
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/caeb1deee13d312d4deeb78e668ffd9fbd789aadb2eb4e1eff8686b79c7e53de.jpg> 大谷の圧巻ライブBP ダル見守る
+      <a href=https://news.yahoo.co.jp/pickup/6541861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b80b3c34a950e22ea32be33645c4caa129aaf3cdca0b41d8b84e42f6d531de6f.jpg> 久保建英も危機感 代表の人気低下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b32a09ae9dbce5443f60361ae58cce5a2c2b07672d145a1eb5b699b55bd0af00.jpg> やす子 市長に「M-1出ませんか」
+      <a href=https://news.yahoo.co.jp/pickup/6541856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/caeb1deee13d312d4deeb78e668ffd9fbd789aadb2eb4e1eff8686b79c7e53de.jpg> 大谷の圧巻ライブBP ダル見守る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 12:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 13:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
