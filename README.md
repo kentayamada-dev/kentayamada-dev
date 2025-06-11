@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcf4be60df423ac5c00fc529653bddf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2869ddbe71b3f94bc85e62c38b6b513.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aef3a3f3df3526898a6fb6e1676fb8ed0f7d3b80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010003-sporting-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷は7試合連続安打 ブルペン過多で6回途中から野手登板のドジャースはパドレスに二桁失点で大敗 ｜MLB 2025（6.11）
+      <a href=https://news.yahoo.co.jp/articles/dbc22426f4e634b2efc418ec6d170196963f0d0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-16597580-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ﻿米中高官、貿易戦争解消の枠組みで合意　トランプ氏と習氏に提示へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba6b8e294a21e9e1513e2cdcde601988ec3f1220>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234114-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米中通商協議、枠組みで合意　提案を持ち帰って両首脳に提示へ
+      <a href=https://news.yahoo.co.jp/articles/dc23a18226671ff6cdddc88acf3e7c10ba62e968>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000081-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝大谷は7試合連続安打、ドジャース大敗　鈴木は56打点目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d46436241583d81b3b0d2937b2d906fdcfe45f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000038-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 教員の処遇改善へ特措法が成立　給与引き上げ、「主務教諭」新設
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83dd652e737c62d5951f6bd88ff83d6e1b8982d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「日本は本当に素晴らしいプレイを見せた」大勝を収めた日本にインドネシアメディアは脱帽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d2f0eaa776f6f2047185cea43b16b21fea547af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10552555-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=672&ch=672&exp=10800&fmt=webp> ヤンキースのジャッジが2戦連発の24号先制2ラン　打点もリーグ単独トップ浮上　左腕フリードはハーラー単独トップ9勝目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 14:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 14:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
