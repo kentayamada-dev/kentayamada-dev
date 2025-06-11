@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56e5dd4197001ca099aada9188341f15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7871fa4e268471b88643f1860285d854.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e94a275ada13754f1255f9246f45f0b061b4def>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985577-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「備蓄米と銘柄米のブレンドで米全体の価格を下げよ」　橋下徹氏が小泉農水相の備蓄米放出のスピードに評価も”注文”
+      <a href=https://news.yahoo.co.jp/articles/65da77a2f60a6d80c75557d4121dad8f9b42eafb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000065-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 備蓄米追加放出・転売禁止…　政府の対策でコメの値段は下がるのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e723f1b1f94978a6c9958590bacf3204f68c770e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000072-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 90代男性の軽乗用車が逆走？中央道のトンネルで正面衝突、2人けが
+      <a href=https://news.yahoo.co.jp/articles/d3f7b67188da07ac79733c21ac2dbcefe7d3fdd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972466-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 中央道下り線の恵那山トンネルで軽乗用車が逆走　別の軽乗用車と正面衝突　2人がけが　逆走車は阿南町の90歳男性が運転
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/8089cc628d1b06722b037498a6a3a6a7729a29c0a9a1df9f3dd374b0c9e4dc50.jpg> SB委託先で14万件個人情報漏洩か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541900>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/55979ad6207527822af8d0ce1356206ee9ac9ae6bdddea975c5d34a9f13ccac2.jpg> 女性の甘党傾向 研究で原因解明
+      <a href=https://news.yahoo.co.jp/pickup/6541904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e24c43cad5823352683dd99bc9f1abd31dc6629f465212114c3fb2861e97334b.jpg> 三山凌輝 婚約破棄は自分に落ち度
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/652ddcb21acef01fa04e6bf34984903809888e907814055e57d0fd32bb5a688f.jpg> キャプテン翼 大空翼に息子が誕生
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 18:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 19:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
