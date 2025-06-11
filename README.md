@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5c5942e17827341704a8d030f8d606c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c934665670b073439e3b1e74da6a7a38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fca4db11894f2f3e3daea398bca07a8f03a7799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36112123-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=726&ch=726&exp=10800&fmt=webp> 石破首相「侮辱」と猛反論　国民・玉木代表「選挙で現金配るんですか」などの指摘に　党首討論
+      <a href=https://news.yahoo.co.jp/articles/91cfe054c58cfff456bcec909a0b1c0405cf1942>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06111290-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1155&ch=1155&exp=10800&fmt=webp> 国民民主党一転…山尾志桜里氏の公認見送り　不倫疑惑など事実上の説明拒否文言連発に批判の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a037101b9af0dcb37dd36d5f456efa5981a9e653>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06396632-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 国民民主、山尾氏の公認見送り　玉木氏「理解と信頼得られず」
+      <a href=https://news.yahoo.co.jp/articles/afab4df4e852abc80063fc9f1efc837de6f6fc1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000235-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、第3打席は遊ゴロで40打席ノーアーチ　フリーマン前日に下半身負傷…野手陣も満身創痍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/233640a0e57db500d3b7180308d6c6d14b306da1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平９戦ぶり２４号＆８戦連続安打なるか　２打席目までは快音なし
+      <a href=https://news.yahoo.co.jp/articles/c79fe576e92796b976da399fb58b134c8e717293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120013-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> ビーチ・ボーイズのブライアン・ウィルソンさん死去「グッド・ヴァイブレーション」近年は認知症
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4408312bba51a402d0cbeaaca9b9442312766d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 他州への軍派遣も示唆　米国防長官、抗議活動対応で
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b2d601bed3338ea3cc191e3d98a26c753c203d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000002-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=917&ch=917&exp=10800&fmt=webp> 中国空母監視中の海上自衛隊機に中国軍機が異常接近　7、8日の2度
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d807019a26853c2b869da8ba002a7223c1436bdb811be86ab1759ac00b146aa8.jpg> 立憲党内 不信任案見送り論強まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/5c02c17e56330a1ef83028af19e539a7132e8dcc407557b42b668faa3049270e.jpg> ガザの死者数 5万5千人超える
+      <a href=https://news.yahoo.co.jp/pickup/6541933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/240c95f4b20330194e46bb0812e0105aa746d90b941e2f412f2214fed8fc2faf.jpg> 石破首相 衆参同日選見送る方針
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541924>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京の病院 初の内密出産が判明
+      <a href=https://news.yahoo.co.jp/pickup/6541935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a962c22360241054f70527315ac7d5752b5b5e02af07bc62fc5293d879a4cfc0.jpg> 墓地で流血の男性死亡 頭に銃創か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f55ebbe66f3e83e2bb7d9a75868174c21e81a5d029042aea60d3fa9b3c5f5d5a.jpg> 中2を助けようと 2人とも溺れ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6541931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/6a17b5d03d6df62ec21faa427ca8047d912955159e966f96dea509786145aee7.jpg> ホテルで男性強殺疑い 19歳女逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541924>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京の病院 初の内密出産が判明
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/90e27e218b1693a726674482e46ac3da1a5bb4c940a6be9ad0e6a06d059649c6.jpg> 俳優・劇作家 斎藤歩さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6541934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0a33fe4b2ebfe4d7dbbfcf7a708b953d9a98a7c1565f16db90e18bc51bdbb256.jpg> Beach Boysのウィルソンさん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 06:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 06:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
