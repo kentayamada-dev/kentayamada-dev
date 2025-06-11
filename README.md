@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f70c2faf4649c78a0d0609fa2ad9120b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73cba54f42abadf4687676de013a1e78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e664f154a0f91a8cadd3f86bce6db3f5f55b4c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-04112215-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国の戦闘機が自衛隊機に異常接近　今月7、8日、西太平洋上の公海上空
+      <a href=https://news.yahoo.co.jp/articles/3672eb844efb2323ab0c1b1842236c91f3eda067>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121001-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平９戦ぶり２４号なるか、パドレス戦「１番ＤＨ」スタメン入り　負ければ３位転落危機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84dfb667fcc4d39058e558e7e7f77557a0d3206e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242325-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “極めて異例” 国民民主党 夏の参院選に出馬予定の山尾志桜里氏の公認の内定取り消しを決定
+      <a href=https://news.yahoo.co.jp/articles/e24de5540828b09bde717aa63601cf655c5e3fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000000-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 中国軍機が自衛隊機に45メートルの近さまで接近
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 02:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 02:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
