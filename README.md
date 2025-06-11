@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bfc36707012e5693943842ba69a66da.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20fd89f773024617ae5464c177826af7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60b81264dd1d46c4d7e940dcd2bcc115b2472a7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07242146-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=503&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領 「反乱法」の発動可能性示す　米ロサンゼルスで続く抗議デモについて
+      <a href=https://news.yahoo.co.jp/articles/67b877e30e38846cb4820181296b71de6daf33c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234102-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 移民摘発に抗議のデモ、全米に拡大　ＮＹやシカゴでも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ed6ff6dff73f15c57f1f08560281f8beed86b63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00491706-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ［韓流］BTSジミンとジョングクが兵役終え除隊　「待ってくださり感謝」
+      <a href=https://news.yahoo.co.jp/articles/556433dc4ff4b2467b324de4764d964f2403656b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110248-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【韓流】BTSのJUNGKOOKとJIMIN、除隊時の言葉　「団結！」と敬礼で締める
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02244177/title-1749597033447.jpeg?exp=10800> 備蓄米などへの転売規制 どうなる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541834>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4f466e7f94cafa1c4666fc5fd4d8ba91a368afe0434a5b7b01c82373b99675b4.jpg> ホテル強殺 19歳女から事情聴取
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541830>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9e57db838d7235f802281b2d0641915db45a5699a517430398f917463df0cc49.jpg> オーストリア銃乱射 いじめ動機か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9676f066d6cc8eb28545c90b016f6c8390d64374e16a61fa1f5f56c927f26d7d.jpg> ビリヤニ食べられる店増 人気の訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 10:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 11:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
