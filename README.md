@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21aeac144b3e9c2b3523d31b343a2305.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/becbec6ede0d4ad39a9c2fbea6cbc8a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12ce430fa4cadba7d1cdf997b67a6e9326aff4b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 米、対中55％関税維持　中国との合意後も「変更なし」＝商務長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c45790c202d27ec8578b5338b87a200d01af5edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90027141-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 石破総理は“否定”給付どうなる？コメ・減税などで応酬…参院選前 最後の党首討論
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 03:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 04:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
