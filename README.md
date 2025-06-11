@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5a9d1b681df7fe6493b01c8a4fc087b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0f6b172b7e1181bbbb6cf3cc6f1abbf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19bac3184bcac91c9dd300d9988bdc11cd3a3646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771665-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、球宴前に復帰の可能性　指揮官が示唆「全くゼロではない」
+      <a href=https://news.yahoo.co.jp/articles/29b5bfe608821d56e151fcfaee5ac411431e9ada>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000011-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=1295&ch=1295&exp=10800&fmt=webp> 堺雅人、「VIVANT」続編は神話レベル　台本の最後を読んで「声が出ました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28120997edc6ab9b25a0a0c05348bc1b4cdec66e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21970468-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 【大雨情報】すでに400ミリを超える大雨…西日本〜東日本では「警報級大雨」の可能性　土砂災害に厳重警戒【気象庁・全般気象情報】
+      <a href=https://news.yahoo.co.jp/articles/8f443062e917e1ae851d4199aaf0ef1f52cf9d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110212-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ロバーツ監督「可能性は０ではないと言うことにしておこうか」と笑顔　大谷翔平の球宴前投手復帰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78eaee78b5797b7bd2be3d3e90b6cfe63294a7a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000020-ann-000-5-thumb.jpg?exp=10800&fmt=webp> LA抗議デモに海兵隊700人派遣　トランプ大統領「知事に任せたら内乱になる」
+      <a href=https://news.yahoo.co.jp/articles/e250b9613fbc1866a778dfb652e5613f42968dc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000008-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1343&ch=1343&exp=10800&fmt=webp> 米中貿易協議、「枠組み」で合意<br />
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81a048be307debeee2836d72504d9a37bcd9eb6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> なぜだ？米品薄のはずが、突然店頭に「米が山積み」「おかしい」の声…進次郎農相、大手柄！そして「悪いのは誰？」
+      <a href=https://news.yahoo.co.jp/articles/61506668747f795bbf3a3f51561b244bf0a40927>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、陸軍基地で演説　「ロサンゼルスを解放する」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/6b649d3cf002e085493f7e00d8b660ffeb3df24506038611b1b591fd7754d94b.jpg> 米中 貿易問題巡り枠組み合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541841>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/39bec190d13a2c3490eb169751c3964297dbf3739eb60093bbfd68cbecc8929e.jpg> 西日本中心に大雨 土砂災害に警戒
       </a>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4c7fa2edbcedbd5d5976a41833b05d624b084fc4428b9c1e18bbf23ccbb78218.jpg> レアアースで脱中国工程表 G7案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541834>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4f466e7f94cafa1c4666fc5fd4d8ba91a368afe0434a5b7b01c82373b99675b4.jpg> ホテル強殺 19歳女から事情聴取
       </a>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b15bc6b2a77de3f91788d97e6ead91b054f327be62ce2a2e953297de8380370c.jpg> 人気スポットで不法投棄 住民怒り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/40268c114a93b8dd675908c944358b0e0693df44dfe59859952232830fac0404.jpg> 10番主将・久保 柿谷氏が絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6541830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9e57db838d7235f802281b2d0641915db45a5699a517430398f917463df0cc49.jpg> オーストリア銃乱射 いじめ動機か
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ce82723df6c663dbea2d7a511099abf6824957826e0e21ada3766c6330dfc2da.jpg> VIVANT続編制作 堺雅人が生発表
+      <a href=https://news.yahoo.co.jp/pickup/6541843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/795820c662b11c31574eed5d7622154ee497e76ccb9c2c252a19e9be94f6467a.jpg> VIVANT続編ロケ地は「超親日国」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/81fb88d524bb63603adbb41f92476b55b368f3f09f79f13b2b1be7bbea704e7c.jpg> おそ松さん実写 Aぇ!groupら主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 09:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 10:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
