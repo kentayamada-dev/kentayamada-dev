@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57967980f046f37ddfcf89f8c573e9c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10551f6b1e32128de8e575c5a2a16b38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/549d6ac1272d1bd235595c1d5e2a1fd114c07c21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000094-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オンカジ利用の山本賢太アナ　完全カットの「合唱バトル」で「なんでだろう～」ポーズ　共演アナ投稿
+      <a href=https://news.yahoo.co.jp/articles/4d9f08b1469a05cd70b1567239527fea1659558e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000071-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 最高検も違法捜査を検証へ　警察・検察がおわび　大川原化工機冤罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97c78b8ca24c46e58f2835cc1a740b9c83f66215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000072-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=814&ch=814&exp=10800&fmt=webp> ドジャース「捨て試合」、大差ついてブルペン温存…大谷は8戦連続ノーアーチ
+      <a href=https://news.yahoo.co.jp/articles/f809dda620ece4ad89740b405f902a10c1036e46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000243-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マチャド　3安打5打点で今季4度目2桁得点の猛攻演出「自分たちの野球を続けることができている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acf092cf9d0745a7d5d9a5c657f3d53cfe8f54a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174706-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 森保ジャパン、今回の活動は最も効率的だった。層の厚さを再認識も、最終ラインには不安材料。今後はCB陣の去就や充実度が、W杯の明暗を左右するか
+      <a href=https://news.yahoo.co.jp/articles/71220e4e179104de4e4f1df9a27afa075b16ba5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 米中貿易協議 合意した内容を着実に実行する「枠組み」で一致 米商務長官「解決に向かう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbc22426f4e634b2efc418ec6d170196963f0d0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-16597580-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ﻿米中高官、貿易戦争解消の枠組みで合意　トランプ氏と習氏に提示へ
+      <a href=https://news.yahoo.co.jp/articles/83dd652e737c62d5951f6bd88ff83d6e1b8982d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「日本は本当に素晴らしいプレイを見せた」大勝を収めた日本にインドネシアメディアは脱帽
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/245f1d139a2fc81c0a519f6e57359e20e3b0ad6d46d589895f4e3e005ea026f5.jpg> 大川原冤罪 東京都が上告断念
+      <a href=https://news.yahoo.co.jp/pickup/6541881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/7fff1c413f8307d6530611fb43ed065fd216c74ad84a006d2f0278cac71e5cd7.jpg> 大川原冤罪 国と都が上告断念
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 15:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 15:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
