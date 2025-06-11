@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa45a26eee325bad700385356c887d3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eaa210cdb6deb42e3d0685a388947139.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fdb5527ef8f66560804be6591f81d68503a327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183022-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「一線を画す存在」久保建英、海外メディアから絶賛の嵐！「クライファートを沈めた」「重要性の高まりを強調」インドネシア戦で超絶ゴール＆アシスト
+      <a href=https://news.yahoo.co.jp/articles/a71175a8598910a49e0d5d5d4a79c4fdcda641ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010024-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=557&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本代表、インドネシアに6発大勝！ 海外メディアが称賛「3人の経験豊富な選手は、紛れもなく本物のスターだった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6be23cb59fc4880ef426553ed58c14d3bc7b2cc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985503-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「大川原化工機」冤罪事件で都と国が上告断念“違法捜査”判決確定へ　警視庁は謝罪の方針…副総監トップの「検証チーム」設置
+      <a href=https://news.yahoo.co.jp/articles/c890a0c930dc4c9d05609fcbb83add3dbb4682cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000057-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=357&ch=357&exp=10800&fmt=webp> 「米中会談で貿易枠組みに合意」…米国はレアアースを得て半導体与えたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3df73abc0a88edd44d66d2c54f75342e63c880c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000089-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 午後3時のドルは145円近辺へ小幅高、米中協議後は売買交錯　膠着感も
+      <a href=https://news.yahoo.co.jp/articles/4db2ea7c904be913bc34f76163c6c3235efde0d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985531-fnn-000-2-view.jpg?pri=l&w=160&h=160&order=c2r&cx=74&cy=0&cw=160&ch=160&exp=10800&fmt=webp> 損保ジャパン　個人情報が最大1750万件漏えいの可能性　4月中旬のサイバー攻撃で顧客の住所・氏名・生年月日など流出か
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/45f8add787041879a6aed9dbdb0fe7cca75b5e243567f28b74bb40c1f38e89d0.jpg> 世界遺産が損傷 ウ大統領が露非難
+      <a href=https://news.yahoo.co.jp/pickup/6541890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ac0dbc9c16a1279a8a7adb220ca25611fa8f73e63cc10adbccab6ca15646e662.jpg> 車部品大手マレリ 米破産法を申請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/ac0dbc9c16a1279a8a7adb220ca25611fa8f73e63cc10adbccab6ca15646e662.jpg> 車部品大手マレリ 米破産法を申請
+      <a href=https://news.yahoo.co.jp/pickup/6541900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2b9da5ff19e321f624571b29e9d7bb293a9bc55463cd57a7f334bc2a89a392ac.jpg> 山尾志桜里氏の公認内定取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2aa2ffff2c98db199cc52cbe20aeb1a2c0ae238f7dc4ed13dca366adb90b58b2.jpg> 損保J 最大1750万件の情報流出か
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/12faadc2397fa01e1941f2a2d99de39e3584f3b02dc129422e87ff4643f79809.jpg> 前日に死球 G井上が周東に謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541889>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/652ddcb21acef01fa04e6bf34984903809888e907814055e57d0fd32bb5a688f.jpg> キャプテン翼 大空翼に息子が誕生
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f157ef8a1252f1e91d6b0d6c87827b841ded2e70886ce800e1a5e7b00ebf3a84.jpg> フジ山本アナ オンカジ利用が判明
+      <a href=https://news.yahoo.co.jp/pickup/6541895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/a67aa6c206ff32458b9940d22a6e03d1dd172ec48cb1f08aa7926d31836048fa.jpg> フジ山本アナ オンカジ利用を後悔
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 17:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 18:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
