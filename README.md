@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28b854ec5917fe5df714042f4bc78b47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/221f532fa52668425554d5e994238416.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/206d296d0d518afd9b0dd1d8cf9465c4eceb4687>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050174-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 口永良部島の噴火警戒レベルを「３」に引き上げ…気象庁が噴石や火砕流に注意呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/fef775dbd07587332079e4628c580ca3f3e243a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183098-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 一体、何が起きた？ 大谷翔平、牽制された直後に“まさかの光景”「何してんだよw」予想外のリアクションが話題に「面白すぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa159315921b70227f7ce886683a51dfe387ad7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 警戒レベル3に引き上げ　口永良部島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8e053c61728074f3a366c8132d3fcc3f9755751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死者5万5000人超える　配給所付近で銃撃続く　ガザ
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77384408e1494ce389066753b68e9b8dd3da5043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183113-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=800&ch=800&exp=10800&fmt=webp> どうなってんだよ！ パドレスの暴れん坊・マチャド、まさかの“ガム噛み爆走”が話題に「ハラハラするわ」「これはビビる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07cc16c7077e8358f8cce5ed8f7dc999318ec006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050136-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 随契備蓄米、３回目の受け付け開始…小泉農相「ニーズが非常にあるという印象」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541914>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2399ec7e0fbd2c3fb9505bb7833cda7a1ba6d113033b11276dfb908ed65f4817.jpg> 全国民に2万円 与党の給付案判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/a3d262e214eb129c47ab6f36716427f69cbe6bca9f45a2d2a908835989efb572.jpg> 営業利益500%発言 小泉氏の真意
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/32bfce7547bc8d80f2ce7631bd43c1287731f9fbbd32bbac41dfa0855df931fc.jpg> 拘束され尿垂れ流し 都に賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541922>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/04acefd560173a0cecb35b546e5b7b9e01ba2a7a41d479d2735779831142d6d8.jpg> 韓国で過熱「身長」ビジネス
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f1875891422232822e5cede72ac9cc4860e5c3f09dd5d63a26ae2deba61a9978.jpg> B'z松本 体調不良でイベ出演辞退
+      <a href=https://news.yahoo.co.jp/pickup/6541923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/90e27e218b1693a726674482e46ac3da1a5bb4c940a6be9ad0e6a06d059649c6.jpg> 俳優・劇作家 斎藤歩さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 23:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 23:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
