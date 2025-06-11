@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e0ff185f9ac6e0b83c916210dbfe144.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68567a2318ee87f685922d33a7e88f84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7280220bc58106e878503e489d7436c9f978dc45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-36110471-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> NPBに公取委から独禁法違反の恐れとして警告通知　フジテレビから日本シリーズ取材証を没収
+      <a href=https://news.yahoo.co.jp/articles/f0ca91158f665e3020e58e039c40d9f6eabf5614>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-07488596-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小泉農水相「切れ目なく提供していく」　備蓄米の追加放出へ3回目の「随意契約」すでに約30社が応募
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db747221c4e4ca3238feea5cc05970cf3ef1a001>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174715-sdigestw-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「日本は無慈悲だった」「アジア最強を否定できない」森保Jの圧勝劇に韓国メディアから驚きの声続々！ 自国は最終予選無敗も指揮官にはブーイング…イ・ガンインが異例の呼びかけ
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83dd652e737c62d5951f6bd88ff83d6e1b8982d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「日本は本当に素晴らしいプレイを見せた」大勝を収めた日本にインドネシアメディアは脱帽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14552f0ec810506138f181980ce39cc89847dedb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-05226633-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 備蓄米12万トン…随意契約の受け付け始まる　小泉農水相「すでに約30社が応募」
+      <a href=https://news.yahoo.co.jp/articles/66d78f6357c1dd2d064c4df2c6b358c6b597a711>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00161356-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【物議】おかずは鶏のから揚げ1個?小学校給食に「少ない」教育委員会「2個分を1個にまとめて提供」赤字の学校も…厳しい給食の現場
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/bfd6deee6ad0b5d0e20d85ee0d7f146742d0ec1d3c64092508da07e126f71a2b.jpg> 教員の処遇改善 改正給特法が成立
+      <a href=https://news.yahoo.co.jp/pickup/6541855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/08dc25883999a560bf3638ec3050f9693c3e854f2c4b7a2b0ac01abd1cc7d7d4.jpg> 米問題で注目 農水族とJAの関係
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/839e25b3ea82ff756246f5dd5f6f7ebbca80219b1e33249475c9eabf4ec89168.jpg> 日大元監督 コーチの進言を無視か
+      <a href=https://news.yahoo.co.jp/pickup/6541886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2dd0fbb27de8f9b206efcfabe4f929695df14ef46aa3b3b62aa7904473b3981e.jpg> 3月に事故で重体の男児 意識回復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02244261/title-1749601639338.jpeg?exp=10800> 家賃2.5倍と通知 中国では普通?
+      <a href=https://news.yahoo.co.jp/pickup/6541887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/c5e98f26c6cda9096c4e4be3698d4c57799835d16f4f499fe8f911d14cf2078d.jpg> トンネルで逆走 正面衝突2人軽傷
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/89b493d8b620f12fc7e94f1e6bafe7381d7b419dda06ed4d1b6d1976a855b8f4.jpg> 大谷が途中交代 8戦連続でHRなし
+      <a href=https://news.yahoo.co.jp/pickup/6541884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/888f440d2cdae28bb8b1eb1c7bd2f5455e732cd9431951337554d6aeb75f6254.jpg> α世代が夢中「しなこ」の素顔
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 16:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 16:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
