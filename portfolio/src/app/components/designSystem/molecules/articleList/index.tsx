@@ -1,4 +1,4 @@
-import { CustomNextLink } from '@/components/designSystem/atoms';
+import Link from 'next/link';
 import { EyeIcon, HeartIcon } from '@/components/icons';
 import { formatNumber, getDateString } from '@/utils';
 import type { ArticleListType } from './types';
@@ -8,7 +8,7 @@ const ArticleList: ArticleListType = (props) => {
     <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
       {props.articles.map((article) => {
         return (
-          <CustomNextLink className='bg-primary hover-primary flex rounded-lg p-5' href={article.href} key={article.href}>
+          <Link className='bg-primary hover-primary flex rounded-lg p-5' href={article.href} key={article.href}>
             <article className='flex min-h-60 flex-col'>
               <h2 className='text-primary text-2xl font-bold'>{article.title}</h2>
               <p className='text-secondary mt-2 text-base'>{article.description}</p>
@@ -39,7 +39,7 @@ const ArticleList: ArticleListType = (props) => {
                 </div>
               </div>
             </article>
-          </CustomNextLink>
+          </Link>
         );
       })}
     </div>

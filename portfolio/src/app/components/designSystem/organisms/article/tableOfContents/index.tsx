@@ -1,7 +1,7 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { CustomNextLink } from '@/components/designSystem/atoms';
 import { headingLevels } from '@/constants/toc';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
 
@@ -88,7 +88,7 @@ const TableOfContents: TableOfContentsType = (props) => {
                 marginLeft: `${(heading.level - HEADING_LEVEL_OFFSET) * MARGIN_LEFT}rem`
               }}
             >
-              <CustomNextLink href={`#${heading.id}`}>{heading.text}</CustomNextLink>
+              <Link href={`#${heading.id}`}>{heading.text}</Link>
             </li>
           );
         })}

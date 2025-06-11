@@ -1,4 +1,5 @@
-import { CustomLink, CustomNextLink } from '@/components/designSystem/atoms';
+import Link from 'next/link';
+import { CustomLink } from '@/components/designSystem/atoms';
 import type { NavItemsType } from './types';
 
 const NavItems: NavItemsType = (props) => {
@@ -8,9 +9,9 @@ const NavItems: NavItemsType = (props) => {
         {Object.entries(props.items).map(([key, { href, title }]) => {
           return (
             <li className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} font-medium`} key={key}>
-              <CustomNextLink href={href} legacyBehavior passHref>
+              <Link href={href} legacyBehavior passHref>
                 <CustomLink title={title} />
-              </CustomNextLink>
+              </Link>
             </li>
           );
         })}

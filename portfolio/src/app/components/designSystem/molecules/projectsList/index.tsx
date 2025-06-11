@@ -1,4 +1,4 @@
-import { CustomNextLink } from '@/components/designSystem/atoms';
+import Link from 'next/link';
 import { ClockHistoryIcon, ClockIcon, ForksIcon, StarIcon } from '@/components/icons';
 import { getDateString } from '@/utils';
 import type { ProjectsListType } from './types';
@@ -10,7 +10,7 @@ const ProjectsList: ProjectsListType = (props) => {
         const { createdAt, description, forkCount, name, stargazerCount, updatedAt, url } = project;
 
         return (
-          <CustomNextLink className='bg-primary hover-primary flex min-h-72 flex-col rounded-lg p-5' href={url} key={name}>
+          <Link className='bg-primary hover-primary flex min-h-72 flex-col rounded-lg p-5' href={url} key={name}>
             <h2 className='text-primary text-2xl font-bold'>{name}</h2>
             <p className='text-secondary mt-2 text-base'>{description}</p>
             <div className='mt-auto pt-5'>
@@ -49,7 +49,7 @@ const ProjectsList: ProjectsListType = (props) => {
                 </div>
               </div>
             </div>
-          </CustomNextLink>
+          </Link>
         );
       })}
     </div>

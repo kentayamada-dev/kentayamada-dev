@@ -1,13 +1,13 @@
-import { CustomNextLink } from '../customNextLink';
+import Link from 'next/link';
 import type { CopyRightType } from './types';
 
 const CopyRight: CopyRightType = (props) => {
   return (
     <p className='text-secondary text-center text-sm'>
       {`© ${props.copyrightYear} `}
-      <CustomNextLink className='hover:underline' href={props.homepageUrl}>
+      <Link className='hover:underline' href={props.homepageUrl}>
         {props.author}
-      </CustomNextLink>
+      </Link>
     </p>
   );
 };

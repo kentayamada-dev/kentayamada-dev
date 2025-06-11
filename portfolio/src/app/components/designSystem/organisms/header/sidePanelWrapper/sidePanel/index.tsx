@@ -1,5 +1,6 @@
 import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
-import { CopyRight, CustomNextLink } from '@/components/designSystem/atoms';
+import Link from 'next/link';
+import { CopyRight } from '@/components/designSystem/atoms';
 import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { LinkItem } from './linkItem';
@@ -44,9 +45,9 @@ const SidePanel: SidePanelType = (props) => {
                     className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} hover-secondary rounded-lg p-2 font-medium hover:cursor-pointer`}
                     key={key}
                   >
-                    <CustomNextLink href={href} legacyBehavior passHref>
+                    <Link href={href} legacyBehavior passHref>
                       <NavItem icon={icon} onClick={props.handleToggle} title={title} />
-                    </CustomNextLink>
+                    </Link>
                   </li>
                 );
               })}

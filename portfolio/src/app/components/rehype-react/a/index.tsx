@@ -1,4 +1,5 @@
-import { CustomNextLink, YoutubeEmbed } from '@/components/designSystem/atoms';
+import Link from 'next/link';
+import { YoutubeEmbed } from '@/components/designSystem/atoms';
 import { throwColoredError } from '@/utils';
 import type { AType } from './types';
 
@@ -45,25 +46,25 @@ const A: AType = (props) => {
 
   if (rest.href.includes('#user-content-fnref-')) {
     return (
-      <CustomNextLink className='text-blue-500 no-underline hover:underline' href={rest.href}>
+      <Link className='text-blue-500 no-underline hover:underline' href={rest.href}>
         {children}
-      </CustomNextLink>
+      </Link>
     );
   }
 
   if (rest.href.includes('#user-content-fn-')) {
     return (
-      <CustomNextLink className='text-blue-500 no-underline hover:underline' href={rest.href} id={rest.id}>
+      <Link className='text-blue-500 no-underline hover:underline' href={rest.href} id={rest.id}>
         {/* eslint-disable-next-line @typescript-eslint/no-base-to-string */}
         {`[${children?.toString()}]`}
-      </CustomNextLink>
+      </Link>
     );
   }
 
   return (
-    <CustomNextLink className='text-blue-500' href={rest.href} target='_blank'>
+    <Link className='text-blue-500' href={rest.href} target='_blank'>
       {children}
-    </CustomNextLink>
+    </Link>
   );
 };
 

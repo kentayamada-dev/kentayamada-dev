@@ -2,7 +2,6 @@ export { CopyRight } from './copyRight';
 export type { CopyRightProps } from './copyRight/types';
 export { CustomImage } from './customImage';
 export { CustomLink } from './customLink';
-export { CustomNextLink } from './customNextLink';
 export { Input } from './input';
 export { InputWithCombobox } from './inputWithCombobox';
 export type { InputWithComboboxProps } from './inputWithCombobox/types';

@@ -1,4 +1,4 @@
-import { CustomNextLink } from '@/components/designSystem/atoms';
+import Link from 'next/link';
 import { GithubIcon, KyIcon, StorybookIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
 import { LocaleSwitcherWrapper } from './localeSwitcherWrapper';
@@ -14,9 +14,9 @@ const Header: HeaderType = (props) => {
     <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-2 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
       <span className='flex items-center'>
         <SidePanelWrapper author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} locale={props.locale} />
-        <CustomNextLink aria-label={homeLinkLabel} className='w-10 text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
+        <Link aria-label={homeLinkLabel} className='w-10 text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
           <KyIcon />
-        </CustomNextLink>
+        </Link>
       </span>
       <span className='gap-x-reverse flex items-center gap-x-2'>
         <span className='hidden md:block'>
@@ -25,22 +25,22 @@ const Header: HeaderType = (props) => {
         <span className='border-primary hidden h-10 border-l md:block' />
         <LocaleSwitcherWrapper locale={props.locale} />
         <ThemeSwitcherWrapper locale={props.locale} />
-        <CustomNextLink
+        <Link
           aria-label={storybookLinkLabel}
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 md:flex'
           href='/storybook'
           target='_blank'
         >
           <StorybookIcon />
-        </CustomNextLink>
-        <CustomNextLink
+        </Link>
+        <Link
           aria-label={githubLinkLabel}
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 text-black md:flex dark:text-white'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           target='_blank'
         >
           <GithubIcon />
-        </CustomNextLink>
+        </Link>
       </span>
     </header>
   );
