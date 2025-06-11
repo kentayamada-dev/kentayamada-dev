@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5802fce135e360d8857fabb892421155.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa45a26eee325bad700385356c887d3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be4c1ed738c12e3ec685f5eec2d81701a8d83f13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00731463-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「顔をぱっと上げた瞬間に…」サッカー日本代表、森下龍矢のゴールのイメージは？ W杯出場へアピールしたい「強み」
+      <a href=https://news.yahoo.co.jp/articles/59fdb5527ef8f66560804be6591f81d68503a327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183022-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「一線を画す存在」久保建英、海外メディアから絶賛の嵐！「クライファートを沈めた」「重要性の高まりを強調」インドネシア戦で超絶ゴール＆アシスト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b716a04bdab032aec60187f17e6f802798f46991>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010003-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=1031&ch=1031&exp=10800&fmt=webp> 事前調整に明け暮れたマレリHDが再度破たん ～ 支援プレイヤーの場外乱闘の果て ～
+      <a href=https://news.yahoo.co.jp/articles/6be23cb59fc4880ef426553ed58c14d3bc7b2cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985503-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「大川原化工機」冤罪事件で都と国が上告断念“違法捜査”判決確定へ　警視庁は謝罪の方針…副総監トップの「検証チーム」設置
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea43cf2a0dda5f7d9195e1ceaae249552f017ed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000032-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「事務所も注意しろよ」「番組は悪くない」ファンの複雑胸中…『ラヴィット！』放送中に人気アイドルメンバーが骨折
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000032-flash-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「事務所も注意しろよ」「番組は悪くない」ファンの複雑胸中…『ラヴィット！』放送中に人気アイドルメンバーが骨折
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/7fff1c413f8307d6530611fb43ed065fd216c74ad84a006d2f0278cac71e5cd7.jpg> 大川原冤罪 国と都が上告断念
+      <a href=https://news.yahoo.co.jp/pickup/6541893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/902656a5987e195d08eb23805183f9789bc56fcd4f35318fb6cea167e290949b.jpg> 大川原冤罪 警察・検察がおわび
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/8acbfa1000ea00bcea055a081106909ac186956f7c055f02d6002d65635d1bb2.jpg> おかずは1個? 厳しい給食の現場
+      <a href=https://news.yahoo.co.jp/pickup/6541891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/12faadc2397fa01e1941f2a2d99de39e3584f3b02dc129422e87ff4643f79809.jpg> 前日に死球 G井上が周東に謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/888f440d2cdae28bb8b1eb1c7bd2f5455e732cd9431951337554d6aeb75f6254.jpg> α世代が夢中「しなこ」の素顔
+      <a href=https://news.yahoo.co.jp/pickup/6541889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/652ddcb21acef01fa04e6bf34984903809888e907814055e57d0fd32bb5a688f.jpg> キャプテン翼 大空翼に息子が誕生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 17:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 17:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
