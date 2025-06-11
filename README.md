@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ff3a2471a31c698a9083e2c39fb1ee6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/544731cb233da2533862b334e4ac797f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93d9944b22e49e36a048240057226bb164ad1e7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972782-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=852&ch=852&exp=10800&fmt=webp> 【 B'z・ 松本孝弘 】　体調不良のため　主催ライブ「B’z presents UNITE ＃02」　出演を辞退　「とても悔しく、残念でならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/798dc011de65186857fe55d607e1453cf4e192e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010014-kkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】鹿児島・口永良部島の噴火警戒レベル3（入山規制）に引き上げ　気象庁
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac0a71286525a4bd44ee6bcc1f88006709ea706e>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5532370a028b02d3672604134ac1aff8a84e575>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000094-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 警視庁で「抵抗していないのに手錠」　トイレ行かせず　都に賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ac3dc81c06d663eec570942606699e24726d7ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01076410-sportiva-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=900&ch=900&exp=10800&fmt=webp> サッカー日本代表で存在感増す久保建英 だがワールドカップ本大会でもこの「タスク」は相応しいのか
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4ced4deedc0971f9d2ab5282eac676a7e4f4633e89649036120b0dda3a800fbc.jpg> 南海トラフ被害1466兆円 学会推計
+      <a href=https://news.yahoo.co.jp/pickup/6541918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_33.png> 口永良部島 噴火警戒レベル3に
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/c766017170cdac77d39e59cf753012fd9e3977851bf2956e07ae0edec9200028.jpg> 中2を助けようと 2人とも溺れ重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541909>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiimasumi/02243664/title-1749547552437.jpeg?exp=10800> 預けた猫亡骸で戻る 団体どう選ぶ
+      <a href=https://news.yahoo.co.jp/pickup/6541917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f55ebbe66f3e83e2bb7d9a75868174c21e81a5d029042aea60d3fa9b3c5f5d5a.jpg> 中2を助けようと 2人とも溺れ死亡
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541913>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02244684/title-1749615438995.jpeg?exp=10800> Switch2 驚異の売れ行きどうみる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4d7c561bab380649c1faf0c4ce854d1a6405ff027a606534d3591107d0f03518.jpg> 横浜FMがJFLに敗れる ブーイング
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 21:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 21:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
