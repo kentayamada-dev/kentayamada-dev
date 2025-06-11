@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73cba54f42abadf4687676de013a1e78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/550a8144e7c86ec729d7f799cda8946c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12ce430fa4cadba7d1cdf997b67a6e9326aff4b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000006-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 米、対中55％関税維持　中国との合意後も「変更なし」＝商務長官
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3672eb844efb2323ab0c1b1842236c91f3eda067>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c10687d484c6eb0233c0661046ce722587302fc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000144-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「サムライトルーパー」草尾毅が続編を応援、旧作も「今日からまたよろしく」
+      <a href=https://news.yahoo.co.jp/articles/e0e2a01c0f55c2aff98b9d97f337904a0c5bc684>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-45959429-gekisaka-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> J1の3チームが天皇杯初戦敗退…J3・北九州はルヴァン杯に続く岡山撃破、J3相模原はJ2磐田に劇的勝利:2回戦
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa159315921b70227f7ce886683a51dfe387ad7c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 警戒レベル3に引き上げ　口永良部島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8e053c61728074f3a366c8132d3fcc3f9755751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死者5万5000人超える　配給所付近で銃撃続く　ガザ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 02:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 03:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
