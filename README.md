@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2869ddbe71b3f94bc85e62c38b6b513.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57967980f046f37ddfcf89f8c573e9c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/549d6ac1272d1bd235595c1d5e2a1fd114c07c21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000094-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> オンカジ利用の山本賢太アナ　完全カットの「合唱バトル」で「なんでだろう～」ポーズ　共演アナ投稿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97c78b8ca24c46e58f2835cc1a740b9c83f66215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000072-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=814&ch=814&exp=10800&fmt=webp> ドジャース「捨て試合」、大差ついてブルペン温存…大谷は8戦連続ノーアーチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acf092cf9d0745a7d5d9a5c657f3d53cfe8f54a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00174706-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 森保ジャパン、今回の活動は最も効率的だった。層の厚さを再認識も、最終ラインには不安材料。今後はCB陣の去就や充実度が、W杯の明暗を左右するか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dbc22426f4e634b2efc418ec6d170196963f0d0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-16597580-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ﻿米中高官、貿易戦争解消の枠組みで合意　トランプ氏と習氏に提示へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc23a18226671ff6cdddc88acf3e7c10ba62e968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000081-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝大谷は7試合連続安打、ドジャース大敗　鈴木は56打点目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d46436241583d81b3b0d2937b2d906fdcfe45f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000038-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 教員の処遇改善へ特措法が成立　給与引き上げ、「主務教諭」新設
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83dd652e737c62d5951f6bd88ff83d6e1b8982d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010013-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 「日本は本当に素晴らしいプレイを見せた」大勝を収めた日本にインドネシアメディアは脱帽
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/589cf4f8b8ebcff6692d84dc104e67c79a788ca0d3e195a76be1073b349cb0a1.jpg> 自公「給付」に再びかじ 苦肉の策
+      <a href=https://news.yahoo.co.jp/pickup/6541880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/245f1d139a2fc81c0a519f6e57359e20e3b0ad6d46d589895f4e3e005ea026f5.jpg> 大川原冤罪 東京都が上告断念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541859>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02244255/title-1749603682482.jpeg?exp=10800> 備蓄米追加放出の効果は 問題点も
+      <a href=https://news.yahoo.co.jp/pickup/6541874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/bfd6deee6ad0b5d0e20d85ee0d7f146742d0ec1d3c64092508da07e126f71a2b.jpg> 教員の処遇改善 改正給特法が成立
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/404ad704bddacf2f5b77c5e1a0b422bbd268e5c150e8b0e8b2b98b4663a6595a.jpg> 「独身税」と批判 表現は適当か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541872>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e16cdbac7fdb53bed4a725d8b219f18e5456ca82db70c44f89ad8a9ce89db46d.jpg> 即退職する新入社員 企業の対策は
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/173e23f3c88469efde0977ea5faa1833b899f9433f2dc30eb007dbb78ad7b4ae.jpg> Switch2 4日間で世界販売350万台
+      <a href=https://news.yahoo.co.jp/pickup/6541867>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02244261/title-1749601639338.jpeg?exp=10800> 家賃2.5倍と通知 中国では普通?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/63f110ba11e15693023cd63d0b18c22ac87254db7d8cc8036b24de69edc597af.jpg> ジャッジが24号特大HR 敵地騒然
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b80b3c34a950e22ea32be33645c4caa129aaf3cdca0b41d8b84e42f6d531de6f.jpg> 久保建英も危機感 代表の人気低下
+      <a href=https://news.yahoo.co.jp/pickup/6541878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f157ef8a1252f1e91d6b0d6c87827b841ded2e70886ce800e1a5e7b00ebf3a84.jpg> フジ山本アナ オンカジ利用が判明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 14:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 15:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
