@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd9600d76603ec07d4bf7b0be6ceed19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f22977ac52d471d02674a04ff75af71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0377f8355cabb3e1550a0b8ffd40cf5092e8546>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10552540-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平が術後3度目の実戦登板　ダルビッシュ有見守る中で術後最多44球、打者11人に1安打6K
+      <a href=https://news.yahoo.co.jp/articles/acdc9d9a494c27ed362831b0fd0a3f61ffac5670>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771515-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ライブBPで3回6K ド軍投手コーチ評価「制球が随分と良くなった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b294ae27b04c40b0f1f87382739543b2b72548f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00731199-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「決定力を備えている」鎌田大地がサッカー日本代表で活躍！C・パレスも前線で起用すべき。英紙が提言「その役割を十分担える」
+      <a href=https://news.yahoo.co.jp/articles/469e7001cf8de20d32a30122bef73d7988dae02d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米海兵隊員700人がロス到着　移民デモ対応、大統領は正当化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f6539b8bd2e83691d53cfc230666974de15cd02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985230-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ国家情報長官が広島訪問明かし核廃絶訴える「この狂気を終結させねばならない」
+      <a href=https://news.yahoo.co.jp/articles/39754d33f4bdd02877fba5b334d58f08fd0ce32e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182946-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 名古屋市中区のホテル強殺事件 新たに19歳の女から聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92e9eb23027f43db9e2088ac5fe54b8450e50772>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182933-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=584&ch=584&exp=10800&fmt=webp> 抗議デモ激化 トランプ大統領の指示で海兵隊約700人が米・ロスに到着
+      <a href=https://news.yahoo.co.jp/articles/d52c6ded0ac2be5a9ea1ab579709d600d8e4d358>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000004-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=577&ch=577&exp=10800&fmt=webp> インドネシアに大勝も楽観は許されない…森保ジャパン「’26年W杯での飛躍」への高いハードル
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/9c600638781cb2ba00a55f5bd12515acbabde2955e51d6413ee0d5e7bf3ed3aa.jpg> 送還のグレタさん イスラエル批判
+      <a href=https://news.yahoo.co.jp/pickup/6541834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4f466e7f94cafa1c4666fc5fd4d8ba91a368afe0434a5b7b01c82373b99675b4.jpg> ホテル強殺 19歳女から事情聴取
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2ffa765b775f7e6aa3b47e2063f8c111a504c86f127882f75c09d654455c3337.jpg> 中古車店が突然閉店 納車トラブル
+      <a href=https://news.yahoo.co.jp/pickup/6541838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b15bc6b2a77de3f91788d97e6ead91b054f327be62ce2a2e953297de8380370c.jpg> 人気スポットで不法投棄 住民怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/40268c114a93b8dd675908c944358b0e0693df44dfe59859952232830fac0404.jpg> 10番主将・久保 柿谷氏が絶賛
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541827>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f7981992d6dbef61655cb3f8669bc2b05335a7cb3a41b714ec949f2187202b17.jpg> 大谷が奪三振ショー ライブBP
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d34513b8a021522e434fdb421e59131b82a1c5ee5b2137f689379e365a04aa58.jpg> 「FNS歌謡祭」出演者の第2弾解禁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 08:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 09:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
