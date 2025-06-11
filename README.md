@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0508f117837ccdbef245e3ec31adb2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28b854ec5917fe5df714042f4bc78b47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b552a5c1373ca0e239a3de903a1cc2106dca7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972826-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 口永良部島　噴火警戒レベル2→3に引き上げ　10日間で火山性地震135回　鹿児島地方気象台「噴火活動の高まり認められる」
+      <a href=https://news.yahoo.co.jp/articles/206d296d0d518afd9b0dd1d8cf9465c4eceb4687>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050174-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 口永良部島の噴火警戒レベルを「３」に引き上げ…気象庁が噴石や火砕流に注意呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56df89482792eeefa5b15acb9a8372c59a2d737b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000067-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1458&ch=1458&exp=10800&fmt=webp> ＜鎧伝サムライトルーパー＞岡本英郎が明かす“鎧擬亜”デザイン秘話　草尾毅「色あせない斬新なデザイン」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1462f5d3c2b6a7efff02f93bd130361f0519d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000535-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 斎藤歩さん死去　60歳　映画・ドラマ多数出演、『サマーウォーズ』侘助役　がん闘病の姿をテレビで公表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2db3172699d11c6fac867f42cd169ee7cdad02c33b476e4b32c0df8a23590e0f.jpg> 山尾氏の公認見送り 玉木氏が説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541912>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/dd52f2f6978391bf8bc77c19ba1b31919d837c47d7040e5dd9746c5b51dc0db3.jpg> マスク氏 トランプ氏批判を後悔
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2db3172699d11c6fac867f42cd169ee7cdad02c33b476e4b32c0df8a23590e0f.jpg> 山尾氏の公認見送り 玉木氏が説明
+      <a href=https://news.yahoo.co.jp/pickup/6541924>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京の病院 初の内密出産が判明
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/4d7c561bab380649c1faf0c4ce854d1a6405ff027a606534d3591107d0f03518.jpg> 横浜FMがJFLに敗れる ブーイング
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541916>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/f1875891422232822e5cede72ac9cc4860e5c3f09dd5d63a26ae2deba61a9978.jpg> B'z松本 体調不良でイベ出演辞退
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 22:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 23:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
