@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/695f6f4aff0a20412006ce0427b2c26c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7d254bcb873447d363886011f2952d8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c10687d484c6eb0233c0661046ce722587302fc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000144-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「サムライトルーパー」草尾毅が続編を応援、旧作も「今日からまたよろしく」
+      <a href=https://news.yahoo.co.jp/articles/84dfb667fcc4d39058e558e7e7f77557a0d3206e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242325-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “極めて異例” 国民民主党 夏の参院選に出馬予定の山尾志桜里氏の公認の内定取り消しを決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19cfeb91783ed3371c376839fa9f6ac460045b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000217-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平　ライブBP4時間後のパドレス戦で7戦連続安打も…37打席ノーアーチ
+      <a href=https://news.yahoo.co.jp/articles/61a5d4a294d84ed1e96be5a6e0da31a799b0b3e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000001-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 中国空母艦載機が海自哨戒機に異常接近　「偶発的な衝突」誘発の危機
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c10687d484c6eb0233c0661046ce722587302fc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000144-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】「サムライトルーパー」草尾毅が続編を応援、旧作も「今日からまたよろしく」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3dcb920a6309fad29f04e3cac633efc4ce6e4a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-11649323-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 国民・玉木代表「擁立した私にも責任」山尾志桜里氏に公認取り消し伝える　反応明かさず「相手があること」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/a3d262e214eb129c47ab6f36716427f69cbe6bca9f45a2d2a908835989efb572.jpg> 営業利益500%発言 小泉氏の真意
+      <a href=https://news.yahoo.co.jp/pickup/6541928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/5c02c17e56330a1ef83028af19e539a7132e8dcc407557b42b668faa3049270e.jpg> ガザの死者数 5万5千人超える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/2db3172699d11c6fac867f42cd169ee7cdad02c33b476e4b32c0df8a23590e0f.jpg> 山尾氏の公認見送り 玉木氏が説明
+      <a href=https://news.yahoo.co.jp/pickup/6541930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a14af9c11e8e166664d2cc92073c57875cb9657f0d6dca4a7bbd0830af8941f2.jpg> 中国戦闘機 海自機に45mまで接近
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/56266b1c63d44988e453e089ba35359c91beb4827708c9ad52680efe657a3f7b.jpg> トラブル相次ぐ中古車店 客は怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541922>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/04acefd560173a0cecb35b546e5b7b9e01ba2a7a41d479d2735779831142d6d8.jpg> 韓国で過熱「身長」ビジネス
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/1a487957a1700082e180e6851387a70974d41a2f3cc4f66a2bfec65a2f48c6b3.jpg> サムライトルーパー 37年ぶり新作
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 23:52:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 00:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
