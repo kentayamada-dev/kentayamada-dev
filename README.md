@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b065ca3e1ef4e90f7bc5aa3700ac5785.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcf4be60df423ac5c00fc529653bddf2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4e8c0dad0f9b3d5ad1ab71c165a717182a31133>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-06111085-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1150&ch=1150&exp=10800&fmt=webp> ドジャース屈辱的大敗で首位陥落危機　１ゲーム差に３チームの混戦…大谷翔平は今季最長８戦本塁打なし
+      <a href=https://news.yahoo.co.jp/articles/aef3a3f3df3526898a6fb6e1676fb8ed0f7d3b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010003-sporting-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷は7試合連続安打 ブルペン過多で6回途中から野手登板のドジャースはパドレスに二桁失点で大敗 ｜MLB 2025（6.11）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba6b8e294a21e9e1513e2cdcde601988ec3f1220>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-35234114-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米中通商協議、枠組みで合意　提案を持ち帰って両首脳に提示へ
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a88fe6206162c5e032319d72a6026d75c3b9c4be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-08367615-nnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】日本学術会議を「独立法人」とする法律が成立　学術会議側は「政府からの独立損なわれる」と疑念示す中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9faaf711da7aaf404c24a70e4dcdee3be01938fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985294-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国によるレアアースの輸出規制緩和に期待感　米中閣僚級貿易協議“貿易枠組み”で合意
+      <a href=https://news.yahoo.co.jp/articles/1d2f0eaa776f6f2047185cea43b16b21fea547af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10552555-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=672&ch=672&exp=10800&fmt=webp> ヤンキースのジャッジが2戦連発の24号先制2ラン　打点もリーグ単独トップ浮上　左腕フリードはハーラー単独トップ9勝目
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/8f6f21edeb547fcbbf69e1f028233041e587a8586a4e578480988f8582b745ca.jpg> 学術会議法人化の法律成立 懸念も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541833>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/589cf4f8b8ebcff6692d84dc104e67c79a788ca0d3e195a76be1073b349cb0a1.jpg> 自公「給付」に再びかじ 苦肉の策
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/d231bcabaea763714c49bc7064b194f47c53ef10535aa9ae72bc8a3eb35c7a98.jpg> 不登校家庭に10万円 保険開発の訳
+      <a href=https://news.yahoo.co.jp/pickup/6541859>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02244255/title-1749603682482.jpeg?exp=10800> 備蓄米追加放出の効果は 問題点も
       </a>
     </td>
   </tr>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/e16cdbac7fdb53bed4a725d8b219f18e5456ca82db70c44f89ad8a9ce89db46d.jpg> 即退職する新入社員 企業の対策は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541863>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/173e23f3c88469efde0977ea5faa1833b899f9433f2dc30eb007dbb78ad7b4ae.jpg> Switch2 4日間で世界販売350万台
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/89b493d8b620f12fc7e94f1e6bafe7381d7b419dda06ed4d1b6d1976a855b8f4.jpg> 大谷が途中交代 8戦連続でHRなし
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/caeb1deee13d312d4deeb78e668ffd9fbd789aadb2eb4e1eff8686b79c7e53de.jpg> 大谷の圧巻ライブBP ダル見守る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 13:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 14:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
