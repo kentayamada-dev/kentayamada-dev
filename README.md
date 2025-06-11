@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b2c70997fd6fcdc1d11592fa0631c9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0508f117837ccdbef245e3ec31adb2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69b8d323a024009ab5a46e6c01dc7de03d585eac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000245-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1487&ch=1487&exp=10800&fmt=webp> 川で流され2人死亡　女子生徒と救助男性、岡山
+      <a href=https://news.yahoo.co.jp/articles/54b552a5c1373ca0e239a3de903a1cc2106dca7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21972826-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 口永良部島　噴火警戒レベル2→3に引き上げ　10日間で火山性地震135回　鹿児島地方気象台「噴火活動の高まり認められる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ba58246a2140672e12a57b9f4ac9425e2c147a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000081-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 鹿児島・口永良部島に噴火警戒レベル3　噴石と火砕流に警戒呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/b3dcb920a6309fad29f04e3cac633efc4ce6e4a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-11649323-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 国民・玉木代表「擁立した私にも責任」山尾志桜里氏に公認取り消し伝える　反応明かさず「相手があること」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77384408e1494ce389066753b68e9b8dd3da5043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10183113-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=800&ch=800&exp=10800&fmt=webp> どうなってんだよ！ パドレスの暴れん坊・マチャド、まさかの“ガム噛み爆走”が話題に「ハラハラするわ」「これはビビる」
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07cc16c7077e8358f8cce5ed8f7dc999318ec006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050136-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 随契備蓄米、３回目の受け付け開始…小泉農相「ニーズが非常にあるという印象」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00050136-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=372&ch=372&exp=10800&fmt=webp> 随契備蓄米、３回目の受け付け開始…小泉農相「ニーズが非常にあるという印象」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bf34aa6263644e63ee6eb4cae5e4567974687f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース 大谷翔平 3打数1安打 チームは1-11で大敗 6回途中から内野のヘルナンデスが登板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c84fc1996f82e0dd322697c1cd6fca7258add5e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00985712-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「疑問払拭する会見で無かった」山尾志桜里氏の公認見送り「全国から公認見送っての声」“出馬会見”翌日に国民民主が発表
+      <a href=https://news.yahoo.co.jp/articles/3b1462f5d3c2b6a7efff02f93bd130361f0519d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000535-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 斎藤歩さん死去　60歳　映画・ドラマ多数出演、『サマーウォーズ』侘助役　がん闘病の姿をテレビで公表
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541913>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02244684/title-1749615438995.jpeg?exp=10800> Switch2 驚異の売れ行きどうみる
+      <a href=https://news.yahoo.co.jp/pickup/6541922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/04acefd560173a0cecb35b546e5b7b9e01ba2a7a41d479d2735779831142d6d8.jpg> 韓国で過熱「身長」ビジネス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 22:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 22:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
