@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/550a8144e7c86ec729d7f799cda8946c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21aeac144b3e9c2b3523d31b343a2305.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c45790c202d27ec8578b5338b87a200d01af5edb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90027141-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 石破総理は“否定”給付どうなる？コメ・減税などで応酬…参院選前 最後の党首討論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3672eb844efb2323ab0c1b1842236c91f3eda067>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121001-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平９戦ぶり２４号なるか、パドレス戦「１番ＤＨ」スタメン入り　負ければ３位転落危機
       </a>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0e2a01c0f55c2aff98b9d97f337904a0c5bc684>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-45959429-gekisaka-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> J1の3チームが天皇杯初戦敗退…J3・北九州はルヴァン杯に続く岡山撃破、J3相模原はJ2磐田に劇的勝利:2回戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa159315921b70227f7ce886683a51dfe387ad7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 警戒レベル3に引き上げ　口永良部島
+      <a href=https://news.yahoo.co.jp/articles/df128a05445aabafad6fd6ea2106f021b937c975>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90027142-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「やっと…」都と国が上告断念し謝罪も　『大川原化工機』めぐる冤罪事件
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 03:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 03:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
