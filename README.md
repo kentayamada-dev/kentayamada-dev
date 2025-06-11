@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f22977ac52d471d02674a04ff75af71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5a9d1b681df7fe6493b01c8a4fc087b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acdc9d9a494c27ed362831b0fd0a3f61ffac5670>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771515-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ライブBPで3回6K ド軍投手コーチ評価「制球が随分と良くなった」
+      <a href=https://news.yahoo.co.jp/articles/19bac3184bcac91c9dd300d9988bdc11cd3a3646>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-01771665-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、球宴前に復帰の可能性　指揮官が示唆「全くゼロではない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/469e7001cf8de20d32a30122bef73d7988dae02d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米海兵隊員700人がロス到着　移民デモ対応、大統領は正当化
+      <a href=https://news.yahoo.co.jp/articles/28120997edc6ab9b25a0a0c05348bc1b4cdec66e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-21970468-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 【大雨情報】すでに400ミリを超える大雨…西日本〜東日本では「警報級大雨」の可能性　土砂災害に厳重警戒【気象庁・全般気象情報】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39754d33f4bdd02877fba5b334d58f08fd0ce32e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182946-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 名古屋市中区のホテル強殺事件 新たに19歳の女から聴取
+      <a href=https://news.yahoo.co.jp/articles/78eaee78b5797b7bd2be3d3e90b6cfe63294a7a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00000020-ann-000-5-thumb.jpg?exp=10800&fmt=webp> LA抗議デモに海兵隊700人派遣　トランプ大統領「知事に任せたら内乱になる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81a048be307debeee2836d72504d9a37bcd9eb6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> なぜだ？米品薄のはずが、突然店頭に「米が山積み」「おかしい」の声…進次郎農相、大手柄！そして「悪いのは誰？」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/644266a0fd67a67fd2485e165e4c8edab1351dff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250611-10182905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 夏の選挙の争点は「コメ政策」になる？政治ジャーナリストが各党の立ち位置を分析
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/b70068a57858b9560eb6e6daa603736463954a74b8c401a913afb5cf9e1f45e9.jpg> 雨 九州南部は土砂災害に厳重警戒
+      <a href=https://news.yahoo.co.jp/pickup/6541841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/39bec190d13a2c3490eb169751c3964297dbf3739eb60093bbfd68cbecc8929e.jpg> 西日本中心に大雨 土砂災害に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/11/22ab69781854eea557e0b52017ce86f2b7dbe25ce771da13889c558db7257df0.jpg> 柏崎原発に燃料装てん 異例の手順
+      <a href=https://news.yahoo.co.jp/pickup/6541839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02244177/title-1749597033447.jpeg?exp=10800> 備蓄米などへの転売規制 どうなる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/11 09:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/11 09:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
