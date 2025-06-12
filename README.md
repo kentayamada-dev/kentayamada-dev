@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06a21b1e53638f93353d3726fdd0f31c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39a745f821acf1f28390ad01713ad6ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25d2800381e0393d821bdfbd8f696bc550dc8549>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000016-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=661&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米支援の「ガザ人道財団」、ハマスの襲撃受けスタッフ5人死亡と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4d84d4eae74e2605d04924fa28e5ff85a4f062b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00174758-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=427&ch=427&exp=10800&fmt=webp> “不適切行為”が発覚。J３奈良が中田一三監督との契約を解除。後任は今季途中まで富山を指揮していた小田切道治
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/690dc401f7c7f0362bf66b543b838501d36d886f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000026-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf7ef908a8a7b9a85b27a37c96e86a0b77b3f51f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 現金給付の選挙対策も…石破首相の“過去発言”がネットで再拡散も、気になる「参院選の行方」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b0a219ec5d43c9aa42723c6a91c2e0a36586e9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「貿易交渉期限の延長、用意はあるが必要でない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed3eb5c53ad5e4158ca234d53cd5a19cb03c2a4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ物資配給財団、5人死亡　ハマスが襲撃、混乱拡大必至
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b01b17343fe7de25621478e42763de7348157415>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00150434-exp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=528&ch=528&exp=10800&fmt=webp> LE SSERAFIMと星野源が初タッグ、Netflixシリーズ『My Melody & Kuromi』主題歌を担当
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d01af1473464affaa73b8357b03eafff501cae5d911d94e12293a9d0d102c428.jpg> 北朝鮮がトランプ氏書簡拒否 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3d653a24c29da64dd94dd1a3c352411a2b07ccd78f2e752eb1891f829d59f97f.jpg> 米国 関税停止「期限延長の用意」
+      <a href=https://news.yahoo.co.jp/pickup/6541962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/bcf71f5d4dad7eed973475a88aacdc6ff93719c47979308fb1ea33c46f944c65.jpg> 給付vs.消費税減税 違いと効果は
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541952>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米ディズニーなど AI企業を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e4ab82f7d18e597ac405db845e7624e3f97d1b9dad2303b780bc2c6d1bf62f81.jpg> トランプ氏復帰後 米好感度が急落
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/926484a8e76e1bf5ec3a061d6d0922b4bbfd5b985530df773b6f88a6f77d043b.jpg> 角田裕毅が今季限り解雇か 英報道
+      <a href=https://news.yahoo.co.jp/pickup/6541952>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米ディズニーなど AI企業を提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/837e547a3e26348b624f8ebf49cbe577e97569f26e7c5a3ced9121e70f5ef348.jpg> LE SSERAFIM楽曲 星野源手掛ける
+      <a href=https://news.yahoo.co.jp/pickup/6541964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d48c6096c00e7ce65f5c3c30864580db6d77806c3cae8f0c3f04afc902624f10.jpg> J3奈良 監督が不適切行為で辞任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/926484a8e76e1bf5ec3a061d6d0922b4bbfd5b985530df773b6f88a6f77d043b.jpg> 角田裕毅が今季限り解雇か 英報道
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 11:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 11:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
