@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4a330b722071e1372e5750941d1dfe38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/893fcbc0b02f9bc63af204185eee455c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f14c8907c10f80c39478db90747f820cdc9717e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 米財務長官「相互関税の一部停止期限、延長の可能性高い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/176cf6460aa2121823eab2d21f8480e31ffd72f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000140-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=894&ch=894&exp=10800&fmt=webp> ド軍指揮官　決勝3ランのT・ヘルナンデス絶賛「今季最大級のヒットだった」パ軍に勝ち越し首位堅持
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7de6834a3e27fb04034673e07fc9354207530dc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000022-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 山尾志桜里氏の参院選公認見送り　不倫疑惑など釈明も…国民・玉木代表「私にも責任」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000022-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 山尾志桜里氏の参院選公認見送り　不倫疑惑など釈明も…国民・玉木代表「私にも責任」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67165f7fca6d664b1216bf194f9885a4bc421611>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000031-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> ロバーツ監督「反発力見せた」、報われた前日の「捨てゲーム」…惜しみなく８人の継投、大谷翔平は三塁打で貢献
+      <a href=https://news.yahoo.co.jp/articles/cbeeae716aef395df4e685f7740ab511ca40a10e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010000-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 小泉大臣、お米買い溜め業者に「コメ抱えてる人いる。出してもらう」…戦え！「自民党農水族が守りたいのは農家ではなく利権だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0b5de867a58d275cc913c2bdb7e003041cc647f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 夜間外出禁止令の米ロス、一晩で２００人超逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/051b68a5ef08e6405b5b8b2aa4a8a707be51004e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00050042-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ベッセント財務長官、相互関税上乗せ分９０日間停止の延長示唆「誠意ある国との交渉継続のため」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63a3a5ba57cd7cec2ee1bf5bb1a037fe56c5b964>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00258444-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=847&ch=847&exp=10800&fmt=webp> 政界の“最長老”小沢一郎が内閣不信任案を見送るなと「立憲」に苦言　「自民党と裏取引する野党は自滅する」
+      <a href=https://news.yahoo.co.jp/articles/e10f5d2e3e48027342b3cb3d439e370d7cb89fb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「舞台は変われど…」不振の角田裕毅、ローソンに待つ過酷な道のり「RB21というマシンは『才能』だけでは足りない」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3d653a24c29da64dd94dd1a3c352411a2b07ccd78f2e752eb1891f829d59f97f.jpg> 米国 関税停止「期限延長の用意」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541950>
@@ -412,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541945>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/69700b7b4e476c3c6ed62e6321c5dd538b8d574d3b700d1b3c9f94203abd53aa.jpg> 国民民主の候補「失速」に焦りも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/753d6d506d3391f2ff2a1e8b96b546a3875de4a8101aa9985cb3aad520da3e26.jpg> 日本郵便 佐川などに集荷委託打診
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4fcbb76abdb37621641dc62388693bd5a53900103c725b484e741078a0922c2b.jpg> ホテル男性強殺事件 19歳女ら逮捕
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/926484a8e76e1bf5ec3a061d6d0922b4bbfd5b985530df773b6f88a6f77d043b.jpg> 角田裕毅が今季限り解雇か 英報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541943>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/8b68b5f6ef673e90c46d129065732acefd4a1607efc6c3eb891f6876fe9e1060.jpg> 本田真凜 映画で俳優デビュー発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 09:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 10:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
