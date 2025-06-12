@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80856c6fbcfbef7e3ecaf20b51836834.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a9138dacfbe1bc097ec206e6d906f4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a764794097c68fc778d3518a052e8c97f58fc4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 日米関税交渉巡り与野党党首が会談　首相「双方の利益実現が重要」
+      <a href=https://news.yahoo.co.jp/articles/26e912128ebe7e082cb40be0643b2c7cfd18729e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120691-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 「人事が珍しく当たった」田崎史郎氏　石破茂首相が野党攻勢に反論した党首討論受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bd2fc07fdb2da9c784ca73710458a84c7f7c97a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000046-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 岩橋玄樹、7年ぶり地上波ドラマ主演に「ワクワクした」　自身のギャップも告白「寝るときに…」
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72f98c99755c4f92cc441c17486d10deaaa0c978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000191-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 泉房穂氏　参院選は「コメの値段だけが争点じゃない…消費税の減税をはじめとした国民負担軽減…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f95f1ad6b44a8f016fe3998166d6e55353b43fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08883931-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　8試合連続安打でパドレスに勝ち越しも快音は響かず　今季ワーストの9試合連続本塁打なし
       </a>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4a8baa5238e9e01b1e0c78f4d400fe33a5e746dcdb315a594184bb6c056f4cec.jpg> 梅雨真っただ中でも 来週39℃予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/429beb35a8c26274dd353aab77ee87aea30c24a59cca27bb296b8a34b794cc5e.jpg> トランプ関税巡り 与野党党首会談
+      <a href=https://news.yahoo.co.jp/pickup/6541988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cb79b1d7b48cb15699d7efef11fcad180bac3d150e71c1390f9fee398b03c5d2.jpg> 大川原冤罪「遺憾」と警察庁長官
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541974>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1112095d62e42b2f1155b054566306dd7929d267a2324b8a4340202f20abd31f.jpg> 山尾志桜里氏 国民民主党に離党届
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4a8baa5238e9e01b1e0c78f4d400fe33a5e746dcdb315a594184bb6c056f4cec.jpg> 梅雨真っただ中でも 来週39℃予想
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0109f2224b514145990758bb6f82902748d34916359206e27dbfbe9944a2597f.jpg> 介護福祉士 不合格でも取得に賛否
+      <a href=https://news.yahoo.co.jp/pickup/6541978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0932594a23c8f864169d9da4959a7c0d6d019890cf53bb3bc8298c17d722de5c.jpg> ピットブルに犬殺され 飼い主が涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 14:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 14:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
