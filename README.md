@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc2513932a84be0995704fa9e6ae0359.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4baf2955a5baba85d3652583d80132cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71c716540343ce50f0db7aacf8b480daaf249948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２４２人が乗ったインド旅客機、離陸中に墜落…「全員死亡か」
+      <a href=https://news.yahoo.co.jp/articles/b06424d29f97abefb794b13c25e8f657440b0773>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06131016-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ジャイアンツ、逆転サヨナラ負けでド軍に並べず　７連勝でストップ　１４日から直接対決３連戦　初戦は山本由伸
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecc641c1a062b2f1a52153874aeff01febba5f54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986463-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「アメリカがUSスチールの黄金株を持つ」日本製鉄の買収計画めぐり明言　完全子会社化には「アメリカが51％の所有権握る」
+      <a href=https://news.yahoo.co.jp/articles/5fe4f8f08f9f68626e3af1d02cd62dc04bfe8df7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-10183321-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> インド旅客機墜落 生存者1人確認 242人が搭乗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd6c36669d3759faa4abe6849de4d55f2cbec0fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000032-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 米ボーイング株4.8％安　インドの墜落事故受け
+      <a href=https://news.yahoo.co.jp/articles/60c4db0017d6e194317457b383af2375603dffe1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986476-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乗客乗員242人のうち1人生存…インド旅客機墜落　墜落時に大学宿舎に激突し学生5人死亡　機体は事故2日前に羽田空港とインド・デリー往復便に使用も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/021fe10cda2b6d6e900fd0305de2ff7f42f12c9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチールの黄金株「米国が保有」トランプ氏、日鉄の買収計画巡り説明　枠組みは触れず
       </a>
     </td>
   </tr>
@@ -386,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e80e573637ae4a4b5870bd7d2450a2448b1ae84eaf21b9a622674e5efda74768.jpg> インド機墜落 241人死亡、1人生存
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542031>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e66930ff8a96d77b3bd5dddc7cb34fce466865bc2d858c96008ab2e6f829da46.jpg> 与党の現金給付案 なぜ2万円
       </a>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/837f3b6ff9f19514197295105d56aec9aa38635ac4ae9e3c98e636bd3b9cee04.jpg> 印の墜落機 2日前に羽田便で使用
+      <a href=https://news.yahoo.co.jp/pickup/6542045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/186f9b4a82a161da8b5513a7c13fc63dca7e89873346302eaf42403f59bf1739.jpg> USS買収「黄金株」米政府が保有
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02245521/title-1749681550510.jpeg?exp=10800> 川で溺れ死亡「後追い沈水」とは
+      <a href=https://news.yahoo.co.jp/pickup/6542048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/df128439d8161caaa1fc31e603d3a15d67d9da79e61d00f764642da3ac11e66f.jpg> 「STARTO」福田淳社長が退任へ
       </a>
     </td>
   </tr>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/38f9becae508a820eb6e9cfbaab2552019f96c86eea1642c8cd0a724b562f102.jpg> 管理栄養士休職 給食のおかず持参
+      <a href=https://news.yahoo.co.jp/pickup/6542046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bdc366c597953c924f3b7885742f33059744751352844c6270f6e3163b6ad1a9.jpg> Z世代「ステーキ離れ」加速 背景
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f0a2579f37d22bcb8565e6b0e90619426cd3f347022ab66d1651e51dcb66f593.jpg> 宮舘涼太 けがでMV一部出演せず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 07:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 07:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
