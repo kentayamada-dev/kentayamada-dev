@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6bad9d332c2b48f0da930b0ddc208fe6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc2513932a84be0995704fa9e6ae0359.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e955ad7c93b8d5b581847e694b42222dcd4e0338>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986462-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド旅客機墜落　乗客乗員242人のうち生存者1人・死亡241人と発表…大学宿舎に激突し学生5人死亡・多くの負傷者　地元メディア報じる
+      <a href=https://news.yahoo.co.jp/articles/71c716540343ce50f0db7aacf8b480daaf249948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２４２人が乗ったインド旅客機、離陸中に墜落…「全員死亡か」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53235e40910b5809038673f7db4b8a6ec501f932>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130047-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 千賀滉大が緊急降板　６回途中無失点で７勝目も右太もも裏痛　検査後に負傷者リスト入りへ
+      <a href=https://news.yahoo.co.jp/articles/ecc641c1a062b2f1a52153874aeff01febba5f54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986463-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「アメリカがUSスチールの黄金株を持つ」日本製鉄の買収計画めぐり明言　完全子会社化には「アメリカが51％の所有権握る」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd6c36669d3759faa4abe6849de4d55f2cbec0fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000032-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 米ボーイング株4.8％安　インドの墜落事故受け
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02245521/title-1749681550510.jpeg?exp=10800> 川で溺れ死亡「後追い沈水」とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542040>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/837f3b6ff9f19514197295105d56aec9aa38635ac4ae9e3c98e636bd3b9cee04.jpg> 印の墜落機 2日前に羽田便で使用
       </a>
@@ -402,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/38f9becae508a820eb6e9cfbaab2552019f96c86eea1642c8cd0a724b562f102.jpg> 管理栄養士休職 給食のおかず持参
+      <a href=https://news.yahoo.co.jp/pickup/6542041>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02245521/title-1749681550510.jpeg?exp=10800> 川で溺れ死亡「後追い沈水」とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/790783d335a3f2db5da2cf93e34188853e87371a2e2c2f7019e8a6ff43742143.jpg> 納車トラブル 社長に元店長あきれ
+      <a href=https://news.yahoo.co.jp/pickup/6542043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/d4c95bcd93bb95aac4e5977143588fad984c5af0776a54223761c2e283a6bf95.jpg> 厳しい家電市場 なぜニトリ参入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/38f9becae508a820eb6e9cfbaab2552019f96c86eea1642c8cd0a724b562f102.jpg> 管理栄養士休職 給食のおかず持参
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 07:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
