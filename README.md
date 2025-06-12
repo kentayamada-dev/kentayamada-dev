@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc87d45a620ad0e7ca6e152aeb4fef12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b2a2ad154b61484ad09a5ea5bc2468b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d356cc3b871d27d0e728fe19006a3fe228c484f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-05997754-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 242人を乗せた旅客機、医療機関の宿舎に墜落か　インド西部
+      <a href=https://news.yahoo.co.jp/articles/9d4bdc71fde68842dbffed71a1056ad0cc556831>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242581-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=574&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 企業・団体献金の扱いめぐり協議継続へ　与野党が来週にも申し合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ca9701641511c51cdbe10c9392db349d6f34605>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-02867633-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> マンション家賃“倍増”一転取り消し　通知は“紙切れ1枚”…謝罪なく住民は不信感　国会でも問題提起
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ac54e325086e0441f9eb1ad54f6682c5529d454>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975372-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 口永良部島「夏休みやお盆が心配」噴火警戒レベル3に引き上げ　気象庁が機動調査班を派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7dc20a3a50493a2b7c0a90c0bf219ae9904c0c1f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183248-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 「食料配布が殺害機会に」ガザ地区の死者5.5万人超 OCHA前所長が非難
       </a>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/bb61563db048148a0bfa60fddeba724ca6e2409bc7e06c55464d175ad1fa68b5.jpg> 現物支給も 自治体の「米支援策」
+      <a href=https://news.yahoo.co.jp/pickup/6542030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3b732a373c922123e88fe6c62110db2f30fac537d761bfe31ee61b4beedd2b8f.jpg> 与野党 企業団体献金の結論先送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4b9032e28731db3fa3f27753f88125a3feb8b0851872387910b7e890a07dbb4d.jpg> 中国 海自機への接近巡り日本非難
+      <a href=https://news.yahoo.co.jp/pickup/6542029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/072b32ddbae0f5c6b211983045e065de164f726a97a54b28604a962f7a32333f.jpg> 随契の備蓄米 沖縄以外で販売確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/6723fb4d67e6ad2deeeea6b4223d7670670db4e140873861c3250b529c7edaa6.jpg> 240人超乗る旅客機が墜落 インド
+      <a href=https://news.yahoo.co.jp/pickup/6542028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/619fdb505e051457944b548858e46b0a45d140af810c48b0f933f33de44d526a.jpg> 旅客機墜落133人死亡確認 印報道
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/92024c6bb02bdf9492591e90e66dc3b6c3902d314d0410dee445ac7b69f1d758.jpg> うどん食べて育ったウニ誕生 香川
+      <a href=https://news.yahoo.co.jp/pickup/6542025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/33578386d62d827f702c6ee02bc56944424b924cde8bbdd08deae5727ef6b89f.jpg> コンビニおにぎり「200円時代」に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 20:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 21:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
