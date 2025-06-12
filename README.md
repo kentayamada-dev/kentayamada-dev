@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b2a2ad154b61484ad09a5ea5bc2468b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d24915e861b99bd9d1608f17fa856659.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d4bdc71fde68842dbffed71a1056ad0cc556831>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242581-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=574&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 企業・団体献金の扱いめぐり協議継続へ　与野党が来週にも申し合わせ
+      <a href=https://news.yahoo.co.jp/articles/7da9dc575182d53c3a661415957f71a632d3f8fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975574-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「予想より下振れの可能性ある」現金給付に“財源不足”懸念の声、衆参ダブル選挙あるのか?“山尾ショック”の影響は?【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eefc88ff4cc29bf4ae2a980ce4eaecbb45d8bceb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183298-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウソだろ…フリーマン、ヘルメット飛ばし“激走” 前日の試合で足痛めるも驚きの全力疾走 ド軍ナインに火をつける献身的プレー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5da85db16b54dbf41a0826b23c7e655f9b60cb66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986340-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「カーネル」中古車販売トラブル　元店長「5か月の給料未払い」…“融資遅れ”に社長は呆れた言い訳「先方が緊急入院」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46f4465fa844fec11f0cec21a14d44587c1de3fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00027202-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「現金給付」vs「消費税減税」物価高対策、どう違う？
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ca9701641511c51cdbe10c9392db349d6f34605>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-02867633-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> マンション家賃“倍増”一転取り消し　通知は“紙切れ1枚”…謝罪なく住民は不信感　国会でも問題提起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6079a3bdeeb843b538b36c5fd318b28140fad6dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-01180241-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 立民「神奈川国対」が内閣不信任決議案に苦慮　来週がヤマ場、異例の構想も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f2ef9931251d3467c9c3a963f1e6ea8a37f133c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986170-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】“物価高対策”「2万円案」報道も与党の“給付”金額は?積み増し求める声も　石破首相「本当に困っている人のために」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dc20a3a50493a2b7c0a90c0bf219ae9904c0c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183248-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 「食料配布が殺害機会に」ガザ地区の死者5.5万人超 OCHA前所長が非難
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/619fdb505e051457944b548858e46b0a45d140af810c48b0f933f33de44d526a.jpg> 旅客機墜落133人死亡確認 印報道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1708ff076633122b337e577bca9684dd4698583528db39bb1c6e80b228450a8c.jpg> 旅客機墜落133人死亡確認 印報道
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/79497fe4bee51570f035cc2ddb79add61e7eb4be57532d3eee684b7b0e7a56c8.jpg> 30代の妊婦が死亡 オウム病の疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/08242332ad45b92d796dd199abcc3337fded77f3600acc34e229f314db065870.jpg> 米移民政策巡りLAのセレブら異議
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cd47c1f9e652705731639ecae7ece93871e006aae38dab8ab584d67b36440bab.jpg> HR広告直撃でおねだり→100万円
+      <a href=https://news.yahoo.co.jp/pickup/6542026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/b2f1c7b5e9890fa157ce7ca42b92ed2c3f578fb257005c6a7aa75ce8452b4939.jpg> 卵子数検査事業に疑問の声 県中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 21:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 21:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
