@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d178780de9bad5648703a4a048203dee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88786c9a08715188e5a5a743ed5b1ae2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cc1ba44e707dd5078ee7e6c4f24d5f1aedcf26b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000113-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 航空需要世界3位のインドで大事故　病院には親族ら駆けつけ
+      <a href=https://news.yahoo.co.jp/articles/bfe06342088c3c816dc4193fc959687ab18a5d6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00050221-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 現地の日本人会「日本人が事故に巻き込まれた情報はない」…州内には５０社以上の日系企業進出
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/79497fe4bee51570f035cc2ddb79add61e7eb4be57532d3eee684b7b0e7a56c8.jpg> 30代の妊婦が死亡 オウム病の疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/38f9becae508a820eb6e9cfbaab2552019f96c86eea1642c8cd0a724b562f102.jpg> 管理栄養士休職 給食のおかず持参
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d28a0f7b9663dae0b502fd86087c1c2f762f4b9ef3c57a4c49fd984ccc35b7ad.jpg> 朝日に続き毎日も 土曜夕刊休止へ
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542037>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/790783d335a3f2db5da2cf93e34188853e87371a2e2c2f7019e8a6ff43742143.jpg> 納車トラブル 社長に元店長あきれ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/33578386d62d827f702c6ee02bc56944424b924cde8bbdd08deae5727ef6b89f.jpg> コンビニおにぎり「200円時代」に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 23:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 23:52:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
