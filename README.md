@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/521761025411d1ea8050f2cc3399a409.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80856c6fbcfbef7e3ecaf20b51836834.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8da81b214e4dd6ca1a364b8c89296642d7de846d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 名古屋・ホテル強盗殺人　新たに19歳女性ら2人を逮捕
+      <a href=https://news.yahoo.co.jp/articles/5a764794097c68fc778d3518a052e8c97f58fc4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 日米関税交渉巡り与野党党首が会談　首相「双方の利益実現が重要」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8aacf4859362bfa69f2de7c8e4501f200d3bc8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-26597023-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 物資配給施設に殺到するガザの人々、英語で指示する声も……イスラエルの反戦活動家が映像を公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4fc5ed44cc30744573d1ead064ddc46f0b85185e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> ベッセント財務長官が相互関税の停止期限延長を示唆：行き詰まるトランプ関税政策
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce634cdd9d5e96cdbfc7e283c9a912d2b707ecfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f95f1ad6b44a8f016fe3998166d6e55353b43fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08883931-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　8試合連続安打でパドレスに勝ち越しも快音は響かず　今季ワーストの9試合連続本塁打なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25d2800381e0393d821bdfbd8f696bc550dc8549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=661&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米支援の「ガザ人道財団」、ハマスの襲撃受けスタッフ5人死亡と発表
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/facee5c0b96bf654c019a0bc6d9c4d558678f3c4e8af50ea4b7bdc501369ab61.jpg> LA夜間外出禁止令 200人以上逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/429beb35a8c26274dd353aab77ee87aea30c24a59cca27bb296b8a34b794cc5e.jpg> トランプ関税巡り 与野党党首会談
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f826ebf9a2804b88d1ad714c491348b4a7f5e59be3d1fdfb7a3888204d0d8b14.jpg> ホテル男性強殺 美人局から殺害か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541973>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a1590ebd5d1a36d7926d7c8d16868b6a44388c61ada3747cf9615e4aa01c0415.jpg> トンネル逆走事故 運転は99歳男性
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/70564fa57ae05bfa1173e4a3f3118cf9ef1b3e8a0a2302340ba1575655df125f.jpg> BTSメンバー宅侵入未遂か 女逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6541969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f702c5978f44cacedd1edc97b72974a3b4e8efc7aa2b882d54c5395c2469aea0.jpg> 住民名の「〇〇の乱」記録 町謝罪
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/9754d353d161204ae6a4b2283ee93921a37c30b111ddccdde5a8a2935e011999.jpg> 家賃2.5倍 住人側に撤回通知届く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/c3e52696d9ac4476a781d36d398e06bc6d0410370fcab22cf605c2770be0a0e9.jpg> [Alexandros]再び前日に公演延期
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/25a65c3f55e33677dbe7eff56bec7abb098f16613da58ff3f7a34fe51a1052c1.jpg> [Alexandros]再び前日に公演延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 13:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 14:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
