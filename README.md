@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdc94fc06cbf833557d5685c221e6b93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfc4079b59553ac0964b7ca54ea5e186.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,30 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/222f30b69f0bfdd22f6f32f86e4885a5749943ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岡山市の旭川で溺れ２人死亡【岡山市】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbf21666463e6f998a5205351184e7a34496799a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-01662732-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 口永良部島の噴火警戒レベル３に引き上げ　噴石や火砕流に警戒　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0adf847b4821e96fe538ebf2bd9ec19158c7850e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242512-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 現金給付に“トランプ関税”の影 「予想より下振れの可能性ある」公明党関係者から“財源不足”懸念の声
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d11bba2f0d068e251875a69c0ab386878c88adc>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22e13ee921a5c4e6a2001873b6908e0d428554fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010002-kkbv-000-1-thumb.jpg?exp=10800&fmt=webp> 口永良部島 噴火警戒レベル3(入山規制)に 86人居住…火山活動高まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcc0ab5a686f33f861bf28a5db197f367282e05b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08636285-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「物価高対策、何を望む？」　手取り増やして…　必要な人に医療費免除を…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30c7f6b633677cd5c88f633a5c65d847ab32823f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000048-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> “1億円いただき男子”三山凌輝、結婚発表“Xデー”まで1カ月…言動に集まる「2代目誠意大将軍」の指摘
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4d2feb1f20f4778b2e980d04abafd598113600a47f33b7c076219ffa12c619fe.jpg> 200人超乗る旅客機が墜落 印報道
+      <a href=https://news.yahoo.co.jp/pickup/6541984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/bb61563db048148a0bfa60fddeba724ca6e2409bc7e06c55464d175ad1fa68b5.jpg> 現物支給も 自治体の「米支援策」
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5d7810f837160f223fa5b3fda33e73f0f85599fa8491da84ed231ad843f4469e.jpg> 三菱自4万台リコール 人身事故も
+      <a href=https://news.yahoo.co.jp/pickup/6542018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/6723fb4d67e6ad2deeeea6b4223d7670670db4e140873861c3250b529c7edaa6.jpg> 240人超乗る旅客機が墜落 インド
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d403bc0ba263479fa292fab0a0c7c1468bf65447a4a8a1fb65bcfa5998e84ef6.jpg> ALS嘱託殺人 医師の男の上告棄却
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5c4bbf67de1ba54187bf1a507cf04a81024f9aca763f8c64109ee2a31ff3d043.jpg> 天然記念物のワシ 10発の被弾歴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/93f0a65004751a6ae09a1b84c9f535b76ff5c37f25e758dd622ac8f62486e92e.jpg> 相方と共演 蒼井優が夫の反応告白
+      <a href=https://news.yahoo.co.jp/pickup/6542014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ab40bbb9d5d0d784de688a8f85f7a01a3845437d648437e6090281abf7b3c3f9.jpg> 「毎日が地獄です」は商標 社訴え
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 18:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 19:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
