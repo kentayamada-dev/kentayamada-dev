@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a50abd824894fa93abf4c69212973684.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58a5cf8a9bf400f725bfbc3c13176c1c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfe06342088c3c816dc4193fc959687ab18a5d6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00050221-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 現地の日本人会「日本人が事故に巻き込まれた情報はない」…州内には５０社以上の日系企業進出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7da9dc575182d53c3a661415957f71a632d3f8fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975574-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「予想より下振れの可能性ある」現金給付に“財源不足”懸念の声、衆参ダブル選挙あるのか?“山尾ショック”の影響は?【Nスタ解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ca9701641511c51cdbe10c9392db349d6f34605>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-02867633-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> マンション家賃“倍増”一転取り消し　通知は“紙切れ1枚”…謝罪なく住民は不信感　国会でも問題提起
+      <a href=https://news.yahoo.co.jp/articles/02ae7a839315d5135d74b01ae07a6fd978ef4a96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 242人搭乗のインド機墜落「死者290人超」と報道　地上でも犠牲者か
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 00:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 01:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
