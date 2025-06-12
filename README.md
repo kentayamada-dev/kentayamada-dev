@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a755f8453e311034e8d6eb11096683a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79a48d04ae04e5371a8a4e170e0dbb21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b5190ec53bda312716a1e9ee202013d9e06a789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000061-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=591&ch=591&exp=10800&fmt=webp> 山尾志桜里氏の公認見送り　玉木代表「おわび」　離党届は受理へ
+      <a href=https://news.yahoo.co.jp/articles/c35a18c57992225cff42bf9fc91a92c2581d149d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000075-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 配給スタッフら死亡、ハマス襲撃か　米イスラエル主導の財団発表　ガザ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7545386c75b064f1e78c308234dc57c6799b3731>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000052-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザの死者5万5000人超に　食料配布拠点への攻撃相次ぐ「食料配布が殺害の機会に」
+      <a href=https://news.yahoo.co.jp/articles/d1d7e9c4e02df489b2eddbef8b0f9b2923bcf1e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986087-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山尾志桜里氏が国民民主党に離党届「公認取り消し決定は正直驚いた」　玉木代表「率直におわびを申し上げたい」
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3d98f39e1a25ec08300bf0d329cf87cfaefd26a1b4615e814c4b8c56db4d0d00.jpg> 万博「営業時間」延長なぜ難しい
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541975>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d91274615e593ba43fbbd963b3df59154f49a090ac2dfcbf2d7241fd3fdcf26b.jpg> 発生確率0.001% 「幻」のメロン
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541994>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02245068/title-1749635481974.jpeg?exp=10800> 芸人ひょうろく 俳優としての魅力
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 15:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 16:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
