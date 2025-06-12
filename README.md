@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a6234416d10683231490000c5b427dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/693090eb9c1a207f9c3bda7375270357.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f2ef9931251d3467c9c3a963f1e6ea8a37f133c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986170-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】“物価高対策”「2万円案」報道も与党の“給付”金額は?積み増し求める声も　石破首相「本当に困っている人のために」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a489439a9de397ff33ffccf47a81cea5b8ccb9fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=1026&ch=1026&exp=10800&fmt=webp> 【オリックス】杉本裕太郎が適時三塁打「フェンスまで届いてくれてよかった」試合前には１００万円の“臨時収入”も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ac54e325086e0441f9eb1ad54f6682c5529d454>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975372-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 口永良部島「夏休みやお盆が心配」噴火警戒レベル3に引き上げ　気象庁が機動調査班を派遣
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f7280ab178489d8d88e3e83a6ae91e28c3b8f83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90015490-tos-000-2-thumb.jpg?exp=10800&fmt=webp> いよいよ7月参院選　大分選挙区では与野党４人が立候補予定　裏金問題や物価高対策など争点に論戦か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/222f30b69f0bfdd22f6f32f86e4885a5749943ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岡山市の旭川で溺れ２人死亡【岡山市】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f140c70219b6fe6410047c0f5a57c50a0d1f99d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SING LIKE TALKING・西村智彦さん、 61歳で死去　佐藤竹善、藤田千章が思いつづる「まだ我々も実感が持てずにいます」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 19:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 20:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
