@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/339f14fb318e6db59799ac8c0dea43b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a88f7ee46ce0e3a70b7f2efa9747fed4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c2ca2cb8d1d1e1265e1b3b9931b7434288ed949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975001-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大型ダンプカーで上司をひき殺した男（62）に懲役23年の判決「執拗に攻撃　強固な殺意あった」　福岡地裁小倉支部
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30c7f6b633677cd5c88f633a5c65d847ab32823f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000048-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> “1億円いただき男子”三山凌輝、結婚発表“Xデー”まで1カ月…言動に集まる「2代目誠意大将軍」の指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c662e29678a1b8feb2e168aead9b7263126ba984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06718766-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手山入山規制区域立ち入りについて協議　火山防災協議会幹事会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a722b2413458377530aa6b8b4d8a1f9c99fbb29a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000296-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 眞鍋かをり　全国民2～4万円給付の自公案に「1回取り下げた…コメで評価されてる今だったら…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f4d2d1f9794a2f74fc16b631f3c2cf896f96e9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000060-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマスの攻撃でガザ人道財団の職員5人死亡　複数人負傷　物資の配給拠点への道中に…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05fdd16f0795f7e7547b6e30ec39177c7fb8ec62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000082-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=876&ch=876&exp=10800&fmt=webp> 浅田真央さん、アカデミー設立　後進育成へ注力―フィギュア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19eac2e1055a71f9c29fa7a9873e674399d34bac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21974176-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 調査や研究などの場合、市や町の許可を得れば入山認める方針　岩手山火山防災協議会、入山規制一部緩和へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26e912128ebe7e082cb40be0643b2c7cfd18729e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120691-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 「人事が珍しく当たった」田崎史郎氏　石破茂首相が野党攻勢に反論した党首討論受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fc5ed44cc30744573d1ead064ddc46f0b85185e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> ベッセント財務長官が相互関税の停止期限延長を示唆：行き詰まるトランプ関税政策
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000060-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマスの攻撃でガザ人道財団の職員5人死亡　複数人負傷　物資の配給拠点への道中に…
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/50e1ea30ac3efa3050f3e6b491396d64c01481fb0cfb1080b670de1fce3fc177.jpg> 小泉農相 輸入米入札の前倒し表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/45122d15e4b166018c5fbf0ec7ee3c7044f70a5daf7f58be34e864b20d0c8346.jpg> 小泉農相 輸入米入札の前倒し表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/c8b7ad294afe4b14c71f0185cc79f1924b0a8fcf3d7c9397087cff092294f23c.jpg> 首相 関税交渉巡り野党に協力要請
+      <a href=https://news.yahoo.co.jp/pickup/6541985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/2fa556723029faa3c88c67c9ab090b31de3384bc18df5c4f364fcb350087fb4d.jpg> 教委7割「性教育拡充は必要」朝日
       </a>
     </td>
   </tr>
@@ -426,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0932594a23c8f864169d9da4959a7c0d6d019890cf53bb3bc8298c17d722de5c.jpg> ピットブルに犬殺され 飼い主が涙
+      <a href=https://news.yahoo.co.jp/pickup/6542004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/fde48d02c4d15e0d9763008b524b8b4c4b99cf081fd9e238337d929d44f2c65f.jpg> 愛知のトクリュウ 将来考え解散届
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ecdf263b65adb1a5ce3003fafe6c60220a8aabbb006974427235d2351062b1a3.jpg> キユーピー「育児食」販売終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5c4bbf67de1ba54187bf1a507cf04a81024f9aca763f8c64109ee2a31ff3d043.jpg> 天然記念物のワシ 10発の被弾歴
       </a>
     </td>
   </tr>
@@ -436,22 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1a9e2dc76e636a1e6a3511e1428cee9078235f26e56d8ebf55490ca84f66e3ad.jpg> ローソン1号店 50年前の外観再現
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/fd39628295d444081863512f1b35b7466cf20d73597c8d698b00f23cab76e33a.jpg> 40代で転職 元アナ大木さんの本音
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541994>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02245068/title-1749635481974.jpeg?exp=10800> 芸人ひょうろく 俳優としての魅力
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 17:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 17:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
