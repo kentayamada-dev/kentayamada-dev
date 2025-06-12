@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39a745f821acf1f28390ad01713ad6ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d4f41852676a17c35eab4ce723be446.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f95f1ad6b44a8f016fe3998166d6e55353b43fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08883931-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　8試合連続安打でパドレスに勝ち越しも快音は響かず　今季ワーストの9試合連続本塁打なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/72030c9841068bb473e915617f21a6235c0ca1da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242401-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米・ベッセント財務長官 “トランプ関税”猶予延長に応じる姿勢　林官房長官「日米双方の利益へ調整続けている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a5504f821b0051b8b4ee8f43ff78e8bf230c28bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000176-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表　全国民に2万円、非課税世帯に2万円上乗せの自公案に「減税で戻すのが筋」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/25d2800381e0393d821bdfbd8f696bc550dc8549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000016-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=661&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米支援の「ガザ人道財団」、ハマスの襲撃受けスタッフ5人死亡と発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=661&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 米支援の「ガザ人道財団」、ハマスの襲撃受けスタッフ5人死亡と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4d84d4eae74e2605d04924fa28e5ff85a4f062b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00174758-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=427&ch=427&exp=10800&fmt=webp> “不適切行為”が発覚。J３奈良が中田一三監督との契約を解除。後任は今季途中まで富山を指揮していた小田切道治
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/690dc401f7c7f0362bf66b543b838501d36d886f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000026-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf7ef908a8a7b9a85b27a37c96e86a0b77b3f51f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 現金給付の選挙対策も…石破首相の“過去発言”がネットで再拡散も、気になる「参院選の行方」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b51a0554d926c346c72cc965a9de79a0ecc1036>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00348084-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平〝得意の６月〟に異変？　三塁打で勝利貢献も今季ワースト４２打席ノーアーチ
+      <a href=https://news.yahoo.co.jp/articles/9a3115047eb0953f92d66395c2d3db4508d774b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00080033-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=225&cw=900&ch=900&exp=10800&fmt=webp> BTS・JUNG KOOK　除隊当日夜にストーカー被害…中国人の30代女を逮捕
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541962>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/bcf71f5d4dad7eed973475a88aacdc6ff93719c47979308fb1ea33c46f944c65.jpg> 給付vs.消費税減税 違いと効果は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/8d309f246e7e76db06b5788055dded83cb139efa7f60efb241d0c1035660c9ee.jpg> 先住民に遺骨返還 東大は差別的
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3313dd60165eda1c49def4b4f5b77dc7179e72778d0f8089d171da6f822c8d2d.jpg> カレー店の倒産増 背景に牛丼店
+      <a href=https://news.yahoo.co.jp/pickup/6541963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/33d2d81bb92cc56fe875f432f68f24f3215eb20e399e32e375297990acc6fbf4.jpg> パチンコホール 法人減少も売上増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541952>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米ディズニーなど AI企業を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6541968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/70564fa57ae05bfa1173e4a3f3118cf9ef1b3e8a0a2302340ba1575655df125f.jpg> BTSメンバー宅侵入未遂か 女逮捕
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1b2a2ac662f9e54bf0bef7a94befc5f1a58ed84a10ae857c3c04279282477797.jpg> ウエンツの覚悟 いつ辞めてもいい
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 11:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 12:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
