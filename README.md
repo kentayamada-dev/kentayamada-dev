@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f25fea33139b0eea90852a502dfe6c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/339f14fb318e6db59799ac8c0dea43b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f4d2d1f9794a2f74fc16b631f3c2cf896f96e9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000060-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマスの攻撃でガザ人道財団の職員5人死亡　複数人負傷　物資の配給拠点への道中に…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05fdd16f0795f7e7547b6e30ec39177c7fb8ec62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000082-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=876&ch=876&exp=10800&fmt=webp> 浅田真央さん、アカデミー設立　後進育成へ注力―フィギュア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19eac2e1055a71f9c29fa7a9873e674399d34bac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21974176-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 調査や研究などの場合、市や町の許可を得れば入山認める方針　岩手山火山防災協議会、入山規制一部緩和へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6795471194e6115c60904239e25663ff61271db4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000068-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 浅田真央さん「スケーター育てたい」育成アカデミー設立　プロ活動は「ハーフ、ハーフ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c35a18c57992225cff42bf9fc91a92c2581d149d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000075-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 配給スタッフら死亡、ハマス襲撃か　米イスラエル主導の財団発表　ガザ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/50e1ea30ac3efa3050f3e6b491396d64c01481fb0cfb1080b670de1fce3fc177.jpg> 小泉農相 輸入米入札の前倒し表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541992>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/c8b7ad294afe4b14c71f0185cc79f1924b0a8fcf3d7c9397087cff092294f23c.jpg> 首相 関税交渉巡り野党に協力要請
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cb79b1d7b48cb15699d7efef11fcad180bac3d150e71c1390f9fee398b03c5d2.jpg> 大川原冤罪「遺憾」と警察庁長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/49af210cb4eb005bc31d122c1aa48cea1f62b09bbcac40ca26cb7751901c2e17.jpg> ダンプで上司殺害 男に懲役23年
+      <a href=https://news.yahoo.co.jp/pickup/6541993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/7deb4edfd7ede31d14ed8b2357c29e921df01bb749977729a5231d45f813e4a7.jpg> 山尾氏の公認見送り 玉木氏おわび
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d91274615e593ba43fbbd963b3df59154f49a090ac2dfcbf2d7241fd3fdcf26b.jpg> 発生確率0.001% 「幻」のメロン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e95476605eb85a4c57049bbac2db649a0484b91a9332cda0d85a2f1de4271b79.jpg> ゴルフ世界長者番付 1位は147億円
+      <a href=https://news.yahoo.co.jp/pickup/6541999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1a9e2dc76e636a1e6a3511e1428cee9078235f26e56d8ebf55490ca84f66e3ad.jpg> ローソン1号店 50年前の外観再現
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a04a9684c04bc08d06e47dbab866bc51bc9736e2d04961bdce884e22fe201422.jpg> 浅田真央さん コーチ業始動を発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 16:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 17:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
