@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88786c9a08715188e5a5a743ed5b1ae2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a50abd824894fa93abf4c69212973684.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,22 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7da9dc575182d53c3a661415957f71a632d3f8fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975574-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「予想より下振れの可能性ある」現金給付に“財源不足”懸念の声、衆参ダブル選挙あるのか?“山尾ショック”の影響は?【Nスタ解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eefc88ff4cc29bf4ae2a980ce4eaecbb45d8bceb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183298-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ウソだろ…フリーマン、ヘルメット飛ばし“激走” 前日の試合で足痛めるも驚きの全力疾走 ド軍ナインに火をつける献身的プレー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5da85db16b54dbf41a0826b23c7e655f9b60cb66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986340-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「カーネル」中古車販売トラブル　元店長「5か月の給料未払い」…“融資遅れ”に社長は呆れた言い訳「先方が緊急入院」
       </a>
     </td>
   </tr>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d28a0f7b9663dae0b502fd86087c1c2f762f4b9ef3c57a4c49fd984ccc35b7ad.jpg> 朝日に続き毎日も 土曜夕刊休止へ
+      <a href=https://news.yahoo.co.jp/pickup/6542005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ecdf263b65adb1a5ce3003fafe6c60220a8aabbb006974427235d2351062b1a3.jpg> キユーピー「育児食」販売終了へ
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 23:52:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 00:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
