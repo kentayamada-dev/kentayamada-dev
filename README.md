@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3279f2e95cfe325862a726906e111a54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/521761025411d1ea8050f2cc3399a409.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8da81b214e4dd6ca1a364b8c89296642d7de846d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 名古屋・ホテル強盗殺人　新たに19歳女性ら2人を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72f98c99755c4f92cc441c17486d10deaaa0c978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000191-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 泉房穂氏　参院選は「コメの値段だけが争点じゃない…消費税の減税をはじめとした国民負担軽減…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000191-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 泉房穂氏　参院選は「コメの値段だけが争点じゃない…消費税の減税をはじめとした国民負担軽減…」
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce634cdd9d5e96cdbfc7e283c9a912d2b707ecfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f95f1ad6b44a8f016fe3998166d6e55353b43fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08883931-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　8試合連続安打でパドレスに勝ち越しも快音は響かず　今季ワーストの9試合連続本塁打なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bf272e3f79abb7c80cf6c45bb376d9700266584>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242420-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 逆走・正面衝突の車「99歳が運転」 「口を開けてポカンと、ハンドルにしがみつき…」　中央道・恵那山トンネル
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/bcf71f5d4dad7eed973475a88aacdc6ff93719c47979308fb1ea33c46f944c65.jpg> 給付vs.消費税減税 違いと効果は
+      <a href=https://news.yahoo.co.jp/pickup/6541976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4a8baa5238e9e01b1e0c78f4d400fe33a5e746dcdb315a594184bb6c056f4cec.jpg> 梅雨真っただ中でも 来週39℃予想
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0109f2224b514145990758bb6f82902748d34916359206e27dbfbe9944a2597f.jpg> 介護福祉士 不合格でも取得に賛否
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541971>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/9754d353d161204ae6a4b2283ee93921a37c30b111ddccdde5a8a2935e011999.jpg> 家賃2.5倍 住人側に撤回通知届く
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d48c6096c00e7ce65f5c3c30864580db6d77806c3cae8f0c3f04afc902624f10.jpg> J3奈良 監督が不適切行為で辞任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1b2a2ac662f9e54bf0bef7a94befc5f1a58ed84a10ae857c3c04279282477797.jpg> ウエンツの覚悟 いつ辞めてもいい
+      <a href=https://news.yahoo.co.jp/pickup/6541981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/c3e52696d9ac4476a781d36d398e06bc6d0410370fcab22cf605c2770be0a0e9.jpg> [Alexandros]再び前日に公演延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 13:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 13:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
