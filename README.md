@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26aee433496cd8b8f318480e80a72ae2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6514e80f0822e4db0eb8425cd1c8954.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02ae7a839315d5135d74b01ae07a6fd978ef4a96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 242人搭乗のインド機墜落「死者290人超」と報道　地上でも犠牲者か
+      <a href=https://news.yahoo.co.jp/articles/7efe3219c490e9c0f70a3c99f1a373f9152f64f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90027232-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 地元メディア「搭乗者全員死亡」インド機が離陸直後に墜落　原因はエンジン停止？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64e6ba843974fe17d64d0846440ba0fba26435f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000024-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 大谷　3位転落危機で激走三塁打　8試合連続安打で13連戦締めくくり　本拠10連戦ではHR量産だ！
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 01:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 02:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
