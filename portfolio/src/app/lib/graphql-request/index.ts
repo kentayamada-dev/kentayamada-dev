@@ -174,7 +174,7 @@ const getArticles: GetArticlesType = async (locale) => {
   const articles = (
     await apiRequest<ArticlesResponseType>('contentful', query, {
       locale,
-      order: 'sys_publishedAt_ASC'
+      order: 'sys_publishedAt_DESC'
     })
   ).articleCollection.items;
 
@@ -226,14 +226,14 @@ const getUtilities: GetUtilitiesType = async (locale) => {
     }
   `;
 
-  const articles = (
+  const utilities = (
     await apiRequest<UtilitiesResponseType>('contentful', query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
   ).utilityCollection.items;
 
-  return articles;
+  return utilities;
 };
 
 const getAbout: GetAboutType = async (locale) => {
@@ -349,7 +349,7 @@ const getFaqs: GetFaqsType = async (locale, id) => {
     }
   `;
 
-  const articles = (
+  const faqs = (
     await apiRequest<FaqsResponseType>('contentful', query, {
       locale,
       order: 'id_ASC',
@@ -360,7 +360,7 @@ const getFaqs: GetFaqsType = async (locale, id) => {
     })
   ).faqCollection.items;
 
-  return articles;
+  return faqs;
 };
 
 export {
