@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/37ef989e55e9c52a1c552ee7e447d05d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bad9d332c2b48f0da930b0ddc208fe6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7830e0106d51888b33dd45357accf8a8190451ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000066-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 巨人・リチャードに阿部監督「ボーンヘッドは許されない」　2軍降格で3年目・三塚を支配下＆1軍へ
+      <a href=https://news.yahoo.co.jp/articles/e955ad7c93b8d5b581847e694b42222dcd4e0338>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986462-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド旅客機墜落　乗客乗員242人のうち生存者1人・死亡241人と発表…大学宿舎に激突し学生5人死亡・多くの負傷者　地元メディア報じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/53235e40910b5809038673f7db4b8a6ec501f932>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130047-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 千賀滉大が緊急降板　６回途中無失点で７勝目も右太もも裏痛　検査後に負傷者リスト入りへ
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ecdf263b65adb1a5ce3003fafe6c60220a8aabbb006974427235d2351062b1a3.jpg> キユーピー「育児食」販売終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6542037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/790783d335a3f2db5da2cf93e34188853e87371a2e2c2f7019e8a6ff43742143.jpg> 納車トラブル 社長に元店長あきれ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/790783d335a3f2db5da2cf93e34188853e87371a2e2c2f7019e8a6ff43742143.jpg> 納車トラブル 社長に元店長あきれ
+      <a href=https://news.yahoo.co.jp/pickup/6542042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/f5364abe2ef5f95debdce9982f71be35e8e32f9001e9ecfddae1eb8f9bd44333.jpg> 千賀7勝目も右脚負傷で無念の降板
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 06:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 06:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
