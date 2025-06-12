@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4baf2955a5baba85d3652583d80132cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3843b405c463956cd4192cf39fbd5bee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b06424d29f97abefb794b13c25e8f657440b0773>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06131016-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ジャイアンツ、逆転サヨナラ負けでド軍に並べず　７連勝でストップ　１４日から直接対決３連戦　初戦は山本由伸
+      <a href=https://news.yahoo.co.jp/articles/96b0d4c9c41e437f4c0ad5387dd2c2ae06c1e89a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> エア・インディア機事故、空港のカメラが離陸から墜落の瞬間までを捉える　240人超死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fe4f8f08f9f68626e3af1d02cd62dc04bfe8df7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-10183321-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> インド旅客機墜落 生存者1人確認 242人が搭乗
+      <a href=https://news.yahoo.co.jp/articles/6ebc727ff8f8285abee8b4ac9499fee71f4b2d62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000256-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、駄目押し呼んだ！激走三塁打　敵地で首位攻防、パドレスに勝ち越し
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e80e573637ae4a4b5870bd7d2450a2448b1ae84eaf21b9a622674e5efda74768.jpg> インド機墜落 241人死亡、1人生存
+      <a href=https://news.yahoo.co.jp/pickup/6542053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bd16716439a23702b241bfa161a949f639424100faff78cea793ceb0f70471d5.jpg> 参院選 7月20日投開票が確定的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e66930ff8a96d77b3bd5dddc7cb34fce466865bc2d858c96008ab2e6f829da46.jpg> 与党の現金給付案 なぜ2万円
+      <a href=https://news.yahoo.co.jp/pickup/6542050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9d0d893a6359ad928bc57d14f4f31b8836773ca8b48518e88fe9b50e1284f037.jpg> 東京都議選きょう告示 焦点は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e80e573637ae4a4b5870bd7d2450a2448b1ae84eaf21b9a622674e5efda74768.jpg> インド機墜落 241人死亡、1人生存
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/16fb3be4cb99a723815c180ccb16970877f9c00721eb231d3c4fae3773531d44.jpg> G監督怒り サインミスで2軍降格
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 08:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
