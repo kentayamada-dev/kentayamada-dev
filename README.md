@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b179ace5898ed89ac3ff3a842383349.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdc94fc06cbf833557d5685c221e6b93.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d2f2fe521c49fd2b5d6e52aa9c546658caf2918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010010-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 『給付金か消費税減税か』あなたなら？専門家の意見は真っ二つ！「3万円欲しい」「あざとい」の声も　給付派・減税派の主張を徹底比較し妥当性考える
+      <a href=https://news.yahoo.co.jp/articles/3d11bba2f0d068e251875a69c0ab386878c88adc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986208-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長崎で死亡の30代妊婦「オウム病感染」判明　検体検査で感染わかる　鳥は飼っておらず感染経路不明　県「ケージを清潔に保つ」など呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a006ad5b23f66e75fc6c54d23f30c858755907e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08872758-nib-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トリを飼っていないのに…「オウム病」で30代妊婦死亡　県内で死亡例は初めて《長崎》　
+      <a href=https://news.yahoo.co.jp/articles/7dc20a3a50493a2b7c0a90c0bf219ae9904c0c1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183248-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 「食料配布が殺害機会に」ガザ地区の死者5.5万人超 OCHA前所長が非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22e13ee921a5c4e6a2001873b6908e0d428554fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010002-kkbv-000-1-thumb.jpg?exp=10800&fmt=webp> 口永良部島 噴火警戒レベル3(入山規制)に 86人居住…火山活動高まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcc0ab5a686f33f861bf28a5db197f367282e05b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08636285-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「物価高対策、何を望む？」　手取り増やして…　必要な人に医療費免除を…
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c662e29678a1b8feb2e168aead9b7263126ba984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06718766-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手山入山規制区域立ち入りについて協議　火山防災協議会幹事会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f4d2d1f9794a2f74fc16b631f3c2cf896f96e9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000060-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ハマスの攻撃でガザ人道財団の職員5人死亡　複数人負傷　物資の配給拠点への道中に…
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/45122d15e4b166018c5fbf0ec7ee3c7044f70a5daf7f58be34e864b20d0c8346.jpg> 小泉農相 輸入米入札の前倒し表明
+      <a href=https://news.yahoo.co.jp/pickup/6542015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4d2feb1f20f4778b2e980d04abafd598113600a47f33b7c076219ffa12c619fe.jpg> 200人超乗る旅客機が墜落 印報道
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/79497fe4bee51570f035cc2ddb79add61e7eb4be57532d3eee684b7b0e7a56c8.jpg> 30代の妊婦が死亡 オウム病の疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542004>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/fde48d02c4d15e0d9763008b524b8b4c4b99cf081fd9e238337d929d44f2c65f.jpg> 愛知のトクリュウ 将来考え解散届
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1a9e2dc76e636a1e6a3511e1428cee9078235f26e56d8ebf55490ca84f66e3ad.jpg> ローソン1号店 50年前の外観再現
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542003>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5c4bbf67de1ba54187bf1a507cf04a81024f9aca763f8c64109ee2a31ff3d043.jpg> 天然記念物のワシ 10発の被弾歴
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e40231f5d471eacc5292b79aa5a390ab1ad9cb86309bc180a95e5a7d391b06e0.jpg> G1・2勝のソウルラッシュ 骨折
+      <a href=https://news.yahoo.co.jp/pickup/6542013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/93f0a65004751a6ae09a1b84c9f535b76ff5c37f25e758dd622ac8f62486e92e.jpg> 相方と共演 蒼井優が夫の反応告白
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 18:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 18:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
