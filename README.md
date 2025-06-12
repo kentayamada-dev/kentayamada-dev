@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfc4079b59553ac0964b7ca54ea5e186.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a6234416d10683231490000c5b427dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ac54e325086e0441f9eb1ad54f6682c5529d454>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975372-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 口永良部島「夏休みやお盆が心配」噴火警戒レベル3に引き上げ　気象庁が機動調査班を派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f7280ab178489d8d88e3e83a6ae91e28c3b8f83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90015490-tos-000-2-thumb.jpg?exp=10800&fmt=webp> いよいよ7月参院選　大分選挙区では与野党４人が立候補予定　裏金問題や物価高対策など争点に論戦か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/222f30b69f0bfdd22f6f32f86e4885a5749943ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岡山市の旭川で溺れ２人死亡【岡山市】
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbf21666463e6f998a5205351184e7a34496799a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-01662732-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 口永良部島の噴火警戒レベル３に引き上げ　噴石や火砕流に警戒　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0adf847b4821e96fe538ebf2bd9ec19158c7850e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242512-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 現金給付に“トランプ関税”の影 「予想より下振れの可能性ある」公明党関係者から“財源不足”懸念の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d11bba2f0d068e251875a69c0ab386878c88adc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986208-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長崎で死亡の30代妊婦「オウム病感染」判明　検体検査で感染わかる　鳥は飼っておらず感染経路不明　県「ケージを清潔に保つ」など呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/f140c70219b6fe6410047c0f5a57c50a0d1f99d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SING LIKE TALKING・西村智彦さん、 61歳で死去　佐藤竹善、藤田千章が思いつづる「まだ我々も実感が持てずにいます」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d403bc0ba263479fa292fab0a0c7c1468bf65447a4a8a1fb65bcfa5998e84ef6.jpg> ALS嘱託殺人 医師の男の上告棄却
+      <a href=https://news.yahoo.co.jp/pickup/6542016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/7757445cbdacca0360d13392d43856f0136df69fbfe56da738f2cb65663ab01d.jpg> 公認見送りの山尾氏 党を痛烈批判
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/fde48d02c4d15e0d9763008b524b8b4c4b99cf081fd9e238337d929d44f2c65f.jpg> 愛知のトクリュウ 将来考え解散届
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542005>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ecdf263b65adb1a5ce3003fafe6c60220a8aabbb006974427235d2351062b1a3.jpg> キユーピー「育児食」販売終了へ
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ab40bbb9d5d0d784de688a8f85f7a01a3845437d648437e6090281abf7b3c3f9.jpg> 「毎日が地獄です」は商標 社訴え
+      <a href=https://news.yahoo.co.jp/pickup/6542019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/92024c6bb02bdf9492591e90e66dc3b6c3902d314d0410dee445ac7b69f1d758.jpg> うどん食べて育ったウニ誕生 香川
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/802a2750fc8efe6881e48d03a7cf18637ca379f1bcd1c1ded2f24bb0e8ed344f.jpg> SING LIKE TALKING 西村さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 19:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 19:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
