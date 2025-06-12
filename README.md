@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a9138dacfbe1bc097ec206e6d906f4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93eb1d41cf89d822e599bff1dd2d59a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8dac8075fb56d9ce345fb8947e5aa898cb5fb049>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21974205-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　9回に三塁打を打ち8試合連続安打　しかし、9試合ホームランなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7545386c75b064f1e78c308234dc57c6799b3731>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000052-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ガザの死者5万5000人超に　食料配布拠点への攻撃相次ぐ「食料配布が殺害の機会に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26e912128ebe7e082cb40be0643b2c7cfd18729e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120691-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 「人事が珍しく当たった」田崎史郎氏　石破茂首相が野党攻勢に反論した党首討論受け
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120691-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 「人事が珍しく当たった」田崎史郎氏　石破茂首相が野党攻勢に反論した党首討論受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bd2fc07fdb2da9c784ca73710458a84c7f7c97a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000046-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 岩橋玄樹、7年ぶり地上波ドラマ主演に「ワクワクした」　自身のギャップも告白「寝るときに…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8aacf4859362bfa69f2de7c8e4501f200d3bc8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-26597023-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 物資配給施設に殺到するガザの人々、英語で指示する声も……イスラエルの反戦活動家が映像を公開
+      <a href=https://news.yahoo.co.jp/articles/1a490770dfee449b05bcb1156accbe91a5ba2b2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=1419&ch=1419&exp=10800&fmt=webp> ＜1分で解説＞新種のティラノサウルス発見　人呼んで「王子の竜」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f95f1ad6b44a8f016fe3998166d6e55353b43fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08883931-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　8試合連続安打でパドレスに勝ち越しも快音は響かず　今季ワーストの9試合連続本塁打なし
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cb79b1d7b48cb15699d7efef11fcad180bac3d150e71c1390f9fee398b03c5d2.jpg> 大川原冤罪「遺憾」と警察庁長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1112095d62e42b2f1155b054566306dd7929d267a2324b8a4340202f20abd31f.jpg> 山尾志桜里氏 国民民主党に離党届
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541976>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4a8baa5238e9e01b1e0c78f4d400fe33a5e746dcdb315a594184bb6c056f4cec.jpg> 梅雨真っただ中でも 来週39℃予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cb79b1d7b48cb15699d7efef11fcad180bac3d150e71c1390f9fee398b03c5d2.jpg> 大川原冤罪「遺憾」と警察庁長官
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f702c5978f44cacedd1edc97b72974a3b4e8efc7aa2b882d54c5395c2469aea0.jpg> 住民名の「〇〇の乱」記録 町謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6541987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ce1ff17a44612b5954edef11fe146fd1643f1de01263756848555096f14dbbbd.jpg> 叩けばおとなしく 元保育士の過ち
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541978>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/0932594a23c8f864169d9da4959a7c0d6d019890cf53bb3bc8298c17d722de5c.jpg> ピットブルに犬殺され 飼い主が涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3d98f39e1a25ec08300bf0d329cf87cfaefd26a1b4615e814c4b8c56db4d0d00.jpg> 万博「営業時間」延長なぜ難しい
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 14:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 15:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
