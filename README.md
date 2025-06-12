@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93eb1d41cf89d822e599bff1dd2d59a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a755f8453e311034e8d6eb11096683a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8dac8075fb56d9ce345fb8947e5aa898cb5fb049>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21974205-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　9回に三塁打を打ち8試合連続安打　しかし、9試合ホームランなし
+      <a href=https://news.yahoo.co.jp/articles/4b5190ec53bda312716a1e9ee202013d9e06a789>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000061-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=591&ch=591&exp=10800&fmt=webp> 山尾志桜里氏の公認見送り　玉木代表「おわび」　離党届は受理へ
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a490770dfee449b05bcb1156accbe91a5ba2b2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=1419&ch=1419&exp=10800&fmt=webp> ＜1分で解説＞新種のティラノサウルス発見　人呼んで「王子の竜」
+      <a href=https://news.yahoo.co.jp/articles/4fc5ed44cc30744573d1ead064ddc46f0b85185e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> ベッセント財務長官が相互関税の停止期限延長を示唆：行き詰まるトランプ関税政策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fc5ed44cc30744573d1ead064ddc46f0b85185e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> ベッセント財務長官が相互関税の停止期限延長を示唆：行き詰まるトランプ関税政策
+      <a href=https://news.yahoo.co.jp/articles/1aac428218e549e9ebe5671b5d74d9af1c49d018>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121073-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=113&cw=974&ch=974&exp=10800&fmt=webp> 俳優の斎藤歩さん死去　６０歳　がん闘病も公表「サマーウォーズ」「アウトレイジビヨンド」など出演
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4a8baa5238e9e01b1e0c78f4d400fe33a5e746dcdb315a594184bb6c056f4cec.jpg> 梅雨真っただ中でも 来週39℃予想
+      <a href=https://news.yahoo.co.jp/pickup/6541992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/c8b7ad294afe4b14c71f0185cc79f1924b0a8fcf3d7c9397087cff092294f23c.jpg> 首相 関税交渉巡り野党に協力要請
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541980>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f826ebf9a2804b88d1ad714c491348b4a7f5e59be3d1fdfb7a3888204d0d8b14.jpg> ホテル男性強殺 美人局から殺害か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a1590ebd5d1a36d7926d7c8d16868b6a44388c61ada3747cf9615e4aa01c0415.jpg> トンネル逆走事故 運転は99歳男性
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/25a65c3f55e33677dbe7eff56bec7abb098f16613da58ff3f7a34fe51a1052c1.jpg> [Alexandros]再び前日に公演延期
+      <a href=https://news.yahoo.co.jp/pickup/6541975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d91274615e593ba43fbbd963b3df59154f49a090ac2dfcbf2d7241fd3fdcf26b.jpg> 発生確率0.001% 「幻」のメロン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e95476605eb85a4c57049bbac2db649a0484b91a9332cda0d85a2f1de4271b79.jpg> ゴルフ世界長者番付 1位は147億円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 15:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 15:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
