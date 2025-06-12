@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d24915e861b99bd9d1608f17fa856659.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5ea96de56e3bd06fca631fd516f6088.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cacad3d454abdc1aa402d0c36aea5100c6479337>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000068-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=314&cw=809&ch=809&exp=10800&fmt=webp> インドの旅客機事故を捉えたとされる動画がXで拡散──ウソの投稿も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7da9dc575182d53c3a661415957f71a632d3f8fb>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5da85db16b54dbf41a0826b23c7e655f9b60cb66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986340-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「カーネル」中古車販売トラブル　元店長「5か月の給料未払い」…“融資遅れ”に社長は呆れた言い訳「先方が緊急入院」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46f4465fa844fec11f0cec21a14d44587c1de3fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00027202-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「現金給付」vs「消費税減税」物価高対策、どう違う？
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1708ff076633122b337e577bca9684dd4698583528db39bb1c6e80b228450a8c.jpg> 旅客機墜落133人死亡確認 印報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/7757445cbdacca0360d13392d43856f0136df69fbfe56da738f2cb65663ab01d.jpg> 公認見送りの山尾氏 党を痛烈批判
+      <a href=https://news.yahoo.co.jp/pickup/6542034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1708ff076633122b337e577bca9684dd4698583528db39bb1c6e80b228450a8c.jpg> 旅客機墜落242人全員死亡 印報道
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/7757445cbdacca0360d13392d43856f0136df69fbfe56da738f2cb65663ab01d.jpg> 公認見送りの山尾氏 党を痛烈批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542025>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/33578386d62d827f702c6ee02bc56944424b924cde8bbdd08deae5727ef6b89f.jpg> コンビニおにぎり「200円時代」に
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/b2f1c7b5e9890fa157ce7ca42b92ed2c3f578fb257005c6a7aa75ce8452b4939.jpg> 卵子数検査事業に疑問の声 県中止
+      <a href=https://news.yahoo.co.jp/pickup/6542032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/b2f1c7b5e9890fa157ce7ca42b92ed2c3f578fb257005c6a7aa75ce8452b4939.jpg> 卵子数調べる県のモデル事業 中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 21:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 22:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
