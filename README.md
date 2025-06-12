@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ad739ff1108aad8f3456c735c1c5df6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4cb41d02690822a3a1190540d6326d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cef9487a5c894539e0ea5a013e358396a9010c9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大リーグ、大谷は8試合連続安打　松井無失点、鈴木は1安打
+      <a href=https://news.yahoo.co.jp/articles/cd3d154e941f31524f8b9080ea2520b32fcf01af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10553552-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=683&ch=683&exp=10800&fmt=webp> パドレス、首位攻防3連戦に負け越し　松井裕樹は1回無失点2Kの好リリーフ、大谷翔平からMLB通算100奪三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0a2c738b1a1028fb4aeca906febd43f6fa6d143>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120088-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、自己最長更新の９戦連続ノーアーチも８試合連続安打　激走三塁打で決定的なホームイン
+      <a href=https://news.yahoo.co.jp/articles/ebfcc29f403377e9579368d2e5ccea55a0064a7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183134-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 米ベッセント財務長官、相互関税めぐる一時停止措置の延長を示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb126cde00182a06b8110cee18fa34c052b1e74c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=462&cy=0&cw=1277&ch=1277&exp=10800&fmt=webp> ディズニー、米新興AIを提訴　キャラ画像巡り著作権侵害
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ce1d92a45a535adeeb88dd4cad96981c8164c7bf88ceffb177ca2cfb7faa7b5a.jpg> 随契の備蓄米 36都道府県で販売
+      <a href=https://news.yahoo.co.jp/pickup/6541938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/753d6d506d3391f2ff2a1e8b96b546a3875de4a8101aa9985cb3aad520da3e26.jpg> 日本郵便 佐川などに集荷委託打診
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/cfe05af6b827a20595cc317029fb31f597be15ecda4940e6db0e2b599f0e56ad.jpg> トランプ氏 マスク氏の投稿を評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541941>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3aff4f0eba2691f26b3074530fccfe7eb52a153d0871943b965e5736e2ba4d80.jpg> 唐揚げ一つの給食 批判受け改善へ
       </a>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/434a2865a6f25a78fee09f05c4b7ab757e6490d2d05df39f9cc02b450f0cc641.jpg> 松井裕樹 大谷からMLB通算100K
+      <a href=https://news.yahoo.co.jp/pickup/6541944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3eb5297adb7e82268e434425e0d3d5af7d346ff80fc5e189334db2697b8a2673.jpg> ティラノサウルスの新種を発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e85a127d53079ae885398bb28e2d2e8366dbd199f5e77a524e24e3b564744d40.jpg> 大谷 9試合42打席連続でHRなし
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 08:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 09:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
