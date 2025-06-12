@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be63cd3f39482ebd5eada37960924fbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fde33f78ec092993d3c18f8a7542936a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd2aa97451e8ddc8b05451b6a2601e7784dc7327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36122175-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【巨人】リチャード２軍再調整　阿部監督「ボーンヘッド許されない」エンドランのサイン見落とし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7da9dc575182d53c3a661415957f71a632d3f8fb>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5da85db16b54dbf41a0826b23c7e655f9b60cb66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986340-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【独自】「カーネル」中古車販売トラブル　元店長「5か月の給料未払い」…“融資遅れ”に社長は呆れた言い訳「先方が緊急入院」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0b48ad97b6b83e2c196b27575347124ae3fd510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08932497-rab-000-1-thumb.jpg?exp=10800&fmt=webp> 名物・田んぼアートに市原隼人さんの顔が描かれる！本人も田植えに挑戦！「完成が楽しみです」　青森県田舎館村
       </a>
     </td>
   </tr>
@@ -419,15 +419,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1708ff076633122b337e577bca9684dd4698583528db39bb1c6e80b228450a8c.jpg> 旅客機墜落242人全員死亡 印報道
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4c5b97087ffd1468f698ed09c8ca3fd9173b137453917233f8c4125f88757f6c.jpg> 旅客機墜落242人全員死亡 印報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/08242332ad45b92d796dd199abcc3337fded77f3600acc34e229f314db065870.jpg> 米移民政策巡りLAのセレブら異議
+      <a href=https://news.yahoo.co.jp/pickup/6542012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/79497fe4bee51570f035cc2ddb79add61e7eb4be57532d3eee684b7b0e7a56c8.jpg> 30代の妊婦が死亡 オウム病の疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/790783d335a3f2db5da2cf93e34188853e87371a2e2c2f7019e8a6ff43742143.jpg> 納車トラブル 社長に元店長あきれ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/b2f1c7b5e9890fa157ce7ca42b92ed2c3f578fb257005c6a7aa75ce8452b4939.jpg> 卵子数調べる県のモデル事業 中止
+      <a href=https://news.yahoo.co.jp/pickup/6542039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/16fb3be4cb99a723815c180ccb16970877f9c00721eb231d3c4fae3773531d44.jpg> G監督怒り サインミスで2軍降格
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ce205a29618f3ca107829bd42a1e2df8bdaed781f0758c0f2ac50ecb3da8de85.jpg> 市原隼人田んぼアートに 本人登場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 22:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 23:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
