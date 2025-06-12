@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79a48d04ae04e5371a8a4e170e0dbb21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f25fea33139b0eea90852a502dfe6c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c35a18c57992225cff42bf9fc91a92c2581d149d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000075-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 配給スタッフら死亡、ハマス襲撃か　米イスラエル主導の財団発表　ガザ
+      <a href=https://news.yahoo.co.jp/articles/19eac2e1055a71f9c29fa7a9873e674399d34bac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21974176-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 調査や研究などの場合、市や町の許可を得れば入山認める方針　岩手山火山防災協議会、入山規制一部緩和へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1d7e9c4e02df489b2eddbef8b0f9b2923bcf1e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00986087-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 山尾志桜里氏が国民民主党に離党届「公認取り消し決定は正直驚いた」　玉木代表「率直におわびを申し上げたい」
+      <a href=https://news.yahoo.co.jp/articles/6795471194e6115c60904239e25663ff61271db4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000068-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 浅田真央さん「スケーター育てたい」育成アカデミー設立　プロ活動は「ハーフ、ハーフ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c35a18c57992225cff42bf9fc91a92c2581d149d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000075-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 配給スタッフら死亡、ハマス襲撃か　米イスラエル主導の財団発表　ガザ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4fc5ed44cc30744573d1ead064ddc46f0b85185e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> ベッセント財務長官が相互関税の停止期限延長を示唆：行き詰まるトランプ関税政策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aac428218e549e9ebe5671b5d74d9af1c49d018>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06121073-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=113&cw=974&ch=974&exp=10800&fmt=webp> 俳優の斎藤歩さん死去　６０歳　がん闘病も公表「サマーウォーズ」「アウトレイジビヨンド」など出演
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/f826ebf9a2804b88d1ad714c491348b4a7f5e59be3d1fdfb7a3888204d0d8b14.jpg> ホテル男性強殺 美人局から殺害か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/ce1ff17a44612b5954edef11fe146fd1643f1de01263756848555096f14dbbbd.jpg> 叩けばおとなしく 元保育士の過ち
+      <a href=https://news.yahoo.co.jp/pickup/6541996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/49af210cb4eb005bc31d122c1aa48cea1f62b09bbcac40ca26cb7751901c2e17.jpg> ダンプで上司殺害 男に懲役23年
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/fd39628295d444081863512f1b35b7466cf20d73597c8d698b00f23cab76e33a.jpg> 40代で転職 元アナ大木さんの本音
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541994>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02245068/title-1749635481974.jpeg?exp=10800> 芸人ひょうろく 俳優としての魅力
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 16:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 16:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
