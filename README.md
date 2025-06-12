@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3843b405c463956cd4192cf39fbd5bee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a1f2ca6eab4b5c2239e868166523036.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96b0d4c9c41e437f4c0ad5387dd2c2ae06c1e89a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> エア・インディア機事故、空港のカメラが離陸から墜落の瞬間までを捉える　240人超死亡
+      <a href=https://news.yahoo.co.jp/articles/a2da1d42f734a58964a73d7cfad22243f7620844>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-35234206-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 奇跡の生還、エアインディア墜落事故の唯一の生存者についてわかっていること
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c4db0017d6e194317457b383af2375603dffe1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986476-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乗客乗員242人のうち1人生存…インド旅客機墜落　墜落時に大学宿舎に激突し学生5人死亡　機体は事故2日前に羽田空港とインド・デリー往復便に使用も
+      <a href=https://news.yahoo.co.jp/articles/021fe10cda2b6d6e900fd0305de2ff7f42f12c9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチールの黄金株「米国が保有」トランプ氏、日鉄の買収計画巡り説明　枠組みは触れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/021fe10cda2b6d6e900fd0305de2ff7f42f12c9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチールの黄金株「米国が保有」トランプ氏、日鉄の買収計画巡り説明　枠組みは触れず
+      <a href=https://news.yahoo.co.jp/articles/7830e0106d51888b33dd45357accf8a8190451ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000066-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 巨人・リチャードに阿部監督「ボーンヘッドは許されない」　2軍降格で3年目・三塚を支配下＆1軍へ
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542053>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bd16716439a23702b241bfa161a949f639424100faff78cea793ceb0f70471d5.jpg> 参院選 7月20日投開票が確定的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0dfd942c60358bf8e8926a49ec2dab0e823e05741f8b87805e88be2e544f4e8f.jpg> 新聞協会 選挙報道巡る声明公表
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/d4c95bcd93bb95aac4e5977143588fad984c5af0776a54223761c2e283a6bf95.jpg> 厳しい家電市場 なぜニトリ参入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542046>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bdc366c597953c924f3b7885742f33059744751352844c6270f6e3163b6ad1a9.jpg> Z世代「ステーキ離れ」加速 背景
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/f5364abe2ef5f95debdce9982f71be35e8e32f9001e9ecfddae1eb8f9bd44333.jpg> 千賀7勝目も右脚負傷で無念の降板
+      <a href=https://news.yahoo.co.jp/pickup/6542055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/cb8c06fae0272c2d79db573c7b6260788e69d3c152d033bbb276aae828c05a33.jpg> 白線流しから30年 酒井美紀の今
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 08:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 08:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
