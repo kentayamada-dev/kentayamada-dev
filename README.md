@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fde33f78ec092993d3c18f8a7542936a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d178780de9bad5648703a4a048203dee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd2aa97451e8ddc8b05451b6a2601e7784dc7327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36122175-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【巨人】リチャード２軍再調整　阿部監督「ボーンヘッド許されない」エンドランのサイン見落とし
+      <a href=https://news.yahoo.co.jp/articles/7cc1ba44e707dd5078ee7e6c4f24d5f1aedcf26b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000113-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 航空需要世界3位のインドで大事故　病院には親族ら駆けつけ
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3b732a373c922123e88fe6c62110db2f30fac537d761bfe31ee61b4beedd2b8f.jpg> 与野党 企業団体献金の結論先送り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542031>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e66930ff8a96d77b3bd5dddc7cb34fce466865bc2d858c96008ab2e6f829da46.jpg> 与党の現金給付案 なぜ2万円
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4c5b97087ffd1468f698ed09c8ca3fd9173b137453917233f8c4125f88757f6c.jpg> 旅客機墜落242人全員死亡 印報道
+      <a href=https://news.yahoo.co.jp/pickup/6542041>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02245521/title-1749681550510.jpeg?exp=10800> 川で溺れ死亡「後追い沈水」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/837f3b6ff9f19514197295105d56aec9aa38635ac4ae9e3c98e636bd3b9cee04.jpg> 印の墜落機 2日前に羽田便で使用
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 23:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 23:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
