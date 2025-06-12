@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4cb41d02690822a3a1190540d6326d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a330b722071e1372e5750941d1dfe38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd3d154e941f31524f8b9080ea2520b32fcf01af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10553552-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=683&ch=683&exp=10800&fmt=webp> パドレス、首位攻防3連戦に負け越し　松井裕樹は1回無失点2Kの好リリーフ、大谷翔平からMLB通算100奪三振
+      <a href=https://news.yahoo.co.jp/articles/7de6834a3e27fb04034673e07fc9354207530dc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000022-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 山尾志桜里氏の参院選公認見送り　不倫疑惑など釈明も…国民・玉木代表「私にも責任」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebfcc29f403377e9579368d2e5ccea55a0064a7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-10183134-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 米ベッセント財務長官、相互関税めぐる一時停止措置の延長を示唆
+      <a href=https://news.yahoo.co.jp/articles/67165f7fca6d664b1216bf194f9885a4bc421611>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000031-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> ロバーツ監督「反発力見せた」、報われた前日の「捨てゲーム」…惜しみなく８人の継投、大谷翔平は三塁打で貢献
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb126cde00182a06b8110cee18fa34c052b1e74c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=462&cy=0&cw=1277&ch=1277&exp=10800&fmt=webp> ディズニー、米新興AIを提訴　キャラ画像巡り著作権侵害
+      <a href=https://news.yahoo.co.jp/articles/e0b5de867a58d275cc913c2bdb7e003041cc647f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 夜間外出禁止令の米ロス、一晩で２００人超逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dffe638452d6370d1b546bde06e82cb6f812c524>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00037126-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「かなり引いてますね」玉木雄一郎、“山尾騒動”のカゲで物議を醸した2枚の“ゼロ距離写真”
+      <a href=https://news.yahoo.co.jp/articles/051b68a5ef08e6405b5b8b2aa4a8a707be51004e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00050042-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ベッセント財務長官、相互関税上乗せ分９０日間停止の延長示唆「誠意ある国との交渉継続のため」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e5f8f6c8881409efca6e9e7d95ade114d72a57170155cd9cde4025de370ebd02.jpg> 国連 40機関以上の統廃合を検討
+      <a href=https://news.yahoo.co.jp/pickup/6541950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a706581bafc6f68ab78dcab21147cb67475e3f8c8e3a389bd053ae8635042167.jpg> 男女平等 日本は148カ国中の118位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6541945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/69700b7b4e476c3c6ed62e6321c5dd538b8d574d3b700d1b3c9f94203abd53aa.jpg> 国民民主の候補「失速」に焦りも
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541938>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/753d6d506d3391f2ff2a1e8b96b546a3875de4a8101aa9985cb3aad520da3e26.jpg> 日本郵便 佐川などに集荷委託打診
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a962c22360241054f70527315ac7d5752b5b5e02af07bc62fc5293d879a4cfc0.jpg> 墓地で流血の男性死亡 頭に銃創か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3eb5297adb7e82268e434425e0d3d5af7d346ff80fc5e189334db2697b8a2673.jpg> ティラノサウルスの新種を発見
+      <a href=https://news.yahoo.co.jp/pickup/6541949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3313dd60165eda1c49def4b4f5b77dc7179e72778d0f8089d171da6f822c8d2d.jpg> カレー店の倒産増 背景に牛丼店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e85a127d53079ae885398bb28e2d2e8366dbd199f5e77a524e24e3b564744d40.jpg> 大谷 9試合42打席連続でHRなし
+      <a href=https://news.yahoo.co.jp/pickup/6541944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/3eb5297adb7e82268e434425e0d3d5af7d346ff80fc5e189334db2697b8a2673.jpg> ティラノサウルスの新種を発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 09:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 09:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
