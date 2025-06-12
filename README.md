@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xbyrH_4CwX8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/885916f39bbc3e5ee9fc2b4394be2fbd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06a21b1e53638f93353d3726fdd0f31c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01fdf6a59b4f8796b1cee8b63bf8c4aaf05e99b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-36120253-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 山尾志桜里氏の公認取り消しに紀藤正樹弁護士「個人では…どう対応するのでしょう」
+      <a href=https://news.yahoo.co.jp/articles/bf7ef908a8a7b9a85b27a37c96e86a0b77b3f51f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000005-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 現金給付の選挙対策も…石破首相の“過去発言”がネットで再拡散も、気になる「参院選の行方」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb4db1247806764e4be91ca7033d7bfd9858b04c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ死者5万5000人超える　イスラエル配給拠点をまた攻撃か
+      <a href=https://news.yahoo.co.jp/articles/8b0a219ec5d43c9aa42723c6a91c2e0a36586e9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「貿易交渉期限の延長、用意はあるが必要でない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed3eb5c53ad5e4158ca234d53cd5a19cb03c2a4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ物資配給財団、5人死亡　ハマスが襲撃、混乱拡大必至
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b51a0554d926c346c72cc965a9de79a0ecc1036>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00348084-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平〝得意の６月〟に異変？　三塁打で勝利貢献も今季ワースト４２打席ノーアーチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68b6ee9df0f00cb2d232ecd6f608a90ee4e37096>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-07242394-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ財務長官　相互関税の「猶予期間延長」に応じる姿勢 “誠意持って交渉の国や地域は” 来月上旬が期限
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 10:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 11:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
