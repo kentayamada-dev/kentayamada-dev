@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5218d3419004f709272809da627512c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3279f2e95cfe325862a726906e111a54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce634cdd9d5e96cdbfc7e283c9a912d2b707ecfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
+      <a href=https://news.yahoo.co.jp/articles/72f98c99755c4f92cc441c17486d10deaaa0c978>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000191-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 泉房穂氏　参院選は「コメの値段だけが争点じゃない…消費税の減税をはじめとした国民負担軽減…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d39eeb76f0002d76c62cb0763722431fff98297>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-90027166-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「侮辱やめて」石破総理反論　国民・玉木代表の現金給付「バラマキ」批判に　党首討論
+      <a href=https://news.yahoo.co.jp/articles/ce634cdd9d5e96cdbfc7e283c9a912d2b707ecfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000039-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 「相互関税」の一時停止措置　米ベッセント財務長官「延長は可能」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d48c6096c00e7ce65f5c3c30864580db6d77806c3cae8f0c3f04afc902624f10.jpg> J3奈良 監督が不適切行為で辞任
+      <a href=https://news.yahoo.co.jp/pickup/6541971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/9754d353d161204ae6a4b2283ee93921a37c30b111ddccdde5a8a2935e011999.jpg> 家賃2.5倍 住人側に撤回通知届く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/926484a8e76e1bf5ec3a061d6d0922b4bbfd5b985530df773b6f88a6f77d043b.jpg> 角田裕毅が今季限り解雇か 英報道
+      <a href=https://news.yahoo.co.jp/pickup/6541964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/d48c6096c00e7ce65f5c3c30864580db6d77806c3cae8f0c3f04afc902624f10.jpg> J3奈良 監督が不適切行為で辞任
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 12:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 13:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
