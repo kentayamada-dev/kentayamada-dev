@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCckJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a88f7ee46ce0e3a70b7f2efa9747fed4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b179ace5898ed89ac3ff3a842383349.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c2ca2cb8d1d1e1265e1b3b9931b7434288ed949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-21975001-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大型ダンプカーで上司をひき殺した男（62）に懲役23年の判決「執拗に攻撃　強固な殺意あった」　福岡地裁小倉支部
+      <a href=https://news.yahoo.co.jp/articles/1d2f2fe521c49fd2b5d6e52aa9c546658caf2918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00010010-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 『給付金か消費税減税か』あなたなら？専門家の意見は真っ二つ！「3万円欲しい」「あざとい」の声も　給付派・減税派の主張を徹底比較し妥当性考える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a006ad5b23f66e75fc6c54d23f30c858755907e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-08872758-nib-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トリを飼っていないのに…「オウム病」で30代妊婦死亡　県内で死亡例は初めて《長崎》　
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/30c7f6b633677cd5c88f633a5c65d847ab32823f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000048-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> “1億円いただき男子”三山凌輝、結婚発表“Xデー”まで1カ月…言動に集まる「2代目誠意大将軍」の指摘
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000048-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> “1億円いただき男子”三山凌輝、結婚発表“Xデー”まで1カ月…言動に集まる「2代目誠意大将軍」の指摘
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c662e29678a1b8feb2e168aead9b7263126ba984>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-06718766-tvi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岩手山入山規制区域立ち入りについて協議　火山防災協議会幹事会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a722b2413458377530aa6b8b4d8a1f9c99fbb29a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000296-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 眞鍋かをり　全国民2～4万円給付の自公案に「1回取り下げた…コメで評価されてる今だったら…」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/2fa556723029faa3c88c67c9ab090b31de3384bc18df5c4f364fcb350087fb4d.jpg> 教委7割「性教育拡充は必要」朝日
+      <a href=https://news.yahoo.co.jp/pickup/6542009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/4b9032e28731db3fa3f27753f88125a3feb8b0851872387910b7e890a07dbb4d.jpg> 中国 海自機への接近巡り日本非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/7deb4edfd7ede31d14ed8b2357c29e921df01bb749977729a5231d45f813e4a7.jpg> 山尾氏の公認見送り 玉木氏おわび
+      <a href=https://news.yahoo.co.jp/pickup/6542010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5d7810f837160f223fa5b3fda33e73f0f85599fa8491da84ed231ad843f4469e.jpg> 三菱自4万台リコール 人身事故も
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5c4bbf67de1ba54187bf1a507cf04a81024f9aca763f8c64109ee2a31ff3d043.jpg> 天然記念物のワシ 10発の被弾歴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6541999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/1a9e2dc76e636a1e6a3511e1428cee9078235f26e56d8ebf55490ca84f66e3ad.jpg> ローソン1号店 50年前の外観再現
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6541998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/a04a9684c04bc08d06e47dbab866bc51bc9736e2d04961bdce884e22fe201422.jpg> 浅田真央さん コーチ業始動を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/5c4bbf67de1ba54187bf1a507cf04a81024f9aca763f8c64109ee2a31ff3d043.jpg> 天然記念物のワシ 10発の被弾歴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/12/e40231f5d471eacc5292b79aa5a390ab1ad9cb86309bc180a95e5a7d391b06e0.jpg> G1・2勝のソウルラッシュ 骨折
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/12 17:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/12 18:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
