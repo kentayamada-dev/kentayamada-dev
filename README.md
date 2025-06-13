@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b28a0cbd0ea38a0d829071ffa154118d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a645a2e6ebe521e67f5e8581a7f55407.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/458638653fd71adff7be15ac2f85e461775bfe8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987074-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがイラン核施設など攻撃　イランも報復攻撃…最高指導者ハメネイ師「イスラエルは厳しい罰を受けることになる」
+      <a href=https://news.yahoo.co.jp/articles/c2cc69cb04d38e53524cbdc84aeb3b7926bac87f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-90027310-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「目を開けるとまだ生きていた」“11Aの奇跡”なぜ助かった？インド旅客機墜落1人生存
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0db6727b8dd9badc3f099cf31608bffc5fb7dc15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000001-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=901&ch=901&exp=10800&fmt=webp> “11A席の男性”が墜落事故から生還した経緯を語った　「機体にわずかな隙間を見つけた」
+      <a href=https://news.yahoo.co.jp/articles/c634392798bd01f399028c381ef11d7f30411735>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-05341265-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イラン核施設など攻撃…78人死亡　滞在日本人は今…
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17af0a35c29185ddc425daa0465e7a76d85f11df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ、訪米は見送り…関税交渉で依然隔たりか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ…訪米は見送り、関税交渉で依然隔たりか
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/f877cc5fe551e39d537e61d55cbc5deb082da47977fd808ec0fef03ab5c2bfe1.jpg> 日米首脳が電話会談 関税交渉巡り
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c1123829f604a68e26b46613bcd1ad6b7f368fa8c61dad6c3de9d864e43900a9.jpg> 日米首脳が電話会談 関税交渉巡り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 01:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 01:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
