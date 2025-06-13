@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7caa5425e44aadbe90827aa9f9beee15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d48af11ef02ccfeb62b79e2a9d1c3f4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/979b996d5dd984bd7c3e4990c14d8de3cbf2dffd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-01922626-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 高齢者用“電動カート”と軽自動車が衝突　90代くらいの男性が意識不明「出てこないと思った」中学校教諭の男を現行犯逮捕　兵庫・明石市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7d81e62f41e3d0f07d955706730b9f8cbc89f3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-16132043-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=900&ch=900&exp=10800&fmt=webp> エア・インディア機墜落で乗客乗員241人死亡、生存者1人　地上で医大宿舎に激突
+      <a href=https://news.yahoo.co.jp/articles/c941f7093112205c2109d97d24c51942a1499799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050092-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=334&ch=334&exp=10800&fmt=webp> ロス抗議デモが全米２１都市に拡大…連邦地裁は州兵指揮権の知事への返還命じる判決
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b37f43502a200375fd6dc318981c2ad1f7313e00>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986562-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車関税のさらなる引き上げを示唆「関税を高くすればするほど、アメリカ国内で工場を建てる可能性は高まる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/caf13fe2e3df814289efdd5c32ce47f588a4a095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050106-yom-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド機墜落で男性１人を奇跡的に救助「起き上がると、周りは遺体だらけで怖くて走った」
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3ba58fc207662320de5b1cf7f74aee93010b334090e7fb3a8649f08519bf95ea.jpg> 夏ボーナス 企業3割「増加する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bae291c85635cc6acde03a7a3ac822032981526d79b92528552a41940767cebf.jpg> 「簡単副業」SNS関連トラブル増
+      <a href=https://news.yahoo.co.jp/pickup/6542101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/857cc88b3ba87e484913fb9c1d60715993110bfe67eaccaf68bc1360ada8006f.jpg> 本田圭佑39歳「現役は辞めない」
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/87004730d1a9459308ca1af9d298c4380b582ab26500181aa579526971096255.jpg> YOSHIKI XYメンバー3人脱退報告
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 14:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 15:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
