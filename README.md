@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b552ce0539719c56639ac0b9c917783f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c033dfea9b9212f301da0a9642ce79d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/576f8a52dd6b2e6dddf5cd3d5cfe5bcf059ea2cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=480&ch=480&exp=10800&fmt=webp> すべてのコメ転売禁止へ、違反は罰則も　小泉氏「高騰望ましくない」
+      <a href=https://news.yahoo.co.jp/articles/34bd331b43c8950facc03775bab4cc6076195292>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【ガソリン】野党7党が暫定税率廃止法案を提出「こんなに野党がまとまるのは珍しい」「選挙を前に対立軸を示したのは意味ある」マイナス15円は実現する？自民側は「あまりに唐突な提出」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/09fc269ecf5d9115b78591a448c316f1a526bff3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000010-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=978&ch=978&exp=10800&fmt=webp> 備蓄米の転売禁止を閣議決定　小泉進次郎農水相「安価なコメを安定的に消費者に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b2580e7ab21c0371988c34740c9b98036b12006>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000022-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> エア・インディア墜落事故の唯一の生存者が座っていた座席
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b111d59e9824c74ad3e08d0ce27f59f1975a5ab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000083-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=373&cw=1454&ch=1454&exp=10800&fmt=webp> 参院選直結、東京都議会選が告示　120人超が立候補
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ada97b308eed6be3b72ad4d336bccb0c60810ec6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242636-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> インド機墜落、唯一の生存者の弟が心中語る　もう1人の兄の安否はわからず
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7d689add2674740153c83daa97763750f87499b8d358ba23058c99f72c997801.jpg> 国民民主が迷走 代表責任問う声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a85b2a237346d7539b1ab6015e551761891544a8569d02a53721bf169265811b.jpg> 政府 海外の研究者獲得に1000億円
       </a>
@@ -412,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542064>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/130ad5c595aeb67e74285094f4edc9be665337f1f9cc9b2245654140553a66ab.jpg> 自民「現金1人4万円」給付を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ce9f69c316bf5b1c3d5de1c301b5552802ff502ab007d6a9ebb8e4ccb3e3237f.jpg> 墜落 生存者「離陸30秒後ごう音」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 10:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 11:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
