@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d48af11ef02ccfeb62b79e2a9d1c3f4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f49c4a5ce1726fb8be4885e8661ca795.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93d82446ac4858938d9d672daefc8897e2837717>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-suntvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事と片山元副知事　背任容疑で書類送検　阪神・オリックス優勝パレードを巡る補助金「還流疑惑」／兵庫県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/640be476d3374db3e2f38abc55ed2c3b7e84edf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000106-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 印機墜落、地上の学生寮で24人死亡か　ブラックボックス回収の報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47beff17df281839de0247ea14996460b5c31c76>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-35234236-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン軍のバゲリ参謀総長も死亡、イスラエルの攻撃で　国営テレビ
       </a>
@@ -365,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c941f7093112205c2109d97d24c51942a1499799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050092-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=334&ch=334&exp=10800&fmt=webp> ロス抗議デモが全米２１都市に拡大…連邦地裁は州兵指揮権の知事への返還命じる判決
+      <a href=https://news.yahoo.co.jp/articles/62f9c41a6a14e02c6eabf129059b879901e0c80c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-09482456-ybs-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】同僚女性殺人 元団体職員の男（36）に懲役20年の実刑判決 甲府地裁 山梨
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b37f43502a200375fd6dc318981c2ad1f7313e00>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986562-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車関税のさらなる引き上げを示唆「関税を高くすればするほど、アメリカ国内で工場を建てる可能性は高まる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caf13fe2e3df814289efdd5c32ce47f588a4a095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050106-yom-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド機墜落で男性１人を奇跡的に救助「起き上がると、周りは遺体だらけで怖くて走った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/158c4c9953b3d79f42cf80e4f622d40eb035f2a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ヨークベニマルで備蓄米販売　郡山・横塚店、6時間半で完売
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542073>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02246064/title-1749731493652.jpeg?exp=10800> 米LA抗議デモ 何を批判している
+      <a href=https://news.yahoo.co.jp/pickup/6542077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/40b913af29e2f23c9d864c1420ecf78ea79e7e6a806a71e3b1eab70d6972da70.jpg> 中山間地の農業支援拡充 与党調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/63564dfd5cdfe950f569e5d7c38d664427f255afbf7fe76657d8adc9d2dc105b.jpg> ロシア兵死傷者100万人超 英発表
+      <a href=https://news.yahoo.co.jp/pickup/6542104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9fa900771f646332c98c1e328b07bc239ee5a2c9c64dd421e54f229cfe5ff9e2.jpg> 兵庫県知事 背任の疑いで書類送検
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542100>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> シニアカーの男性 はねられ重体
+      <a href=https://news.yahoo.co.jp/pickup/6542099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが2人はねる 女性死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 15:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 15:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
