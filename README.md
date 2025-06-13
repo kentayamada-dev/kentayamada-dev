@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b812b1105ffbb5f3f3405855febcfab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b28a0cbd0ea38a0d829071ffa154118d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d979ca56dfd53e157ec0ba85dcb44b5802e38ac9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-03688221-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【解説】中東緊迫　イスラエルがイラン核施設を攻撃「3つの理由」と今後への「3つのシナリオ」
+      <a href=https://news.yahoo.co.jp/articles/458638653fd71adff7be15ac2f85e461775bfe8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987074-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがイラン核施設など攻撃　イランも報復攻撃…最高指導者ハメネイ師「イスラエルは厳しい罰を受けることになる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0db6727b8dd9badc3f099cf31608bffc5fb7dc15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000001-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=901&ch=901&exp=10800&fmt=webp> “11A席の男性”が墜落事故から生還した経緯を語った　「機体にわずかな隙間を見つけた」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17af0a35c29185ddc425daa0465e7a76d85f11df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ、訪米は見送り…関税交渉で依然隔たりか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7198189d19b7f3fa119e32f4b3c2a2d7372488d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978449-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド旅客機“30秒で墜落”一体なにが?　元機長が考える“エンジン停止”の原因　同型の機体は日本に141機【Nスタ解説】
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 00:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 01:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
