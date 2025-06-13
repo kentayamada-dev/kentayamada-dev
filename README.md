@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09288f0ad6840e8d349c3782272a8ab2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e60820143045134534a71184b7852d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58e4f1ca4cc4e612be1e18ca845fc1e0290a1736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000370-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ発表　千賀滉大は15日間のIL入り　ナ・トップ防御率1.47で7勝目も右太腿裏痛め長期離脱も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000370-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ発表　千賀滉大は15日間のIL入り　ナ・トップ防御率1.47で7勝も右太腿裏痛め長期離脱も
       </a>
     </td>
   </tr>
@@ -375,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43be15dc704f553c0981508d243e63f65a515a51>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06858282-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> インド旅客機墜落事故　エンジンなどに注目し原因調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b513a33954b7b3574db251c471bcec339cf90c95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242876-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理“国民に一律2万円”“子どもは4万円”自民党・参院選公約で現金給付「バラマキではない」 街では「減税」求める声も【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17af0a35c29185ddc425daa0465e7a76d85f11df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ…訪米は見送り、関税交渉で依然隔たりか
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 04:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 05:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
