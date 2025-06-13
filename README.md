@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/356db8a3106059f36ceb767738655492.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e324b257442ff8697880626bc90f858f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c476813751e414db63bef05e5ffabd069458f6bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-02662352-fbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】福岡と佐賀で14日昼すぎにかけて大雨の恐れ　夜遅くにかけて土砂災害に厳重に警戒を　各地の予想雨量を詳しく
+      <a href=https://news.yahoo.co.jp/articles/9b5d821a06d372d58ece11dcb186c82005d0a58e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン、イスラエルに攻撃開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ccd8c7033f344ae01c0501055982c07c0bb2447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242886-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イランが極超音速ミサイル発射　イスラエルに対する「報復攻撃」開始　弾道ミサイルも数百発発射か
+      <a href=https://news.yahoo.co.jp/articles/89dc22e0357a8b2edf8d67ed727f4dc6efdaf2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-08318832-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “墜落までの30秒”映像分析から見る「異変」とは…　インド旅客機、唯一の生存者“奇跡の脱出”語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c476813751e414db63bef05e5ffabd069458f6bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-02662352-fbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】福岡と佐賀で14日昼すぎにかけて大雨の恐れ　夜遅くにかけて土砂災害に厳重に警戒を　各地の予想雨量を詳しく
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 07:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
