@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a645a2e6ebe521e67f5e8581a7f55407.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0422c8b4ed5b40d64b5d782552b2b21e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b513a33954b7b3574db251c471bcec339cf90c95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242876-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理“国民に一律2万円”“子どもは4万円”自民党・参院選公約で現金給付「バラマキではない」 街では「減税」求める声も【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1fcc088b6b477abe5b60504ac02873d9dd2db4f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000002-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍「イラン最大のウラン濃縮施設を攻撃」「作戦は始まったばかりだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2cc69cb04d38e53524cbdc84aeb3b7926bac87f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-90027310-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「目を開けるとまだ生きていた」“11Aの奇跡”なぜ助かった？インド旅客機墜落1人生存
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c634392798bd01f399028c381ef11d7f30411735>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-05341265-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イラン核施設など攻撃…78人死亡　滞在日本人は今…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bdc898dbf6ed47b557d8367ca6aa2eef6fbe1cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987072-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相 参院選公約に1人2万円給付　子ども・低所得世帯の大人は4万円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 01:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 02:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
