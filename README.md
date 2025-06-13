@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f79da2d823f7788c3200541982f9cb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3affeaaf3ba18ad4ebb97fb35e317c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cb4cbb6aa54608ba7d0883d124f7990e4299ae8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00060629-satvv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】17歳の高校生殺害の被告に懲役17年の判決暴行加えた上で川に投げ込む　静岡地裁浜松支部　　　　
+      <a href=https://news.yahoo.co.jp/articles/6eb6f463dd76b288423df90ac12af9115f627181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-04289827-ybc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山形県内　「百日咳」1週間の感染患者報告数が過去最多　「リンゴ病」9週連続警報レベル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/640be476d3374db3e2f38abc55ed2c3b7e84edf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000106-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 印機墜落、地上の学生寮で24人死亡か　ブラックボックス回収の報道
+      <a href=https://news.yahoo.co.jp/articles/1eeda9863fad9e3cdb3380afca1e3d5e2400be9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> インド機墜落　エンジン2基が同時停止か　専門家が考える三つの原因
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/419907a6d5cc0442238a09f926e2d18a5a5c991d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242752-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イランが報復宣言、ドローン100機以上を発射　核施設などイスラエルが攻撃
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47beff17df281839de0247ea14996460b5c31c76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-35234236-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン軍のバゲリ参謀総長も死亡、イスラエルの攻撃で　国営テレビ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e3c28517e28e415884565c7d913076f34400f1d78de8ce280143a7d02f2a19f8.jpg> イスラエル イラン核施設なぜ攻撃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542098>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ca4a09f9fe54d9ecc79de123d60542a391dc7331f5f97c780bab8678ee250a9c.jpg> イラン側 イスラエルに報復を宣言
+      <a href=https://news.yahoo.co.jp/pickup/6542102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/8f5541e512d43f85f9b422b8b52cf6dc211345d64dcc1a5f20d3f9cf8c540a22.jpg> LAデモ州兵派遣 裁判所「違法」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/40b913af29e2f23c9d864c1420ecf78ea79e7e6a806a71e3b1eab70d6972da70.jpg> 中山間地の農業支援拡充 与党調整
+      <a href=https://news.yahoo.co.jp/pickup/6542107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/daabcf23dc5490ed1bdfb1c6578a21fe9b53d38408a826b244b15562f8e9ccab.jpg> インド墜落 地上でも24人死亡か
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/6b82bc6529f3157d3f7c5dfa4ea9af41f3dc796be7a3b507b47693284d6d6f6a.jpg> 国仲涼子「生理は誇らしいこと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542103>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/87004730d1a9459308ca1af9d298c4380b582ab26500181aa579526971096255.jpg> YOSHIKI XYメンバー3人脱退報告
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 16:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 16:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
