@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa40d6938a9142b98d3bef40bd48db8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b812b1105ffbb5f3f3405855febcfab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4e51aed6a4c873094082c10e6253dd98fc5583c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000097-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理　すべての国民に一律2万円の給付を発表
+      <a href=https://news.yahoo.co.jp/articles/d979ca56dfd53e157ec0ba85dcb44b5802e38ac9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-03688221-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【解説】中東緊迫　イスラエルがイラン核施設を攻撃「3つの理由」と今後への「3つのシナリオ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4bdc898dbf6ed47b557d8367ca6aa2eef6fbe1cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987072-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相 参院選公約に1人2万円給付　子ども・低所得世帯の大人は4万円
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17af0a35c29185ddc425daa0465e7a76d85f11df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ、訪米は見送り…関税交渉で依然隔たりか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40a9c4ebb00fa08227471f5c6a5984a03f985908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅反落、一時630ドル安＝ナスダックも安い（13日午前）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89e67d4f37da2495911afacd0e5bfae1de0ec3da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000337-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 都議選告示、295人立候補　女性最多、政治とカネ争点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ、訪米は見送り…関税交渉で依然隔たりか
       </a>
     </td>
   </tr>
@@ -395,11 +387,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc3ed1733e234832292cfdc69bee0f51f381fad6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010014-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1854&ch=1854&exp=10800&fmt=webp> 【中日】執念の逆転勝利！岡林が延長10回V打&5回には同点打 金丸5度目の先発、7回途中1失点も初勝利ならず 松山は2四球も25S
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/f877cc5fe551e39d537e61d55cbc5deb082da47977fd808ec0fef03ab5c2bfe1.jpg> 日米首脳が電話会談 関税交渉巡り
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542142>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/41430ca20ebc50fda5470e9ddd6fca14e3bd2b420f6840267976a1757ad7aebd.jpg> 背任容疑 兵庫知事は適法との認識
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542152>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7874f20da930ab8c7ec9c9669f82c3383af130a49f166ed92d402bd7c9c8c6c8.jpg> 印墜落 生存者「奇跡」の脱出語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/80a02a622e3eaee8d3434190357d02319fbf32915543170b041ea391158b0116.jpg> 99歳運転の逆走車事故 息子悔やむ
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542140>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/02a6b4e6bcd929ea02828053c8ffa75e9028e7b9728ee3b8de4adbc0dd367be2.jpg> はだしで田植えに賛否 農水省回答
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/518ec3a691df93c4de13682c5db705cbb5286d6de67e4fef0a4373a91ce04465.jpg> 異常事態 町にネズミが大量発生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 23:51:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 00:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
