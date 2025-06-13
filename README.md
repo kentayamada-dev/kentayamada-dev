@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5f56d66a256e5ebaa9b03ee30055f94.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b17303c348aa20ebd9d9721192430e47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,6 +359,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ded619c6d3461b0994f024e12ce539783f41ad36>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000159-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=709&ch=709&exp=10800&fmt=webp> コメ高値で転売禁止を閣議決定、ネット「高値の原因究明を」「流通経路透明化」「世に出てない米はどこ？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3e2e525be7f5d668ed2ff42d5a7c385a7b000a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986520-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「核兵器プログラムの核心を攻撃」イスラエルのイラン攻撃で司令官や民間人多数死亡　林長官「イラン在留邦人380人の保護に万全期す」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/158c4c9953b3d79f42cf80e4f622d40eb035f2a8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ヨークベニマルで備蓄米販売　郡山・横塚店、6時間半で完売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b4d6aae8709b0e2829839ca7a8764225420086f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050087-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 都議選告示、立候補の届け出始まる…午前１１時４０分時点で過去最多の２８８人が届け出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 13:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 13:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
