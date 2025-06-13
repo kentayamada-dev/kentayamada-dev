@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e60820143045134534a71184b7852d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8f8529dbf5f833b41b37e4b01e9f567.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84e57461d75ba2fa477169f6b7ccd3e25677d243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050061-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イランがイスラエルに報復攻撃、革命防衛隊「軍事施設や空軍基地など数十か所を標的にした」
+      <a href=https://news.yahoo.co.jp/articles/3810799fb7880095e6ada0a6e49302f667d51949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=1158&ch=1158&exp=10800&fmt=webp> 「元通りにならない可能性も」千賀滉大の離脱に広がる衝撃　メッツ番記者は不可避の戦力ダウンに懸念「エースは代えが効かない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58e4f1ca4cc4e612be1e18ca845fc1e0290a1736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000370-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ発表　千賀滉大は15日間のIL入り　ナ・トップ防御率1.47で7勝も右太腿裏痛め長期離脱も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43be15dc704f553c0981508d243e63f65a515a51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06858282-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> インド旅客機墜落事故　エンジンなどに注目し原因調査
+      <a href=https://news.yahoo.co.jp/articles/8357ba1737ad283c4807bc31ba8c8d6d0e721e58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン、ミサイルで報復　極超音速弾100発と主張
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 05:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 05:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
