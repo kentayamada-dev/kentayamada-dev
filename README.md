@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e324b257442ff8697880626bc90f858f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a95ea997926197d042b3cb71cb2e3e0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b5d821a06d372d58ece11dcb186c82005d0a58e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン、イスラエルに攻撃開始
+      <a href=https://news.yahoo.co.jp/articles/ed56119553fbfc97b16e8a7e3b17e94faa07df4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《エア・インディア墜落事故》「ボタンが反応しない」「エアコンが起動しない」…“機内映像”で捉えられていた“異変”【乗客1名除く241名死亡】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89dc22e0357a8b2edf8d67ed727f4dc6efdaf2bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-08318832-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “墜落までの30秒”映像分析から見る「異変」とは…　インド旅客機、唯一の生存者“奇跡の脱出”語る
+      <a href=https://news.yahoo.co.jp/articles/6925694028844a0790cc62be5be34b011699ad14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183498-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…？ 千賀滉大の魔球で“異変”「ドン引き」 打者が全く動かなくなる… “棒立ち”見逃し三振「これは誰も打てない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b5d821a06d372d58ece11dcb186c82005d0a58e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン、イスラエルに攻撃開始
       </a>
     </td>
   </tr>
@@ -394,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c1123829f604a68e26b46613bcd1ad6b7f368fa8c61dad6c3de9d864e43900a9.jpg> 日米首脳が電話会談 関税交渉巡り
+      <a href=https://news.yahoo.co.jp/pickup/6542156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d8a48b654c92fe21c90eaa2499a099a7f0c3e44d09ef03dc99c64e9d206e4a37.jpg> 14-15日 九州から関東で大雨予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2f4a45227202f5f615ec130b92bbfa75908408986afd5982a61b625ef4e8a974.jpg> 関税交渉に赤沢氏 突っ込んだ協議
       </a>
     </td>
   </tr>
@@ -410,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7874f20da930ab8c7ec9c9669f82c3383af130a49f166ed92d402bd7c9c8c6c8.jpg> 印墜落 生存者「奇跡」の脱出語る
+      <a href=https://news.yahoo.co.jp/pickup/6542155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/3a6e496b72bad096f833f31f336f560862f13916bfa1e5e51f0123dde00a3d4b.jpg> 急発進した車に警官が発砲 男出頭
       </a>
     </td>
   </tr>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/518ec3a691df93c4de13682c5db705cbb5286d6de67e4fef0a4373a91ce04465.jpg> 異常事態 町にネズミが大量発生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/53d4296de193df05828b168e9c6cdd0ec1cd94d281609d7ebd4a4de30351139f.jpg> 視野が突然欠けた 57歳で網膜剥離
+      <a href=https://news.yahoo.co.jp/pickup/6542157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/9230ab0140907922412bd84658e416b0a71726d6b6eb09d22fee0dc81a5e58bf.jpg> 「ゴンチャ」人気はなぜ続くのか
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 07:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 07:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
