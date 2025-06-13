@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e071def5fb8b39531c1b4e15dfdaa730.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ebde8ec9119d3d3fcd713237084cd8ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93fc1799719c810a8e9318d4f7aec64013820a4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-09768671-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、イラン核施設など攻撃　子ども含む民間人が死亡　イラン側の無人機100機以上を迎撃…報復合戦に
+      <a href=https://news.yahoo.co.jp/articles/847777392fa91b65f8920860e1c4aa69892fb583>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 企業・団体献金法案の採決は困難　立民の野田代表「環境整わず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba30268a40a23e2be5113821c29090a3d03b2b40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978390-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 県内の「リンゴ病」の患者数は166人　9週連続の警報レベル（山形）
+      <a href=https://news.yahoo.co.jp/articles/aea13786359e8b28666f1a374af3cea1596cecc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00987028-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド旅客機墜落事故　地上で巻き込まれた人含む265人死亡と地元メディア報じる　ブラックボックスを回収し解析へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ad16c14da7992ab20a6e6d8416986c396a3b8db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 平成以降最多295人が立候補　都議選告示　参院選控え各党総力戦
+      <a href=https://news.yahoo.co.jp/articles/012c0e18c73c4668ba65a66ce03ea607907bb4cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-01649478-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 職務質問中に“東南アジア系の男”の車が突っ込む、警官が発砲　千葉・旭市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec47976837d8299ce93c4fac2bc294cd5d86cbb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978274-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> インド西部での航空機墜落事故を受けて南さつま市で日本語を学ぶインド人は…驚きと悲しみの声　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/753ec2cc7878fec7966b43934f23bf13cb35dc59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000108-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ドローンは「すべて迎撃」　応酬続く恐れも　イスラエルがイラン攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ceb359df51ceaa61b30042f65cf79ec9f06714de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-10183451-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 千葉県旭市で向かってきた車に警察官が拳銃3発発砲 男1人逃走か
+      <a href=https://news.yahoo.co.jp/articles/61b9aac02b33111300df77279f60c9a2a0294581>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36131645-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 【都議選】石丸伸二氏「再生の道」で初陣「新たな選択肢示したい」新人候補と街頭演説
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/49a49d337e2457b82315f7f07e02d4c6108f0c5e189373cbce9a3857994634f0.jpg> 西・東日本 土日は警報級大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6542129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/467bdc3708dc3ecd3c79fa6cb4396914d12faa4e443c52aa1ae240ece8f03c28.jpg> 国民全員に2万円給付を表明 首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/02cd51cd66972b0843b045fee884b5dcd535cf044d7a3175f7756ab7e14b6764.jpg> 安倍氏銃撃 初公判は10/28に決定
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542130>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3ac1e6b0c4567537eddeea7634ebe5543786e5732256d18d235afa43daa5ac98.jpg> イスラエルの攻撃望まぬ米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/467bdc3708dc3ecd3c79fa6cb4396914d12faa4e443c52aa1ae240ece8f03c28.jpg> 国民全員に2万円給付を表明 首相
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5ddb9675f5fc747306377ce382e0d450c103ad5c5267663f429f7444d491dc52.jpg> 生徒ら106人食中毒 ウエルシュ菌
+      <a href=https://news.yahoo.co.jp/pickup/6542123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/518ec3a691df93c4de13682c5db705cbb5286d6de67e4fef0a4373a91ce04465.jpg> 異常事態 町にネズミが大量発生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/518ec3a691df93c4de13682c5db705cbb5286d6de67e4fef0a4373a91ce04465.jpg> 異常事態 町にネズミが大量発生
+      <a href=https://news.yahoo.co.jp/pickup/6542135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/de521cc1ab1652293baaabda51e8feb9769a87b4e0dae85c47889523c59bd09b.jpg> 作新高監督 素手捕球させ部員骨折
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 20:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 21:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
