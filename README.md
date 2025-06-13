@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b17303c348aa20ebd9d9721192430e47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a30125250ea42a8df0d6791063535ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ded619c6d3461b0994f024e12ce539783f41ad36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000159-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=709&ch=709&exp=10800&fmt=webp> コメ高値で転売禁止を閣議決定、ネット「高値の原因究明を」「流通経路透明化」「世に出てない米はどこ？」
+      <a href=https://news.yahoo.co.jp/articles/979b996d5dd984bd7c3e4990c14d8de3cbf2dffd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-01922626-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 高齢者用“電動カート”と軽自動車が衝突…90代くらいの男性が意識不明の重体　「出てこないと思った」中学校教諭の男を現行犯逮捕　兵庫・明石市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3e2e525be7f5d668ed2ff42d5a7c385a7b000a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986520-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「核兵器プログラムの核心を攻撃」イスラエルのイラン攻撃で司令官や民間人多数死亡　林長官「イラン在留邦人380人の保護に万全期す」
+      <a href=https://news.yahoo.co.jp/articles/83e3c002599f4a1c0c73d48eefd1c465c9858160>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランへの攻撃で核開発に携わる科学者ら死亡　最高指導者「イスラエルに報復」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caf13fe2e3df814289efdd5c32ce47f588a4a095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050106-yom-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド機墜落で男性１人を奇跡的に救助「起き上がると、周りは遺体だらけで怖くて走った」
+      <a href=https://news.yahoo.co.jp/articles/158c4c9953b3d79f42cf80e4f622d40eb035f2a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ヨークベニマルで備蓄米販売　郡山・横塚店、6時間半で完売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/158c4c9953b3d79f42cf80e4f622d40eb035f2a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ヨークベニマルで備蓄米販売　郡山・横塚店、6時間半で完売
+      <a href=https://news.yahoo.co.jp/articles/8b4d6aae8709b0e2829839ca7a8764225420086f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050087-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 都議選告示、立候補の届け出始まる…午後１時２０分時点で過去最多の２９２人が届け出
       </a>
     </td>
   </tr>
@@ -402,40 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/eaffb8aedeb01697bd3cb47c0542b63c589b4f05d8224d43fd6c93aba3c63b24.jpg> イスラエル 攻撃は「何日も」続く
+      <a href=https://news.yahoo.co.jp/pickup/6542094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ca4a09f9fe54d9ecc79de123d60542a391dc7331f5f97c780bab8678ee250a9c.jpg> イラン側 イスラエルに報復を宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0962957769d25489ba1762a972e5897bac132b061b60863d540d9ff9d96a62dd.jpg> 年金改革法成立 基礎年金底上げも
+      <a href=https://news.yahoo.co.jp/pickup/6542073>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02246064/title-1749731493652.jpeg?exp=10800> 米LA抗議デモ 何を批判している
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/8d356faa241831181f567242fafcac534fc1268f17d476f6fb7d265f98d67858.jpg> 来週は関東40℃予想も 猛暑の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが親子はねる 母親死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/27e003c0c83e834ac855f8bdafe02a265ceebdc5ab19b1768816540e61eaa0b8.jpg> 備蓄米を事前告知せず 店の思い
+      <a href=https://news.yahoo.co.jp/pickup/6542072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/63564dfd5cdfe950f569e5d7c38d664427f255afbf7fe76657d8adc9d2dc105b.jpg> ロシア兵死傷者100万人超 英発表
       </a>
     </td>
   </tr>
@@ -444,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542071>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c25f71a671f1b90c591fb68fa8cea39ad1b029ac05812b87c5eb351f780f1d25.jpg> 高校野球開催に暗雲 ケーブル盗難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3ba58fc207662320de5b1cf7f74aee93010b334090e7fb3a8649f08519bf95ea.jpg> 夏ボーナス 企業3割「増加する」
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/6b82bc6529f3157d3f7c5dfa4ea9af41f3dc796be7a3b507b47693284d6d6f6a.jpg> 国仲涼子「生理は誇らしいこと」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 13:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 14:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
