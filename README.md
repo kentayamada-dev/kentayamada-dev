@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9945a17fdadb36a3ebeb4802d6fd404.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e071def5fb8b39531c1b4e15dfdaa730.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ad16c14da7992ab20a6e6d8416986c396a3b8db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 平成以降最多295人が立候補　都議選告示　参院選控え各党総力戦
+      <a href=https://news.yahoo.co.jp/articles/93fc1799719c810a8e9318d4f7aec64013820a4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-09768671-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、イラン核施設など攻撃　子ども含む民間人が死亡　イラン側の無人機100機以上を迎撃…報復合戦に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32bb954289148cd6e8954d32d5167772a0011936>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90027285-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルがイラン攻撃　外報部デスク解説「はるかに違うレベル」の事態
+      <a href=https://news.yahoo.co.jp/articles/ba30268a40a23e2be5113821c29090a3d03b2b40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978390-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 県内の「リンゴ病」の患者数は166人　9週連続の警報レベル（山形）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ad16c14da7992ab20a6e6d8416986c396a3b8db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 平成以降最多295人が立候補　都議選告示　参院選控え各党総力戦
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/62c7ede4e3b9daf248adada9bdf84f55817a82a5e801c2bdf2e3ecb4514d67a5.jpg> 印墜落 生存者の電話を弟が明かす
+      <a href=https://news.yahoo.co.jp/pickup/6542131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/cf01dec262f02b2d44018b596e52c92419bededab8aadf5aabfe5bb615abcc08.jpg> 警察官が向かってきた車に3発発砲
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 20:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 20:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
