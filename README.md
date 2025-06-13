@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99900111d0f4e69db7885f70e979b889.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa40d6938a9142b98d3bef40bd48db8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4e51aed6a4c873094082c10e6253dd98fc5583c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000097-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理　すべての国民に一律2万円の給付を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17af0a35c29185ddc425daa0465e7a76d85f11df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050286-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=375&ch=375&exp=10800&fmt=webp> カナダで石破首相とトランプ氏が会談へ、訪米は見送り…関税交渉で依然隔たりか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/40a9c4ebb00fa08227471f5c6a5984a03f985908>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅反落、一時630ドル安＝ナスダックも安い（13日午前）
       </a>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89e67d4f37da2495911afacd0e5bfae1de0ec3da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000337-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 都議選告示、295人立候補　女性最多、政治とカネ争点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000337-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 都議選告示、295人立候補　女性最多、政治とカネ争点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a278aaa62bdcd31f4c1913e65b220478261d650>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000142-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 石破茂首相『1人2万円給付方針』にネットでは怒りの声「税金で抜いて選挙前だけ2万配る　いい加減にしろ」「税金納めてる方が低い金額って」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17a62645a34b9a2db756b7a6e3f9ab52f4716c04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242857-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理がトランプ氏と日米首脳電話会談 “トランプ関税”や“中東情勢”めぐり協議か？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8bca669cb4d882156cb2fd96895297c9bf75450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000321-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 巨大な機体激突、日常が暗転　生存男性「兄はまだ…」
+      <a href=https://news.yahoo.co.jp/articles/7198189d19b7f3fa119e32f4b3c2a2d7372488d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978449-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド旅客機“30秒で墜落”一体なにが?　元機長が考える“エンジン停止”の原因　同型の機体は日本に141機【Nスタ解説】
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542146>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/41430ca20ebc50fda5470e9ddd6fca14e3bd2b420f6840267976a1757ad7aebd.jpg> 背任容疑 兵庫知事は適法との認識
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7874f20da930ab8c7ec9c9669f82c3383af130a49f166ed92d402bd7c9c8c6c8.jpg> 印墜落 生存者「奇跡」の脱出語る
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3d290e070cdef63fa2a04196452fca8d3e048f1823311b29af0c6a3b51882430.jpg> まさかの連続暴投 ヤクルト敗戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542145>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5fc493bf8eea920886de05b26733677eae189f7677b8171fc6db8f452ec82608.jpg> 手越祐也のバンド「XY」から独立
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 23:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 23:51:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
