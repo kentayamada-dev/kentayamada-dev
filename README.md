@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a1f2ca6eab4b5c2239e868166523036.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e9cb96a3d211507150947c6d0cea603.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2da1d42f734a58964a73d7cfad22243f7620844>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-35234206-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 奇跡の生還、エアインディア墜落事故の唯一の生存者についてわかっていること
+      <a href=https://news.yahoo.co.jp/articles/ada97b308eed6be3b72ad4d336bccb0c60810ec6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド機墜落、唯一の生存者の弟が心中語る　もう1人の兄の安否はわからず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ebc727ff8f8285abee8b4ac9499fee71f4b2d62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250612-00000256-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、駄目押し呼んだ！激走三塁打　敵地で首位攻防、パドレスに勝ち越し
+      <a href=https://news.yahoo.co.jp/articles/5cbf62a6c2aea355529422c06c467fbf2349aff3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 8試合連続安打も今季ワースト9試合42打席ノーアーチ 2位ジャイアンツ、3位パドレスとの連戦で快音なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/021fe10cda2b6d6e900fd0305de2ff7f42f12c9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチールの黄金株「米国が保有」トランプ氏、日鉄の買収計画巡り説明　枠組みは触れず
+      <a href=https://news.yahoo.co.jp/articles/2731cff5bdc66872b9ef1ffacf30af9c9927b7bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ＭＬＢ＝千賀、7勝目もＩＬ入りへ　右太もも負傷で緊急降板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff1564bce014ed292d8302bb74573dcaed5087b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000019-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=545&ch=545&exp=10800&fmt=webp> 東京都議選が告示、22日投開票　物価高対策など争点　各党総力戦
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0dfd942c60358bf8e8926a49ec2dab0e823e05741f8b87805e88be2e544f4e8f.jpg> 新聞協会 選挙報道巡る声明公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542050>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9d0d893a6359ad928bc57d14f4f31b8836773ca8b48518e88fe9b50e1284f037.jpg> 東京都議選きょう告示 焦点は
       </a>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e80e573637ae4a4b5870bd7d2450a2448b1ae84eaf21b9a622674e5efda74768.jpg> インド機墜落 241人死亡、1人生存
+      <a href=https://news.yahoo.co.jp/pickup/6542057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0dfd942c60358bf8e8926a49ec2dab0e823e05741f8b87805e88be2e544f4e8f.jpg> 新聞協会 選挙報道巡る声明公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/186f9b4a82a161da8b5513a7c13fc63dca7e89873346302eaf42403f59bf1739.jpg> USS買収「黄金株」米政府が保有
+      <a href=https://news.yahoo.co.jp/pickup/6542056>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 墜落 生存者「離陸30秒後ごう音」
       </a>
     </td>
   </tr>
@@ -450,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c7093296f5bdea003079bbdff961331cac796a4361991761295f50e105244cf2.jpg> 北川景子がほぼスッピン 主演映画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/cb8c06fae0272c2d79db573c7b6260788e69d3c152d033bbb276aae828c05a33.jpg> 白線流しから30年 酒井美紀の今
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 08:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 09:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
