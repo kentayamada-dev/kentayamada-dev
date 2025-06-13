@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b32572cd2c6f5f5391fe47c918122d4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8167c67398f91efce61962a6abf6132.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a3f0877cbd1f7a415d0b900a4c770e49017d29c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978044-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 大雨に関する全般気象情報
+      <a href=https://news.yahoo.co.jp/articles/3771cea5e72400eebabec208d0400e639d492d1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000091-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞インドでエア・インディア機が墜落　原因は?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11d43058aa33c29460712a3f65154b9c326002c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242794-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「イスラエルは邪悪な本性を露呈した」イランが報復宣言　イスラエルによる「核施設」など空爆に対し
+      <a href=https://news.yahoo.co.jp/articles/dd158e1fd6fc426e106d3c09162d6ddec2b28355>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90032655-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 高校生をガラス瓶で殴るなどした上に監禁…さらに溺死させる　22歳男に懲役17年判決　裁判長「残酷で悪質。殺意も強い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63ea8b2943740192fbe30cc73db224acfd6ebd86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986768-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1人の生存者「どうして生き残ったのか分からない」　エア・インディア機が離陸から30秒で翼を揺らし墜落　3日前には羽田空港に
+      <a href=https://news.yahoo.co.jp/articles/80ec11c668ce4cea7bc0e6ef08a4858dbb0267c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 九州、土砂災害に厳重警戒を　15日にかけ広く大雨の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8c5e526294339a7986d5b6da1b755188fda5034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06545176-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 同僚女性殺害　元団体職員の男に懲役20年の実刑判決　甲府地裁
+      <a href=https://news.yahoo.co.jp/articles/a563f59b39762acd56d79e8656a9a6015a997858>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986838-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがイラン核関連施設を空爆…核開発加速化への危機感からか　イランは100機以上のドローンで報復攻撃もイスラエル軍は撃墜へ　日本の影響は?
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542121>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/b64b840de908a72d3156bd8fedbe62cc740d1e05ef9bb31722df2dd38edb9876.jpg> 国民に一律2万円給付 首相表明へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/51f2ae4bd335cbfedf584f494b61b6e64d9925ab89454dbf55751f7296ad045f.jpg> 都議選 295人が立候補の届け出
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/069fc5f8087f52b9319699daf6494b27cbdb8aa1722dd076ee65a39fe3e97991.jpg> 寺田心 ベンチプレスはMAX75kg
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 18:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 19:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
