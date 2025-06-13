@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df7e65741e847f4735d1a98f1574d738.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b218fe95bcabecd8e52e258f332be56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a263a4be3f30c09c3ab9ca6b9956a19f9b5b9b44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987093-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランがイスラエルに大規模報復攻撃　イラン最高指導者ハメネイ師「強烈な打撃を与える」
+      <a href=https://news.yahoo.co.jp/articles/03beed7e41ee241a9b726d1b10765033934faf58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00030211-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日14日　雨の範囲が西から拡大　激しい雨や雷雨も　晴れる北海道は暑さに注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0943e932d9422106a943f9dd23770a72f1271425>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】14日の天気 - 週末　広範囲で警報級大雨のおそれ　九州は少しの雨でも土砂災害に厳重警戒（14日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88682e1704bdfc1442e23422ab5ba3e32c0918f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00037154-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「国民を馬鹿にしてる」石破茂首相、現金給付の公約も「掲げた通りには…」発言の信用ゼロ
+      <a href=https://news.yahoo.co.jp/articles/90cd42115e950eea0d4b04ee3bc764dc6c01614d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、イランのミサイル攻撃で負傷者60人超　国防相「越えてはならぬ一線越えた」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed56119553fbfc97b16e8a7e3b17e94faa07df4c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《エア・インディア墜落事故》「ボタンが反応しない」「エアコンが起動しない」…“機内映像”で捉えられていた“異変”【乗客1名除く241名死亡】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2c80495f187f1bdbe33c2029e4988ce7dc1ac7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21978628-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=639&ch=639&exp=10800&fmt=webp> 【短期予想 詳報】梅雨前線停滞で西日本は大雨警戒　九州・四国 200mmを予想【1時間ごと 雨のシミュレーション 】台風1号は15日にも熱帯低気圧へ　土砂災害・浸水に厳重注意　強風・高波
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e108c4d47ada846ae202f08d7dec580448335530f63b5473e5ec13a992edecaa.jpg> 地元も動揺 ドラゴンアイ「消失」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542157>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/9230ab0140907922412bd84658e416b0a71726d6b6eb09d22fee0dc81a5e58bf.jpg> 「ゴンチャ」人気はなぜ続くのか
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5fc493bf8eea920886de05b26733677eae189f7677b8171fc6db8f452ec82608.jpg> 手越祐也のバンド「XY」から独立
+      <a href=https://news.yahoo.co.jp/pickup/6542167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/ac5f7b51b6dd99bba198c71a192bf73b9345e15295d9c36a3174ea28743eced9.jpg> 元猿岩石・森脇 有吉との関係は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/e30ee978fc61268f96405ecc87ca658a29f16dcfb80711a89625032e0bc67459.jpg> ソロライブ BTSメンバー全員集結
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 08:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 08:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
