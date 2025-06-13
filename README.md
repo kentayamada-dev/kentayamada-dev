@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cef99083d1e626122d622af49fd633b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad7b2d58e513f3328e2db6e515936ccb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3e2e525be7f5d668ed2ff42d5a7c385a7b000a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986520-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「核兵器プログラムの核心を攻撃」イスラエルのイラン攻撃で司令官や民間人多数死亡　林長官「イラン在留邦人380人の保護に万全期す」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b37f43502a200375fd6dc318981c2ad1f7313e00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986562-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車関税のさらなる引き上げを示唆「関税を高くすればするほど、アメリカ国内で工場を建てる可能性は高まる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0a4bbab4af00a9a310887a0c697355b2dd4ecd8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242653-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 唯一の生存者の家族「兄から電話で連絡」 インド機墜落“241人が死亡”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/230ff3aca2f3b75d36ef9439de763a12673bca43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130310-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也５試合ぶりの17号ソロ　打点57でチーム最多タイ、リーグではトップと６差で２位タイ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6677b65250bf0a4a63b8bf1fb5ef16fe74a95fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000023-jisin-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「不公平ですよね」国民民主・玉木代表は不倫で役職停止、疑惑の山尾氏は公認取り消し…処分の“差”に広がる怒りの声
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b111d59e9824c74ad3e08d0ce27f59f1975a5ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000083-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=373&cw=1454&ch=1454&exp=10800&fmt=webp> 参院選直結、東京都議会選が告示　270人超が立候補、女性最多
+      <a href=https://news.yahoo.co.jp/articles/8b4d6aae8709b0e2829839ca7a8764225420086f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050087-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 都議選告示、立候補の届け出始まる…午前１１時４０分時点で過去最多の２８８人が届け出
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/93d0296fe07e3854e7b062fa68b6e05a10ada16bb63c821d1f0af824eb7eb2dd.jpg> 米大統領 自動車関税引き上げ示唆
+      <a href=https://news.yahoo.co.jp/pickup/6542068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/94b2c12f046f19fba0a18c9252932cb446cce7fa2331183dc92a8ff4faa1dd2c.jpg> 備蓄米の転売禁止 閣議決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/8d356faa241831181f567242fafcac534fc1268f17d476f6fb7d265f98d67858.jpg> 来週は関東40℃予想も 猛暑の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/6059861015c5bf40e41ba2f8951a4adcb056284585814df336af031c97130ca7.jpg> ふるさと納税2市町除外 総務省
       </a>
     </td>
   </tr>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542059>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネコ治療医師死亡 マダニ感染症か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542081>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dc96294a6dd69266e86add201448d0bf7771adfd02901f54d3b985c36397c0ab.jpg> 鈴木誠也17号HR ファンは総立ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ac2afb66b271027f4d088c61c6e3cc25ca6ab38ecaae13a84d1c6490959b13be.jpg> メッツ千賀IL入りへ 長期離脱か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 12:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
