@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf4dec6706688e11f721f29c56fe8e3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/930f671965b315e82e0847e6478978be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de4490633129c9c98bdf62ba1bb05e611abfa455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050269-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 「中東２大軍事大国」が武力衝突…イスラエルは核施設など狙い３３０種類の弾薬、ハメネイ師は「厳しい懲罰を覚悟せよ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050269-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 「中東２大軍事大国」が武力衝突…イスラエルは核施設など狙い３３０種類の弾薬、ハメネイ師は「厳しい懲罰を覚悟せよ」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8bca669cb4d882156cb2fd96895297c9bf75450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000321-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 巨大な機体激突、日常が暗転　生存男性「兄はまだ…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000321-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 巨大な機体激突、日常が暗転　生存男性「兄はまだ…」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/455c455140a189a345c1879c09ffec0ef7e7c839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000338-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 巨人・小林誠司が今季初出場で攻守に存在感　4回まで6失点の赤星を3回完全投球に導く　G党大歓声
+      <a href=https://news.yahoo.co.jp/articles/8ee6a821358a5b83b33466e7b88b1479bd500810>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000092-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破総理　1人2万円の現金給付を公約へ　子どもと低所得者は2万円上乗せ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ee6a821358a5b83b33466e7b88b1479bd500810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000092-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破総理　1人2万円の現金給付を公約へ　子どもと低所得者は2万円上乗せ
+      <a href=https://news.yahoo.co.jp/articles/97a3ecadde378d9734a8c8b95ca92b19e518830d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90023584-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 「99歳でよく運転している」中央道で高齢ドライバーが逆走し正面衝突　警察が高齢者に免許証の自主返納の検討を呼びかけ
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e2ca85c6cfaa3bfe73577dafdd771261aa114b8b08c6a388599b3f27f3b2cb6a.jpg> イスラエル 無人機は「全て迎撃」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ce0888c97319e84e4728ae5261599e376d60c7c7e35e74504f1ff0a525bf5974.jpg> 14日 局地的に滝のような雨予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/fe53abb17cdc59892152f0f61a45da1434c74a551096060266fa4eea4e3f9fff.jpg> 2万円給付バラマキではない 首相
       </a>
@@ -426,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/02cd51cd66972b0843b045fee884b5dcd535cf044d7a3175f7756ab7e14b6764.jpg> 安倍氏銃撃 初公判は10/28に決定
+      <a href=https://news.yahoo.co.jp/pickup/6542137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e2ca85c6cfaa3bfe73577dafdd771261aa114b8b08c6a388599b3f27f3b2cb6a.jpg> イスラエル 無人機は「全て迎撃」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/41430ca20ebc50fda5470e9ddd6fca14e3bd2b420f6840267976a1757ad7aebd.jpg> 背任容疑 兵庫知事は適法との認識
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/80a02a622e3eaee8d3434190357d02319fbf32915543170b041ea391158b0116.jpg> 99歳運転の逆走車事故 息子悔やむ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5fc493bf8eea920886de05b26733677eae189f7677b8171fc6db8f452ec82608.jpg> 手越祐也のバンド「XY」から独立
+      <a href=https://news.yahoo.co.jp/pickup/6542147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3d290e070cdef63fa2a04196452fca8d3e048f1823311b29af0c6a3b51882430.jpg> まさかの連続暴投 ヤクルト敗戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/19ff774956ced0ca77bca9e0b6191968fe1cdd18350d6da902efdb46e0149025.jpg> 坂東工 小学生で7LDKに1人暮らし
+      <a href=https://news.yahoo.co.jp/pickup/6542145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5fc493bf8eea920886de05b26733677eae189f7677b8171fc6db8f452ec82608.jpg> 手越祐也のバンド「XY」から独立
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 22:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 23:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
