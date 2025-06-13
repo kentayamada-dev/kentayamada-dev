@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2d14ae9d9664e64468975c6b4338fbd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b552ce0539719c56639ac0b9c917783f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75ba66011a0971c2483410ec5fa029d2a98729a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06131036-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=261&cw=679&ch=679&exp=10800&fmt=webp> 大谷翔平、ボーダー柄のデコピンと遊ぶ様子を公開　休日に英気養う　１４日からジャイアンツと首位攻防戦
+      <a href=https://news.yahoo.co.jp/articles/576f8a52dd6b2e6dddf5cd3d5cfe5bcf059ea2cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=480&ch=480&exp=10800&fmt=webp> すべてのコメ転売禁止へ、違反は罰則も　小泉氏「高騰望ましくない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b111d59e9824c74ad3e08d0ce27f59f1975a5ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000083-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=373&cw=1454&ch=1454&exp=10800&fmt=webp> 参院選直結、東京都議会選が告示　120人超が立候補
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ada97b308eed6be3b72ad4d336bccb0c60810ec6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド機墜落、唯一の生存者の弟が心中語る　もう1人の兄の安否はわからず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242636-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> インド機墜落、唯一の生存者の弟が心中語る　もう1人の兄の安否はわからず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10818fa1e22f9a988758a7acb2642a407f1c1b14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130082-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 国民民主・玉木雄一郎代表「公認取り消し」山尾志桜里氏に「申し訳なく、本人にお詫びしました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7830e0106d51888b33dd45357accf8a8190451ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000066-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 巨人・リチャードに阿部監督「ボーンヘッドは許されない」　2軍降格で3年目・三塚を支配下＆1軍へ
+      <a href=https://news.yahoo.co.jp/articles/4b36356456e2cbe8b403af2d1a7f4ab381961381>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00547215-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 浅田真央さんが大切にする「スケートを好きという気持ち」　34歳になった“天才少女”の指導論
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/89cbe22ebaf0224b8b221da8b81c6c587e64779055a08bea2676fa4e28b8a7f2.jpg> イスラエルがイランを攻撃 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6542069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/2acc9efb4781f9d38a9be56c291436cb7b64efb706e11512ed6fa514bbe92b0c.jpg> イスラエル イラン核施設など空爆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a85b2a237346d7539b1ab6015e551761891544a8569d02a53721bf169265811b.jpg> 政府 海外の研究者獲得に1000億円
       </a>
     </td>
   </tr>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0dfd942c60358bf8e8926a49ec2dab0e823e05741f8b87805e88be2e544f4e8f.jpg> 新聞協会 選挙報道巡る声明公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542056>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ce9f69c316bf5b1c3d5de1c301b5552802ff502ab007d6a9ebb8e4ccb3e3237f.jpg> 墜落 生存者「離陸30秒後ごう音」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/df128439d8161caaa1fc31e603d3a15d67d9da79e61d00f764642da3ac11e66f.jpg> 「STARTO」福田淳社長が退任へ
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c7093296f5bdea003079bbdff961331cac796a4361991761295f50e105244cf2.jpg> 北川景子がほぼスッピン 主演映画
+      <a href=https://news.yahoo.co.jp/pickup/6542059>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネコ治療医師死亡 マダニ感染症か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/cb8c06fae0272c2d79db573c7b6260788e69d3c152d033bbb276aae828c05a33.jpg> 白線流しから30年 酒井美紀の今
+      <a href=https://news.yahoo.co.jp/pickup/6542062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ac2afb66b271027f4d088c61c6e3cc25ca6ab38ecaae13a84d1c6490959b13be.jpg> メッツ千賀IL入りへ 長期離脱か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c7093296f5bdea003079bbdff961331cac796a4361991761295f50e105244cf2.jpg> 北川景子がほぼスッピン 主演映画
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 10:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 10:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
