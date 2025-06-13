@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3affeaaf3ba18ad4ebb97fb35e317c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1464bf07d0e239dd8ac1b2ad156b9674.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6eb6f463dd76b288423df90ac12af9115f627181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-04289827-ybc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 山形県内　「百日咳」1週間の感染患者報告数が過去最多　「リンゴ病」9週連続警報レベル
+      <a href=https://news.yahoo.co.jp/articles/aa86cdeca11bde755b47c458c75cec8af6bed96c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000061-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> エア・インディア機に爆破予告、旅客機タイに引き返す　昨秋にも頻発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1eeda9863fad9e3cdb3380afca1e3d5e2400be9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> インド機墜落　エンジン2基が同時停止か　専門家が考える三つの原因
+      <a href=https://news.yahoo.co.jp/articles/e1adc8a740a3c1628c4f866f2232c6c891e348c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000037-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> トランプ氏、イスラエルのイラン攻撃「事前に把握していた」 米FOXニュース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/419907a6d5cc0442238a09f926e2d18a5a5c991d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242752-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イランが報復宣言、ドローン100機以上を発射　核施設などイスラエルが攻撃
+      <a href=https://news.yahoo.co.jp/articles/c0a9853cc7e876137d9faabfbd9cd5eeb332dcd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 安倍元首相銃撃事件　初公判は10月28日　奈良地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b8a683defceefa276fd3b7e5758d1ea26d2e438>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000171-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 山梨女性殺害で懲役20年　元同僚の36歳男、甲府地裁
+      <a href=https://news.yahoo.co.jp/articles/8cb4cbb6aa54608ba7d0883d124f7990e4299ae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00060629-satvv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】17歳の高校生殺害の被告に懲役17年の判決   暴行加えた上で川に投げ込む　静岡地裁浜松支部　　　　
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a659b5eb8636dda001384833b5d0eb3b1f6c1f9773535628c503c1efa71ed025.jpg> 政府 イランへの渡航中止を求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/8f5541e512d43f85f9b422b8b52cf6dc211345d64dcc1a5f20d3f9cf8c540a22.jpg> LAデモ州兵派遣 裁判所「違法」
+      <a href=https://news.yahoo.co.jp/pickup/6542111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/29943f7872e6d96c45c484ddfe1b8e130ab18b2571b48b0c574a53695fff7a05.jpg> 低所得者層に給付上乗せも 公明
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/acc043649824791f07b67416f090cd1679963c91fe41cffd92128ac26ef8196d.jpg> 同僚女性を殺害 男に懲役20年判決
+      <a href=https://news.yahoo.co.jp/pickup/6542099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが2人はねる 女性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが2人はねる 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/d157301e108f1aecd0fed961930fda4a823dff3b1e2051c9d27b22b9b0d4f8ac.jpg> 洗濯機の分解洗浄人気 新品同様に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/069fc5f8087f52b9319699daf6494b27cbdb8aa1722dd076ee65a39fe3e97991.jpg> 寺田心 ベンチプレスはMAX75kg
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 16:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 17:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
