@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/930f671965b315e82e0847e6478978be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99900111d0f4e69db7885f70e979b889.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de4490633129c9c98bdf62ba1bb05e611abfa455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050269-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 「中東２大軍事大国」が武力衝突…イスラエルは核施設など狙い３３０種類の弾薬、ハメネイ師は「厳しい懲罰を覚悟せよ」
+      <a href=https://news.yahoo.co.jp/articles/40a9c4ebb00fa08227471f5c6a5984a03f985908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅反落、一時630ドル安＝ナスダックも安い（13日午前）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89e67d4f37da2495911afacd0e5bfae1de0ec3da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000337-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 都議選告示、295人立候補　女性最多、政治とカネ争点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a278aaa62bdcd31f4c1913e65b220478261d650>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000142-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 石破茂首相『1人2万円給付方針』にネットでは怒りの声「税金で抜いて選挙前だけ2万配る　いい加減にしろ」「税金納めてる方が低い金額って」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17a62645a34b9a2db756b7a6e3f9ab52f4716c04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242857-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理がトランプ氏と日米首脳電話会談 “トランプ関税”や“中東情勢”めぐり協議か？
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8bca669cb4d882156cb2fd96895297c9bf75450>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000321-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=947&ch=947&exp=10800&fmt=webp> 巨大な機体激突、日常が暗転　生存男性「兄はまだ…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f62b405255ac73f1d43c6dc81081c1b1e5b99dc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050238-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 都議選、自民が第１党の座守れるか…都民ファーストと公明合わせて過半数維持できるかも焦点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ee6a821358a5b83b33466e7b88b1479bd500810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000092-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破総理　1人2万円の現金給付を公約へ　子どもと低所得者は2万円上乗せ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97a3ecadde378d9734a8c8b95ca92b19e518830d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90023584-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 「99歳でよく運転している」中央道で高齢ドライバーが逆走し正面衝突　警察が高齢者に免許証の自主返納の検討を呼びかけ
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/fe53abb17cdc59892152f0f61a45da1434c74a551096060266fa4eea4e3f9fff.jpg> 2万円給付バラマキではない 首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e2ca85c6cfaa3bfe73577dafdd771261aa114b8b08c6a388599b3f27f3b2cb6a.jpg> イスラエル 無人機は「全て迎撃」
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/53d4296de193df05828b168e9c6cdd0ec1cd94d281609d7ebd4a4de30351139f.jpg> 視野が突然欠けた 57歳で網膜剥離
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/3d290e070cdef63fa2a04196452fca8d3e048f1823311b29af0c6a3b51882430.jpg> まさかの連続暴投 ヤクルト敗戦
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 23:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 23:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
