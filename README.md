@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f49c4a5ce1726fb8be4885e8661ca795.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f79da2d823f7788c3200541982f9cb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93d82446ac4858938d9d672daefc8897e2837717>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-suntvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事と片山元副知事　背任容疑で書類送検　阪神・オリックス優勝パレードを巡る補助金「還流疑惑」／兵庫県
+      <a href=https://news.yahoo.co.jp/articles/8cb4cbb6aa54608ba7d0883d124f7990e4299ae8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00060629-satvv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】17歳の高校生殺害の被告に懲役17年の判決暴行加えた上で川に投げ込む　静岡地裁浜松支部　　　　
       </a>
     </td>
   </tr>
@@ -366,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/640be476d3374db3e2f38abc55ed2c3b7e84edf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000106-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 印機墜落、地上の学生寮で24人死亡か　ブラックボックス回収の報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000106-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 印機墜落、地上の学生寮で24人死亡か　ブラックボックス回収の報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b8a683defceefa276fd3b7e5758d1ea26d2e438>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000171-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 山梨女性殺害で懲役20年　元同僚の36歳男、甲府地裁
       </a>
     </td>
   </tr>
@@ -379,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62f9c41a6a14e02c6eabf129059b879901e0c80c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-09482456-ybs-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】同僚女性殺人 元団体職員の男（36）に懲役20年の実刑判決 甲府地裁 山梨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b37f43502a200375fd6dc318981c2ad1f7313e00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986562-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車関税のさらなる引き上げを示唆「関税を高くすればするほど、アメリカ国内で工場を建てる可能性は高まる」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a659b5eb8636dda001384833b5d0eb3b1f6c1f9773535628c503c1efa71ed025.jpg> 政府 イランへの渡航中止を求める
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542094>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542096>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02247171/title-1749782318314.jpeg?exp=10800> USS買収 米表明の「黄金株」とは
+      <a href=https://news.yahoo.co.jp/pickup/6542106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/acc043649824791f07b67416f090cd1679963c91fe41cffd92128ac26ef8196d.jpg> 同僚女性を殺害 男に懲役20年判決
       </a>
     </td>
   </tr>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542099>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが2人はねる 女性死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/857cc88b3ba87e484913fb9c1d60715993110bfe67eaccaf68bc1360ada8006f.jpg> 本田圭佑39歳「現役は辞めない」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 15:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 16:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
