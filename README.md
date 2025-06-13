@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c033dfea9b9212f301da0a9642ce79d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bd7d686123b39c59ca2af8e6bfae161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34bd331b43c8950facc03775bab4cc6076195292>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【ガソリン】野党7党が暫定税率廃止法案を提出「こんなに野党がまとまるのは珍しい」「選挙を前に対立軸を示したのは意味ある」マイナス15円は実現する？自民側は「あまりに唐突な提出」
+      <a href=https://news.yahoo.co.jp/articles/161d83633f7b339bc3b67446e216688b6b1499eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07358997-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 女性と女児がトラックの下敷きに　女性は意識不明の重体　東京・江戸川区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09fc269ecf5d9115b78591a448c316f1a526bff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000010-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=978&ch=978&exp=10800&fmt=webp> 備蓄米の転売禁止を閣議決定　小泉進次郎農水相「安価なコメを安定的に消費者に」
+      <a href=https://news.yahoo.co.jp/articles/c6677b65250bf0a4a63b8bf1fb5ef16fe74a95fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000023-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「不公平ですよね」国民民主・玉木代表は不倫で役職停止、疑惑の山尾氏は公認取り消し…処分の“差”に広がる怒りの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34bd331b43c8950facc03775bab4cc6076195292>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【ガソリン】野党7党が暫定税率廃止法案を提出「こんなに野党がまとまるのは珍しい」「選挙を前に対立軸を示したのは意味ある」マイナス15円は実現する？自民側は「あまりに唐突な提出」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b111d59e9824c74ad3e08d0ce27f59f1975a5ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000083-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=373&cw=1454&ch=1454&exp=10800&fmt=webp> 参院選直結、東京都議会選が告示　120人超が立候補
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b36356456e2cbe8b403af2d1a7f4ab381961381>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00547215-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 浅田真央さんが大切にする「スケートを好きという気持ち」　34歳になった“天才少女”の指導論
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000083-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=373&cw=1454&ch=1454&exp=10800&fmt=webp> 参院選直結、東京都議会選が告示　270人超が立候補、女性最多
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a85b2a237346d7539b1ab6015e551761891544a8569d02a53721bf169265811b.jpg> 政府 海外の研究者獲得に1000億円
+      <a href=https://news.yahoo.co.jp/pickup/6542075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ca36f9f5398b369248f6a8a2e5573bd8119fa2022601cd95272d0aef5a5d0a4c.jpg> 自転車の親子と車が衝突 母が重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/130ad5c595aeb67e74285094f4edc9be665337f1f9cc9b2245654140553a66ab.jpg> 自民「現金1人4万円」給付を検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/a3a5079855d6fdad202294fadb39a6acc546c836fa80dbf67bd2663e57f459f8.jpg> 観光客のスーツケース放置増 大阪
+      <a href=https://news.yahoo.co.jp/pickup/6542071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c25f71a671f1b90c591fb68fa8cea39ad1b029ac05812b87c5eb351f780f1d25.jpg> 高校野球開催に暗雲 ケーブル盗難
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542059>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネコ治療医師死亡 マダニ感染症か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/35744085e685bcd952692b5dd3752bbcf4ae34a9f64031e1a04465d20ec9470c.jpg> 相撲部屋「かわいがり」近く判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 11:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 11:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
