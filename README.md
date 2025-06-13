@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bd7d686123b39c59ca2af8e6bfae161.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cef99083d1e626122d622af49fd633b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/161d83633f7b339bc3b67446e216688b6b1499eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07358997-nnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 女性と女児がトラックの下敷きに　女性は意識不明の重体　東京・江戸川区
+      <a href=https://news.yahoo.co.jp/articles/0a4bbab4af00a9a310887a0c697355b2dd4ecd8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242653-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 唯一の生存者の家族「兄から電話で連絡」 インド機墜落“241人が死亡”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/230ff3aca2f3b75d36ef9439de763a12673bca43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130310-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也５試合ぶりの17号ソロ　打点57でチーム最多タイ、リーグではトップと６差で２位タイ
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c6677b65250bf0a4a63b8bf1fb5ef16fe74a95fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000023-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「不公平ですよね」国民民主・玉木代表は不倫で役職停止、疑惑の山尾氏は公認取り消し…処分の“差”に広がる怒りの声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000023-jisin-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「不公平ですよね」国民民主・玉木代表は不倫で役職停止、疑惑の山尾氏は公認取り消し…処分の“差”に広がる怒りの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34bd331b43c8950facc03775bab4cc6076195292>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010003-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【ガソリン】野党7党が暫定税率廃止法案を提出「こんなに野党がまとまるのは珍しい」「選挙を前に対立軸を示したのは意味ある」マイナス15円は実現する？自民側は「あまりに唐突な提出」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b2580e7ab21c0371988c34740c9b98036b12006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000022-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> エア・インディア墜落事故の唯一の生存者が座っていた座席
+      <a href=https://news.yahoo.co.jp/articles/158c4c9953b3d79f42cf80e4f622d40eb035f2a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=540&ch=540&exp=10800&fmt=webp> ヨークベニマルで備蓄米販売　郡山・横塚店、6時間半で完売
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7d689add2674740153c83daa97763750f87499b8d358ba23058c99f72c997801.jpg> 国民民主が迷走 代表責任問う声も
+      <a href=https://news.yahoo.co.jp/pickup/6542067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/93d0296fe07e3854e7b062fa68b6e05a10ada16bb63c821d1f0af824eb7eb2dd.jpg> 米大統領 自動車関税引き上げ示唆
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/35744085e685bcd952692b5dd3752bbcf4ae34a9f64031e1a04465d20ec9470c.jpg> 相撲部屋「かわいがり」近く判決
+      <a href=https://news.yahoo.co.jp/pickup/6542081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dc96294a6dd69266e86add201448d0bf7771adfd02901f54d3b985c36397c0ab.jpg> 鈴木誠也17号HR ファンは総立ち
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/c7093296f5bdea003079bbdff961331cac796a4361991761295f50e105244cf2.jpg> 北川景子がほぼスッピン 主演映画
+      <a href=https://news.yahoo.co.jp/pickup/6542078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/fb361cec1d0a5bdbd9a122e06bc956ce5fec42496d632edc1f1f25cd6be1847f.jpg> HALCALI 22年前の曲ブレイク兆し
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 11:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 12:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
