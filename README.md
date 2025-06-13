@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1464bf07d0e239dd8ac1b2ad156b9674.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad1f8156614bff1211556e435e6f944d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa86cdeca11bde755b47c458c75cec8af6bed96c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000061-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> エア・インディア機に爆破予告、旅客機タイに引き返す　昨秋にも頻発
+      <a href=https://news.yahoo.co.jp/articles/c502c4098d73509d4f2aaee593c7dc8a8a09e024>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000116-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 被害者の捜索続く　死者265人に、首相現場視察　インド旅客機墜落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78672d2283c7c39d5c31affb230c32d4ce8ad911>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 山梨の同僚女性殺害　元団体職員に懲役20年　甲府地裁判決
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0a9853cc7e876137d9faabfbd9cd5eeb332dcd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 安倍元首相銃撃事件　初公判は10月28日　奈良地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cb4cbb6aa54608ba7d0883d124f7990e4299ae8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00060629-satvv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】17歳の高校生殺害の被告に懲役17年の判決   暴行加えた上で川に投げ込む　静岡地裁浜松支部　　　　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 安倍元首相銃撃事件　初公判は10月28日　奈良地裁
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/daabcf23dc5490ed1bdfb1c6578a21fe9b53d38408a826b244b15562f8e9ccab.jpg> インド墜落 地上でも24人死亡か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542104>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9fa900771f646332c98c1e328b07bc239ee5a2c9c64dd421e54f229cfe5ff9e2.jpg> 兵庫県知事 背任の疑いで書類送検
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが2人はねる 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/1ff53518ffc4ec2398d76c62b5cca5e578d28ce37e2504e5e1bbef8d5d51768a.jpg> 17歳不明から28年 情報を呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/df19a940baee8855e33f7153d07ab4ff1e24ac795757752dd089ad6f5a04f36b.jpg> 給食に異物混入相次ぐ 契約解除
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 17:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 17:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
