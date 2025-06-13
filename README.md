@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/346687ff07cf8d22a025cae1614fce3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09288f0ad6840e8d349c3782272a8ab2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01a19e6cf7dcfa09fd4ddb7cadcb8d4674591140>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000002-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=350&cw=900&ch=900&exp=10800&fmt=webp> イランがイスラエルにミサイル数百発発射　報復攻撃を本格化か
+      <a href=https://news.yahoo.co.jp/articles/84e57461d75ba2fa477169f6b7ccd3e25677d243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050061-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イランがイスラエルに報復攻撃、革命防衛隊「軍事施設や空軍基地など数十か所を標的にした」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/81eb50567475ffbd9922c593206b965e80e4a6e804d28dda612761ead44db753.jpg> イラン イスラエルにミサイル発射
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542151>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c1123829f604a68e26b46613bcd1ad6b7f368fa8c61dad6c3de9d864e43900a9.jpg> 日米首脳が電話会談 関税交渉巡り
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/02a6b4e6bcd929ea02828053c8ffa75e9028e7b9728ee3b8de4adbc0dd367be2.jpg> はだしで田植えに賛否 農水省回答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542123>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/518ec3a691df93c4de13682c5db705cbb5286d6de67e4fef0a4373a91ce04465.jpg> 異常事態 町にネズミが大量発生
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 04:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 04:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
