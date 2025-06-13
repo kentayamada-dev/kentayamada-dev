@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d88587e89de20f3f6450878c44990a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b32572cd2c6f5f5391fe47c918122d4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a55162bf805ad2d0db919d89a6fc5d12fc367f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90032652-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=720&ch=720&exp=10800&fmt=webp> "タメ口"に激高　謝罪してもなお執拗かつ苛烈な暴行　凄惨なリンチの末に高校生を生きたまま湖に投げ捨て殺害　22歳無職の男に懲役17年判決　裁判長「主体的に各犯行を行ったと評価できる」【詳報】
+      <a href=https://news.yahoo.co.jp/articles/9a3f0877cbd1f7a415d0b900a4c770e49017d29c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-21978044-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 大雨に関する全般気象情報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fa7ee10316c487001897b4d20a8f46dddbbe66e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-02437544-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石破首相「現金給付」自民公約に盛り込む方針
+      <a href=https://news.yahoo.co.jp/articles/11d43058aa33c29460712a3f65154b9c326002c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242794-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「イスラエルは邪悪な本性を露呈した」イランが報復宣言　イスラエルによる「核施設」など空爆に対し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c502c4098d73509d4f2aaee593c7dc8a8a09e024>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000116-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 被害者の捜索続く　死者265人に、首相現場視察　インド旅客機墜落
+      <a href=https://news.yahoo.co.jp/articles/63ea8b2943740192fbe30cc73db224acfd6ebd86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986768-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1人の生存者「どうして生き残ったのか分からない」　エア・インディア機が離陸から30秒で翼を揺らし墜落　3日前には羽田空港に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1adc8a740a3c1628c4f866f2232c6c891e348c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000037-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> トランプ氏、イスラエルのイラン攻撃「事前に把握していた」 米FOXニュース
+      <a href=https://news.yahoo.co.jp/articles/e8c5e526294339a7986d5b6da1b755188fda5034>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06545176-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 同僚女性殺害　元団体職員の男に懲役20年の実刑判決　甲府地裁
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/b64b840de908a72d3156bd8fedbe62cc740d1e05ef9bb31722df2dd38edb9876.jpg> 国民に一律2万円給付 首相表明へ
+      <a href=https://news.yahoo.co.jp/pickup/6542122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/49a49d337e2457b82315f7f07e02d4c6108f0c5e189373cbce9a3857994634f0.jpg> 西・東日本 土日は警報級大雨恐れ
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e3c28517e28e415884565c7d913076f34400f1d78de8ce280143a7d02f2a19f8.jpg> イスラエル イラン核施設なぜ攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6542121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/b64b840de908a72d3156bd8fedbe62cc740d1e05ef9bb31722df2dd38edb9876.jpg> 国民に一律2万円給付 首相表明へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9fa900771f646332c98c1e328b07bc239ee5a2c9c64dd421e54f229cfe5ff9e2.jpg> 兵庫県知事 背任の疑いで書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6542116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/62c7ede4e3b9daf248adada9bdf84f55817a82a5e801c2bdf2e3ecb4514d67a5.jpg> 印墜落 生存者の電話を弟が明かす
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 18:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 18:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
