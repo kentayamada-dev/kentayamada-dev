@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad7b2d58e513f3328e2db6e515936ccb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5f56d66a256e5ebaa9b03ee30055f94.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3e2e525be7f5d668ed2ff42d5a7c385a7b000a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00986520-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「核兵器プログラムの核心を攻撃」イスラエルのイラン攻撃で司令官や民間人多数死亡　林長官「イラン在留邦人380人の保護に万全期す」
+      <a href=https://news.yahoo.co.jp/articles/ded619c6d3461b0994f024e12ce539783f41ad36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000159-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=709&ch=709&exp=10800&fmt=webp> コメ高値で転売禁止を閣議決定、ネット「高値の原因究明を」「流通経路透明化」「世に出てない米はどこ？」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a4bbab4af00a9a310887a0c697355b2dd4ecd8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-07242653-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 唯一の生存者の家族「兄から電話で連絡」 インド機墜落“241人が死亡”
+      <a href=https://news.yahoo.co.jp/articles/caf13fe2e3df814289efdd5c32ce47f588a4a095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00050106-yom-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド機墜落で男性１人を奇跡的に救助「起き上がると、周りは遺体だらけで怖くて走った」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/2acc9efb4781f9d38a9be56c291436cb7b64efb706e11512ed6fa514bbe92b0c.jpg> イスラエル イラン核施設など空爆
+      <a href=https://news.yahoo.co.jp/pickup/6542082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/eaffb8aedeb01697bd3cb47c0542b63c589b4f05d8224d43fd6c93aba3c63b24.jpg> イスラエル 攻撃は「何日も」続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/94b2c12f046f19fba0a18c9252932cb446cce7fa2331183dc92a8ff4faa1dd2c.jpg> 備蓄米の転売禁止 閣議決定
+      <a href=https://news.yahoo.co.jp/pickup/6542086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/0962957769d25489ba1762a972e5897bac132b061b60863d540d9ff9d96a62dd.jpg> 年金改革法成立 基礎年金底上げも
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/6059861015c5bf40e41ba2f8951a4adcb056284585814df336af031c97130ca7.jpg> ふるさと納税2市町除外 総務省
+      <a href=https://news.yahoo.co.jp/pickup/6542088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dd30447c01457c78b06fa7d7a1326e5259743c6d55ceb11855c10e2ed092334a.jpg> トラックが親子はねる 母親死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/ca36f9f5398b369248f6a8a2e5573bd8119fa2022601cd95272d0aef5a5d0a4c.jpg> 自転車の親子と車が衝突 母が重体
+      <a href=https://news.yahoo.co.jp/pickup/6542079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/27e003c0c83e834ac855f8bdafe02a265ceebdc5ab19b1768816540e61eaa0b8.jpg> 備蓄米を事前告知せず 店の思い
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/dc96294a6dd69266e86add201448d0bf7771adfd02901f54d3b985c36397c0ab.jpg> 鈴木誠也17号HR ファンは総立ち
+      <a href=https://news.yahoo.co.jp/pickup/6542080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bae291c85635cc6acde03a7a3ac822032981526d79b92528552a41940767cebf.jpg> 「簡単副業」SNS関連トラブル増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/fb361cec1d0a5bdbd9a122e06bc956ce5fec42496d632edc1f1f25cd6be1847f.jpg> HALCALI 22年前の曲ブレイク兆し
+      <a href=https://news.yahoo.co.jp/pickup/6542052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/7b3a09f79f1557d9ba5321ea2a9796fcf5454ef2f2f59c2940e88aecf7b09916.jpg> 油少なめ「揚げ焼き」発火に注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 12:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 13:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
