@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad1f8156614bff1211556e435e6f944d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d88587e89de20f3f6450878c44990a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c502c4098d73509d4f2aaee593c7dc8a8a09e024>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000116-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 被害者の捜索続く　死者265人に、首相現場視察　インド旅客機墜落
+      <a href=https://news.yahoo.co.jp/articles/3a55162bf805ad2d0db919d89a6fc5d12fc367f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-90032652-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=720&ch=720&exp=10800&fmt=webp> "タメ口"に激高　謝罪してもなお執拗かつ苛烈な暴行　凄惨なリンチの末に高校生を生きたまま湖に投げ捨て殺害　22歳無職の男に懲役17年判決　裁判長「主体的に各犯行を行ったと評価できる」【詳報】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78672d2283c7c39d5c31affb230c32d4ce8ad911>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 山梨の同僚女性殺害　元団体職員に懲役20年　甲府地裁判決
+      <a href=https://news.yahoo.co.jp/articles/6fa7ee10316c487001897b4d20a8f46dddbbe66e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-02437544-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石破首相「現金給付」自民公約に盛り込む方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c502c4098d73509d4f2aaee593c7dc8a8a09e024>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000116-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 被害者の捜索続く　死者265人に、首相現場視察　インド旅客機墜落
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0a9853cc7e876137d9faabfbd9cd5eeb332dcd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 安倍元首相銃撃事件　初公判は10月28日　奈良地裁
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e3c28517e28e415884565c7d913076f34400f1d78de8ce280143a7d02f2a19f8.jpg> イスラエル イラン核施設なぜ攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6542121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/b64b840de908a72d3156bd8fedbe62cc740d1e05ef9bb31722df2dd38edb9876.jpg> 国民に一律2万円給付 首相表明へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/29943f7872e6d96c45c484ddfe1b8e130ab18b2571b48b0c574a53695fff7a05.jpg> 低所得者層に給付上乗せも 公明
+      <a href=https://news.yahoo.co.jp/pickup/6542119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/aec2643a1405a6292e7758f2397c7a6c9e3f97b6eff898a770f0ee655749b01e.jpg> イラン 無人機をイスラエルへ発射
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/e3c28517e28e415884565c7d913076f34400f1d78de8ce280143a7d02f2a19f8.jpg> イスラエル イラン核施設なぜ攻撃
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/1ff53518ffc4ec2398d76c62b5cca5e578d28ce37e2504e5e1bbef8d5d51768a.jpg> 17歳不明から28年 情報を呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/df19a940baee8855e33f7153d07ab4ff1e24ac795757752dd089ad6f5a04f36b.jpg> 給食に異物混入相次ぐ 契約解除
+      <a href=https://news.yahoo.co.jp/pickup/6542120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/5ddb9675f5fc747306377ce382e0d450c103ad5c5267663f429f7444d491dc52.jpg> 生徒ら106人食中毒 ウエルシュ菌
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/069fc5f8087f52b9319699daf6494b27cbdb8aa1722dd076ee65a39fe3e97991.jpg> 寺田心 ベンチプレスはMAX75kg
+      <a href=https://news.yahoo.co.jp/pickup/6542117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/107f8903f8ff20a405c2cb3e1334b68cabf71972566b17ad914215ceac6989be.jpg> 中丸雄一 TOKYOMXで地上波復帰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/87004730d1a9459308ca1af9d298c4380b582ab26500181aa579526971096255.jpg> YOSHIKI XYメンバー3人脱退報告
+      <a href=https://news.yahoo.co.jp/pickup/6542110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/069fc5f8087f52b9319699daf6494b27cbdb8aa1722dd076ee65a39fe3e97991.jpg> 寺田心 ベンチプレスはMAX75kg
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 17:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 18:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
