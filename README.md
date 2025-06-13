@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e9cb96a3d211507150947c6d0cea603.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8349e3718be837c09290592f3690ab9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75ba66011a0971c2483410ec5fa029d2a98729a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-06131036-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=261&cw=679&ch=679&exp=10800&fmt=webp> 大谷翔平、ボーダー柄のデコピンと遊ぶ様子を公開　休日に英気養う　１４日からジャイアンツと首位攻防戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ada97b308eed6be3b72ad4d336bccb0c60810ec6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド機墜落、唯一の生存者の弟が心中語る　もう1人の兄の安否はわからず
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cbf62a6c2aea355529422c06c467fbf2349aff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 8試合連続安打も今季ワースト9試合42打席ノーアーチ 2位ジャイアンツ、3位パドレスとの連戦で快音なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2731cff5bdc66872b9ef1ffacf30af9c9927b7bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ＭＬＢ＝千賀、7勝目もＩＬ入りへ　右太もも負傷で緊急降板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff1564bce014ed292d8302bb74573dcaed5087b5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-00000019-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=545&ch=545&exp=10800&fmt=webp> 東京都議選が告示、22日投開票　物価高対策など争点　各党総力戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/10818fa1e22f9a988758a7acb2642a407f1c1b14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250613-36130082-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 国民民主・玉木雄一郎代表「公認取り消し」山尾志桜里氏に「申し訳なく、本人にお詫びしました」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bd16716439a23702b241bfa161a949f639424100faff78cea793ceb0f70471d5.jpg> 参院選 7月20日投開票が確定的
+      <a href=https://news.yahoo.co.jp/pickup/6542064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/130ad5c595aeb67e74285094f4edc9be665337f1f9cc9b2245654140553a66ab.jpg> 自民「現金1人4万円」給付を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/9d0d893a6359ad928bc57d14f4f31b8836773ca8b48518e88fe9b50e1284f037.jpg> 東京都議選きょう告示 焦点は
+      <a href=https://news.yahoo.co.jp/pickup/6542053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/13/bd16716439a23702b241bfa161a949f639424100faff78cea793ceb0f70471d5.jpg> 参院選 7月20日投開票が確定的
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/13 09:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/13 09:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
