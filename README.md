@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2100dd5f0ab6f49c903de4fb898b42d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44e4c7daa25be585f7b562602f9a7164.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f0c5952df4472e86a970a3494a9904aeac8ee85>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-09729198-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】15日午前　局地的に激しい雨、土砂災害や河川の増水に注意　午後は次第に止む予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e1d961b602860c9a4a1a0b47c3b8dd6b06a0c3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-09822811-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イラン、イスラエルに約200発の弾道ミサイル発射　攻撃の応酬続く
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 03:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 04:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
