@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48e2557cedf5606bf8395d2507bf9c5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fcbc536cd0401401f5fb7c905d1b6641.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/758fdb32cd72309c175ed9dd97fe40e233e6f9bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全面戦争に突入の懸念　イランはミサイル200発で報復　昨年のような抑制シグナルなし
+      <a href=https://news.yahoo.co.jp/articles/fd7e7c3462b1db46434e35f30a51610e5e6c5a4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050229-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イラン弾道ミサイル２００発で報復、イスラエル３人死亡…応酬エスカレートする恐れ
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/053a635cc833bbdd07531f7f04e92e91f1d669eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050141-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 日本製鉄のＵＳスチール買収、週明けにも完了へ…米政府「黄金株」で一定の影響力
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050141-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 日本製鉄のＵＳスチール買収、週内にも完了へ…米政府「黄金株」で一定の影響力
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bfd149d1cdf522dcaa02442132ae7ba3833ddd421ffbf3cf469f5b5d3c4350cc.jpg> 米国との核協議中止 イラン外務省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542259>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/dd722d7814a87c777599b526b395ce1671d6f87e2aadef880acd5d485039d09d.jpg> 軍事パレード 全米で抗議デモ計画
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/da1eebfd614be7bcd071389fd32c1b28ff5fe1d6f723f3a909d44cfa8cc5ca78.jpg> イラン要人殺害 モサド暗躍の指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bfd149d1cdf522dcaa02442132ae7ba3833ddd421ffbf3cf469f5b5d3c4350cc.jpg> 米国との核協議中止 イラン外務省
+      <a href=https://news.yahoo.co.jp/pickup/6542267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4a9b74a05ec29c13b5d894fa95dcf8d605b7f1fa708340c6b3ac01963e27ac11.jpg> 連日真夏の暑さに 35℃超え続出か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 23:51:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 00:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
