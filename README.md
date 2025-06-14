@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a35eb3a4afacd53ecebc78a5f3e42443.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b757616d3b478beb71a96b3ee71efdc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/580a48e6ba5d1d2dc8a0117dcbeb4930d191fde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141073-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 大谷翔平４打席目まで快音なく４６打席連続本塁打なし　見三振と内野ゴロ２つずつ
+      <a href=https://news.yahoo.co.jp/articles/50fa20fbd94b627811faa381f43b9e574bec4e51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「黄金株」が決め手に　USスチール買収実現へ　日鉄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99fb910f8e80e7ad97a0b71796a8ee0fbbfa7f47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10008926-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 早稲田大学、東京六大学代表史上初のコールド負け。全日本大学野球選手権 準々決勝
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e03fb72375a3170b5960ae84b8d039818803bde5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16735466-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イランがイスラエルに報復、ミサイル攻撃で数十人負傷　1人死亡と米メディア報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d92079db126c75a04e44ec16d3bf170ad7e07187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050099-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> 日鉄がＵＳスチールを１００％子会社化、トランプ氏が買収承認…米政府に「黄金株」発行
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/147ff906cc928ceb67dd4b6900d967ffdd499d8c2f3f5d1c4940e1019312e40b.jpg> 随契の備蓄米 販売期限が足かせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542195>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4866f2ca96c024f4cdd8a668f13e289787e07c64a19404ff18f21560a2612eb4.jpg> 都議選の争点は 各陣営代表ら訴え
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bc0ee2a6f9a50a74f3777f6ab1dadb0398f4abd296ddfab0643be4fa6f764b7a.jpg> ふるさと納税除外 町長「残念」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542194>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 産経新聞 8月から土曜の夕刊休止
+      <a href=https://news.yahoo.co.jp/pickup/6542198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bcf0bd54480eae3576eabae60e301e809629b320f0822c27ce319a056b8aa942.jpg> 印墜落 原因は推進力や揚力不足か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 13:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 14:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
