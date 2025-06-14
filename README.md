@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b218fe95bcabecd8e52e258f332be56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/baceabd7529e81cc469d6d3394eeb541.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03beed7e41ee241a9b726d1b10765033934faf58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00030211-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日14日　雨の範囲が西から拡大　激しい雨や雷雨も　晴れる北海道は暑さに注意
+      <a href=https://news.yahoo.co.jp/articles/6d8db26553a297bf4b5dcaa5e92e3ac5106c8b88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000067-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 東―西日本、警報級大雨も　梅雨前線影響で15日にかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90cd42115e950eea0d4b04ee3bc764dc6c01614d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、イランのミサイル攻撃で負傷者60人超　国防相「越えてはならぬ一線越えた」
+      <a href=https://news.yahoo.co.jp/articles/8a77117d74db1af8436159a142be43fcc9ad5bbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000000-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=556&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン、イスラエルに報復攻撃 34人負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5e31102260baf5339c557a27c93c177288d3879>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、USスチール買収禁止命令を修正　米政府との協定が条件
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2c80495f187f1bdbe33c2029e4988ce7dc1ac7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21978628-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=639&ch=639&exp=10800&fmt=webp> 【短期予想 詳報】梅雨前線停滞で西日本は大雨警戒　九州・四国 200mmを予想【1時間ごと 雨のシミュレーション 】台風1号は15日にも熱帯低気圧へ　土砂災害・浸水に厳重注意　強風・高波
+      <a href=https://news.yahoo.co.jp/articles/00188ebfefc8351e07d23ca55c6f298411c70fb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00030210-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 14日～15日は九州から関東で大雨　滝のような雨も　九州は土砂災害に厳重警戒
       </a>
     </td>
   </tr>
@@ -394,40 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/81eb50567475ffbd9922c593206b965e80e4a6e804d28dda612761ead44db753.jpg> イラン イスラエルにミサイル発射
+      <a href=https://news.yahoo.co.jp/pickup/6542169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/36c1ec11e7b1a73358bf6748139efae917e99f952115020ec97a1fe872fe32c6.jpg> 激化しないで 祈るイスラエル住民
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d8a48b654c92fe21c90eaa2499a099a7f0c3e44d09ef03dc99c64e9d206e4a37.jpg> 14-15日 九州から関東で大雨予想
+      <a href=https://news.yahoo.co.jp/pickup/6542166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/3fa844f1a1d48ca482cc5e4885d924caa543a25badc84383e6b62460d3910d4c.jpg> USS買収 条件付き認定の大統領令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2f4a45227202f5f615ec130b92bbfa75908408986afd5982a61b625ef4e8a974.jpg> 関税交渉に赤沢氏 突っ込んだ協議
+      <a href=https://news.yahoo.co.jp/pickup/6542164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/ef33a661791a110e4038b98d4d1328dda7fc2e49d23772f442d6106458305d11.jpg> 2万円給付案 街で減税求める声も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/3a6e496b72bad096f833f31f336f560862f13916bfa1e5e51f0123dde00a3d4b.jpg> 急発進した車に警官が発砲 男出頭
+      <a href=https://news.yahoo.co.jp/pickup/6542171>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02247768/title-1749817740057.jpeg?exp=10800> STARTO社・福田社長退任へ 背景
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542157>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/9230ab0140907922412bd84658e416b0a71726d6b6eb09d22fee0dc81a5e58bf.jpg> 「ゴンチャ」人気はなぜ続くのか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/e5edee23382f8f3335c58ee540d61e84d564b07c94438298f4f8e8ce7d29637f.jpg> 屈辱 早稲田大が8回コールド負け
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 08:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 09:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
