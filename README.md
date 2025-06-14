@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bb086aee5ecd709b463763948c2ca42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/762aa094788979cbc924ae834074f1b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31fcd95af741d5bc0bbf0a3fa295a33ac1037886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 大谷翔平、4打数ノーヒット 2対6でドジャース敗れる
+      <a href=https://news.yahoo.co.jp/articles/c132361bfb76af53edcacdd71a7f56f43a0a9db6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000044-ann-000-4-thumb.jpg?exp=10800&fmt=webp> イランがイスラエルに報復攻撃　ミサイル100発以上発射で死者も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d05aecbe7a266548f75859ff2dc8c57685648edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242925-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イラン　イスラエルへの「報復攻撃」開始　イスラエルも攻撃続ける　応酬激化のおそれ　こうしたなか、国連安保理が緊急会合　イラン・イスラエル互いに非難
+      <a href=https://news.yahoo.co.jp/articles/31fcd95af741d5bc0bbf0a3fa295a33ac1037886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 大谷翔平、4打数ノーヒット 2対6でドジャース敗れる
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c1e128bf68c8acf23442e01bafee2dc7a5136e6e053918854c483944e7fc29c5.jpg> 子4万円 首相の強い意向と森山氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542222>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/127d6324207daf48feb827d76691dcaced1b9fbd4bfb5f02776ab01b97ab0f8c.jpg> 遊びに来た放置子 出禁にした経緯
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/0eb042a24b4443838eab7462d015912020886092a429989432a5794bf910bd4c.jpg> 米スタバ「プロテイン戦争」参入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/16f5a8f9a6ec650c734d893f217dbf9086a2d9ec839722c9a2487e3fe45c7faa.jpg> 三宅宏実さん語る プロポーズ秘話
+      <a href=https://news.yahoo.co.jp/pickup/6542233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/16f5a8f9a6ec650c734d893f217dbf9086a2d9ec839722c9a2487e3fe45c7faa.jpg> 三宅宏実さん 夫の告白一度断った
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 18:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 18:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
