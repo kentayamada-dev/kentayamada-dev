@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce1955ad92094c674a66cae8b75d6b9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3aa850ce1eeec75dcc100503193038cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/da1eebfd614be7bcd071389fd32c1b28ff5fe1d6f723f3a909d44cfa8cc5ca78.jpg> イラン要人殺害 モサド暗躍の指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542259>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/dd722d7814a87c777599b526b395ce1671d6f87e2aadef880acd5d485039d09d.jpg> 軍事パレード 全米で抗議デモ計画
       </a>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/98a8f116729ba1dfaf3e84fb71f505711b8ffe80e421e0277e6fc89ae4d5d018.jpg> 別姓家庭で育った子「私は幸せ」
+      <a href=https://news.yahoo.co.jp/pickup/6542251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/da1eebfd614be7bcd071389fd32c1b28ff5fe1d6f723f3a909d44cfa8cc5ca78.jpg> イラン要人殺害 モサド暗躍の指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメ巣 無断撤去で子育て放棄も
+      <a href=https://news.yahoo.co.jp/pickup/6542263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bfd149d1cdf522dcaa02442132ae7ba3833ddd421ffbf3cf469f5b5d3c4350cc.jpg> 米国との核協議中止 イラン外務省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメの巣 無断撤去が後絶たず
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 23:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 23:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
