@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75c3cda0b587528bfe7fb6fedc273e1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66a48066f69717bbb43db285e10717a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/758fdb32cd72309c175ed9dd97fe40e233e6f9bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全面戦争に突入の懸念　イランはミサイル200発で報復　昨年のような抑制シグナルなし
+      <a href=https://news.yahoo.co.jp/articles/1209b5d06686f6ed39389ca48e3803035c03096c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010019-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 【巨人】今季4度目サヨナラ負け... オリ戦5連敗 貯金1 中川が11回押し出し四球 泉口が一時同点タイムリーもグリフィン8回途中1失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/730623c8f1b26e95de3a4d091b27fc5bd957264b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36141987-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1263&ch=1263&exp=10800&fmt=webp> 白鵬さん、実は先祖が15世紀のモンゴル皇帝ダヤン・ハーンだった　引退から４年、まさかの告白
+      <a href=https://news.yahoo.co.jp/articles/ee1d03d2a31f8923ed1745866e19d347e7599f66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 宇野昌磨さんが初演出　アイスショーで演技―フィギュア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/758fdb32cd72309c175ed9dd97fe40e233e6f9bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全面戦争に突入の懸念　イランはミサイル200発で報復　昨年のような抑制シグナルなし
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf5b5431933bccc38f9b120101cfb013da27b415>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000055-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=584&ch=584&exp=10800&fmt=webp> インド機墜落　死者少なくとも270人　巻き添え犠牲はさらに増加か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55c92766d7e01c2df135069d427664a2332ac96e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010016-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=1170&ch=1170&exp=10800&fmt=webp> 【阪神】悪夢のサヨナラ負け 今季初5連敗の悲劇...岩貞が10回2死一・二塁 石原に悲痛打 9回無死満塁で同点止まり 14安打15残塁
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542249>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/7b4767de94fd5282d43c29e74c96c72da1c954c94ca7c2a76223a8d88fc3cd2f.jpg> LA抗議デモ 日本人街に打撃深刻
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/6df359a5849e112e34c98de0b3ebea3add95e34266baaaa83c78c068786cb556.jpg> 日本で産む外国人視点 素朴な疑問
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2dc4d53a3d4f8490420cbb0c27d31a01663f6cb5999dc2322d22276bb6434942.jpg> 白鵬さん 新会社の設立を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/aafd3d7fcce2b4669b1e6141a8d1cb935f171712884bc006f2bf18c76aefc457.jpg> FBやインスタ 相次ぐアカ凍結
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/1fd63925b922527a6bd92a4c978a3133eff74633c200ffeed80741af3b2e6b8c.jpg> 昌磨さん&真凜さんカップル 歓声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 21:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 22:00:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
