@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/537992fbcc075870910c49dbaba2a597.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df247f51d706580e062655c762174fa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/334dfc2795970c216faea08575e411cbd588f630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183536-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=691&ch=691&exp=10800&fmt=webp> イランがイスラエルに向けミサイル100発以上を発射 住宅地などに着弾し41人けが
+      <a href=https://news.yahoo.co.jp/articles/0dcb3256b59e544ada7aaed07a7908a3b731a1e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183540-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 7月の山開きを前に 富士山5合目ゲート完成 登山指導演習も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d9c463cd718c37e10b21263d2c156dcf28a9538>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 6回目の日米閣僚協議で赤沢氏「合意の可能性探った」　関税撤廃要求の有無は明かさず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d238a3ce6ed140ed1e70048bae9522531001ce2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000020-ann-000-4-thumb.jpg?exp=10800&fmt=webp> インド航空機墜落265人死亡　「壊れたドアの隙間から」“唯一の生存者”語る脱出瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fa0ee80e066adbf280030aafc6ff72182db04a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183537-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=828&ch=828&exp=10800&fmt=webp> イラン国連大使「イスラエルの攻撃で78人が死亡した」
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbf188f8166dfa065a5b251a8d58e3e264d41d32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183532-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=828&ch=828&exp=10800&fmt=webp> USスチール買収めぐり トランプ大統領「安全保障協定が条件」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/065fc73dce00d43007f0bfea6dc45a4edebfe3c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=546&ch=546&exp=10800&fmt=webp> インド旅客機墜落、非常口席の乗客１人だけ生存
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cff18ba7cf2edf6a745a2179ed1ad577c26b5bf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00162613-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> BTS JINの“好きが詰まった秘密の空間”大公開!テニス、釣り、マリオ『2025 BTS FESTA』
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d8db26553a297bf4b5dcaa5e92e3ac5106c8b88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000067-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 東―西日本、警報級大雨も　梅雨前線影響で15日にかけ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183532-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=828&ch=828&exp=10800&fmt=webp> USスチール買収めぐり トランプ大統領「安全保障協定が条件」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/36c1ec11e7b1a73358bf6748139efae917e99f952115020ec97a1fe872fe32c6.jpg> 激化しないで 祈るイスラエル住民
+      <a href=https://news.yahoo.co.jp/pickup/6542177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/b7b3a11c8175700f4e74c8a9f117133d7a013752407a71f0485b9cd4870fee50.jpg> イラン国連大使 米を共犯者と批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
+      <a href=https://news.yahoo.co.jp/pickup/6542175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/27526e700908855d2c79298ce74d3d2ec0721a94aee270072354c654c5a70588.jpg> 日本郵便 郵便貨物2500台売却検討
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542171>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02247768/title-1749817740057.jpeg?exp=10800> STARTO社・福田社長退任へ 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/9230ab0140907922412bd84658e416b0a71726d6b6eb09d22fee0dc81a5e58bf.jpg> 「ゴンチャ」人気はなぜ続くのか
+      <a href=https://news.yahoo.co.jp/pickup/6542171>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02247768/title-1749817740057.jpeg?exp=10800> STARTO社・福田社長退任へ 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 09:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 10:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
