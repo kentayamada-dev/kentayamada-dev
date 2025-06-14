@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b757616d3b478beb71a96b3ee71efdc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93fcf82c6fe76f6cba78283bcd8a0502.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50fa20fbd94b627811faa381f43b9e574bec4e51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「黄金株」が決め手に　USスチール買収実現へ　日鉄
+      <a href=https://news.yahoo.co.jp/articles/af79e1b88fba80d98d2692c81f898696b2be7c0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140555-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ドジャース完敗で同率首位に並ばれる　山本由伸が自己ワースト５四球５失点、大谷翔平も元気なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99fb910f8e80e7ad97a0b71796a8ee0fbbfa7f47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10008926-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 早稲田大学、東京六大学代表史上初のコールド負け。全日本大学野球選手権 準々決勝
+      <a href=https://news.yahoo.co.jp/articles/2ec13289f6e31d3e434c612c2defe8be3499dfbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000053-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 実利重視の「トランプ流」　USスチール買収容認へ転換、雇用増で「勝利演出」危うさも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb091303a54ed5be4327064bc7e7519e19131c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16597706-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> エア・インディア機のブラックボックス回収　家族は答え待ちわびる
+      <a href=https://news.yahoo.co.jp/articles/fd53a0f7c36ae120f743b912091de6ccde64cf25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21977856-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理1人2万円の給付金を表明、一度引っ込めたバラマキの再登場、その是非とは【播摩卓士の経済コラム】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aaca7df9c46279966f848d73594889ad43a67948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000208-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大学選手権】東北福祉大が7年ぶり決勝進出　14安打8得点で青学大の3連覇を阻止
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e03fb72375a3170b5960ae84b8d039818803bde5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16735466-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イランがイスラエルに報復、ミサイル攻撃で数十人負傷　1人死亡と米メディア報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b68675be8793de7285a32cd8ebcd87a4debbd801>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987129-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がベッセント財務長官らと“関税交渉”「日米双方にとって利益となる合意の可能性を探った」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/147ff906cc928ceb67dd4b6900d967ffdd499d8c2f3f5d1c4940e1019312e40b.jpg> 随契の備蓄米 販売期限が足かせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4866f2ca96c024f4cdd8a668f13e289787e07c64a19404ff18f21560a2612eb4.jpg> 都議選の争点は 各陣営代表ら訴え
+      <a href=https://news.yahoo.co.jp/pickup/6542161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4ad99af88640bc48e0446d356ba7c6733d2ff85590c4ea213baccc70829c6f3d.jpg> 空き家問題 自治体や隣人も被害
       </a>
     </td>
   </tr>
@@ -434,16 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/91034c0f29773b588147e6091f251fa467164616fddb8178f799be97654d1989.jpg> 性に関する絵本人気 40万部超えも
+      <a href=https://news.yahoo.co.jp/pickup/6542208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cea0f947672fe74a3b7d102428c14f41a3fd55e4bce703b008f506eea46b7f66.jpg> 経営難で転園要請 憤る保護者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d535f9b27d7eaa8634efdd3d2cc0f5396a212565bc26790b259698a75f075db4.jpg> 山本由伸5回途中KO 満塁弾浴びる
+      <a href=https://news.yahoo.co.jp/pickup/6542205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/03bddf4a8539740e54daea2feeba095d4fd709c7742cf8bc747280799edce829.jpg> フロッピーディスク 使用続く理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c96cf4713614749a804a565544ff6112d02437834a27d104c47500535baee0d6.jpg> 大谷が10試合HRなし 急ブレーキ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/6aae8bf5f6bc03f1da864a5bb6cab3c80d20074cdabf9b934ab66f8977ca683e.jpg> 人生の楽園 西田敏行さん声続く訳
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2388ce17a56145022668e10b3b228b18bcf208b82916f45becaa1594215a3ba5.jpg> 杉崎美香アナ46歳 第2子妊娠発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 14:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 14:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
