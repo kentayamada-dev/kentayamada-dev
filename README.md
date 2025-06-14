@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d88a30c87f54ac855e59feef5e12db7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bbb2b8f2d31477329be2b8f680d2330.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a904550704ccd08897cd76b463c079c0adac610>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010016-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 墜落したエア・インディアの機長が最後に残した音声が明らかに。救援を要請していた
+      <a href=https://news.yahoo.co.jp/articles/80986fd1248b99e23d8fc81d072fa675b8130810>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01588715-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「無策だ」立憲・野田代表、自民“2万円の現金給付”を批判　森山幹事長、根拠に「食品の消費税負担額」を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc6adc5c791456d11972a1919bd07b8849da1a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21979239-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雨情報】局地的に雷伴う激しい雨のおそれ　警報級の大雨の可能性も　降り始めから200mm近い降水量のところも　四国地方【雨のシミュレーション 】
+      <a href=https://news.yahoo.co.jp/articles/74778324c8ef4448c4e2c1323ea657cd2dd003ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01839364-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン攻撃続く、事実上の交戦状態に　イランで78人死亡、320人超ケガ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/560778d5e81ef3b4e2cf1b6480b2d661c3b24eae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010013-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=508&ch=508&exp=10800&fmt=webp> 【広島】パ首位・日本ハムに完敗...上本＆中村奨の1・2番は無安打 打線は4安打15三振 細野にプロ初白星献上 床田は3被弾4失点5敗目
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e64cb66a17c7616d93459f43dc91f8bf3ba0a196>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄、USスチール買収で念願の対中「日米連合」　投資回収には高いハードル
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄、USスチール買収で念願の対中「鉄鋼連合」形成へ　投資回収には高いハードル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa204858e5e2b7d190da5a4b05efebb704405a9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07474213-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエルがイラン「先制攻撃」なぜ　米との“核協議”は平行線…「これしか選択肢はなかった」？　エスカレーションの可能性は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fce40b2e1ffdcebe5c902f7b6b3a368a1e88c3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000046-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> 大谷、10戦ノーアーチ　米大リーグ・ドジャース
+      <a href=https://news.yahoo.co.jp/articles/eb8e8ae7911664616a25e9d17e4cc010d7d940d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00150237-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 北川景子 “アナウンサーに憧れていた過去”を告白「役者の仕事が無かったら選択肢にあったかも」インタビュー＃2
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5b92b7f2bf6f737fc819aadba7394589f0cfd59265985f97122aec4af93e7580.jpg> みずほ銀行 顧客情報を誤送信
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542222>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/127d6324207daf48feb827d76691dcaced1b9fbd4bfb5f02776ab01b97ab0f8c.jpg> 遊びに来た放置子 出禁にした経緯
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d1361c472f5f7d9cfc5aee85624e5c66bf3fa6c06dc54c0e2391d9f89524bbe9.jpg> アイナBiSH時代の過酷減量を告白
+      <a href=https://news.yahoo.co.jp/pickup/6542215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/63ec818462288e7e476b76cf5baf6ea3e470509cb863b1112648196886d69cc3.jpg> 由伸への微妙な判定 監督が言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/472daa6675959cd6b1ec1383e3c9b4d101e6ca2ae76610328618c645cc6e701e.jpg> 北川景子 20代はずっと苦しかった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 17:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 17:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
