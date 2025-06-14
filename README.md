@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/010e25ae9552565c8ac5dc8f7bb2e261.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75c3cda0b587528bfe7fb6fedc273e1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41a853d4bf38a4ebdfc5cbf74bb735087a32420b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000174-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イラン報復、ミサイル数百発　イスラエルと交戦状態
+      <a href=https://news.yahoo.co.jp/articles/758fdb32cd72309c175ed9dd97fe40e233e6f9bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全面戦争に突入の懸念　イランはミサイル200発で報復　昨年のような抑制シグナルなし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f78c4310afbb49d6cd16065ac8ec8c919bead799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000074-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=945&ch=945&exp=10800&fmt=webp> くすぶるトランプリスク　USスチール「支配」強調
+      <a href=https://news.yahoo.co.jp/articles/730623c8f1b26e95de3a4d091b27fc5bd957264b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36141987-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1263&ch=1263&exp=10800&fmt=webp> 白鵬さん、実は先祖が15世紀のモンゴル皇帝ダヤン・ハーンだった　引退から４年、まさかの告白
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/985d619f4e154d66e7d7394cad78d6560c187270>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 元横綱・白鵬さん、新会社設立を発表「相撲を世界に広めるのが夢」　応援パーティーに本田圭佑ら２００人が出席
+      <a href=https://news.yahoo.co.jp/articles/053a635cc833bbdd07531f7f04e92e91f1d669eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050141-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 日本製鉄のＵＳスチール買収、週明けにも完了へ…米政府「黄金株」で一定の影響力
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/a85408ef0352d8b0b03692517349cf3e81eaacfc271bd9ead3ee49b46f8e7be6.jpg> イランとイスラエル 応酬激化恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6542249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/7b4767de94fd5282d43c29e74c96c72da1c954c94ca7c2a76223a8d88fc3cd2f.jpg> LA抗議デモ 日本人街に打撃深刻
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/447ecbc0106c1420f4a0b20ced26a4139c9ec53b7bff6b08bee06f0d5e508c7a.jpg> 印墜落 機長が「推力なし」伝達
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5e78f40c0debd082f65c8bc4f04d9e128962cc97a898dc378b28ef80ff27a418.jpg> 17歳運転の車事故 中高生ら重軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6542213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/6df359a5849e112e34c98de0b3ebea3add95e34266baaaa83c78c068786cb556.jpg> 日本で産む外国人視点 素朴な疑問
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/235fce23c7080772906cd5fc65a80df1b9f85b182b07da8c82eed290a826db36.jpg> 「死後離婚」弁護士が語る注意点
+      <a href=https://news.yahoo.co.jp/pickup/6542253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/235fce23c7080772906cd5fc65a80df1b9f85b182b07da8c82eed290a826db36.jpg> 「結婚観」の変化 増える死後離婚
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/0a6b42232e0e64d7772e48fc83a4d4128874be987029c4776b382b97e8efc0ea.jpg> 歴史的屈辱 阪神5戦連続逆転負け
+      <a href=https://news.yahoo.co.jp/pickup/6542248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2dc4d53a3d4f8490420cbb0c27d31a01663f6cb5999dc2322d22276bb6434942.jpg> 白鵬さん 新会社の設立を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/f60ad99d8d6d2c539278f6920a698124bfd8e87c0a927b37550d6b87b8ae3ae6.jpg> 日本相撲連盟 新会長に豊田章男氏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 21:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 21:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
