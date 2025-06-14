@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed13b9381664849ae68ef3fb69d78a22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e0198ca1467f56e225453c0d7380feb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4921df4551dab5a5613cb71739898e98dd5546a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、日鉄・USスチール「パートナーシップ」承認　速やかに成立予定　両社が発表
+      <a href=https://news.yahoo.co.jp/articles/51435234d7b6b9ee790d26a02571cc4c44ffb3c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=473&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、USスチールと日鉄のパートナーシップ承認 大統領令に署名
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84e409cf5a90b3813d59279f0e9d1b16cbfb0b06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000019-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエルによる攻撃で国連安保理が緊急会合　自制を求める声相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/96dbb3c479a50ccc47611007c092a0d244e38116>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-26132043-bbcv-000-2-thumb.jpg?exp=10800&fmt=webp> イラン、イスラエル・テルアヴィヴに報復攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1555730ad011ee5f98b4abd67636c53ad51dbd4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000143-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 右肩炎症でIL入りのド軍グラスノー　IL入り後初ライブBP　指揮官「非常に勇気づけられている」
+      <a href=https://news.yahoo.co.jp/articles/743bd4323d1cb8d44b08bcf95da0655ca0855312>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140290-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1031&ch=1031&exp=10800&fmt=webp> ジャッジ、255億円左腕からまさかの３三振…第３打席は159キロ直球　今季対戦６打数６三振
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/b7b3a11c8175700f4e74c8a9f117133d7a013752407a71f0485b9cd4870fee50.jpg> イラン国連大使 米を共犯者と批判
+      <a href=https://news.yahoo.co.jp/pickup/6542185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/a25764884c04994d286314803b5676f6995668c1a7f5cbb5aac9956b590949b6.jpg> イラン各地で空爆 70人超死亡
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cd4c409e6c1c18fd324dd9ebe59540af254af2a3f213bfc3c4fabe24caab8242.jpg> 万博特需ならず ライドシェア苦戦
+      <a href=https://news.yahoo.co.jp/pickup/6542176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/83f03906d2658d3f5f82b0e32c93957a2b71c475fdbfb7ff2e3b53cdce26b031.jpg> 88歳認知症 当事者が語るリアル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542171>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02247768/title-1749817740057.jpeg?exp=10800> STARTO社・福田社長退任へ 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/53f2ed20d59e7a8831d82a3b2c54ff03e8f8f60b5cbeef8654e4bad2f202afc6.jpg> 佐々木朗希 前半復帰は絶望的か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/ac5f7b51b6dd99bba198c71a192bf73b9345e15295d9c36a3174ea28743eced9.jpg> 元猿岩石・森脇 有吉との関係は
+      <a href=https://news.yahoo.co.jp/pickup/6542181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/a40049ff5dd25b8c417392d23eb2b8e6a29f2889fd3d77bea0c644751cbe0c3c.jpg> 東大院で研究 仕事と両立するアナ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 10:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 11:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
