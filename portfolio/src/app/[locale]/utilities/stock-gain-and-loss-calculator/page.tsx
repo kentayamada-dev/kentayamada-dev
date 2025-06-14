@@ -1,24 +1,16 @@
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react';
 import { headers } from 'next/headers';
 import { notFound } from 'next/navigation';
-import rehypeKatex from 'rehype-katex';
-import rehypePrettyCode from 'rehype-pretty-code';
-import rehypeReact from 'rehype-react';
-import remarkGfm from 'remark-gfm';
-import remarkMath from 'remark-math';
-import remarkParse from 'remark-parse';
-import remarkRehype from 'remark-rehype';
-import { unified } from 'unified';
 import { Calculator, LikeButtonWrapper } from '@/components/designSystem/organisms';
 import { MinusIcon, PlusIcon } from '@/components/icons';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { REQUEST_URL_HEADER, navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug } from '@/lib/graphql-request';
+import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
-import { getRehypeReactOptions } from '@/lib/rehype-react';
 import { getRedisKey, getSlugFromUrl, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
@@ -57,26 +49,16 @@ const Page: PageType = async (props) => {
   const utilityLikeKey = getRedisKey('utility', 'like', utilityId);
   const utilityLikeCount = await getCount(utilityLikeKey);
 
-  /* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
   const faqs = await Promise.all(
     (await getFaqs(locale, contentfulType.faq.calculator)).map(async (faq) => {
-      const processedContent = await unified()
-        .use(remarkParse)
-        .use(remarkGfm)
-        .use(remarkRehype)
-        .use(rehypeReact, getRehypeReactOptions(locale))
-        .use(remarkMath)
-        .use(rehypeKatex)
-        .use(rehypePrettyCode, { keepBackground: false })
-        .process(faq.answer);
+      const { content } = await getEvaluateResult(faq.answer, locale);
 
       return {
         ...faq,
-        answer: processedContent.result
+        answer: content
       };
     })
   );
-  /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
   return (
     <>
@@ -91,7 +73,6 @@ const Page: PageType = async (props) => {
           <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{faqLabel}</h2>
           <dl className='divide-y divide-slate-900/10 dark:divide-slate-300/10'>
             {faqs.map((faq) => {
-              // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
               const { answer, question } = faq;
 
               return (
