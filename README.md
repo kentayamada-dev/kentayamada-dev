@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c403c4f8d971be45d77455659021ddcf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/010e25ae9552565c8ac5dc8f7bb2e261.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f78c4310afbb49d6cd16065ac8ec8c919bead799>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000074-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=945&ch=945&exp=10800&fmt=webp> くすぶるトランプリスク　USスチール「支配」強調
+      <a href=https://news.yahoo.co.jp/articles/41a853d4bf38a4ebdfc5cbf74bb735087a32420b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000174-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イラン報復、ミサイル数百発　イスラエルと交戦状態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd886d3b8db0b2628a9ba08115763a79f3decb74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-04441845-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 職務質問中に車で突っ込んだか、自称タイ人の男逮捕　警察官が発砲、逃走後に出頭　千葉・旭市
+      <a href=https://news.yahoo.co.jp/articles/f78c4310afbb49d6cd16065ac8ec8c919bead799>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000074-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=945&ch=945&exp=10800&fmt=webp> くすぶるトランプリスク　USスチール「支配」強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/985d619f4e154d66e7d7394cad78d6560c187270>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141236-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 元横綱・白鵬さん、新会社設立を発表「相撲を世界に広めるのが夢」　応援パーティーに本田圭佑ら２００人が出席
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747237715df85e32137d0019a764642c0a036998>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000054-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン、米英仏に「妨害なら中東の基地を標的」と警告　地元メディア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31fcd95af741d5bc0bbf0a3fa295a33ac1037886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 大谷翔平、4打数ノーヒット 2対6でドジャース敗れる
+      <a href=https://news.yahoo.co.jp/articles/55c92766d7e01c2df135069d427664a2332ac96e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010016-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=125&cw=1170&ch=1170&exp=10800&fmt=webp> 【阪神】悪夢のサヨナラ負け 今季初5連敗の悲劇...岩貞が10回2死一・二塁 石原に悲痛打 9回無死満塁で同点止まり 14安打15残塁
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c1e128bf68c8acf23442e01bafee2dc7a5136e6e053918854c483944e7fc29c5.jpg> 子4万円 首相の強い意向と森山氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542244>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5e78f40c0debd082f65c8bc4f04d9e128962cc97a898dc378b28ef80ff27a418.jpg> 17歳運転の車事故 中高生ら重軽傷
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/127d6324207daf48feb827d76691dcaced1b9fbd4bfb5f02776ab01b97ab0f8c.jpg> 遊びに来た放置子 出禁にした経緯
+      <a href=https://news.yahoo.co.jp/pickup/6542245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bca7b58609f64c97c12fae2c9cabe220766e1bca3d2c8b97f63c6b8d5d49de49.jpg> 車2台が正面衝突 子を含む4人搬送
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/16f5a8f9a6ec650c734d893f217dbf9086a2d9ec839722c9a2487e3fe45c7faa.jpg> 三宅宏実さん 夫の告白一度断った
+      <a href=https://news.yahoo.co.jp/pickup/6542243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/235fce23c7080772906cd5fc65a80df1b9f85b182b07da8c82eed290a826db36.jpg> 「死後離婚」弁護士が語る注意点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/0a6b42232e0e64d7772e48fc83a4d4128874be987029c4776b382b97e8efc0ea.jpg> 歴史的屈辱 阪神5戦連続逆転負け
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 20:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 21:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
