@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6bbb2b8f2d31477329be2b8f680d2330.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bb086aee5ecd709b463763948c2ca42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31fcd95af741d5bc0bbf0a3fa295a33ac1037886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183592-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 大谷翔平、4打数ノーヒット 2対6でドジャース敗れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d05aecbe7a266548f75859ff2dc8c57685648edb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242925-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イラン　イスラエルへの「報復攻撃」開始　イスラエルも攻撃続ける　応酬激化のおそれ　こうしたなか、国連安保理が緊急会合　イラン・イスラエル互いに非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/03c957a02c6fc62127ea516debd9ec7f62568438>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242907-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「トランプ大統領がUSスチール買収を承認」日本製鉄が表明　「黄金株」（重要事項に拒否権を行使できる株式）はアメリカ政府に付与
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80986fd1248b99e23d8fc81d072fa675b8130810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01588715-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「無策だ」立憲・野田代表、自民“2万円の現金給付”を批判　森山幹事長、根拠に「食品の消費税負担額」を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74778324c8ef4448c4e2c1323ea657cd2dd003ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01839364-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン攻撃続く、事実上の交戦状態に　イランで78人死亡、320人超ケガ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/560778d5e81ef3b4e2cf1b6480b2d661c3b24eae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010013-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=508&ch=508&exp=10800&fmt=webp> 【広島】パ首位・日本ハムに完敗...上本＆中村奨の1・2番は無安打 打線は4安打15三振 細野にプロ初白星献上 床田は3被弾4失点5敗目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e64cb66a17c7616d93459f43dc91f8bf3ba0a196>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄、USスチール買収で念願の対中「鉄鋼連合」形成へ　投資回収には高いハードル
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01588715-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「無策だ」立憲・野田代表、自民“2万円の現金給付”を批判　森山幹事長、根拠に「食品の消費税負担額」を強調
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542221>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/70609d594bc250f34835d082cef64f9af4ac0529bcc9f662385b518ef4053693.jpg> 東日本 就寝時間帯に大雨の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/be6cfc0b744b54ec9fb246ee49219d4538d68399dc5f08853bf35361225609e3.jpg> イラン報復攻撃 事実上の交戦状態
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/136efc3681c5842fc387df53678ecc84fe4c1223bfdcddc749afa655c2bc5f88.jpg> Switch2「転売」封じ込めに秘策
+      <a href=https://news.yahoo.co.jp/pickup/6542224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/0eb042a24b4443838eab7462d015912020886092a429989432a5794bf910bd4c.jpg> 米スタバ「プロテイン戦争」参入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/16f5a8f9a6ec650c734d893f217dbf9086a2d9ec839722c9a2487e3fe45c7faa.jpg> 三宅宏実さん語る プロポーズ秘話
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/472daa6675959cd6b1ec1383e3c9b4d101e6ca2ae76610328618c645cc6e701e.jpg> 北川景子 20代はずっと苦しかった
+      <a href=https://news.yahoo.co.jp/pickup/6542229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/472daa6675959cd6b1ec1383e3c9b4d101e6ca2ae76610328618c645cc6e701e.jpg> 北川景子 DAIGOとの結婚で変化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 17:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 18:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
