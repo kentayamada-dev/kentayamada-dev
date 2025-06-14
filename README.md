@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3a3bd428111f7844b353e9058f44dbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a35eb3a4afacd53ecebc78a5f3e42443.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/962c1d998b2b39bb985d39e455433976493b4c10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140452-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 山本由伸、４回は３者凡退で片付ける　球審の厳しい判定にも泣いて３回に満塁弾を浴びる
+      <a href=https://news.yahoo.co.jp/articles/580a48e6ba5d1d2dc8a0117dcbeb4930d191fde5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141073-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 大谷翔平４打席目まで快音なく４６打席連続本塁打なし　見三振と内野ゴロ２つずつ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/abb091303a54ed5be4327064bc7e7519e19131c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16597706-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> エア・インディア機のブラックボックス回収　家族は答え待ちわびる
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b68675be8793de7285a32cd8ebcd87a4debbd801>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987129-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がベッセント財務長官らと“関税交渉”「日米双方にとって利益となる合意の可能性を探った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f07f0e666e892b12b3e25f6f5179819f2e4a3a64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-04592726-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> インド旅客機墜落　地上の死者30人超に
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d535f9b27d7eaa8634efdd3d2cc0f5396a212565bc26790b259698a75f075db4.jpg> 山本由伸まさかの5回途中5失点KO
+      <a href=https://news.yahoo.co.jp/pickup/6542200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d535f9b27d7eaa8634efdd3d2cc0f5396a212565bc26790b259698a75f075db4.jpg> 山本由伸5回途中KO 満塁弾浴びる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/b16e315377d1d4e7a4c069905fac5e698cbd85a326461740442d5647e957505e.jpg> 「はるかぜちゃん」春名風花 結婚
+      <a href=https://news.yahoo.co.jp/pickup/6542202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5156444ed07335a95764598d7c622ae31b4a12d6e6a34d446e9845972881ce07.jpg> パークマンサー 番組終了後の苦難
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 13:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 13:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
