@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a11a98b259d4d4aa78c53be89ef6f97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce1955ad92094c674a66cae8b75d6b9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37f8e515958d3020a924acca2b346b7cf47ae325>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141316-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=521&ch=521&exp=10800&fmt=webp> テレ朝・田畑祐一アナが今月末で退局、６５歳節目に　２９日の新日・棚橋弘至記念興行で局アナラスト実況
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec5b3aa2b586f97ce6f7996807992cec45d9fa5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36142003-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【オリックス】今季６度目サヨナラ勝ち、誕生日大城が四球選ぶ！対巨人５連勝！宮城大弥は125球熱投
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/758fdb32cd72309c175ed9dd97fe40e233e6f9bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全面戦争に突入の懸念　イランはミサイル200発で報復　昨年のような抑制シグナルなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/797db87a9dd666e17c127a109db50fa422815032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21979188-ohbsn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 15日にかけて西日本〜東日本で激しい雨に注意　四国〜関東甲信では予想24時間降水量が100ミリ超の所も【3時間ごとの雨シミュレーション・14日午後9時現在】
       </a>
     </td>
   </tr>
@@ -387,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf5b5431933bccc38f9b120101cfb013da27b415>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000055-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=584&ch=584&exp=10800&fmt=webp> インド機墜落　死者少なくとも270人　巻き添え犠牲はさらに増加か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/8506e6168e82d3b6a54c8ca398e9b9c7cbf88b99c11b037e07dee7b0c8695af1.jpg> 関東～九州で警報級の大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6542264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/abfab48b8d57040f1bc736307303100a0f8e0c51bdec1007d761ed0d9d8a5e14.jpg> 非常に激しい雨恐れ 土砂災害警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/7b4767de94fd5282d43c29e74c96c72da1c954c94ca7c2a76223a8d88fc3cd2f.jpg> LA抗議デモ 日本人街に打撃深刻
+      <a href=https://news.yahoo.co.jp/pickup/6542251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/da1eebfd614be7bcd071389fd32c1b28ff5fe1d6f723f3a909d44cfa8cc5ca78.jpg> イラン要人殺害 モサド暗躍の指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/dd722d7814a87c777599b526b395ce1671d6f87e2aadef880acd5d485039d09d.jpg> 軍事パレード 全米で抗議デモ計画
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bb69edc385a26c906cbdda5d7a4b4ca23c3a7bf39c1b9d5cd86b2a59d715a72c.jpg> パンダのタンタン 剥製で返還へ
+      <a href=https://news.yahoo.co.jp/pickup/6542252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメ巣 無断撤去で子育て放棄も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/aafd3d7fcce2b4669b1e6141a8d1cb935f171712884bc006f2bf18c76aefc457.jpg> FBやインスタ 相次ぐアカ凍結
+      <a href=https://news.yahoo.co.jp/pickup/6542261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/02ff1499af8790902c3791e17302932283a308be8b31ccf521fba8c5a52b4409.jpg> まさか 阿部一二三が準々決勝敗戦
       </a>
     </td>
   </tr>
@@ -456,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/41d0ec2a86a2000f056827ed628166484957e6d5b7ec59dd63423f2bdd6964f5.jpg> 田畑祐一アナ 6月末でテレ朝退局
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 22:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 23:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
