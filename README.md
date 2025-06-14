@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df247f51d706580e062655c762174fa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed13b9381664849ae68ef3fb69d78a22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dcb3256b59e544ada7aaed07a7908a3b731a1e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183540-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 7月の山開きを前に 富士山5合目ゲート完成 登山指導演習も
+      <a href=https://news.yahoo.co.jp/articles/4921df4551dab5a5613cb71739898e98dd5546a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、日鉄・USスチール「パートナーシップ」承認　速やかに成立予定　両社が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84e409cf5a90b3813d59279f0e9d1b16cbfb0b06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000019-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエルによる攻撃で国連安保理が緊急会合　自制を求める声相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1555730ad011ee5f98b4abd67636c53ad51dbd4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000143-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 右肩炎症でIL入りのド軍グラスノー　IL入り後初ライブBP　指揮官「非常に勇気づけられている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff3fd624b3733badccb626ba8dc91f980bfd0977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=584&ch=584&exp=10800&fmt=webp> インド機墜落　調査はエンジンや翼などの問題に焦点　ロイター報道
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d9c463cd718c37e10b21263d2c156dcf28a9538>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 6回目の日米閣僚協議で赤沢氏「合意の可能性探った」　関税撤廃要求の有無は明かさず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d238a3ce6ed140ed1e70048bae9522531001ce2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000020-ann-000-4-thumb.jpg?exp=10800&fmt=webp> インド航空機墜落265人死亡　「壊れたドアの隙間から」“唯一の生存者”語る脱出瞬間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fa0ee80e066adbf280030aafc6ff72182db04a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183537-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=828&ch=828&exp=10800&fmt=webp> イラン国連大使「イスラエルの攻撃で78人が死亡した」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbf188f8166dfa065a5b251a8d58e3e264d41d32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183532-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=828&ch=828&exp=10800&fmt=webp> USスチール買収めぐり トランプ大統領「安全保障協定が条件」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/e7b78072b9b3c849e454ac30f7b2f85e830bed6856c905515f3d0e87bd11771e.jpg> 公務欠席し万博イベ出席 市議謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542175>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/27526e700908855d2c79298ce74d3d2ec0721a94aee270072354c654c5a70588.jpg> 日本郵便 郵便貨物2500台売却検討
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542171>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02247768/title-1749817740057.jpeg?exp=10800> STARTO社・福田社長退任へ 背景
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/e5edee23382f8f3335c58ee540d61e84d564b07c94438298f4f8e8ce7d29637f.jpg> 屈辱 早稲田大が8回コールド負け
+      <a href=https://news.yahoo.co.jp/pickup/6542178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02247165/title-1749782267693.jpeg?exp=10800> 朝ドラあんぱん 戦争の描き方注目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 10:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 10:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
