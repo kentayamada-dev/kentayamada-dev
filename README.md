@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66a48066f69717bbb43db285e10717a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a11a98b259d4d4aa78c53be89ef6f97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1209b5d06686f6ed39389ca48e3803035c03096c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010019-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 【巨人】今季4度目サヨナラ負け... オリ戦5連敗 貯金1 中川が11回押し出し四球 泉口が一時同点タイムリーもグリフィン8回途中1失点
+      <a href=https://news.yahoo.co.jp/articles/37f8e515958d3020a924acca2b346b7cf47ae325>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141316-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=521&ch=521&exp=10800&fmt=webp> テレ朝・田畑祐一アナが今月末で退局、６５歳節目に　２９日の新日・棚橋弘至記念興行で局アナラスト実況
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee1d03d2a31f8923ed1745866e19d347e7599f66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 宇野昌磨さんが初演出　アイスショーで演技―フィギュア
+      <a href=https://news.yahoo.co.jp/articles/ec5b3aa2b586f97ce6f7996807992cec45d9fa5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36142003-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 【オリックス】今季６度目サヨナラ勝ち、誕生日大城が四球選ぶ！対巨人５連勝！宮城大弥は125球熱投
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bca7b58609f64c97c12fae2c9cabe220766e1bca3d2c8b97f63c6b8d5d49de49.jpg> 車2台が正面衝突 子を含む4人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6542256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/98a8f116729ba1dfaf3e84fb71f505711b8ffe80e421e0277e6fc89ae4d5d018.jpg> 別姓家庭で育った子「私は幸せ」
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542217>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bb69edc385a26c906cbdda5d7a4b4ca23c3a7bf39c1b9d5cd86b2a59d715a72c.jpg> パンダのタンタン 剥製で返還へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/235fce23c7080772906cd5fc65a80df1b9f85b182b07da8c82eed290a826db36.jpg> 「結婚観」の変化 増える死後離婚
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/f60ad99d8d6d2c539278f6920a698124bfd8e87c0a927b37550d6b87b8ae3ae6.jpg> 日本相撲連盟 新会長に豊田章男氏
+      <a href=https://news.yahoo.co.jp/pickup/6542260>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5b39b0ef8cc673e31af63d9b0472d54c1da45de309542aadb6f15a51c728c3ab.jpg> バッテリィズ エース結婚していた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/41d0ec2a86a2000f056827ed628166484957e6d5b7ec59dd63423f2bdd6964f5.jpg> 田畑祐一アナ 6月末でテレ朝退局
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 22:00:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 22:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
