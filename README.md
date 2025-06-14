@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/baceabd7529e81cc469d6d3394eeb541.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/537992fbcc075870910c49dbaba2a597.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/334dfc2795970c216faea08575e411cbd588f630>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183536-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=691&ch=691&exp=10800&fmt=webp> イランがイスラエルに向けミサイル100発以上を発射 住宅地などに着弾し41人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbf188f8166dfa065a5b251a8d58e3e264d41d32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-10183532-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=828&ch=828&exp=10800&fmt=webp> USスチール買収めぐり トランプ大統領「安全保障協定が条件」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/065fc73dce00d43007f0bfea6dc45a4edebfe3c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=546&ch=546&exp=10800&fmt=webp> インド旅客機墜落、非常口席の乗客１人だけ生存
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cff18ba7cf2edf6a745a2179ed1ad577c26b5bf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00162613-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> BTS JINの“好きが詰まった秘密の空間”大公開!テニス、釣り、マリオ『2025 BTS FESTA』
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d8db26553a297bf4b5dcaa5e92e3ac5106c8b88>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000067-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 東―西日本、警報級大雨も　梅雨前線影響で15日にかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a77117d74db1af8436159a142be43fcc9ad5bbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000000-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=556&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン、イスラエルに報復攻撃 34人負傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5e31102260baf5339c557a27c93c177288d3879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、USスチール買収禁止命令を修正　米政府との協定が条件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed56119553fbfc97b16e8a7e3b17e94faa07df4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《エア・インディア墜落事故》「ボタンが反応しない」「エアコンが起動しない」…“機内映像”で捉えられていた“異変”【乗客1名除く241名死亡】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00188ebfefc8351e07d23ca55c6f298411c70fb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00030210-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 14日～15日は九州から関東で大雨　滝のような雨も　九州は土砂災害に厳重警戒
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542173>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日鉄 米大統領がUSS買収計画承認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542169>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/36c1ec11e7b1a73358bf6748139efae917e99f952115020ec97a1fe872fe32c6.jpg> 激化しないで 祈るイスラエル住民
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/3fa844f1a1d48ca482cc5e4885d924caa543a25badc84383e6b62460d3910d4c.jpg> USS買収 条件付き認定の大統領令
+      <a href=https://news.yahoo.co.jp/pickup/6542164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/223a4e3b3ae41eca0b8ac228da6a1169618095a0b4a09d8d20917ce97bdbc77e.jpg> 富士山 入山拒否ルールを予行演習
+      <a href=https://news.yahoo.co.jp/pickup/6542172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cd4c409e6c1c18fd324dd9ebe59540af254af2a3f213bfc3c4fabe24caab8242.jpg> 万博特需ならず ライドシェア苦戦
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/e30ee978fc61268f96405ecc87ca658a29f16dcfb80711a89625032e0bc67459.jpg> ソロライブ BTSメンバー全員集結
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 09:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 09:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
