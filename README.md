@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/762aa094788979cbc924ae834074f1b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d162d859eaf1f5b52278676aef3d023.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0999f873825d32b73b9c193c21bd5cf5fc7702d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド墜落、機長「推力なし」　離陸直後、管制官に伝達
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c132361bfb76af53edcacdd71a7f56f43a0a9db6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000044-ann-000-4-thumb.jpg?exp=10800&fmt=webp> イランがイスラエルに報復攻撃　ミサイル100発以上発射で死者も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000044-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イランがイスラエルに報復攻撃　ミサイル100発以上発射で死者も
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb8e8ae7911664616a25e9d17e4cc010d7d940d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00150237-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 北川景子 “アナウンサーに憧れていた過去”を告白「役者の仕事が無かったら選択肢にあったかも」インタビュー＃2
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542219>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/oohamazakitakuma/02248413/title-1749870393663.jpeg?exp=10800> 選挙前に「バラマキ政策」効果は
+      <a href=https://news.yahoo.co.jp/pickup/6542234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/8d7de2cd45cf906ca47ef355d4f8e2c05a88b31689e48e8be1f79808bcd4d351.jpg> 日本製鉄 投資回収はいばらの道
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bb69edc385a26c906cbdda5d7a4b4ca23c3a7bf39c1b9d5cd86b2a59d715a72c.jpg> パンダのタンタン 剥製で返還へ
+      <a href=https://news.yahoo.co.jp/pickup/6542218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c09c34d4cc5e15a22ee13e385e45e5427e8d2067a7ea0008c586e14b13f79093.jpg> 札幌「アンパン道路」とは 論争も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02248344/title-1749868475604.jpeg?exp=10800> マダニ類媒介の感染症被害増 注意
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542233>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/16f5a8f9a6ec650c734d893f217dbf9086a2d9ec839722c9a2487e3fe45c7faa.jpg> 三宅宏実さん 夫の告白一度断った
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/63ec818462288e7e476b76cf5baf6ea3e470509cb863b1112648196886d69cc3.jpg> 由伸への微妙な判定 監督が言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 18:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 19:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
