@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93fcf82c6fe76f6cba78283bcd8a0502.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/adfff82041350ee170421779781b73a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af79e1b88fba80d98d2692c81f898696b2be7c0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140555-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ドジャース完敗で同率首位に並ばれる　山本由伸が自己ワースト５四球５失点、大谷翔平も元気なし
+      <a href=https://news.yahoo.co.jp/articles/b04ab5ed29918c04d52dc304efae3de1b9ce3509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140711-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 山本由伸、メジャーワースト５四球で２被弾５失点にガックリ「なんとかプラスに…」一問一答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ec13289f6e31d3e434c612c2defe8be3499dfbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000053-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 実利重視の「トランプ流」　USスチール買収容認へ転換、雇用増で「勝利演出」危うさも
+      <a href=https://news.yahoo.co.jp/articles/377b5101589b23f95e2d3bc6d0b3a8df83937920>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21978521-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 核関連施設などに大規模攻撃…イスラエルがイラン空爆 78人死亡 被害は市民にも…イランは報復宣言 核協議の行方は? 須賀川記者解説【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb03101dd152257da99cff31e07dfefef3a0c2e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140716-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、４打数無安打で連続試合安打は８で止まる　得意の６月も今季最長更新10戦ノーアーチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce5720ac13d17150fe31bd45193d41bd96d75c1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄のUSS買収計画、トランプ大統領が承認　子会社化するも「黄金株」は米政府に
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaca7df9c46279966f848d73594889ad43a67948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000208-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【大学選手権】東北福祉大が7年ぶり決勝進出　14安打8得点で青学大の3連覇を阻止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e03fb72375a3170b5960ae84b8d039818803bde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16735466-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イランがイスラエルに報復、ミサイル攻撃で数十人負傷　1人死亡と米メディア報道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/00136ff6ca58231ab6926cd913a840e1058e66f93891e40aa2d609988fc5b86e.jpg> 米軍がイスラエルの迎撃を支援
+      <a href=https://news.yahoo.co.jp/pickup/6542211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/be6cfc0b744b54ec9fb246ee49219d4538d68399dc5f08853bf35361225609e3.jpg> イラン報復攻撃 事実上の交戦状態
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 14:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 15:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
