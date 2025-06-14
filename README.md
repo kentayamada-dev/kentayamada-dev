@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/42YLfNIDLAs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bdefd79b94c25265f210ac5a59b8f239.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee8f1610d22393ebcc7bdd21fbad0b61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adae08d0170bf65a57b1087a34da595f10f8b999>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242892-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「トランプ大統領がUSスチール買収を承認」日本製鉄が表明　日鉄とUSスチールがアメリカ政府と「国家安全保障協定」を締結したことも明らかに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47b1cb36ca4516e4b0d6d3d7912a6966e9afd4fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140346-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1318&ch=1318&exp=10800&fmt=webp> 国民・玉木雄一郎代表が激怒「一国の総理が平気で嘘つくなら」石破首相の選挙前2万円給付表明に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18149dd92876561276a13ed276411ac89059536c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140354-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 春名風花、42歳俳優と結婚　SNSで報告「はるかぜちゃんは不滅です」／報告全文
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93798f3b543ecad04c1ca051f2f0683418c69b2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050094-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イランとイスラエル、事実上の交戦状態に突入…テルアビブに報復攻撃のミサイル着弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa2523329322a1a0a2fa301030b0e7df376b1252>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050092-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 日米関税交渉、赤沢氏「非常に突っ込んだやり取り」…首脳会談で合意の可能性は「申し上げることは控える」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51435234d7b6b9ee790d26a02571cc4c44ffb3c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000010-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=473&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、USスチールと日鉄のパートナーシップ承認 大統領令に署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96dbb3c479a50ccc47611007c092a0d244e38116>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-26132043-bbcv-000-2-thumb.jpg?exp=10800&fmt=webp> イラン、イスラエル・テルアヴィヴに報復攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff3fd624b3733badccb626ba8dc91f980bfd0977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=584&ch=584&exp=10800&fmt=webp> インド機墜落　調査はエンジンや翼などの問題に焦点　ロイター報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfcfde869142e6f83e2b0295068f49c50869ea84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000018-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ふるさと納税違反で長野・須坂市と岡山・吉備中央町を対象から除外
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542173>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日鉄 米大統領がUSS買収計画承認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cde32c4abd38f2c3c29807e2dc3d0d99fea48b5d747aeca031a0b30a53398695.jpg> 東北地方で梅雨入り 災害に警戒
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/fa500665dfe578a1608449ef784da9b040320b8240dad9e0847f1f3f18165103.jpg> 東北地方で梅雨入り 災害に警戒
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/a40049ff5dd25b8c417392d23eb2b8e6a29f2889fd3d77bea0c644751cbe0c3c.jpg> 東大院で研究 仕事と両立するアナ
+      <a href=https://news.yahoo.co.jp/pickup/6542189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/b16e315377d1d4e7a4c069905fac5e698cbd85a326461740442d5647e957505e.jpg> 「はるかぜちゃん」春名風花 結婚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2388ce17a56145022668e10b3b228b18bcf208b82916f45becaa1594215a3ba5.jpg> 杉崎美香アナ46歳 第2子妊娠発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 11:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 12:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
