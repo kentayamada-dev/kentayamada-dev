@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10a4abd310dea0b7718c2b54e4f52e1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4335599e5dec27d20e739ae3904ee2eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b48817f2bf89f9d2874874e8a8cc72ed4791358>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、攻撃対象を拡大か　イラン南部のガス田などを攻撃
+      <a href=https://news.yahoo.co.jp/articles/0a1e6dc16f1250fdd2235924794dbddfe4a8ff28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-07242969-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=698&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核開発めぐる米とイランの協議中止、イスラエルとイラン双方の攻撃続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6222c1a8796083b503f5fce9d1df5b6c68b014f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000011-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【世界柔道】永山　6度目の挑戦で初優勝！世界大会3位3度の実力者「負けた経験がしぶとい戦いに…」
+      <a href=https://news.yahoo.co.jp/articles/0741b9f0cded50fde580aedae1063a1c3d1ce1e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183617-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 米・ミネソタ州で州議会議員を連続で銃撃 2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99922ab7aab1dcca61a93f65db24411d1b1672ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773703-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍、負ければ首位陥落の一戦　大谷に迫る“ライバル”…11試合ぶり24号飛び出すか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d5c3f98fde7c6cb8831fcf388ab424423b27ca5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06141353-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 白鵬さん、９月に相撲世界選手権視察へ　「世界相撲グランドスラム構想」へ本格的に始動
       </a>
     </td>
   </tr>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/dd722d7814a87c777599b526b395ce1671d6f87e2aadef880acd5d485039d09d.jpg> 軍事パレード 全米で抗議デモ計画
+      <a href=https://news.yahoo.co.jp/pickup/6542268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a3e02f97d7e3e233d628d1bf6992cbdc8c63f5446c8aebde2f9483829a7cdf2c.jpg> 米州議会議員を連続銃撃 2人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4a9b74a05ec29c13b5d894fa95dcf8d605b7f1fa708340c6b3ac01963e27ac11.jpg> 連日真夏の暑さに 35℃超え続出か
+      <a href=https://news.yahoo.co.jp/pickup/6542272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d008b57908c1cc4211ddea5307c322b303d58071a6eed6b9dd360306ccf9e77f.jpg> 雨上がり気温急上昇 東京29℃予想
       </a>
     </td>
   </tr>
@@ -412,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542265>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメの巣 無断撤去が後絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5322392511852684da61b2236923a884158a9dcc599f4aee8b83c58fbcf603e6.jpg> 世界柔道 阿部詩が5度目の優勝
       </a>
     </td>
   </tr>
@@ -432,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5b39b0ef8cc673e31af63d9b0472d54c1da45de309542aadb6f15a51c728c3ab.jpg> バッテリィズ エース結婚していた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 07:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 07:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
