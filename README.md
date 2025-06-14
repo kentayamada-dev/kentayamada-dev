@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d43d47d3d277ab1b2add222d32acc50b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5e87a8306b66fcb9532d6f137e38198.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/233e565680878e6c956a524f6c68ac235657b580>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000136-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=885&ch=885&exp=10800&fmt=webp> 大谷翔平　ジ軍との首位攻防第2戦も「1番・DH」11戦ぶり1発出るか　前日の敗戦で同率首位に並ばれる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb34fed10b8f301c137fe6f3cbeb9a2892277a0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030222-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今週は近畿で35℃以上の猛暑日も　まるで梅雨明け後の暑さ　熱中症急増のおそれ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cbcda859a352475e0aacb90aa189faa241cda3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】15日の天気 - 関東・九州 午後も局地的に激しい雷雨　気温上がり 不快な蒸し暑さに（15日7時更新）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0a1e6dc16f1250fdd2235924794dbddfe4a8ff28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-07242969-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=698&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 核開発めぐる米とイランの協議中止、イスラエルとイラン双方の攻撃続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0741b9f0cded50fde580aedae1063a1c3d1ce1e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183617-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 米・ミネソタ州で州議会議員を連続で銃撃 2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99922ab7aab1dcca61a93f65db24411d1b1672ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773703-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍、負ければ首位陥落の一戦　大谷に迫る“ライバル”…11試合ぶり24号飛び出すか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d5c3f98fde7c6cb8831fcf388ab424423b27ca5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06141353-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=32&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 白鵬さん、９月に相撲世界選手権視察へ　「世界相撲グランドスラム構想」へ本格的に始動
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-07242969-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 核開発めぐる米とイランの協議中止、イスラエルとイラン双方の攻撃続く
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bfd149d1cdf522dcaa02442132ae7ba3833ddd421ffbf3cf469f5b5d3c4350cc.jpg> 米国との核協議中止 イラン外務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d008b57908c1cc4211ddea5307c322b303d58071a6eed6b9dd360306ccf9e77f.jpg> 雨上がり気温急上昇 東京29℃予想
+      <a href=https://news.yahoo.co.jp/pickup/6542275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/57ccaf754277186f96c61cc5aca29f1529f32eaa8a6a9a15e721ff7041af5aa6.jpg> 米首都で34年ぶりの軍事パレード
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメの巣 無断撤去が後絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6542272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d008b57908c1cc4211ddea5307c322b303d58071a6eed6b9dd360306ccf9e77f.jpg> 雨上がり気温急上昇 東京29℃予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ce1068d4830ce3dac5a652ab3e7240f205284417472cb16665ac003e58e7e38d.jpg> 自転車脇にサーフボード積載 議論
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 08:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 08:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
