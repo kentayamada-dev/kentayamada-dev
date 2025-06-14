@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adfff82041350ee170421779781b73a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0da6eccfb9ed37e2cb3931ecd4c8cde3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b04ab5ed29918c04d52dc304efae3de1b9ce3509>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140711-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 山本由伸、メジャーワースト５四球で２被弾５失点にガックリ「なんとかプラスに…」一問一答
+      <a href=https://news.yahoo.co.jp/articles/aa9ab57bf62b76502668c9537a4cb47bb5a8a634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140756-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=998&ch=998&exp=10800&fmt=webp> ５四球５失点で５敗目の山本由伸にロバーツ監督「全体的に丁寧にいきすぎていたと思う」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce5720ac13d17150fe31bd45193d41bd96d75c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄のUSS買収計画、トランプ大統領が承認　子会社化するも「黄金株」は米政府に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06918581-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日鉄のUSS買収計画、トランプ大統領が承認　子会社化するも「黄金株」は米政府に
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bcf0bd54480eae3576eabae60e301e809629b320f0822c27ce319a056b8aa942.jpg> 印墜落 原因は推進力や揚力不足か
+      <a href=https://news.yahoo.co.jp/pickup/6542208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cea0f947672fe74a3b7d102428c14f41a3fd55e4bce703b008f506eea46b7f66.jpg> 経営難で転園要請 憤る保護者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cea0f947672fe74a3b7d102428c14f41a3fd55e4bce703b008f506eea46b7f66.jpg> 経営難で転園要請 憤る保護者
+      <a href=https://news.yahoo.co.jp/pickup/6542217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bb69edc385a26c906cbdda5d7a4b4ca23c3a7bf39c1b9d5cd86b2a59d715a72c.jpg> パンダのタンタン 剥製で返還へ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c96cf4713614749a804a565544ff6112d02437834a27d104c47500535baee0d6.jpg> 大谷が10試合HRなし 急ブレーキ
+      <a href=https://news.yahoo.co.jp/pickup/6542196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/04d6847bfe15c725be57c8a29b7b04337f381280d0475ba1e4203d29175337bd.jpg> IL入り千賀滉大は軽傷 監督明かす
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 15:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 15:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
