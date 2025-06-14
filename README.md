@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4335599e5dec27d20e739ae3904ee2eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d43d47d3d277ab1b2add222d32acc50b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,24 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/abfab48b8d57040f1bc736307303100a0f8e0c51bdec1007d761ed0d9d8a5e14.jpg> 非常に激しい雨恐れ 土砂災害警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542263>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bfd149d1cdf522dcaa02442132ae7ba3833ddd421ffbf3cf469f5b5d3c4350cc.jpg> 米国との核協議中止 イラン外務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a3e02f97d7e3e233d628d1bf6992cbdc8c63f5446c8aebde2f9483829a7cdf2c.jpg> 米州議会議員を連続銃撃 2人死亡
       </a>
     </td>
   </tr>
@@ -426,8 +410,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a3e02f97d7e3e233d628d1bf6992cbdc8c63f5446c8aebde2f9483829a7cdf2c.jpg> 米州議会議員を連続銃撃 2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee91ec5d519af56f7338e15ad91b6cce89965fa512791660e1dac16736686dea.jpg> 写真送った後 急きょ搭乗の便墜落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542265>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/607903b8fad3114f3302effacbf97b447953674e9e80cc3e501de2e23c8de855.jpg> ツバメの巣 無断撤去が後絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5b41cdd76b6fc4f9a0b18839bb6b5ab842137989c0884c0d4bad6e911ed20d19.jpg> 筋トレ負荷100kg eスポ選手の日常
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/0037c5cc73621201046b12de9989545c6ac1ac1219b8f7adc118ffcd5014e3ac.jpg> 白鵬氏 先祖がモンゴル皇帝だった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/1fd63925b922527a6bd92a4c978a3133eff74633c200ffeed80741af3b2e6b8c.jpg> 昌磨さん&真凜さんカップル 歓声
+      <a href=https://news.yahoo.co.jp/pickup/6542270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/59d7c52d70500f010fca2f90caec674e1ccb664608b0952ea186ded9c8ae7fdd.jpg> 35年ぶりに英国出身力士誕生へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 07:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 08:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
