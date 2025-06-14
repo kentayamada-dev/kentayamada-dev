@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d162d859eaf1f5b52278676aef3d023.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3198ae7bee6c7e95ad96111f549eefd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0999f873825d32b73b9c193c21bd5cf5fc7702d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド墜落、機長「推力なし」　離陸直後、管制官に伝達
+      <a href=https://news.yahoo.co.jp/articles/d3f2090f846add0e47beb38e4494551738cdcc9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 警察官に車で突進容疑　逮捕の男、発砲受け負傷か　千葉県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c132361bfb76af53edcacdd71a7f56f43a0a9db6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000044-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イランがイスラエルに報復攻撃　ミサイル100発以上発射で死者も
+      <a href=https://news.yahoo.co.jp/articles/747237715df85e32137d0019a764642c0a036998>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン軍高官、中東の米軍基地も標的の可能性に言及　地元メディアに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0999f873825d32b73b9c193c21bd5cf5fc7702d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000156-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> インド墜落、機長「推力なし」　離陸直後、管制官に伝達
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80986fd1248b99e23d8fc81d072fa675b8130810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01588715-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「無策だ」立憲・野田代表、自民“2万円の現金給付”を批判　森山幹事長、根拠に「食品の消費税負担額」を強調
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/70609d594bc250f34835d082cef64f9af4ac0529bcc9f662385b518ef4053693.jpg> 東日本 就寝時間帯に大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6542239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/8506e6168e82d3b6a54c8ca398e9b9c7cbf88b99c11b037e07dee7b0c8695af1.jpg> 関東～九州で警報級の大雨の恐れ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 19:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 19:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
