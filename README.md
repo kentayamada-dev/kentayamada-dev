@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee8f1610d22393ebcc7bdd21fbad0b61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59d2378a6a8951262ffa59d3c83a4ad9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adae08d0170bf65a57b1087a34da595f10f8b999>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-07242892-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「トランプ大統領がUSスチール買収を承認」日本製鉄が表明　日鉄とUSスチールがアメリカ政府と「国家安全保障協定」を締結したことも明らかに
+      <a href=https://news.yahoo.co.jp/articles/d92079db126c75a04e44ec16d3bf170ad7e07187>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050099-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> 日鉄がＵＳスチールを１００％子会社化、トランプ氏が買収承認…米政府に「黄金株」発行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b68675be8793de7285a32cd8ebcd87a4debbd801>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987129-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がベッセント財務長官らと“関税交渉”「日米双方にとって利益となる合意の可能性を探った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0e4ac21770f19c295673c9b1ebdb68757b4675f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-01146521-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イラン、イスラエルに報復攻撃　ミサイル100発近く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b165211460a0bff3d0b9059cd26b0f76d725ab73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-04587196-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=78&cw=700&ch=700&exp=10800&fmt=webp> 杉崎美香アナ、第2子妊娠発表「高齢妊婦」
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18149dd92876561276a13ed276411ac89059536c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140354-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 春名風花、42歳俳優と結婚　SNSで報告「はるかぜちゃんは不滅です」／報告全文
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93798f3b543ecad04c1ca051f2f0683418c69b2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050094-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イランとイスラエル、事実上の交戦状態に突入…テルアビブに報復攻撃のミサイル着弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa2523329322a1a0a2fa301030b0e7df376b1252>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050092-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 日米関税交渉、赤沢氏「非常に突っ込んだやり取り」…首脳会談で合意の可能性は「申し上げることは控える」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/fa500665dfe578a1608449ef784da9b040320b8240dad9e0847f1f3f18165103.jpg> 東北地方で梅雨入り 災害に警戒
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/095ae7987af948a436e95f76e1f9ffe11109a9350d0def0dfa8eaf9a24a6e04e.jpg> 東北地方で梅雨入り 災害に警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/a25764884c04994d286314803b5676f6995668c1a7f5cbb5aac9956b590949b6.jpg> イラン各地で空爆 70人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/00136ff6ca58231ab6926cd913a840e1058e66f93891e40aa2d609988fc5b86e.jpg> 米軍がイスラエルの迎撃を支援
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/53f2ed20d59e7a8831d82a3b2c54ff03e8f8f60b5cbeef8654e4bad2f202afc6.jpg> 佐々木朗希 前半復帰は絶望的か
+      <a href=https://news.yahoo.co.jp/pickup/6542186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/c77d95fdb83ea85a4275d4559eec486e0a056ff24d9fea270fb2bf6f587ebda1.jpg> ジャッジ26号 MLB全体トップに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 12:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 12:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
