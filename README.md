@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0da6eccfb9ed37e2cb3931ecd4c8cde3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56c27d77a682f17673057d69e3c3d915.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa9ab57bf62b76502668c9537a4cb47bb5a8a634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140756-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=998&ch=998&exp=10800&fmt=webp> ５四球５失点で５敗目の山本由伸にロバーツ監督「全体的に丁寧にいきすぎていたと思う」
+      <a href=https://news.yahoo.co.jp/articles/03a8dc94d391ad4c4b6ba0223d5e33cc88120267>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大谷、2年ぶりの10戦不発　連続試合安打は8で途切れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/377b5101589b23f95e2d3bc6d0b3a8df83937920>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21978521-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 核関連施設などに大規模攻撃…イスラエルがイラン空爆 78人死亡 被害は市民にも…イランは報復宣言 核協議の行方は? 須賀川記者解説【news23】
+      <a href=https://news.yahoo.co.jp/articles/79e3697e2352a8629156def725d2c53a0537660b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00010015-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=480&ch=480&exp=10800&fmt=webp> イランがイスラエルに報復攻撃。中東でさらに高まる緊張。イラン司令官は「地獄の門が開かれる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb03101dd152257da99cff31e07dfefef3a0c2e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-36140716-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、４打数無安打で連続試合安打は８で止まる　得意の６月も今季最長更新10戦ノーアーチ
+      <a href=https://news.yahoo.co.jp/articles/5169ec02ed9cbc973b4eb11145f1cb34426dadaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00000040-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 2万給付は「食費の消費税負担が根拠」自民・森山氏　子ども加算は総理のこだわり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce5720ac13d17150fe31bd45193d41bd96d75c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06918581-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日鉄のUSS買収計画、トランプ大統領が承認　子会社化するも「黄金株」は米政府に
+      <a href=https://news.yahoo.co.jp/articles/55c287451c285c6b0abdd7fd35a259a718e9ab73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-35234256-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ＵＳスチールと日本製鉄の提携、トランプ氏が承認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd53a0f7c36ae120f743b912091de6ccde64cf25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-21977856-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理1人2万円の給付金を表明、一度引っ込めたバラマキの再登場、その是非とは【播摩卓士の経済コラム】
+      <a href=https://news.yahoo.co.jp/articles/290c8853b77b110068b060f062495df2124d26f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-90027345-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=844&ch=844&exp=10800&fmt=webp> アイナ・ジ・エンド、無理なダイエットで断食していた「めっちゃ病んでいた」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542216>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 給付財源は昨年度税収増で 森山氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542211>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/be6cfc0b744b54ec9fb246ee49219d4538d68399dc5f08853bf35361225609e3.jpg> イラン報復攻撃 事実上の交戦状態
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4ad99af88640bc48e0446d356ba7c6733d2ff85590c4ea213baccc70829c6f3d.jpg> 空き家問題 自治体や隣人も被害
+      <a href=https://news.yahoo.co.jp/pickup/6542207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5b92b7f2bf6f737fc819aadba7394589f0cfd59265985f97122aec4af93e7580.jpg> みずほ銀行 顧客情報を誤送信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cea0f947672fe74a3b7d102428c14f41a3fd55e4bce703b008f506eea46b7f66.jpg> 経営難で転園要請 憤る保護者
+      <a href=https://news.yahoo.co.jp/pickup/6542214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/b7d28eab37c1b7eb867dbecfb5a18c2b588ea65ec2e0e77af5668c62b6472a64.jpg> 派遣される地雷探知犬 ウでも活躍
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/03bddf4a8539740e54daea2feeba095d4fd709c7742cf8bc747280799edce829.jpg> フロッピーディスク 使用続く理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/04d6847bfe15c725be57c8a29b7b04337f381280d0475ba1e4203d29175337bd.jpg> IL入り千賀滉大は軽傷 監督明かす
+      <a href=https://news.yahoo.co.jp/pickup/6542203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/cb09d8d793faaa061fae80fec0dc0cf2dba57a32fab96c8f7f3335bcc96eae15.jpg> 青学大3連覇逃す 全日本大学野球
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 15:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/14 16:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
