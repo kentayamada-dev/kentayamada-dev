@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa8fbb9f3851044eac2a2e959809f4a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2586f07d93caac45dab32458bccfd12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/854099a64f54b9f667b9965998f07ae1787be0df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348533-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 大谷翔平が〝目覚め〟の２発　海外メディアも注目する「通算４００号、５００号に到達する日」
+      <a href=https://news.yahoo.co.jp/articles/e7795f919d5252d9d15517280ccb0d2f84378f4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183695-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何してんだよ…！ 大谷翔平、弾丸アーチで観客に“ハプニング”「おかしいだろ」177キロ爆速ライナー→“素手キャッチ”で取りに行く「無茶しやがって…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
+      <a href=https://news.yahoo.co.jp/articles/80e3eb68b573fd3dc6331611ef90d0a92339f0e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243069-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン 攻撃の応酬激化　イスラエルで14人死亡、390人けが　イランでは少なくとも406人が死亡か　AP通信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/081e032f1060816200b95419a0c73b7f7b2c5a24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=720&ch=720&exp=10800&fmt=webp> イラン首都に「大規模攻撃」　イスラエル軍、交戦は拡大の一途
+      <a href=https://news.yahoo.co.jp/articles/6f3a8e2dbd9ac0c1d6291b9aa7b06f51c6c54648>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000022-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 【宝塚記念】レジェンド絶妙の折り合い、石橋師といつか一緒に…「夢がかないました」　馬の縁と人の縁…メイショウタバルと武豊、さらなる高みへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2e119ac53439f5532f8253873739f13199dde23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000010-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=750&ch=750&exp=10800&fmt=webp> 二宮和也が向き合う独立、嵐、死生観は　新書「独断と偏見」取材会で語るありのままの思い
       </a>
     </td>
   </tr>
@@ -411,15 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1ad0ab4daece5cf755133b0e4de328c45bb7d90b00825bcd6fd66ca640f87245.jpg> 印北部でヘリ墜落 子含む7人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/550fd6a69e9800e4c427b69e0b46776767900875a41838cd58de642e0ca016e7.jpg> 印北部でヘリ墜落 子含む7人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2a382c8f22f1ffe38b3f3e7166889d39d7d31fc589c86bcabc7920d2e6944015.jpg> 「奇形」告げられ衝撃 娘にごめん
+      <a href=https://news.yahoo.co.jp/pickup/6542388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bf82007a2b4c36b90a8d3dfd2d1dfaef23170630a326f07a1765069901116c7a.jpg> 川崎遺体 娘の避難巡り悔やむ父
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a163225ae784b01a0ac62bdc55d3974a860e0ccfd3e94c5b60c28e044a1f8024.jpg> 闘病中の親友へ 森友哉が20秒沈黙
+      <a href=https://news.yahoo.co.jp/pickup/6542387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2724abfdb6b6af02e77c9b267cc1d3d2072e065df84200b27382eb75f8fece69.jpg> 朗希の今季構想外を示唆 監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0d61a3dc25392257cc5572324d4403cc6819eb97a80793f6f8c0bf47f6de3a34.jpg> ゆりやん 国連幹部と通訳なし会話
+      <a href=https://news.yahoo.co.jp/pickup/6542386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4dfbc01cd2c691fceb1c1226bcc79654dc06983efb73ffca1b0578b5753ffff6.jpg> 二宮和也 ジャニー氏に「謝って」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 05:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 06:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
