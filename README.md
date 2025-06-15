@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e09d478d745c59516df2deeb28b3cae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce4efb6493c3e77eb5934da332935c10.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ba556322e125b3dfca4afe223de0de5d505b33e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000377-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=588&ch=588&exp=10800&fmt=webp> 西武・佐藤龍世　中日に金銭トレード　広池球団本部長「年齢的にもまだまだ活躍できる」
+      <a href=https://news.yahoo.co.jp/articles/5a35a5a42704a63a749af54252ee9be8bee8d588>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00348491-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】寝坊降格の佐藤龍世を中日へトレード「この移籍をプラスに捉えてがんばります」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc4c9a4bc4f5bdb59f8a3521e2331dd999ccc351>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030228-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 猛暑と大雨が隣り合わせ　明日16日にかけて九州は再び大雨　西日本は35℃予想の所
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5f07135604867dc722e82980fc3fb0a8ebc26e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン“交戦状態” 世界最大規模のガス田も標的に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-ann-000-8-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン“交戦状態” 世界最大規模のガス田も標的に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/708064fa27fe3e8b778b368999251d0e6411cbf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000322-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=852&ch=852&exp=10800&fmt=webp> ワトソンさん　今年父となった大谷翔平に粋な父の日祝福　さり気ないひと言に大谷も「Thank you」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebed8e1eb6d3d1411f264d64b10e78a37f3b3a1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030227-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 早くも猛暑　17日は関東甲信で体温並みの暑さ　熱中症「危険」レベルに
+      <a href=https://news.yahoo.co.jp/articles/f02758216b4989d27f00f853a0656eab742e447f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00987399-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 MLB通算250号のメモリアルアーチ!ジャイアンツとの首位攻防戦でホームラン2発
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/814adac782d9d01e8678e1c1eeb7948496c714ac4075c7bddb1cc7b9b7205978.jpg> 18歳女性刺される 交際相手を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/79ba54e7dea02b2318a239bf09ca2028ed755c643f9c8c0cb91c9fe5c65a7d62.jpg> 求職苦戦 入社1カ月で退職を後悔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c8d84958c941891e46eb0f9cb93c670528c9fc56b0e4733f668f59cb9ce39e06.jpg> 一風堂に称賛 抱っこチェンジとは
+      <a href=https://news.yahoo.co.jp/pickup/6542347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c8863bab3b01efed34c4d954c87bb78a885ad397a586bb7c629eb0b474e5466b.jpg> シュノーケリング中溺れ 67歳死亡
       </a>
     </td>
   </tr>
@@ -444,6 +428,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/25c02391fddaa1fc91b3b25fa38f29cd5c53b448cd82b925e8fc316298619fa7.jpg> 校庭でよく見る「謎ワカメ」正体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee379af1b95c12ea69518ed9ba2a03627de0cbd709d7c78587b99172bf13b7e3.jpg> 「チー牛」作者 明かす誕生秘話
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/9268a6cce55d10b76b6fe1498416f03e6fc694afd805c16ac3a248a3fa7dc54f.jpg> がん闘う甲子園のスター 支える妻
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 18:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 19:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
