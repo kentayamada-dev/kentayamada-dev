@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48a32c63f132e6c6abe90e23814d57f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7039bc39556a78b2082ea478f9cdef9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/058785ce1a7bb8966bd35f0fedc31b8f072902bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548146-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> メジャー史上、大谷しかいない孤高の数値「25-10-5」　一人で2度目…伝えらえた異次元データ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21faabfd4c98cf436e3fe489297bf01a049b9700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd31034a32eab36830fbdfcf21f42bfd2344d9a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000154-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> なぜ中日は西武から佐藤龍世を金銭トレードで獲得したのか　開幕前に寝坊で３軍降格　過去にはコロナ禍の外出で速度違反
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adb11cf59810e1007e2fc0e78cbb97dad98893b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774406-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 24＆25号の裏で…大谷翔平にまさかの“事態”　本人照れ笑いも「ロバーツ監督も心配そう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000154-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> なぜ中日は西武から佐藤龍世を金銭トレードで獲得したのか　開幕前に寝坊で３軍降格　過去にはコロナ禍の外出で速度違反
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e89b59d4eaedbfaab81b2cf5b9b1339b162c297f6fec939529872fa6775790bc.jpg> 地震体験コーナーで1歳女児が骨折
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震体験コーナーで1歳女児が骨折
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e81a0a5512c0fc7476dd93a32725fdbd1f7e79fcf234c3141373b9caa81088d6.jpg> 大谷 試合後に長嶋茂雄さんに言及
+      <a href=https://news.yahoo.co.jp/pickup/6542356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/48e3d18389fa2b760b1a9a298f9b4c9c29e8d1700afd664766933726877a6ad9.jpg> 佐藤輝「HR確信」走り出さず単打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/48e3d18389fa2b760b1a9a298f9b4c9c29e8d1700afd664766933726877a6ad9.jpg> 佐藤輝「HR確信」走り出さず単打
+      <a href=https://news.yahoo.co.jp/pickup/6542366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0052523682f4526abbd9b1efae8a78e747442bd9035aeb6e9ecc3fff24c185dc.jpg> わずか5秒「べらぼう」に現役力士
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 21:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 21:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
