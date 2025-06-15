@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb3cc48d7b6b4e8cc6e112948c332905.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6d3f7163f931d7bbbac50a656208a50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14c34315a39f882732b763b9d45e5c9f38c421a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097981-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=960&ch=960&exp=10800&fmt=webp> １試合２発で大谷翔平だけが達成していた驚異の「25-10-５」に２度目の到達！ "唯一無二”の記録に米メディア脚光
+      <a href=https://news.yahoo.co.jp/articles/7284a8f44b0094da3c0dc967a86620c4e58bdf50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097982-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> “２発”の大谷翔平が「250－150」のメジャー最速記録達成！ A・ロッドの数字を「楽々と更新した」＆１番打者の71試合目での25本は歴代１位タイ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87facc91a6a701b53ff3e6426e2d2dec3bc3c3f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010001-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画解説】週明けは真夏の暑さ続く　東京も35℃予想　猛暑日地点も続出へ
+      <a href=https://news.yahoo.co.jp/articles/6e6232418a1fed4ebb606913609b62e2fe8086f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 16日(月)にかけて九州は大雨のおそれ　週の中ごろから厳しい暑さ続く　猛暑日になる所も　熱中症に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53b0d9676f21a0f3ad7e9230e5f96ee14ce1934b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-90027403-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=843&ch=843&exp=10800&fmt=webp> 小倉唯、脳震とうでイベント出演見合わせ「移動中に頭部を強打し…」
+      <a href=https://news.yahoo.co.jp/articles/b410c931b5148f3d21064ba4499beeb9b2508f0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-04587897-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 声優・小倉唯、脳震とうでイベント出演見合わせ「移動中に頭部を強打」【全文】
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/029449d743edae623a94002dbb0c6628f35107e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234267-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イラン報復攻撃、ミサイル着弾の瞬間とらえた映像　テルアビブの重要軍事施設付近
+      <a href=https://news.yahoo.co.jp/articles/3a8099bed3b289f7d4cb9511d6657cae19bd23af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-16644639-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イランとイスラエル双方が攻撃継続、死傷者多数　石油施設で火災も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a5e1462f8af1f989c7132aa4868603baab4334c2ee9d00106b80a92608691615.jpg> 今年一番の暑さになる所も 警戒
+      <a href=https://news.yahoo.co.jp/pickup/6542316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3a1446d533697fcb4a0a5031e54ac1f08f381e187b055524044659f70f8df718.jpg> イスラエル軍 イラン国防省も攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/df289b350f22398b423a240b6e5d20dc0f5e1795b6f87f8884a1d5996c18ddea.jpg> イラン報復73人死傷 安全神話崩れ
+      <a href=https://news.yahoo.co.jp/pickup/6542313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/f10d20e383afa88c5fa58df44ed802a4fec87c403e65bb51491b6023a7af9a6d.jpg> 米議員2人と家族死傷 容疑者逃走
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/745c003b2411933f709a95bc2fac6c733cacd31796f6f7e8dd122f5e1ff43ec1.jpg> 線路内に「撮り鉄」か 1100人影響
+      <a href=https://news.yahoo.co.jp/pickup/6542307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a9cf8749f366db4a4bd14d5e3ab603765a74ec56ece7d9d1e075c005d78bea67.jpg> 名店が閉店 ニュース見て事業承継
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0ac85ff8ea38a641c4d2433735e53be8af1c2360f4c850932ba74e5dae5a0ef.jpg> 小倉唯イベ出演見合わせ 脳震とう
+      <a href=https://news.yahoo.co.jp/pickup/6542315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/339073bb2b52f595f95eed3bc272569290078e90d6818797719cee91fc87315e.jpg> 始球式であわや死球 芸人頭下げる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/033a25e58736208371e199be45b0c30c1e58b4b2e4e0e90961d3c5b5313d95c1.jpg> 生物学イベに長蛇の列 漫画の影響
+      <a href=https://news.yahoo.co.jp/pickup/6542312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0ac85ff8ea38a641c4d2433735e53be8af1c2360f4c850932ba74e5dae5a0ef.jpg> 小倉唯イベ出演見合わせ 脳震とう
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 14:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 15:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
