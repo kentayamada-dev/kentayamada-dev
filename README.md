@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecdf275a92c73a905e69d5b848cff2b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8148e5f18d99b0425a1c1ab1ce1d2ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41cc28435b14710603f05164411adb5061d2c367>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000008-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=903&ch=903&exp=10800&fmt=webp> 「F35撃墜」「越境攻撃計画」イスラエルとイラン、過熱する情報戦
+      <a href=https://news.yahoo.co.jp/articles/b3e7bd48f52f5f3ff639c97ce2f23c5daf7e5dcb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イランに防空網を突破されたイスラエル「民間人標的、大きな代価払う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23cc091dd6f14c48c2fa139ac023467936072a17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 西～東日本で真夏日続出 猛暑日も　　西日本中心に急な雷雨に注意（16日7時更新）
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1410b91b3bc83d3f5958a38c6ccbfe6e8addd37b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183707-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 小泉農水大臣、コメの収穫量の調査 16日に見直し発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183707-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 小泉農水大臣、コメの収穫量の調査 16日に見直し発表
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dc3e452a6c7e17de0877f448b6aeaf8cc37f5187>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=300&ch=300&exp=10800&fmt=webp> ＵＳスチール買収した日本、トランプ関税に自信…韓国は打撃不可避
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/062450e4ca0752b3a28a80b5476090dd2b826c85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-02198666-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【山口天気 朝刊6/16】雨は降ったり止んだり 気温も高く 非常に蒸し暑い一日  雨＆熱中症に十分注意を
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2d849d733bc58521deafe79a3fdc06d44cf148b9f6e10d95d6dc9129c3c390e4.jpg> イラン再びミサイル発射 交戦激化
+      <a href=https://news.yahoo.co.jp/pickup/6542394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7ba4d278095928759660d2a4c7df4999588112e96ce7bbb202230b7231677c50.jpg> 都議選は自民横ばい国民下落 読売
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542391>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0f7123abafb30cbfa7d5e0ffc982011bfd83dae3eb054157fb83a42530df7e7e.jpg> ハメネイ師暗殺計画 米大統領反対
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d9d70dc47f37a1745d0e8bed07aa3fa0b92df537768b6ce5c3b2fd4962cf2758.jpg> USS黄金株 米政府保有「永続的」
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/55ad0c9f3b49e5692c5c8215bdd44ee07dc37aafe8d0aec0ff397eb3f9041883.jpg> 雄星 今季ワースト5失点で6敗目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542386>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4dfbc01cd2c691fceb1c1226bcc79654dc06983efb73ffca1b0578b5753ffff6.jpg> 二宮和也 ジャニー氏に「謝って」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 07:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 08:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
