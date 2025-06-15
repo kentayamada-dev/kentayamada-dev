@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/914e782b1c06e961ef46ff9486be7703.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7de682eb9dfb9068bd234c03597ed50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c2a721b4f4f9277c2011151b30f5bdd2077881f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】石破首相　日鉄のUSスチール買収でトランプ大統領らの決断に「敬意」　日米の経済関係「強化の象徴」と評価
+      <a href=https://news.yahoo.co.jp/articles/50ed112e9d1615030b983b502eb04b823c080db3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000121-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 首相、合意実効性へ努力　USスチール買収巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50a5388cc4c43f7a49ae67dd95111ba26a0d2302>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050121-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル、石油・ガス施設標的…イランの基幹産業攻撃し体制揺さぶり狙う
+      <a href=https://news.yahoo.co.jp/articles/ac09a980e0460293055a02f30122c5bfb60b14bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000113-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=669&ch=669&exp=10800&fmt=webp> イラン、再びミサイル発射　イスラエルへ、交戦激化
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e246b3a3be8db29e76d15f289142824a3b341833>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36152259-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> 【オリックス】森友哉「ずっと泣きそうやった」希少がん患う大阪桐蔭の親友にパワーもらいＶ打で涙
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36152259-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> 【オリックス】森友哉「ずっと泣きそうやった」希少がん患う大阪桐蔭の親友にパワーもらいＶ打で涙
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4106d7182c6b5142e0e86d14141361a84f8472e076fc3e2f92e32367a700012f.jpg> イスラエルとイラン 死者200人超
+      <a href=https://news.yahoo.co.jp/pickup/6542384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2d849d733bc58521deafe79a3fdc06d44cf148b9f6e10d95d6dc9129c3c390e4.jpg> イラン再びミサイル発射 交戦激化
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542355>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d26c1f8937d0915d4ce0a3ff2ce540fc1fc909adb22738dfc5006c566d78c199.jpg> 農相 現場感覚にコメ統計近づける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/9215ea5a9d3768692420bd7ea5889b645872b9bbfda3e3a656e63d9fe1563b02.jpg> 猛暑 17日は35℃以上の地点急増か
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a163225ae784b01a0ac62bdc55d3974a860e0ccfd3e94c5b60c28e044a1f8024.jpg> 闘病中の親友へ 森友哉が20秒沈黙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542374>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/845b4a2f46c850675ac6edc7f6f7cf2476f39ff197d00726fd7d5d49d52ab481.jpg> 武豊から名言飛び出す 場内大喝采
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 23:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
