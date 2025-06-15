@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/826aadad66189c5175082745dee7af5d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2855e0b51cecf01837ed3e9e4b6f2aea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e246b3a3be8db29e76d15f289142824a3b341833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36152259-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> 【オリックス】森友哉「ずっと泣きそうやった」希少がん患う大阪桐蔭の親友にパワーもらいＶ打で涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1002bd0005199fc1fa30a1f5b7d0b2c6018b0a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774553-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、史上最速「250HR＆150盗塁」の裏で衝撃事実　米記者が強調する“ハンデ”「それでも…」
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21faabfd4c98cf436e3fe489297bf01a049b9700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/280cb8a216710d6a99994361e6af3539d6e0022b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01681153-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西日本中心に雨　東海・関東・東北南部はにわか雨も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/03f5dd7c65bf270a0dbd03d7bc9bfb913276c1dad341ca8349350c8d2a813786.jpg> 攻撃受けたイラン核施設 被害状況
+      <a href=https://news.yahoo.co.jp/pickup/6542370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4106d7182c6b5142e0e86d14141361a84f8472e076fc3e2f92e32367a700012f.jpg> イスラエルとイラン 死者200人超
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a9cf8749f366db4a4bd14d5e3ab603765a74ec56ece7d9d1e075c005d78bea67.jpg> 名店が閉店 ニュース見て事業承継
+      <a href=https://news.yahoo.co.jp/pickup/6542375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d017028c219f15e9d2a5496cbf0e74107f73b74396ba632ebe13200f4656c476.jpg> ゴジラなど胸像届かず 破産に悲鳴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 22:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
