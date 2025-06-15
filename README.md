@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc302837f4d23aa77084033d799355d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3dd97988da00994a48beeb9148d32c20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37dbdb46cf4486c9c068113d0b1ca4ea78d2291d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之「細かいズレあった」５回途中３失点でゲーム作るも勝敗つかず
+      <a href=https://news.yahoo.co.jp/articles/2751b59b5959f95cf600b1b51e201ffbc06ab9de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之、4四死球はメジャー自己ワースト、5回もたず3失点「これほど制球に苦しむとは…」地元メディアも驚き
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 10:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 10:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
