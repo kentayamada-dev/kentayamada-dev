@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce4efb6493c3e77eb5934da332935c10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a8eb23e66ee1401f4f31a47fd55c1cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a35a5a42704a63a749af54252ee9be8bee8d588>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00348491-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】寝坊降格の佐藤龍世を中日へトレード「この移籍をプラスに捉えてがんばります」
+      <a href=https://news.yahoo.co.jp/articles/39ac8c0cdbedbb9fd9ccd8b4f8500b57823bb31d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36151572-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 【データ】大谷翔平、201号からの50本は自己最速135試合　500本に届く可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc4c9a4bc4f5bdb59f8a3521e2331dd999ccc351>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030228-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 猛暑と大雨が隣り合わせ　明日16日にかけて九州は再び大雨　西日本は35℃予想の所
+      <a href=https://news.yahoo.co.jp/articles/5c109a89c7e53be75b5b9cb1e127900e4abce6e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183685-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=576&ch=576&exp=10800&fmt=webp> “交戦状態”イスラエルとイラン 世界最大規模ガス田も標的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5f07135604867dc722e82980fc3fb0a8ebc26e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-ann-000-8-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン“交戦状態” 世界最大規模のガス田も標的に
+      <a href=https://news.yahoo.co.jp/articles/823430e94df6a73ca1f2a2af6637cabde4ad6672>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010002-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 暑さ厳しく 急な雨や雷雨にも注意　九州では激しい雨　大雨のおそれも（15日19時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f02758216b4989d27f00f853a0656eab742e447f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00987399-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 MLB通算250号のメモリアルアーチ!ジャイアンツとの首位攻防戦でホームラン2発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66a35ce93a67e31bff51f7b8bb56c6a4d31b2b36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000035-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 日鉄「黄金株」詳細が判明　社名変更・本社移転を阻止、米長官が投稿
+      <a href=https://news.yahoo.co.jp/articles/5f171a75987b822d4519049bcc50a9292cf2edf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010011-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 藤川阪神、悪夢の6連敗！及川、岩崎の回またぎも実らず　主力の＂怠慢走塁＂を岡田前監督が指摘「これは大きいよ」
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e9873b2fce8e90667184adf7246daebbfd2a459a4e643e11cae9babce23bd132.jpg> 石油施設が標的 世界経済に影響も
+      <a href=https://news.yahoo.co.jp/pickup/6542338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民の現金給付「反対」54% 共同
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02249448/title-1749952368603.jpeg?exp=10800> 17日から急激な暑さか 梅雨どこへ
+      <a href=https://news.yahoo.co.jp/pickup/6542339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/263eab0c14b6ef5f1b61884f48e71180df2209f6c614537aa3b599c1db096b87.jpg> 米 イランが米を攻撃なら全力対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3ad3062ef94a124068d44034ad03d34f1a1def341d45c251453d2e57f86a8847.jpg> 妻が突然連れ去られ 23年間待つ夫
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/25c02391fddaa1fc91b3b25fa38f29cd5c53b448cd82b925e8fc316298619fa7.jpg> 校庭でよく見る「謎ワカメ」正体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee379af1b95c12ea69518ed9ba2a03627de0cbd709d7c78587b99172bf13b7e3.jpg> 「チー牛」作者 明かす誕生秘話
+      <a href=https://news.yahoo.co.jp/pickup/6542352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee379af1b95c12ea69518ed9ba2a03627de0cbd709d7c78587b99172bf13b7e3.jpg> 「チー牛」イラスト作者の思い
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/26ab268709866837a792e27ff895302bff289c02cc51f22f9bf965a6252e3f34.jpg> 佐藤龍世金銭トレード 西武→中日
+      <a href=https://news.yahoo.co.jp/pickup/6542356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/48e3d18389fa2b760b1a9a298f9b4c9c29e8d1700afd664766933726877a6ad9.jpg> 佐藤輝「HR確信」走り出さず単打
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 19:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 19:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
