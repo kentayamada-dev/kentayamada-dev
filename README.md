@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7d7c63fce48fcd55a52a27d2727e02c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3d7d7feba266aa6e6b13800db3466f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07044c2ea820e5b102e04c6c7495485cfa1dd3c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773786-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之、トラウト被弾より強調した“反省点”　開始即…勝負を分けた「詰めの甘さ」
+      <a href=https://news.yahoo.co.jp/articles/30844f7fb1b1d4337c5af3b664f8b867aa094062>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=428&ch=428&exp=10800&fmt=webp> イスラエル軍、イラン国防省も攻撃　インフラ施設にも対象を拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9789867e19978d5d68c30f4787caae39c1ea290d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234263-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエル首相が「さらなる攻撃」を警告　これまでに分かっていること
+      <a href=https://news.yahoo.co.jp/articles/07044c2ea820e5b102e04c6c7495485cfa1dd3c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773786-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之、トラウト被弾より強調した“反省点”　開始即…勝負を分けた「詰めの甘さ」
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/75a44a3cdd1d2b496a14c2db7b02593bdfbcfe662d7b7985370d71581d97f86e.jpg> 札幌地下鉄に「専用席」50年 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542274>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/db48c0f2ceff6bea82b8d90ca436ebc7ebd159827aa5f3b8a62e35b8a08af674.jpg> 「濃い系緑茶」勢い 健康感要因か
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5322392511852684da61b2236923a884158a9dcc599f4aee8b83c58fbcf603e6.jpg> 世界柔道 阿部詩が5度目の優勝
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 09:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 09:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
