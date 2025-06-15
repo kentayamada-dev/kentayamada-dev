@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be539bc615fa39edbe57b1bc77ca18dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28e792d486cd52cb00f7c2aa70aa86db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23702c2d99c6d7303ee5ecaec02fd6fecc30a97a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=515&ch=515&exp=10800&fmt=webp> イランとイスラエル、紛争は拡大の一途　互いに攻撃姿勢崩さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adb11cf59810e1007e2fc0e78cbb97dad98893b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774406-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 24＆25号の裏で…大谷翔平にまさかの“事態”　本人照れ笑いも「ロバーツ監督も心配そう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad5f70cc2d7e346125bbcf57ac3ede1145878df3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00348503-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【阪神】佐藤輝明〝確信歩き〟で痛恨…打球はフェンス直撃　藤川監督「明後日から頑張っていきます」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774406-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 24＆25号の裏で…大谷翔平にまさかの“事態”　本人照れ笑いも「ロバーツ監督も心配そう」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c109a89c7e53be75b5b9cb1e127900e4abce6e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183685-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=576&ch=576&exp=10800&fmt=webp> “交戦状態”イスラエルとイラン 世界最大規模ガス田も標的
+      <a href=https://news.yahoo.co.jp/articles/7a80dfb8231f4370df88fbdbfd9640f03468a40a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097995-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平がメジャー史上最速「944」。“新たな快挙”に米記者は大興奮「今夜もまた歴史を塗り替えた」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/9268a6cce55d10b76b6fe1498416f03e6fc694afd805c16ac3a248a3fa7dc54f.jpg> がん闘う甲子園のスター 支える妻
+      <a href=https://news.yahoo.co.jp/pickup/6542360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e81a0a5512c0fc7476dd93a32725fdbd1f7e79fcf234c3141373b9caa81088d6.jpg> 大谷 試合後に長嶋茂雄さんに言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 20:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 20:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
