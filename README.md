@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa92a0ed464e2000476ce7fd0d081373.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51a061bf0fc983a6ce58527c548cd300.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/290a886cf52d8af2fb8b8593c6a9c3ab63cc6067>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06161010-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 父の日弾なるか、大谷翔平「１番ＤＨ」スタメン入り　２戦連発２６号で日米３００号王手に期待
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/081e032f1060816200b95419a0c73b7f7b2c5a24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000009-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=720&ch=720&exp=10800&fmt=webp> イラン首都に「大規模攻撃」　イスラエル軍、交戦は拡大の一途
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cc98eec5890e727f079206cfe320d36d63553dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151354-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がかつて長嶋茂雄さんから託された言葉「まずファンを大切にする気持ちが必要。それがスーパースターに近づいていくんじゃないかな」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=720&ch=720&exp=10800&fmt=webp> イラン首都に「大規模攻撃」　イスラエル軍、交戦は拡大の一途
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 04:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 05:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
