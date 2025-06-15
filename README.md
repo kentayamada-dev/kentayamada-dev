@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2855e0b51cecf01837ed3e9e4b6f2aea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/914e782b1c06e961ef46ff9486be7703.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c2a721b4f4f9277c2011151b30f5bdd2077881f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】石破首相　日鉄のUSスチール買収でトランプ大統領らの決断に「敬意」　日米の経済関係「強化の象徴」と評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50a5388cc4c43f7a49ae67dd95111ba26a0d2302>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050121-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル、石油・ガス施設標的…イランの基幹産業攻撃し体制揺さぶり狙う
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e246b3a3be8db29e76d15f289142824a3b341833>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21faabfd4c98cf436e3fe489297bf01a049b9700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/619774ef1a08ece656a16a7c896b976374cb0f21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183689-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 小泉大臣 コメ農家らと意見交換 作況指数「見直し」に言及
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/11bb7e6a1e3c25ed9ccece153218224aac4ba3eef3f0f763a50fc78c08025e39.jpg> 号砲が鳴った都議選 情勢は混とん
+      <a href=https://news.yahoo.co.jp/pickup/6542355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d26c1f8937d0915d4ce0a3ff2ce540fc1fc909adb22738dfc5006c566d78c199.jpg> 農相 現場感覚にコメ統計近づける
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3ad3062ef94a124068d44034ad03d34f1a1def341d45c251453d2e57f86a8847.jpg> 妻が突然連れ去られ 23年間待つ夫
+      <a href=https://news.yahoo.co.jp/pickup/6542367>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震体験コーナーで1歳女児が骨折
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542367>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震体験コーナーで1歳女児が骨折
+      <a href=https://news.yahoo.co.jp/pickup/6542379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2a382c8f22f1ffe38b3f3e7166889d39d7d31fc589c86bcabc7920d2e6944015.jpg> 「奇形」告げられ衝撃 娘にごめん
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/6ae9e53df1d2c44c7cfd141d5ba6dfc393fd4f4f7ee587469c7f86e4b36c378c.jpg> 車中生活45歳独身 見つけた居場所
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c9e69cb31a63d40acec9807a7233dd6c4f615a07f04bd70520d261cfecaadaea.jpg> 寝坊で3軍 中日なぜ佐藤龍世獲得
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 22:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 23:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
