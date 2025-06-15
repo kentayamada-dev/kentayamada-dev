@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a8eb23e66ee1401f4f31a47fd55c1cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be539bc615fa39edbe57b1bc77ca18dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39ac8c0cdbedbb9fd9ccd8b4f8500b57823bb31d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36151572-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 【データ】大谷翔平、201号からの50本は自己最速135試合　500本に届く可能性も
+      <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adb11cf59810e1007e2fc0e78cbb97dad98893b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774406-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 24＆25号の裏で…大谷翔平にまさかの“事態”　本人照れ笑いも「ロバーツ監督も心配そう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad5f70cc2d7e346125bbcf57ac3ede1145878df3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00348503-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【阪神】佐藤輝明〝確信歩き〟で痛恨…打球はフェンス直撃　藤川監督「明後日から頑張っていきます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/619774ef1a08ece656a16a7c896b976374cb0f21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183689-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 小泉大臣 コメ農家らと意見交換 作況指数「見直し」に言及
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c109a89c7e53be75b5b9cb1e127900e4abce6e2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183685-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=576&ch=576&exp=10800&fmt=webp> “交戦状態”イスラエルとイラン 世界最大規模ガス田も標的
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/823430e94df6a73ca1f2a2af6637cabde4ad6672>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010002-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 暑さ厳しく 急な雨や雷雨にも注意　九州では激しい雨　大雨のおそれも（15日19時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f171a75987b822d4519049bcc50a9292cf2edf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010011-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 藤川阪神、悪夢の6連敗！及川、岩崎の回またぎも実らず　主力の＂怠慢走塁＂を岡田前監督が指摘「これは大きいよ」
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ce80b9022449d46c602ebd83958658ad41694832874d48f0dbd1d2fc222d8d95.jpg> 長澤まさみが競馬場に ファン歓声
+      <a href=https://news.yahoo.co.jp/pickup/6542354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/af04eb6b1bb3e72bcc45c7bba4e8f7bb7f427589a94fffb5726c4728c59ff217.jpg> DragonAsh櫻井 狭心症で活動休止
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 19:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 20:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
