@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b66053b3522dff994174c58c95320abd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/048f22fdf5445686fd258d3f5ec66b52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/391787d1b736c423a200812e75b5e680177cb3ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1398&ch=1398&exp=10800&fmt=webp> 大谷翔平　長嶋さんの意志を受け継ぐ決意「情熱を現役の僕らが次の世代につないでいければ」
+      <a href=https://news.yahoo.co.jp/articles/1cc98eec5890e727f079206cfe320d36d63553dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151354-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がかつて長嶋茂雄さんから託された言葉「まずファンを大切にする気持ちが必要。それがスーパースターに近づいていくんじゃないかな」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 03:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 04:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
