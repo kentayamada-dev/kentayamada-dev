@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51a061bf0fc983a6ce58527c548cd300.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa8fbb9f3851044eac2a2e959809f4a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
+      <a href=https://news.yahoo.co.jp/articles/854099a64f54b9f667b9965998f07ae1787be0df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348533-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 大谷翔平が〝目覚め〟の２発　海外メディアも注目する「通算４００号、５００号に到達する日」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/290a886cf52d8af2fb8b8593c6a9c3ab63cc6067>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06161010-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 父の日弾なるか、大谷翔平「１番ＤＨ」スタメン入り　２戦連発２６号で日米３００号王手に期待
+      <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 05:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 05:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
