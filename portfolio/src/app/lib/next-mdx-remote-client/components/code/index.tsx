@@ -18,8 +18,7 @@ const Code: CodeType = async (props) => {
       },
       transformers: [
         {
-          // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
-          pre(node) {
+          pre(node): void {
             delete node.properties['style'];
             node.properties['tabindex'] = '-1';
           }

@@ -71,7 +71,7 @@ const CodeBlock: CodeBlockType = (props) => {
         </button>
       </div>
       <div
-        className='not-prose p-4'
+        className='not-prose overflow-scroll py-4'
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{
           __html: props.html
