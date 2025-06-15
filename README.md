@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af0c9729d59b453bda4a8d427a4a5e1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8792e728924faadbacb08e1688406277.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1dc6848521b9ba5e3a50539319d42149fddc2b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、47打席ぶり24号はシーズン自己最多更新の今季７本目先頭打者弾！ 大リーグ通算250号にも王手
+      <a href=https://news.yahoo.co.jp/articles/e0f825b74e4ec92d0c37f9e31f540391a1dfdf79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548040-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷24号でメジャー史上2位の「24/71」　ドジャース3位の記録も…47打席ぶりサク越えで復活
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7be38f6471fe7529366a638d7a24048a4ab79917>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030223-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から梅雨の晴れ間の危険な暑さ1週間以上続く　都心も記録的に早い猛暑日か
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb34fed10b8f301c137fe6f3cbeb9a2892277a0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030222-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今週は近畿で35℃以上の猛暑日も　まるで梅雨明け後の暑さ　熱中症急増のおそれ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/af451b03d2bf5aa0269e7852bf2d713d6859c9139b442bd7f7ac4369a551a307.jpg> 亡き娘の名刻む 熱中症予防手引
+      <a href=https://news.yahoo.co.jp/pickup/6542300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3ff4ea81dd83d46a19f3804fd7ea2f49ee74a1d5bd29eb552e5e41f29061f98e.jpg> 漏えい 兵庫県職員関与ほのめかす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1795f3bbfa32d392eedd3a6fa93cb1da1af8a046c950261fa962a4538deddf26.jpg> 条例無視の自販機 市は罰金科さず
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542289>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/8f8bd7ec30f4923e10010e10f3e1ef2ec84b2c36c0bde523b8d3f35c89eccd82.jpg> 襲われるラッコ 見守るしかなく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0c7d37f3032beceb7ff03a6e712ba17e87575e98f0e258d1f9dfed6b542a6d25.jpg> 「首にしない」と約束 社長の思い
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0d36b8567874fb9fed11e9d8e991c5a643b8e2fc8be82c29f40ec735a2c10b4f.jpg> 朗希離脱の長期化示唆 辛口意見も
+      <a href=https://news.yahoo.co.jp/pickup/6542299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3710b630992b08c503fe8fff27baf285d8d1fdb262ef65cf5836a8198ddd8910.jpg> 大谷が先頭打者ホームラン 熱狂
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 11:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 12:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
