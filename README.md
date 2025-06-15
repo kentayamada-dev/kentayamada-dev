@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68438770922b47b2125389378d0a84c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb3cc48d7b6b4e8cc6e112948c332905.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14c34315a39f882732b763b9d45e5c9f38c421a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097981-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=960&ch=960&exp=10800&fmt=webp> １試合２発で大谷翔平だけが達成していた驚異の「25-10-５」に２度目の到達！ "唯一無二”の記録に米メディア脚光
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/87facc91a6a701b53ff3e6426e2d2dec3bc3c3f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】週明けは真夏の暑さ続く　東京も35℃予想　猛暑日地点も続出へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010001-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画解説】週明けは真夏の暑さ続く　東京も35℃予想　猛暑日地点も続出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b4ae9f5fd6fe06d683b37ab895bc1deb323b8c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平、メジャー通算250号！6月不振説を払拭する47打席ぶりアーチを含め1試合2発に本拠地騒然！「ようやく本来の姿に戻ったようだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc7077645d2a3972ef1d70af8bceab4e8156f809>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000053-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ミャンマー男性刺し死なせた疑い　同国籍の自称技能実習生を逮捕
+      <a href=https://news.yahoo.co.jp/articles/53b0d9676f21a0f3ad7e9230e5f96ee14ce1934b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-90027403-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=843&ch=843&exp=10800&fmt=webp> 小倉唯、脳震とうでイベント出演見合わせ「移動中に頭部を強打し…」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1795f3bbfa32d392eedd3a6fa93cb1da1af8a046c950261fa962a4538deddf26.jpg> 違反自販機 市は28年罰金科さず
+      <a href=https://news.yahoo.co.jp/pickup/6542311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/8850eda2c5c4a3e664a878e576e6015ba2f8fec9c0639e969c300c684effc9ef.jpg> 車で6人追突 酒気帯び疑いで逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/033a25e58736208371e199be45b0c30c1e58b4b2e4e0e90961d3c5b5313d95c1.jpg> 生物学イベに長蛇の列 漫画の影響
+      <a href=https://news.yahoo.co.jp/pickup/6542312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0ac85ff8ea38a641c4d2433735e53be8af1c2360f4c850932ba74e5dae5a0ef.jpg> 小倉唯イベ出演見合わせ 脳震とう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3def8b4e5a41154a475dddf600877cb609b0dc73785db5e7ba6e7a2418469895.jpg> 天才子役・永尾柚乃 驚異の出演数
+      <a href=https://news.yahoo.co.jp/pickup/6542309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/033a25e58736208371e199be45b0c30c1e58b4b2e4e0e90961d3c5b5313d95c1.jpg> 生物学イベに長蛇の列 漫画の影響
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 14:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 14:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
