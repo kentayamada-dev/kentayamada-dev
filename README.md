@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6d3f7163f931d7bbbac50a656208a50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2143f8a98d3210e5bd185bfb3caaa4a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7284a8f44b0094da3c0dc967a86620c4e58bdf50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097982-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> “２発”の大谷翔平が「250－150」のメジャー最速記録達成！ A・ロッドの数字を「楽々と更新した」＆１番打者の71試合目での25本は歴代１位タイ
+      <a href=https://news.yahoo.co.jp/articles/859d8e069212f0cb651219de3cff0658ca7b96db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030226-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から猛暑日に警戒　17日～18日が暑さピーク　東京都心も35℃予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e6232418a1fed4ebb606913609b62e2fe8086f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 16日(月)にかけて九州は大雨のおそれ　週の中ごろから厳しい暑さ続く　猛暑日になる所も　熱中症に注意
+      <a href=https://news.yahoo.co.jp/articles/1ecb43ed780f8393274f84a6e25169918d0133ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774271-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「ご無沙汰だったね！」　笑顔で迎えたテオの“真意”、試合後に明かした思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b410c931b5148f3d21064ba4499beeb9b2508f0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-04587897-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=525&ch=525&exp=10800&fmt=webp> 声優・小倉唯、脳震とうでイベント出演見合わせ「移動中に頭部を強打」【全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29868a217aaab17e360e1173b4d51db8e59b742d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> インド北部でヘリコプター墜落、6人搭乗　現地に救助隊を派遣
+      <a href=https://news.yahoo.co.jp/articles/6cad2b48399fc3e25de85c98da7bd1147d5b7718>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151141-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、メジャー史上最速「９４４」で「２５０＆１５０」達成！Ａ・ロッド超え…打者に限れば「９２８」
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5fa9165edd803c228f6b7f8620da3ed154e6915b5f9afe1387b803f11360adeb.jpg> 大谷が25号 今季3度目の1試合2発
+      <a href=https://news.yahoo.co.jp/pickup/6542310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3cad7a4180d2a751ba7beb206ff0c7ca3fbd8dd76a5c4c18b22b1c73d1678ea9.jpg> しんちゃん始球式 捕手「ひろし」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 15:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 15:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
