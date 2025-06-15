@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8792e728924faadbacb08e1688406277.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f57a537dac1695a0bdf0dd81fbf511f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0f825b74e4ec92d0c37f9e31f540391a1dfdf79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548040-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷24号でメジャー史上2位の「24/71」　ドジャース3位の記録も…47打席ぶりサク越えで復活
+      <a href=https://news.yahoo.co.jp/articles/29868a217aaab17e360e1173b4d51db8e59b742d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> インド北部でヘリコプター墜落、6人搭乗　現地に救助隊を派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/029449d743edae623a94002dbb0c6628f35107e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234267-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イラン報復攻撃、ミサイル着弾の瞬間とらえた映像　テルアビブの重要軍事施設付近
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48234bf070765471f3239847874cfa722e497199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774152-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平24号の直後…仲良し同僚の変化に「泣ける」　共有した“生みの苦しみ”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ac78833b705d1d8e72019b4fdaa037d51fe4284>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000003-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【気象情報】関東甲信で15日夜に雷を伴った激しい雨か　24時間60ミリの予想雨量も…気象庁は西日本と東日本に土砂災害などに注意・警戒よびかけ《全国の雨雲シミュレーション》
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7be38f6471fe7529366a638d7a24048a4ab79917>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030223-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から梅雨の晴れ間の危険な暑さ1週間以上続く　都心も記録的に早い猛暑日か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed69c590946cd3baff87efd71f344d62b48734cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000021-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=813&ch=813&exp=10800&fmt=webp> エンゼルス・トラウト、完全復活の予兆か… 菅野智之から通算389号、「一野球ファンとして大好きなんだ」敵軍地元局もたたえる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bd10d300c27992392a3030afd858fa1e94e3bc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000009-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナとの次回交渉用意 トランプ氏と電話会談
       </a>
     </td>
   </tr>
@@ -410,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1795f3bbfa32d392eedd3a6fa93cb1da1af8a046c950261fa962a4538deddf26.jpg> 条例無視の自販機 市は罰金科さず
+      <a href=https://news.yahoo.co.jp/pickup/6542288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4c35efc4d1c133a9ef22d5be529d5c61a9a331542a9117578f15757e5b3b327e.jpg> 心疲れた子へ セラピードッグ活躍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1795f3bbfa32d392eedd3a6fa93cb1da1af8a046c950261fa962a4538deddf26.jpg> 違反自販機 市は28年罰金科さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542301>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 線路内に「撮り鉄」か 1100人影響
       </a>
     </td>
   </tr>
@@ -426,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4c35efc4d1c133a9ef22d5be529d5c61a9a331542a9117578f15757e5b3b327e.jpg> 心疲れた子へ セラピードッグ活躍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3296ca5502401bfd676f49f3f858aeb28b0a0a86dd2db5ca2a22519738790e04.jpg> はやり目「強い感染力」に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3710b630992b08c503fe8fff27baf285d8d1fdb262ef65cf5836a8198ddd8910.jpg> 大谷が先頭打者ホームラン 熱狂
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a35b326c235488ceb70a264f9ef04db94deb02bd43e5b0e4da3fe098ded23709.jpg> 大谷が先頭打者ホームラン 熱狂
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 12:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 12:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
