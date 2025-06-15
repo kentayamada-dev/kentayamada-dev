@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ddae9f40e9dd4d5c0a66d01f665dace.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ddc05ccb32065560945e4b1d4c92becc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5ecabc5c43f70d92bac5738795103c0f73b5b18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36151109-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1364&ch=1364&exp=10800&fmt=webp> 【広島】７点差追いつかれ、延長サヨナラ負け　延長10回、栗林良吏が田宮裕涼に被弾
+      <a href=https://news.yahoo.co.jp/articles/d2ebde73221c80af577e889835842337a0cb2783>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010020-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=1545&ch=1545&exp=10800&fmt=webp> 【阪神】悪夢の2試合連続サヨナラ負け 泥沼3年ぶり6連敗...湯浅12回1死一・三塁から黒川に悲劇打 11回無死一・二塁の好機に無得点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/708064fa27fe3e8b778b368999251d0e6411cbf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000322-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=852&ch=852&exp=10800&fmt=webp> ワトソンさん　今年父となった大谷翔平に粋な父の日祝福　さり気ないひと言に大谷も「Thank you」
+      <a href=https://news.yahoo.co.jp/articles/b9562c9e692d6ab17fc8e5610a5cb3acd9b75c58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183663-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=739&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> 大谷翔平のお待たせ11戦ぶりホームランに観客も「ワオ！」打った瞬間“お口あんぐり”→確信バンザイで本拠地スタジアムは大熱狂
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/57bab75d569a6b3f60fc0be41eb1c5ecebd147836d16201aaba3fd3f525d1988.jpg> 精米現場 備蓄米ならではの苦労
+      <a href=https://news.yahoo.co.jp/pickup/6542328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/aae6816d8443fb5b20bc24505603b03f0f0d067673a768f2ad3236cf2fd4edc5.jpg> 18歳女性刺される 交際相手を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/aae6816d8443fb5b20bc24505603b03f0f0d067673a768f2ad3236cf2fd4edc5.jpg> 18歳女性刺される 交際相手を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/79ba54e7dea02b2318a239bf09ca2028ed755c643f9c8c0cb91c9fe5c65a7d62.jpg> 求職苦戦 入社1カ月で退職を後悔
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/7ca8207ce0f63c9592bad348c86d4d0e9fddd50b61185875ab54683b306c1118.jpg> ミラクル日本ハム 7点差を大逆転
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/376f891e0fb48af497e1afbd21c395491d41864d6539567214b75694de5c96cd.jpg> ミラクル日本ハム 7点差を大逆転
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 17:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 17:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
