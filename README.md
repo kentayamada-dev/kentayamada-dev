@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3dd97988da00994a48beeb9148d32c20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66c6402eb589f3b3ffc1fa6e63361d1c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2751b59b5959f95cf600b1b51e201ffbc06ab9de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之、4四死球はメジャー自己ワースト、5回もたず3失点「これほど制球に苦しむとは…」地元メディアも驚き
+      <a href=https://news.yahoo.co.jp/articles/1bd10d300c27992392a3030afd858fa1e94e3bc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000009-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナとの次回交渉用意 トランプ氏と電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/269d82a77953ce0633672d9a2627eff39f613a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000019-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之とエンゼルス・トラウト、レジェンド対決は見応え十分… 初回２ランにオリオールズ地元局「完全に破壊されました」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a1a9051916caaccf3584ceafe2f2e585291ba021>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 大谷翔平、ジャイアンツとの首位攻防戦に「1番・DH」…エドマン外れてキム・ヘソンが二塁に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30844f7fb1b1d4337c5af3b664f8b867aa094062>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=455&ch=455&exp=10800&fmt=webp> イスラエル軍、イラン国防省も攻撃　インフラ施設にも対象を拡大
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d83da3e772d2f6ed5e4c6db9bc815c8fa972c63419caef970adc23afc814b441.jpg> 米露首脳 イラン情勢巡り電話会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542284>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/20c7d65fe927e802952c4f7e590d41f2a1d349888d3414236a3f702ae7be6aa0.jpg> USS買収 巨額投資や統治に懸念
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0734bcc8c9b4d8799dcdbb63e9e6d329f577acb9391f142079b9165e7456e6c.jpg> イスラエル イランのガス田を攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee91ec5d519af56f7338e15ad91b6cce89965fa512791660e1dac16736686dea.jpg> 写真送った後 急きょ搭乗の便墜落
+      <a href=https://news.yahoo.co.jp/pickup/6542290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/747d211be487d1eb0d410b837c65b3c54c864776419ac817e72ce9a363349176.jpg> サリンと原発 元自衛官語るリアル
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/75a44a3cdd1d2b496a14c2db7b02593bdfbcfe662d7b7985370d71581d97f86e.jpg> 札幌地下鉄に「専用席」50年 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0c7d37f3032beceb7ff03a6e712ba17e87575e98f0e258d1f9dfed6b542a6d25.jpg> 「首にしない」と約束 社長の思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/db48c0f2ceff6bea82b8d90ca436ebc7ebd159827aa5f3b8a62e35b8a08af674.jpg> 「濃い系緑茶」勢い 健康感要因か
+      <a href=https://news.yahoo.co.jp/pickup/6542291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3296ca5502401bfd676f49f3f858aeb28b0a0a86dd2db5ca2a22519738790e04.jpg> はやり目「強い感染力」に注意
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 10:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 11:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
