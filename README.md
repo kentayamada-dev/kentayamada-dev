@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64da94619cde6776c8f61c5b6d3801c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e09d478d745c59516df2deeb28b3cae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1a900460c7fdaa7a93072f7277921908179c68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010050-nishispo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1994&ch=1994&exp=10800&fmt=webp> 「さびしい気持ちでいっぱい…」西武・佐藤龍世が中日へ金銭トレード　開幕前に3軍降格、今季は1軍出場なし
+      <a href=https://news.yahoo.co.jp/articles/3ba556322e125b3dfca4afe223de0de5d505b33e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000377-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=588&ch=588&exp=10800&fmt=webp> 西武・佐藤龍世　中日に金銭トレード　広池球団本部長「年齢的にもまだまだ活躍できる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/546c5427d77477ebf235bed5927722fa5d74a107>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00987396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルによるイランへの軍事作戦“数週間に及ぶ”　ハメネイ師も「標的となり得る」アメリカメディア報道
+      <a href=https://news.yahoo.co.jp/articles/c5f07135604867dc722e82980fc3fb0a8ebc26e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン“交戦状態” 世界最大規模のガス田も標的に
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/66a35ce93a67e31bff51f7b8bb56c6a4d31b2b36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000035-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 日鉄「黄金株」詳細が判明　社名変更・本社移転を阻止、米長官が投稿
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000035-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 日鉄「黄金株」詳細が判明　社名変更・本社移転を阻止、米長官が投稿
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/aae6816d8443fb5b20bc24505603b03f0f0d067673a768f2ad3236cf2fd4edc5.jpg> 18歳女性刺される 交際相手を逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/814adac782d9d01e8678e1c1eeb7948496c714ac4075c7bddb1cc7b9b7205978.jpg> 18歳女性刺される 交際相手を逮捕
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/25c02391fddaa1fc91b3b25fa38f29cd5c53b448cd82b925e8fc316298619fa7.jpg> 校庭でよく見る「謎ワカメ」正体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542342>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/26ab268709866837a792e27ff895302bff289c02cc51f22f9bf965a6252e3f34.jpg> 佐藤龍世金銭トレード 西武→中日
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/376f891e0fb48af497e1afbd21c395491d41864d6539567214b75694de5c96cd.jpg> ミラクル日本ハム 7点差を大逆転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4962cc17838800651d1733a31d4379d8369563f9ef855c78eecbb864fcf6ab7c.jpg> 何度も騒動 石田純一なぜ復活続く
+      <a href=https://news.yahoo.co.jp/pickup/6542346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ce80b9022449d46c602ebd83958658ad41694832874d48f0dbd1d2fc222d8d95.jpg> 長澤まさみが競馬場に ファン歓声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 18:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 18:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
