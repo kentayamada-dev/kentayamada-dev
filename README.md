@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa8fbb9f3851044eac2a2e959809f4a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54e8b32be39b6d421c79538de6d20c74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/854099a64f54b9f667b9965998f07ae1787be0df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348533-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 大谷翔平が〝目覚め〟の２発　海外メディアも注目する「通算４００号、５００号に到達する日」
+      <a href=https://news.yahoo.co.jp/articles/6e1d433756588b942c8e7e77e428fa5128535a72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-08733766-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル首相「イランの核計画はかなり後退した」攻撃の応酬続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9427f1118d98659c369b38dac38ef2293ff077f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183697-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「あれでホームラン行っちゃうの？」大谷翔平、軽く当てて“まさかの光景”「バケモノか？」 高速で飛んでいく“低弾道ライナー”にファン騒然
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/081e032f1060816200b95419a0c73b7f7b2c5a24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=720&ch=720&exp=10800&fmt=webp> イラン首都に「大規模攻撃」　イスラエル軍、交戦は拡大の一途
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 05:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 06:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
