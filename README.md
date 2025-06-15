@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e496dc19e556e91692d2180884e2119.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e84ac4f41f5a9ab098ed706e7374fd52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2c4c23bd4b66df0b5d6bf2b996b0008282692e7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183696-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 投手が飛んだ…！ 大谷翔平、低弾道アーチで“異変”「そりゃビビる」 被弾“ドン引き”リアクションが話題に「笑うしかない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183696-abema-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 投手が飛んだ…！ 大谷翔平、低弾道アーチで“異変”「そりゃビビる」 被弾“ドン引き”リアクションが話題に「笑うしかない」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d26c1f8937d0915d4ce0a3ff2ce540fc1fc909adb22738dfc5006c566d78c199.jpg> 農相 現場感覚にコメ統計近づける
+      <a href=https://news.yahoo.co.jp/pickup/6542382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d9d70dc47f37a1745d0e8bed07aa3fa0b92df537768b6ce5c3b2fd4962cf2758.jpg> USS黄金株 米政府保有「永続的」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c7fabca32128d4ed89e779bc08f03435585635769ab821e300f45e8098fe279f.jpg> マスク氏 イランで自社の通信提供
+      <a href=https://news.yahoo.co.jp/pickup/6542365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/da67a1f3912f186639f6464fc8e8952f621ab04b6c2ebdb1c8054d5aabd5f7f5.jpg> 米民主議員ら銃撃 男は警官ふん装
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 23:51:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 00:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
