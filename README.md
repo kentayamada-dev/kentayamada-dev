@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f57a537dac1695a0bdf0dd81fbf511f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/854755da6972461ea7149b9352ee8142.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60b92eba3e01bdc822a6c42e9ba339d5ae35458c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151088-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=255&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の２４号を手にしたのはファン歴２５年の“大ベテラン”　６７歳でホームランボール初キャッチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29868a217aaab17e360e1173b4d51db8e59b742d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> インド北部でヘリコプター墜落、6人搭乗　現地に救助隊を派遣
       </a>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/029449d743edae623a94002dbb0c6628f35107e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234267-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イラン報復攻撃、ミサイル着弾の瞬間とらえた映像　テルアビブの重要軍事施設付近
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48234bf070765471f3239847874cfa722e497199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774152-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平24号の直後…仲良し同僚の変化に「泣ける」　共有した“生みの苦しみ”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ac78833b705d1d8e72019b4fdaa037d51fe4284>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000003-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 【気象情報】関東甲信で15日夜に雷を伴った激しい雨か　24時間60ミリの予想雨量も…気象庁は西日本と東日本に土砂災害などに注意・警戒よびかけ《全国の雨雲シミュレーション》
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234267-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イラン報復攻撃、ミサイル着弾の瞬間とらえた映像　テルアビブの重要軍事施設付近
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aac96a9d6680bbb71a24697e6935ad0ac47f0318>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000019-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 阿部詩が金メダル　柔道世界選手権で女王返り咲き　兄・一二三も称賛「パーフェクト」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d83da3e772d2f6ed5e4c6db9bc815c8fa972c63419caef970adc23afc814b441.jpg> 米露首脳 イラン情勢巡り電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6542302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/df289b350f22398b423a240b6e5d20dc0f5e1795b6f87f8884a1d5996c18ddea.jpg> イラン報復73人死傷 安全神話崩れ
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542300>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3ff4ea81dd83d46a19f3804fd7ea2f49ee74a1d5bd29eb552e5e41f29061f98e.jpg> 漏えい 兵庫県職員関与ほのめかす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4c35efc4d1c133a9ef22d5be529d5c61a9a331542a9117578f15757e5b3b327e.jpg> 心疲れた子へ セラピードッグ活躍
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3def8b4e5a41154a475dddf600877cb609b0dc73785db5e7ba6e7a2418469895.jpg> 天才子役・永尾柚乃 驚異の出演数
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 12:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 13:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
