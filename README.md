@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7039bc39556a78b2082ea478f9cdef9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/826aadad66189c5175082745dee7af5d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/058785ce1a7bb8966bd35f0fedc31b8f072902bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548146-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> メジャー史上、大谷しかいない孤高の数値「25-10-5」　一人で2度目…伝えらえた異次元データ
+      <a href=https://news.yahoo.co.jp/articles/b1002bd0005199fc1fa30a1f5b7d0b2c6018b0a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774553-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、史上最速「250HR＆150盗塁」の裏で衝撃事実　米記者が強調する“ハンデ”「それでも…」
       </a>
     </td>
   </tr>
@@ -366,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21faabfd4c98cf436e3fe489297bf01a049b9700>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/280cb8a216710d6a99994361e6af3539d6e0022b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01681153-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西日本中心に雨　東海・関東・東北南部はにわか雨も
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd31034a32eab36830fbdfcf21f42bfd2344d9a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000154-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> なぜ中日は西武から佐藤龍世を金銭トレードで獲得したのか　開幕前に寝坊で３軍降格　過去にはコロナ禍の外出で速度違反
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/94e7c9a9cbd1ce2e298e5b32461b5a2faccefe9a3c0e288d83dfdb849bb2ab17.jpg> 自民の現金給付「反対」54% 共同
+      <a href=https://news.yahoo.co.jp/pickup/6542349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/11bb7e6a1e3c25ed9ccece153218224aac4ba3eef3f0f763a50fc78c08025e39.jpg> 号砲が鳴った都議選 情勢は混とん
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/11bb7e6a1e3c25ed9ccece153218224aac4ba3eef3f0f763a50fc78c08025e39.jpg> 号砲が鳴った都議選 情勢は混とん
+      <a href=https://news.yahoo.co.jp/pickup/6542372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/9215ea5a9d3768692420bd7ea5889b645872b9bbfda3e3a656e63d9fe1563b02.jpg> 猛暑 17日は35℃以上の地点急増か
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/48e3d18389fa2b760b1a9a298f9b4c9c29e8d1700afd664766933726877a6ad9.jpg> 佐藤輝「HR確信」走り出さず単打
+      <a href=https://news.yahoo.co.jp/pickup/6542374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/845b4a2f46c850675ac6edc7f6f7cf2476f39ff197d00726fd7d5d49d52ab481.jpg> 武豊から名言飛び出す 場内大喝采
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0052523682f4526abbd9b1efae8a78e747442bd9035aeb6e9ecc3fff24c185dc.jpg> わずか5秒「べらぼう」に現役力士
+      <a href=https://news.yahoo.co.jp/pickup/6542368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c9e69cb31a63d40acec9807a7233dd6c4f615a07f04bd70520d261cfecaadaea.jpg> 寝坊で3軍 中日なぜ佐藤龍世獲得
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 21:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 22:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
