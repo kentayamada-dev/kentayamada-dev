@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8148e5f18d99b0425a1c1ab1ce1d2ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d205dda4928205ab8eb267821ace51a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3e7bd48f52f5f3ff639c97ce2f23c5daf7e5dcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イランに防空網を突破されたイスラエル「民間人標的、大きな代価払う」
+      <a href=https://news.yahoo.co.jp/articles/f6ca26d3d167fe577f4a97d8c723429630c04bdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン大統領「報復厳しいものに」　イスラエルの攻撃継続をけん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23cc091dd6f14c48c2fa139ac023467936072a17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】16日の天気 - 西～東日本で真夏日続出 猛暑日も　　西日本中心に急な雷雨に注意（16日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/01f3ff16db31e6bfad56d21f80a2825cc5af585c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000003-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 日本製鉄のUSスチール買収承認、トランプ政権「黄金株」で拒否権、工場閉鎖など介入も［新聞ウォッチ］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89dae312edfb75c50cb1f109d643ec97a7627812>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000182-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=688&ch=688&exp=10800&fmt=webp> 阪神・岡田彰布オーナー付顧問「ちっちゃいときやってお前、バット放って走るんやで、一塁へ」　フェンス直撃単打の佐藤輝明へテレビ解説後も苦言
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1410b91b3bc83d3f5958a38c6ccbfe6e8addd37b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183707-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 小泉農水大臣、コメの収穫量の調査 16日に見直し発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc3e452a6c7e17de0877f448b6aeaf8cc37f5187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=300&ch=300&exp=10800&fmt=webp> ＵＳスチール買収した日本、トランプ関税に自信…韓国は打撃不可避
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542390>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2be87fad5f9fe57832c7d428c4f98b20db9a029b152c3d8f9652473640f8b9bf.jpg> 広い範囲で30℃以上か 熱中症注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/20788e610c7c77f8ed896dada7fbbdf54d1a0ef9a0b0f45d55aabf17401f0726.jpg> 仏ルノーCEO 7月15日付で退任
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/55ad0c9f3b49e5692c5c8215bdd44ee07dc37aafe8d0aec0ff397eb3f9041883.jpg> 雄星 今季ワースト5失点で6敗目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542386>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4dfbc01cd2c691fceb1c1226bcc79654dc06983efb73ffca1b0578b5753ffff6.jpg> 二宮和也 ジャニー氏に「謝って」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 08:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 08:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
