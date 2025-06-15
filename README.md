@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ddc05ccb32065560945e4b1d4c92becc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64da94619cde6776c8f61c5b6d3801c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2ebde73221c80af577e889835842337a0cb2783>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010020-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=1545&ch=1545&exp=10800&fmt=webp> 【阪神】悪夢の2試合連続サヨナラ負け 泥沼3年ぶり6連敗...湯浅12回1死一・三塁から黒川に悲劇打 11回無死一・二塁の好機に無得点
+      <a href=https://news.yahoo.co.jp/articles/3a1a900460c7fdaa7a93072f7277921908179c68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010050-nishispo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1994&ch=1994&exp=10800&fmt=webp> 「さびしい気持ちでいっぱい…」西武・佐藤龍世が中日へ金銭トレード　開幕前に3軍降格、今季は1軍出場なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9562c9e692d6ab17fc8e5610a5cb3acd9b75c58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183663-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=739&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> 大谷翔平のお待たせ11戦ぶりホームランに観客も「ワオ！」打った瞬間“お口あんぐり”→確信バンザイで本拠地スタジアムは大熱狂
+      <a href=https://news.yahoo.co.jp/articles/546c5427d77477ebf235bed5927722fa5d74a107>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00987396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルによるイランへの軍事作戦“数週間に及ぶ”　ハメネイ師も「標的となり得る」アメリカメディア報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37294c2995d925d5ef31105f41c563f12e713e81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183674-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=980&ch=980&exp=10800&fmt=webp> イランVSイスラエル、全面戦争の可能性は？「モサドの工作は準備万端だった」「悪いのはトランプ氏」舛添要一氏が解説
+      <a href=https://news.yahoo.co.jp/articles/708064fa27fe3e8b778b368999251d0e6411cbf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000322-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=852&ch=852&exp=10800&fmt=webp> ワトソンさん　今年父となった大谷翔平に粋な父の日祝福　さり気ないひと言に大谷も「Thank you」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ebed8e1eb6d3d1411f264d64b10e78a37f3b3a1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030227-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 早くも猛暑　17日は関東甲信で体温並みの暑さ　熱中症「危険」レベルに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030227-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 早くも猛暑　17日は関東甲信で体温並みの暑さ　熱中症「危険」レベルに
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/cb425350ed7d73fb61ae2d1d192725e30d529aa6591fab372583c134f7ef7d10.jpg> 米首都で軍事パレード 各地で抗議
+      <a href=https://news.yahoo.co.jp/pickup/6542336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e9873b2fce8e90667184adf7246daebbfd2a459a4e643e11cae9babce23bd132.jpg> 石油施設が標的 世界経済に影響も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ddb713a2422b7f6d396c8ce63ace7ce8681ece8b7152cad1ee104452dc739226.jpg> 印の墜落 犠牲者の身元特定が難航
+      <a href=https://news.yahoo.co.jp/pickup/6542327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02249448/title-1749952368603.jpeg?exp=10800> 17日から急激な暑さか 梅雨どこへ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a9cf8749f366db4a4bd14d5e3ab603765a74ec56ece7d9d1e075c005d78bea67.jpg> 名店が閉店 ニュース見て事業承継
+      <a href=https://news.yahoo.co.jp/pickup/6542323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c8d84958c941891e46eb0f9cb93c670528c9fc56b0e4733f668f59cb9ce39e06.jpg> 一風堂に称賛 抱っこチェンジとは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c8d84958c941891e46eb0f9cb93c670528c9fc56b0e4733f668f59cb9ce39e06.jpg> 一風堂に称賛 抱っこチェンジとは
+      <a href=https://news.yahoo.co.jp/pickup/6542342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/26ab268709866837a792e27ff895302bff289c02cc51f22f9bf965a6252e3f34.jpg> 佐藤龍世金銭トレード 西武→中日
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/339073bb2b52f595f95eed3bc272569290078e90d6818797719cee91fc87315e.jpg> 始球式であわや死球 芸人頭下げる
+      <a href=https://news.yahoo.co.jp/pickup/6542334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4962cc17838800651d1733a31d4379d8369563f9ef855c78eecbb864fcf6ab7c.jpg> 何度も騒動 石田純一なぜ復活続く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 17:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 18:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
