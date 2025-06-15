@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2143f8a98d3210e5bd185bfb3caaa4a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abc71c1053acd33d1bcc47b478de8dcb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52263260187754146f30688402f379ca7621fdf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000292-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 【宝塚記念】武豊メイショウタバルがV！3連単は7番人気→1番人気→10番人気で12万7550円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22f46670fa71b71e6f613799a241250660beeb0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000042-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イランとイスラエル、「交戦状態」に　石油施設標的で世界経済に影響も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3602fda7bb9f3386c165bb4df88ccaac3208eefa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548062-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷敬遠の敵軍へ「やったらいかん」の声　理由は控える“鬼”の存在…「また打たれた」見慣れた光景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/859d8e069212f0cb651219de3cff0658ca7b96db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030226-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から猛暑日に警戒　17日～18日が暑さピーク　東京都心も35℃予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ecb43ed780f8393274f84a6e25169918d0133ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774271-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「ご無沙汰だったね！」　笑顔で迎えたテオの“真意”、試合後に明かした思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cad2b48399fc3e25de85c98da7bd1147d5b7718>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151141-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、メジャー史上最速「９４４」で「２５０＆１５０」達成！Ａ・ロッド超え…打者に限れば「９２８」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a8099bed3b289f7d4cb9511d6657cae19bd23af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-16644639-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イランとイスラエル双方が攻撃継続、死傷者多数　石油施設で火災も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030226-tenki-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から猛暑に警戒　17日～18日が暑さピーク　東京都心も35℃予想
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/8850eda2c5c4a3e664a878e576e6015ba2f8fec9c0639e969c300c684effc9ef.jpg> 車で6人追突 酒気帯び疑いで逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/03f5ac3f49871f35020c54b34e40d9fc5699325d7dc8c203dfff749b76740a57.jpg> 私が死んだら 寄付託された教え子
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3cad7a4180d2a751ba7beb206ff0c7ca3fbd8dd76a5c4c18b22b1c73d1678ea9.jpg> しんちゃん始球式 捕手「ひろし」
+      <a href=https://news.yahoo.co.jp/pickup/6542329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/7ad7461cf0070fc23328aa64711dcfe49e0b7a80022bce62cb86126c1a6b3df7.jpg> 宝塚記念 メイショウタバルV
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 15:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 16:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
