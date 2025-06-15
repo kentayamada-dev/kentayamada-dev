@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66c6402eb589f3b3ffc1fa6e63361d1c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af0c9729d59b453bda4a8d427a4a5e1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1dc6848521b9ba5e3a50539319d42149fddc2b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、47打席ぶり24号はシーズン自己最多更新の今季７本目先頭打者弾！ 大リーグ通算250号にも王手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed69c590946cd3baff87efd71f344d62b48734cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000021-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=813&ch=813&exp=10800&fmt=webp> エンゼルス・トラウト、完全復活の予兆か… 菅野智之から通算389号、「一野球ファンとして大好きなんだ」敵軍地元局もたたえる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1bd10d300c27992392a3030afd858fa1e94e3bc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000009-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナとの次回交渉用意 トランプ氏と電話会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/269d82a77953ce0633672d9a2627eff39f613a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000019-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之とエンゼルス・トラウト、レジェンド対決は見応え十分… 初回２ランにオリオールズ地元局「完全に破壊されました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1a9051916caaccf3584ceafe2f2e585291ba021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 大谷翔平、ジャイアンツとの首位攻防戦に「1番・DH」…エドマン外れてキム・ヘソンが二塁に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000009-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> プーチン氏、ウクライナとの次回交渉用意 トランプ氏と電話会談
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/20c7d65fe927e802952c4f7e590d41f2a1d349888d3414236a3f702ae7be6aa0.jpg> USS買収 巨額投資や統治に懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/747d211be487d1eb0d410b837c65b3c54c864776419ac817e72ce9a363349176.jpg> サリンと原発 元自衛官語るリアル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/790ae12fc8ebcb745bd75bce28f279a28ee77bc38b72b959e0e332997e1222aa.jpg> ネパール館開館へ 支払いほぼ完了
+      <a href=https://news.yahoo.co.jp/pickup/6542292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/af451b03d2bf5aa0269e7852bf2d713d6859c9139b442bd7f7ac4369a551a307.jpg> 亡き娘の名刻む 熱中症予防手引
       </a>
     </td>
   </tr>
@@ -442,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4c35efc4d1c133a9ef22d5be529d5c61a9a331542a9117578f15757e5b3b327e.jpg> 心疲れた子へ セラピードッグ活躍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542291>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3296ca5502401bfd676f49f3f858aeb28b0a0a86dd2db5ca2a22519738790e04.jpg> はやり目「強い感染力」に注意
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4d3754b2ec90a7ca3df09405d295dff101830727fc9765064534c450850dcc50.jpg> 由伸と「キャッチボール」芸人涙
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 11:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 11:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
