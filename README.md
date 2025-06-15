@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7de682eb9dfb9068bd234c03597ed50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e496dc19e556e91692d2180884e2119.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c4c23bd4b66df0b5d6bf2b996b0008282692e7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183696-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 投手が飛んだ…！ 大谷翔平、低弾道アーチで“異変”「そりゃビビる」 被弾“ドン引き”リアクションが話題に「笑うしかない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50ed112e9d1615030b983b502eb04b823c080db3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000121-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 首相、合意実効性へ努力　USスチール買収巡り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000121-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 首相、合意実効性へ努力　USスチール買収巡り
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac09a980e0460293055a02f30122c5bfb60b14bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000113-kyodonews-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=669&ch=669&exp=10800&fmt=webp> イラン、再びミサイル発射　イスラエルへ、交戦激化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000113-kyodonews-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=669&ch=669&exp=10800&fmt=webp> イラン、再びミサイル発射　イスラエルへ、交戦激化
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e246b3a3be8db29e76d15f289142824a3b341833>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-36152259-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> 【オリックス】森友哉「ずっと泣きそうやった」希少がん患う大阪桐蔭の親友にパワーもらいＶ打で涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1002bd0005199fc1fa30a1f5b7d0b2c6018b0a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01774553-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、史上最速「250HR＆150盗塁」の裏で衝撃事実　米記者が強調する“ハンデ”「それでも…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542367>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震体験コーナーで1歳女児が骨折
+      <a href=https://news.yahoo.co.jp/pickup/6542381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c7fabca32128d4ed89e779bc08f03435585635769ab821e300f45e8098fe279f.jpg> マスク氏 イランで自社の通信提供
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1ad0ab4daece5cf755133b0e4de328c45bb7d90b00825bcd6fd66ca640f87245.jpg> 印北部でヘリ墜落 子含む7人死亡
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542379>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2a382c8f22f1ffe38b3f3e7166889d39d7d31fc589c86bcabc7920d2e6944015.jpg> 「奇形」告げられ衝撃 娘にごめん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/6ae9e53df1d2c44c7cfd141d5ba6dfc393fd4f4f7ee587469c7f86e4b36c378c.jpg> 車中生活45歳独身 見つけた居場所
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/845b4a2f46c850675ac6edc7f6f7cf2476f39ff197d00726fd7d5d49d52ab481.jpg> 武豊から名言飛び出す 場内大喝采
+      <a href=https://news.yahoo.co.jp/pickup/6542385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0d61a3dc25392257cc5572324d4403cc6819eb97a80793f6f8c0bf47f6de3a34.jpg> ゆりやん 国連幹部と通訳なし会話
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 23:51:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
