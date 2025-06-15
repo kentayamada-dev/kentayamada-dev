@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5e87a8306b66fcb9532d6f137e38198.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7d7c63fce48fcd55a52a27d2727e02c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07044c2ea820e5b102e04c6c7495485cfa1dd3c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773786-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之、トラウト被弾より強調した“反省点”　開始即…勝負を分けた「詰めの甘さ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9789867e19978d5d68c30f4787caae39c1ea290d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-35234263-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエル首相が「さらなる攻撃」を警告　これまでに分かっていること
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/233e565680878e6c956a524f6c68ac235657b580>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cbcda859a352475e0aacb90aa189faa241cda3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】15日の天気 - 関東・九州 午後も局地的に激しい雷雨　気温上がり 不快な蒸し暑さに（15日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a1e6dc16f1250fdd2235924794dbddfe4a8ff28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-07242969-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 核開発めぐる米とイランの協議中止、イスラエルとイラン双方の攻撃続く
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/57ccaf754277186f96c61cc5aca29f1529f32eaa8a6a9a15e721ff7041af5aa6.jpg> 米首都で34年ぶりの軍事パレード
+      <a href=https://news.yahoo.co.jp/pickup/6542281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0734bcc8c9b4d8799dcdbb63e9e6d329f577acb9391f142079b9165e7456e6c.jpg> イスラエル イランのガス田を攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a3e02f97d7e3e233d628d1bf6992cbdc8c63f5446c8aebde2f9483829a7cdf2c.jpg> 米州議会議員を連続銃撃 2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/57ccaf754277186f96c61cc5aca29f1529f32eaa8a6a9a15e721ff7041af5aa6.jpg> 米首都で34年ぶりの軍事パレード
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5b41cdd76b6fc4f9a0b18839bb6b5ab842137989c0884c0d4bad6e911ed20d19.jpg> 筋トレ負荷100kg eスポ選手の日常
+      <a href=https://news.yahoo.co.jp/pickup/6542274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/db48c0f2ceff6bea82b8d90ca436ebc7ebd159827aa5f3b8a62e35b8a08af674.jpg> 「濃い系緑茶」勢い 健康感要因か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2ed98673b7e802faabe6bc717439431d2abcae636612d3fecb7d238b40f09945.jpg> 菅野6勝目ならず トラウトが2ラン
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/59d7c52d70500f010fca2f90caec674e1ccb664608b0952ea186ded9c8ae7fdd.jpg> 35年ぶりに英国出身力士誕生へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 09:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
