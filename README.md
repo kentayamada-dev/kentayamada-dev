@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abc71c1053acd33d1bcc47b478de8dcb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30f42e8fb8a3577ee62e6cf51f4de3c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52263260187754146f30688402f379ca7621fdf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000292-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 【宝塚記念】武豊メイショウタバルがV！3連単は7番人気→1番人気→10番人気で12万7550円
+      <a href=https://news.yahoo.co.jp/articles/c48dbcfb436c54d1c69c9e6950b9e7dc3221cda9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000076-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=167&cw=815&ch=815&exp=10800&fmt=webp> 大谷翔平、長嶋茂雄さんの「情熱」を次世代に届ける… ７月復帰の二刀流「通常のスタイル」、道なき道を突き進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cccbae969e44c251d3e3743e5f94986df55a1272>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000306-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=436&cy=0&cw=764&ch=764&exp=10800&fmt=webp> 【宝塚記念】3番人気ロードデルレイは8着　川田「終始動けないままレースが終わってしまいました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66a35ce93a67e31bff51f7b8bb56c6a4d31b2b36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000035-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=434&ch=434&exp=10800&fmt=webp> 日鉄「黄金株」詳細が判明　社名変更・本社移転を阻止、米長官が投稿
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/22f46670fa71b71e6f613799a241250660beeb0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000042-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イランとイスラエル、「交戦状態」に　石油施設標的で世界経済に影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3602fda7bb9f3386c165bb4df88ccaac3208eefa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00548062-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷敬遠の敵軍へ「やったらいかん」の声　理由は控える“鬼”の存在…「また打たれた」見慣れた光景
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/cb425350ed7d73fb61ae2d1d192725e30d529aa6591fab372583c134f7ef7d10.jpg> 米首都で軍事パレード 各地で抗議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3a1446d533697fcb4a0a5031e54ac1f08f381e187b055524044659f70f8df718.jpg> イスラエル軍 イラン国防省も攻撃
       </a>
@@ -402,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/f10d20e383afa88c5fa58df44ed802a4fec87c403e65bb51491b6023a7af9a6d.jpg> 米議員2人と家族死傷 容疑者逃走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5563fa3d769edd4b7e9052807be3f9e1f19a4371d54fe80cae00f5eec79b3c75.jpg> 路上で男性が胸を刺される 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/aae6816d8443fb5b20bc24505603b03f0f0d067673a768f2ad3236cf2fd4edc5.jpg> 18歳女性刺される 交際相手を逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0ac85ff8ea38a641c4d2433735e53be8af1c2360f4c850932ba74e5dae5a0ef.jpg> 小倉唯イベ出演見合わせ 脳震とう
+      <a href=https://news.yahoo.co.jp/pickup/6542317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/bce4fdcc14450dc93d4ddec3111bced6d2ddb49ff119dd4e92edfac7ad100780.jpg> 窪塚洋介 再婚後の「家族の形」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 16:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 16:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
