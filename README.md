@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/854755da6972461ea7149b9352ee8142.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68438770922b47b2125389378d0a84c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60b92eba3e01bdc822a6c42e9ba339d5ae35458c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151088-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=255&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の２４号を手にしたのはファン歴２５年の“大ベテラン”　６７歳でホームランボール初キャッチ
+      <a href=https://news.yahoo.co.jp/articles/87facc91a6a701b53ff3e6426e2d2dec3bc3c3f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】週明けは真夏の暑さ続く　東京も35℃予想　猛暑日地点も続出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b4ae9f5fd6fe06d683b37ab895bc1deb323b8c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平、メジャー通算250号！6月不振説を払拭する47打席ぶりアーチを含め1試合2発に本拠地騒然！「ようやく本来の姿に戻ったようだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc7077645d2a3972ef1d70af8bceab4e8156f809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000053-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ミャンマー男性刺し死なせた疑い　同国籍の自称技能実習生を逮捕
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7be38f6471fe7529366a638d7a24048a4ab79917>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00030223-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日16日から梅雨の晴れ間の危険な暑さ1週間以上続く　都心も記録的に早い猛暑日か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aac96a9d6680bbb71a24697e6935ad0ac47f0318>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000019-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 阿部詩が金メダル　柔道世界選手権で女王返り咲き　兄・一二三も称賛「パーフェクト」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a5e1462f8af1f989c7132aa4868603baab4334c2ee9d00106b80a92608691615.jpg> 今年一番の暑さになる所も 警戒
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542302>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/3ff4ea81dd83d46a19f3804fd7ea2f49ee74a1d5bd29eb552e5e41f29061f98e.jpg> 漏えい 兵庫県職員関与ほのめかす
+      <a href=https://news.yahoo.co.jp/pickup/6542306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5563fa3d769edd4b7e9052807be3f9e1f19a4371d54fe80cae00f5eec79b3c75.jpg> 路上で男性が胸を刺される 男逮捕
       </a>
     </td>
   </tr>
@@ -427,31 +435,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542301>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 線路内に「撮り鉄」か 1100人影響
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/745c003b2411933f709a95bc2fac6c733cacd31796f6f7e8dd122f5e1ff43ec1.jpg> 線路内に「撮り鉄」か 1100人影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/8f8bd7ec30f4923e10010e10f3e1ef2ec84b2c36c0bde523b8d3f35c89eccd82.jpg> 襲われるラッコ 見守るしかなく
+      <a href=https://news.yahoo.co.jp/pickup/6542308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/5fa9165edd803c228f6b7f8620da3ed154e6915b5f9afe1387b803f11360adeb.jpg> 大谷が25号 今季3度目の1試合2発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a35b326c235488ceb70a264f9ef04db94deb02bd43e5b0e4da3fe098ded23709.jpg> 大谷が先頭打者ホームラン 熱狂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/4d3754b2ec90a7ca3df09405d295dff101830727fc9765064534c450850dcc50.jpg> 由伸と「キャッチボール」芸人涙
+      <a href=https://news.yahoo.co.jp/pickup/6542309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/033a25e58736208371e199be45b0c30c1e58b4b2e4e0e90961d3c5b5313d95c1.jpg> 生物学イベに長蛇の列 漫画の影響
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 13:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 14:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
