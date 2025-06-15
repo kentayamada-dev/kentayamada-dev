@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3d7d7feba266aa6e6b13800db3466f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc302837f4d23aa77084033d799355d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37dbdb46cf4486c9c068113d0b1ca4ea78d2291d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-06151048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之「細かいズレあった」５回途中３失点でゲーム作るも勝敗つかず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1a9051916caaccf3584ceafe2f2e585291ba021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 大谷翔平、ジャイアンツとの首位攻防戦に「1番・DH」…エドマン外れてキム・ヘソンが二塁に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/30844f7fb1b1d4337c5af3b664f8b867aa094062>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=428&ch=428&exp=10800&fmt=webp> イスラエル軍、イラン国防省も攻撃　インフラ施設にも対象を拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07044c2ea820e5b102e04c6c7495485cfa1dd3c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-01773786-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之、トラウト被弾より強調した“反省点”　開始即…勝負を分けた「詰めの甘さ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/233e565680878e6c956a524f6c68ac235657b580>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000136-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=885&ch=885&exp=10800&fmt=webp> 大谷翔平　ジ軍との首位攻防第2戦も「1番・DH」11戦ぶり1発出るか　前日の敗戦で同率首位に並ばれる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000016-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=455&ch=455&exp=10800&fmt=webp> イスラエル軍、イラン国防省も攻撃　インフラ施設にも対象を拡大
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0734bcc8c9b4d8799dcdbb63e9e6d329f577acb9391f142079b9165e7456e6c.jpg> イスラエル イランのガス田を攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6542284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/20c7d65fe927e802952c4f7e590d41f2a1d349888d3414236a3f702ae7be6aa0.jpg> USS買収 巨額投資や統治に懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/57ccaf754277186f96c61cc5aca29f1529f32eaa8a6a9a15e721ff7041af5aa6.jpg> 米首都で34年ぶりの軍事パレード
+      <a href=https://news.yahoo.co.jp/pickup/6542281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c0734bcc8c9b4d8799dcdbb63e9e6d329f577acb9391f142079b9165e7456e6c.jpg> イスラエル イランのガス田を攻撃
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d008b57908c1cc4211ddea5307c322b303d58071a6eed6b9dd360306ccf9e77f.jpg> 雨上がり気温急上昇 東京29℃予想
+      <a href=https://news.yahoo.co.jp/pickup/6542280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/790ae12fc8ebcb745bd75bce28f279a28ee77bc38b72b959e0e332997e1222aa.jpg> ネパール館開館へ 支払いほぼ完了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ce1068d4830ce3dac5a652ab3e7240f205284417472cb16665ac003e58e7e38d.jpg> 自転車脇にサーフボード積載 議論
+      <a href=https://news.yahoo.co.jp/pickup/6542289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/8f8bd7ec30f4923e10010e10f3e1ef2ec84b2c36c0bde523b8d3f35c89eccd82.jpg> 襲われるラッコ 見守るしかなく
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2ed98673b7e802faabe6bc717439431d2abcae636612d3fecb7d238b40f09945.jpg> 菅野6勝目ならず トラウトが2ラン
+      <a href=https://news.yahoo.co.jp/pickup/6542287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0d36b8567874fb9fed11e9d8e991c5a643b8e2fc8be82c29f40ec735a2c10b4f.jpg> 朗希離脱の長期化示唆 辛口意見も
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 09:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
