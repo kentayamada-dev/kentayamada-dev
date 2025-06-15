@@ -1,28 +1,45 @@
 import { evaluate } from 'next-mdx-remote-client/rsc';
 import { createElement } from 'react';
 import rehypeKatex from 'rehype-katex';
-import rehypePrettyCode from 'rehype-pretty-code';
 import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
+import { visit } from 'unist-util-visit';
 import { headingLevels } from '@/constants/toc';
-import { A, Code, H, Hr, Input, Li, Pre, Section, Span, Ul } from './components';
+import { A, Code, H, Hr, Input, Li, Section, Span, Ul } from './components';
 import type { EvaluateResult, MDXComponents, MDXRemoteOptions } from 'next-mdx-remote-client/rsc';
 import type { ComponentType, HTMLAttributes } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { JSXElementType } from '@/types/components';
 
+/* eslint-disable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-explicit-any, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
+const rehypeUnwrapPre = () => {
+  return (tree: any): void => {
+    visit(tree, 'element', (node, index, parent) => {
+      if (node.tagName === 'pre' && node.children.length === 1 && node.children[0].tagName === 'code') {
+        parent.children.splice(index, 1, ...node.children);
+      }
+    });
+  };
+};
+
+const remarkCodeTitles = () => {
+  return (tree: any): void => {
+    visit(tree, 'code', (node) => {
+      const { lang } = node;
+
+      node.data = {};
+      node.data.hProperties = {};
+      node.data.hProperties['data-title'] = node.meta?.match(/title="(?<temp1>[^"]+)"/u)[1] ?? lang;
+      node.data.hProperties['data-language'] = lang;
+    });
+  };
+};
+/* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-explicit-any, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
+
 const options: MDXRemoteOptions = {
   mdxOptions: {
-    rehypePlugins: [
-      rehypeKatex,
-      [
-        rehypePrettyCode,
-        {
-          keepBackground: false
-        }
-      ]
-    ],
-    remarkPlugins: [remarkMath, remarkGfm]
+    rehypePlugins: [rehypeKatex, rehypeUnwrapPre],
+    remarkPlugins: [remarkMath, remarkGfm, remarkCodeTitles]
   }
 };
 
@@ -40,7 +57,6 @@ const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
     hr: Hr,
     input: Input,
     li: Li,
-    pre: Pre,
     section: Section,
     span: (props): JSXElementType => {
       // eslint-disable-next-line @typescript-eslint/no-unsafe-argument

@@ -93,9 +93,7 @@ const Page: PageType = async (props) => {
                     </DisclosureButton>
                   </dt>
                   <DisclosurePanel as='dd' className='mt-2 grid'>
-                    <section className='bg-primary prose dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-lg prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-lg prose-pre:rounded-tl-none prose-pre:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 max-w-none overflow-auto py-5'>
-                      {answer}
-                    </section>
+                    <section className='bg-primary prose dark:prose-invert overflow-auto py-5'>{answer}</section>
                   </DisclosurePanel>
                 </Disclosure>
               );

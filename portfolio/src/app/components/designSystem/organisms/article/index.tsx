@@ -44,9 +44,7 @@ const Article: ArticleType = (props) => {
           })}
         </div>
         <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
-          <section
-            className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert prose-figcaption:max-w-fit prose-figcaption:rounded-t-lg prose-figcaption:bg-slate-800 prose-figcaption:p-2 prose-figcaption:text-slate-300 prose-pre:rounded-lg prose-pre:rounded-tl-none prose-pre:bg-slate-800 prose-figcaption:dark:bg-slate-900 prose-figcaption:dark:text-slate-400 prose-pre:dark:bg-slate-900 max-w-none overflow-auto rounded-lg p-7 sm:p-10`}
-          >
+          <section className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert max-w-none overflow-auto rounded-lg p-7 sm:p-10`}>
             {props.content}
           </section>
           <aside className='sticky top-20 hidden self-start md:block'>

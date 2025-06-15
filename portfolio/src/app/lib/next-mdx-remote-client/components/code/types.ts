@@ -1,8 +1,11 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ComponentType } from '@/types/components';
+import type { AsyncComponentType } from '@/types/components';
 
-type CodeProps = ComponentPropsWithoutRef<'code'>;
+type CodeProps = ComponentPropsWithoutRef<'code'> & {
+  'data-language': string | undefined;
+  'data-title': string | undefined;
+};
 
-type CodeType = ComponentType<CodeProps>;
+type CodeType = AsyncComponentType<CodeProps>;
 
 export type { CodeType };

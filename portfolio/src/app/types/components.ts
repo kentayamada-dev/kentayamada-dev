@@ -61,19 +61,19 @@ type AsyncMetadataComponentType<P = object> = (props: DeepReadonlyType<P>) => As
 
 type AsyncImageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncImageType;
 
-type AsyncPageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
+type AsyncComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
 
 type GenerateMetadataType = AsyncMetadataComponentType<PageProps>;
 
 type ArticleImageType = AsyncImageComponentType<ArticlePageProps>;
 
-type ArticlePageType = AsyncPageComponentType<ArticlePageProps>;
+type ArticlePageType = AsyncComponentType<ArticlePageProps>;
 
-type PageType = AsyncPageComponentType<PageProps>;
+type PageType = AsyncComponentType<PageProps>;
 
-type LayoutPageType = AsyncPageComponentType<NextLayoutProps>;
+type LayoutPageType = AsyncComponentType<NextLayoutProps>;
 
-type NotFoundPageType = AsyncPageComponentType;
+type NotFoundPageType = AsyncComponentType;
 
 type ArticleGenerateMetadataType = AsyncMetadataComponentType<ArticlePageProps>;
 
@@ -86,6 +86,7 @@ export type {
   ArticleGenerateStaticParamsType,
   ArticleImageType,
   ArticlePageType,
+  AsyncComponentType,
   ComponentType,
   ConditionalPickType,
   DeepReadonlyType,

@@ -44,6 +44,10 @@
   pre [data-line] {
     padding-right: 1rem;
   }
+  html.dark .shiki,
+  html.dark .shiki span {
+    color: var(--shiki-dark) !important;
+  }
 }
 
 @layer components {

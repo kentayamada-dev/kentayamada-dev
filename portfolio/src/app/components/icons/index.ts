@@ -1,8 +1,10 @@
 export { ArticleIcon } from './articleIcon';
+export { CheckIcon } from './checkIcon';
 export { ChevronDownIcon } from './chevronDownIcon';
 export { ClockHistoryIcon } from './clockHistoryIcon';
 export { ClockIcon } from './clockIcon';
 export { ComputerIcon } from './computerIcon';
+export { CopyIcon } from './copyIcon';
 export { CrossIcon } from './crossIcon';
 export { EmailIcon } from './emailIcon';
 export { EyeIcon } from './eyeIcon';
