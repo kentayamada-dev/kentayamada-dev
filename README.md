@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f98120e7180bb4850c071a6e717d882a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15be8b57ab37cc85be06be7d4062f519.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fda0b108d434d331044b15b214ed1535f8bd9c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-04571785-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン、攻撃の応酬激化　双方で多数の死傷者…イラン側は138人死亡か
+      <a href=https://news.yahoo.co.jp/articles/564ca403ec750e738118e023100f2d7ee6ac8a06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000073-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1076&ch=1076&exp=10800&fmt=webp> ドジャース・大谷　11戦ぶり24号先頭弾からド派手お目覚め！2発でメジャー通算250号
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c4c23bd4b66df0b5d6bf2b996b0008282692e7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-10183696-abema-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 投手が飛んだ…！ 大谷翔平、低弾道アーチで“異変”「そりゃビビる」 被弾“ドン引き”リアクションが話題に「笑うしかない」
+      <a href=https://news.yahoo.co.jp/articles/4f0dfecaea9749204b41b8b70f34ca8f70ea1067>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243053-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン　双方の攻撃続く　エネルギー関連施設などにも被害が拡大
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 01:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 01:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
