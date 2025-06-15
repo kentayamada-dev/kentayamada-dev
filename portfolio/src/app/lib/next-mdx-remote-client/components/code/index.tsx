@@ -13,8 +13,8 @@ const Code: CodeType = async (props) => {
     const html = await codeToHtml(children as string, {
       lang,
       themes: {
-        dark: 'one-dark-pro',
-        light: 'one-light'
+        dark: 'github-dark',
+        light: 'github-light'
       },
       transformers: [
         {
