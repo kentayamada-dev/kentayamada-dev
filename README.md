@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/unOYiz_S8s4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a35eb3a4afacd53ecebc78a5f3e42443.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa8fbb9f3851044eac2a2e959809f4a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/580a48e6ba5d1d2dc8a0117dcbeb4930d191fde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-06141073-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 大谷翔平４打席目まで快音なく４６打席連続本塁打なし　見三振と内野ゴロ２つずつ
+      <a href=https://news.yahoo.co.jp/articles/854099a64f54b9f667b9965998f07ae1787be0df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348533-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 大谷翔平が〝目覚め〟の２発　海外メディアも注目する「通算４００号、５００号に到達する日」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb091303a54ed5be4327064bc7e7519e19131c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16597706-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> エア・インディア機のブラックボックス回収　家族は答え待ちわびる
+      <a href=https://news.yahoo.co.jp/articles/5c7a11a3f547a7ae6fcfa9d8b5bf19e756100645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06151325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【オリックス】大阪桐蔭で森と同期　ステージ４の希少がんと闘う福森大翔さんが涙の特別始球式「感謝の気持ちでいっぱい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e03fb72375a3170b5960ae84b8d039818803bde5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-16735466-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> イランがイスラエルに報復、ミサイル攻撃で数十人負傷　1人死亡と米メディア報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d92079db126c75a04e44ec16d3bf170ad7e07187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00050099-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=388&ch=388&exp=10800&fmt=webp> 日鉄がＵＳスチールを１００％子会社化、トランプ氏が買収承認…米政府に「黄金株」発行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b68675be8793de7285a32cd8ebcd87a4debbd801>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250614-00987129-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相がベッセント財務長官らと“関税交渉”「日米双方にとって利益となる合意の可能性を探った」
+      <a href=https://news.yahoo.co.jp/articles/081e032f1060816200b95419a0c73b7f7b2c5a24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=720&ch=720&exp=10800&fmt=webp> イラン首都に「大規模攻撃」　イスラエル軍、交戦は拡大の一途
       </a>
     </td>
   </tr>
@@ -402,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/00136ff6ca58231ab6926cd913a840e1058e66f93891e40aa2d609988fc5b86e.jpg> 米軍がイスラエルの迎撃を支援
+      <a href=https://news.yahoo.co.jp/pickup/6542384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2d849d733bc58521deafe79a3fdc06d44cf148b9f6e10d95d6dc9129c3c390e4.jpg> イラン再びミサイル発射 交戦激化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/4866f2ca96c024f4cdd8a668f13e289787e07c64a19404ff18f21560a2612eb4.jpg> 都議選の争点は 各陣営代表ら訴え
+      <a href=https://news.yahoo.co.jp/pickup/6542382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d9d70dc47f37a1745d0e8bed07aa3fa0b92df537768b6ce5c3b2fd4962cf2758.jpg> USS黄金株 米政府保有「永続的」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/bc0ee2a6f9a50a74f3777f6ab1dadb0398f4abd296ddfab0643be4fa6f764b7a.jpg> ふるさと納税除外 町長「残念」
+      <a href=https://news.yahoo.co.jp/pickup/6542365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/da67a1f3912f186639f6464fc8e8952f621ab04b6c2ebdb1c8054d5aabd5f7f5.jpg> 米民主議員ら銃撃 男は警官ふん装
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542194>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 産経新聞 8月から土曜の夕刊休止
+      <a href=https://news.yahoo.co.jp/pickup/6542383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/1ad0ab4daece5cf755133b0e4de328c45bb7d90b00825bcd6fd66ca640f87245.jpg> 印北部でヘリ墜落 子含む7人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/91034c0f29773b588147e6091f251fa467164616fddb8178f799be97654d1989.jpg> 性に関する絵本人気 40万部超えも
+      <a href=https://news.yahoo.co.jp/pickup/6542379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2a382c8f22f1ffe38b3f3e7166889d39d7d31fc589c86bcabc7920d2e6944015.jpg> 「奇形」告げられ衝撃 娘にごめん
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/d535f9b27d7eaa8634efdd3d2cc0f5396a212565bc26790b259698a75f075db4.jpg> 山本由伸5回途中KO 満塁弾浴びる
+      <a href=https://news.yahoo.co.jp/pickup/6542375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d017028c219f15e9d2a5496cbf0e74107f73b74396ba632ebe13200f4656c476.jpg> ゴジラなど胸像届かず 破産に悲鳴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/5156444ed07335a95764598d7c622ae31b4a12d6e6a34d446e9845972881ce07.jpg> パークマンサー 番組終了後の苦難
+      <a href=https://news.yahoo.co.jp/pickup/6542377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a163225ae784b01a0ac62bdc55d3974a860e0ccfd3e94c5b60c28e044a1f8024.jpg> 闘病中の親友へ 森友哉が20秒沈黙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/14/2388ce17a56145022668e10b3b228b18bcf208b82916f45becaa1594215a3ba5.jpg> 杉崎美香アナ46歳 第2子妊娠発表
+      <a href=https://news.yahoo.co.jp/pickup/6542385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/0d61a3dc25392257cc5572324d4403cc6819eb97a80793f6f8c0bf47f6de3a34.jpg> ゆりやん 国連幹部と通訳なし会話
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/14 13:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 05:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
