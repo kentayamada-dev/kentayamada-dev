@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28e792d486cd52cb00f7c2aa70aa86db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48a32c63f132e6c6abe90e23814d57f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23702c2d99c6d7303ee5ecaec02fd6fecc30a97a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=515&ch=515&exp=10800&fmt=webp> イランとイスラエル、紛争は拡大の一途　互いに攻撃姿勢崩さず
+      <a href=https://news.yahoo.co.jp/articles/21faabfd4c98cf436e3fe489297bf01a049b9700>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00050094-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=332&ch=332&exp=10800&fmt=webp> イエメン反政府勢力フーシも「参戦」…イスラエルとイランの応酬が激化、死者２００人超
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e67e9e5eb1f1879b59024801d1db181e34a301c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【あすの天気】西日本で猛暑日も　香川県に早くも熱中症警戒アラート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd31034a32eab36830fbdfcf21f42bfd2344d9a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000154-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> なぜ中日は西武から佐藤龍世を金銭トレードで獲得したのか　開幕前に寝坊で３軍降格　過去にはコロナ禍の外出で速度違反
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a80dfb8231f4370df88fbdbfd9640f03468a40a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00097995-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平がメジャー史上最速「944」。“新たな快挙”に米記者は大興奮「今夜もまた歴史を塗り替えた」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/03f5dd7c65bf270a0dbd03d7bc9bfb913276c1dad341ca8349350c8d2a813786.jpg> 攻撃受けたイラン核施設 被害状況
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542338>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/263eab0c14b6ef5f1b61884f48e71180df2209f6c614537aa3b599c1db096b87.jpg> 米 イランが米を攻撃なら全力対応
+      <a href=https://news.yahoo.co.jp/pickup/6542349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/11bb7e6a1e3c25ed9ccece153218224aac4ba3eef3f0f763a50fc78c08025e39.jpg> 号砲が鳴った都議選 情勢は混とん
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/c8863bab3b01efed34c4d954c87bb78a885ad397a586bb7c629eb0b474e5466b.jpg> シュノーケリング中溺れ 67歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/e89b59d4eaedbfaab81b2cf5b9b1339b162c297f6fec939529872fa6775790bc.jpg> 地震体験コーナーで1歳女児が骨折
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/ee379af1b95c12ea69518ed9ba2a03627de0cbd709d7c78587b99172bf13b7e3.jpg> 「チー牛」イラスト作者の思い
+      <a href=https://news.yahoo.co.jp/pickup/6542307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/a9cf8749f366db4a4bd14d5e3ab603765a74ec56ece7d9d1e075c005d78bea67.jpg> 名店が閉店 ニュース見て事業承継
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/af04eb6b1bb3e72bcc45c7bba4e8f7bb7f427589a94fffb5726c4728c59ff217.jpg> DragonAsh櫻井 狭心症で活動休止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/15 20:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/15 21:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
