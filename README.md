@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/649b8d3173822fccd82294fb0bf8b027.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58da5b743a5e53a18897b6b37f6bf952.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ba52f6ca2a1f91ee747213e25b0e7094856de00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-02249242-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 接点はSNSか…見えてきた計画性　女性の頭蓋骨を飾り棚に…逮捕男「人殺すことに興味」
+      <a href=https://news.yahoo.co.jp/articles/8e9792b9030aa9f6431af6f6926016e8b2cb1ef1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243305-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン国営テレビ局も攻撃の標的に　イスラエル・イラン応酬激化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5beccd4831118e4d9d01f124d640176e6571bd9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06161246-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、負荷高いライブＢＰとの“二刀流”　オープナーでも大歓迎の台所事情　投手復帰へ球団と思惑一致
+      <a href=https://news.yahoo.co.jp/articles/27295c06d328f21b4119f1439ef369cf8e8c5a6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171007-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 大谷翔平、オールスター投票中間発表で貫禄のリーグ最多得票…鈴木誠也はＤＨ部門３位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c232267437ed8c0175ee0e0bca918b4e13792bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030245-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日17日　各地で真夏のような暑さ　東京都心で今年初の35℃か　熱中症に警戒
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/810002f577ef0aed85ae1fbf5a5024cc48bce70e665e6e664e8a47dec26f4f10.jpg> 小林鷹之氏 2万円給付を疑問視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542484>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2475ac7fd53175cd9eeaf3ff3d1fa092c0c396dfe82ff2a60d31b52752c71d77.jpg> 原口一博氏 あばら骨を複数本骨折
       </a>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4fe55ba4b0c239b3e8f25d4eae562f4223c70f81d0a816e29364cb71a04998c4.jpg> 着陸後のANA機が走行不能に 伊丹
+      <a href=https://news.yahoo.co.jp/pickup/6542485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
+      <a href=https://news.yahoo.co.jp/pickup/6542493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c3791937a9629f6a9cef60b7c37d2f1b471aa8de8325f5630879dc5a6c0bc090.jpg> 水原一平元被告 米で収監される
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b520ca22212bf5efe2fc9db4b2ebb9925bc2c49be909d8637dcb67f1f9ce629d.jpg> DH大谷 球宴中間発表で大差の1位
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 06:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 06:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
