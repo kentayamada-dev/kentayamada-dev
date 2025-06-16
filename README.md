@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01af853b100ed8e8a633a6be0e332480.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65d51a46fe0742c4a14e076d6040b24e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae20396bc03ea7fc54da20c30f6396903d28c96a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000491-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=815&ch=815&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、電撃結婚＆第1子誕生も報告「これからの人生を大切に歩んでいきたい」
+      <a href=https://news.yahoo.co.jp/articles/929d356ea9aa9dfa5630580952632ab40fd67740>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000361-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 令和ロマン・くるま　相方の松井ケムリの結婚＆第1子誕生を祝福
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 松井ケムリ 結婚と第1子誕生発表
+      <a href=https://news.yahoo.co.jp/pickup/6542489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 令和ロマン松井ケムリ 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 23:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 23:51:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
