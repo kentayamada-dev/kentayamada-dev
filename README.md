@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c14a6c2cf9d04df6d7ec081ca177fe9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0c3d3f1c23cad82221eaa5eee11001e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d900a7af1536e12fde50d4c45e013cc9580548a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36161257-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 日本バレーボール協会、国籍変更選手を巡り関係者処分「本当に大反省しております」川合俊一会長
+      <a href=https://news.yahoo.co.jp/articles/18f3ba8b4a815b0ab76ea86bdc74efa2b7fdf2be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐藤錦だけ200キロ盗難　100万円相当、山形サクランボ
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/260ea94b5b9a7ce7bd1c0effff73a8544d1eb1e8492e09e716787e6059211caa.jpg> 印墜落 婚約したばかりの2人犠牲
+      <a href=https://news.yahoo.co.jp/pickup/6542483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/810002f577ef0aed85ae1fbf5a5024cc48bce70e665e6e664e8a47dec26f4f10.jpg> 小林鷹之氏 2万円給付を疑問視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/80d5cc2de61c9f63b5952c30b9fb073fef757cf48ad6898e62f3de678b0c488e.jpg> 農相お膝元で自公系敗北 政界波紋
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bc63b3b2309de57b985fc6ba0ec4bf2809a233036c12130214ec8e726b8a84de.jpg> 今ならセクハラ問題 90年代の職場
+      <a href=https://news.yahoo.co.jp/pickup/6542485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542479>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/29d69d48d07639dfbb77d766910500855ff2d15299f99ccda4ebbcc7904cbb13.jpg> 子供の近視の進行抑制 目薬の効果
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b97ed0db227030834fd13cea8f0247a8710e619cabae434050a4574012bd5679.jpg> NPB最下位対決 コラボ応援で満員
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 22:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 23:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
