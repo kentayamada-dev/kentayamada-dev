@@ -10,7 +10,6 @@ import type { LikeButtonType } from './types';
 const LikeButton: LikeButtonType = (props) => {
   const lottieRef = useRef<LottieRefCurrentProps>(null);
   const [isDisabled, setIsDisabled] = useState(false);
-  const timeoutIdRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const handleClick: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
     if (isDisabled || !lottieRef.current) {
@@ -26,16 +25,9 @@ const LikeButton: LikeButtonType = (props) => {
 
     props.onLike();
 
-    timeoutIdRef.current = setTimeout(() => {
+    setTimeout(() => {
       setIsDisabled(false);
     }, animationDurationSec * 1000);
-
-    // eslint-disable-next-line @typescript-eslint/consistent-return
-    return (): void => {
-      if (timeoutIdRef.current !== null) {
-        clearTimeout(timeoutIdRef.current);
-      }
-    };
   };
 
   return (

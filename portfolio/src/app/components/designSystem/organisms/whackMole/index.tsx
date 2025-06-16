@@ -62,7 +62,6 @@ const WhackMole: WhackMoleType = () => {
   const [hitCount, setHitCount] = useState(0);
   const stepIndexRef = useRef(0);
   const totalMoleHeadsCount = useRef(0);
-  const timeoutIdRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
     if (!isGameStarted) {
@@ -91,7 +90,7 @@ const WhackMole: WhackMoleType = () => {
 
       stepIndexRef.current += 1;
 
-      timeoutIdRef.current = setTimeout(() => {
+      setTimeout(() => {
         setMoleState((prev) => {
           return {
             ...prev,
@@ -99,18 +98,11 @@ const WhackMole: WhackMoleType = () => {
           };
         });
 
-        timeoutIdRef.current = setTimeout(showMole, WAIT_DURATION * 1000);
+        setTimeout(showMole, WAIT_DURATION * 1000);
       }, ANIMATION_DURATION * 1000);
     };
 
     showMole();
-
-    // eslint-disable-next-line @typescript-eslint/consistent-return
-    return (): void => {
-      if (timeoutIdRef.current !== null) {
-        clearTimeout(timeoutIdRef.current);
-      }
-    };
   }, [isGameStarted]);
 
   const handleMoleClick = useCallback((index: number): void => {
