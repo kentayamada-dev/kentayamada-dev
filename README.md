@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/307da378e1b309d899b73162ee0d7b31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1274d21b161a40a9167df853fe84b913.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9540f5ce252035732f2c63353889f375cba9406d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平が電撃投手復帰！ 17日のパドレス戦で先発登板へ ロバーツ監督「マウンドに立つ準備は整った。非常に楽しみ」
+      <a href=https://news.yahoo.co.jp/articles/80fb555a318934382e061864def8675109062f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-01774828-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「どう思います？」　大谷の“カウンター”に米記者タジタジ…21時間後に訪れた急展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5096aff66fcc963a6615f97a2d33984dd8f3a360>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000079-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「中東情勢悪化は利益に」ロシア・メディア報道「体制転換狙いなら脅威」とも
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0b70d0bc635587d5f14548e8484b945058872fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988029-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 万博警備担当の機動隊員「拳銃誤発射」会場近く警察車両の中で誤って引き金引く　けが人はなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24c96f2696b82190fdebd3ac659a5a8a950d85f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000071-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル、イランの地対地ミサイル発射台の3分の1破壊　犠牲拡大
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988029-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 万博警備担当の機動隊員「拳銃誤発射」会場近く警察車両の中で誤って引き金引く　けが人はなし
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7eb49bb079c5e6e7fd45c9f8feb452c430a61479d9af5b9d4170341b9989dff5.jpg> イスラエルとイラン 露が仲介用意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542466>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bb8b8cfc7fdea2edc63ac0bcff312f46bb9ed3bf626c00e5bbff3164a496e546.jpg> 17日 都心など35℃以上の予想急増
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a745879c74a720918e63f23623205534ffa0b580dc72dc1e4f30167281e19a9d.jpg> 英MI6長官に女性 116年の歴史で初
+      <a href=https://news.yahoo.co.jp/pickup/6542475>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02250345/title-1750030518119.jpeg?exp=10800> 悪質ホスト対策 法で禁止の行為は
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4fe55ba4b0c239b3e8f25d4eae562f4223c70f81d0a816e29364cb71a04998c4.jpg> 着陸後のANA機が走行不能に 伊丹
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542476>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bc63b3b2309de57b985fc6ba0ec4bf2809a233036c12130214ec8e726b8a84de.jpg> 今ならセクハラ問題 90年代の職場
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/982cab580d70406244d6c3ef3bffcfa639de94fd2734e498750752b3647db3d5.jpg> 尿を用いて肺がん超早期発見 研究
+      <a href=https://news.yahoo.co.jp/pickup/6542478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b97ed0db227030834fd13cea8f0247a8710e619cabae434050a4574012bd5679.jpg> NPB最下位対決 コラボ応援で満員
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 22:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
