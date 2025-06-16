@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2586f07d93caac45dab32458bccfd12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a27b0b1ea026121fddd393d40f0b5ec1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7795f919d5252d9d15517280ccb0d2f84378f4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183695-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=390&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何してんだよ…！ 大谷翔平、弾丸アーチで観客に“ハプニング”「おかしいだろ」177キロ爆速ライナー→“素手キャッチ”で取りに行く「無茶しやがって…」
+      <a href=https://news.yahoo.co.jp/articles/36b0abd524e6d6ebaf13d64c42167a634ef300e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 パヘスの活躍でドジャースが勝利　ジャイアンツ3連戦に勝ち越して2G差　大谷は2得点3安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80e3eb68b573fd3dc6331611ef90d0a92339f0e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243069-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン 攻撃の応酬激化　イスラエルで14人死亡、390人けが　イランでは少なくとも406人が死亡か　AP通信
+      <a href=https://news.yahoo.co.jp/articles/393daa635a0000ecd3bbaf3901e3b0fe1fea262a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄の「買収」承認　“日米連合”で新たな成長軌道を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f3a8e2dbd9ac0c1d6291b9aa7b06f51c6c54648>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000022-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 【宝塚記念】レジェンド絶妙の折り合い、石橋師といつか一緒に…「夢がかないました」　馬の縁と人の縁…メイショウタバルと武豊、さらなる高みへ
+      <a href=https://news.yahoo.co.jp/articles/60c863740304b4af6f5089f32abd6f68e814186f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=287&ch=287&exp=10800&fmt=webp> 食中毒で営業停止中に弁当販売し再び食中毒、ミシュラン掲載の日本料理店の経営者ら３人を容疑で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2e119ac53439f5532f8253873739f13199dde23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000010-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=750&ch=750&exp=10800&fmt=webp> 二宮和也が向き合う独立、嵐、死生観は　新書「独断と偏見」取材会で語るありのままの思い
+      <a href=https://news.yahoo.co.jp/articles/62fac6afff5413511f7d4bd74b58fc879af5c540>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-35234291-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエルとイランの軍事衝突続く　死者イランで２２４人、イスラエルで１４人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c86795228b95d4ed5e745545c73fb2b41bc669eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000358-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 柔道金メダリスト角田夏実が「人生相談」に行く店　万博「81キロ級」らとのトークで明かす
       </a>
     </td>
   </tr>
@@ -394,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/2d849d733bc58521deafe79a3fdc06d44cf148b9f6e10d95d6dc9129c3c390e4.jpg> イラン再びミサイル発射 交戦激化
+      <a href=https://news.yahoo.co.jp/pickup/6542404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f2e4c10162a9b73042179074ff520031d555a2a65f3c3a466251db74c566d545.jpg> 米政権 入国制限に36カ国追加検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d9d70dc47f37a1745d0e8bed07aa3fa0b92df537768b6ce5c3b2fd4962cf2758.jpg> USS黄金株 米政府保有「永続的」
+      <a href=https://news.yahoo.co.jp/pickup/6542409>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02249718/title-1749991010317.jpeg?exp=10800> 核協議が中断 米・イランの外交戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/da67a1f3912f186639f6464fc8e8952f621ab04b6c2ebdb1c8054d5aabd5f7f5.jpg> 米民主議員ら銃撃 男は警官ふん装
+      <a href=https://news.yahoo.co.jp/pickup/6542406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0be227f1caae430ce14b17772c1d6d46b9a1913a342276596f89edf1c1a945cd.jpg> 台湾有事 沖縄は戦争前夜と危機感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/550fd6a69e9800e4c427b69e0b46776767900875a41838cd58de642e0ca016e7.jpg> 印北部でヘリ墜落 子含む7人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/9ef08bbf52ef712764699db02f76dba71edf6450bbdde9d2ddd70898a04304cc.jpg> 発車時に死角 幼児犠牲の事故続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bf82007a2b4c36b90a8d3dfd2d1dfaef23170630a326f07a1765069901116c7a.jpg> 川崎遺体 娘の避難巡り悔やむ父
+      <a href=https://news.yahoo.co.jp/pickup/6542407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f1dc7b05b4b6917d183f9448736c6491485ef28b850fab0c4787aa049a78ae6f.jpg> 食中毒処分に従わず営業疑い 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/15/d017028c219f15e9d2a5496cbf0e74107f73b74396ba632ebe13200f4656c476.jpg> ゴジラなど胸像届かず 破産に悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6542399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/081667af6cdc9a4a93d72b81e75ba09b1f13cdab3549b8878d1ab4cfcff89460.jpg> 潮干狩り中に流されたか 遺体発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2724abfdb6b6af02e77c9b267cc1d3d2072e065df84200b27382eb75f8fece69.jpg> 朗希の今季構想外を示唆 監督
+      <a href=https://news.yahoo.co.jp/pickup/6542405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b4657bb4d07f695dc70f6f22461ebe1234ae37fa9eb69e9b641c3e03c77faeae.jpg> 大谷 父の日仕様の青バットで快打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4dfbc01cd2c691fceb1c1226bcc79654dc06983efb73ffca1b0578b5753ffff6.jpg> 二宮和也 ジャニー氏に「謝って」
+      <a href=https://news.yahoo.co.jp/pickup/6542398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3d30134a478a44273c80dca773da9f1d077e4ef628d96d36ef50a69dd1a9c2bc.jpg> 阪神・岡田顧問 佐藤輝の走塁論外
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 06:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 11:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
