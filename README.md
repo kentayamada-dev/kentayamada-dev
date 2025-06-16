@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58da5b743a5e53a18897b6b37f6bf952.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0eee79145c3b923c588111b823431cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e9792b9030aa9f6431af6f6926016e8b2cb1ef1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243305-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン国営テレビ局も攻撃の標的に　イスラエル・イラン応酬激化
+      <a href=https://news.yahoo.co.jp/articles/7c2eab2c9582b770b3c44b0fcc37fcdee11d4596>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988069-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 生放送中にイスラエル軍がイラン国営テレビを攻撃、戦闘範囲を拡大　ネタニヤフ首相はイランの最高指導者・ハメネイ師を標的とすること否定せず
       </a>
     </td>
   </tr>
@@ -386,8 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7eb49bb079c5e6e7fd45c9f8feb452c430a61479d9af5b9d4170341b9989dff5.jpg> イスラエルとイラン 露が仲介用意
+      <a href=https://news.yahoo.co.jp/pickup/6542496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd9f86e40d0ccfa81866e9885d8eae0f5de887176b6088edffc6d347c1f58c06.jpg> 真夏のような暑さに 都心35℃予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/277cf9170cc84de4297ec69ec4c65c698bc3029c9ad9048e51a952973e7fa9ce.jpg> 日米首脳 関税交渉の継続を確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4951fc38a29f6e64ca5e3bccd67ff3c460d655ae597a49a773dd18e671fde320.jpg> イラン国営放送に爆撃 生放送中断
       </a>
     </td>
   </tr>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542493>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c3791937a9629f6a9cef60b7c37d2f1b471aa8de8325f5630879dc5a6c0bc090.jpg> 水原一平元被告 米で収監される
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/121539284c2b11b39941d1cc64fbd93f632d771534ae5063acff6ef52042f5e6.jpg> バレー協会会長ら 給与一部返納へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542489>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 令和ロマン松井ケムリ 結婚を発表
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 06:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 07:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
