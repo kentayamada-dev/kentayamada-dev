@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55347d99185e245da331dc68b034fe85.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb6b914735fd60e8d42f7d40d17ef3d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da88648d9a059ad4bff460a8ae730ae569c26192>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-05937276-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン、攻撃の応酬続く…現在の状況は
+      <a href=https://news.yahoo.co.jp/articles/b77a020db7496df5bb01467527b7c431c5649891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏が「イラン最高指導者の暗殺計画を拒否」報道　停戦交渉求める　イスラエルとイランの衝突激化　日本への影響も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d38ccfd4872f49ede0afd376c8159537cfc7c467>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09711292-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “投手・大谷”電撃復帰の背景は...大谷からロバーツ監督へある進言　前日は二刀流の負担に「通常のスタイル」
+      <a href=https://news.yahoo.co.jp/articles/790d5a08d765911e6cbe1e18498fb8e937610c37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243238-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新型コロナ対策・持続化給付金の性風俗除外は合憲 事業者側の敗訴が確定 最高裁判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5192d19bbd745c84e69d4638d388873fa07ef93f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90027480-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 宮迫博之の長男、「宮迫陸」に改名を発表
+      <a href=https://news.yahoo.co.jp/articles/11776635df5c3919632f78b430f1407d00e8b254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030244-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 関東に今年初の熱中症警戒アラート　沖縄～関東は熱中症に警戒　さらに来週も高温傾向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e9256a62b0b204053c762823b74beefbb5f3c36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030241-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 四国各地で今年初の猛暑日　厳しい暑さは来週にかけて長く続く
+      <a href=https://news.yahoo.co.jp/articles/13399143c33186912d5c07cfda6d249b77ef3cd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36160885-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 【解説】大谷翔平の二刀流復帰はなぜ急速に早まったのか　17日パドレス戦に先発　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d86f37b43583b778bcaf53213c2969c1ed48a9de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050094-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 万博警備の機動隊員、会場近くの警察車両内で拳銃１発誤射…ケースにしまう際に引き金引く
+      <a href=https://news.yahoo.co.jp/articles/780e7d8e1d507e746742c44b212bc365a63e8430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00066473-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 銃弾は警察車両の床にめりこむ…万博警備担当の警察官が拳銃を誤発射　ケースへ収納の際に誤って引き金を引く
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bbe6fdd4feb40a181a82cdbea4a9be9f7572f6b3d2f96b45e005ccc92b22a9ab.jpg> 熱中症疑い きょう都内で21人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542445>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 2馬力選挙 都議選では対策見送り
+      <a href=https://news.yahoo.co.jp/pickup/6542449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/276c7fc085ec308f1d4bfc99b1666745b582753d869a833e6a5786a82111f9cd.jpg> 政府 海外にオンカジ接続禁止要請
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542446>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/275958e101b437adc0d834cea9f117edd6095736100b37b054a18d4ad0ede10f.jpg> 不明の21歳女性を殺害容疑 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/db92f022a6981a8de54de2b25a15b1ad6cc6a480c929f730b4c2264b904170b6.jpg> 網戸ひもで6歳死亡 2社の賠償確定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 18:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 18:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
