@@ -27,7 +27,10 @@
     "closeTocLabel": "Close TOC",
     "storybookLinkLabel": "Storybook",
     "githubLinkLabel": "GitHub",
-    "homeLinkLabel": "Go to Home"
+    "homeLinkLabel": "Go to Home",
+    "selectCurrencyLabel": "Select Currency",
+    "selectCurrencyPairLabel": "Select Currency Pair",
+    "selectCountryCodeLabel": "Select Country Code"
   },
   "articles": {
     "toc": "Table of Contents",

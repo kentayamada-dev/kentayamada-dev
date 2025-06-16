@@ -27,7 +27,10 @@
     "closeTocLabel": "目次を閉じる",
     "storybookLinkLabel": "Storybook",
     "githubLinkLabel": "GitHub",
-    "homeLinkLabel": "ホームへ行く"
+    "homeLinkLabel": "ホームへ行く",
+    "selectCurrencyLabel": "通貨を選択",
+    "selectCurrencyPairLabel": "通貨ペアを選択",
+    "selectCountryCodeLabel": "国コードを選択"
   },
   "articles": {
     "toc": "目次",

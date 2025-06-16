@@ -27,7 +27,11 @@ const ALL_CURRENCY_PAIRS: CurrencyPairType[] = currencies.flatMap((base) => {
 });
 
 const Calculator: CalculatorType = (props) => {
-  const { calculator } = dictionaries[props.locale];
+  const {
+    calculator,
+    labels: { selectCurrencyLabel, selectCurrencyPairLabel }
+  } = dictionaries[props.locale];
+
   const [currencyPair, setCurrencyPair] = useState<CurrencyPairType>('USD/JPY');
   const [stockProfitDisplay, setStockProfit] = useAnimatedNumber();
   const [forexProfitDisplay, setForexProfit] = useAnimatedNumber();
@@ -110,6 +114,7 @@ const Calculator: CalculatorType = (props) => {
           placeholder='0.00'
           required
           step='0.01'
+          title={selectCurrencyLabel}
           type='number'
           {...register('buyPrice')}
         />
@@ -124,6 +129,7 @@ const Calculator: CalculatorType = (props) => {
           placeholder='0.00'
           required
           step='0.01'
+          title={selectCurrencyLabel}
           type='number'
           {...register('sellPrice')}
         />
@@ -138,6 +144,7 @@ const Calculator: CalculatorType = (props) => {
           placeholder='0.00'
           required
           step='0.01'
+          title={selectCurrencyPairLabel}
           type='number'
           {...register('buyRate')}
         />
@@ -152,6 +159,7 @@ const Calculator: CalculatorType = (props) => {
           placeholder='0.00'
           required
           step='0.01'
+          title={selectCurrencyPairLabel}
           type='number'
           {...register('sellRate')}
         />

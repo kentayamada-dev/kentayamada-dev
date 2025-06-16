@@ -18,7 +18,11 @@ import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types
 import type { ContactFormSchemaType, ContactFormStateType, ContactFormType } from './types';
 
 const ContactForm: ContactFormType = (props) => {
-  const { form } = dictionaries[props.locale];
+  const {
+    form,
+    labels: { selectCountryCodeLabel }
+  } = dictionaries[props.locale];
+
   const recaptchaRef = useRef(null);
   const recaptchaToken = useRef('');
   const [isRcError, setIsRcError] = useState(false);
@@ -143,8 +147,10 @@ const ContactForm: ContactFormType = (props) => {
                 return (
                   <Listbox as='div' className='h-full w-full' value={value} {...rest}>
                     <ListboxButton
+                      aria-label={selectCountryCodeLabel}
                       className={`${state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex h-full w-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
                       ref={ref}
+                      title={selectCountryCodeLabel}
                     >
                       <div
                         className='mr-2 size-5 bg-contain bg-center bg-no-repeat'

@@ -7,7 +7,8 @@ const meta = {
     handleOptionChange: fn(),
     label: 'Label',
     optionValue: 'option1',
-    options: ['option1', 'option2', 'option3']
+    options: ['option1', 'option2', 'option3'],
+    title: 'Title'
   },
   component: InputWithCombobox
 } satisfies Meta<typeof InputWithCombobox>;

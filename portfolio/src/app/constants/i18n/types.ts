@@ -47,6 +47,8 @@ type DictionaryType = {
     localeSwitcherLabel: string;
     openSidePanelLabel: string;
     openTocLabel: string;
+    selectCountryCodeLabel: string;
+    selectCurrencyPairLabel: string;
     storybookLinkLabel: string;
     themeSwitcherLabel: string;
   };
