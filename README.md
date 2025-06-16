@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5aafc2f7fca056bfd8e78454ef81668c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/194b9e6c277ad3e8efadccd84b0540a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e50de7139699f2c169c3b461983f30513917b2f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098020-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「その時が来た」663日ぶりに復帰する“投手・大谷翔平”に米沸騰！ LAメディア期待「驚異的かつ頼れるバッターであり優れた投手でもある」
+      <a href=https://news.yahoo.co.jp/articles/5ba033890df5d12b6c628dc19814da6ab1c3069f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-05173698-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=395&ch=395&exp=10800&fmt=webp> 二刀流復活の大谷翔平　3度行ったライブBPの成績まとめ　直近は奪三振ショーを披露　最新の球速は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12e12f67c9c3d468969a086fcd0c47deed74b254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名車転落事故、薬物使用容疑で男女再逮捕
+      <a href=https://news.yahoo.co.jp/articles/01dc5eec20e83dc0331ec379d8326665781cf59f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000040-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 米ミネソタ州議員連続銃撃　逃走していた容疑者を逮捕
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4af2b11ad2d7e03d62b6f446171a398ac7cd0029>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050051-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、首都テヘランで８０以上の標的空爆…民間人被害の拡大懸念し脱出する市民も
+      <a href=https://news.yahoo.co.jp/articles/dcd7778ddd73785caa364fb2056205387017403d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030237-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 名古屋も今年初の猛暑日か　明日17日～19日は東海で35℃以上が続出　危険な暑さ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7777b46149be2de5dc71d3323026e600c1e09b5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-osknichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=600&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 国連パビリオン・吉本興業がSDGsイベントを開催　JO1、パリ五輪金メダリストらが登壇
+      <a href=https://news.yahoo.co.jp/articles/4af2b11ad2d7e03d62b6f446171a398ac7cd0029>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050051-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、首都テヘランで８０以上の標的空爆…民間人被害の拡大懸念し脱出する市民も
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/aca5f4bb5e2e94f1ef16f522e495bba6785ae997afe09e73af09c22b2915588e.jpg> G7 中東の沈静化求め共同声明か
+      <a href=https://news.yahoo.co.jp/pickup/6542424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8eaabbb6f4e6a00828496c4cc0647e06e76f8d7db8f76ca65cbf0eab423e8713.jpg> G7開幕を前に カナダで抗議デモ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2b13053d89b807aa35826f4be8a41e68ed4c3ff266b7224c402be80872fe9f7c.jpg> 三井住友とSBI 資産運用の新会社
+      <a href=https://news.yahoo.co.jp/pickup/6542432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4b62c56fb99721c686bfa1c4b7742f53d352c8692018ac396ae10cb38350d9ad.jpg> 米議員ら銃撃事件 逃走の男を逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/c21de66100a29bad4a54e257922f9a04cabd411e233b3aa390c6f63f562b1843.jpg> 六花亭カステラにカビ 自主回収
+      <a href=https://news.yahoo.co.jp/pickup/6542430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/53f460534f77b175f377328d46d6afed27f96f5d3c5dadfd9e633124e48ad136.jpg> 東名事故 薬物使用疑い男女再逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542414>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 資源ごみ持ち去り相次ぐ 対策苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6542428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/235b966b1def09797c418aa95121a4530fe746f3dc15a6d062bf867c658dd83c.jpg> 建設現場で作業員転落か 意識不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/c2fe6f1640050f169bb4c3a7f65495c10b93118aed7170fcad55e7b0d3c14acd.jpg> 大谷があす投手復帰 球団発表
+      <a href=https://news.yahoo.co.jp/pickup/6542414>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 資源ごみ持ち去り相次ぐ 対策苦慮
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 14:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 14:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
