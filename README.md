@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e99cfc200ef1062b390b0df36096cfb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d109c2a92ec8709d77422a14b3d33c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a421779fd1ee158f4741f7b089c4b99bc5e6c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00348668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　昨年の結婚を電撃発表「そして先日、第一子が誕生いたしました！！！」
+      <a href=https://news.yahoo.co.jp/articles/247a5df6d60bc84d4f25e0fe6a76c6177ae86c5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000000-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> イスラエル、イランの国営放送爆撃　ニュース番組で爆発の瞬間流れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad7b2f38a74fb2bcaee79d4f7e6530d1f0464e51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988046-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン 攻撃の応酬続く　イランは死者220人超
+      <a href=https://news.yahoo.co.jp/articles/6a421779fd1ee158f4741f7b089c4b99bc5e6c5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00348668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　昨年の結婚を電撃発表「そして先日、第一子が誕生いたしました！！！」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 01:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 01:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
