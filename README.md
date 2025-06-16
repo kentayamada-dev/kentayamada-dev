@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0c3d3f1c23cad82221eaa5eee11001e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01af853b100ed8e8a633a6be0e332480.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae20396bc03ea7fc54da20c30f6396903d28c96a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000491-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=815&ch=815&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、電撃結婚＆第1子誕生も報告「これからの人生を大切に歩んでいきたい」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80fb555a318934382e061864def8675109062f46>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0b70d0bc635587d5f14548e8484b945058872fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988029-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 万博警備担当の機動隊員「拳銃誤発射」会場近く警察車両の中で誤って引き金引く　けが人はなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18f3ba8b4a815b0ab76ea86bdc74efa2b7fdf2be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐藤錦だけ200キロ盗難　100万円相当、山形サクランボ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bb8b8cfc7fdea2edc63ac0bcff312f46bb9ed3bf626c00e5bbff3164a496e546.jpg> 17日 都心など35℃以上の予想急増
+      <a href=https://news.yahoo.co.jp/pickup/6542486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/80d5cc2de61c9f63b5952c30b9fb073fef757cf48ad6898e62f3de678b0c488e.jpg> 農相お膝元で自公系敗北 政界波紋
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542483>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/810002f577ef0aed85ae1fbf5a5024cc48bce70e665e6e664e8a47dec26f4f10.jpg> 小林鷹之氏 2万円給付を疑問視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/80d5cc2de61c9f63b5952c30b9fb073fef757cf48ad6898e62f3de678b0c488e.jpg> 農相お膝元で自公系敗北 政界波紋
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 松井ケムリ 結婚と第1子誕生発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 23:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 23:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
