@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44da11510d91d548d6960cd95b4026e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af4ca7c6d94934cfbb7e1a36ef079c65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc321d04c426899cb9441d6576f3205b18f09389>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 大谷翔平　６６３日ぶり投手電撃復帰　ロバーツ監督「とんでもない盛り上がりになる」　１７日ＮＨＫ急きょ地上波放送
+      <a href=https://news.yahoo.co.jp/articles/660e9ef0a6f69289621e5094d99d5d7613337e50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000146-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> 待ってた！二刀流　大谷翔平が663日ぶり投手！　パドレス戦1、2イニング予定　ロバーツ監督「準備は整った…時が来た」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 03:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 03:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
