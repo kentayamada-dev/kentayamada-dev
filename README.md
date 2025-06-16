@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cc11a5e7f4b9ec48f957f73cb10d62f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2572c39520b63c3186a15822e54ab1c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1709078e25f497d2e1311411467445f3c3c1bc8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987806-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手あす“二刀流”復活へ!“解禁時期”どんどん早まり…発表までの舞台裏　“投手大谷”の状態はいかに?
+      <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、米鉄鋼再生の試金石
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f14c97cd961c52ffc457b04d36d333e1562a8a9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987980-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 希少がんと闘う親友に捧げる決勝打　有言実行でお立ち台に立ったオリックス・森友哉選手は涙止まらず…　ヒーローインタビューを務めた橋本アナが森選手の思いを明かす
+      <a href=https://news.yahoo.co.jp/articles/1709078e25f497d2e1311411467445f3c3c1bc8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987806-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【期待】大谷翔平選手あす663日ぶり“二刀流”復活へ「パドレスとの対戦で先発投手として登板予定」　右肘靱帯の修復手術後、順調に調整重ねる
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3887df4fab2d03136518a7a2d55f9e41ae8294c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-21982075-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 各地で真夏日　奄美地方に今季県内初の熱中症警戒アラート　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/5baffe92cb755aa54a95e1b4a0a4bcaea4fe1ef3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987782-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 尿検査で「がん早期発見」ステージ0の前段階の病変など発見　北大などのプロジェクトチーム
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a745879c74a720918e63f23623205534ffa0b580dc72dc1e4f30167281e19a9d.jpg> 英情報機関長官に女性 116年で初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542455>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/db92f022a6981a8de54de2b25a15b1ad6cc6a480c929f730b4c2264b904170b6.jpg> 網戸ひもで6歳死亡 2社の賠償確定
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8ca1fdf7385ffcb7d7911478df8e4ce26124a37c2a140986c00fd467f9395d6f.jpg> 後退するパトカーが衝突 女性骨折
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/e36376fa74ab8f90030cf1abaf7a9be58c0a1b12d6b531138ba2cad00caac744.jpg> 国士舘大の柔道部員 大麻使用疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542465>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ファンクラブ開設ラッシュ 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 20:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 20:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
