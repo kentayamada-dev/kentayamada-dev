@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QZSauc2Umpw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53bb2ba9fa873e09c33840fed553aaf5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0084e58b8c553167322005ff387daa04.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffa63e47e9f83dd92602e805c9920b5b59de04c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
+      <a href=https://news.yahoo.co.jp/articles/3636eb746d7110a5d14fbe7ac23136bd303e2c63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36160444-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=890&ch=890&exp=10800&fmt=webp> 大谷翔平が1年10カ月ぶり投手復帰、球宴後見込みも前倒しでパドレス戦に先発／これまでの経過
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b043a46305a8ec9a933464549cf34c44c4fe546>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06161056-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1106&ch=1106&exp=10800&fmt=webp> 大谷翔平が次カードのパドレス４連戦へ電撃投手復帰へ！　ロバーツ監督「おそらく」
+      <a href=https://news.yahoo.co.jp/articles/21eb8cc2c0acfd71f4964218295dfdd6ff87f2c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-15821481-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=562&ch=562&exp=10800&fmt=webp> イスラエルとイラン、攻撃の応酬続く　イランは死者220人超と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ffa63e47e9f83dd92602e805c9920b5b59de04c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9a38291147ec8d5451b1ed4b6c31f16ef8dac54>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000045-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1548&ch=1548&exp=10800&fmt=webp> 焦点：日鉄、巨額投資早期に回収か　トランプ米政権の「保護」追い風
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62fac6afff5413511f7d4bd74b58fc879af5c540>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-35234291-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエルとイランの軍事衝突続く　死者イランで２２４人、イスラエルで１４人に
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/081667af6cdc9a4a93d72b81e75ba09b1f13cdab3549b8878d1ab4cfcff89460.jpg> 潮干狩り中に流されたか 遺体発見
+      <a href=https://news.yahoo.co.jp/pickup/6542408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3677bd61eebd9bff87d4990c829d702055662931f945ff0abe226c459ca7c1e3.jpg> スプラ新作発表方法に驚き 理由は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3677bd61eebd9bff87d4990c829d702055662931f945ff0abe226c459ca7c1e3.jpg> スプラ新作発表方法に驚き 理由は
+      <a href=https://news.yahoo.co.jp/pickup/6542417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/c2fe6f1640050f169bb4c3a7f65495c10b93118aed7170fcad55e7b0d3c14acd.jpg> 大谷があす投手復帰 球団発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 11:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 12:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
