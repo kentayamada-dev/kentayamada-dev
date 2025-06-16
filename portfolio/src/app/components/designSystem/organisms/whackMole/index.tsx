@@ -30,26 +30,17 @@ const getPerformanceMessage = (percentage: number): string => {
 };
 
 const generateMoleSequence = (totalSteps: number, totalHoles: number, maxMolesPerStep: number): number[][] => {
-  const sequence: number[][] = [];
-
-  for (let stepIndex = 0; stepIndex < totalSteps; stepIndex += 1) {
-    const molesInCurrentStep = Math.floor(Math.random() * maxMolesPerStep) + 1;
-
-    const holeIndices = Array.from({ length: totalHoles }, (_, holeIndex) => {
-      return holeIndex;
+  return Array.from({ length: totalSteps }, () => {
+    const shuffledHoles = Array.from({ length: totalHoles }, (_, index) => {
+      return index;
+    }).sort(() => {
+      return Math.random() - 0.5;
     });
 
-    for (let currentHole = holeIndices.length - 1; currentHole > 0; currentHole -= 1) {
-      const randomHole = Math.floor(Math.random() * (currentHole + 1));
+    const molesInCurrentStep = Math.floor(Math.random() * maxMolesPerStep) + 1;
 
-      // @ts-expect-error type error
-      [holeIndices[currentHole], holeIndices[randomHole]] = [holeIndices[randomHole], holeIndices[currentHole]];
-    }
-
-    sequence.push(holeIndices.slice(0, molesInCurrentStep));
-  }
-
-  return sequence;
+    return shuffledHoles.slice(0, molesInCurrentStep);
+  });
 };
 
 const WhackMole: WhackMoleType = () => {
@@ -62,48 +53,43 @@ const WhackMole: WhackMoleType = () => {
   const [hitCount, setHitCount] = useState(0);
   const stepIndexRef = useRef(0);
   const totalMoleHeadsCount = useRef(0);
+  const moleSequence = useRef<number[][]>([]);
+  const timeoutIdRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  useEffect(() => {
-    if (!isGameStarted) {
+  const showMole = (): void => {
+    if (stepIndexRef.current >= TOTAL_STEPS) {
+      if (timeoutIdRef.current !== null) {
+        clearTimeout(timeoutIdRef.current);
+      }
+      setIsGameStarted(false);
+      setMoleState({
+        hit: new Set(),
+        visible: new Set()
+      });
+
       return;
     }
 
-    const moleSequence = generateMoleSequence(TOTAL_STEPS, HOLE_COUNT, MAX_MOLES_PER_STEP);
+    const currentStep = moleSequence.current[stepIndexRef.current] ?? [];
 
-    totalMoleHeadsCount.current = moleSequence.reduce((total, step) => {
-      return total + step.length;
-    }, 0);
+    setMoleState({
+      hit: new Set(),
+      visible: new Set(currentStep)
+    });
 
-    const showMole = (): void => {
-      if (stepIndexRef.current >= TOTAL_STEPS) {
-        setIsGameStarted(false);
+    stepIndexRef.current += 1;
 
-        return;
-      }
-
-      const currentStep = moleSequence[stepIndexRef.current] ?? [];
-
-      setMoleState({
-        hit: new Set(),
-        visible: new Set(currentStep)
+    timeoutIdRef.current = setTimeout(() => {
+      setMoleState((prev) => {
+        return {
+          ...prev,
+          visible: new Set()
+        };
       });
 
-      stepIndexRef.current += 1;
-
-      setTimeout(() => {
-        setMoleState((prev) => {
-          return {
-            ...prev,
-            visible: new Set()
-          };
-        });
-
-        setTimeout(showMole, WAIT_DURATION * 1000);
-      }, ANIMATION_DURATION * 1000);
-    };
-
-    showMole();
-  }, [isGameStarted]);
+      timeoutIdRef.current = setTimeout(showMole, WAIT_DURATION * 1000);
+    }, ANIMATION_DURATION * 1000);
+  };
 
   const handleMoleClick = useCallback((index: number): void => {
     setMoleState((prev) => {
@@ -111,30 +97,29 @@ const WhackMole: WhackMoleType = () => {
         return prev;
       }
 
-      return {
-        hit: new Set([...prev.hit, index]),
-        visible: new Set(
-          [...prev.visible].filter((idx) => {
-            return idx !== index;
-          })
-        )
-      };
-    });
+      setHitCount((count) => {
+        return count + 1;
+      });
 
-    setHitCount((prev) => {
-      return prev + 1;
+      const newHit = new Set(prev.hit);
+
+      newHit.add(index);
+
+      const newVisible = new Set(prev.visible);
+
+      newVisible.delete(index);
+
+      return { hit: newHit, visible: newVisible };
     });
   }, []);
 
-  const handleStartGame = (): void => {
-    setIsGameStarted(true);
-    setHitCount(0);
-    stepIndexRef.current = 0;
-    setMoleState({
-      hit: new Set(),
-      visible: new Set()
-    });
-  };
+  useEffect(() => {
+    moleSequence.current = generateMoleSequence(TOTAL_STEPS, HOLE_COUNT, MAX_MOLES_PER_STEP);
+
+    totalMoleHeadsCount.current = moleSequence.current.reduce((total, step) => {
+      return total + step.length;
+    }, 0);
+  }, []);
 
   return (
     <div className='bg-primary relative flex items-center justify-center overflow-hidden rounded-lg'>
@@ -155,7 +140,12 @@ const WhackMole: WhackMoleType = () => {
             </div>
             <button
               className='button cursor-pointer rounded-lg border-b-[1px] border-amber-700 bg-amber-600 px-5 py-3 [box-shadow:0_10px_0_0_#92400e,0_15px_0_0_#92400e41] transition-all duration-150 select-none active:translate-y-2 active:border-b-[0px] active:[box-shadow:0_0px_0_0_#92400e,0_0px_0_0_#92400e41]'
-              onClick={handleStartGame}
+              onClick={() => {
+                setHitCount(0);
+                stepIndexRef.current = 0;
+                setIsGameStarted(true);
+                showMole();
+              }}
               tabIndex={-1}
               type='button'
             >
@@ -170,6 +160,9 @@ const WhackMole: WhackMoleType = () => {
           <button
             className='cursor-pointer rounded-lg bg-amber-700 px-2 py-1 text-white'
             onClick={() => {
+              if (timeoutIdRef.current !== null) {
+                clearTimeout(timeoutIdRef.current);
+              }
               setIsGameStarted(false);
               setMoleState({
                 hit: new Set(),
