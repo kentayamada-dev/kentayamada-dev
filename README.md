@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1274d21b161a40a9167df853fe84b913.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c14a6c2cf9d04df6d7ec081ca177fe9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5096aff66fcc963a6615f97a2d33984dd8f3a360>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000079-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「中東情勢悪化は利益に」ロシア・メディア報道「体制転換狙いなら脅威」とも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000079-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「中東情勢悪化は利益に」ロシア・メディア報道「体制転換狙いなら脅威」とも
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、米鉄鋼再生の試金石
+      <a href=https://news.yahoo.co.jp/articles/6d900a7af1536e12fde50d4c45e013cc9580548a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36161257-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 日本バレーボール協会、国籍変更選手を巡り関係者処分「本当に大反省しております」川合俊一会長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e990cb23d6cc24351f17f6c68cf895af6c5c1636>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-04645924-tsb-000-2-thumb.jpg?exp=10800&fmt=webp> 水泳の授業はスポーツクラブで　働き方改革の一環　塩尻市の洗馬小学校で始まる　今後ほかの学校への拡大検討　教員の負担軽減　天候に影響されず専門的な指導も
+      <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、米鉄鋼再生の試金石
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542475>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02250345/title-1750030518119.jpeg?exp=10800> 悪質ホスト対策 法で禁止の行為は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542473>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/260ea94b5b9a7ce7bd1c0effff73a8544d1eb1e8492e09e716787e6059211caa.jpg> 印墜落 婚約したばかりの2人犠牲
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/888f5e49c48e4f5f2fc8916e16f589081a80f6aa842361efbbdcca143d7f5bd3.jpg> 泳げない子増加 授業中止が影響か
+      <a href=https://news.yahoo.co.jp/pickup/6542484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2475ac7fd53175cd9eeaf3ff3d1fa092c0c396dfe82ff2a60d31b52752c71d77.jpg> 原口一博氏 あばら骨を複数本骨折
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/29d69d48d07639dfbb77d766910500855ff2d15299f99ccda4ebbcc7904cbb13.jpg> 子供の近視の進行抑制 目薬の効果
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542478>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b97ed0db227030834fd13cea8f0247a8710e619cabae434050a4574012bd5679.jpg> NPB最下位対決 コラボ応援で満員
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542465>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/hamadashunya/02251440/title-1750075223200.jpeg?exp=10800> ファンクラブ開設ラッシュ 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/121539284c2b11b39941d1cc64fbd93f632d771534ae5063acff6ef52042f5e6.jpg> バレー協会会長ら 給与一部返納へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 22:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 22:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
