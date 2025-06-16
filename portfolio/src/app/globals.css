@@ -36,22 +36,6 @@
   code .line {
     @apply px-4;
   }
-  code {
-    counter-reset: step;
-    counter-increment: step 0;
-  }
-  code .line::before {
-    content: counter(step);
-    counter-increment: step;
-    width: 1rem;
-    margin-right: 1rem;
-    display: inline-block;
-    text-align: right;
-    color: rgba(115, 138, 148, 0.6);
-  }
-  code .line:last-child {
-    @apply hidden;
-  }
   svg {
     stroke-width: 2;
     stroke-linecap: round;

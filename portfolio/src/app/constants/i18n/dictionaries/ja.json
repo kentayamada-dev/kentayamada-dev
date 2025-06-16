@@ -18,6 +18,7 @@
     "contact": "お問い合わせ"
   },
   "labels": {
+    "copyCodeLabel": "コードをコピー",
     "localeSwitcherLabel": "言語切り替え",
     "themeSwitcherLabel": "テーマ切り替え",
     "openSidePanelLabel": "サイドパネルを開く",

@@ -4,6 +4,7 @@ import rehypeKatex from 'rehype-katex';
 import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
 import { visit } from 'unist-util-visit';
+import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
 import { A, Code, H, Hr, Input, Li, Section, Span, Ul } from './components';
 import type { EvaluateResult, MDXComponents, MDXRemoteOptions } from 'next-mdx-remote-client/rsc';
@@ -44,6 +45,8 @@ const options: MDXRemoteOptions = {
 };
 
 const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
+  const { copyCodeLabel } = dictionaries[locale].labels;
+
   const components = headingLevels.reduce<Record<string, ComponentType<HTMLAttributes<HTMLHeadingElement>>>>((acc, heading) => {
     acc[heading] = H(heading, locale);
 
@@ -53,15 +56,15 @@ const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
   return {
     ...components,
     a: A,
-    code: Code,
+    code: (props): JSXElementType => {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
+      return createElement(Code, { ...props, copyCodeLabel });
+    },
     hr: Hr,
     input: Input,
     li: Li,
     section: Section,
-    span: (props): JSXElementType => {
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
-      return createElement(Span, { ...props, locale });
-    },
+    span: Span,
     ul: Ul
   };
 };

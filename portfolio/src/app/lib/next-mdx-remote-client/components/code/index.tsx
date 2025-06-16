@@ -4,13 +4,12 @@ import type { CodeType } from './types';
 
 const Code: CodeType = async (props) => {
   // eslint-disable-next-line react/destructuring-assignment
-  const { children, className, 'data-language': lang, 'data-title': title, ...rest } = props;
+  const { children, className, copyCodeLabel, 'data-language': lang, 'data-title': title, ...rest } = props;
   const hasDataLanguage = Boolean(lang);
 
   // eslint-disable-next-line no-undefined
   if (hasDataLanguage && lang !== undefined && title !== undefined) {
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-    const html = await codeToHtml(children as string, {
+    const html = await codeToHtml(children.slice(0, -1), {
       lang,
       themes: {
         dark: 'github-dark',
@@ -26,7 +25,7 @@ const Code: CodeType = async (props) => {
       ]
     });
 
-    return <CodeBlock html={html} lang={lang} title={title} />;
+    return <CodeBlock copyCodeLabel={copyCodeLabel} html={html} lang={lang} title={title} />;
   }
 
   return (

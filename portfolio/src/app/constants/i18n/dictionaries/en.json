@@ -18,6 +18,7 @@
     "contact": "Contact"
   },
   "labels": {
+    "copyCodeLabel": "Copy Code",
     "localeSwitcherLabel": "Language Change",
     "themeSwitcherLabel": "Theme Change",
     "openSidePanelLabel": "Open Side Panel",

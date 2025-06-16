@@ -1,10 +1,7 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ComponentType } from '@/types/components';
 
-type SpanProps = ComponentPropsWithoutRef<'span'> & {
-  locale: LocaleKeyType;
-};
+type SpanProps = ComponentPropsWithoutRef<'span'>;
 
 type SpanType = ComponentType<SpanProps>;
 

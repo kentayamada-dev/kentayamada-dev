@@ -63,6 +63,7 @@ const CodeBlock: CodeBlockType = (props) => {
           <div>{props.title}</div>
         </div>
         <button
+          aria-label={props.copyCodeLabel}
           className='flex size-9 items-center justify-center overflow-hidden rounded-lg p-2 hover:cursor-pointer hover:bg-slate-300 hover:dark:bg-slate-600'
           onClick={handleCopy}
           type='button'

@@ -40,6 +40,7 @@ type DictionaryType = {
   };
   labels: {
     closeSidePanelLabel: string;
+    copyCodeLabel: string;
     githubLinkLabel: string;
     homeLinkLabel: string;
     localeSwitcherLabel: string;

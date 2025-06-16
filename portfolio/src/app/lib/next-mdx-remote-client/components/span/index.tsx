@@ -6,7 +6,7 @@ import type { SpanType } from './types';
 
 const Span: SpanType = (props) => {
   // eslint-disable-next-line react/destructuring-assignment
-  const { className, locale, ...rest } = props;
+  const { className, ...rest } = props;
   const spanRef = useRef<HTMLSpanElement>(null);
 
   useEffect(() => {

@@ -1,10 +1,13 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { AsyncComponentType } from '@/types/components';
+import type { AsyncComponentType, ConditionalPickType, StrictOmitType } from '@/types/components';
+import type { CodeBlockProps } from './codeBlock/types';
 
-type CodeProps = ComponentPropsWithoutRef<'code'> & {
-  'data-language': string | undefined;
-  'data-title': string | undefined;
-};
+type CodeProps = StrictOmitType<ComponentPropsWithoutRef<'code'>, 'children'> &
+  ConditionalPickType<CodeBlockProps, 'copyCodeLabel'> & {
+    'children': string;
+    'data-language': string | undefined;
+    'data-title': string | undefined;
+  };
 
 type CodeType = AsyncComponentType<CodeProps>;
 
