@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bbd551f73f10a2aadd583cb98b9bd5d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58539dcbcaa8cb55454cf2ad04472c5f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5854f38e0d9f3ce60db3f1d0b2e3c60577a1358d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010006-teletamav-000-1-thumb.jpg?exp=10800&fmt=webp> 7年前に知人女性殺害疑い　31歳の男逮捕／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/c38a2c62732cc5c29a6bc082434b4b63ae9facf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09792546-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東で今年初の「熱中症警戒アラート」　猛暑日や体温並みの所も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2f16b46ddb6f754df37cfdd29327b95d8700647>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90020117-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場近くで「拳銃誤発射」　警備担当の機動隊員が『警察車両の中で誤って引き金引く』けが人なし
+      <a href=https://news.yahoo.co.jp/articles/8cfe677bb95e2ba43e3b13eb783c4877bfe6ad00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000095-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=1095&ch=1095&exp=10800&fmt=webp> 自民・小林鷹氏、2万円給付を疑問視
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d5a586321e81624e9f9ded7d064ab87dce687a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348627-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平　突然の二刀流復活でロバーツ監督がウソつき呼ばわり「役に立たない情報」＝米報道
+      <a href=https://news.yahoo.co.jp/articles/b8a544686e26187a285e419b03607ddd1593afa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00051773-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博で警備の警察官が誤発射　拳銃ケースにしまおうと…誤って引き金を引いたか　けが人なし　大阪府警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f5168bd4a00a355dac90b114534b871e4c121bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関東地方で今年初の「熱中症警戒アラート」発表　17日も厳しい暑さ…厳重な警戒を
+      <a href=https://news.yahoo.co.jp/articles/4bb39bb634789077234d32c1c83174d4e1a22198>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098038-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「大きな驚き」「ドジャー・スタジアムが満員になる可能性が」大谷翔平、突然の先発復帰に米メディア衝撃「It’s Sho time」と期待の声も
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6ea2dc20cf352f489ab5fa35b9d8e1188405a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000065-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル攻撃から4日目　緊迫“ハメネイ師殺害計画”も“トランプ大統領が阻止”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000065-ann-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル攻撃から4日目　緊迫“ハメネイ師殺害計画”も“トランプ大統領が阻止”
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/688af67b8845039f5e9b4ff4421141792e02782273c58457968dc538bbb9d791.jpg> 農相 コメ作況指数の公表廃止表明
+      <a href=https://news.yahoo.co.jp/pickup/6542462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/60f4eebb6343b0e4c57e226638e91afff4c4c8f8e10fbdc6bfce13837d1b31ec.jpg> 自民「給付」方針 首相決断の裏側
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/276c7fc085ec308f1d4bfc99b1666745b582753d869a833e6a5786a82111f9cd.jpg> 政府 海外にオンカジ接続禁止要請
+      <a href=https://news.yahoo.co.jp/pickup/6542457>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/inosehijiri/02251266/title-1750058623228.jpeg?exp=10800> 米で政治家狙ったテロ相次ぐ 背景
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542461>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/561a8bc175264393243a210ed9b8d0a25e668ad3e01d54f279f0f5369cbdd4ee.jpg> 21歳殺害 容疑の男「殺人願望」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/55020c83e7c67ad037baa6bdca9d754c3761dfad95445da03f882f55444a4253.jpg> コロナ給付金 性風俗除外は合憲
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/938052e8a85d61635574d757a0cea93cd35bccb58d2a74b1cb47f4f4d62dc510.jpg> SB山川穂高が2軍降格 打撃苦しむ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/ae70eac2b01e27b5a5f080eb2fb3ddde2e330c45450e56a45cfe839dd54d0e20.jpg> 元DF鮫島彩さん 結婚と出産報告
+      <a href=https://news.yahoo.co.jp/pickup/6542463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8ca1fdf7385ffcb7d7911478df8e4ce26124a37c2a140986c00fd467f9395d6f.jpg> 後退するパトカーが衝突 女性骨折
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 19:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
