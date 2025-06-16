@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/934046747e0698896340e7ae678049e8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5aafc2f7fca056bfd8e78454ef81668c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9eabadded4322aa6b8e0635a85ea7787de3e5121>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-01773681-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の投手復帰戦、早くもプレミアチケットに　平日ナイター＆最上階席でさえ最安1.7万円
+      <a href=https://news.yahoo.co.jp/articles/e50de7139699f2c169c3b461983f30513917b2f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098020-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「その時が来た」663日ぶりに復帰する“投手・大谷翔平”に米沸騰！ LAメディア期待「驚異的かつ頼れるバッターであり優れた投手でもある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c338659ec50e5048acf94e28369e815e701de081>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000003-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=510&ch=510&exp=10800&fmt=webp> SMBCとSBIが業務提携、最上位「Olive」で資産運用サービスを強化へ
+      <a href=https://news.yahoo.co.jp/articles/12e12f67c9c3d468969a086fcd0c47deed74b254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名車転落事故、薬物使用容疑で男女再逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ad7a15954ef3e274d776dfc83d612c20d80ad58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09543767-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】東→西ゲート徒歩で移動できるルート新設　混雑緩和期待も「意外と遠いのでちょっとしんどい」
+      <a href=https://news.yahoo.co.jp/articles/aedd4498e8a13cb337d7a386a729620032708253>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博「東から西」徒歩ルート開設　混雑緩和、ゲート偏り対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4af2b11ad2d7e03d62b6f446171a398ac7cd0029>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050051-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、首都テヘランで８０以上の標的空爆…民間人被害の拡大懸念し脱出する市民も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7777b46149be2de5dc71d3323026e600c1e09b5c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-osknichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=600&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 国連パビリオン・吉本興業がSDGsイベントを開催　JO1、パリ五輪金メダリストらが登壇
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd6a19dd97d093c093b1145953ab332301f1980f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000027-ann-000-6-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン双方に多数の犠牲者　避難してきたウクライナ人も死亡
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542422>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/6a969bba71f3e89d2136a4750f8d20d2331d8016b24af10ee2019f9c7058e85f.jpg> イランがミサイル攻撃 着弾の現場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2b13053d89b807aa35826f4be8a41e68ed4c3ff266b7224c402be80872fe9f7c.jpg> 三井住友とSBI 資産運用の新会社
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/69e2581f3add4ca4fb7993e45d4d965e53f3d1a12d282b8bd80081c1f800fd0a.jpg> 客数が大幅増 無印良品なぜ好調
+      <a href=https://news.yahoo.co.jp/pickup/6542414>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 資源ごみ持ち去り相次ぐ 対策苦慮
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/88848161a2553cb08f5ff50566fc69c51f67dbf40d399ff2008bfed02dcd64c7.jpg> 寺尾聰から要請 録音止めた記者
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 13:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 14:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
