@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QZSauc2Umpw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ddd4d9d1df3ba7bb21e7101fcd41a42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55347d99185e245da331dc68b034fe85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf844ff131702f589a2dad59f9e93d6d575348cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-21981738-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> V長崎 下平監督契約解除し高木琢也氏を新監督へ
+      <a href=https://news.yahoo.co.jp/articles/da88648d9a059ad4bff460a8ae730ae569c26192>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-05937276-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン、攻撃の応酬続く…現在の状況は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8cfdb727830d2f9782a5423720490e74b2462e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-35234315-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> イスラエルの死者、一晩で８人に　イランによるミサイル攻撃で
+      <a href=https://news.yahoo.co.jp/articles/d38ccfd4872f49ede0afd376c8159537cfc7c467>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09711292-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “投手・大谷”電撃復帰の背景は...大谷からロバーツ監督へある進言　前日は二刀流の負担に「通常のスタイル」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7289277298bd9cceff00e4f0e9670713f739674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010006-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の電撃投手復帰はドジャースに好影響!? “リハビリ登板”も「苦境の投手陣にとって大きな励み」と指摘するワケ
+      <a href=https://news.yahoo.co.jp/articles/5192d19bbd745c84e69d4638d388873fa07ef93f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90027480-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 宮迫博之の長男、「宮迫陸」に改名を発表
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/688af67b8845039f5e9b4ff4421141792e02782273c58457968dc538bbb9d791.jpg> 農相 コメ作況指数の公表廃止表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542442>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bbe6fdd4feb40a181a82cdbea4a9be9f7572f6b3d2f96b45e005ccc92b22a9ab.jpg> 熱中症疑い きょう都内で21人搬送
       </a>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/628b59129842595d67884f5b4979e1eacfe30f034ae989b12a6927cd68df8e01.jpg> 「次の首相」小泉氏1位 産経FNN
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542446>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/275958e101b437adc0d834cea9f117edd6095736100b37b054a18d4ad0ede10f.jpg> 不明の21歳女性を殺害容疑 男逮捕
       </a>
@@ -434,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a320cb6ecabf7ab536ce2eda33a0150c27b0dce7b38ca424b83016bb34597c5f.jpg> 16年前の同居女性殺害 被告が否認
+      <a href=https://news.yahoo.co.jp/pickup/6542451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f0694a9a3446367f5a8c1c9ec6dd7a8fabca3132c4125fcda8a99bde00e48af6.jpg> 卵子採取し販売 軟禁タイ女性証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/86ce442d6fd02a9a2e9aed8814e9590edb78152f43093158fdd2651fcfaee56b.jpg> 男児誘拐しわいせつ疑い 教諭逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/98d3dc9a858d6bd2c9863ed64e761cbe60a2e0aa5ef42a4773d13fbe61881918.jpg> J2長崎 下平隆宏監督を電撃解任
+      <a href=https://news.yahoo.co.jp/pickup/6542454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/938052e8a85d61635574d757a0cea93cd35bccb58d2a74b1cb47f4f4d62dc510.jpg> SB山川穂高が2軍降格 打撃苦しむ
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/07f1e7128ce91f02b1e38d971deaecda47e96acd4bfffe7f0e77b25931b16510.jpg> 宮迫長男 芸名を「宮迫陸」に改名
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 17:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 18:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
