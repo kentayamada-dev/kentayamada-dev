@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d205dda4928205ab8eb267821ace51a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c81b9da2e387a5c2747ba51bf9eb8b79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6ca26d3d167fe577f4a97d8c723429630c04bdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン大統領「報復厳しいものに」　イスラエルの攻撃継続をけん制
+      <a href=https://news.yahoo.co.jp/articles/472002e51bbe8f2cd6acad2bf4e220de2a455e0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランの応酬続く、テヘランの石油施設なども被害　双方の犠牲者も増加
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89dae312edfb75c50cb1f109d643ec97a7627812>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000182-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=688&ch=688&exp=10800&fmt=webp> 阪神・岡田彰布オーナー付顧問「ちっちゃいときやってお前、バット放って走るんやで、一塁へ」　フェンス直撃単打の佐藤輝明へテレビ解説後も苦言
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000182-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=688&ch=688&exp=10800&fmt=webp> 阪神・岡田彰布オーナー付顧問「ちっちゃいときやってお前、バット放って走るんやで、一塁へ」　フェンス直撃単打の佐藤輝明へテレビ解説後も苦言
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/20788e610c7c77f8ed896dada7fbbdf54d1a0ef9a0b0f45d55aabf17401f0726.jpg> 仏ルノーCEO 7月15日付で退任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7ba4d278095928759660d2a4c7df4999588112e96ce7bbb202230b7231677c50.jpg> 都議選は自民横ばい国民下落 読売
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542391>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0f7123abafb30cbfa7d5e0ffc982011bfd83dae3eb054157fb83a42530df7e7e.jpg> ハメネイ師暗殺計画 米大統領反対
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a683d33e60d67bdfcd1bc5cecc35f18cbf7a4ad72790598df16f9b3197e295b4.jpg> 工藤会トップ 複数土地を家族信託
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542388>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f70f85cef1868cb23c2c3e2f4c1221645df67548017a3cf325de2ab46a9977f9.jpg> 川崎遺体 娘の避難巡り悔やむ父
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/081667af6cdc9a4a93d72b81e75ba09b1f13cdab3549b8878d1ab4cfcff89460.jpg> 潮干狩り中に流されたか 遺体発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 08:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 09:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
