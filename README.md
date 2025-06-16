@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0eee79145c3b923c588111b823431cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fae9a0f18d8738f2d2aa197da63bb1ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c2eab2c9582b770b3c44b0fcc37fcdee11d4596>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988069-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 生放送中にイスラエル軍がイラン国営テレビを攻撃、戦闘範囲を拡大　ネタニヤフ首相はイランの最高指導者・ハメネイ師を標的とすること否定せず
+      <a href=https://news.yahoo.co.jp/articles/30e8a20441fa9b7c926f327ffb29b2e4f94a997a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183902-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=781&ch=781&exp=10800&fmt=webp> G7がカナダで開幕 イスラエル・イランの軍事衝突も主な議題に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27295c06d328f21b4119f1439ef369cf8e8c5a6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171007-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 大谷翔平、オールスター投票中間発表で貫禄のリーグ最多得票…鈴木誠也はＤＨ部門３位
+      <a href=https://news.yahoo.co.jp/articles/abd18624ab9cacac6f0471ee1a8a9ff2eaf1ea70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00548441-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷登板で2年ぶりの“バグ”発生　「世界線おかしい」「HR王が投手復帰？」ネット久々に騒然
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a4bae97a82b504e4b4beff074c39952f5a1c8815ccdd49664ddc63e4166b0abf.jpg> コメ平均価格 3週連続値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542494>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4951fc38a29f6e64ca5e3bccd67ff3c460d655ae597a49a773dd18e671fde320.jpg> イラン国営放送に爆撃 生放送中断
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/80d5cc2de61c9f63b5952c30b9fb073fef757cf48ad6898e62f3de678b0c488e.jpg> 農相お膝元で自公系敗北 政界波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2475ac7fd53175cd9eeaf3ff3d1fa092c0c396dfe82ff2a60d31b52752c71d77.jpg> 原口一博氏 あばら骨を複数本骨折
+      <a href=https://news.yahoo.co.jp/pickup/6542499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c48fb21d5986676f2fb4040c1bd7eee437e1b78982dbb0e8720a5eb5852a4d11.jpg> 日本郵便 ヤマトなどに集荷委託へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 07:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 07:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
