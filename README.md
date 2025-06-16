@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/140b8f57d471e9030e172aa7a7a605a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/934046747e0698896340e7ae678049e8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/650fe91d4ee3984ea3419a903ec1254b3c366c20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00548342-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ、大谷翔平はすぐ先発登板するのか　米記者が分析、実戦形式の練習が「先発以上に負担」の理由
+      <a href=https://news.yahoo.co.jp/articles/9eabadded4322aa6b8e0635a85ea7787de3e5121>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-01773681-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の投手復帰戦、早くもプレミアチケットに　平日ナイター＆最上階席でさえ最安1.7万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76261b5cabaadbb9a0d141168ad9e4c372176e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> カナダでG7サミット開幕へ　50年の節目、米国つなぎとめが焦点
+      <a href=https://news.yahoo.co.jp/articles/c338659ec50e5048acf94e28369e815e701de081>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000003-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=510&ch=510&exp=10800&fmt=webp> SMBCとSBIが業務提携、最上位「Olive」で資産運用サービスを強化へ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f58301b9f393ece3548444421e19fb1d11342db5e652193291748d699bd30d35.jpg> 金価格が最高値更新 中東情勢受け
+      <a href=https://news.yahoo.co.jp/pickup/6542413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8d9459acd38cddc4ff4a649e7726c51330571474089c9088bfb210b026ef089c.jpg> ロピア 公取委が立ち入り検査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8d9459acd38cddc4ff4a649e7726c51330571474089c9088bfb210b026ef089c.jpg> ロピア 公取委が立ち入り検査
+      <a href=https://news.yahoo.co.jp/pickup/6542426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/c21de66100a29bad4a54e257922f9a04cabd411e233b3aa390c6f63f562b1843.jpg> 六花亭カステラにカビ 自主回収
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3677bd61eebd9bff87d4990c829d702055662931f945ff0abe226c459ca7c1e3.jpg> スプラ新作発表方法に驚き 理由は
+      <a href=https://news.yahoo.co.jp/pickup/6542418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/69e2581f3add4ca4fb7993e45d4d965e53f3d1a12d282b8bd80081c1f800fd0a.jpg> 客数が大幅増 無印良品なぜ好調
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 13:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 13:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
