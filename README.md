@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2572c39520b63c3186a15822e54ab1c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb56d90a1508c83047c139d6329bdb62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24c96f2696b82190fdebd3ac659a5a8a950d85f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000071-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル、イランの地対地ミサイル発射台の3分の1破壊　犠牲拡大
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5baffe92cb755aa54a95e1b4a0a4bcaea4fe1ef3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987782-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 尿検査で「がん早期発見」ステージ0の前段階の病変など発見　北大などのプロジェクトチーム
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6ea2dc20cf352f489ab5fa35b9d8e1188405a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000065-ann-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル攻撃から4日目　緊迫“ハメネイ師殺害計画”も“トランプ大統領が阻止”
+      <a href=https://news.yahoo.co.jp/articles/e990cb23d6cc24351f17f6c68cf895af6c5c1636>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-04645924-tsb-000-2-thumb.jpg?exp=10800&fmt=webp> 水泳の授業はスポーツクラブで　働き方改革の一環　塩尻市の洗馬小学校で始まる　今後ほかの学校への拡大検討　教員の負担軽減　天候に影響されず専門的な指導も
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542457>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/inosehijiri/02251266/title-1750058623228.jpeg?exp=10800> 米で政治家狙ったテロ相次ぐ 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a745879c74a720918e63f23623205534ffa0b580dc72dc1e4f30167281e19a9d.jpg> 英情報機関長官に女性 116年で初
+      <a href=https://news.yahoo.co.jp/pickup/6542471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a745879c74a720918e63f23623205534ffa0b580dc72dc1e4f30167281e19a9d.jpg> 英MI6長官に女性 116年の歴史で初
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542465>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ファンクラブ開設ラッシュ 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bc63b3b2309de57b985fc6ba0ec4bf2809a233036c12130214ec8e726b8a84de.jpg> 女子理由に面接終了 40年前の就活
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/07f1e7128ce91f02b1e38d971deaecda47e96acd4bfffe7f0e77b25931b16510.jpg> 宮迫長男 芸名を「宮迫陸」に改名
+      <a href=https://news.yahoo.co.jp/pickup/6542470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/982cab580d70406244d6c3ef3bffcfa639de94fd2734e498750752b3647db3d5.jpg> 尿を用いて肺がん超早期発見 研究
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542465>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/hamadashunya/02251440/title-1750075223200.jpeg?exp=10800> ファンクラブ開設ラッシュ 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 20:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 21:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
