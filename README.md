@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29c9af5c13b30c710ad2988dff4ecbf2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4dc26a364b8314f858ceb205654e7af7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b46325050c61896d79566d90b66f5ee729b5a4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000033-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 大谷翔平、第3打席は左前打で『父の日マルチ安打』…ドジャース逆転劇の口火、初回から3打席連続出塁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c86795228b95d4ed5e745545c73fb2b41bc669eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000358-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 柔道金メダリスト角田夏実が「人生相談」に行く店　万博「81キロ級」らとのトークで明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/222eb1d7e9e09375781f093596c515d3ffc61b2f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン側の死者224人に　首都へ激しい攻撃、住民避難　イスラエルとの交戦沈静化せず
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74d754011a037ab1500b215e8e7f9d2855504328>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> USスチール「黄金株」内容が判明　米商務長官が投稿
+      <a href=https://news.yahoo.co.jp/articles/11d7cc385536b6c2b5835dcd2a6c921cbc05637b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-32111069-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 日鉄のＵＳスチール買収、株主は恩恵見極めへ－米政府承認で株価反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89dae312edfb75c50cb1f109d643ec97a7627812>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250615-00000182-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=688&ch=688&exp=10800&fmt=webp> 阪神・岡田彰布オーナー付顧問「ちっちゃいときやってお前、バット放って走るんやで、一塁へ」　フェンス直撃単打の佐藤輝明へテレビ解説後も苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1410b91b3bc83d3f5958a38c6ccbfe6e8addd37b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-10183707-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 小泉農水大臣、コメの収穫量の調査 16日に見直し発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dc82a0ff50c6825d39174143ca0188a7780c760>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-01638581-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【オリックス】森友哉が涙のヒーローインタビュー　希少がんと闘う友へエールを込めた勝ち越しタイムリー
+      <a href=https://news.yahoo.co.jp/articles/8a9d0c8de7fd8b77c4a5cfec5ebcf48d54cba693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000018-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「米国、入国制限対象にエジプト・カンボジアなど３６カ国追加を検討」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f2e4c10162a9b73042179074ff520031d555a2a65f3c3a466251db74c566d545.jpg> 米政権 入国制限に36カ国追加検討
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542390>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f70f85cef1868cb23c2c3e2f4c1221645df67548017a3cf325de2ab46a9977f9.jpg> 川崎遺体 娘の避難巡り悔やむ父
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542399>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/081667af6cdc9a4a93d72b81e75ba09b1f13cdab3549b8878d1ab4cfcff89460.jpg> 潮干狩り中に流されたか 遺体発見
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/da99dee0e978fe6508c1c127c7b52ce6b7186d44068b80a6c627d5e603453e5f.jpg> J1最下位の横浜M また監督解任へ
+      <a href=https://news.yahoo.co.jp/pickup/6542405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b4657bb4d07f695dc70f6f22461ebe1234ae37fa9eb69e9b641c3e03c77faeae.jpg> 大谷 父の日仕様の青バットで快打
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 09:30:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 10:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
