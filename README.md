@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc27f3e8d323f3fb908887156376a5ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/377ce69bed48f543e1ef822930fa82da.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5924bb9e8635c9977ed14d7d02de35e8dcc2eecc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000001-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 生放送中に空爆　イラン国営テレビがイスラエル軍の攻撃を受け騒然
+      <a href=https://news.yahoo.co.jp/articles/bc321d04c426899cb9441d6576f3205b18f09389>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 大谷翔平　６６３日ぶり投手電撃復帰　ロバーツ監督「とんでもない盛り上がりになる」　１７日ＮＨＫ急きょ地上波放送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73ecc6f6347279238e726f70d3a175d7bc434b87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000078-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=859&ch=859&exp=10800&fmt=webp> ドジャース・大谷　17日に投手電撃復帰！663日ぶり登板でまずは1イニング
+      <a href=https://news.yahoo.co.jp/articles/5924bb9e8635c9977ed14d7d02de35e8dcc2eecc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000001-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 生放送中に空爆　イラン国営テレビがイスラエル軍の攻撃を受け騒然
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 02:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 02:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
