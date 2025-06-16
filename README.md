@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c81b9da2e387a5c2747ba51bf9eb8b79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29c9af5c13b30c710ad2988dff4ecbf2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/472002e51bbe8f2cd6acad2bf4e220de2a455e0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランの応酬続く、テヘランの石油施設なども被害　双方の犠牲者も増加
+      <a href=https://news.yahoo.co.jp/articles/222eb1d7e9e09375781f093596c515d3ffc61b2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン側の死者224人に　首都へ激しい攻撃、住民避難　イスラエルとの交戦沈静化せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01f3ff16db31e6bfad56d21f80a2825cc5af585c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000003-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 日本製鉄のUSスチール買収承認、トランプ政権「黄金株」で拒否権、工場閉鎖など介入も［新聞ウォッチ］
+      <a href=https://news.yahoo.co.jp/articles/74d754011a037ab1500b215e8e7f9d2855504328>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> USスチール「黄金株」内容が判明　米商務長官が投稿
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0be227f1caae430ce14b17772c1d6d46b9a1913a342276596f89edf1c1a945cd.jpg> 台湾有事 沖縄巡り重なる80年前
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542391>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0f7123abafb30cbfa7d5e0ffc982011bfd83dae3eb054157fb83a42530df7e7e.jpg> ハメネイ師暗殺計画 米大統領反対
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542396>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a683d33e60d67bdfcd1bc5cecc35f18cbf7a4ad72790598df16f9b3197e295b4.jpg> 工藤会トップ 複数土地を家族信託
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/fe18c422883a6e97b3a42bd89e37de2f5f3579c0751ce08867290f183bcbd48f.jpg> 農相の地盤で自公系市長が敗北
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2724abfdb6b6af02e77c9b267cc1d3d2072e065df84200b27382eb75f8fece69.jpg> 朗希の今季構想外を示唆 監督
+      <a href=https://news.yahoo.co.jp/pickup/6542402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/da99dee0e978fe6508c1c127c7b52ce6b7186d44068b80a6c627d5e603453e5f.jpg> J1最下位の横浜M また監督解任へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4dfbc01cd2c691fceb1c1226bcc79654dc06983efb73ffca1b0578b5753ffff6.jpg> 二宮和也 ジャニー氏に「謝って」
+      <a href=https://news.yahoo.co.jp/pickup/6542398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3d30134a478a44273c80dca773da9f1d077e4ef628d96d36ef50a69dd1a9c2bc.jpg> 阪神・岡田顧問 佐藤輝の走塁論外
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 09:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 09:30:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
