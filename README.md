@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7e1558bc942d3f08933bdcf6fbf1444.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae4ae0de2941c8aef5bb2da486198b3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e442f4350ca6ebca22ed15b260ec2ef0750a052f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000041-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博警備の警察官、警察車両内で拳銃1発を誤って発射　勤務交代時に
+      <a href=https://news.yahoo.co.jp/articles/0f9c599b8d983ef811934605ec994fad4d921ee9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90020109-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 【速報】万博警備の大阪府警機動隊員が会場外の警察車両の中で『誤って拳銃1発を発射』けが人はなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c1fc8e8be79b7425fee53d8427e70e04df7fd5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030240-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日17日さらに酷暑で暑さのピーク　関東甲信で猛暑日続出　40℃迫る危険な暑さも
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ac60ee3dc83796112501890b9feceda68fd3fe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】今週は猛暑日続出　危険な暑さに　夜間も蒸し暑さが続く
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7639a82d7a62fb6590a1de2b1365c2f2a2f779ed74c2ba738373ea3be9bf26f1.jpg> 贈り物にコメ お中元などで人気
+      <a href=https://news.yahoo.co.jp/pickup/6542441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/628b59129842595d67884f5b4979e1eacfe30f034ae989b12a6927cd68df8e01.jpg> 「次の首相」小泉氏1位 産経FNN
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 15:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 16:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
