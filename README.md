@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a40c03e5fb71491f2c767e7463fd161.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/140b8f57d471e9030e172aa7a7a605a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90b72f3ac47defed8daadc043458360c4b852743>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00548362-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、先発マウンドに立つだけで衝撃のドジャース新記録に　「50」の大幅更新がほぼ確実　あす復帰登板
+      <a href=https://news.yahoo.co.jp/articles/650fe91d4ee3984ea3419a903ec1254b3c366c20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00548342-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ、大谷翔平はすぐ先発登板するのか　米記者が分析、実戦形式の練習が「先発以上に負担」の理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76261b5cabaadbb9a0d141168ad9e4c372176e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> カナダでG7サミット開幕へ　50年の節目、米国つなぎとめが焦点
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd6a19dd97d093c093b1145953ab332301f1980f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000027-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン双方に多数の犠牲者　避難してきたウクライナ人も死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffa63e47e9f83dd92602e805c9920b5b59de04c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000027-ann-000-6-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン双方に多数の犠牲者　避難してきたウクライナ人も死亡
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/51c0a4cd1abc94fe900b4309a35a8d1a8cf737e76b736d5b6888cbe1e939e7b0.jpg> 東京都心 今年最速ペースで真夏日
+      <a href=https://news.yahoo.co.jp/pickup/6542425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/aca5f4bb5e2e94f1ef16f522e495bba6785ae997afe09e73af09c22b2915588e.jpg> G7 中東の沈静化求め共同声明か
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8d9459acd38cddc4ff4a649e7726c51330571474089c9088bfb210b026ef089c.jpg> ロピア 公取委が立ち入り検査
+      <a href=https://news.yahoo.co.jp/pickup/6542420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f58301b9f393ece3548444421e19fb1d11342db5e652193291748d699bd30d35.jpg> 金価格が最高値更新 中東情勢受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f1dc7b05b4b6917d183f9448736c6491485ef28b850fab0c4787aa049a78ae6f.jpg> 食中毒処分に従わず営業疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8d9459acd38cddc4ff4a649e7726c51330571474089c9088bfb210b026ef089c.jpg> ロピア 公取委が立ち入り検査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 12:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 13:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
