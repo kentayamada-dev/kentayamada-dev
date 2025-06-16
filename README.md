@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d109c2a92ec8709d77422a14b3d33c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc27f3e8d323f3fb908887156376a5ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/247a5df6d60bc84d4f25e0fe6a76c6177ae86c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000000-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> イスラエル、イランの国営放送爆撃　ニュース番組で爆発の瞬間流れる
+      <a href=https://news.yahoo.co.jp/articles/5924bb9e8635c9977ed14d7d02de35e8dcc2eecc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000001-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 生放送中に空爆　イラン国営テレビがイスラエル軍の攻撃を受け騒然
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73ecc6f6347279238e726f70d3a175d7bc434b87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000078-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=859&ch=859&exp=10800&fmt=webp> ドジャース・大谷　17日に投手電撃復帰！663日ぶり登板でまずは1イニング
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a421779fd1ee158f4741f7b089c4b99bc5e6c5a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00348668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　昨年の結婚を電撃発表「そして先日、第一子が誕生いたしました！！！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab03d1d83c7a7f3b5187bde8ea4d5fadca2a4a98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36161417-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 米野球殿堂入りスラッガーは大谷翔平の投手復帰に「複雑だよ」「メジャーリーグの宝なんだから」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 01:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 02:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
