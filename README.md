@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/QZSauc2Umpw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53bb2ba9fa873e09c33840fed553aaf5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a40c03e5fb71491f2c767e7463fd161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90b72f3ac47defed8daadc043458360c4b852743>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00548362-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、先発マウンドに立つだけで衝撃のドジャース新記録に　「50」の大幅更新がほぼ確実　あす復帰登板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7ad7a15954ef3e274d776dfc83d612c20d80ad58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09543767-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】東→西ゲート徒歩で移動できるルート新設　混雑緩和期待も「意外と遠いのでちょっとしんどい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7777b46149be2de5dc71d3323026e600c1e09b5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010000-osknichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=600&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 国連パビリオン・吉本興業がSDGsイベントを開催　JO1、パリ五輪金メダリストらが登壇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd6a19dd97d093c093b1145953ab332301f1980f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000027-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン双方に多数の犠牲者　避難してきたウクライナ人も死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ffa63e47e9f83dd92602e805c9920b5b59de04c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b043a46305a8ec9a933464549cf34c44c4fe546>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06161056-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1106&ch=1106&exp=10800&fmt=webp> 大谷翔平が次カードのパドレス４連戦へ電撃投手復帰へ！　ロバーツ監督「おそらく」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9a38291147ec8d5451b1ed4b6c31f16ef8dac54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000045-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1548&ch=1548&exp=10800&fmt=webp> 焦点：日鉄、巨額投資早期に回収か　トランプ米政権の「保護」追い風
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62fac6afff5413511f7d4bd74b58fc879af5c540>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-35234291-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエルとイランの軍事衝突続く　死者イランで２２４人、イスラエルで１４人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c86795228b95d4ed5e745545c73fb2b41bc669eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000358-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 柔道金メダリスト角田夏実が「人生相談」に行く店　万博「81キロ級」らとのトークで明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f2e4c10162a9b73042179074ff520031d555a2a65f3c3a466251db74c566d545.jpg> 米政権 入国制限に36カ国追加検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0be227f1caae430ce14b17772c1d6d46b9a1913a342276596f89edf1c1a945cd.jpg> 台湾有事 沖縄は戦争前夜と危機感
+      <a href=https://news.yahoo.co.jp/pickup/6542422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/6a969bba71f3e89d2136a4750f8d20d2331d8016b24af10ee2019f9c7058e85f.jpg> イランがミサイル攻撃 着弾の現場
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/081667af6cdc9a4a93d72b81e75ba09b1f13cdab3549b8878d1ab4cfcff89460.jpg> 潮干狩り中に流されたか 遺体発見
+      <a href=https://news.yahoo.co.jp/pickup/6542419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/219e20605237aef9d601ed8704bbff225e6a0bab3597e25ad35fb7029e7f5741.jpg> 部下死亡 傷害致死疑いで上司逮捕
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/88848161a2553cb08f5ff50566fc69c51f67dbf40d399ff2008bfed02dcd64c7.jpg> 寺尾聰を取材 29秒で止めた録音
+      <a href=https://news.yahoo.co.jp/pickup/6542417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/c2fe6f1640050f169bb4c3a7f65495c10b93118aed7170fcad55e7b0d3c14acd.jpg> 大谷があす投手復帰 球団発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/88848161a2553cb08f5ff50566fc69c51f67dbf40d399ff2008bfed02dcd64c7.jpg> 寺尾聰から要請 録音止めた記者
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 11:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 12:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
