@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae4ae0de2941c8aef5bb2da486198b3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3649b1b3769b0e2aac30e3d408a25c3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f9c599b8d983ef811934605ec994fad4d921ee9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90020109-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 【速報】万博警備の大阪府警機動隊員が会場外の警察車両の中で『誤って拳銃1発を発射』けが人はなし
+      <a href=https://news.yahoo.co.jp/articles/abd99485f1342a55ca8a04e1a27fed07457f6f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010015-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イランが再びイスラエルに大規模ミサイル攻撃　一夜で新たに8人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d86f37b43583b778bcaf53213c2969c1ed48a9de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050094-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 万博警備の機動隊員、会場近くの警察車両内で拳銃１発誤射…ケースにしまう際に引き金引く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/782a056d9fce308f7d001616be36762b2728365b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-45959591-gekisaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「プライベートのことなのでご報告はしていなかったのですが…」元なでしこ鮫島彩さんが結婚&出産を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa2ca9859beb2be3a1e5d0a4f9b7afecc6aa81ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36160754-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 大谷翔平の電撃復帰登板、NHKがBSから地上波生中継に変更の緊急措置　解説は大谷の元同僚が
       </a>
     </td>
   </tr>
@@ -371,35 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16e500a230147cb99f7bea85a97e491f8e6e6de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030239-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 梅雨の晴れ間　中国地方は今年初の猛暑日に　今週は真夏並みの暑さで熱中症に要警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b01b9a80c1fa078cf694c45baf239488264c22d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098023-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「33-32-25-19-７」先発復帰の大谷翔平、メジャートップ５独占へ「オールスターブレイク前に最も本塁打を打った投手」ランキング
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da4426c685429509dc8a34bb62daac8058fe8128>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000050-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=399&ch=399&exp=10800&fmt=webp> 【社説】「現代戦は情報戦」を見せたイスラエル－イラン衝突
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bbe6fdd4feb40a181a82cdbea4a9be9f7572f6b3d2f96b45e005ccc92b22a9ab.jpg> 熱中症疑い きょう都内で21人搬送
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542434>
@@ -426,32 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2af88f268468b66684b59c40678c98323bece9b5cfa2d101f7f0895394e2e700.jpg> 高収入うたう会社 訴えた元社員
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/53f460534f77b175f377328d46d6afed27f96f5d3c5dadfd9e633124e48ad136.jpg> 東名事故 薬物使用疑い男女再逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542435>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/86ce442d6fd02a9a2e9aed8814e9590edb78152f43093158fdd2651fcfaee56b.jpg> 男児誘拐しわいせつ疑い 教諭逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f6e2b3b585c6567e4c2356848ad6e70047a1d0d6e8dc87ca9adb0a82e0107556.jpg> 万博警備の警官 車内で銃を誤発射
       </a>
     </td>
   </tr>
@@ -464,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/ae70eac2b01e27b5a5f080eb2fb3ddde2e330c45450e56a45cfe839dd54d0e20.jpg> 元DF鮫島彩さん 結婚と出産報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/68debfa92a3a15c8df02db1875011700f609731d4933827ff7e1caa4409a279e.jpg> イチロー家の犬 母は役所広司の犬
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 16:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 16:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
