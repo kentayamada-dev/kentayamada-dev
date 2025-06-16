@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8dca0e5dcf3c55031ba3f892664ef6ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e99cfc200ef1062b390b0df36096cfb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/929d356ea9aa9dfa5630580952632ab40fd67740>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000361-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 令和ロマン・くるま　相方の松井ケムリの結婚＆第1子誕生を祝福
+      <a href=https://news.yahoo.co.jp/articles/6a421779fd1ee158f4741f7b089c4b99bc5e6c5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00348668-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　昨年の結婚を電撃発表「そして先日、第一子が誕生いたしました！！！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80fb555a318934382e061864def8675109062f46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-01774828-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「どう思います？」　大谷の“カウンター”に米記者タジタジ…21時間後に訪れた急展開
+      <a href=https://news.yahoo.co.jp/articles/ad7b2f38a74fb2bcaee79d4f7e6530d1f0464e51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988046-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイラン 攻撃の応酬続く　イランは死者220人超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5096aff66fcc963a6615f97a2d33984dd8f3a360>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000079-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「中東情勢悪化は利益に」ロシア・メディア報道「体制転換狙いなら脅威」とも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、米鉄鋼再生の試金石
+      <a href=https://news.yahoo.co.jp/articles/ab03d1d83c7a7f3b5187bde8ea4d5fadca2a4a98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36161417-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 米野球殿堂入りスラッガーは大谷翔平の投手復帰に「複雑だよ」「メジャーリーグの宝なんだから」
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
+      <a href=https://news.yahoo.co.jp/pickup/6542460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4fe55ba4b0c239b3e8f25d4eae562f4223c70f81d0a816e29364cb71a04998c4.jpg> 着陸後のANA機が走行不能に 伊丹
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3e86426e27b7b3ede084b431785403a8ede5bb20c48e60f04a14acd18726b05c.jpg> 錦織圭 腰痛でウィンブルドン欠場
+      <a href=https://news.yahoo.co.jp/pickup/6542485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/a2ce0391f12cd3569aea247cea9238b0befd8d5332e0c3a64f77f8a816c9096a.jpg> サクランボ佐藤錦 100万円分盗難
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 00:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 01:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
