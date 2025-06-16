@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afa31aa29252bea5ccf179a63c26d571.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a27b0b1ea026121fddd393d40f0b5ec1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ecbf661daee79b98154d8069e217112fa7a29da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000035-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、今季７度目の１試合３安打 第４打席は俊足生かして内野安打もぎ取る
+      <a href=https://news.yahoo.co.jp/articles/36b0abd524e6d6ebaf13d64c42167a634ef300e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 パヘスの活躍でドジャースが勝利　ジャイアンツ3連戦に勝ち越して2G差　大谷は2得点3安打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/393daa635a0000ecd3bbaf3901e3b0fe1fea262a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄の「買収」承認　“日米連合”で新たな成長軌道を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60c863740304b4af6f5089f32abd6f68e814186f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=287&ch=287&exp=10800&fmt=webp> 食中毒で営業停止中に弁当販売し再び食中毒、ミシュラン掲載の日本料理店の経営者ら３人を容疑で逮捕
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0892b3d99b83d6a679d47507f93e18fd25f7c876>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【独自】ミシュラン店代表ら3人逮捕　食中毒処分従わず営業疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c86795228b95d4ed5e745545c73fb2b41bc669eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000358-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 柔道金メダリスト角田夏実が「人生相談」に行く店　万博「81キロ級」らとのトークで明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11d7cc385536b6c2b5835dcd2a6c921cbc05637b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-32111069-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 日鉄のＵＳスチール買収、株主は恩恵見極めへ－米政府承認で株価反発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000358-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 柔道金メダリスト角田夏実が「人生相談」に行く店　万博「81キロ級」らとのトークで明かす
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/0f7123abafb30cbfa7d5e0ffc982011bfd83dae3eb054157fb83a42530df7e7e.jpg> ハメネイ師暗殺計画 米大統領反対
+      <a href=https://news.yahoo.co.jp/pickup/6542409>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02249718/title-1749991010317.jpeg?exp=10800> 核協議が中断 米・イランの外交戦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 10:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 11:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
