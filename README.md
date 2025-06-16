@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58539dcbcaa8cb55454cf2ad04472c5f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cc11a5e7f4b9ec48f957f73cb10d62f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c38a2c62732cc5c29a6bc082434b4b63ae9facf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-09792546-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】関東で今年初の「熱中症警戒アラート」　猛暑日や体温並みの所も
+      <a href=https://news.yahoo.co.jp/articles/1709078e25f497d2e1311411467445f3c3c1bc8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987806-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手あす“二刀流”復活へ!“解禁時期”どんどん早まり…発表までの舞台裏　“投手大谷”の状態はいかに?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cfe677bb95e2ba43e3b13eb783c4877bfe6ad00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000095-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=56&cw=1095&ch=1095&exp=10800&fmt=webp> 自民・小林鷹氏、2万円給付を疑問視
+      <a href=https://news.yahoo.co.jp/articles/f14c97cd961c52ffc457b04d36d333e1562a8a9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987980-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 希少がんと闘う親友に捧げる決勝打　有言実行でお立ち台に立ったオリックス・森友哉選手は涙止まらず…　ヒーローインタビューを務めた橋本アナが森選手の思いを明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8a544686e26187a285e419b03607ddd1593afa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00051773-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博で警備の警察官が誤発射　拳銃ケースにしまおうと…誤って引き金を引いたか　けが人なし　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/9164df011408adbad9f1693ed4e3d954c07eaad4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987976-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博の警備担当の男性機動隊員が拳銃を誤って発射　安全確認をしている際に発射　ケガ人無し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bb39bb634789077234d32c1c83174d4e1a22198>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098038-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「大きな驚き」「ドジャー・スタジアムが満員になる可能性が」大谷翔平、突然の先発復帰に米メディア衝撃「It’s Sho time」と期待の声も
+      <a href=https://news.yahoo.co.jp/articles/3887df4fab2d03136518a7a2d55f9e41ae8294c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-21982075-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 各地で真夏日　奄美地方に今季県内初の熱中症警戒アラート　鹿児島
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/561a8bc175264393243a210ed9b8d0a25e668ad3e01d54f279f0f5369cbdd4ee.jpg> 21歳殺害 容疑の男「殺人願望」
+      <a href=https://news.yahoo.co.jp/pickup/6542455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/db92f022a6981a8de54de2b25a15b1ad6cc6a480c929f730b4c2264b904170b6.jpg> 網戸ひもで6歳死亡 2社の賠償確定
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542459>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/55020c83e7c67ad037baa6bdca9d754c3761dfad95445da03f882f55444a4253.jpg> コロナ給付金 性風俗除外は合憲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/db92f022a6981a8de54de2b25a15b1ad6cc6a480c929f730b4c2264b904170b6.jpg> 網戸ひもで6歳死亡 2社の賠償確定
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/e36376fa74ab8f90030cf1abaf7a9be58c0a1b12d6b531138ba2cad00caac744.jpg> 国士舘大の柔道部員 大麻使用疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542456>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/07f1e7128ce91f02b1e38d971deaecda47e96acd4bfffe7f0e77b25931b16510.jpg> 宮迫長男 芸名を「宮迫陸」に改名
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 19:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 20:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
