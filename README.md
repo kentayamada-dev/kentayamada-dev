@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6QT07z4gvQo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a27b0b1ea026121fddd393d40f0b5ec1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53bb2ba9fa873e09c33840fed553aaf5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36b0abd524e6d6ebaf13d64c42167a634ef300e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 パヘスの活躍でドジャースが勝利　ジャイアンツ3連戦に勝ち越して2G差　大谷は2得点3安打
+      <a href=https://news.yahoo.co.jp/articles/ffa63e47e9f83dd92602e805c9920b5b59de04c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000081-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=780&ch=780&exp=10800&fmt=webp> ロピア無償従業員の派遣要請疑い　商品陳列など、公取委が立ち入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393daa635a0000ecd3bbaf3901e3b0fe1fea262a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日鉄の「買収」承認　“日米連合”で新たな成長軌道を
+      <a href=https://news.yahoo.co.jp/articles/9b043a46305a8ec9a933464549cf34c44c4fe546>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-06161056-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1106&ch=1106&exp=10800&fmt=webp> 大谷翔平が次カードのパドレス４連戦へ電撃投手復帰へ！　ロバーツ監督「おそらく」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c863740304b4af6f5089f32abd6f68e814186f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=287&ch=287&exp=10800&fmt=webp> 食中毒で営業停止中に弁当販売し再び食中毒、ミシュラン掲載の日本料理店の経営者ら３人を容疑で逮捕
+      <a href=https://news.yahoo.co.jp/articles/e9a38291147ec8d5451b1ed4b6c31f16ef8dac54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000045-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1548&ch=1548&exp=10800&fmt=webp> 焦点：日鉄、巨額投資早期に回収か　トランプ米政権の「保護」追い風
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f2e4c10162a9b73042179074ff520031d555a2a65f3c3a466251db74c566d545.jpg> 米政権 入国制限に36カ国追加検討
+      <a href=https://news.yahoo.co.jp/pickup/6542412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/51c0a4cd1abc94fe900b4309a35a8d1a8cf737e76b736d5b6888cbe1e939e7b0.jpg> 東京都心 今年最速ペースで真夏日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02249718/title-1749991010317.jpeg?exp=10800> 核協議が中断 米・イランの外交戦
+      <a href=https://news.yahoo.co.jp/pickup/6542404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f2e4c10162a9b73042179074ff520031d555a2a65f3c3a466251db74c566d545.jpg> 米政権 入国制限に36カ国追加検討
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/1/9ef08bbf52ef712764699db02f76dba71edf6450bbdde9d2ddd70898a04304cc.jpg> 発車時に死角 幼児犠牲の事故続く
+      <a href=https://news.yahoo.co.jp/pickup/6542413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8d9459acd38cddc4ff4a649e7726c51330571474089c9088bfb210b026ef089c.jpg> ロピア 公取委が立ち入り検査
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/b4657bb4d07f695dc70f6f22461ebe1234ae37fa9eb69e9b641c3e03c77faeae.jpg> 大谷 父の日仕様の青バットで快打
+      <a href=https://news.yahoo.co.jp/pickup/6542408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3677bd61eebd9bff87d4990c829d702055662931f945ff0abe226c459ca7c1e3.jpg> スプラ新作発表方法に驚き 理由は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/3d30134a478a44273c80dca773da9f1d077e4ef628d96d36ef50a69dd1a9c2bc.jpg> 阪神・岡田顧問 佐藤輝の走塁論外
+      <a href=https://news.yahoo.co.jp/pickup/6542411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/88848161a2553cb08f5ff50566fc69c51f67dbf40d399ff2008bfed02dcd64c7.jpg> 寺尾聰を取材 29秒で止めた録音
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 11:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 11:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
