@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fae9a0f18d8738f2d2aa197da63bb1ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1204dfa62de305be16296676f59a418.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30e8a20441fa9b7c926f327ffb29b2e4f94a997a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183902-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=781&ch=781&exp=10800&fmt=webp> G7がカナダで開幕 イスラエル・イランの軍事衝突も主な議題に
+      <a href=https://news.yahoo.co.jp/articles/7f1cf043e7b9ef17dd6d00ab21a7a05467be691c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01775303-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、投手復帰で生み出す歴史的快挙　1901→1953→2025…理解不能な“異次元記録”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abd18624ab9cacac6f0471ee1a8a9ff2eaf1ea70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00548441-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷登板で2年ぶりの“バグ”発生　「世界線おかしい」「HR王が投手復帰？」ネット久々に騒然
+      <a href=https://news.yahoo.co.jp/articles/e91b061f490b93b463dbbd6ae1196bf7a8f6064c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、中国のG7入り「悪くない」　露が加入したG8なら「戦争なかった」
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd9f86e40d0ccfa81866e9885d8eae0f5de887176b6088edffc6d347c1f58c06.jpg> 真夏のような暑さに 都心35℃予想
+      <a href=https://news.yahoo.co.jp/pickup/6542500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/eb863ead00f1e9abac499d0def60bfe87d23d39732ab6d1a39d745031ef25588.jpg> G7中国参加 構わないと米大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/277cf9170cc84de4297ec69ec4c65c698bc3029c9ad9048e51a952973e7fa9ce.jpg> 日米首脳 関税交渉の継続を確認
+      <a href=https://news.yahoo.co.jp/pickup/6542496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd9f86e40d0ccfa81866e9885d8eae0f5de887176b6088edffc6d347c1f58c06.jpg> 真夏のような暑さに 都心35℃予想
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4951fc38a29f6e64ca5e3bccd67ff3c460d655ae597a49a773dd18e671fde320.jpg> イラン国営放送に爆撃 生放送中断
+      <a href=https://news.yahoo.co.jp/pickup/6542499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c48fb21d5986676f2fb4040c1bd7eee437e1b78982dbb0e8720a5eb5852a4d11.jpg> 日本郵便 ヤマトなどに集荷委託へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c48fb21d5986676f2fb4040c1bd7eee437e1b78982dbb0e8720a5eb5852a4d11.jpg> 日本郵便 ヤマトなどに集荷委託へ
+      <a href=https://news.yahoo.co.jp/pickup/6542502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3a445b74f0cb64357530ea21ceb0192fd4249d8c5aa97fd0a12c708442a07314.jpg> 解散届のトクリュウ 首魁を再逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b520ca22212bf5efe2fc9db4b2ebb9925bc2c49be909d8637dcb67f1f9ce629d.jpg> DH大谷 球宴中間発表で大差の1位
+      <a href=https://news.yahoo.co.jp/pickup/6542501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a1202903c81dcc331e4f52a4caf65b27172a23af1cded2805680a49e2344674c.jpg> 大谷が先発へ 663日ぶり投手復帰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 令和ロマン松井ケムリ 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a9a94e28324f3aafb667bba31f9ab5340069fc15eb193231f25cb81518df2de.jpg> 結婚や挙式 16日各界幸せ報告続々
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 07:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 08:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
