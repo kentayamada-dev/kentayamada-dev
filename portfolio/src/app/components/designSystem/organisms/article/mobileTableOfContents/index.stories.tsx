@@ -4,7 +4,7 @@ import { MobileTableOfContents } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  args: { ...desktopTableOfContentsStory.args },
+  args: { ...desktopTableOfContentsStory.args, locale: 'en' },
   component: MobileTableOfContents,
   decorators: desktopTableOfContentsStory.decorators,
   parameters: {

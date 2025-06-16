@@ -19,12 +19,14 @@
   },
   "labels": {
     "copyCodeLabel": "コードをコピー",
-    "localeSwitcherLabel": "言語切り替え",
-    "themeSwitcherLabel": "テーマ切り替え",
+    "localeSwitcherLabel": "言語を変える",
+    "themeSwitcherLabel": "テーマを変える",
     "openSidePanelLabel": "サイドパネルを開く",
     "closeSidePanelLabel": "サイドパネルを閉じる",
-    "storybookLinkLabel": "Storybookを開く",
-    "githubLinkLabel": "GitHubを開く",
+    "openTocLabel": "目次を開く",
+    "closeTocLabel": "目次を閉じる",
+    "storybookLinkLabel": "Storybook",
+    "githubLinkLabel": "GitHub",
     "homeLinkLabel": "ホームへ行く"
   },
   "articles": {

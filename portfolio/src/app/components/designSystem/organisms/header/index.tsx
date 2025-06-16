@@ -14,7 +14,12 @@ const Header: HeaderType = (props) => {
     <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-2 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
       <span className='flex items-center'>
         <SidePanelWrapper author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} locale={props.locale} />
-        <Link aria-label={homeLinkLabel} className='w-10 text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
+        <Link
+          aria-label={homeLinkLabel}
+          className='w-10 text-slate-900 dark:fill-white dark:text-white'
+          href={`/${props.locale}`}
+          title={homeLinkLabel}
+        >
           <KyIcon />
         </Link>
       </span>
@@ -30,6 +35,7 @@ const Header: HeaderType = (props) => {
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 md:flex'
           href='/storybook'
           target='_blank'
+          title={storybookLinkLabel}
         >
           <StorybookIcon />
         </Link>
@@ -38,6 +44,7 @@ const Header: HeaderType = (props) => {
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 text-black md:flex dark:text-white'
           href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
           target='_blank'
+          title={githubLinkLabel}
         >
           <GithubIcon />
         </Link>

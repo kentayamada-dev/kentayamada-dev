@@ -3,6 +3,7 @@
 import { Transition, TransitionChild } from '@headlessui/react';
 import { useState } from 'react';
 import { CrossIcon, TableOfContentsIcon } from '@/components/icons';
+import { dictionaries } from '@/constants/i18n';
 import { useMediaQuery } from '@/hooks';
 import { TableOfContents } from '../tableOfContents';
 import type { ComponentPropsWithoutRef } from 'react';
@@ -10,6 +11,7 @@ import type { MobileTableOfContentsType } from './types';
 
 const MobileTableOfContents: MobileTableOfContentsType = (props) => {
   const [isOpened, setIsOpened] = useState(false);
+  const { closeTocLabel, openTocLabel } = dictionaries[props.locale].labels;
 
   const closeDrawer: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
     setIsOpened(false);
@@ -26,8 +28,10 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
   return (
     <>
       <button
+        aria-label={openTocLabel}
         className='fixed right-5 bottom-5 z-10 inline-flex size-14 rounded-full bg-blue-500 p-2.5 text-white hover:cursor-pointer sm:right-16 md:hidden'
         onClick={openDrawer}
+        title={openTocLabel}
         type='button'
       >
         <TableOfContentsIcon />
@@ -45,7 +49,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
             <div className='w-72 rounded-t-lg bg-white p-5 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:ring-slate-300/10'>
               <div className='flex items-center justify-between px-1 pb-3'>
                 <div className='text-primary text-lg font-semibold'>{props.title}</div>
-                <button className='btn-icon ml-auto size-8' onClick={closeDrawer} type='button'>
+                <button aria-label={closeTocLabel} className='btn-icon ml-auto size-8' onClick={closeDrawer} title={closeTocLabel} type='button'>
                   <CrossIcon />
                 </button>
               </div>

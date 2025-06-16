@@ -14,7 +14,7 @@ const Article: ArticleType = (props) => {
   return (
     <>
       <aside>
-        <MobileTableOfContents articleClassName={ARTICLE_CLASS_NAME} title={props.tocTitle} />
+        <MobileTableOfContents articleClassName={ARTICLE_CLASS_NAME} locale={props.locale} title={props.tocTitle} />
       </aside>
       <article>
         <h1 className='text-primary text-center text-3xl font-semibold sm:text-5xl'>{props.articleTitle}</h1>

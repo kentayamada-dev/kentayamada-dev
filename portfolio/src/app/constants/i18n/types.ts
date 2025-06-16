@@ -40,11 +40,13 @@ type DictionaryType = {
   };
   labels: {
     closeSidePanelLabel: string;
+    closeTocLabel: string;
     copyCodeLabel: string;
     githubLinkLabel: string;
     homeLinkLabel: string;
     localeSwitcherLabel: string;
     openSidePanelLabel: string;
+    openTocLabel: string;
     storybookLinkLabel: string;
     themeSwitcherLabel: string;
   };

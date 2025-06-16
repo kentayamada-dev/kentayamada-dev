@@ -19,12 +19,14 @@
   },
   "labels": {
     "copyCodeLabel": "Copy Code",
-    "localeSwitcherLabel": "Language Change",
-    "themeSwitcherLabel": "Theme Change",
+    "localeSwitcherLabel": "Change Language",
+    "themeSwitcherLabel": "Change Theme",
     "openSidePanelLabel": "Open Side Panel",
     "closeSidePanelLabel": "Close Side Panel",
-    "storybookLinkLabel": "Open Storybook",
-    "githubLinkLabel": "Open GitHub",
+    "openTocLabel": "Open TOC",
+    "closeTocLabel": "Close TOC",
+    "storybookLinkLabel": "Storybook",
+    "githubLinkLabel": "GitHub",
     "homeLinkLabel": "Go to Home"
   },
   "articles": {

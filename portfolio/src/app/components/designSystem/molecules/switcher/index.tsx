@@ -12,6 +12,7 @@ const Switcher: SwitcherType = (props) => {
             <ListboxButton
               aria-label={props.buttonLabel}
               className='hover-secondary flex size-full items-center justify-center overflow-hidden rounded-lg p-2 text-blue-500 hover:cursor-pointer'
+              title={props.buttonLabel}
             >
               <props.buttonIcon />
             </ListboxButton>

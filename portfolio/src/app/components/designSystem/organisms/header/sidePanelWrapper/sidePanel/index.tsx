@@ -22,7 +22,13 @@ const SidePanel: SidePanelType = (props) => {
 
   return (
     <>
-      <button aria-label={openSidePanelLabel} className='btn-icon mr-4 size-8 md:hidden' onClick={props.handleToggle} type='button'>
+      <button
+        aria-label={openSidePanelLabel}
+        className='btn-icon mr-4 size-8 md:hidden'
+        onClick={props.handleToggle}
+        title={openSidePanelLabel}
+        type='button'
+      >
         <ThreeBarsIcon />
       </button>
       <Dialog onClose={props.handleToggle} open={props.isOpened}>
@@ -34,7 +40,14 @@ const SidePanel: SidePanelType = (props) => {
           className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 text-sm shadow-xl duration-500 data-[closed]:-translate-x-full sm:text-base dark:bg-slate-800'
           transition
         >
-          <button aria-label={closeSidePanelLabel} className='btn-icon ml-auto size-8' data-autofocus onClick={props.handleToggle} type='button'>
+          <button
+            aria-label={closeSidePanelLabel}
+            className='btn-icon ml-auto size-8'
+            data-autofocus
+            onClick={props.handleToggle}
+            title={closeSidePanelLabel}
+            type='button'
+          >
             <CrossIcon />
           </button>
           <nav className='mt-3'>
