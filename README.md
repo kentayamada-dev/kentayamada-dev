@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb6b914735fd60e8d42f7d40d17ef3d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bbd551f73f10a2aadd583cb98b9bd5d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b77a020db7496df5bb01467527b7c431c5649891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏が「イラン最高指導者の暗殺計画を拒否」報道　停戦交渉求める　イスラエルとイランの衝突激化　日本への影響も
+      <a href=https://news.yahoo.co.jp/articles/5854f38e0d9f3ce60db3f1d0b2e3c60577a1358d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010006-teletamav-000-1-thumb.jpg?exp=10800&fmt=webp> 7年前に知人女性殺害疑い　31歳の男逮捕／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/790d5a08d765911e6cbe1e18498fb8e937610c37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-07243238-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新型コロナ対策・持続化給付金の性風俗除外は合憲 事業者側の敗訴が確定 最高裁判決
+      <a href=https://news.yahoo.co.jp/articles/f2f16b46ddb6f754df37cfdd29327b95d8700647>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90020117-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場近くで「拳銃誤発射」　警備担当の機動隊員が『警察車両の中で誤って引き金引く』けが人なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11776635df5c3919632f78b430f1407d00e8b254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030244-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 関東に今年初の熱中症警戒アラート　沖縄～関東は熱中症に警戒　さらに来週も高温傾向
+      <a href=https://news.yahoo.co.jp/articles/1d5a586321e81624e9f9ded7d064ab87dce687a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00348627-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平　突然の二刀流復活でロバーツ監督がウソつき呼ばわり「役に立たない情報」＝米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13399143c33186912d5c07cfda6d249b77ef3cd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-36160885-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=674&ch=674&exp=10800&fmt=webp> 【解説】大谷翔平の二刀流復帰はなぜ急速に早まったのか　17日パドレス戦に先発　
+      <a href=https://news.yahoo.co.jp/articles/9f5168bd4a00a355dac90b114534b871e4c121bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関東地方で今年初の「熱中症警戒アラート」発表　17日も厳しい暑さ…厳重な警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/780e7d8e1d507e746742c44b212bc365a63e8430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00066473-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 銃弾は警察車両の床にめりこむ…万博警備担当の警察官が拳銃を誤発射　ケースへ収納の際に誤って引き金を引く
+      <a href=https://news.yahoo.co.jp/articles/b6ea2dc20cf352f489ab5fa35b9d8e1188405a40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000065-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル攻撃から4日目　緊迫“ハメネイ師殺害計画”も“トランプ大統領が阻止”
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/275958e101b437adc0d834cea9f117edd6095736100b37b054a18d4ad0ede10f.jpg> 不明の21歳女性を殺害容疑 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/561a8bc175264393243a210ed9b8d0a25e668ad3e01d54f279f0f5369cbdd4ee.jpg> 21歳殺害 容疑の男「殺人願望」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/f0694a9a3446367f5a8c1c9ec6dd7a8fabca3132c4125fcda8a99bde00e48af6.jpg> 卵子採取し販売 軟禁タイ女性証言
+      <a href=https://news.yahoo.co.jp/pickup/6542460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/4fe55ba4b0c239b3e8f25d4eae562f4223c70f81d0a816e29364cb71a04998c4.jpg> 着陸後のANA機が走行不能に 伊丹
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 18:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 19:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
