@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65d51a46fe0742c4a14e076d6040b24e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8dca0e5dcf3c55031ba3f892664ef6ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/929d356ea9aa9dfa5630580952632ab40fd67740>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000361-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 令和ロマン・くるま　相方の松井ケムリの結婚＆第1子誕生を祝福
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000361-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=603&ch=603&exp=10800&fmt=webp> 令和ロマン・くるま　相方の松井ケムリの結婚＆第1子誕生を祝福
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5096aff66fcc963a6615f97a2d33984dd8f3a360>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000079-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「中東情勢悪化は利益に」ロシア・メディア報道「体制転換狙いなら脅威」とも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0b70d0bc635587d5f14548e8484b945058872fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988029-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 万博警備担当の機動隊員「拳銃誤発射」会場近く警察車両の中で誤って引き金引く　けが人はなし
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/29d69d48d07639dfbb77d766910500855ff2d15299f99ccda4ebbcc7904cbb13.jpg> 子供の近視の進行抑制 目薬の効果
+      <a href=https://news.yahoo.co.jp/pickup/6542491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3e86426e27b7b3ede084b431785403a8ede5bb20c48e60f04a14acd18726b05c.jpg> 錦織圭 腰痛でウィンブルドン欠場
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 23:51:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 00:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
