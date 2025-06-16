@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCd4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c294045f1afc7a0de752aab7392f3914.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7e1558bc942d3f08933bdcf6fbf1444.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e442f4350ca6ebca22ed15b260ec2ef0750a052f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000041-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博警備の警察官、警察車両内で拳銃1発を誤って発射　勤務交代時に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16e500a230147cb99f7bea85a97e491f8e6e6de0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00030239-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 梅雨の晴れ間　中国地方は今年初の猛暑日に　今週は真夏並みの暑さで熱中症に要警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8b01b9a80c1fa078cf694c45baf239488264c22d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00098023-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「33-32-25-19-７」先発復帰の大谷翔平、メジャートップ５独占へ「オールスターブレイク前に最も本塁打を打った投手」ランキング
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da4426c685429509dc8a34bb62daac8058fe8128>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000050-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=399&ch=399&exp=10800&fmt=webp> 【社説】「現代戦は情報戦」を見せたイスラエル－イラン衝突
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aedd4498e8a13cb337d7a386a729620032708253>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000103-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 万博「東から西」徒歩ルート開設　混雑緩和、ゲート偏り対策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72d24fccb2986750856a47bc2e7b65a23c173419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-90027436-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 梅雨終わり？　熱中症は災害　今週は異例の35℃以上が続出か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4af2b11ad2d7e03d62b6f446171a398ac7cd0029>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00050051-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、首都テヘランで８０以上の標的空爆…民間人被害の拡大懸念し脱出する市民も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/8eaabbb6f4e6a00828496c4cc0647e06e76f8d7db8f76ca65cbf0eab423e8713.jpg> G7開幕を前に カナダで抗議デモ
+      <a href=https://news.yahoo.co.jp/pickup/6542434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/27fb33c6db93a22a8b53cba3bd83c75c95b9666e8b587a7621c0da6a489f272f.jpg> 今週は猛暑日続出 危険な暑さに
       </a>
     </td>
   </tr>
@@ -418,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7639a82d7a62fb6590a1de2b1365c2f2a2f779ed74c2ba738373ea3be9bf26f1.jpg> 贈り物にコメ お中元などで人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2af88f268468b66684b59c40678c98323bece9b5cfa2d101f7f0895394e2e700.jpg> 高収入うたう会社 訴えた元社員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542430>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/53f460534f77b175f377328d46d6afed27f96f5d3c5dadfd9e633124e48ad136.jpg> 東名事故 薬物使用疑い男女再逮捕
       </a>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/219e20605237aef9d601ed8704bbff225e6a0bab3597e25ad35fb7029e7f5741.jpg> 部下死亡 傷害致死疑いで上司逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/235b966b1def09797c418aa95121a4530fe746f3dc15a6d062bf867c658dd83c.jpg> 建設現場で作業員転落か 意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6542435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/86ce442d6fd02a9a2e9aed8814e9590edb78152f43093158fdd2651fcfaee56b.jpg> 男児誘拐しわいせつ疑い 教諭逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542414>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 資源ごみ持ち去り相次ぐ 対策苦慮
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/7532a574153425412d823331a34ae154f0ccc6430eb4c57303f08f5cff556d91.jpg> 負けるたびに人気 ハルウララの今
+      <a href=https://news.yahoo.co.jp/pickup/6542436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/dec11581ca3d98e8e284aad231964cd15c6cd5480dd4b185e99b7af974302b74.jpg> 大谷あす投手復帰 なぜ事態が急転
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 15:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 15:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
