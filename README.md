@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb56d90a1508c83047c139d6329bdb62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/307da378e1b309d899b73162ee0d7b31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9540f5ce252035732f2c63353889f375cba9406d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平が電撃投手復帰！ 17日のパドレス戦で先発登板へ ロバーツ監督「マウンドに立つ準備は整った。非常に楽しみ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d0b70d0bc635587d5f14548e8484b945058872fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00988029-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 万博警備担当の機動隊員「拳銃誤発射」会場近く警察車両の中で誤って引き金引く　けが人はなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24c96f2696b82190fdebd3ac659a5a8a950d85f2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00000071-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル、イランの地対地ミサイル発射台の3分の1破壊　犠牲拡大
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d115de8e6fb03b309e2f3ebc67da360980cc656f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、米鉄鋼再生の試金石
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1709078e25f497d2e1311411467445f3c3c1bc8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987806-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【期待】大谷翔平選手あす663日ぶり“二刀流”復活へ「パドレスとの対戦で先発投手として登板予定」　右肘靱帯の修復手術後、順調に調整重ねる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9164df011408adbad9f1693ed4e3d954c07eaad4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250616-00987976-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博の警備担当の男性機動隊員が拳銃を誤って発射　安全確認をしている際に発射　ケガ人無し
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/60f4eebb6343b0e4c57e226638e91afff4c4c8f8e10fbdc6bfce13837d1b31ec.jpg> 自民「給付」方針 首相決断の裏側
+      <a href=https://news.yahoo.co.jp/pickup/6542466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bb8b8cfc7fdea2edc63ac0bcff312f46bb9ed3bf626c00e5bbff3164a496e546.jpg> 17日 都心など35℃以上の予想急増
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/db92f022a6981a8de54de2b25a15b1ad6cc6a480c929f730b4c2264b904170b6.jpg> 網戸ひもで6歳死亡 2社の賠償確定
+      <a href=https://news.yahoo.co.jp/pickup/6542473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/260ea94b5b9a7ce7bd1c0effff73a8544d1eb1e8492e09e716787e6059211caa.jpg> 印墜落 婚約したばかりの2人犠牲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/55020c83e7c67ad037baa6bdca9d754c3761dfad95445da03f882f55444a4253.jpg> コロナ給付金 性風俗除外は合憲
+      <a href=https://news.yahoo.co.jp/pickup/6542474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/888f5e49c48e4f5f2fc8916e16f589081a80f6aa842361efbbdcca143d7f5bd3.jpg> 泳げない子増加 授業中止が影響か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bc63b3b2309de57b985fc6ba0ec4bf2809a233036c12130214ec8e726b8a84de.jpg> 女子理由に面接終了 40年前の就活
+      <a href=https://news.yahoo.co.jp/pickup/6542476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/bc63b3b2309de57b985fc6ba0ec4bf2809a233036c12130214ec8e726b8a84de.jpg> 今ならセクハラ問題 90年代の職場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/16 21:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/16 21:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
