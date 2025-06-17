@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1ab048e22b3edcb7bdf91ca11db962a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba3b9a5071870eac92189aaaee48df35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc18af2473784c47d0303f03f41c4cb0d131d8aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170374-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 【大谷翔平全投球】１回28球、２安打１失点　最速161キロ　右安、中安、中犠、二ゴ、三ゴ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e67aeb805830697882107c368eca32a8f8563c65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243352-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン攻撃の応酬激化　生放送中のイラン国営テレビに攻撃、放送一時中断　イスラエル「プロパガンダのための放送局だ」と正当化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60d12170221b23c870406d5ec2ea95fb75979260>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05636195-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談“トランプ関税”協議で全体合意に至らず　担当閣僚協議の加速化で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57a40d91d08dbc08592e600425f0fd0f5a1cf625>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010005-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、第一子誕生と結婚していたことを同時報告⇒「びっくりした！」の声が続出
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d403202561f2ea7f43ad186b9f373c590684ca1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000142-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 大谷翔平　第1打席は空振り三振　663日ぶり投手復帰戦　二刀流再始動で26号なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/919f4e2d319365e7367bdda93b8f7ad0c9f3283a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243344-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=605&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 林官房長官「関税措置など率直に議論」日米首脳会談の意義を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af38697182f686ffe0835bf5c93ed919a683edc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 【速報】白黒映画「ゴジラ」をカラー化してフリマサイトで販売した疑いで66歳のアルバイトの男を逮捕　「ゴジラ」以外もあわせて約1500点出品し約170万円売り上げか　大阪府警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f36c540291a0208f8671685bf549fdf2d5ecccca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イラン国営放送、生放送中に攻撃される 「戦争犯罪」と非難
+      <a href=https://news.yahoo.co.jp/articles/716630e98bc211b17e68f2e72678ced8d3de2b53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988136-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】国士舘大学柔道部部員の大麻使用疑い問題　家宅捜索で大麻のような植物片・吸引器具が発見　警視庁
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a1b956a590abf6f4d33552b7e35bd7c0844dac87566f40b80419872d779419c.jpg> 自転車の小学生 クマに襲われけが
+      <a href=https://news.yahoo.co.jp/pickup/6542526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ab865d4a4eb75acc225cedfc0fce733b33cb27e0f1d1eef00c433e57b5aad8d5.jpg> 配膳途中を給食と投稿 市議謝罪
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/13a4fba21476bda559e0e545299b65d09bf3e25f7a87d938542719fbf2a3469e.jpg> 速報 投手・大谷翔平が復帰登板
+      <a href=https://news.yahoo.co.jp/pickup/6542529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/13a4fba21476bda559e0e545299b65d09bf3e25f7a87d938542719fbf2a3469e.jpg> 速報 ドジャースvs.パドレス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/69c8047d107c25aed2013c757fc1c0d2edae5546bd064a8eb19abf545b88f688.jpg> 元増位山が死去 歌手としても活躍
+      <a href=https://news.yahoo.co.jp/pickup/6542531>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koarairyo/02251524/title-1750079451878.jpeg?exp=10800> ガンダムジークアクス 高まる熱
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 11:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 12:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
