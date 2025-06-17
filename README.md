@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27cd2ef9500542f4d973006b126c7764.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13e86cfbe2ed9468c29b79ba442d71db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b5664e3e86491c6128fcf744ab05c42285f1a16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-03352102-engine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 3代目ついに発表！　新型日産リーフの隠されていた後ろ姿はまさかのフェアレディZ似か
+      <a href=https://news.yahoo.co.jp/articles/9df625ee03717bf3a9d1fc80175e8776b10b54d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領が国家安全保障会議開催　イラン攻撃への参加を検討との複数米メディアの報道も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/272a401ec0475ab414e26f17ad4b8737d480a2e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏が先に帰国…肩透かし食らったＧ７サミット
+      <a href=https://news.yahoo.co.jp/articles/1e21befa5a911c31bba7b73be1bc5c3eed8db8b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184099-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 「日産リーフ」新型車 航続距離や充電速度が向上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbb546dddbdcc3954bb7266231ad22c305e5c0c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243566-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょうも各地でまるで梅雨開けしたかのような真夏の暑さ続く　名古屋で37℃予想　熱中症に厳重な警戒を　暑さのピークはいったんあすまで
+      <a href=https://news.yahoo.co.jp/articles/e29b19e7f268571a911494a6e337072af9b0bc85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184082-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もうワケわからん！ 大谷翔平、まさかの“悪球打ち”「ありえない」 とんでもないスイング→相手投手が“ドン引き”「投げるところないw」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/800ecf9799192f01c41d17330f5e9d96c5c42754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=336&cw=1528&ch=1528&exp=10800&fmt=webp> 「大谷翔平が目指しているものからはまだほど遠い。だから我々は今回の登板を参考にしない」“疑惑ハーフスイング"からの犠飛で打点記録のパ軍"看板打者"マチャドが二刀流の進化に警戒
+      <a href=https://news.yahoo.co.jp/articles/423530509d239e18212e29683839b81a8297fed6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税、解決せず　貿易交渉の進展望めず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/714fd5ad368b7152ec3c4e74da9116c56f1209e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000005-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=1467&ch=1467&exp=10800&fmt=webp> ＜草なぎ剛＞10月期連ドラ「終幕のロンド」で主演　“僕のホーム”カンテレ連ドラ9回目の主演で遺品整理人に（コメント全文）
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1224f68920072f5aca4ea4fde4bfe0bf522e36f662fb9d6e96cec9a68169eb5c.jpg> 東横イン空室枠「転売」注意喚起
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/aa0934581ef6e68bfc9e9026d918d72db2846b2b69550ca96faf93c00c4a3a86.jpg> 値上げ続く中 小売店の飲料安い訳
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542616>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a86ac85e6b45689d55f085971bb7f2d892cc096d3b9ebfdc041c61b38672e3d7.jpg> らくらくホン なぜガラケー継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1224f68920072f5aca4ea4fde4bfe0bf522e36f662fb9d6e96cec9a68169eb5c.jpg> 東横イン空室枠「転売」注意喚起
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 07:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 07:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
