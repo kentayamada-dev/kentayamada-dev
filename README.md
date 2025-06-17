@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/643105babf8ef90d3b89752859769f89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9dd5aaabdd7fe190f20419e981e5ce64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92e05c9e30c3dc08da762270dfb335ae3969dd27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36171250-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平の投球、スプリットは１球のみで年々使用頻度低下　課題は制球力、ストライク率57％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b672665f4ee7c06cff6825c45e418070ca20f242>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984727-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダG7サミット　トランプ関税巡り日米首脳会談　合意には至らず　石破総理「担当閣僚に対して、さらに協議を進めるよう指示することで一致した」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7f48428f3aed2fcbdb51f505cd7a4c9832b8a7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00066503-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「もう真夏みたいな暑さ」京都府と兵庫県で猛暑日　あすも和歌山県に熱中症警戒アラート発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4573b0c7d5b4da59e36f67f947ee456fcc54f267>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243487-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩屋外務大臣 イスラエル・イランの邦人退避で「第三国との協力検討」 イラン全土に退避勧告を発出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf79ae0562864f772b5b1377b16d07d72df169e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243458-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=537&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “爆撃の瞬間” 生放送中のイラン国営テレビで　イラン外務省「悪質な戦争犯罪」　イスラエル国防相「プロパガンダのための放送局」攻撃正当化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47c5d8fd180621b8e033230a74d794b112a62a68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988430-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「真夏のような暑さ来週にかけても続く…正直終わり見えない」と気象予報士　近畿各地で真夏の暑さ　慣れない体に万全の熱中症対策を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9501932db7e960ab43d392ffaef49036e7add7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01310157-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 二刀流復帰「大谷翔平の28球」から見えたこと　160キロ計測も“伝家の宝刀”がわずか1球だった理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0eec463765735b4442e74a8d1272b74961d67665>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000119-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 焦点：関税交渉まとまらず、石破政権　参院選控え「国益」重視アピール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0e51018be99f57c14c16c738d41c8c530a628c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05273166-stv-000-3-thumb.jpg?exp=10800&fmt=webp> 生産者は懸念　コメの作況指数廃止「道しるべがなくなる」備蓄米流通から１週間…変化は？北海道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243458-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “爆撃の瞬間” 生放送中のイラン国営テレビで　イラン外務省「悪質な戦争犯罪」　イスラエル国防相「プロパガンダのための放送局」攻撃正当化
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3775ed33cb49d68be9f24734365358ab8352e39818f102ffdd1395f550155088.jpg> 百日ぜき 感染者が初の週3000人超
+      <a href=https://news.yahoo.co.jp/pickup/6542578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8701adf23127b9e9524bb7ece61b9c8d1af3ceaaa1299ed5061988e66ce6b87d.jpg> 映像 イラン国営テレビ放送中爆撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542568>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症の疑い70代女性が死亡 静岡
+      <a href=https://news.yahoo.co.jp/pickup/6542569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3775ed33cb49d68be9f24734365358ab8352e39818f102ffdd1395f550155088.jpg> 百日ぜき 感染者が初の週3000人超
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9d6c973e41ef73103df9332fefadf227a01442410631d5e18b9f82b65ac07495.jpg> 浅田真央氏 過去に演者とトラブル
+      <a href=https://news.yahoo.co.jp/pickup/6542566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6c3c70254fcc1203a858e7aaf44506eded493af281d3fd09a55725180ed8d36e.jpg> SEKAI NO OWARI 当日に公演延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 18:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 19:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
