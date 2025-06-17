@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba3b9a5071870eac92189aaaee48df35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da575cc0b8652df66b84865155762669.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc18af2473784c47d0303f03f41c4cb0d131d8aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170374-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 【大谷翔平全投球】１回28球、２安打１失点　最速161キロ　右安、中安、中犠、二ゴ、三ゴ
+      <a href=https://news.yahoo.co.jp/articles/95a08d2b01f4da2b2f29afed8a56b40221da5117>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10558623-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 大谷翔平、ドジャース初‟二刀流”で躍動　663日ぶりマウンドで1回1失点も、黒星帳消しの同点タイムリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e67aeb805830697882107c368eca32a8f8563c65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243352-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン攻撃の応酬激化　生放送中のイラン国営テレビに攻撃、放送一時中断　イスラエル「プロパガンダのための放送局だ」と正当化
+      <a href=https://news.yahoo.co.jp/articles/3ce110831bcf196fd6d544f69de7fd3dea315a62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988151-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=540&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がイラン国営テレビを“生放送中”に空爆「軍事用通信指令部として利用されていた」として…女性キャスターは爆発音の中で話し続ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60d12170221b23c870406d5ec2ea95fb75979260>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05636195-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米首脳会談“トランプ関税”協議で全体合意に至らず　担当閣僚協議の加速化で一致
+      <a href=https://news.yahoo.co.jp/articles/a0638eb1c45c7f4d4fdb7a72e6adf99df0e67880>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税協議合意至らず　石破総理「最善の努力を重ねる」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/716630e98bc211b17e68f2e72678ced8d3de2b53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988136-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】国士舘大学柔道部部員の大麻使用疑い問題　家宅捜索で大麻のような植物片・吸引器具が発見　警視庁
+      <a href=https://news.yahoo.co.jp/articles/28ae66cb349d3542a8a8220882daadf4412934d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00066487-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 警察が自転車の交通違反を集中取り締まり　「ながらスマホ」などめぐり来年４月から「青切符」適用
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/00939aa1e8f038357e0d16dcb49ceeaf1195511a30e18620225aa8d555dda84d.jpg> トランプ氏 G7途中で帰国と発表
+      <a href=https://news.yahoo.co.jp/pickup/6542532>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 現金給付 与党幹部「年末までに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/86a2cf92b8e60412aa947fe06ddf9a8d0792547a125ff6c9b20899d10fde41c9.jpg> 「手取りを増やす夏」国民が公約
+      <a href=https://news.yahoo.co.jp/pickup/6542508>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 三菱商事 米エネ企業の買収協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/0b3c4155abf727f59210d4244619ad86c6ceb33e91fa14dceffcfb66b5ef09aa.jpg> 東北新幹線 東京-仙台で見合わせ
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2030587b975594a2d2ca0306389b2a41f78b0aede5958465f67c9cf03bc8d2b8.jpg> ドリフト横行の峠 設備損壊相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/13a4fba21476bda559e0e545299b65d09bf3e25f7a87d938542719fbf2a3469e.jpg> 速報 ドジャースvs.パドレス
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/153f83b8e7dc86281d4373b9c5b22d315bab956842745a030a05a59ff1ebdfc7.jpg> 速報 ドジャースvs.パドレス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 12:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 12:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
