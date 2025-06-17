@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32e2a22e2a21b362e2e3aa2955f6fdbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4d9f254b3bf9c6ad38bc8e9ffac4dc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bfb5b33adefc95bc22e5fc4d5a0e96e7cfc9ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000248-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 夫婦別姓、今国会は見送り　与野党、法案採決一致せず
+      <a href=https://news.yahoo.co.jp/articles/6ddacb54c139761c03357575ab6f8912d92eb1ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関東学連が日大アメフト後継組織の加盟承認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99ed71048ba4a8fd3700e52b8cbd898119089cfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984974-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「できるだけ早く戻らなければならない」トランプ氏、G7を途中退席　2日目のスケジュールは白紙に【Nスタ】
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/233b73cbd5cd4ad8181801c8bc9de665a6ed278e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000128-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=840&ch=840&exp=10800&fmt=webp> イスラエル支持の共同声明　G7、イラン核保有認めず　トランプ米大統領、異例の帰国
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542597>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症か 4県で畑などで女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b207644742c927cfd9f561787b13595d8555a7a18fae3b9cbd9b2f699fb2d792.jpg> 夫婦別姓 今国会は見送りで調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4918f6f733ce74925313876d474463e2ad094502d18a391220caf692f307be5.jpg> インドネシア大規模噴火 津波調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ded3f7cdd7989d698dc0fd335227cb9af78ca7c2ff9f852913a64adf62b828bf.jpg> トランプ氏 日本「手ごわい」相手
+      <a href=https://news.yahoo.co.jp/pickup/6542603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/67152288be9b2bc4c926ba3df125761fc6ddff7a7b45c844b2bb0c3c48b253c7.jpg> ALS患者れいわ舩後氏 政界引退へ
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2756b42e700b9d574039a22080d85785054f40f250b63aaec7a43c99415027c9.jpg> 非正規公務員の「妊婦切り」実態
+      <a href=https://news.yahoo.co.jp/pickup/6542600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/09d966407ea1d33e60d58c451a04d4ded26296d85e2cb70d3b38724c298e4c23.jpg> 西武・今井 松坂氏超えの17奪三振
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 22:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 22:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
