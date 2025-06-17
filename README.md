@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QZSauc2Umpw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8375f363de5baa12a1e29d974c3a1f42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f87348f081ed0ad16a01de7ec3ec1380.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28f8cd90f1f995221f02226783988064ba6b54ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000113-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 大谷翔平　ナ・リーグで「1番・投手」の先発出場は72年ぶり3人目　注目の663日ぶり二刀流復帰
+      <a href=https://news.yahoo.co.jp/articles/e5569d7c7af5057f3162f0c72fc4b496554632d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 大谷翔平、ついに二刀流復活、監督「彼自身が望んだ舞台」…投手復帰への意欲「準備はできた、何を待つ必要があるの？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3afd34fe9e696104c52e69cdf9fce1a55dedb8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030248-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 【速報】関東で今年初の猛暑日　群馬県高崎市で35.0℃
+      <a href=https://news.yahoo.co.jp/articles/cfeeb850a34531a4ad37198e6ec182b06b94f5af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国際法禁じる民間施設攻撃　イスラエル軍に非難相次ぐ　放送中に空爆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7ceac55d70f49c6ed1d88c2cf96587f9f36a90f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000050-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=1511&ch=1511&exp=10800&fmt=webp> 日経平均は小幅続伸で寄り付く、米株高や円安が支え　自動車株は小幅安
+      <a href=https://news.yahoo.co.jp/articles/ffa879e067e8a2af6ad01326100178676d399de5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000008-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 「現実が『007』に追いついた」英政府、MI6長官に初の女性任命　親中派候補退け
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/258e0cfad37e74251b3c78abcd7d885b7026921e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183920-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ大統領、G7サミットを途中退席
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183920-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ大統領、G7サミットを途中退席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c254fcccfeb8a786e6d22d8361b8b58af56ed18a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン、イスラエルの国営放送攻撃を「戦争犯罪」と非難
+      <a href=https://news.yahoo.co.jp/articles/512462530cd42015581168c61a2904994deb51a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06437829-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 関税協議「合意至らず」「担当閣僚での協議継続」日米首脳会談を終え　石破首相
       </a>
     </td>
   </tr>
@@ -411,15 +411,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b90396df4823aea7ba8a03ac49cd358f96db2dd3ea26de2c381370bf937127ed.jpg> 関税交渉 首相「合意には至らず」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/5c1e08238c7125a18100bcd547a974b221e778eb953d140c6862986573fc0ef6.jpg> 関税交渉 首相「合意には至らず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c48fb21d5986676f2fb4040c1bd7eee437e1b78982dbb0e8720a5eb5852a4d11.jpg> 日本郵便 ヤマトなどに集荷委託へ
+      <a href=https://news.yahoo.co.jp/pickup/6542517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a1b956a590abf6f4d33552b7e35bd7c0844dac87566f40b80419872d779419c.jpg> 自転車の小学生 クマに襲われけが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/fab74e285606f0f6f95cbbb0f5c9169dd71201e990485422b528b5cf2c5dae5f.jpg> 横須賀市長 車検切れ自家用車運転
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/fb28ca553070573635e438488e15d8a658bc6b5cd75934ca524a994a945247f3.jpg> 王貞治氏「野球離れ」への危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542504>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a9a94e28324f3aafb667bba31f9ab5340069fc15eb193231f25cb81518df2de.jpg> 結婚や挙式 16日各界幸せ報告続々
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 09:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 10:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
