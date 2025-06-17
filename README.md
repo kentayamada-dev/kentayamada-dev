@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2f4fcd9607d164b83cc3bc43c3f15f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/968d7922c7989538aeee0fb18217c84f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa4d6c33404890e2a4f15713cff6a88484b3759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イランに「無条件降伏」要求
+      <a href=https://news.yahoo.co.jp/articles/b753ccb40f3386a34677a0fe73e876160348b6de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000024-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=395&ch=395&exp=10800&fmt=webp> 日産、新型「リーフ」発表　航続距離は600km超え　25年秋に米国から投入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e976e4196c40716c0e61533faa9e6904a6407560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、「今のところ」イラン最高指導者を殺害せず
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e4ad50010426cb97310c2c7c64d42abe5fe5db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000002-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 日産 リーフ 新型のバッテリーは52kWhと75kWh
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/423530509d239e18212e29683839b81a8297fed6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税、解決せず　貿易交渉の進展望めず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税、解決せず　貿易交渉の進展望めず
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a86ac85e6b45689d55f085971bb7f2d892cc096d3b9ebfdc041c61b38672e3d7.jpg> らくらくホン なぜガラケー継続
+      <a href=https://news.yahoo.co.jp/pickup/6542625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/f0a24feca04a8337f802714f7230d7e2abf2352cb198fc14c85154727c4f2b8c.jpg> 元競泳・大橋悠依さん 引退後の今
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 08:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
