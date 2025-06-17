@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00dfeec2e76a2b9b5547ae9526657b0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39b38afb2b480591078563db5bdb5a47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d5b9f488cfb0235a4b9efb1867f65ba5292d79d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10184056-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> 投手・大谷を救った“超絶美技” 「すまん、そこはエドマン」「守備陣たまらん」流れを止めたビッグプレーが話題沸騰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44eb4927380d3ba518b8087e195bbf6675691a73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=534&ch=534&exp=10800&fmt=webp> G7サミット　イラン批判の共同声明　イスラエルには「自国守る権利」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31ee09933f0f9ba4e7aa3d9c389462ea22087cce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90027558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 生放送中に爆撃“退避の瞬間”　「無数のミサイルが」イランから避難の日本人語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29f42c3dad29abfa35d15c55f8541b9e89cd867f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90023635-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 夫（91）が運転の車が店に突っ込む　助手席の妻（84）が死亡　死因は胸部多発外傷　夫は軽傷　アクセルとブレーキ踏み間違えか　道向かいのスーパーの駐車場から市道を横切って外壁に衝突
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd536ff4d9b731444242fdd0a333936f65a5bc22>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984625-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 「悔しい」実が軸ごともぎ取られ...約100万円相当のさくらんぼ盗難発生　67本の木のうち50本が被害に（山形・上山市）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b774018d69c31a1080a1f8cbbc988193702942b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00098082-thedigest-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 「あれ、杉谷⁉︎」大谷翔平の“二刀流復帰”を現地観戦した元日本ハムの同僚も大興奮「伝説をこの目で見られる幸せ...」ネット騒然「持ってる男」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebcf1de0946ceaee21553ceeb9db375970b2ca14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988394-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【緊迫】爆音響き…イランのテレビ局生放送中に爆撃「同僚が何人も死亡」記者の手には血　トランプ大統領はG7異例の途中帰国　石破首相との関税交渉「合意至らず」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/977831f9c24e551a0c7406cededb5f23e9efd56e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00050157-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> Ｇ７声明に難色示していたトランプ氏、「国際法順守」削除で合意…イラン核兵器保有を認めない立場で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4573b0c7d5b4da59e36f67f947ee456fcc54f267>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243487-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岩屋外務大臣 イスラエル・イランの邦人退避で「第三国との協力検討」 イラン全土に退避勧告を発出
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542580>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日米関税合意せず「自動車」で溝
+      <a href=https://news.yahoo.co.jp/pickup/6542586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4918f6f733ce74925313876d474463e2ad094502d18a391220caf692f307be5.jpg> インドネシア大規模噴火 津波調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/60c75f0b2ac035987ab4039f91c9155a4518147b690547d1a658b36cf942c179.jpg> イランから日本人退避 陸路を検討
+      <a href=https://news.yahoo.co.jp/pickup/6542583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2025/4/24/fc3667e9d434d4a87a974d554c295dce87dbc384ce2b383cc595255ab1286eb8.jpg> 立憲 不信任案の見送り判断大詰め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ded3f7cdd7989d698dc0fd335227cb9af78ca7c2ff9f852913a64adf62b828bf.jpg> トランプ氏 日本「手ごわい」相手
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7dc79ca33684eff7c806fb3dad090e34fef11d6eb37459446fe8c520235ca233.jpg> 91歳運転 店衝突し助手席の妻死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6938a552852966b3dc9d80f2b1053de10853d724c93cbe894e71bb98fb0623ae.jpg> 異例 6月中旬に梅雨前線が消滅か
       </a>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542562>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハブがうり坊を丸のみ 捕獲者驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e5d7b39494b931af197ce1cf85ee5ab345f301b46208b5a39509e3ec8779a943.jpg> SB近藤2ラン→足引きずり苦悶
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/65d0bd0bc03072aadb0548af880fd856c7421467ea76c07e27f10b8bb5425733.jpg> SB近藤2ラン→足引きずり苦悶
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1d79f368d19866ae64c292d3a352934ec4b90537018aa1c3a465411547b46124.jpg> 人気アナウンサー退社 各局相次ぐ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 19:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 20:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
