@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39b38afb2b480591078563db5bdb5a47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1ce6b9a50e0aee948dbcb90c0e52a9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d5b9f488cfb0235a4b9efb1867f65ba5292d79d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10184056-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> 投手・大谷を救った“超絶美技” 「すまん、そこはエドマン」「守備陣たまらん」流れを止めたビッグプレーが話題沸騰
+      <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44eb4927380d3ba518b8087e195bbf6675691a73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=534&ch=534&exp=10800&fmt=webp> G7サミット　イラン批判の共同声明　イスラエルには「自国守る権利」
+      <a href=https://news.yahoo.co.jp/articles/0ec289d3398799453f1ecd8315b58b2f69fa9fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06579275-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】全国的に猛烈な暑さ　最高気温、名古屋と岐阜で37℃　京都、山形、福島で36℃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/233b73cbd5cd4ad8181801c8bc9de665a6ed278e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000128-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=840&ch=840&exp=10800&fmt=webp> イスラエル支持の共同声明　G7、イラン核保有認めず　トランプ米大統領、異例の帰国
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/31ee09933f0f9ba4e7aa3d9c389462ea22087cce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90027558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 生放送中に爆撃“退避の瞬間”　「無数のミサイルが」イランから避難の日本人語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29f42c3dad29abfa35d15c55f8541b9e89cd867f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90023635-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 夫（91）が運転の車が店に突っ込む　助手席の妻（84）が死亡　死因は胸部多発外傷　夫は軽傷　アクセルとブレーキ踏み間違えか　道向かいのスーパーの駐車場から市道を横切って外壁に衝突
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ded3f7cdd7989d698dc0fd335227cb9af78ca7c2ff9f852913a64adf62b828bf.jpg> トランプ氏 日本「手ごわい」相手
+      <a href=https://news.yahoo.co.jp/pickup/6542593>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/minamiryuta/02252175/title-1750127388490.jpeg?exp=10800> 謎に満ちたイラン 複雑な国情とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8701adf23127b9e9524bb7ece61b9c8d1af3ceaaa1299ed5061988e66ce6b87d.jpg> 映像 イラン国営テレビ放送中爆撃
+      <a href=https://news.yahoo.co.jp/pickup/6542587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ded3f7cdd7989d698dc0fd335227cb9af78ca7c2ff9f852913a64adf62b828bf.jpg> トランプ氏 日本「手ごわい」相手
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/65d0bd0bc03072aadb0548af880fd856c7421467ea76c07e27f10b8bb5425733.jpg> SB近藤2ラン→足引きずり苦悶
+      <a href=https://news.yahoo.co.jp/pickup/6542588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7729ad7d5755e4996a885f642e4cb5df2dfb5a272c6aee4f3885a84de3febf6d.jpg> 村上信五 農業関連会社の取締役に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 20:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 21:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
