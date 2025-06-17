@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2983731f85e79ebdcfd646ae879f0ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0103d23f0c091ac7be6b125010eae77c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15f35f47e139cf9be4872490045cf48489757ad6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000043-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　663日ぶり登板　チームを勝たせるための二刀流　「できるだけ長く」の覚悟もにじむ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6faff13faf58a92043fa300ba5b66d651f887aac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-90027589-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “生放送中”イラン国営メディア空爆の瞬間　G7途中でトランプ氏が帰国…対応協議へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f9329392eaa50330a10e9e04482d2bb4f6068365>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06859928-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】G7サミット最終日　トランプ氏不在のなか足並みは
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e19d80c6f5fd3ead51c91cbae7dbf9aa952f043b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000107-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日銀利上げ見送り　関税協議の影響を慎重判断　中東リスクに懸念も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19ce7cf957536cb28dbcebc2481f62d0b9df6945>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> Ｇ７切り上げ帰国のトランプ氏、イランに「完全な降伏」望む…核開発の完全放棄を念頭か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 01:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 01:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
