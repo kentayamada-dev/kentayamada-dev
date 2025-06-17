@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1ce6b9a50e0aee948dbcb90c0e52a9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e545c57ee00129b425be511bc9132dc2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
+      <a href=https://news.yahoo.co.jp/articles/53d308cf97aa487956035e4cd7807cd1b469700d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000365-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 西武・西口監督　今井17Kに「何も言うことはございません」9回2死満塁での打席にも言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ec289d3398799453f1ecd8315b58b2f69fa9fca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06579275-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】全国的に猛烈な暑さ　最高気温、名古屋と岐阜で37℃　京都、山形、福島で36℃
+      <a href=https://news.yahoo.co.jp/articles/a42c8463ef858ebdb37650e623665f9b64f5e506>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984892-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 100万円分のさくらんぼ盗難はなぜ起きたのか　「勝負は一週間」「一気に熟す」農家の抱える苦悩と特有の事情（山形）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/31ee09933f0f9ba4e7aa3d9c389462ea22087cce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90027558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 生放送中に爆撃“退避の瞬間”　「無数のミサイルが」イランから避難の日本人語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd536ff4d9b731444242fdd0a333936f65a5bc22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984625-tuy-000-1-thumb.jpg?exp=10800&fmt=webp> 「悔しい」実が軸ごともぎ取られ...約100万円相当のさくらんぼ盗難発生　67本の木のうち50本が被害に（山形・上山市）
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542593>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/minamiryuta/02252175/title-1750127388490.jpeg?exp=10800> 謎に満ちたイラン 複雑な国情とは
+      <a href=https://news.yahoo.co.jp/pickup/6542597>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症か 4県で畑などで女性死亡
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7729ad7d5755e4996a885f642e4cb5df2dfb5a272c6aee4f3885a84de3febf6d.jpg> 村上信五 農業関連会社の取締役に
+      <a href=https://news.yahoo.co.jp/pickup/6542598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2608c905dec3b59de0f9326c02c321b0ade71e48454170c1ef7474b88dc39725.jpg> ホンダロケット離着陸成功 国内初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6c3c70254fcc1203a858e7aaf44506eded493af281d3fd09a55725180ed8d36e.jpg> SEKAI NO OWARI 当日に公演延期
+      <a href=https://news.yahoo.co.jp/pickup/6542588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7729ad7d5755e4996a885f642e4cb5df2dfb5a272c6aee4f3885a84de3febf6d.jpg> 村上信五 農業関連会社の取締役に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 21:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 21:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
