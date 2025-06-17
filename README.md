@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7688ebc25cac1380db46a362e7cf0cbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/40ae316915b33c556afbfef401ef9287.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ca0cb054fde67083a88fecdb4761c06095b527b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000001-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1072&ch=1072&exp=10800&fmt=webp> 大谷翔平「野手よりは緊張しましたね」　６６３日ぶり二刀流復活！最速１６１キロ１回１失点＆適時打２本で３連勝貢献
+      <a href=https://news.yahoo.co.jp/articles/59bce31edeb592252feaaded7a9276f6343a091f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06171325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1176&ch=1176&exp=10800&fmt=webp> 大谷が明かしていた「投手の日はすごく緊張する。その緊張感が恋しい」念願マウンドで感情高ぶり１６１キロ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 03:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 04:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
