@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da575cc0b8652df66b84865155762669.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3678d418e67771d7edd34010e1ebeb97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a08d2b01f4da2b2f29afed8a56b40221da5117>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10558623-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 大谷翔平、ドジャース初‟二刀流”で躍動　663日ぶりマウンドで1回1失点も、黒星帳消しの同点タイムリー
+      <a href=https://news.yahoo.co.jp/articles/4712b97578892c0b11a2c92cf159293f30f42fa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000038-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 大谷翔平、“乱闘未遂”の異様な雰囲気のなかタイムリー…パヘス死球で一触即発、宿敵パドレス戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ce110831bcf196fd6d544f69de7fd3dea315a62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988151-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=540&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がイラン国営テレビを“生放送中”に空爆「軍事用通信指令部として利用されていた」として…女性キャスターは爆発音の中で話し続ける
+      <a href=https://news.yahoo.co.jp/articles/c7499c099a3b44ab10016271990676d4e07a04d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-08244116-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=300&ch=300&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　去年結婚していた＆第1子誕生も報告　“運命感じた”妻と父親の共通点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71e02f90ddf2a09305892d3fd1a6843e7f16c4b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-35234349-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエル、イラン放送局への攻撃を認める　生放送中に爆発音
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0638eb1c45c7f4d4fdb7a72e6adf99df0e67880>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税協議合意至らず　石破総理「最善の努力を重ねる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a40d91d08dbc08592e600425f0fd0f5a1cf625>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010005-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、第一子誕生と結婚していたことを同時報告⇒「びっくりした！」の声が続出
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542532>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 現金給付 与党幹部「年末までに」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ce0835f2eeb23055bb1725cd35c5f1b28497c10547212a5acc82611df247ae5f.jpg> 現金給付 与党幹部「年末までに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542508>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 三菱商事 米エネ企業の買収協議
+      <a href=https://news.yahoo.co.jp/pickup/6542536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e93e7d166bcb7269b163573883bcb8a253b8b4d21ae31e49ea1d0e14c91f6032.jpg> 日銀 国債買い入れ減額幅を縮小へ
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/0b3c4155abf727f59210d4244619ad86c6ceb33e91fa14dceffcfb66b5ef09aa.jpg> 東北新幹線 東京-仙台で見合わせ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6498340e643d0ab3ac129d9535ae85f96bf18079e1c309e82d8ed7096f91b7e1.jpg> 東北新幹線 東京-仙台で見合わせ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c724a2119c45d10489d667aaf91769a664f3d84bb9440b719460798d554b29fd.jpg> 武庫川女子大が共学化へ 正式発表
+      <a href=https://news.yahoo.co.jp/pickup/6542526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ab865d4a4eb75acc225cedfc0fce733b33cb27e0f1d1eef00c433e57b5aad8d5.jpg> 配膳途中を給食と投稿 市議謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ab865d4a4eb75acc225cedfc0fce733b33cb27e0f1d1eef00c433e57b5aad8d5.jpg> 配膳途中を給食と投稿 市議謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6542530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4726c61893e1ea742e22692eb923c71144f1764b140ea6c68164a43511d05825.jpg> 大谷が復帰登板 1球ごとに大歓声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 12:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 13:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
