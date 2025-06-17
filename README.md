@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/40ae316915b33c556afbfef401ef9287.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3194220c009d1bc2b671af5fd5fdeb82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c00454df98f1ff81cf41f8b7012892bc0dab243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】インドネシアの火山、日本に津波影響なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/59bce31edeb592252feaaded7a9276f6343a091f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06171325-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1176&ch=1176&exp=10800&fmt=webp> 大谷が明かしていた「投手の日はすごく緊張する。その緊張感が恋しい」念願マウンドで感情高ぶり１６１キロ
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9329392eaa50330a10e9e04482d2bb4f6068365>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06859928-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】G7サミット最終日　トランプ氏不在のなか足並みは
+      <a href=https://news.yahoo.co.jp/articles/6faff13faf58a92043fa300ba5b66d651f887aac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-90027589-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “生放送中”イラン国営メディア空爆の瞬間　G7途中でトランプ氏が帰国…対応協議へ
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4c3de70a70b9f918652aab176d131d508028bba181653e85c4d476587a0cb772.jpg> インドネシア噴火 日本へ津波なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542596>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a25df8777eef07e603e189b0222325e974668c1bf2b56a0265c86514f47a21d2.jpg> 非行疑いの少年にウェブ面接 懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542605>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 04:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 04:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
