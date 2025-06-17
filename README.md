@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ab28acfb52b60ed0cf2ad4a49f1131c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8375f363de5baa12a1e29d974c3a1f42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbd22967f7e68be4b776a49f4595814abc685ba0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170091-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=1057&ch=1057&exp=10800&fmt=webp> 大谷翔平「１番投手」で二刀流復帰　パドレス戦は２年ぶり２度目の登板／スタメン一覧
+      <a href=https://news.yahoo.co.jp/articles/28f8cd90f1f995221f02226783988064ba6b54ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000113-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 大谷翔平　ナ・リーグで「1番・投手」の先発出場は72年ぶり3人目　注目の663日ぶり二刀流復帰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99fb913068dca8ea34a534b3751ce0e20c41bfde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-35234322-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏、イラン巡るＧ７共同声明に署名しない方針
+      <a href=https://news.yahoo.co.jp/articles/a3afd34fe9e696104c52e69cdf9fce1a55dedb8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030248-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 【速報】関東で今年初の猛暑日　群馬県高崎市で35.0℃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c232267437ed8c0175ee0e0bca918b4e13792bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030245-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日17日　各地で真夏のような暑さ　東京都心で今年初の35℃か　熱中症に警戒
+      <a href=https://news.yahoo.co.jp/articles/b7ceac55d70f49c6ed1d88c2cf96587f9f36a90f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000050-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=1511&ch=1511&exp=10800&fmt=webp> 日経平均は小幅続伸で寄り付く、米株高や円安が支え　自動車株は小幅安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/258e0cfad37e74251b3c78abcd7d885b7026921e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183920-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ大統領、G7サミットを途中退席
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c254fcccfeb8a786e6d22d8361b8b58af56ed18a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000004-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン、イスラエルの国営放送攻撃を「戦争犯罪」と非難
       </a>
     </td>
   </tr>
@@ -386,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/eb863ead00f1e9abac499d0def60bfe87d23d39732ab6d1a39d745031ef25588.jpg> G7中国参加 構わないと米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6542515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/00939aa1e8f038357e0d16dcb49ceeaf1195511a30e18620225aa8d555dda84d.jpg> トランプ氏 G7途中で帰国と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b90396df4823aea7ba8a03ac49cd358f96db2dd3ea26de2c381370bf937127ed.jpg> 関税交渉 首相「合意には至らず」
       </a>
     </td>
   </tr>
@@ -402,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3a445b74f0cb64357530ea21ceb0192fd4249d8c5aa97fd0a12c708442a07314.jpg> 解散届のトクリュウ 首魁を再逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c3791937a9629f6a9cef60b7c37d2f1b471aa8de8325f5630879dc5a6c0bc090.jpg> 水原一平元被告 米で収監される
+      <a href=https://news.yahoo.co.jp/pickup/6542511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/871ab8678e9340b4f3b8f134c166cf37204c7e3b1f6a33d48ce12197978e52e2.jpg> 爆発的成長 Visaのタッチ決済
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a1202903c81dcc331e4f52a4caf65b27172a23af1cded2805680a49e2344674c.jpg> 大谷が先発へ 663日ぶり投手復帰
+      <a href=https://news.yahoo.co.jp/pickup/6542505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/fb28ca553070573635e438488e15d8a658bc6b5cd75934ca524a994a945247f3.jpg> 王貞治氏「野球離れ」への危機感
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 08:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 09:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
