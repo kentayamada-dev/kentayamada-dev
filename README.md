@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56c1e3616f295721d3155fe8c1223879.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1f32e4d6fb700c9ab2c8dad15d20ce7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96cbf88b50074b9f0ba377145100f08f82354134>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000223-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マンシー　大谷翔平の二刀流の忙しさに衝撃「投げてから水も飲まずに打席に向かうなんて信じられない」
+      <a href=https://news.yahoo.co.jp/articles/3ebd11df6db2799a422578f859b70fc6193b5aa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000037-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=284&cw=778&ch=778&exp=10800&fmt=webp> 生放送中のキャスター避難 イラン国営放送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3332811562758853737c8c6d5bb4b14218f2e21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000093-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平の進歩に「彼にはいつも驚かされる」同僚が驚き　平均球速アップ＆球種割合も変化　女房役は「とっても楽しかった」
+      <a href=https://news.yahoo.co.jp/articles/a78ea5bdeecb31d0226953a2ca022d1727fc5b6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183989-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=971&cy=0&cw=1229&ch=1229&exp=10800&fmt=webp> 「カモン！」→「ノー！」投手・大谷、“大ハッスル” 際どい本塁突入シーンで「二度も」雄叫び、判定に一喜一憂
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/795d1b6fc66bc7d96da286c6b0e06425b9acbcd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010000-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 平野紫耀、岸優太と似たり寄ったり「岸君はすぐに真に受ける…僕の性格は…すぐに信じる」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fac83f211d8f400fb6146d5a81a02d0af93f1f21>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「実は結婚していた」芸人の公表がプチラッシュ　令和ロマン・ケムリにバッテリィズ・エース、11年隠し続けた芸人も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71e02f90ddf2a09305892d3fd1a6843e7f16c4b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-35234349-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イスラエル、イラン放送局への攻撃を認める　生放送中に爆発音
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1547ca946cb6dca9479fa3f16ea988e5800eead97b3c1f1695954903860be66e.jpg> 自転車「青切符」反則金額が決定
+      <a href=https://news.yahoo.co.jp/pickup/6542546>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02252016/title-1750119916826.jpeg?exp=10800> 武庫川女子大が共学化へ 影響は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/86be576a6a56ae5aa3687774e5a2cf205a0cd78432e67bca32674755e67c357a.jpg> マイナ保険証 システムトラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6542552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9d6c973e41ef73103df9332fefadf227a01442410631d5e18b9f82b65ac07495.jpg> 浅田真央氏 過去に演者とトラブル
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 15:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 16:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
