@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a15603775e1a166c2353bf72888883b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1ab048e22b3edcb7bdf91ca11db962a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0e4b11660c2bd9f17e2f3c3b862d34277050403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000026-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 石破首相、関税交渉合意には「双方の認識一致せず」　日米首脳会談
+      <a href=https://news.yahoo.co.jp/articles/57a40d91d08dbc08592e600425f0fd0f5a1cf625>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010005-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、第一子誕生と結婚していたことを同時報告⇒「びっくりした！」の声が続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a655c0e6583a173817e5f4c529933921aad8d5a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゴジラ映画カラー販売疑い　男逮捕、AIで海賊版か
+      <a href=https://news.yahoo.co.jp/articles/0d403202561f2ea7f43ad186b9f373c590684ca1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000142-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1199&ch=1199&exp=10800&fmt=webp> 大谷翔平　第1打席は空振り三振　663日ぶり投手復帰戦　二刀流再始動で26号なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21258a2c44b6f472e5bd93819985df2930cda476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01775449-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、登場だけで“異様な光景”　LA記者も驚いた熱量「大きな歓声が」
+      <a href=https://news.yahoo.co.jp/articles/919f4e2d319365e7367bdda93b8f7ad0c9f3283a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243344-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=605&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 林官房長官「関税措置など率直に議論」日米首脳会談の意義を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b43a24b3575f06eeda41ac6060ae64112cc5883f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-04589009-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、結婚＆第1子誕生発表 子ども抱きかかえた写真で報告「昨年に」
+      <a href=https://news.yahoo.co.jp/articles/af38697182f686ffe0835bf5c93ed919a683edc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010001-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 【速報】白黒映画「ゴジラ」をカラー化してフリマサイトで販売した疑いで66歳のアルバイトの男を逮捕　「ゴジラ」以外もあわせて約1500点出品し約170万円売り上げか　大阪府警
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7a62a3793e5a1343399c3f140a8539fbcf1da18496a4456a081fed459cd5b310.jpg> 暴行動画が拡散 社長ら書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542521>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c724a2119c45d10489d667aaf91769a664f3d84bb9440b719460798d554b29fd.jpg> 武庫川女子大が共学化へ 正式発表
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/871ab8678e9340b4f3b8f134c166cf37204c7e3b1f6a33d48ce12197978e52e2.jpg> 爆発的成長 Visaのタッチ決済
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8138e5299e08d240cd42e74b22865a95693813da6ba55a9c4ffb6f41eac35e03.jpg> カリスマ去ったダイキン 正念場
+      <a href=https://news.yahoo.co.jp/pickup/6542524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/13a4fba21476bda559e0e545299b65d09bf3e25f7a87d938542719fbf2a3469e.jpg> 速報 投手・大谷翔平が復帰登板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 11:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 11:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
