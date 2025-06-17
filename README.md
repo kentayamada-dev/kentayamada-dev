@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1f32e4d6fb700c9ab2c8dad15d20ce7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75c16a0704d4b6f92d9ee722d40d0d79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37171d17a3944f215cc14a632274ffdfa59f9dc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010013-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「誤ってノースイングと判定されて…」大谷翔平投手復帰戦、最速161キロ1失点投球で注目されたマチャドへの＂幻の三振＂を米記者指摘「馬鹿げている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ebd11df6db2799a422578f859b70fc6193b5aa4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000037-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=284&cw=778&ch=778&exp=10800&fmt=webp> 生放送中のキャスター避難 イラン国営放送
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a78ea5bdeecb31d0226953a2ca022d1727fc5b6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183989-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=971&cy=0&cw=1229&ch=1229&exp=10800&fmt=webp> 「カモン！」→「ノー！」投手・大谷、“大ハッスル” 際どい本塁突入シーンで「二度も」雄叫び、判定に一喜一憂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/795d1b6fc66bc7d96da286c6b0e06425b9acbcd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010000-musicv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 平野紫耀、岸優太と似たり寄ったり「岸君はすぐに真に受ける…僕の性格は…すぐに信じる」
+      <a href=https://news.yahoo.co.jp/articles/8794a4c2e883dcb0b6bb9645dc002ad1669862ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030254-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日17日　6月として記録的な暑さ　真夏日・猛暑日地点は今年最多　今夜もムシムシ
       </a>
     </td>
   </tr>
@@ -402,32 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/f56be9878bed2ba7e647d6db843f49138c222de915f7cebe6fcacfbd3877d1c0.jpg> 野党 衆院委員長の解任案を提出
+      <a href=https://news.yahoo.co.jp/pickup/6542551>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国債買い入れ減額幅を縮小 狙いは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2be82a84a854f94f1023e9cc0dad5c71088b8bb3731df4a5efa698d4998f1fd7.jpg> G7声明 イスラエルの自衛権支持
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/73538af4f5a99bc70abe8354610763e9ca4050497e0faf49877382ec6452792d.jpg> 日本郵便社長が謝罪 処分受け入れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/43ce3c902f76d3fecf91287a33093084a06d3f2a1ebfb5dc5b5feef10b247f14.jpg> 東北新幹線 午後7時頃再開見込み
+      <a href=https://news.yahoo.co.jp/pickup/6542564>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北新幹線 午後5時頃運転再開へ
       </a>
     </td>
   </tr>
@@ -442,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/414172718c0fac19f97dc9b0ae413563eeef7050af2fce1523b1fc1ae6f0b049.jpg> 経営者刺される 70代男を緊急逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542549>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 修学旅行宿泊先 食事にカエル混入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542552>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9d6c973e41ef73103df9332fefadf227a01442410631d5e18b9f82b65ac07495.jpg> 浅田真央氏 過去に演者とトラブル
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/d5be52025165d08e22b8abfca1fccef8439aee2489d8034436914b902588bb86.jpg> 大谷が二刀流復帰 ド軍は3連勝
+      <a href=https://news.yahoo.co.jp/pickup/6542559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a50608ccb4c1c3d9eb2e82059d5e9b05a7f362b5284e712facc8fd47506f71fe.jpg> 投手大谷161km 目標153kmだった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 16:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 16:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
