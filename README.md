@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4d9f254b3bf9c6ad38bc8e9ffac4dc5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd628945e051a6dc3e70b8e48a9c9c77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ddacb54c139761c03357575ab6f8912d92eb1ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関東学連が日大アメフト後継組織の加盟承認
+      <a href=https://news.yahoo.co.jp/articles/19ce7cf957536cb28dbcebc2481f62d0b9df6945>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> Ｇ７切り上げ帰国のトランプ氏、イランに「完全な降伏」望む…核開発の完全放棄を念頭か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99ed71048ba4a8fd3700e52b8cbd898119089cfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984974-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「できるだけ早く戻らなければならない」トランプ氏、G7を途中退席　2日目のスケジュールは白紙に【Nスタ】
+      <a href=https://news.yahoo.co.jp/articles/de77187aa6f7d2334eed7cdd6f9ad19b9a1ddecd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=134&cw=533&ch=533&exp=10800&fmt=webp> 「見通し立たず苦しい」　自動車業界、関税影響長期化を懸念
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31ee09933f0f9ba4e7aa3d9c389462ea22087cce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-90027558-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 生放送中に爆撃“退避の瞬間”　「無数のミサイルが」イランから避難の日本人語る
+      <a href=https://news.yahoo.co.jp/articles/fb262274c335a6bdfd43a201ae6ae5878f05ceba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000132-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アングル：日銀、経済下押しの程度を注視　年内利上げ排除せずの声も
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1224f68920072f5aca4ea4fde4bfe0bf522e36f662fb9d6e96cec9a68169eb5c.jpg> 東横イン空室枠「転売」注意喚起
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542600>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/09d966407ea1d33e60d58c451a04d4ded26296d85e2cb70d3b38724c298e4c23.jpg> 西武・今井 松坂氏超えの17奪三振
+      <a href=https://news.yahoo.co.jp/pickup/6542607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd43d0f27469bd190b3613c51ee62eb8299a619ce5cf93309eb65efaabaed678.jpg> 阪神7連敗 2位とゲーム差ほぼ不動
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7729ad7d5755e4996a885f642e4cb5df2dfb5a272c6aee4f3885a84de3febf6d.jpg> 村上信五 農業関連会社の取締役に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 22:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 23:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
