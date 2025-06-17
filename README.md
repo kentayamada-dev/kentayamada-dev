@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72997951b44cd765714029ae8dc1cdaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d57c78590e0cf34b39f763408bee80b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cea8fdf370e6b6c88aad8ad695fbd4a108219d77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05223245-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】東北新幹線、午後5時ごろ運転再開　東京駅の様子は？
+      <a href=https://news.yahoo.co.jp/articles/0eec463765735b4442e74a8d1272b74961d67665>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000119-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 焦点：関税交渉まとまらず、石破政権　参院選控え「国益」重視アピール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e13ca622545faf314798a999515b08bc55b87c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10184003-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> とんでもない悪球打ち！大谷翔平がボール球を“衝撃タイムリー” 「100マイル近いボールをヒットにされたら」剛腕・五十嵐氏も驚き
+      <a href=https://news.yahoo.co.jp/articles/2615d276a5d33f1e7ef2493288a20f1aedc4a960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000278-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 人気芸人の幸せ報告相次ぐ　インパルス・堤下に男児誕生　令和ロマン・ケムリ、バッテリィズ・エースも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/589daced6ca76785d67a19e930bb2cfcee87d3ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243392-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”合意に至らず　石破総理とトランプ大統領が会談　攻撃続くイスラエルとイランの中東情勢も影響
+      <a href=https://news.yahoo.co.jp/articles/da96664807e795815a07bab35bf9464aad1bdc28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171208-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース同僚が明かした大谷翔平リアル二刀流の舞台裏「水も飲まず…」「試合前もまるで…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fac83f211d8f400fb6146d5a81a02d0af93f1f21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000007-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「実は結婚していた」芸人の公表がプチラッシュ　令和ロマン・ケムリにバッテリィズ・エース、11年隠し続けた芸人も
+      <a href=https://news.yahoo.co.jp/articles/d0e51018be99f57c14c16c738d41c8c530a628c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05273166-stv-000-3-thumb.jpg?exp=10800&fmt=webp> 生産者は懸念　コメの作況指数廃止「道しるべがなくなる」備蓄米流通から１週間…変化は？北海道
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6785271335157c82b6c4ab50c641cc68916a175007f721a1681f902b884a3fdd.jpg> 東北新幹線 全線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6542570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/25fa55e41e988400e5ef10badc10503b1fea7ec9053de35f4f8d8e6f05ffa55b.jpg> トランプ氏 退席と停戦「無関係」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/25fa55e41e988400e5ef10badc10503b1fea7ec9053de35f4f8d8e6f05ffa55b.jpg> トランプ氏 退席と停戦「無関係」
+      <a href=https://news.yahoo.co.jp/pickup/6542573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9c2e8b449c844d1c7cae55b7adfbfc9024e1fdfa2a919c57a5f5484f8e6110f3.jpg> 電通 五輪契約額99%が無罪と主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3775ed33cb49d68be9f24734365358ab8352e39818f102ffdd1395f550155088.jpg> 百日ぜき 感染者が初の週3000人超
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542549>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 修学旅行宿泊先 食事にカエル混入
+      <a href=https://news.yahoo.co.jp/pickup/6542562>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハブがうり坊を丸のみ 捕獲者驚き
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542552>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9d6c973e41ef73103df9332fefadf227a01442410631d5e18b9f82b65ac07495.jpg> 浅田真央氏 過去に演者とトラブル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a50608ccb4c1c3d9eb2e82059d5e9b05a7f362b5284e712facc8fd47506f71fe.jpg> 投手大谷161km 目標153kmだった
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 17:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
