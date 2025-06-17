@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f87348f081ed0ad16a01de7ec3ec1380.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a15603775e1a166c2353bf72888883b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5569d7c7af5057f3162f0c72fc4b496554632d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> 大谷翔平、ついに二刀流復活、監督「彼自身が望んだ舞台」…投手復帰への意欲「準備はできた、何を待つ必要があるの？」
+      <a href=https://news.yahoo.co.jp/articles/a0e4b11660c2bd9f17e2f3c3b862d34277050403>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000026-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 石破首相、関税交渉合意には「双方の認識一致せず」　日米首脳会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfeeb850a34531a4ad37198e6ec182b06b94f5af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国際法禁じる民間施設攻撃　イスラエル軍に非難相次ぐ　放送中に空爆
+      <a href=https://news.yahoo.co.jp/articles/a655c0e6583a173817e5f4c529933921aad8d5a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゴジラ映画カラー販売疑い　男逮捕、AIで海賊版か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffa879e067e8a2af6ad01326100178676d399de5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000008-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 「現実が『007』に追いついた」英政府、MI6長官に初の女性任命　親中派候補退け
+      <a href=https://news.yahoo.co.jp/articles/21258a2c44b6f472e5bd93819985df2930cda476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01775449-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、登場だけで“異様な光景”　LA記者も驚いた熱量「大きな歓声が」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/258e0cfad37e74251b3c78abcd7d885b7026921e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10183920-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ大統領、G7サミットを途中退席
+      <a href=https://news.yahoo.co.jp/articles/b43a24b3575f06eeda41ac6060ae64112cc5883f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-04589009-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、結婚＆第1子誕生発表 子ども抱きかかえた写真で報告「昨年に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/512462530cd42015581168c61a2904994deb51a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06437829-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 関税協議「合意至らず」「担当閣僚での協議継続」日米首脳会談を終え　石破首相
+      <a href=https://news.yahoo.co.jp/articles/f36c540291a0208f8671685bf549fdf2d5ecccca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イラン国営放送、生放送中に攻撃される 「戦争犯罪」と非難
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/5c1e08238c7125a18100bcd547a974b221e778eb953d140c6862986573fc0ef6.jpg> 関税交渉 首相「合意には至らず」
+      <a href=https://news.yahoo.co.jp/pickup/6542516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/86a2cf92b8e60412aa947fe06ddf9a8d0792547a125ff6c9b20899d10fde41c9.jpg> 「手取りを増やす夏」国民が公約
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c724a2119c45d10489d667aaf91769a664f3d84bb9440b719460798d554b29fd.jpg> 武庫川女子大が共学化へ 正式発表
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/fab74e285606f0f6f95cbbb0f5c9169dd71201e990485422b528b5cf2c5dae5f.jpg> 横須賀市長 車検切れ自家用車運転
+      <a href=https://news.yahoo.co.jp/pickup/6542519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2030587b975594a2d2ca0306389b2a41f78b0aede5958465f67c9cf03bc8d2b8.jpg> ドリフト横行の峠 設備損壊相次ぐ
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7413fba47121662f9a6bbedbaf7c439e11eb4d2bb2842cce3098cbb55dc395f4.jpg> スポドリ注意 ペットボトル症候群
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a9a94e28324f3aafb667bba31f9ab5340069fc15eb193231f25cb81518df2de.jpg> 結婚や挙式 16日各界幸せ報告続々
+      <a href=https://news.yahoo.co.jp/pickup/6542518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/69c8047d107c25aed2013c757fc1c0d2edae5546bd064a8eb19abf545b88f688.jpg> 元増位山が死去 歌手としても活躍
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 10:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 11:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
