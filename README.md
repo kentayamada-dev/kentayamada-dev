@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9266278e53a0d054885792535c86334.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d30320f026d7f2a815a9f132300db0a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6f8515179a5542b09f95d02325e6af7fe2d97d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170540-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、際どいストライク判定にビックリから空振り三振　投手で１回１失点、打者で適時打２本
+      <a href=https://news.yahoo.co.jp/articles/15075e5a7d86fc83cc64b559dbfb1891dc1e28c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171117-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1187&ch=1187&exp=10800&fmt=webp> 大谷翔平「結果はイマイチでしたけど」　６６３日ぶり復帰登板は１回１失点も１６１キロ「前進できる材料たくさん」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6825ff4402b37aa4b0031468fac6657502e52acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170500-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 令和ロマン松井ケムリ、29歳一般女性と結婚＆第１子誕生報告　知り合ったきっかけも明かす
+      <a href=https://news.yahoo.co.jp/articles/fac83f211d8f400fb6146d5a81a02d0af93f1f21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000007-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「実は結婚していた」芸人の公表がプチラッシュ　令和ロマン・ケムリにバッテリィズ・エース、11年隠し続けた芸人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec49be1bb4059242fc264094a60c968d3901c865>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 野党、衆院財金委員長の解任決議案を共同提出へ　ガソリン暫定税率で
+      <a href=https://news.yahoo.co.jp/articles/5b81796217db39875edb99c78f65fae2e3fe2b29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01271768-the_tv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 小泉今日子「理想の男・長倉和平だと思う」エゴサーチで見つけたコメントに共感＜続・続・最後から二番目の恋＞
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ce0835f2eeb23055bb1725cd35c5f1b28497c10547212a5acc82611df247ae5f.jpg> 現金給付 与党幹部「年末までに」
+      <a href=https://news.yahoo.co.jp/pickup/6542537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1c663648d22696efddf5e740de1e478eef9d6dc93b04ebd313ec3f5a9d1d03a6.jpg> 立維国 衆院委員長の解任案提出へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/57e8dcbb836ed1d97d73e9da661992923e125f7728774a2a6d9c02565ec5b623.jpg> ゴジラをカラー化し販売疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1547ca946cb6dca9479fa3f16ea988e5800eead97b3c1f1695954903860be66e.jpg> 自転車「青切符」反則金額が決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/7a62a3793e5a1343399c3f140a8539fbcf1da18496a4456a081fed459cd5b310.jpg> 暴行動画が拡散 社長ら書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6542540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/86be576a6a56ae5aa3687774e5a2cf205a0cd78432e67bca32674755e67c357a.jpg> マイナ保険証 システムトラブルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/ed830b8bd346214b27350647a1384cfdbbe4fe701c61e3757309b9d3e289ef8d.jpg> 国士舘大学生寮から植物片 大麻か
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4726c61893e1ea742e22692eb923c71144f1764b140ea6c68164a43511d05825.jpg> 大谷が復帰登板 1球ごとに大歓声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/153f83b8e7dc86281d4373b9c5b22d315bab956842745a030a05a59ff1ebdfc7.jpg> 速報 ドジャースvs.パドレス
+      <a href=https://news.yahoo.co.jp/pickup/6542541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2faead8bc7bd2a4168656cb33e7ff800975d3adca408a19146ae0e67050ac4df.jpg> 小泉今日子 ドラマ反響エゴサする
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 13:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 14:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
