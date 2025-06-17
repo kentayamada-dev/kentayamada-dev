@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29a200e2dbe28b20bbb49becbf7dfe2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56c1e3616f295721d3155fe8c1223879.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/317d073327b7a203bec250e667f0c47e06411d46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 東北新幹線、運転再開は午後7時ごろ見込み　東京－仙台間　車両故障
+      <a href=https://news.yahoo.co.jp/articles/96cbf88b50074b9f0ba377145100f08f82354134>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000223-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マンシー　大谷翔平の二刀流の忙しさに衝撃「投げてから水も飲まずに打席に向かうなんて信じられない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f78959c0c3eacb783d53956a288f2366d2d07ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 「結果は“いまいち"だったが前進できる材料はいっぱいあった」大谷翔平が663日ぶりの復帰マウンドに手ごたえ…1回28球2安打1失点も最速は161.2キロをマーク
+      <a href=https://news.yahoo.co.jp/articles/a3332811562758853737c8c6d5bb4b14218f2e21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000093-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平の進歩に「彼にはいつも驚かされる」同僚が驚き　平均球速アップ＆球種割合も変化　女房役は「とっても楽しかった」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ce6949f89e46331b0f58c4ece112b0affc80aa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高関税措置、打撃続く　早期見直し実現できず　日米首脳会談
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000065-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 高関税措置、打撃続く　早期見直し実現できず　日米首脳会談
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6432ea7c42f704f635a5eed3af23895418682a9ab4d8a9d6d7009cb48782b276.jpg> 日銀 国債買い入れ減額幅を縮小へ
+      <a href=https://news.yahoo.co.jp/pickup/6542542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/73538af4f5a99bc70abe8354610763e9ca4050497e0faf49877382ec6452792d.jpg> 日本郵便社長が謝罪 処分受け入れ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 15:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 15:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
