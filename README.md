@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d57c78590e0cf34b39f763408bee80b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/643105babf8ef90d3b89752859769f89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf79ae0562864f772b5b1377b16d07d72df169e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243458-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=537&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “爆撃の瞬間” 生放送中のイラン国営テレビで　イラン外務省「悪質な戦争犯罪」　イスラエル国防相「プロパガンダのための放送局」攻撃正当化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47c5d8fd180621b8e033230a74d794b112a62a68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988430-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「真夏のような暑さ来週にかけても続く…正直終わり見えない」と気象予報士　近畿各地で真夏の暑さ　慣れない体に万全の熱中症対策を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9501932db7e960ab43d392ffaef49036e7add7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01310157-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 二刀流復帰「大谷翔平の28球」から見えたこと　160キロ計測も“伝家の宝刀”がわずか1球だった理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0eec463765735b4442e74a8d1272b74961d67665>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000119-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 焦点：関税交渉まとまらず、石破政権　参院選控え「国益」重視アピール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2615d276a5d33f1e7ef2493288a20f1aedc4a960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000278-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 人気芸人の幸せ報告相次ぐ　インパルス・堤下に男児誕生　令和ロマン・ケムリ、バッテリィズ・エースも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da96664807e795815a07bab35bf9464aad1bdc28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171208-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース同僚が明かした大谷翔平リアル二刀流の舞台裏「水も飲まず…」「試合前もまるで…」
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/131c07331a13950003b3514c47bc728cffdb8859a26bbca9a231a0779cdfaf83.jpg> 記録的な暑さ 夜間の熱中症注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542573>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9c2e8b449c844d1c7cae55b7adfbfc9024e1fdfa2a919c57a5f5484f8e6110f3.jpg> 電通 五輪契約額99%が無罪と主張
       </a>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542568>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症の疑い70代女性が死亡 静岡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/414172718c0fac19f97dc9b0ae413563eeef7050af2fce1523b1fc1ae6f0b049.jpg> 経営者刺される 70代男を緊急逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 18:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
