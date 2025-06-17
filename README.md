@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13e86cfbe2ed9468c29b79ba442d71db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2f4fcd9607d164b83cc3bc43c3f15f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9df625ee03717bf3a9d1fc80175e8776b10b54d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領が国家安全保障会議開催　イラン攻撃への参加を検討との複数米メディアの報道も
+      <a href=https://news.yahoo.co.jp/articles/6aa4d6c33404890e2a4f15713cff6a88484b3759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イランに「無条件降伏」要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e21befa5a911c31bba7b73be1bc5c3eed8db8b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184099-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 「日産リーフ」新型車 航続距離や充電速度が向上
+      <a href=https://news.yahoo.co.jp/articles/b4d9f3ff77b4b051e710943d961f03b4f31919ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184077-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なぜ打った…！？ 大谷翔平、弾丸ヒットで“異変”「めっちゃ驚いてる」「そらビビるw」 相手投手の被打リアクションが話題に「すごい音だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e29b19e7f268571a911494a6e337072af9b0bc85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184082-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もうワケわからん！ 大谷翔平、まさかの“悪球打ち”「ありえない」 とんでもないスイング→相手投手が“ドン引き”「投げるところないw」
+      <a href=https://news.yahoo.co.jp/articles/43e4ad50010426cb97310c2c7c64d42abe5fe5db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000002-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 日産 リーフ 新型のバッテリーは52kWhと75kWh
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/714c735b23b02fde1ef83b546ff69ddf988ee8c50fcea5d5b44d37365b832810.jpg> TOEICで不正疑い 中国籍10人聴取
+      <a href=https://news.yahoo.co.jp/pickup/6542624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3211369452d59c995609c34b2df5a2c384367298b4d56b254da053d0cf58b77e.jpg> 米大統領 イランに無条件降伏要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1224f68920072f5aca4ea4fde4bfe0bf522e36f662fb9d6e96cec9a68169eb5c.jpg> 東横イン空室枠「転売」注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6542620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8dd526be97144c6eab4c29837e6e9ace0c22181ae81aef8af04285b198786df7.jpg> ご当地ナンバー モノトーン版廃止
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eed6adfb8f4e7a983284f0b7e80cd5d0748aa0aa5898ab02440dd1f909817212.jpg> 横浜Mに激震 FWロペスが退団へ
+      <a href=https://news.yahoo.co.jp/pickup/6542621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/2b0793bf4750f450b4a350301d3788f9050d84c47a872dbdbe419af39d0d4411.jpg> 草なぎ 2年半ぶり民放連ドラ主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 07:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
