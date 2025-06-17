@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3678d418e67771d7edd34010e1ebeb97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9266278e53a0d054885792535c86334.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4712b97578892c0b11a2c92cf159293f30f42fa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000038-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 大谷翔平、“乱闘未遂”の異様な雰囲気のなかタイムリー…パヘス死球で一触即発、宿敵パドレス戦
+      <a href=https://news.yahoo.co.jp/articles/f6f8515179a5542b09f95d02325e6af7fe2d97d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170540-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、際どいストライク判定にビックリから空振り三振　投手で１回１失点、打者で適時打２本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7499c099a3b44ab10016271990676d4e07a04d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-08244116-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=300&ch=300&exp=10800&fmt=webp> 令和ロマン・松井ケムリ　去年結婚していた＆第1子誕生も報告　“運命感じた”妻と父親の共通点
+      <a href=https://news.yahoo.co.jp/articles/6825ff4402b37aa4b0031468fac6657502e52acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-36170500-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 令和ロマン松井ケムリ、29歳一般女性と結婚＆第１子誕生報告　知り合ったきっかけも明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec49be1bb4059242fc264094a60c968d3901c865>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 野党、衆院財金委員長の解任決議案を共同提出へ　ガソリン暫定税率で
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28ae66cb349d3542a8a8220882daadf4412934d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00066487-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 警察が自転車の交通違反を集中取り締まり　「ながらスマホ」などめぐり来年４月から「青切符」適用
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e93e7d166bcb7269b163573883bcb8a253b8b4d21ae31e49ea1d0e14c91f6032.jpg> 日銀 国債買い入れ減額幅を縮小へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6432ea7c42f704f635a5eed3af23895418682a9ab4d8a9d6d7009cb48782b276.jpg> 日銀 国債買い入れ減額幅を縮小へ
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542533>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6498340e643d0ab3ac129d9535ae85f96bf18079e1c309e82d8ed7096f91b7e1.jpg> 東北新幹線 東京-仙台で見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/57e8dcbb836ed1d97d73e9da661992923e125f7728774a2a6d9c02565ec5b623.jpg> ゴジラをカラー化し販売疑い 逮捕
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542531>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koarairyo/02251524/title-1750079451878.jpeg?exp=10800> ガンダムジークアクス 高まる熱
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 13:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 13:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
