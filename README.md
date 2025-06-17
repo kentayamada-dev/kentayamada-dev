@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/QZSauc2Umpw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0eee79145c3b923c588111b823431cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a15603775e1a166c2353bf72888883b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c2eab2c9582b770b3c44b0fcc37fcdee11d4596>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988069-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 生放送中にイスラエル軍がイラン国営テレビを攻撃、戦闘範囲を拡大　ネタニヤフ首相はイランの最高指導者・ハメネイ師を標的とすること否定せず
+      <a href=https://news.yahoo.co.jp/articles/a0e4b11660c2bd9f17e2f3c3b862d34277050403>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000026-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 石破首相、関税交渉合意には「双方の認識一致せず」　日米首脳会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27295c06d328f21b4119f1439ef369cf8e8c5a6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171007-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 大谷翔平、オールスター投票中間発表で貫禄のリーグ最多得票…鈴木誠也はＤＨ部門３位
+      <a href=https://news.yahoo.co.jp/articles/a655c0e6583a173817e5f4c529933921aad8d5a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゴジラ映画カラー販売疑い　男逮捕、AIで海賊版か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c232267437ed8c0175ee0e0bca918b4e13792bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030245-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日17日　各地で真夏のような暑さ　東京都心で今年初の35℃か　熱中症に警戒
+      <a href=https://news.yahoo.co.jp/articles/21258a2c44b6f472e5bd93819985df2930cda476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-01775449-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、登場だけで“異様な光景”　LA記者も驚いた熱量「大きな歓声が」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b43a24b3575f06eeda41ac6060ae64112cc5883f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-04589009-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 令和ロマン・松井ケムリ、結婚＆第1子誕生発表 子ども抱きかかえた写真で報告「昨年に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f36c540291a0208f8671685bf549fdf2d5ecccca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イラン国営放送、生放送中に攻撃される 「戦争犯罪」と非難
       </a>
     </td>
   </tr>
@@ -386,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd9f86e40d0ccfa81866e9885d8eae0f5de887176b6088edffc6d347c1f58c06.jpg> 真夏のような暑さに 都心35℃予想
+      <a href=https://news.yahoo.co.jp/pickup/6542515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/00939aa1e8f038357e0d16dcb49ceeaf1195511a30e18620225aa8d555dda84d.jpg> トランプ氏 G7途中で帰国と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/277cf9170cc84de4297ec69ec4c65c698bc3029c9ad9048e51a952973e7fa9ce.jpg> 日米首脳 関税交渉の継続を確認
+      <a href=https://news.yahoo.co.jp/pickup/6542516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/86a2cf92b8e60412aa947fe06ddf9a8d0792547a125ff6c9b20899d10fde41c9.jpg> 「手取りを増やす夏」国民が公約
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/4951fc38a29f6e64ca5e3bccd67ff3c460d655ae597a49a773dd18e671fde320.jpg> イラン国営放送に爆撃 生放送中断
+      <a href=https://news.yahoo.co.jp/pickup/6542521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c724a2119c45d10489d667aaf91769a664f3d84bb9440b719460798d554b29fd.jpg> 武庫川女子大が共学化へ 正式発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/80d5cc2de61c9f63b5952c30b9fb073fef757cf48ad6898e62f3de678b0c488e.jpg> 農相お膝元で自公系敗北 政界波紋
+      <a href=https://news.yahoo.co.jp/pickup/6542517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8a1b956a590abf6f4d33552b7e35bd7c0844dac87566f40b80419872d779419c.jpg> 自転車の小学生 クマに襲われけが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/2475ac7fd53175cd9eeaf3ff3d1fa092c0c396dfe82ff2a60d31b52752c71d77.jpg> 原口一博氏 あばら骨を複数本骨折
+      <a href=https://news.yahoo.co.jp/pickup/6542519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2030587b975594a2d2ca0306389b2a41f78b0aede5958465f67c9cf03bc8d2b8.jpg> ドリフト横行の峠 設備損壊相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/c3791937a9629f6a9cef60b7c37d2f1b471aa8de8325f5630879dc5a6c0bc090.jpg> 水原一平元被告 米で収監される
+      <a href=https://news.yahoo.co.jp/pickup/6542511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/871ab8678e9340b4f3b8f134c166cf37204c7e3b1f6a33d48ce12197978e52e2.jpg> 爆発的成長 Visaのタッチ決済
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b520ca22212bf5efe2fc9db4b2ebb9925bc2c49be909d8637dcb67f1f9ce629d.jpg> DH大谷 球宴中間発表で大差の1位
+      <a href=https://news.yahoo.co.jp/pickup/6542506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/8138e5299e08d240cd42e74b22865a95693813da6ba55a9c4ffb6f41eac35e03.jpg> カリスマ去ったダイキン 正念場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/16/09c710079b6a8ff486586ec8b3c25771b26c6838975dbf3df28473f7fbfc87bf.jpg> 令和ロマン松井ケムリ 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/69c8047d107c25aed2013c757fc1c0d2edae5546bd064a8eb19abf545b88f688.jpg> 元増位山が死去 歌手としても活躍
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 07:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 11:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
