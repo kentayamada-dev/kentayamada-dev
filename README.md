@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75c16a0704d4b6f92d9ee722d40d0d79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/581bc1b8789dbcc113c52f6a24538ef1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37171d17a3944f215cc14a632274ffdfa59f9dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00010013-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「誤ってノースイングと判定されて…」大谷翔平投手復帰戦、最速161キロ1失点投球で注目されたマチャドへの＂幻の三振＂を米記者指摘「馬鹿げている」
+      <a href=https://news.yahoo.co.jp/articles/1c4ffe687c4298b8e6fdb1a3f90ac660f66d0d42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-11650996-yorozuns-000-31771666-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=640&ch=640&exp=10800&fmt=webp> セカオワが公演開始3時間前に延期発表　Saoriが体調不良
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38ae18dae76d2c733d1383fd6dbac08f1ef9e566>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米首脳、関税合意せず　自動車で溝、閣僚協議を継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71c6ccbb0d498b9ef22e27e914580e32a07e65a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171181-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ロバーツ監督が大谷翔平の復帰登板に驚き隠せず「１００を見るとは思っていなかった」「ファンのひとり」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3ebd11df6db2799a422578f859b70fc6193b5aa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000037-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=284&cw=778&ch=778&exp=10800&fmt=webp> 生放送中のキャスター避難 イラン国営放送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8794a4c2e883dcb0b6bb9645dc002ad1669862ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00030254-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日17日　6月として記録的な暑さ　真夏日・猛暑日地点は今年最多　今夜もムシムシ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ce6949f89e46331b0f58c4ece112b0affc80aa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000065-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 高関税措置、打撃続く　早期見直し実現できず　日米首脳会談
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000037-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=284&cw=778&ch=778&exp=10800&fmt=webp> 生放送中のキャスター避難 イラン国営放送
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542546>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02252016/title-1750119916826.jpeg?exp=10800> 武庫川女子大が共学化へ 影響は
+      <a href=https://news.yahoo.co.jp/pickup/6542553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/414172718c0fac19f97dc9b0ae413563eeef7050af2fce1523b1fc1ae6f0b049.jpg> 経営者刺される 70代男を緊急逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/414172718c0fac19f97dc9b0ae413563eeef7050af2fce1523b1fc1ae6f0b049.jpg> 経営者刺される 70代男を緊急逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62d4d91193f10191cdb4fcf9317dce612588c69ce3459d1ff894111aeab7d678.jpg> ハイフ施術でやけど 被害女性和解
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/93b0138fe7f88c4de750798d2ae0709460f829cefc9e54ecd2264e27dba07c1b.jpg> 日テレ豊田順子アナ 6月末で退社
+      <a href=https://news.yahoo.co.jp/pickup/6542555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/23cd5c1ee1d2da09f4300ed828eb7e69cbad2982dbc30bd8fff2ac59b87d02e8.jpg> 平野紫耀 自身の広告に「照れた」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 16:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 17:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
