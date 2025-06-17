@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/581bc1b8789dbcc113c52f6a24538ef1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72997951b44cd765714029ae8dc1cdaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c4ffe687c4298b8e6fdb1a3f90ac660f66d0d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-11650996-yorozuns-000-31771666-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=640&ch=640&exp=10800&fmt=webp> セカオワが公演開始3時間前に延期発表　Saoriが体調不良
+      <a href=https://news.yahoo.co.jp/articles/cea8fdf370e6b6c88aad8ad695fbd4a108219d77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-05223245-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】東北新幹線、午後5時ごろ運転再開　東京駅の様子は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38ae18dae76d2c733d1383fd6dbac08f1ef9e566>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米首脳、関税合意せず　自動車で溝、閣僚協議を継続
+      <a href=https://news.yahoo.co.jp/articles/4e13ca622545faf314798a999515b08bc55b87c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-10184003-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1239&ch=1239&exp=10800&fmt=webp> とんでもない悪球打ち！大谷翔平がボール球を“衝撃タイムリー” 「100マイル近いボールをヒットにされたら」剛腕・五十嵐氏も驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71c6ccbb0d498b9ef22e27e914580e32a07e65a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-06171181-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ロバーツ監督が大谷翔平の復帰登板に驚き隠せず「１００を見るとは思っていなかった」「ファンのひとり」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ebd11df6db2799a422578f859b70fc6193b5aa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000037-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=284&cw=778&ch=778&exp=10800&fmt=webp> 生放送中のキャスター避難 イラン国営放送
+      <a href=https://news.yahoo.co.jp/articles/589daced6ca76785d67a19e930bb2cfcee87d3ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-07243392-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”合意に至らず　石破総理とトランプ大統領が会談　攻撃続くイスラエルとイランの中東情勢も影響
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542551>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 国債買い入れ減額幅を縮小 狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6542571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6785271335157c82b6c4ab50c641cc68916a175007f721a1681f902b884a3fdd.jpg> 東北新幹線 全線で運転再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542564>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北新幹線 午後5時頃運転再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6542570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/25fa55e41e988400e5ef10badc10503b1fea7ec9053de35f4f8d8e6f05ffa55b.jpg> トランプ氏 退席と停戦「無関係」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542568>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症の疑い70代女性が死亡 静岡
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542553>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/414172718c0fac19f97dc9b0ae413563eeef7050af2fce1523b1fc1ae6f0b049.jpg> 経営者刺される 70代男を緊急逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62d4d91193f10191cdb4fcf9317dce612588c69ce3459d1ff894111aeab7d678.jpg> ハイフ施術でやけど 被害女性和解
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/23cd5c1ee1d2da09f4300ed828eb7e69cbad2982dbc30bd8fff2ac59b87d02e8.jpg> 平野紫耀 自身の広告に「照れた」
+      <a href=https://news.yahoo.co.jp/pickup/6542557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1d79f368d19866ae64c292d3a352934ec4b90537018aa1c3a465411547b46124.jpg> 人気アナウンサー退社 各局相次ぐ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 17:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 17:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
