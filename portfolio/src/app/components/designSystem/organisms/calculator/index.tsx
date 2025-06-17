@@ -174,7 +174,9 @@ const Calculator: CalculatorType = (props) => {
           type='number'
           {...register('shares')}
         />
-        <input className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white' type='submit' />
+        <button className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white' type='submit'>
+          {calculator.calculate}
+        </button>
       </form>
       <dl className='grid grid-cols-1 grid-rows-none gap-5 md:grid-rows-4'>
         {items.map((item) => {

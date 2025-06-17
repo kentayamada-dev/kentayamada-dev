@@ -19,15 +19,17 @@
   },
   "labels": {
     "copyCodeLabel": "コードをコピー",
-    "localeSwitcherLabel": "言語を変える",
-    "themeSwitcherLabel": "テーマを変える",
+    "localeSwitcherLabel": "言語",
+    "likeLabel": "いいね",
+    "themeSwitcherLabel": "テーマ",
     "openSidePanelLabel": "サイドパネルを開く",
     "closeSidePanelLabel": "サイドパネルを閉じる",
     "openTocLabel": "目次を開く",
     "closeTocLabel": "目次を閉じる",
     "storybookLinkLabel": "Storybook",
     "githubLinkLabel": "GitHub",
-    "homeLinkLabel": "ホームへ行く",
+    "globalNavLabel": "グローバル",
+    "homeLinkLabel": "ホームページへ行く",
     "selectCurrencyLabel": "通貨を選択",
     "selectCurrencyPairLabel": "通貨ペアを選択",
     "selectCountryCodeLabel": "国コードを選択"
@@ -47,7 +49,8 @@
     "buyPrice": "購入時株価",
     "stockProfitLoss": "株式損益",
     "forexProfitLoss": "為替損益",
-    "totalProfitLoss": "合計損益"
+    "totalProfitLoss": "合計損益",
+    "calculate": "計算する"
   },
   "form": {
     "firstName": "名",
@@ -55,6 +58,7 @@
     "email": "メールアドレス",
     "message": "メッセージ",
     "phoneNumber": "電話番号",
+    "submit": "送信する",
     "phoneNumberError": "有効な電話番号を入力してください。",
     "recaptchaError": "reCAPTCHA の検証に失敗しました。お手数ですが再度お試しください。",
     "placeHolder": {

@@ -18,7 +18,7 @@ const StyledGithubIcon = (): JSXElementType => {
 
 // eslint-disable-next-line react/no-multi-comp
 const SidePanel: SidePanelType = (props) => {
-  const { closeSidePanelLabel, openSidePanelLabel } = dictionaries[props.locale].labels;
+  const { closeSidePanelLabel, globalNavLabel, openSidePanelLabel } = dictionaries[props.locale].labels;
 
   return (
     <>
@@ -50,7 +50,7 @@ const SidePanel: SidePanelType = (props) => {
           >
             <CrossIcon />
           </button>
-          <nav className='mt-3'>
+          <nav aria-label={globalNavLabel} className='mt-3'>
             <ul className='space-y-1'>
               {Object.entries(props.items).map(([key, { href, icon, title }]) => {
                 return (

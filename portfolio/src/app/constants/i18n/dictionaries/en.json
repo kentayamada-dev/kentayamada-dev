@@ -19,15 +19,17 @@
   },
   "labels": {
     "copyCodeLabel": "Copy Code",
-    "localeSwitcherLabel": "Change Language",
-    "themeSwitcherLabel": "Change Theme",
+    "localeSwitcherLabel": "Language",
+    "likeLabel": "Like",
+    "themeSwitcherLabel": "Theme",
     "openSidePanelLabel": "Open Side Panel",
     "closeSidePanelLabel": "Close Side Panel",
-    "openTocLabel": "Open TOC",
-    "closeTocLabel": "Close TOC",
+    "openTocLabel": "Open Table of Contents",
+    "closeTocLabel": "Close Table of Contents",
     "storybookLinkLabel": "Storybook",
     "githubLinkLabel": "GitHub",
-    "homeLinkLabel": "Go to Home",
+    "homeLinkLabel": "Go to Home Page",
+    "globalNavLabel": "Global",
     "selectCurrencyLabel": "Select Currency",
     "selectCurrencyPairLabel": "Select Currency Pair",
     "selectCountryCodeLabel": "Select Country Code"
@@ -47,7 +49,8 @@
     "buyPrice": "Buy Price",
     "stockProfitLoss": "Stock Profit/Loss",
     "forexProfitLoss": "Forex Profit/Loss",
-    "totalProfitLoss": "Total Profit/Loss"
+    "totalProfitLoss": "Total Profit/Loss",
+    "calculate": "Calculate"
   },
   "form": {
     "firstName": "First Name",
@@ -61,6 +64,7 @@
       "firstName": "John",
       "lastName": "Smith",
       "message": "How can I help you?"
-    }
+    },
+    "submit": "Submit"
   }
 }

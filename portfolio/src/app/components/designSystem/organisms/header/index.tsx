@@ -8,7 +8,7 @@ import { ThemeSwitcherWrapper } from './themeSwitcherWrapper';
 import type { HeaderType } from './types';
 
 const Header: HeaderType = (props) => {
-  const { githubLinkLabel, homeLinkLabel, storybookLinkLabel } = dictionaries[props.locale].labels;
+  const { githubLinkLabel, globalNavLabel, homeLinkLabel, storybookLinkLabel } = dictionaries[props.locale].labels;
 
   return (
     <header className='border-primary sticky top-0 z-10 flex items-center justify-between border-b bg-white/75 px-5 py-2 backdrop-blur-sm sm:px-10 dark:bg-slate-900/75'>
@@ -25,7 +25,7 @@ const Header: HeaderType = (props) => {
       </span>
       <span className='gap-x-reverse flex items-center gap-x-2'>
         <span className='hidden md:block'>
-          <NavItemsWrapper locale={props.locale} />
+          <NavItemsWrapper locale={props.locale} navLabel={globalNavLabel} />
         </span>
         <span className='border-primary hidden h-10 border-l md:block' />
         <LocaleSwitcherWrapper locale={props.locale} />

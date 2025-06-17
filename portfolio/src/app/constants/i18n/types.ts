@@ -16,6 +16,7 @@ type DictionaryType = {
   calculator: {
     buyPrice: string;
     buyRate: string;
+    calculate: string;
     forexProfitLoss: string;
     sellPrice: string;
     sellRate: string;
@@ -37,13 +38,16 @@ type DictionaryType = {
       message: string;
     };
     recaptchaError: string;
+    submit: string;
   };
   labels: {
     closeSidePanelLabel: string;
     closeTocLabel: string;
     copyCodeLabel: string;
     githubLinkLabel: string;
+    globalNavLabel: string;
     homeLinkLabel: string;
+    likeLabel: string;
     localeSwitcherLabel: string;
     openSidePanelLabel: string;
     openTocLabel: string;

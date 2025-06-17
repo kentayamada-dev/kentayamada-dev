@@ -160,7 +160,10 @@ const ContactForm: ContactFormType = (props) => {
                         <ChevronDownIcon />
                       </div>
                     </ListboxButton>
-                    <ListboxOptions className='absolute top-20 h-60 w-fit overflow-auto rounded-lg bg-white ring-1 ring-gray-300 dark:bg-slate-800 dark:ring-gray-600'>
+                    <ListboxOptions
+                      aria-label={selectCountryCodeLabel}
+                      className='absolute top-20 h-60 w-fit overflow-auto rounded-lg bg-white ring-1 ring-gray-300 dark:bg-slate-800 dark:ring-gray-600'
+                    >
                       {getEntries(countriesData).map(([key, { code, icon, label }]) => {
                         return (
                           <ListboxOption
@@ -205,11 +208,13 @@ const ContactForm: ContactFormType = (props) => {
         {...register('message')}
       />
       <ReCAPTCHA hl={props.locale} onChange={handleRc} ref={recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
-      <input
+      <button
         className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
         disabled={isPending}
         type='submit'
-      />
+      >
+        {form.submit}
+      </button>
       {isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </form>
   );

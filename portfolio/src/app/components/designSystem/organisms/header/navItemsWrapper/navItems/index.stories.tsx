@@ -20,7 +20,7 @@ const meta = {
   args: {
     currentPathname: navigation.home.href,
     items: navigation,
-    locale: 'en'
+    navLabel: 'Global'
   },
   component: NavItems
 } satisfies Meta<typeof NavItems>;

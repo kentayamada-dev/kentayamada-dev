@@ -76,7 +76,7 @@ const TableOfContents: TableOfContentsType = (props) => {
 
   if (headings.length) {
     return (
-      <ul className='p-1'>
+      <ul aria-label={props.label} className='p-1'>
         {headings.map((heading) => {
           const isActive = heading.id === activeId;
 
@@ -97,7 +97,7 @@ const TableOfContents: TableOfContentsType = (props) => {
   }
 
   return (
-    <ul>
+    <ul aria-label={props.label}>
       {Array.from({ length: PLACEHOLDER_COUNT }).map((_, index) => {
         return (
           <li

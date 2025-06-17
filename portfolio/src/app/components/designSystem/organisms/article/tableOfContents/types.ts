@@ -2,6 +2,7 @@ import type { ComponentType } from '@/types/components';
 
 type TableOfContentsProps = {
   articleClassName: string;
+  label: string;
 };
 
 type TableOfContentsHeadingType = {

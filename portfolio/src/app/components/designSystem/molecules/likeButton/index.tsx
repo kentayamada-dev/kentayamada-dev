@@ -2,12 +2,14 @@
 
 import { useRef, useState } from 'react';
 import { LikeAnimation } from '@/components/designSystem/atoms';
+import { dictionaries } from '@/constants/i18n';
 import { formatNumber } from '@/utils';
 import type { LottieRefCurrentProps } from 'lottie-react';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { LikeButtonType } from './types';
 
 const LikeButton: LikeButtonType = (props) => {
+  const { likeLabel } = dictionaries[props.locale].labels;
   const lottieRef = useRef<LottieRefCurrentProps>(null);
   const [isDisabled, setIsDisabled] = useState(false);
 
@@ -32,9 +34,11 @@ const LikeButton: LikeButtonType = (props) => {
 
   return (
     <button
+      aria-label={likeLabel}
       className='bg-primary flex w-fit cursor-pointer items-center justify-center rounded-full py-2 pr-6 pl-3 disabled:cursor-not-allowed'
       disabled={isDisabled}
       onClick={handleClick}
+      title={likeLabel}
       type='button'
     >
       <div className='size-10'>

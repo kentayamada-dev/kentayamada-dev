@@ -1,7 +1,8 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ComponentType } from '@/types/components';
+import type { ComponentType, ConditionalPickType } from '@/types/components';
+import type { NavItemsProps } from './navItems/types';
 
-type NavItemsWrapperProps = {
+type NavItemsWrapperProps = ConditionalPickType<NavItemsProps, 'navLabel'> & {
   locale: LocaleKeyType;
 };
 

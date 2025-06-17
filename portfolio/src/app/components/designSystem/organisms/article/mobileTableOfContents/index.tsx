@@ -54,7 +54,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
                 </button>
               </div>
               <div className='max-h-72 overflow-auto'>
-                <TableOfContents articleClassName={props.articleClassName} />
+                <TableOfContents articleClassName={props.articleClassName} label={props.title} />
               </div>
             </div>
           </TransitionChild>

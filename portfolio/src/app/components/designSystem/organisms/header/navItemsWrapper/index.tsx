@@ -8,7 +8,7 @@ import type { NavItemsWrapperType } from './types';
 const NavItemsWrapper: NavItemsWrapperType = (props) => {
   const pathname = usePathname();
 
-  return <NavItems currentPathname={pathname.split('/').slice(0, 3).join('/')} items={navigationItems(props.locale)} locale={props.locale} />;
+  return <NavItems currentPathname={pathname.split('/').slice(0, 3).join('/')} items={navigationItems(props.locale)} navLabel={props.navLabel} />;
 };
 
 export { NavItemsWrapper };
