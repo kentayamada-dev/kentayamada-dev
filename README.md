@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d65c6c96c31f1dd8e97bf5329658b7a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27cd2ef9500542f4d973006b126c7764.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08e617db636014a28e927789a2770826539d7479>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00988685-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領不在で異例のG7に…ウクライナ討議行われまもなく閉幕　石破首相はゼレンスキー氏と対面では初の首脳会談
+      <a href=https://news.yahoo.co.jp/articles/0b5664e3e86491c6128fcf744ab05c42285f1a16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-03352102-engine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 3代目ついに発表！　新型日産リーフの隠されていた後ろ姿はまさかのフェアレディZ似か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a404e63c73d84d4dc006a32c264561a4d5eef2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00348814-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【西武】今井達也　球団新17Ｋより喜んだ無四球完封…今季無双で〝悪評〟もシャットアウト
+      <a href=https://news.yahoo.co.jp/articles/272a401ec0475ab414e26f17ad4b8737d480a2e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏が先に帰国…肩透かし食らったＧ７サミット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b4d130d2e3b88b90d8853c05665ea632e972ce5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 日本への津波影響なし　インドネシア火山噴火
+      <a href=https://news.yahoo.co.jp/articles/dbb546dddbdcc3954bb7266231ad22c305e5c0c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243566-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょうも各地でまるで梅雨開けしたかのような真夏の暑さ続く　名古屋で37℃予想　熱中症に厳重な警戒を　暑さのピークはいったんあすまで
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/cbfffc15875a34b537815953344ee5a7e00e90d4b06d947dd9867df50e1b1b6b.jpg> インドネシア噴火 日本へ津波なし
+      <a href=https://news.yahoo.co.jp/pickup/6542615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/fc31c4d0ed267a8af09152253b43536e1a1de5ad51937a5abe8cb633eae6b940.jpg> 関東・東海・近畿 危険な暑さに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4b2c3e85acc660e45d290996232d67cde5f263d79249ecd74d2340b06c29876.jpg> 18日も猛烈な暑さ 夏と同じ対策を
+      <a href=https://news.yahoo.co.jp/pickup/6542611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/cbfffc15875a34b537815953344ee5a7e00e90d4b06d947dd9867df50e1b1b6b.jpg> インドネシア噴火 日本へ津波なし
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542600>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a86ac85e6b45689d55f085971bb7f2d892cc096d3b9ebfdc041c61b38672e3d7.jpg> らくらくホン なぜガラケー継続
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 06:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 07:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
