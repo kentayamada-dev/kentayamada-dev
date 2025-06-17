@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e0e31b6287862a4f2768a29a9cd6804.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f91a0282da85d12364d76617f701dd4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5b629e78be81dace048895578f76303a84ad27f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00988655-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「日本は手ごわい」関税交渉でトランプ大統領が指摘、合意できる可能性があるとの認識示す　石破首相と「非常に良い会談をした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a14c86ea6f4d75f1c0d5140f0a7d01d54a55438c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000213-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 日銀、市場配慮し国債減額ペース緩和　植田総裁「政府の発行計画にとっても不確実性減る」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19ce7cf957536cb28dbcebc2481f62d0b9df6945>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> Ｇ７切り上げ帰国のトランプ氏、イランに「完全な降伏」望む…核開発の完全放棄を念頭か
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de77187aa6f7d2334eed7cdd6f9ad19b9a1ddecd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=134&cw=533&ch=533&exp=10800&fmt=webp> 「見通し立たず苦しい」　自動車業界、関税影響長期化を懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9510b8ade0950aa927a6e646399cf237ad8c24c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000346-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 【大谷翔平と一問一答】電撃復帰の理由は「チーム状況も加味して」「2通りのパターンがあったので」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb262274c335a6bdfd43a201ae6ae5878f05ceba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000132-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=534&ch=534&exp=10800&fmt=webp> アングル：日銀、経済下押しの程度を注視　年内利上げ排除せずの声も
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/b207644742c927cfd9f561787b13595d8555a7a18fae3b9cbd9b2f699fb2d792.jpg> 夫婦別姓 今国会は見送りで調整
+      <a href=https://news.yahoo.co.jp/pickup/6542609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3f89781eb39e3b18bb046e7b9db99c8f308ad51e1d086f63569bba444930382d.jpg> 日銀総裁 関税交渉見守るしかない
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6938a552852966b3dc9d80f2b1053de10853d724c93cbe894e71bb98fb0623ae.jpg> 異例 6月中旬に梅雨前線が消滅か
+      <a href=https://news.yahoo.co.jp/pickup/6542604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a25df8777eef07e603e189b0222325e974668c1bf2b56a0265c86514f47a21d2.jpg> 非行疑いの少年にウェブ面接 懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/bd43d0f27469bd190b3613c51ee62eb8299a619ce5cf93309eb65efaabaed678.jpg> 阪神7連敗 2位とゲーム差ほぼ不動
+      <a href=https://news.yahoo.co.jp/pickup/6542606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/a2d48078c000d5d372d793846c7732dff5122a19b0bce6f26fc6051885bcdbdd.jpg> 廃部の日大アメフト部 秋から復帰
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 23:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 23:52:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
