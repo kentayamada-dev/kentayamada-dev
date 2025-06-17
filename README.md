@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/263efe3195e9502c1872c0792c41cf85.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d65c6c96c31f1dd8e97bf5329658b7a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ae8b85b15f0777563a3ce9fa3db9a822ad1907b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 西武・今井　松坂超え球団新17Kで今季初完封　バウアーのお株奪う「ソードセレブレーション」!
+      <a href=https://news.yahoo.co.jp/articles/08e617db636014a28e927789a2770826539d7479>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00988685-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領不在で異例のG7に…ウクライナ討議行われまもなく閉幕　石破首相はゼレンスキー氏と対面では初の首脳会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f714b6b09d0bdb99f1601f62263518d3518dc47e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=236&ch=236&exp=10800&fmt=webp> トランプ氏、自動車関税の大幅引き下げに難色…日米首脳会談で合意に至らず
+      <a href=https://news.yahoo.co.jp/articles/7a404e63c73d84d4dc006a32c264561a4d5eef2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00348814-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【西武】今井達也　球団新17Ｋより喜んだ無四球完封…今季無双で〝悪評〟もシャットアウト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00ca99ab61efb68b2f7c488998cfb19e5e69cabf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 大谷翔平、最速161キロ計測　663日ぶり「二刀流」衝撃復活　目標153キロも「試合のレベルで上がってしまう」
+      <a href=https://news.yahoo.co.jp/articles/1b4d130d2e3b88b90d8853c05665ea632e972ce5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 日本への津波影響なし　インドネシア火山噴火
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/800ecf9799192f01c41d17330f5e9d96c5c42754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=336&cw=1528&ch=1528&exp=10800&fmt=webp> 「大谷翔平が目指しているものからはまだほど遠い。だから我々は今回の登板を参考にしない」“疑惑ハーフスイング"からの犠飛で打点記録のパ軍"看板打者"マチャドが二刀流の進化に警戒
       </a>
     </td>
   </tr>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3f89781eb39e3b18bb046e7b9db99c8f308ad51e1d086f63569bba444930382d.jpg> 日銀総裁 関税交渉見守るしかない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/67152288be9b2bc4c926ba3df125761fc6ddff7a7b45c844b2bb0c3c48b253c7.jpg> ALS患者れいわ舩後氏 政界引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6542614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/714c735b23b02fde1ef83b546ff69ddf988ee8c50fcea5d5b44d37365b832810.jpg> TOEICで不正疑い 中国籍10人聴取
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
+      <a href=https://news.yahoo.co.jp/pickup/6542613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/dfbac5839d2d10afb3b503bafd653d06eed14dc5448b4ede5854c4c201fed9c5.jpg> 大谷の登板戦 MLB.TV最高視聴率
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1d79f368d19866ae64c292d3a352934ec4b90537018aa1c3a465411547b46124.jpg> 人気アナウンサー退社 各局相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6542612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eed6adfb8f4e7a983284f0b7e80cd5d0748aa0aa5898ab02440dd1f909817212.jpg> 横浜Mに激震 FWロペスが退団へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 05:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 06:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
