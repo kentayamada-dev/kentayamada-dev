@@ -1,6 +1,7 @@
 'use client';
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
+import Form from 'next/form';
 import { useActionState, useMemo, useRef, useState } from 'react';
 // @ts-expect-error type not found
 // eslint-disable-next-line import/no-named-as-default
@@ -100,7 +101,7 @@ const ContactForm: ContactFormType = (props) => {
   };
 
   return (
-    <form action={action} className='flex flex-col space-y-6'>
+    <Form action={action} className='flex flex-col space-y-6'>
       <div className='grid grid-cols-2 gap-4'>
         <Input
           autoComplete='given-name'
@@ -216,7 +217,7 @@ const ContactForm: ContactFormType = (props) => {
         {form.submit}
       </button>
       {isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
-    </form>
+    </Form>
   );
 };
 
