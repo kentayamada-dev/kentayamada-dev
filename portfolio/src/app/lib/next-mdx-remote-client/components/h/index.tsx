@@ -35,7 +35,7 @@ const H = (heading: HeadingLevelType, locale: LocaleKeyType) => {
         <Link
           // eslint-disable-next-line @typescript-eslint/no-base-to-string, @typescript-eslint/restrict-template-expressions
           aria-label={`${articles.permalink}: ${props.children}`}
-          className='absolute top-2 -left-6 block size-5 rounded-md text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
+          className='absolute top-2 -left-6 block size-5 text-blue-500 opacity-0 group-hover:opacity-100 focus:opacity-100'
           href={`#${headingId}`}
         >
           <LinkIcon />
