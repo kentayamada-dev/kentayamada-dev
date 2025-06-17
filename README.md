@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0103d23f0c091ac7be6b125010eae77c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2b8530cbbee7b37728604b9a2ce4d18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15f35f47e139cf9be4872490045cf48489757ad6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000043-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　663日ぶり登板　チームを勝たせるための二刀流　「できるだけ長く」の覚悟もにじむ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6faff13faf58a92043fa300ba5b66d651f887aac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-90027589-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “生放送中”イラン国営メディア空爆の瞬間　G7途中でトランプ氏が帰国…対応協議へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000043-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　663日ぶり登板　チームを勝たせるための二刀流　「できるだけ長く」の覚悟もにじむ
       </a>
     </td>
   </tr>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e19d80c6f5fd3ead51c91cbae7dbf9aa952f043b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000107-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日銀利上げ見送り　関税協議の影響を慎重判断　中東リスクに懸念も
+      <a href=https://news.yahoo.co.jp/articles/f667d2f4169c6685a760c4b3c111931129434a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=465&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 日大アメフト部、3年ぶり公式戦出場へ　後継組織が関東学連へ加盟
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 01:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 02:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
