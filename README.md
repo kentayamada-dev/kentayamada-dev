@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f25032ba548af9e32678ad7358ff615.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/263efe3195e9502c1872c0792c41cf85.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477bb8528d43148f98d95c19ba32d57c2a63e151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平また歴史塗り替える　復帰登板の視聴者数が史上最高を２８％も更新！
+      <a href=https://news.yahoo.co.jp/articles/6ae8b85b15f0777563a3ce9fa3db9a822ad1907b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000071-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 西武・今井　松坂超え球団新17Kで今季初完封　バウアーのお株奪う「ソードセレブレーション」!
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c00454df98f1ff81cf41f8b7012892bc0dab243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】インドネシアの火山、日本に津波影響なし
+      <a href=https://news.yahoo.co.jp/articles/f714b6b09d0bdb99f1601f62263518d3518dc47e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=236&ch=236&exp=10800&fmt=webp> トランプ氏、自動車関税の大幅引き下げに難色…日米首脳会談で合意に至らず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f667d2f4169c6685a760c4b3c111931129434a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=465&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 日大アメフト部、3年ぶり公式戦出場へ　後継組織が関東学連へ加盟
+      <a href=https://news.yahoo.co.jp/articles/00ca99ab61efb68b2f7c488998cfb19e5e69cabf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 大谷翔平、最速161キロ計測　663日ぶり「二刀流」衝撃復活　目標153キロも「試合のレベルで上がってしまう」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 05:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
