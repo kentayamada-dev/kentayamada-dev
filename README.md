@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e545c57ee00129b425be511bc9132dc2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32e2a22e2a21b362e2e3aa2955f6fdbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53d308cf97aa487956035e4cd7807cd1b469700d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000365-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 西武・西口監督　今井17Kに「何も言うことはございません」9回2死満塁での打席にも言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a42c8463ef858ebdb37650e623665f9b64f5e506>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-21984892-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 100万円分のさくらんぼ盗難はなぜ起きたのか　「勝負は一週間」「一気に熟す」農家の抱える苦悩と特有の事情（山形）
+      <a href=https://news.yahoo.co.jp/articles/2bfb5b33adefc95bc22e5fc4d5a0e96e7cfc9ca2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000248-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 夫婦別姓、今国会は見送り　与野党、法案採決一致せず
       </a>
     </td>
   </tr>
@@ -382,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/233b73cbd5cd4ad8181801c8bc9de665a6ed278e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000128-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=840&ch=840&exp=10800&fmt=webp> イスラエル支持の共同声明　G7、イラン核保有認めず　トランプ米大統領、異例の帰国
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000128-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=840&ch=840&exp=10800&fmt=webp> イスラエル支持の共同声明　G7、イラン核保有認めず　トランプ米大統領、異例の帰国
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4918f6f733ce74925313876d474463e2ad094502d18a391220caf692f307be5.jpg> インドネシア大規模噴火 津波調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2025/4/24/fc3667e9d434d4a87a974d554c295dce87dbc384ce2b383cc595255ab1286eb8.jpg> 立憲 不信任案の見送り判断大詰め
+      <a href=https://news.yahoo.co.jp/pickup/6542596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4b2c3e85acc660e45d290996232d67cde5f263d79249ecd74d2340b06c29876.jpg> 18日も猛烈な暑さ 夏と同じ対策を
       </a>
     </td>
   </tr>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542597>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症か 4県で畑などで女性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4918f6f733ce74925313876d474463e2ad094502d18a391220caf692f307be5.jpg> インドネシア大規模噴火 津波調査
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/6938a552852966b3dc9d80f2b1053de10853d724c93cbe894e71bb98fb0623ae.jpg> 異例 6月中旬に梅雨前線が消滅か
+      <a href=https://news.yahoo.co.jp/pickup/6542579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2756b42e700b9d574039a22080d85785054f40f250b63aaec7a43c99415027c9.jpg> 非正規公務員の「妊婦切り」実態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/2608c905dec3b59de0f9326c02c321b0ade71e48454170c1ef7474b88dc39725.jpg> ホンダロケット離着陸成功 国内初
+      <a href=https://news.yahoo.co.jp/pickup/6542600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/17 21:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/17 22:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
