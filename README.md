@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14220bf4dfa1c569fb9f526036a397dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86cc79a2710c76228eda7ef2fe8f6d1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa937a89614b7af64d59e0d495c9e58924b503bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01776660-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷への“故意死球”が原因ではない？　ロバーツ監督がブチギレた2つの理由
+      <a href=https://news.yahoo.co.jp/articles/afe392232c926574e06f27b699e543e7372418a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050165-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 豊田章男・トヨタ会長の役員報酬、１９億４９００万円…２０％増で歴代役員の過去最高更新
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9394703549280dd4737ce01ef22b541f3a65f1ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-90032716-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 「国民生活を陥れる無謀な法案が廃案になるので国民生活に貢献した」　井林辰憲 議員が強気のコメント　現憲法下で初めてとなる衆議院常任委員長の解任決議案可決　「開催依頼の電話もらっていない」とも
+      <a href=https://news.yahoo.co.jp/articles/f35a2cacb8dfd3c5e4f51a475a2409a96aba92c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00348890-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平への死球は「故意」とロバーツ監督が断定　パドレスと「緊張沸点」へ＝米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/beeca1828aae57a8883b5d37cf906cd4fab43c42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243744-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地中貫通弾「バンカーバスター」使用の可能性　トランプ政権がイラン地下核施設の攻撃検討と米メディア報じる　イスラエル・イラン攻撃の応酬続く中
+      <a href=https://news.yahoo.co.jp/articles/ee9424e1ac5fa351707adb703e653afa01cc894d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国外務省「深い憂慮」表明し「他国の主権を侵犯する行動に反対」　トランプ大統領がイランに求めた「無条件降伏」に
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eaedf4b3afc8830cf69be742b2d8dfb65a26ac404debd13740f152450457662c.jpg> 白いカラスが2羽 発見の男性驚き
+      <a href=https://news.yahoo.co.jp/pickup/6542681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/c35d042ddca7be2d820274278b1825e7548241b735f2fc8cbfd82d7d53a0f9d7.jpg> トヨタ会長 役員報酬は19億円超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eaedf4b3afc8830cf69be742b2d8dfb65a26ac404debd13740f152450457662c.jpg> まさか白いカラスとは 発見者驚き
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/6af8fe211f869cbea6feb3d5062784fcf57373381ec7387b9b7e3d738fccdc0d.jpg> 大谷死球にド軍監督 故意だと思う
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 18:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 19:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
