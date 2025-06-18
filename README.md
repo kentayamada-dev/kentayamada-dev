@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/493447de64ecc60ddfc3ca1b0bff5589.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcd17fade98e59199b5d821f100631ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ef2f1212b3b6e5fea867ff468dc30831721980c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00989290-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏“最終決定は未定”イランとの会談「受け入れるかも」
+      <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
+      <a href=https://news.yahoo.co.jp/articles/d48efd0e9f2e904099acfbcb5b80763369fd2972>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-02941293-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　イランへの攻撃、明言避ける　ハメネイ師“軍事介入”に徹底抗戦の構え
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d689c8037e6733c7aa2738651728b8a599242ea79355b643e7a646811e65a5e.jpg> 日鉄 USスチール買収手続き完了
+      <a href=https://news.yahoo.co.jp/pickup/6542715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/39a1752aaa1966de9901d5c9d8168fee599cc155b424fc83be7c6fd096dd6583.jpg> トランプ氏 イランに「最後通告」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/95734f4cb7e88a1322febab1c5e7f33a5d5301879ea114c5ac2d39d46cedb565.jpg> 新潟コシヒカリ 業者間取引で急落
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02253621/title-1750212916751.jpeg?exp=10800> TOEICでまたも不正事件 背景は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 06:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 07:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
