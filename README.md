@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b208316445b3c8d011d64796e96fff4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de3cf417ce38d26c378c5bb6bb6d9ae6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d9ef94d25fa3aeaa40d76b9bff1147a4e386980e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243833-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日本製鉄　USスチール買収完了を発表 1年半の交渉が結実 取締役の過半数はアメリカ国籍
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b6098a12a7a62779ceb10c39538e61a28e89565>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 04:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 04:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
