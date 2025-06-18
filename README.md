@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88d53a6fce2390a4bec218d1c00cfcb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b6c720c57d622441b53c7c38dbcec41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3743e8bbbe8d49bc023adf109a4972fc761919cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00549063-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 不穏な雰囲気でも「楽しそう」　大谷翔平が塁上で見せた姿に反響「敵も味方も救われる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21ddff5afbf0aebed11321a99b368776d9aa8187>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=496&ch=496&exp=10800&fmt=webp> 脚本家・ジェームス三木さん死去　朝ドラ「澪つくし」大河「独眼竜政宗」など多数の名作を生む　９１歳
+      <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aedd66a4f5615a34e3bf3d2e95db4ea2b6908bab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米、金利据え置き＝4会合連続、年内2回利下げ維持―FRB☆差替
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e14365372bdd6ea9508f00441f6e43fecd71dd53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000217-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 記者の目　ドジャース・大谷の4打数4三振は登板による疲労ではない…が、次回登板の間隔が詰まる可能性こそ懸念に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 05:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 06:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
