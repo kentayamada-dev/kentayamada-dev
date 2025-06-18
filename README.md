@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9603dba8c2ca8913d523c65147d5815b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fb0bdf78d619084e19ec4d8df0e2aae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3e526cc2d43e9ca37f2f67c17fce3020069cdc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050123-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 石破首相、今国会中の衆院解散を否定…サミット後の記者会見「喫緊の課題に隙間作ることないよう」
+      <a href=https://news.yahoo.co.jp/articles/bb0e28b8625532887414fde600ed1d17bc178353>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050124-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、地下深く貫通する爆弾「バンカーバスター」使用を真剣に検討…イランへ圧力狙い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8454dc93c9fdc7597b7e226b208d354578bb4e77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000197-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 石破首相の「減税より給付」「決して少なくない」トレンド入り、国民一律2万円の現金給付
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c11589d1c96de08dcaff90e6ad0bda0806388b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 企業団体献金、今の国会での採決見送り確認　衆院特別委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da1e04f7dc60727dd898393232da1f9c628f92d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン最高指導者ハメネイ師、イスラエルに「断固たる対応」　徹底的な対抗の姿勢示す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243605-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 企業団体献金、今の国会での採決見送り確認　衆院特別委
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/56d9e87b909e3bf9b4376295d65e59f310604da8dcd2c453d09d63ce18366eea.jpg> 警察追跡のバイクが事故 17歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e66b10f8b5fc4aa34998e8601292c8298d81cd4ad2d0e5da51e697357760e179.jpg> 国士舘部員 大麻「集団で吸った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e66b10f8b5fc4aa34998e8601292c8298d81cd4ad2d0e5da51e697357760e179.jpg> 国士舘部員 大麻「集団で吸った」
+      <a href=https://news.yahoo.co.jp/pickup/6542647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/56d9e87b909e3bf9b4376295d65e59f310604da8dcd2c453d09d63ce18366eea.jpg> 警察追跡のバイクが事故 17歳死亡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3c44ef6f56b1442f2a1821683781895121795450562a0d6e0fd65fdecc5b06da.jpg> 豚まん購入「一人50個まで」経緯
+      <a href=https://news.yahoo.co.jp/pickup/6542658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e0929f186eff42f1b1641431c4315ef798ca9125a40075ce9442bec395b9dada.jpg> 脳に腫瘍 小児がんと闘う高校生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 14:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 14:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
