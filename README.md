@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e31cf6716bdaf45b0ef9b9784f0b9de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bebe75195f4cf62264e05c168594aaf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e18be2eb27d8dec28d40ab972128c39962b53b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-21985594-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東海地方も“熱中症”注意 午後も気温が上がる 予想最高気温は名古屋・岐阜で37℃　高山35℃の猛暑日になる見込み
+      <a href=https://news.yahoo.co.jp/articles/942784d31ddaf8989d8f040021fc422cbde8585a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549047-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷への死球は「100％ワザとだ」　米解説が断言、猛抗議で退場のロバーツ監督も「100％正しい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/490e09dbc71adb30d51054997b87e3282e6cd733>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 中東情勢　石破首相「必要な対応策の検討を指示」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a0923c689c9fafb45ad98ffef8205bead8e0d44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243588-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “結論出ず”また先送り…「選択的夫婦別姓」「企業献金」 今国会での成立見送られる
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6fae785c11ebc08f4009c0da5cdd5c0a9e14bed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日銀「量的引き締め」緩和　市場安定へ財政健全化も推進を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26f490f3c96d16c04128b12001dc0efec6e2b27e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000004-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 日米首脳会談、自動車の追加関税見直しも“空振り”　交渉は長期戦へ［新聞ウォッチ］
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/61f4f4ad92c06d59187185b9d651e6726791029f91a4e2c29ec216470496acb6.jpg> 警察庁とメガバンク協定 詐欺対策
+      <a href=https://news.yahoo.co.jp/pickup/6542636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/24d4ff0417c87bb07b0cb58c782bbad38405b580cdf37f71e47b9846a8dfe583.jpg> 石破首相 ゼレンスキー氏と初対面
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3f9f58ed8f9c1ba22c2bb26be198d68653252abe90461c5a825a6fc06b552b97.jpg> 首相の2万円公約 自治体から不評
+      <a href=https://news.yahoo.co.jp/pickup/6542648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3903914a59fc0b2e2a21196289130f229ade568af4e4fe6e5100ca5759ab451d.jpg> 真夏並みの厳しい暑さ 明日も続く
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d2e932fa35ac697194c3d0056246501fb5702645aef8825f71b98f5021c876f4.jpg> 海に沈む車 棒1本で食い止め救助
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3c44ef6f56b1442f2a1821683781895121795450562a0d6e0fd65fdecc5b06da.jpg> 豚まん購入「一人50個まで」経緯
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/99c1054f2d81d4e6b08fd2c29e372b410c3705444cef57436448283b4a68a21c.jpg> 藤浪 マリナーズ傘下を電撃退団
+      <a href=https://news.yahoo.co.jp/pickup/6542646>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02253186/title-1750176679120.jpeg?exp=10800> Switch2 抽選4回目も落選祭り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d67ac33d12a6744ffe75d67678fa6a3cbdb1180cc51ebd0491cebf758c144693.jpg> 楽曲ヒット 仕掛け人は元アイドル
+      <a href=https://news.yahoo.co.jp/pickup/6542653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/982730b688af2302e4b5fa0f68dd8aeabd58637af3e90d3ee4c75c776c7dafd8.jpg> 大谷 太もも付近に死球受け絶叫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7baf0556c3094caca0675da14c5cbc9c1a2fd7b31a71582c1a58648a46e0ba02.jpg> 藤浪晋太郎が退団 日本も選択肢に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 12:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 12:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
