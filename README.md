@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b6c720c57d622441b53c7c38dbcec41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/493447de64ecc60ddfc3ca1b0bff5589.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ef2f1212b3b6e5fea867ff468dc30831721980c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00989290-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏“最終決定は未定”イランとの会談「受け入れるかも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef7033c9e4eec08c0895a9e71a69267c498dd5ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348960-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎獲りに日本ハムは動くのか　かつて高評価の新庄監督「何とも言えない」の真意
       </a>
     </td>
   </tr>
@@ -371,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e14365372bdd6ea9508f00441f6e43fecd71dd53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000217-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 記者の目　ドジャース・大谷の4打数4三振は登板による疲労ではない…が、次回登板の間隔が詰まる可能性こそ懸念に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d689c8037e6733c7aa2738651728b8a599242ea79355b643e7a646811e65a5e.jpg> 日鉄 USスチール買収手続き完了
+      <a href=https://news.yahoo.co.jp/pickup/6542713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/55b4b473fa69ac07532e211e104b6c0e452d460b5cb70cd5bd463ce5af2faf5f.jpg> 米FRB 4会合連続で利下げ見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a657bdebbc8defd938f4ca5bab2d347fdb4b023af18d42dd12f1885d3664e929.jpg> ウクライナ人口減 二重国籍容認へ
+      <a href=https://news.yahoo.co.jp/pickup/6542707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d689c8037e6733c7aa2738651728b8a599242ea79355b643e7a646811e65a5e.jpg> 日鉄 USスチール買収手続き完了
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d6cdd3872b117b369669a7817a02c0969a499cbffc0e3825845200217471775a.jpg> 皇治選手 安全運転義務違反で処分
+      <a href=https://news.yahoo.co.jp/pickup/6542712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02253621/title-1750212916751.jpeg?exp=10800> TOEICでまたも不正事件 背景は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02253621/title-1750212916751.jpeg?exp=10800> TOEICでまたも不正事件 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6542714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/59e07df08482729a71474f7bd2bc43460871aee1298822177b1d9d28251dd11f.jpg> 藤浪晋太郎は移籍模索 阪神は静観
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 06:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 06:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
