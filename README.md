@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f25032ba548af9e32678ad7358ff615.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcd17fade98e59199b5d821f100631ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477bb8528d43148f98d95c19ba32d57c2a63e151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平また歴史塗り替える　復帰登板の視聴者数が史上最高を２８％も更新！
+      <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c00454df98f1ff81cf41f8b7012892bc0dab243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】インドネシアの火山、日本に津波影響なし
+      <a href=https://news.yahoo.co.jp/articles/d48efd0e9f2e904099acfbcb5b80763369fd2972>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-02941293-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　イランへの攻撃、明言避ける　ハメネイ師“軍事介入”に徹底抗戦の構え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f667d2f4169c6685a760c4b3c111931129434a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000000-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=465&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 日大アメフト部、3年ぶり公式戦出場へ　後継組織が関東学連へ加盟
+      <a href=https://news.yahoo.co.jp/articles/ef7033c9e4eec08c0895a9e71a69267c498dd5ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348960-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎獲りに日本ハムは動くのか　かつて高評価の新庄監督「何とも言えない」の真意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aedd66a4f5615a34e3bf3d2e95db4ea2b6908bab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米、金利据え置き＝4会合連続、年内2回利下げ維持―FRB☆差替
       </a>
     </td>
   </tr>
@@ -386,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/cbfffc15875a34b537815953344ee5a7e00e90d4b06d947dd9867df50e1b1b6b.jpg> インドネシア噴火 日本へ津波なし
+      <a href=https://news.yahoo.co.jp/pickup/6542713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/55b4b473fa69ac07532e211e104b6c0e452d460b5cb70cd5bd463ce5af2faf5f.jpg> 米FRB 4会合連続で利下げ見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/e4b2c3e85acc660e45d290996232d67cde5f263d79249ecd74d2340b06c29876.jpg> 18日も猛烈な暑さ 夏と同じ対策を
+      <a href=https://news.yahoo.co.jp/pickup/6542715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/39a1752aaa1966de9901d5c9d8168fee599cc155b424fc83be7c6fd096dd6583.jpg> トランプ氏 イランに「最後通告」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/3f89781eb39e3b18bb046e7b9db99c8f308ad51e1d086f63569bba444930382d.jpg> 日銀総裁 関税交渉見守るしかない
+      <a href=https://news.yahoo.co.jp/pickup/6542716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/95734f4cb7e88a1322febab1c5e7f33a5d5301879ea114c5ac2d39d46cedb565.jpg> 新潟コシヒカリ 業者間取引で急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/67152288be9b2bc4c926ba3df125761fc6ddff7a7b45c844b2bb0c3c48b253c7.jpg> ALS患者れいわ舩後氏 政界引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6542706>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル産鶏肉の輸入停止が拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/9a6c2edc89d2c50e884486d68583409b529adb53601cea3d374defe39a58dd6f.jpg> 日産 新型「リーフ」を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1224f68920072f5aca4ea4fde4bfe0bf522e36f662fb9d6e96cec9a68169eb5c.jpg> 東横イン空室枠「転売」注意喚起
+      <a href=https://news.yahoo.co.jp/pickup/6542714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/59e07df08482729a71474f7bd2bc43460871aee1298822177b1d9d28251dd11f.jpg> 藤浪晋太郎は移籍模索 阪神は静観
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/62af1fbeaaca7d914d29344e17403b6241557a2a486fa5aa32206e93f8f98998.jpg> NHKドラマ10「ハズレなし」状態
+      <a href=https://news.yahoo.co.jp/pickup/6542711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a38c6004d57180210bdf9312a0c43715ab64b9e0befd7dedf8cd63e36784f0ab.jpg> 脚本家のジェームス三木さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/17/1d79f368d19866ae64c292d3a352934ec4b90537018aa1c3a465411547b46124.jpg> 人気アナウンサー退社 各局相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6542710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/5f2b723ec1d6d67a2e07301af84f700d0c89e2a25dce2bfbb2d592c05888fcf5.jpg> インディアンスが改名を発表
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 07:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
