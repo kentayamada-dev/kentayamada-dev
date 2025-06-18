@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6328699efad86f2b4592da8febd78f79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/570697161b19fd3fe3a93cab9f156501.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f4403253436cc4409572061404ab71d31647aeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00989188-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がイランの核施設攻撃を検討か「バンカーバスター」で地中深くの施設攻撃も可能に　日本政府は邦人待避に向け今週末にも自衛隊機のジブチ派遣調整
+      <a href=https://news.yahoo.co.jp/articles/63736c98ad34ef478a35df664de1bddabbeb5a4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空自衛隊の輸送機　21日にもジブチ派遣の方向で検討　中東情勢緊迫化で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c0ffb2d7f16caf0422355c8f8b024f0fd5a18ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00348902-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平〝故意死球〟への伏線か…前夜死球で激高パヘスに「何様だ」「狙うなら大物」発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8907a2b7639194bb91fb3c952eff33f9ad0c92b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トヨタ会長、報酬19．4億円
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7f404b8541d87264ddcdf18cfe37b165f3803fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549165-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の死球巡り両軍エキサイト　ド軍監督「故意だ」敵将「野球では色々なことが…」　本人はまさかの行動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afe392232c926574e06f27b699e543e7372418a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050165-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 豊田章男・トヨタ会長の役員報酬、１９億４９００万円…２０％増で歴代役員の過去最高更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8e4fbcee1fedae34f46e645a9d39ff58810bde46da10696f0317ef49dbb77a7c.jpg> 人気の「ポテトフライ」なぜ小袋
+      <a href=https://news.yahoo.co.jp/pickup/6542692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/133bb616103b0e7db59da8481a049b506433faac4ff8c3dc5f4b413a8ce642df.jpg> 助けなきゃ 高2が認知症女性保護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eaedf4b3afc8830cf69be742b2d8dfb65a26ac404debd13740f152450457662c.jpg> まさか白いカラスとは 発見者驚き
+      <a href=https://news.yahoo.co.jp/pickup/6542688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8e4fbcee1fedae34f46e645a9d39ff58810bde46da10696f0317ef49dbb77a7c.jpg> 人気の「ポテトフライ」なぜ小袋
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 20:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 20:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
