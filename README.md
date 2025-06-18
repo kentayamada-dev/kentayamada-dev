@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de3cf417ce38d26c378c5bb6bb6d9ae6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc391a716b656cba1d5a1c6c84a7eca0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9ef94d25fa3aeaa40d76b9bff1147a4e386980e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243833-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日本製鉄　USスチール買収完了を発表 1年半の交渉が結実 取締役の過半数はアメリカ国籍
+      <a href=https://news.yahoo.co.jp/articles/aedd66a4f5615a34e3bf3d2e95db4ea2b6908bab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米、金利据え置き＝4会合連続、年内2回利下げ維持―FRB☆差替
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/113ddc14a16b82bc10e65e4aff83636771d20c3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90027681-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領の思惑は…米国が軍事作戦“参加検討”イスラエル・イラン攻撃の応酬
+      <a href=https://news.yahoo.co.jp/articles/f3256611a074144f95e342e1c9fa1de86b5af97d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イラン、トランプ氏の降伏要求に反発　中東紛争の出口見えず
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 04:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 05:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
