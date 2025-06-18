@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bebe75195f4cf62264e05c168594aaf3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3796c6a680844976220ee9a158cfb06b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/942784d31ddaf8989d8f040021fc422cbde8585a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549047-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷への死球は「100％ワザとだ」　米解説が断言、猛抗議で退場のロバーツ監督も「100％正しい」
+      <a href=https://news.yahoo.co.jp/articles/e246a6eae7ce6f182195f224a0ad0c2ec2bf4637>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000053-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第4打席で松井裕樹に空振り三振、今季5度目の1試合3三振、出塁は”ロバーツ監督退場”引き金の死球のみ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/490e09dbc71adb30d51054997b87e3282e6cd733>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 中東情勢　石破首相「必要な対応策の検討を指示」
+      <a href=https://news.yahoo.co.jp/articles/7c11589d1c96de08dcaff90e6ad0bda0806388b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 企業団体献金、今の国会での採決見送り確認　衆院特別委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a0923c689c9fafb45ad98ffef8205bead8e0d44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243588-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “結論出ず”また先送り…「選択的夫婦別姓」「企業献金」 今国会での成立見送られる
+      <a href=https://news.yahoo.co.jp/articles/da1e04f7dc60727dd898393232da1f9c628f92d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン最高指導者ハメネイ師、イスラエルに「断固たる対応」　徹底的な対抗の姿勢示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb185dab6289b696235da8c36d89862538a3f76e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00988761-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領イランに「無条件降伏」求める　国家安全保障会議で対応協議も詳細は不明…現地メディア「核施設への攻撃検討」
+      <a href=https://news.yahoo.co.jp/articles/042c573874060dd9c5ad1abbf783cf2204ca51d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36180364-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=158&cw=830&ch=830&exp=10800&fmt=webp> 小沢一郎氏、石破首相の「減税より給付金の方がはるかに効果的」発言を“たった二言”で斬る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1990034af42b461d59f9a50b96a17748f497ef09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184135-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 「イランの核兵器開発は決して許してはならない旨を申し述べた」「トランプ大統領との間で約30分にわたり率直な議論」G7サミット初参加の石破総理が語った“成果”と“課題”
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/24d4ff0417c87bb07b0cb58c782bbad38405b580cdf37f71e47b9846a8dfe583.jpg> 石破首相 ゼレンスキー氏と初対面
+      <a href=https://news.yahoo.co.jp/pickup/6542656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4e91c56dde06706aacf2799546b9bcc27f431067774fbb1f1d4c733c58439d3f.jpg> 首相 給付金は消費減税より効果的
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/81d775336f83be20f024dd4450e59a819c4752f34a4452b607fd45192166c502.jpg> ダイソー謝罪 個人情報漏えい恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6542642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e66b10f8b5fc4aa34998e8601292c8298d81cd4ad2d0e5da51e697357760e179.jpg> 国士舘部員 大麻「集団で吸った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70468bf2251f11497b27b6eef76439617b33d427c296a1352c71e91ca10d5e4e.jpg> エアコンからモワッと悪臭 対策
       </a>
     </td>
   </tr>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542646>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02253186/title-1750176679120.jpeg?exp=10800> Switch2 抽選4回目も落選祭り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/982730b688af2302e4b5fa0f68dd8aeabd58637af3e90d3ee4c75c776c7dafd8.jpg> 大谷 太もも付近に死球受け絶叫
+      <a href=https://news.yahoo.co.jp/pickup/6542655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/982730b688af2302e4b5fa0f68dd8aeabd58637af3e90d3ee4c75c776c7dafd8.jpg> 大谷に死球 監督は猛抗議で退場
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 12:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 13:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
