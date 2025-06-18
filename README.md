@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/782671aed8e8988c641b7e698bf71402.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/945b78b71738b2d2134c143b11656846.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7668df851e304b82bbc8715b2a15f6f03fc1cef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、145円台前半＝有事のドル買いで上昇（18日午前9時）
+      <a href=https://news.yahoo.co.jp/articles/3061109e851efe92d6d0d1dfa8ed7ef54ab6ca82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000027-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ＜大リーグ＞最高球速１６１キロ、６６３日ぶりの「投手」大谷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a3461df1a0cfc8d052081b70e67904a77b835fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181046-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎がマリナーズ３Ａマイナーから自由契約、米球界３年目防御率５・７９…どうなる今後
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f69729a3952165204996af30114f9176f89d04dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000055-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル・イラン紛争6日目に、トランプ氏「無条件降伏」要求
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26f490f3c96d16c04128b12001dc0efec6e2b27e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000004-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 日米首脳会談、自動車の追加関税見直しも“空振り”　交渉は長期戦へ［新聞ウォッチ］
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b66c3408c61a1b563ef293afdfd9351bacc9178d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00988692-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「殺害前に念のために遺書書かせた」斎藤純容疑者（31）自宅から遺書のようなメモ　7年前に宮本果歩さん（当時21）殺害した疑い　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4d9f3ff77b4b051e710943d961f03b4f31919ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184077-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なぜ打った…！？ 大谷翔平、弾丸ヒットで“異変”「めっちゃ驚いてる」「そらビビるw」 相手投手の被打リアクションが話題に「すごい音だ」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4a2d4449cbfbbaa48ad712a60703dd4eba310df4c4d11de88d3d5b227ba2f198.jpg> 一律2万円給付はバラマキ? 解説
+      <a href=https://news.yahoo.co.jp/pickup/6542626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/ff892ba1e0a5de4c046812f8a234fd220a828ce7853e67212f1072c407858ecc.jpg> コメ卸業者は「儲け過ぎ」? 検証
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8dd526be97144c6eab4c29837e6e9ace0c22181ae81aef8af04285b198786df7.jpg> ご当地ナンバー モノトーン版廃止
+      <a href=https://news.yahoo.co.jp/pickup/6542631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8ef40535026a6ed514120668f3139f0fff8bba0e8db78ef9bafb8e0e6ade8ca8.jpg> 女性用トイレだけ行列 浮かぶ格差
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 09:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
