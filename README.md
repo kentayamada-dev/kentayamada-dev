@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6d4bcc2a72dd3d0d549a478bea9f470.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa1fed5aba041dd039d11716a553776e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/356496a7b4dbb8ba21b96c124d33dae627ad9630>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36182018-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 「M－１」3回決勝「インディアンス」が「ちょんまげラーメン」に改名　「水ダウ」で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72477668abd27b036af76d70905a5f352a801370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000088-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日鉄、USスチール買収完了　発表から1年半で決着、世界3位に迫る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000088-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日鉄、USスチール買収完了　発表から1年半で決着、世界3位に迫る
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85ebc4a1bbbe2baf1209405dbdd1d04ade71ff0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184224-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 報復された？ 大谷翔平、とんでもない死球をぶつけられて“まさかの展開”「どうなってんだよ」「すげえな…」 予想外のリアクションが話題に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184224-abema-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 報復された？ 大谷翔平、とんでもない死球をぶつけられて“まさかの展開”「どうなってんだよ」「すげえな…」 予想外のリアクションが話題に
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a965b84ad6bf9f5de66f0e04f43537b70a8b0310>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000084-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=475&ch=475&exp=10800&fmt=webp> 沖縄・石垣市長の不信任決議案可決　議会への「虚偽説明」に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4d7c130fc2745da919c778f7a39121a5474bb94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000129-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 中食や外食、給食にも放出　備蓄米、随意契約で20日から
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000129-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 中食や外食、給食にも放出　備蓄米、随意契約で20日から
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/fc5640158a293ac123d1630c6b39f8fcec41580f2c83f00c2a71df6f07c36fd2.jpg> 沖縄・石垣市長の不信任決議 可決
+      <a href=https://news.yahoo.co.jp/pickup/6542708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/2837b5ad3a2b061b55e1c9ed35e130dd739b84ba8ac2b8e80e61b2f768623168.jpg> 万博日本館 一部が労働組合を結成
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7a06bd8ea1928e0fc092bc9e1c9479fce37f8c735c357a91eb208a0165b6e659.jpg> 看板直撃弾に賞金 27歳明かす裏側
+      <a href=https://news.yahoo.co.jp/pickup/6542710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/5f2b723ec1d6d67a2e07301af84f700d0c89e2a25dce2bfbb2d592c05888fcf5.jpg> インディアンスが改名を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 23:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 23:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
