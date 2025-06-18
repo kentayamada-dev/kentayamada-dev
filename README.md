@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/181808a7fc96546ed8ed36a5513db16a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97f735445339ea55fb5fb59ad879eb2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96d928717c5c32c31fa895679766dde67aef629d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000213-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 脚本家のジェームス三木さん死去、NHK「澪つくし」「独眼竜政宗」ヒット作を手がける
+      <a href=https://news.yahoo.co.jp/articles/e55ac82ddc04fd9c933f2bd9dbb2b674bcce48df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190017-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=1193&ch=1193&exp=10800&fmt=webp> ジェームス三木さん死去　大河、朝ドラで名作多数　NHKアーカイブス公式Ｘで追悼
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/988517c106c7ff359d5966fbe89eb312b5b0cc968ed4469b5a0667f10ad9d333.jpg> トヨタ会長 役員報酬は19億円超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542706>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル産鶏肉の輸入停止が拡大
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d6cdd3872b117b369669a7817a02c0969a499cbffc0e3825845200217471775a.jpg> 皇治選手 安全運転義務違反で処分
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 00:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 01:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
