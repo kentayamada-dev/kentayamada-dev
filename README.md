@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc86f892cfed26b6e4f267aabdcb7c13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c4fd781f1d10b7a136727ac15e6ce8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c044dc4a7621cc9d329385c23e7e01f6c4e0be9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-35234403-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 米軍を使ってのイラン攻撃、トランプ氏が一段と乗り気に　情報筋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e683999a126c84ef4f1c62ecd2d86c3879cc787b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181053-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、登板翌日１打席目空振り三振で打率２割台に　疲労に負けず３戦ぶり２６号なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6fae785c11ebc08f4009c0da5cdd5c0a9e14bed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日銀「量的引き締め」緩和　市場安定へ財政健全化も推進を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e11ce4ae7485ab948d95860ad4bdf8f3ec964f54>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050055-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=255&ch=255&exp=10800&fmt=webp> 石破首相「ウクライナの平和が１日も早くもたらされるべきだ」…ゼレンスキー大統領と初の対面会談、関係強化で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95d47e45c304a0e044f06520ae858d55565c1ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> トランプ氏「制空権を握った」　地下貫通弾によるイラン攻撃を検討か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6131ba5e1cced327e260d611659b37718a6a3751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01774646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流復帰で「力は入ってない」…“悪球打ち”が示す効果、専門家が解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1bcb2f5d448f87ea44665c01a32d06f9831d562>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000017-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日銀　利上げ見送り　国債購入にも配慮
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/0672d69281e58650318a9597c992f3c7519286b52448dafe1921d33e2cae13cf.jpg> NTTグループ企業 工事で談合疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/61f4f4ad92c06d59187185b9d651e6726791029f91a4e2c29ec216470496acb6.jpg> 警察庁とメガバンク協定 詐欺対策
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/ff892ba1e0a5de4c046812f8a234fd220a828ce7853e67212f1072c407858ecc.jpg> コメ卸業者は「儲け過ぎ」? 検証
+      <a href=https://news.yahoo.co.jp/pickup/6542631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8ef40535026a6ed514120668f3139f0fff8bba0e8db78ef9bafb8e0e6ade8ca8.jpg> 女性用トイレだけ行列 浮かぶ格差
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8ef40535026a6ed514120668f3139f0fff8bba0e8db78ef9bafb8e0e6ade8ca8.jpg> 女性用トイレだけ行列 浮かぶ格差
+      <a href=https://news.yahoo.co.jp/pickup/6542641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d2e932fa35ac697194c3d0056246501fb5702645aef8825f71b98f5021c876f4.jpg> 海に沈む車 棒1本で食い止め救助
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e06cbec4eabf907eed0d308d00df9c9006c8edf0a0a5d1a07145f2c302536d82.jpg> ガンダム話題 鈴木おさむ氏の考察
+      <a href=https://news.yahoo.co.jp/pickup/6542640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d67ac33d12a6744ffe75d67678fa6a3cbdb1180cc51ebd0491cebf758c144693.jpg> 楽曲ヒット 仕掛け人は元アイドル
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 11:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 11:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
