@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa62ffb3240f9b0397fd5e52847d46c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d543c42a4add330b65d09f73bc4ba69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e68363d8a06b9dde7d3f4596533c10bff04fb6ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000119-spnannex-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 「独眼竜政宗」渡辺謙　ジェームス三木さん追悼「『これを機に僕が新しい芸名を付けてあげるよ』と」
+      <a href=https://news.yahoo.co.jp/articles/8a56cd648a50d1f8787de7742512ca208a578a1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000001-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 北海道で最大震度4を観測するやや強い地震　北海道釧路町で震度4　いまのところ被害の情報なし　北海道内のJRは平常運行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/482482da2879821a449fb70a300afe51cd3adc43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184281-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=974&ch=974&exp=10800&fmt=webp> トランプ大統領、イラン攻撃の可能性 明言避ける
+      <a href=https://news.yahoo.co.jp/articles/ddd7aba996ec42cc70ce4068493a4bbbcaa5c665>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 激昂！審判団に詰め寄り猛抗議・退場処分 大谷翔平への死球「意図的だと感じた」故意で「間違いない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3753d2916ff12544f951c5727d4d7701f952cbee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00549201-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=600&ch=600&exp=10800&fmt=webp> 大谷、試合後に「絶対ネタにされるやつ」を公開　荒れた試合が一変、投稿した1枚に喝采「らしいなーー笑」
+      <a href=https://news.yahoo.co.jp/articles/05d2ddd0520aeb959328ce9b1f3e8a6122404464>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン攻撃計画承認か　「最終決定はまだ」とトランプ氏　交渉余地も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef7033c9e4eec08c0895a9e71a69267c498dd5ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348960-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎獲りに日本ハムは動くのか　かつて高評価の新庄監督「何とも言えない」の真意
+      <a href=https://news.yahoo.co.jp/articles/acee5221882ee680b251eb7c8eb50ae6f8abb093>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000248-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=1057&ch=1057&exp=10800&fmt=webp> マリナーズ傘下3Aタコマ・藤浪晋太郎、自由契約に　直近8戦無失点アピールも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e879b37e75d982ca723d896c898a4d98d742c1fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00813216-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 脚本家・ジェームス三木さんが91歳で死去　大河『独眼竜政宗』で年間39.7％、朝ドラ『澪つくし』で最高55.3％
       </a>
     </td>
   </tr>
@@ -392,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8a4af8f255930a77a5b41b1f1141f69fa79dfe03ff18d268ebb65202ff4ec06b.jpg> 北海道で震度4 津波被害心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542713>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542706>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル産鶏肉の輸入停止が拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/0190013ea2ad6480fab863e8066e1cbea5f0555b4e6b58a658eaae454eacb918.jpg> 鹿島 横浜Mヤン・マテウス獲得へ
+      <a href=https://news.yahoo.co.jp/pickup/6542723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3383c85974d9fcac1f00940f415cfaf8182966b989d8685e74f411f3a0f5c9f8.jpg> バレー女子 タイに劇的逆転で連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> インディアンス 番組で改名の狙い
+      <a href=https://news.yahoo.co.jp/pickup/6542724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> ちょんまげラーメン 改名の狙いは
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 08:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 08:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
