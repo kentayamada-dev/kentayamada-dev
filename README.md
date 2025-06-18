@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/945b78b71738b2d2134c143b11656846.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db2a9c263700c83382f2fb0e21650e1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3061109e851efe92d6d0d1dfa8ed7ef54ab6ca82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000027-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ＜大リーグ＞最高球速１６１キロ、６６３日ぶりの「投手」大谷
+      <a href=https://news.yahoo.co.jp/articles/6131ba5e1cced327e260d611659b37718a6a3751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01774646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流復帰で「力は入ってない」…“悪球打ち”が示す効果、専門家が解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a3461df1a0cfc8d052081b70e67904a77b835fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181046-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎がマリナーズ３Ａマイナーから自由契約、米球界３年目防御率５・７９…どうなる今後
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f69729a3952165204996af30114f9176f89d04dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000055-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル・イラン紛争6日目に、トランプ氏「無条件降伏」要求
+      <a href=https://news.yahoo.co.jp/articles/c89bd836c96459028718dcf8214a89b55ef739e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、イランの核兵器完全放棄求める　最高指導者「今のところ」殺害せず
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1bcb2f5d448f87ea44665c01a32d06f9831d562>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000017-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日銀　利上げ見送り　国債購入にも配慮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d673f4c6ccb75ae9eda6c9b360961cfd8683d50d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 石破首相とウクライナ大統領が初会談　2国間の緊密連携で一致
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3211369452d59c995609c34b2df5a2c384367298b4d56b254da053d0cf58b77e.jpg> 米大統領 イランに無条件降伏要求
+      <a href=https://news.yahoo.co.jp/pickup/6542623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/0672d69281e58650318a9597c992f3c7519286b52448dafe1921d33e2cae13cf.jpg> NTTグループ企業 工事で談合疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/21d6b23389d7751c83f0d76669d1a6132027b6f040eefeaa5ab83e28f6a53a66.jpg> 21歳殺害疑い 遺書書かせたと供述
+      <a href=https://news.yahoo.co.jp/pickup/6542634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3f9f58ed8f9c1ba22c2bb26be198d68653252abe90461c5a825a6fc06b552b97.jpg> 首相の2万円公約 自治体から不評
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542632>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/51149d15e85a7cfc0a03b3e964110f8a6c7d2892f6faec9b4d60aa654c937a13.jpg> 車3台が絡む事故で2人死亡 練馬区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/21d6b23389d7751c83f0d76669d1a6132027b6f040eefeaa5ab83e28f6a53a66.jpg> 21歳殺害疑い 遺書書かせたと供述
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/1cb062299d0f98a1caf33d917c1adda287c21bc163ddfa9df58689fbda6eb798.jpg> 内藤哲也 たこ焼き屋出勤し大行列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/f0a24feca04a8337f802714f7230d7e2abf2352cb198fc14c85154727c4f2b8c.jpg> 元競泳・大橋悠依さん 引退後の今
+      <a href=https://news.yahoo.co.jp/pickup/6542637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/99c1054f2d81d4e6b08fd2c29e372b410c3705444cef57436448283b4a68a21c.jpg> 藤浪 マリナーズ傘下を電撃退団
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 10:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 10:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
