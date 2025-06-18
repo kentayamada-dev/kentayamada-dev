@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/570697161b19fd3fe3a93cab9f156501.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67df8dfe9ee043ea08b3a3f982f2127c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63736c98ad34ef478a35df664de1bddabbeb5a4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 航空自衛隊の輸送機　21日にもジブチ派遣の方向で検討　中東情勢緊迫化で
+      <a href=https://news.yahoo.co.jp/articles/287c80c05cc0a0d265cb9b88ed19e54a8ec216b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000107-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 中2の男子生徒、川遊び中に流され死亡　兵庫・姫路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c0ffb2d7f16caf0422355c8f8b024f0fd5a18ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00348902-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平〝故意死球〟への伏線か…前夜死球で激高パヘスに「何様だ」「狙うなら大物」発言
+      <a href=https://news.yahoo.co.jp/articles/6df3071b0c8fe995df95d0573ded186a5a253d6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549060-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷へ死球後「報復するなら、この男だ」　敵地実況席が煽り「思い出してくれ、タティスが…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8907a2b7639194bb91fb3c952eff33f9ad0c92b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トヨタ会長、報酬19．4億円
+      <a href=https://news.yahoo.co.jp/articles/de7c3cfd04e6bcdae80dc2a4b1b9dc364b44a5f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=259&cw=1610&ch=1610&exp=10800&fmt=webp> イスラエル軍、イランにサイバー攻撃も　応酬激化で収束見通せず
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a63d076f340ad9fb025686d6d4050bbcc37ac85efa6db4855c1a3f72437a6858.jpg> 衆院委員長解任 後任は立憲議員
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d40b2077b8d7f544a01781122605b928423f3487be649f3274a0450364dbc75.jpg> トラブル 予備機で首相が帰国の途
+      <a href=https://news.yahoo.co.jp/pickup/6542696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/1/24/1579857888_1579857859_aflo_90067822.jpg> イランの核開発 進展の実態は不明
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/10e28c69594b65730e8ee52d5960b02717018110ec394f1d41073bae93b393a0.jpg> 川遊び中に流され 中学生が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542681>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/988517c106c7ff359d5966fbe89eb312b5b0cc968ed4469b5a0667f10ad9d333.jpg> トヨタ会長 役員報酬は19億円超
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/caad1ca047793ae84290c5594ff4c46ecb60c8596cdf9db01eda61ad4b376a28.jpg> 28kgの犬に衝突されけが 賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6542699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/6a4096cb7ffeb973aacfa5df2c9a5175519f63bda5adc99fa977891e8fb48b6d.jpg> 示談金を横領か 弁護士を懲戒請求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/133bb616103b0e7db59da8481a049b506433faac4ff8c3dc5f4b413a8ce642df.jpg> 助けなきゃ 高2が認知症女性保護
+      <a href=https://news.yahoo.co.jp/pickup/6542694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b6c5839793bfc49154e8c3a1317ba88ebf5fca13a783a03b34559e691498b5ce.jpg> 2度緊急停車 記憶ないとJR運転士
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 20:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 21:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
