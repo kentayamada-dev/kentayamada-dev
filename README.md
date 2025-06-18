@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41a89484229c8002f7683a4cb58e5b1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/081c02e977f0524d4116eafb5f374d38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e84fe63e6b9d64b62abe8d2f88b606af13e495da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000188-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 「すまんけどワロタ」大谷翔平、死球絶叫ショットをＳＮＳ→ネット心配も「絶妙な写真チョイス好き」「ファンも冷静に、のメッセージかも」「この写真投稿するんだ」
+      <a href=https://news.yahoo.co.jp/articles/ddf7207d973001e75e9407dac355e0647623b3b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050206-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国が対イラン攻撃も検討か、トランプ氏「忍耐は限界に近づいている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de7c3cfd04e6bcdae80dc2a4b1b9dc364b44a5f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=259&cw=1610&ch=1610&exp=10800&fmt=webp> イスラエル軍、イランにサイバー攻撃も　応酬激化で収束見通せず
+      <a href=https://news.yahoo.co.jp/articles/e84fe63e6b9d64b62abe8d2f88b606af13e495da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000188-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 「すまんけどワロタ」大谷翔平、死球絶叫ショットをＳＮＳ→ネット心配も「絶妙な写真チョイス好き」「ファンも冷静に、のメッセージかも」「この写真投稿するんだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a965b84ad6bf9f5de66f0e04f43537b70a8b0310>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000084-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=475&ch=475&exp=10800&fmt=webp> 沖縄・石垣市長の不信任決議案可決　議会への「虚偽説明」に反発
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4d7c130fc2745da919c778f7a39121a5474bb94>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000129-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 中食や外食、給食にも放出　備蓄米、随意契約で20日から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0b21713a876de8767ee5a27fa1c4eaccbfe1141>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000162-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 皇治「これからの人生安全運転で」フェラーリ当て逃げ騒動　「安全運転義務違反」で処分終了報告
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e54f048723c15c878d6d58f0980bd2d3dbc101a9cb41989fef8328bdb3c3136c.jpg> 横浜M 監督の就任間近で交渉破談
+      <a href=https://news.yahoo.co.jp/pickup/6542704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a61918893a769d57bf807dbb9092fd154c30a279b47157e9cd66c1432f014265.jpg> 新庄氏 巨人監督に内緒の贈り物
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/73437243d9ee8c25b6f138a16cdcc6834f008c1d21d71ecbb095da0d753ad791.jpg> 大谷翔平にぶつけた投手 報復否定
+      <a href=https://news.yahoo.co.jp/pickup/6542701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e54f048723c15c878d6d58f0980bd2d3dbc101a9cb41989fef8328bdb3c3136c.jpg> 横浜M 監督の就任間近で交渉破談
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 22:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 22:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
