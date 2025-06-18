@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d075ea0c088a6d88cdd00860fa36605f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8f67c0b9a9364b8b9dd6067e786b2ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/358ed6de4a2d63b02d3ac3136f0314f2ab4de81a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000054-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=315&ch=315&exp=10800&fmt=webp> ハメネイ師「戦闘が始まる、慈悲はない」…イスラエルに報復宣言
+      <a href=https://news.yahoo.co.jp/articles/21f924cfeea9e9227ecce5219e76e065c8c02b32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン最高指導者「戦いが始まる」SNS投稿 トランプ大統領は無条件降伏を要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8efacca25d102715178ddfb56bf4c4eadb968015>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースVSパドレス 大谷翔平が「報復死球」に悶絶　ネット驚き「本人笑ってるよ」
+      <a href=https://news.yahoo.co.jp/articles/de49cb9c85cbd0703e45e96a4baddf47a0e6343d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01776582-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に「笑ってしまった」　悲鳴ネタを自ら昇華…一掃した禍根にX喝采「天才やろ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d497aff83cd7f486e4099df10ccfa04906c4537a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184201-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 脱税事件98件、総額約82億円 昨年度「マルサ」の告発件数を国税庁が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b59019e86266cc6b72729a4316fdbde0abf9c1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184205-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 企業・団体献金法案の採決見送り 政治改革議論また持ち越し
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1786fa9816e630c924f83cec6e95680520cc4b3c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243694-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 千葉県知事「無駄で自治体疲弊、うんざり」現金2万円給付めぐり自民党内からも“疑問視”の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eadd59bb8513451878aaf31af6ccb6a829ee07ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東北・山形新幹線、一部運休続く　「E8系」不具合、4編成で　JR東
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90c55595ed88b92448b60a4f3a266867db894a50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066521-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自衛隊「ブルーインパルス」万博で展示飛行”再チャレンジ”へ調整中　7月12日13日の夢洲フライトなるか
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70fcb51518617d2536650fc9add30d1ae92643e7f5dc9092fa91d56f6c6d76b9.jpg> 中東情勢巡る日本の発信変化 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4a407235bec0a6ebec86d29c9dd7e93f4e32959c4cedccc2c8cc64340614c968.jpg> イラン邦人退避 自衛隊機を派遣へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d578e88d2f62774e102998b98ee68a06c158aabe57ed583fb192fdd77cb2f86f.jpg> 男子中学生が川流される 心肺停止
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/10421b972858ca5e0264d12e82b3993c96cbcec5346134662bfd54476b5f6a9a.jpg> 3年前に業界を告発 元舞妓の願い
+      <a href=https://news.yahoo.co.jp/pickup/6542676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/27256d3efccc3f19e9501ca0e9d07171bb552672290b30479252b72a583ecece.jpg> 消火中 隊員ら4人熱中症症状訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b5b3150244b5a2bef008038cf1098b831b66e977511b541e70e47278e291c43e.jpg> 物置に7億円 マルサ暴く脱税手口
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/bb86040ba82b062fa0e74f51ccb64fdd106236ea7df15fdd1b4a7dc570b1467a.jpg> 杉浦太陽 おれもやってる感は封印
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/93660c271319d38bc64a9614869878f0bc2013efec57129db92df0667943487f.jpg> 北村匠海 戦争シーン演じた覚悟
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 17:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 17:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
