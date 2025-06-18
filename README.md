@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19d4190255b367a14ccaa347951775ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84803f3c1bb0c53bffe8ff51fbb1d16e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ff9dc5b6c5ab5493c3cde1184dfe1aa0154dc5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184172-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=671&ch=671&exp=10800&fmt=webp> 東北新幹線新型車両「E8系」で同日4件の故障 単独運行を取りやめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e5061f54040750e419c648f336fc0ea89710a05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-17108682-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、イランに「無条件降伏」要求　イスラエルとの軍事衝突続く中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2c3a600098a2a90b4096ee47492c16909e63b612>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184165-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 一律2万円給付めぐり 石破総理「消費減税より効果的」
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd1cb71ea984397762863e35ec81dcac3747266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 衆院本会議、井林辰憲・財務金融委員長の解任を決議　史上初　野党が「審議拒否」を問題視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b46362f6cf4aad97ed96ee7143c55c486dd91a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00492425-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 韓日首脳「韓米日協力を維持・発展」　シャトル外交再開に意欲＝歴史問題は議論せず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00492425-yonh-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 韓日首脳「韓米日協力を維持・発展」　シャトル外交再開に意欲＝歴史問題は議論せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb0e28b8625532887414fde600ed1d17bc178353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050124-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、地下深く貫通する爆弾「バンカーバスター」使用を真剣に検討…イランへ圧力狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c11589d1c96de08dcaff90e6ad0bda0806388b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243605-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 企業団体献金、今の国会での採決見送り確認　衆院特別委
+      <a href=https://news.yahoo.co.jp/articles/46bdb2417cb23afb8ba225ac53734f77a89780dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243650-jnn-000-9-thumb.jpg?exp=10800&fmt=webp> 【速報】戦後初めて衆院の委員長解任決議案が可決　ガソリンの暫定税率廃止法案をめぐり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 15:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 15:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
