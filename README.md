@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96b940fcaf45bd3be81e39b6c3605270.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b208316445b3c8d011d64796e96fff4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b6098a12a7a62779ceb10c39538e61a28e89565>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-06181308-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1127&ch=1127&exp=10800&fmt=webp> 大谷翔平が狙われた？　「アーイッッ！」１５１キロ直球が右太もも直撃　スーパースターの宿命“もらい事故”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aff036b84295dd1a9bc99f269947005b680448f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000089-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=7&cw=783&ch=783&exp=10800&fmt=webp> ジェームス三木さん死去　91歳　「澪つくし」「独眼竜政宗」の脚本家でヒット作多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/113ddc14a16b82bc10e65e4aff83636771d20c3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90027681-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領の思惑は…米国が軍事作戦“参加検討”イスラエル・イラン攻撃の応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c1927b2a4f8ccfef4f29306c3801dcc19bf0ffd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=2129&ch=2129&exp=10800&fmt=webp> 「故意だったと思う」大谷翔平への“報復”死球　ロバーツ監督抗議も退場で激怒「両チームへの警告は妥当ではなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e55ac82ddc04fd9c933f2bd9dbb2b674bcce48df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190017-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=1193&ch=1193&exp=10800&fmt=webp> ジェームス三木さん死去　大河、朝ドラで名作多数　NHKアーカイブス公式Ｘで追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/671c4a772b465fcd1a398880c4d06c8748f011f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000116-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> USスチール買収完了の日鉄　米政府に「黄金株」を1株発行と発表
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 03:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 04:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
