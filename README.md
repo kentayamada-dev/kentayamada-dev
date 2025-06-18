@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9f6482c424b90125ae3949046136264.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa62ffb3240f9b0397fd5e52847d46c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e68363d8a06b9dde7d3f4596533c10bff04fb6ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000119-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 「独眼竜政宗」渡辺謙　ジェームス三木さん追悼「『これを機に僕が新しい芸名を付けてあげるよ』と」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000119-spnannex-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 「独眼竜政宗」渡辺謙　ジェームス三木さん追悼「『これを機に僕が新しい芸名を付けてあげるよ』と」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/482482da2879821a449fb70a300afe51cd3adc43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184281-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=974&ch=974&exp=10800&fmt=webp> トランプ大統領、イラン攻撃の可能性 明言避ける
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184281-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=974&ch=974&exp=10800&fmt=webp> トランプ大統領、イラン攻撃の可能性 明言避ける
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/59e07df08482729a71474f7bd2bc43460871aee1298822177b1d9d28251dd11f.jpg> 藤浪晋太郎は移籍模索 阪神は静観
+      <a href=https://news.yahoo.co.jp/pickup/6542718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/0190013ea2ad6480fab863e8066e1cbea5f0555b4e6b58a658eaae454eacb918.jpg> 鹿島 横浜Mヤン・マテウス獲得へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542720>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> インディアンス 番組で改名の狙い
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/5f2b723ec1d6d67a2e07301af84f700d0c89e2a25dce2bfbb2d592c05888fcf5.jpg> インディアンスが改名を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 07:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 08:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
