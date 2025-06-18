@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/081c02e977f0524d4116eafb5f374d38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6d4bcc2a72dd3d0d549a478bea9f470.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddf7207d973001e75e9407dac355e0647623b3b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050206-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国が対イラン攻撃も検討か、トランプ氏「忍耐は限界に近づいている」
+      <a href=https://news.yahoo.co.jp/articles/72477668abd27b036af76d70905a5f352a801370>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000088-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日鉄、USスチール買収完了　発表から1年半で決着、世界3位に迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e84fe63e6b9d64b62abe8d2f88b606af13e495da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000188-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 「すまんけどワロタ」大谷翔平、死球絶叫ショットをＳＮＳ→ネット心配も「絶妙な写真チョイス好き」「ファンも冷静に、のメッセージかも」「この写真投稿するんだ」
+      <a href=https://news.yahoo.co.jp/articles/85ebc4a1bbbe2baf1209405dbdd1d04ade71ff0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184224-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 報復された？ 大谷翔平、とんでもない死球をぶつけられて“まさかの展開”「どうなってんだよ」「すげえな…」 予想外のリアクションが話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8d603deb238c9d8685ef68fec7716eb33fb7ddf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243817-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> IAEA「イランの遠心分離機製造する施設が攻撃受けた情報」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92e9b8160172e67e00ba5369b26570df7da931f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066533-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊の「ブルーインパルス」７月１２日・１３日に万博会場上空でパフォーマンス披露か　４月の開幕日の飛行は悪天候で中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/1/24/1579857888_1579857859_aflo_90067822.jpg> イランの核開発 進展の実態は不明
+      <a href=https://news.yahoo.co.jp/pickup/6542707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d689c8037e6733c7aa2738651728b8a599242ea79355b643e7a646811e65a5e.jpg> 日鉄 USスチール買収手続き完了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/f34a8dffc1b26a68363d1051a715b07499ff1c205a579b67e161fe19f308b85a.jpg> 随契の備蓄米 中食・外食も対象に
+      <a href=https://news.yahoo.co.jp/pickup/6542695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a657bdebbc8defd938f4ca5bab2d347fdb4b023af18d42dd12f1885d3664e929.jpg> ウクライナ人口減 二重国籍容認へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/fc5640158a293ac123d1630c6b39f8fcec41580f2c83f00c2a71df6f07c36fd2.jpg> 沖縄・石垣市長の不信任決議 可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b6c5839793bfc49154e8c3a1317ba88ebf5fca13a783a03b34559e691498b5ce.jpg> 2度緊急停車 記憶ないとJR運転士
+      <a href=https://news.yahoo.co.jp/pickup/6542706>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル産鶏肉の輸入停止が拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a61918893a769d57bf807dbb9092fd154c30a279b47157e9cd66c1432f014265.jpg> 新庄氏 巨人監督に内緒の贈り物
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e54f048723c15c878d6d58f0980bd2d3dbc101a9cb41989fef8328bdb3c3136c.jpg> 横浜M 監督の就任間近で交渉破談
+      <a href=https://news.yahoo.co.jp/pickup/6542703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7a06bd8ea1928e0fc092bc9e1c9479fce37f8c735c357a91eb208a0165b6e659.jpg> 看板直撃弾に賞金 27歳明かす裏側
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 22:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 23:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
