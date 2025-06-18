@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c4fd781f1d10b7a136727ac15e6ce8d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e31cf6716bdaf45b0ef9b9784f0b9de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c044dc4a7621cc9d329385c23e7e01f6c4e0be9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-35234403-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 米軍を使ってのイラン攻撃、トランプ氏が一段と乗り気に　情報筋
+      <a href=https://news.yahoo.co.jp/articles/9e18be2eb27d8dec28d40ab972128c39962b53b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-21985594-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東海地方も“熱中症”注意 午後も気温が上がる 予想最高気温は名古屋・岐阜で37℃　高山35℃の猛暑日になる見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e683999a126c84ef4f1c62ecd2d86c3879cc787b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-06181053-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、登板翌日１打席目空振り三振で打率２割台に　疲労に負けず３戦ぶり２６号なるか
+      <a href=https://news.yahoo.co.jp/articles/fb185dab6289b696235da8c36d89862538a3f76e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00988761-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領イランに「無条件降伏」求める　国家安全保障会議で対応協議も詳細は不明…現地メディア「核施設への攻撃検討」
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6fae785c11ebc08f4009c0da5cdd5c0a9e14bed>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日銀「量的引き締め」緩和　市場安定へ財政健全化も推進を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e11ce4ae7485ab948d95860ad4bdf8f3ec964f54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050055-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=255&ch=255&exp=10800&fmt=webp> 石破首相「ウクライナの平和が１日も早くもたらされるべきだ」…ゼレンスキー大統領と初の対面会談、関係強化で一致
       </a>
     </td>
   </tr>
@@ -402,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/57a1e31134451549d3446a73271335b6bb5127090e6a844c20c87fc319e5dfef.jpg> 関税合意至らず 自動車業界に焦り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542643>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/61f4f4ad92c06d59187185b9d651e6726791029f91a4e2c29ec216470496acb6.jpg> 警察庁とメガバンク協定 詐欺対策
       </a>
@@ -426,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8ef40535026a6ed514120668f3139f0fff8bba0e8db78ef9bafb8e0e6ade8ca8.jpg> 女性用トイレだけ行列 浮かぶ格差
+      <a href=https://news.yahoo.co.jp/pickup/6542647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/56d9e87b909e3bf9b4376295d65e59f310604da8dcd2c453d09d63ce18366eea.jpg> 警察追跡のバイクが事故 17歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/81d775336f83be20f024dd4450e59a819c4752f34a4452b607fd45192166c502.jpg> ダイソー謝罪 個人情報漏えい恐れ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 11:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 12:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
