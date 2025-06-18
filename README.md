@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/opkhzniWIRQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db2a9c263700c83382f2fb0e21650e1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc86f892cfed26b6e4f267aabdcb7c13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e11ce4ae7485ab948d95860ad4bdf8f3ec964f54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050055-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=255&ch=255&exp=10800&fmt=webp> 石破首相「ウクライナの平和が１日も早くもたらされるべきだ」…ゼレンスキー大統領と初の対面会談、関係強化で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95d47e45c304a0e044f06520ae858d55565c1ed3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> トランプ氏「制空権を握った」　地下貫通弾によるイラン攻撃を検討か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6131ba5e1cced327e260d611659b37718a6a3751>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01774646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流復帰で「力は入ってない」…“悪球打ち”が示す効果、専門家が解説
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c89bd836c96459028718dcf8214a89b55ef739e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏、イランの核兵器完全放棄求める　最高指導者「今のところ」殺害せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1bcb2f5d448f87ea44665c01a32d06f9831d562>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000017-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 日銀　利上げ見送り　国債購入にも配慮
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d673f4c6ccb75ae9eda6c9b360961cfd8683d50d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 石破首相とウクライナ大統領が初会談　2国間の緊密連携で一致
       </a>
     </td>
   </tr>
@@ -426,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/51149d15e85a7cfc0a03b3e964110f8a6c7d2892f6faec9b4d60aa654c937a13.jpg> 車3台が絡む事故で2人死亡 練馬区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/21d6b23389d7751c83f0d76669d1a6132027b6f040eefeaa5ab83e28f6a53a66.jpg> 21歳殺害疑い 遺書書かせたと供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542626>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/ff892ba1e0a5de4c046812f8a234fd220a828ce7853e67212f1072c407858ecc.jpg> コメ卸業者は「儲け過ぎ」? 検証
       </a>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3c44ef6f56b1442f2a1821683781895121795450562a0d6e0fd65fdecc5b06da.jpg> 豚まん購入「一人50個まで」経緯
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542637>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/99c1054f2d81d4e6b08fd2c29e372b410c3705444cef57436448283b4a68a21c.jpg> 藤浪 マリナーズ傘下を電撃退団
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e06cbec4eabf907eed0d308d00df9c9006c8edf0a0a5d1a07145f2c302536d82.jpg> ガンダム話題 鈴木おさむ氏の考察
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 10:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 11:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
