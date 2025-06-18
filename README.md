@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a75d4b79594859da30c6cd67ebb7d77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6328699efad86f2b4592da8febd78f79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7957f8eabc42b033234aaa2cd72bb0f4e60ce720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000095-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=547&ch=547&exp=10800&fmt=webp> ブルーインパルス、万博会場での展示飛行を再挑戦へ　7月中旬で調整
+      <a href=https://news.yahoo.co.jp/articles/6f4403253436cc4409572061404ab71d31647aeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00989188-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がイランの核施設攻撃を検討か「バンカーバスター」で地中深くの施設攻撃も可能に　日本政府は邦人待避に向け今週末にも自衛隊機のジブチ派遣調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56ec81f0e1d16f2b6fdebc912a93817bf14b2a1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランから邦人90人陸路退避へ　19日にも、航空自衛隊機準備
+      <a href=https://news.yahoo.co.jp/articles/92e9b8160172e67e00ba5369b26570df7da931f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066533-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊の「ブルーインパルス」７月１２日・１３日に万博会場上空でパフォーマンス披露か　４月の開幕日の飛行は悪天候で中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8a7e3b0344625a60a74d36f091c00f86ec4ab9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36181036-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平への“報復”死球でロバーツ監督激高「故意だと思う」同地区ライバル対決は不穏な空気
+      <a href=https://news.yahoo.co.jp/articles/e7f404b8541d87264ddcdf18cfe37b165f3803fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549165-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の死球巡り両軍エキサイト　ド軍監督「故意だ」敵将「野球では色々なことが…」　本人はまさかの行動
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afe392232c926574e06f27b699e543e7372418a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050165-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 豊田章男・トヨタ会長の役員報酬、１９億４９００万円…２０％増で歴代役員の過去最高更新
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050165-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 豊田章男・トヨタ会長の役員報酬、１９億４９００万円…２０％増で歴代役員の過去最高更新
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/46755cf8d548aec87b95a9ec1ddef5119a1956fc11a69b72c518700b18a59bfa.jpg> ブルーインパルス 7月万博飛行へ
+      <a href=https://news.yahoo.co.jp/pickup/6542686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4d40b2077b8d7f544a01781122605b928423f3487be649f3274a0450364dbc75.jpg> トラブル 予備機で首相が帰国の途
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7ede039e23376b1acf645dc1a43f042fc67bffa72db5374ea1d847cf1792e13c.jpg> ハメネイ師「戦いが始まる」投稿
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8e4fbcee1fedae34f46e645a9d39ff58810bde46da10696f0317ef49dbb77a7c.jpg> 人気の「ポテトフライ」なぜ小袋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eaedf4b3afc8830cf69be742b2d8dfb65a26ac404debd13740f152450457662c.jpg> まさか白いカラスとは 発見者驚き
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3977aa1525f5cbf26fa66e2421e5da76d9a92b009865405ea9c7355a1eb718ef.jpg> 400m51秒71 フロレスが日本国籍に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 19:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 20:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
