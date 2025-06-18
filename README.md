@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ce8855a0c6abdd8fb353219989f5569.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/181808a7fc96546ed8ed36a5513db16a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96d928717c5c32c31fa895679766dde67aef629d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000213-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 脚本家のジェームス三木さん死去、NHK「澪つくし」「独眼竜政宗」ヒット作を手がける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/671c4a772b465fcd1a398880c4d06c8748f011f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000116-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> USスチール買収完了の日鉄　米政府に「黄金株」を1株発行と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/541809a2c02e7a5c6da37e1a81b4e0ab72a74606>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＩＡＥＡ、イランの濃縮ウラン備蓄の所在確認できず－核弾頭10発分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a935a63f93fdc4554f2d462124b4624611ad92af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184234-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 審判に大激怒！大谷への“報復死球”にブチギレ「めっちゃ怖い」「ヤバすぎ」 因縁の相手に“猛突進”… ド軍・ロバーツ監督が怒り大爆発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/356496a7b4dbb8ba21b96c124d33dae627ad9630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36182018-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 「M－１」3回決勝「インディアンス」が「ちょんまげラーメン」に改名　「水ダウ」で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72477668abd27b036af76d70905a5f352a801370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000088-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日鉄、USスチール買収完了　発表から1年半で決着、世界3位に迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d603deb238c9d8685ef68fec7716eb33fb7ddf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243817-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> IAEA「イランの遠心分離機製造する施設が攻撃受けた情報」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4d7c130fc2745da919c778f7a39121a5474bb94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000129-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 中食や外食、給食にも放出　備蓄米、随意契約で20日から
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/10e28c69594b65730e8ee52d5960b02717018110ec394f1d41073bae93b393a0.jpg> 川遊び中に流され 中学生が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/988517c106c7ff359d5966fbe89eb312b5b0cc968ed4469b5a0667f10ad9d333.jpg> トヨタ会長 役員報酬は19億円超
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d6cdd3872b117b369669a7817a02c0969a499cbffc0e3825845200217471775a.jpg> 皇治選手 安全運転義務違反で処分
+      <a href=https://news.yahoo.co.jp/pickup/6542712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02253621/title-1750212916751.jpeg?exp=10800> TOEICでまたも不正事件 背景は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/74598b45b46669f94cceceffa02e785a06dee659fa7a714996ae449bc17392b9.jpg> 潮田玲子さん バド協会理事就任へ
+      <a href=https://news.yahoo.co.jp/pickup/6542711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a38c6004d57180210bdf9312a0c43715ab64b9e0befd7dedf8cd63e36784f0ab.jpg> 脚本家のジェームス三木さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 23:52:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 00:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
