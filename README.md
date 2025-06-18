@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84803f3c1bb0c53bffe8ff51fbb1d16e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd0672ceca9da0c13b980cbc9666c69e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d13ad0eb2c288f20f738df6f5b4bdf97a7a29e7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000081-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロバーツ監督が審判に激怒した理由「私が納得できなかったのは…」“因縁の相手”と口論、「一貫性がない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ff9dc5b6c5ab5493c3cde1184dfe1aa0154dc5e>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b46362f6cf4aad97ed96ee7143c55c486dd91a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00492425-yonh-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 韓日首脳「韓米日協力を維持・発展」　シャトル外交再開に意欲＝歴史問題は議論せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46bdb2417cb23afb8ba225ac53734f77a89780dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243650-jnn-000-9-thumb.jpg?exp=10800&fmt=webp> 【速報】戦後初めて衆院の委員長解任決議案が可決　ガソリンの暫定税率廃止法案をめぐり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243650-jnn-000-11-thumb.jpg?exp=10800&fmt=webp> 【速報】戦後初めて衆院の委員長解任決議案が可決　ガソリンの暫定税率廃止法案をめぐり
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4e91c56dde06706aacf2799546b9bcc27f431067774fbb1f1d4c733c58439d3f.jpg> 首相 給付金は消費減税より効果的
+      <a href=https://news.yahoo.co.jp/pickup/6542659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e684dcae983aeaf512d2a3145229d14845581239ca602fc6db1a2926a98b8513.jpg> ネットカジノ規制強化 改正法成立
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e66b10f8b5fc4aa34998e8601292c8298d81cd4ad2d0e5da51e697357760e179.jpg> 国士舘部員 大麻「集団で吸った」
+      <a href=https://news.yahoo.co.jp/pickup/6542666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7dc79f4129f56e9ba7a5a89203b5fd022c60490977d412c08b9cc8b7e495ab75.jpg> 新幹線「E8系」 同日に4件不具合
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70468bf2251f11497b27b6eef76439617b33d427c296a1352c71e91ca10d5e4e.jpg> エアコンからモワッと悪臭 対策
+      <a href=https://news.yahoo.co.jp/pickup/6542667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/6af8fe211f869cbea6feb3d5062784fcf57373381ec7387b9b7e3d738fccdc0d.jpg> 大谷死球にド軍監督 故意だと思う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/982730b688af2302e4b5fa0f68dd8aeabd58637af3e90d3ee4c75c776c7dafd8.jpg> 大谷に死球 監督は猛抗議で退場
+      <a href=https://news.yahoo.co.jp/pickup/6542665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/bb86040ba82b062fa0e74f51ccb64fdd106236ea7df15fdd1b4a7dc570b1467a.jpg> 杉浦太陽 おれもやってる感は封印
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7baf0556c3094caca0675da14c5cbc9c1a2fd7b31a71582c1a58648a46e0ba02.jpg> 藤浪晋太郎が退団 日本も選択肢に
+      <a href=https://news.yahoo.co.jp/pickup/6542661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/93660c271319d38bc64a9614869878f0bc2013efec57129db92df0667943487f.jpg> 北村匠海 戦争シーン演じた覚悟
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 15:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 16:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
