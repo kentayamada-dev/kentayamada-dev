@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcd17fade98e59199b5d821f100631ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9f6482c424b90125ae3949046136264.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d1b344b15b3ff1719e1a80ccb62ac8d03e16aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184240-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 死球にブチギレ…「乱闘かな？」「怖え」 “暴れん坊”マチャドが激怒… ベンチから出てくる「松井さん引いてるやん」
+      <a href=https://news.yahoo.co.jp/articles/e68363d8a06b9dde7d3f4596533c10bff04fb6ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000119-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 「独眼竜政宗」渡辺謙　ジェームス三木さん追悼「『これを機に僕が新しい芸名を付けてあげるよ』と」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d48efd0e9f2e904099acfbcb5b80763369fd2972>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-02941293-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　イランへの攻撃、明言避ける　ハメネイ師“軍事介入”に徹底抗戦の構え
+      <a href=https://news.yahoo.co.jp/articles/482482da2879821a449fb70a300afe51cd3adc43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184281-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=974&ch=974&exp=10800&fmt=webp> トランプ大統領、イラン攻撃の可能性 明言避ける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3753d2916ff12544f951c5727d4d7701f952cbee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00549201-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=600&ch=600&exp=10800&fmt=webp> 大谷、試合後に「絶対ネタにされるやつ」を公開　荒れた試合が一変、投稿した1枚に喝采「らしいなーー笑」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef7033c9e4eec08c0895a9e71a69267c498dd5ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348960-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎獲りに日本ハムは動くのか　かつて高評価の新庄監督「何とも言えない」の真意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aedd66a4f5615a34e3bf3d2e95db4ea2b6908bab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米、金利据え置き＝4会合連続、年内2回利下げ維持―FRB☆差替
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/a38c6004d57180210bdf9312a0c43715ab64b9e0befd7dedf8cd63e36784f0ab.jpg> 脚本家のジェームス三木さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6542719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/6c80d07985ade0dcb1c4e5804611c37668ddcbec7b01d669a2ab0f067010cca1.jpg> あんぱん岩男役 2～3日食べず撮影
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 07:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 07:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
