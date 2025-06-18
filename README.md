@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3796c6a680844976220ee9a158cfb06b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9603dba8c2ca8913d523c65147d5815b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e246a6eae7ce6f182195f224a0ad0c2ec2bf4637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000053-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第4打席で松井裕樹に空振り三振、今季5度目の1試合3三振、出塁は”ロバーツ監督退場”引き金の死球のみ
+      <a href=https://news.yahoo.co.jp/articles/d3e526cc2d43e9ca37f2f67c17fce3020069cdc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050123-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 石破首相、今国会中の衆院解散を否定…サミット後の記者会見「喫緊の課題に隙間作ることないよう」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/042c573874060dd9c5ad1abbf783cf2204ca51d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36180364-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=158&cw=830&ch=830&exp=10800&fmt=webp> 小沢一郎氏、石破首相の「減税より給付金の方がはるかに効果的」発言を“たった二言”で斬る
+      <a href=https://news.yahoo.co.jp/articles/1990034af42b461d59f9a50b96a17748f497ef09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184135-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 「イランの核兵器開発は決して許してはならない旨を申し述べた」「トランプ大統領との間で約30分にわたり率直な議論」G7サミット初参加の石破総理が語った“成果”と“課題”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1990034af42b461d59f9a50b96a17748f497ef09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184135-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 「イランの核兵器開発は決して許してはならない旨を申し述べた」「トランプ大統領との間で約30分にわたり率直な議論」G7サミット初参加の石破総理が語った“成果”と“課題”
+      <a href=https://news.yahoo.co.jp/articles/fa951842cf60926b3a2b5d06efe3befc767e4e09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000125-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> オンラインカジノ規制強化　改正依存症対策法が成立
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 13:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 14:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
