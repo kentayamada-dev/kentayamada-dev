@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67df8dfe9ee043ea08b3a3f982f2127c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41a89484229c8002f7683a4cb58e5b1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/287c80c05cc0a0d265cb9b88ed19e54a8ec216b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000107-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 中2の男子生徒、川遊び中に流され死亡　兵庫・姫路
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6df3071b0c8fe995df95d0573ded186a5a253d6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00549060-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷へ死球後「報復するなら、この男だ」　敵地実況席が煽り「思い出してくれ、タティスが…」
+      <a href=https://news.yahoo.co.jp/articles/e84fe63e6b9d64b62abe8d2f88b606af13e495da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000188-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1498&ch=1498&exp=10800&fmt=webp> 「すまんけどワロタ」大谷翔平、死球絶叫ショットをＳＮＳ→ネット心配も「絶妙な写真チョイス好き」「ファンも冷静に、のメッセージかも」「この写真投稿するんだ」
       </a>
     </td>
   </tr>
@@ -381,16 +373,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92e9b8160172e67e00ba5369b26570df7da931f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066533-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊の「ブルーインパルス」７月１２日・１３日に万博会場上空でパフォーマンス披露か　４月の開幕日の飛行は悪天候で中止
+      <a href=https://news.yahoo.co.jp/articles/e4d7c130fc2745da919c778f7a39121a5474bb94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000129-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 中食や外食、給食にも放出　備蓄米、随意契約で20日から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000103-san-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
+      <a href=https://news.yahoo.co.jp/articles/f0b21713a876de8767ee5a27fa1c4eaccbfe1141>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000162-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 皇治「これからの人生安全運転で」フェラーリ当て逃げ騒動　「安全運転義務違反」で処分終了報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92e9b8160172e67e00ba5369b26570df7da931f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066533-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊の「ブルーインパルス」７月１２日・１３日に万博会場上空でパフォーマンス披露か　４月の開幕日の飛行は悪天候で中止
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7ede039e23376b1acf645dc1a43f042fc67bffa72db5374ea1d847cf1792e13c.jpg> ハメネイ師「戦いが始まる」投稿
+      <a href=https://news.yahoo.co.jp/pickup/6542702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/f34a8dffc1b26a68363d1051a715b07499ff1c205a579b67e161fe19f308b85a.jpg> 随契の備蓄米 中食・外食も対象に
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/988517c106c7ff359d5966fbe89eb312b5b0cc968ed4469b5a0667f10ad9d333.jpg> トヨタ会長 役員報酬は19億円超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/6a4096cb7ffeb973aacfa5df2c9a5175519f63bda5adc99fa977891e8fb48b6d.jpg> 示談金を横領か 弁護士を懲戒請求
+      <a href=https://news.yahoo.co.jp/pickup/6542673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/8e4fbcee1fedae34f46e645a9d39ff58810bde46da10696f0317ef49dbb77a7c.jpg> 人気の「ポテトフライ」なぜ小袋
+      <a href=https://news.yahoo.co.jp/pickup/6542698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d6cdd3872b117b369669a7817a02c0969a499cbffc0e3825845200217471775a.jpg> 皇治選手 安全運転義務違反で処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e54f048723c15c878d6d58f0980bd2d3dbc101a9cb41989fef8328bdb3c3136c.jpg> 横浜M 監督の就任間近で交渉破談
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 22:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
