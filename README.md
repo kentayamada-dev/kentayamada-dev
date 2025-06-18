@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/968d7922c7989538aeee0fb18217c84f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1baab5de893196790193f10665b923be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26f490f3c96d16c04128b12001dc0efec6e2b27e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000004-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 日米首脳会談、自動車の追加関税見直しも“空振り”　交渉は長期戦へ［新聞ウォッチ］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6cfd2823139cd711a6b8d3947e1e81fa6247a616>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250617-00000273-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> 米トランプ氏、イランに「無条件の降伏」要求　NSCで協議　軍事攻撃も検討と報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b753ccb40f3386a34677a0fe73e876160348b6de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000024-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=395&ch=395&exp=10800&fmt=webp> 日産、新型「リーフ」発表　航続距離は600km超え　25年秋に米国から投入
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e976e4196c40716c0e61533faa9e6904a6407560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、「今のところ」イラン最高指導者を殺害せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4d9f3ff77b4b051e710943d961f03b4f31919ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184077-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なぜ打った…！？ 大谷翔平、弾丸ヒットで“異変”「めっちゃ驚いてる」「そらビビるw」 相手投手の被打リアクションが話題に「すごい音だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/423530509d239e18212e29683839b81a8297fed6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税、解決せず　貿易交渉の進展望めず
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/cbfffc15875a34b537815953344ee5a7e00e90d4b06d947dd9867df50e1b1b6b.jpg> インドネシア噴火 日本へ津波なし
+      <a href=https://news.yahoo.co.jp/pickup/6542622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4a2d4449cbfbbaa48ad712a60703dd4eba310df4c4d11de88d3d5b227ba2f198.jpg> 一律2万円給付はバラマキ? 解説
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542624>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3211369452d59c995609c34b2df5a2c384367298b4d56b254da053d0cf58b77e.jpg> 米大統領 イランに無条件降伏要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e660b015be2d086edc0add2eb29d6ff49d7a98be9f28abfea42f7f0d8b00bcae.jpg> 車3台が絡む事故で2人重体 練馬区
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/1cb062299d0f98a1caf33d917c1adda287c21bc163ddfa9df58689fbda6eb798.jpg> 内藤哲也 たこ焼き屋出勤し大行列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/f0a24feca04a8337f802714f7230d7e2abf2352cb198fc14c85154727c4f2b8c.jpg> 元競泳・大橋悠依さん 引退後の今
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/dfbac5839d2d10afb3b503bafd653d06eed14dc5448b4ede5854c4c201fed9c5.jpg> 大谷の登板戦 MLB.TV最高視聴率
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/2b0793bf4750f450b4a350301d3788f9050d84c47a872dbdbe419af39d0d4411.jpg> 草なぎ 2年半ぶり民放連ドラ主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 08:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 09:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
