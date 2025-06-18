@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa1fed5aba041dd039d11716a553776e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ce8855a0c6abdd8fb353219989f5569.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a935a63f93fdc4554f2d462124b4624611ad92af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184234-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 審判に大激怒！大谷への“報復死球”にブチギレ「めっちゃ怖い」「ヤバすぎ」 因縁の相手に“猛突進”… ド軍・ロバーツ監督が怒り大爆発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/356496a7b4dbb8ba21b96c124d33dae627ad9630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36182018-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 「M－１」3回決勝「インディアンス」が「ちょんまげラーメン」に改名　「水ダウ」で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-36182018-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 「M－１」3回決勝「インディアンス」が「ちょんまげラーメン」に改名　「水ダウ」で
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72477668abd27b036af76d70905a5f352a801370>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000088-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日鉄、USスチール買収完了　発表から1年半で決着、世界3位に迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85ebc4a1bbbe2baf1209405dbdd1d04ade71ff0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184224-abema-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 報復された？ 大谷翔平、とんでもない死球をぶつけられて“まさかの展開”「どうなってんだよ」「すげえな…」 予想外のリアクションが話題に
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/2837b5ad3a2b061b55e1c9ed35e130dd739b84ba8ac2b8e80e61b2f768623168.jpg> 万博日本館 一部が労働組合を結成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542706>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ブラジル産鶏肉の輸入停止が拡大
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d6cdd3872b117b369669a7817a02c0969a499cbffc0e3825845200217471775a.jpg> 皇治選手 安全運転義務違反で処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/74598b45b46669f94cceceffa02e785a06dee659fa7a714996ae449bc17392b9.jpg> 潮田玲子さん バド協会理事就任へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 23:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 23:52:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
