@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d3d095f3862d894e5c65f6bd45dacc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94055c2baf5f78d2df0e82409a68c3b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/480813c33c6693010c8fc9a967bfe789f8cae61d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000068-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・大谷　狙われた報復死球　宿敵パドレスと両軍合計3死球　猛抗議ロバーツ監督今季初退場
+      <a href=https://news.yahoo.co.jp/articles/113ddc14a16b82bc10e65e4aff83636771d20c3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90027681-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領の思惑は…米国が軍事作戦“参加検討”イスラエル・イラン攻撃の応酬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c1927b2a4f8ccfef4f29306c3801dcc19bf0ffd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=2129&ch=2129&exp=10800&fmt=webp> 「故意だったと思う」大谷翔平への“報復”死球　ロバーツ監督抗議も退場で激怒「両チームへの警告は妥当ではなかった」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/671c4a772b465fcd1a398880c4d06c8748f011f2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000116-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> USスチール買収完了の日鉄　米政府に「黄金株」を1株発行と発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/541809a2c02e7a5c6da37e1a81b4e0ab72a74606>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＩＡＥＡ、イランの濃縮ウラン備蓄の所在確認できず－核弾頭10発分
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 02:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 02:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
