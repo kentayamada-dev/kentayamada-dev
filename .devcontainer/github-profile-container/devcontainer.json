@@ -20,12 +20,9 @@
         "ruff.lint.run": "onSave"
       },
       "extensions": [
-        "richie5um2.vscode-sort-json",
         "mhutchie.git-graph",
         "Exelord.git-commits",
-        "charliermarsh.ruff",
-        "onatm.open-in-new-window",
-        "GitHub.vscode-github-actions"
+        "charliermarsh.ruff"
       ]
     }
   }

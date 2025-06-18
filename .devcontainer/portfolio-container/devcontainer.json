@@ -25,15 +25,11 @@
         }
       },
       "extensions": [
-        "richie5um2.vscode-sort-json",
         "mhutchie.git-graph",
         "Exelord.git-commits",
-        "yoavbls.pretty-ts-errors",
         "esbenp.prettier-vscode",
         "bradlc.vscode-tailwindcss",
-        "onatm.open-in-new-window",
         "dbaeumer.vscode-eslint",
-        "GitHub.vscode-github-actions",
         "formulahendry.auto-rename-tag",
         "kentayamada.vscode-statusbar-commands",
         "kentayamada.vscode-gpt-project-loader"
