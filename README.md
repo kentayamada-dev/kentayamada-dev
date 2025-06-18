@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8f67c0b9a9364b8b9dd6067e786b2ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14220bf4dfa1c569fb9f526036a397dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21f924cfeea9e9227ecce5219e76e065c8c02b32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン最高指導者「戦いが始まる」SNS投稿 トランプ大統領は無条件降伏を要求
+      <a href=https://news.yahoo.co.jp/articles/aa937a89614b7af64d59e0d495c9e58924b503bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01776660-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷への“故意死球”が原因ではない？　ロバーツ監督がブチギレた2つの理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de49cb9c85cbd0703e45e96a4baddf47a0e6343d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-01776582-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に「笑ってしまった」　悲鳴ネタを自ら昇華…一掃した禍根にX喝采「天才やろ」
+      <a href=https://news.yahoo.co.jp/articles/9394703549280dd4737ce01ef22b541f3a65f1ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-90032716-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=442&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 「国民生活を陥れる無謀な法案が廃案になるので国民生活に貢献した」　井林辰憲 議員が強気のコメント　現憲法下で初めてとなる衆議院常任委員長の解任決議案可決　「開催依頼の電話もらっていない」とも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d497aff83cd7f486e4099df10ccfa04906c4537a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184201-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 脱税事件98件、総額約82億円 昨年度「マルサ」の告発件数を国税庁が発表
+      <a href=https://news.yahoo.co.jp/articles/beeca1828aae57a8883b5d37cf906cd4fab43c42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243744-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地中貫通弾「バンカーバスター」使用の可能性　トランプ政権がイラン地下核施設の攻撃検討と米メディア報じる　イスラエル・イラン攻撃の応酬続く中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b59019e86266cc6b72729a4316fdbde0abf9c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184205-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 企業・団体献金法案の採決見送り 政治改革議論また持ち越し
+      <a href=https://news.yahoo.co.jp/articles/08b90f9f4edb07424d9c993160662c32783c901e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 給付金の加算は約1400万世帯、消費税減税より「はるかに効果ある」石破首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1786fa9816e630c924f83cec6e95680520cc4b3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243694-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 千葉県知事「無駄で自治体疲弊、うんざり」現金2万円給付めぐり自民党内からも“疑問視”の声
+      <a href=https://news.yahoo.co.jp/articles/06a2d26633304114f9cbc6694bc3cf1d6fbc63f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243752-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=468&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】立憲・阿久津氏が新委員長に　井林財務金融委員長の解任決議案が可決　衆議院では戦後初
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/46755cf8d548aec87b95a9ec1ddef5119a1956fc11a69b72c518700b18a59bfa.jpg> ブルーインパルス 7月万博飛行へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d578e88d2f62774e102998b98ee68a06c158aabe57ed583fb192fdd77cb2f86f.jpg> 男子中学生が川流される 心肺停止
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/27256d3efccc3f19e9501ca0e9d07171bb552672290b30479252b72a583ecece.jpg> 消火中 隊員ら4人熱中症症状訴え
+      <a href=https://news.yahoo.co.jp/pickup/6542682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/eaedf4b3afc8830cf69be742b2d8dfb65a26ac404debd13740f152450457662c.jpg> 白いカラスが2羽 発見の男性驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b5b3150244b5a2bef008038cf1098b831b66e977511b541e70e47278e291c43e.jpg> 物置に7億円 マルサ暴く脱税手口
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> スマホ見過ぎで斜視に どう防ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6542679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3977aa1525f5cbf26fa66e2421e5da76d9a92b009865405ea9c7355a1eb718ef.jpg> 400m51秒71 フロレスが日本国籍に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 17:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 18:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
