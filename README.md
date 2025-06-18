@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7766c4ef2e7ddde8dc37fd193fcac1bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d075ea0c088a6d88cdd00860fa36605f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9ef7b4102740e0e876b44420a5f19c039f101e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000259-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「正直…分からない」スミスは大谷の死球“故意”認めずも監督退場には「何かおかしいことが起きてる証拠」
+      <a href=https://news.yahoo.co.jp/articles/358ed6de4a2d63b02d3ac3136f0314f2ab4de81a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000054-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=315&ch=315&exp=10800&fmt=webp> ハメネイ師「戦闘が始まる、慈悲はない」…イスラエルに報復宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8efacca25d102715178ddfb56bf4c4eadb968015>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000020-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャースVSパドレス 大谷翔平が「報復死球」に悶絶　ネット驚き「本人笑ってるよ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1786fa9816e630c924f83cec6e95680520cc4b3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243694-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 千葉県知事「無駄で自治体疲弊、うんざり」現金2万円給付めぐり自民党内からも“疑問視”の声
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3378d8e83bf33c53379cb9ed37e084f4a073160a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 給付金一律2万円の根拠を検証：低所得者に絞った生活支援策とすべき
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90c55595ed88b92448b60a4f3a266867db894a50>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066521-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自衛隊「ブルーインパルス」万博で展示飛行”再チャレンジ”へ調整中　7月12日13日の夢洲フライトなるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e5061f54040750e419c648f336fc0ea89710a05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-17108682-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、イランに「無条件降伏」要求　イスラエルとの軍事衝突続く中
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7554638aef960a0c398f9f40b3128752b8c2233356fecdeaa22a6684c0eec466.jpg> 衆院委員長の解任案を可決 戦後初
+      <a href=https://news.yahoo.co.jp/pickup/6542671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/d9fe965ab79078da6a3771d889027a00aa2ce99c2271b1d67121abba2ade3a10.jpg> 首相 今国会中の衆院解散を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e684dcae983aeaf512d2a3145229d14845581239ca602fc6db1a2926a98b8513.jpg> ネットカジノ規制強化 改正法成立
+      <a href=https://news.yahoo.co.jp/pickup/6542663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70fcb51518617d2536650fc9add30d1ae92643e7f5dc9092fa91d56f6c6d76b9.jpg> 中東情勢巡る日本の発信変化 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7dc79f4129f56e9ba7a5a89203b5fd022c60490977d412c08b9cc8b7e495ab75.jpg> 新幹線「E8系」 同日に4件不具合
+      <a href=https://news.yahoo.co.jp/pickup/6542673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/b7cf4496dd00c5f72d4dce4f1cd39106305cdf95bb595640951ec7fad9cd2b2a.jpg> 車がポール折る あたった教諭死亡
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e0929f186eff42f1b1641431c4315ef798ca9125a40075ce9442bec395b9dada.jpg> 脳に腫瘍 小児がんと闘う高校生
+      <a href=https://news.yahoo.co.jp/pickup/6542668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> スマホ見過ぎで斜視に どう防ぐ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 16:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 17:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
