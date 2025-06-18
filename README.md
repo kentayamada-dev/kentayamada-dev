@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd0672ceca9da0c13b980cbc9666c69e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7766c4ef2e7ddde8dc37fd193fcac1bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d13ad0eb2c288f20f738df6f5b4bdf97a7a29e7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000081-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロバーツ監督が審判に激怒した理由「私が納得できなかったのは…」“因縁の相手”と口論、「一貫性がない」
+      <a href=https://news.yahoo.co.jp/articles/e9ef7b4102740e0e876b44420a5f19c039f101e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000259-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「正直…分からない」スミスは大谷の死球“故意”認めずも監督退場には「何かおかしいことが起きてる証拠」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ff9dc5b6c5ab5493c3cde1184dfe1aa0154dc5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184172-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=671&ch=671&exp=10800&fmt=webp> 東北新幹線新型車両「E8系」で同日4件の故障 単独運行を取りやめ
+      <a href=https://news.yahoo.co.jp/articles/eadd59bb8513451878aaf31af6ccb6a829ee07ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東北・山形新幹線、一部運休続く　「E8系」不具合、4編成で　JR東
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3378d8e83bf33c53379cb9ed37e084f4a073160a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 給付金一律2万円の根拠を検証：低所得者に絞った生活支援策とすべき
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90c55595ed88b92448b60a4f3a266867db894a50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00066521-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自衛隊「ブルーインパルス」万博で展示飛行”再チャレンジ”へ調整中　7月12日13日の夢洲フライトなるか
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e5061f54040750e419c648f336fc0ea89710a05>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-17108682-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、イランに「無条件降伏」要求　イスラエルとの軍事衝突続く中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c3a600098a2a90b4096ee47492c16909e63b612>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184165-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 一律2万円給付めぐり 石破総理「消費減税より効果的」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46bdb2417cb23afb8ba225ac53734f77a89780dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-07243650-jnn-000-11-thumb.jpg?exp=10800&fmt=webp> 【速報】戦後初めて衆院の委員長解任決議案が可決　ガソリンの暫定税率廃止法案をめぐり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 16:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 16:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
