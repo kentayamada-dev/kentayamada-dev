@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fb0bdf78d619084e19ec4d8df0e2aae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19d4190255b367a14ccaa347951775ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb0e28b8625532887414fde600ed1d17bc178353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050124-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、地下深く貫通する爆弾「バンカーバスター」使用を真剣に検討…イランへ圧力狙い
+      <a href=https://news.yahoo.co.jp/articles/2c3a600098a2a90b4096ee47492c16909e63b612>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184165-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 一律2万円給付めぐり 石破総理「消費減税より効果的」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8454dc93c9fdc7597b7e226b208d354578bb4e77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000197-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 石破首相の「減税より給付」「決して少なくない」トレンド入り、国民一律2万円の現金給付
+      <a href=https://news.yahoo.co.jp/articles/cfd1cb71ea984397762863e35ec81dcac3747266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 衆院本会議、井林辰憲・財務金融委員長の解任を決議　史上初　野党が「審議拒否」を問題視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b46362f6cf4aad97ed96ee7143c55c486dd91a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00492425-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 韓日首脳「韓米日協力を維持・発展」　シャトル外交再開に意欲＝歴史問題は議論せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb0e28b8625532887414fde600ed1d17bc178353>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00050124-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、地下深く貫通する爆弾「バンカーバスター」使用を真剣に検討…イランへ圧力狙い
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1990034af42b461d59f9a50b96a17748f497ef09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-10184135-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 「イランの核兵器開発は決して許してはならない旨を申し述べた」「トランプ大統領との間で約30分にわたり率直な議論」G7サミット初参加の石破総理が語った“成果”と“課題”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa951842cf60926b3a2b5d06efe3befc767e4e09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000125-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> オンラインカジノ規制強化　改正依存症対策法が成立
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4e91c56dde06706aacf2799546b9bcc27f431067774fbb1f1d4c733c58439d3f.jpg> 首相 給付金は消費減税より効果的
+      <a href=https://news.yahoo.co.jp/pickup/6542664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7554638aef960a0c398f9f40b3128752b8c2233356fecdeaa22a6684c0eec466.jpg> 衆院委員長の解任案を可決 戦後初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/3903914a59fc0b2e2a21196289130f229ade568af4e4fe6e5100ca5759ab451d.jpg> 真夏並みの厳しい暑さ 明日も続く
+      <a href=https://news.yahoo.co.jp/pickup/6542656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/4e91c56dde06706aacf2799546b9bcc27f431067774fbb1f1d4c733c58439d3f.jpg> 首相 給付金は消費減税より効果的
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/56d9e87b909e3bf9b4376295d65e59f310604da8dcd2c453d09d63ce18366eea.jpg> 警察追跡のバイクが事故 17歳死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70468bf2251f11497b27b6eef76439617b33d427c296a1352c71e91ca10d5e4e.jpg> エアコンからモワッと悪臭 対策
+      <a href=https://news.yahoo.co.jp/pickup/6542662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/10421b972858ca5e0264d12e82b3993c96cbcec5346134662bfd54476b5f6a9a.jpg> 3年前に業界を告発 元舞妓の願い
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542658>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/e0929f186eff42f1b1641431c4315ef798ca9125a40075ce9442bec395b9dada.jpg> 脳に腫瘍 小児がんと闘う高校生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/70468bf2251f11497b27b6eef76439617b33d427c296a1352c71e91ca10d5e4e.jpg> エアコンからモワッと悪臭 対策
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/18 14:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/18 15:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
