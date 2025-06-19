@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0860765f367360d66f65d5a08d721f53.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65b23c1e7b7a67ea328d68439ae215e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcf272b5b7fc2bcc5a920af90bb8b6354ab2b7fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000236-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=791&ch=791&exp=10800&fmt=webp> ジェームス三木さん、4月に体調崩し入院　自宅療養中に急変　妻が最期明かす「病院で家族に看取られ」
+      <a href=https://news.yahoo.co.jp/articles/4f6f656eb3f41cc19847bb02efcda107a10c9460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00030284-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 1か月予報　早くも猛暑到来へ　梅雨明けは7月上旬か　西・東日本で雨量少ない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acdfc4addfc9fdc4e813608523ad6d1e6f0fdb5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-09244754-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “ガソリン価格抑制措置”来週から開始　石破首相が表明
+      <a href=https://news.yahoo.co.jp/articles/3f71ae8590b36084e76014eaeddb2876aa7685f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348998-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の次回登板が決定　日本時間２３日午前５時１０分開始のナショナルズ戦に中５日で先発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbc657ca5f480f2c3c24e69af86b04ac2a27dc67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010008-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「やるかもしれないし、やらないかもしれない」トランプ氏、米軍のイラン攻撃への参加を肯定も否定もせず　すでに計画承認との報道も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a00396198ddc7a039259a4377528b39ded765838>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=454&ch=454&exp=10800&fmt=webp> ジェームス三木さんの脚本作品は「壮大」「原点」　渡辺謙さんら追悼
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/208046d382cb051cf136785dc24638af3283d5bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90051643-hokkaibunv-000-2-thumb.jpg?exp=10800&fmt=webp> 【太平洋側で先月から6回目】道東で『最大震度4』の地震＿「こわい」「しょっちゅう起きているから気になる」地元住民も不安の声＿被害報告なし〈北海道〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a159984ea53d1d3184f6a06938961e86b48b596b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0db13df9c5fe0cd8801b24bcd9bab9fe71f08a01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-16717406-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 日本製鉄、難航したUSスチール買収を完了　トランプ米大統領と協定
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8029089d820df5285e9817aa0f139cd7a8122af76fa0fe7f1c843b2813b3bf25.jpg> 梅雨前線が復活予想 蒸し暑さ注意
+      <a href=https://news.yahoo.co.jp/pickup/6542762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/97b7ea6f95ef4356b234a9b8877f5d2fab144eb25c78f76f7935618310ce7b5c.jpg> オウム真理教対応記録 県庁で発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/48b5b8f00d8f5dacbd8b218c883bf2894954a1215b03b96ba50be879de0598e0.jpg> トランプ氏 プーチン氏の仲裁拒絶
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4171406a11e33250337f0a109fe2e35ab492936697fbbfd9a95ff7b13ef8ea37.jpg> 大山古墳の副葬品 ナイフなど発見
+      <a href=https://news.yahoo.co.jp/pickup/6542769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b12ff1f78a0f9d85b03bde2e1f213141b17fecb4aa857a2553af7f5839aaf6fb.jpg> イスラエルが脅す ハメネイ師とは
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542759>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/66187ccaf9b5324d8410f890ae70a0db6cf38c56dbad99f69aed57c8ac60532f.jpg> 4500年前のガラガラ 幼児用玩具か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8406bbecba6769fb04edcfdd0add443ef03d821b4bf2ce82e142d182845771c0.jpg> 西武選手ら賭博疑い 球団コメント
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 15:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 16:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
