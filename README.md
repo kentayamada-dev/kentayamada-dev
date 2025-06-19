@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31aed27cc3f19db05a02742a4058b4de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32c05b0c99017e7ea542ff83ec46cc9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e1236672864fcd871a2ceffbc11cc1c7815be41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000108-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 日本ハム・北山亘基、9回1死までノーヒットノーランも巨人・大城に被弾　6回までは完全投球、1安打完投
+      <a href=https://news.yahoo.co.jp/articles/e4cbc538d3e851c727e8d6b5d7ed5523960f60a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000406-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 巨人・大城卓三がノーノー阻止弾！9回1死から右翼スタンドに叩き込んで北山の偉業を打ち砕く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0730862c6e418f1113fea12a95729e2b0d3fa38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> フジテレビ・清水社長、被害女性に謝罪　誹謗中傷対策で合意書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66252c053806aa96fc98cbacdd855d47c3d6ec51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90027756-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 阿部寛、菜々緒との恋人役にニヤニヤ「すごくうれしかったですね」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d596da4e6f85a397bde176df7654bbfc91b38f30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000108-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 被害女性に謝罪し、補償で合意　清水社長が面会　フジテレビ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46848fbed91994ac86ed3a578ab9e72e0bcd6809>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-01775679-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平、故障再発の危険性　OBが指摘する”2つの課題”「修正しないと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99dad70d42700094db191fcd424240ceacffc9bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-06191183-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ社長が被害女性Ａさんに直接会って謝罪　補償合意書も締結…Ｎｅｗｓ　イット！報じる
       </a>
     </td>
   </tr>
@@ -418,6 +418,30 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/03e79c63ac37bff6199841ca20ee0e42a1bf710e1a77d0fca69ca855001593ce.jpg> フジ社長から謝罪 被害女性が声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/167f690e4010debbc0422dada0081823b802aea300e4f43bf6d54017a76597f2.jpg> ホンダ社長 日産協業は是々非々で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/65fa016d74b3970ee32303a6c4566bb2fcf8c29e1f74eced6e780b18241a7467.jpg> 群馬県議逮捕 会見中の知事驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542798>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
       </a>
@@ -426,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/65fa016d74b3970ee32303a6c4566bb2fcf8c29e1f74eced6e780b18241a7467.jpg> 県議逮捕 会見中に知った知事驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/df06a425413f0338cd73edc6f6f4cd7a09e3ea9661fd5f6c7a47513677d23089.jpg> チーズのよう「ミドル脂臭」注意
+      <a href=https://news.yahoo.co.jp/pickup/6542795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5a2b0fa6b237a6cfc9eb3d9791b2a23557fdaf1257ed2db36b8d353c9adac1f.jpg> 切実な声受け らくらくホン新機種
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/dbab82ba7d1cf97e70409788cfee872613b2820a2880e4e78b21d791b826a057.jpg> あと2人 日ハム北山ノーノー逃す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f0ad462653a19eda05530fa7ed059016f4dfc24c6b117e3f4cc9be21beeb6017.jpg> 春香クリスティーン 米国に移住へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 21:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
