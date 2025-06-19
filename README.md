@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9979033740dffa5b74d9ec4c85048dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/775b160ac1cf3d34dcbe61c7e989e6d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca23a1626841d3747a830893acf2c9d582c6e60f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243877-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領が「イラン攻撃を承認」 最終命令は保留　米紙報道　“核開発”放棄の意思を見極めるため
+      <a href=https://news.yahoo.co.jp/articles/d831692bc7afd4864f7821680eec56502c6d7cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 絶望的状況から買収完了 日本製鉄“逆転合意”の背景は 「ここからがスタート」の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33a39502dd83e5ba6a5d08b070f0081c4085d838>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00989384-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】日本製鉄「トランプ大統領の歴史的な大英断」USスチール買収完了で会見　買収額2兆円超は「大変効率的な案件」と説明　「アメリカ政府との合意は満足いくもの」
+      <a href=https://news.yahoo.co.jp/articles/a159984ea53d1d3184f6a06938961e86b48b596b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c50ea6f346a4d5c5bd520a32498cbf5b38b271f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=581&ch=581&exp=10800&fmt=webp> インプラントでうそ説明、詐欺容疑で歯科医師逮捕　被害1億円超か
+      <a href=https://news.yahoo.co.jp/articles/0db13df9c5fe0cd8801b24bcd9bab9fe71f08a01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-16717406-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 日本製鉄、難航したUSスチール買収を完了　トランプ米大統領と協定
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/1725e74a3c8e8f89b4d95544af7f24d85ed025391f5b35c7f9cc81b47267b49b.jpg> 米 学生ビザ取得の手続き再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6542749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d52f23b1b39bc7fef1bf29ebbeb09ebc617c2cdd57fdb595916f7ea9372f5983.jpg> USS買収巡り日本製鉄 英断に感謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542722>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沖縄戦後80年 遠のく「平和の島」
+      <a href=https://news.yahoo.co.jp/pickup/6542737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/1725e74a3c8e8f89b4d95544af7f24d85ed025391f5b35c7f9cc81b47267b49b.jpg> 米 学生ビザ取得の手続き再開へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4900cf06694adff0dc91203477885155d8f2fc69a1fd9c35ac0f0eb8f3c7fb07.jpg> 「高揚成分」の菓子食べ飛び降り
+      <a href=https://news.yahoo.co.jp/pickup/6542739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4f33377067e1763e986a790bf44ccafc49c250790916a0e883bc293dd76bfe28.jpg> トンボ模型の虫よけグッズ 注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4f33377067e1763e986a790bf44ccafc49c250790916a0e883bc293dd76bfe28.jpg> トンボ模型の虫よけグッズ 注目
+      <a href=https://news.yahoo.co.jp/pickup/6542748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/de9ee44482e510c4dfabacf2925694d1a4562a44f13497c3eb60d11e739a4a09.jpg> 友田オレ R-1優勝から仕事30倍に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 12:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 12:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
