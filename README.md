@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/998013377659c67ce3bf50577030f79d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0551c239ee95802733111156d4cd6cf1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c253dab18d722751aa5d0cb533385d4c8c80f9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90023039-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【地震】岩手県内で震度2 青森県東方沖を震源とする最大震度2の地震が発生 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/ddc5d5e5295e85dd1086c57d0dbae412e3cbb427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=426&ch=426&exp=10800&fmt=webp> USスチール買収完了で日鉄が会見　「経営の自由度と採算性は確保」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e603ae92e16f279a7ef51892585cc732aecb3914>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> USスチール買収承認、薄氷の決着　大統領令署名直前まで調整か
+      <a href=https://news.yahoo.co.jp/articles/b42419b3467989dc51d38bd3dd5a7d05c864fec8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010000-chibatelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】患者から現金詐取か　歯科医師の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4505dcad0b799821194e53f25f3f377b2012942>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000014-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米、学生ビザ申請者にSNS公開義務付け 反米思想がないか審査へ
+      <a href=https://news.yahoo.co.jp/articles/d80f1f664f655b162f2f6b1de034e790904a0c6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-02689152-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 【震度４】釧路町で地震　M6.1津波の心配なし　震源は根室半島南東沖…けが人の情報なし　北海道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/652d342bef3c5b7d344890551cc0e1ae3adc70e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000023-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イラン攻撃計画を条件付き承認か　トランプ氏「最終決定は直前に」
+      <a href=https://news.yahoo.co.jp/articles/12444408ee536a0fd596d5531d9dccd70b1c8c28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243870-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　対イラン攻撃「最終決定はしていない」と強調 「期限の直前に下すことが好きだ」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c400b4402800c46189e20191158058675283976be0683f72655ae2a6e9caeaa0.jpg> 邦人退避 中東に自衛隊機派遣指示
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542733>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3bdece82cd8942d21833019764b7d38ff7cdfbf25510b3d52f5f7248e05296e3.jpg> 住宅むしばむ「夏型結露」対策は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e92c3d5cc55080145df3b5a740f4832644c5d8f3b01f09d58958013b2cbb372b.jpg> アイスキャンデー なぜ関西で定着
+      <a href=https://news.yahoo.co.jp/pickup/6542739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4f33377067e1763e986a790bf44ccafc49c250790916a0e883bc293dd76bfe28.jpg> トンボ模型の虫よけグッズ 注目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 11:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 11:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
