@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9db4fa78b282a4300f12b90ae304c2b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8688142b6b230e60727b98e6fdf92fb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c41161c2c14eedf881ca7abbc7d3dd8faea52f14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】消えた梅雨前線が復活　蒸し暑い　日曜日は日本海側を中心に梅雨空戻る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ce5285a466775c698c574a45d1123e9b1ee63e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190426-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=695&ch=695&exp=10800&fmt=webp> 「今でもはっきり覚えています」沢口靖子　「澪つくし」でジェームス三木さんから贈られた言葉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6099b282914312a3f2e52f17992bfec76e72b94a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00989475-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 「まずロシアのことを解決しよう」トランプ大統領がプーチン大統領からのイスラエルとイランの交戦仲介の申し出を断る
+      <a href=https://news.yahoo.co.jp/articles/6e2720f3704462e8f534f146a8988ea70535194f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190491-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=229&cw=816&ch=816&exp=10800&fmt=webp> 藤村志保さん肺炎のため死去　86歳　NHK大河「太閤記」ねね役「軍師官兵衛」ナレーション
       </a>
     </td>
   </tr>
@@ -389,8 +373,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a159984ea53d1d3184f6a06938961e86b48b596b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0db13df9c5fe0cd8801b24bcd9bab9fe71f08a01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-16717406-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 日本製鉄、難航したUSスチール買収を完了　トランプ米大統領と協定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0686b4eff371007a376588ac4bfee647f62ed9ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190300-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 元インディアンスの「ちょんまげラーメン」、個人名も改名？　川島明「れんげとなるとで」
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542750>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02254719/title-1750290954675.jpeg?exp=10800> 日本郵便で続く不祥事 問題点は
+      <a href=https://news.yahoo.co.jp/pickup/6542755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/48b5b8f00d8f5dacbd8b218c883bf2894954a1215b03b96ba50be879de0598e0.jpg> トランプ氏 プーチン氏の仲裁拒絶
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8029089d820df5285e9817aa0f139cd7a8122af76fa0fe7f1c843b2813b3bf25.jpg> 梅雨前線が復活予想 蒸し暑さ注意
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/81b4d21d607f89ce114ac2869a2faccee159739c132b07b21e97e56711e3f87a.jpg> 足に障害あるトラ「ココア」死ぬ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542751>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f1b63991149e81d99c56b93e7b259ab6930864cab275a588da1465e6f53dcebe.jpg> 芸人・卓也努力勝利さん死去 38歳
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 13:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 14:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
