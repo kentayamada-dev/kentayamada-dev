@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8047cfe276c939336df9492df1f1a46c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/31aed27cc3f19db05a02742a4058b4de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b244cf3ee6f178fec72e0bd1e62af9a595c3c987>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000072-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 群馬県議会議員らを新庁舎工事巡る入札妨害容疑で逮捕　埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/9e1236672864fcd871a2ceffbc11cc1c7815be41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000108-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 日本ハム・北山亘基、9回1死までノーヒットノーランも巨人・大城に被弾　6回までは完全投球、1安打完投
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a266aa9cc7b4b498c67dfdd164b020eb546bedc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民、参院選公約　「暮らしを豊かに」　30年度に年収100万円増
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d596da4e6f85a397bde176df7654bbfc91b38f30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 被害女性に謝罪し、補償で合意　清水社長が面会　フジテレビ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27f732f6b90174781b325accf2a4cf0099e0f970>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07627868-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏がイランに“最後通告”　駐日イラン大使「核開発続ける」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000108-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 被害女性に謝罪し、補償で合意　清水社長が面会　フジテレビ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f23d0ea46c0ef5ff1a421df57091a8c0b708c10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07244030-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民党が参院選公約を発表　国民一律2万円の給付 「2030年度に賃金100万円増」
+      <a href=https://news.yahoo.co.jp/articles/99dad70d42700094db191fcd424240ceacffc9bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-06191183-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ社長が被害女性Ａさんに直接会って謝罪　補償合意書も締結…Ｎｅｗｓ　イット！報じる
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/946d8ab6c2b480cd73f76b225ad89dfb08139055da4d67d6823c32f41b1881aa.jpg> まだ野ざらしの遺骨 沖縄戦の今
+      <a href=https://news.yahoo.co.jp/pickup/6542802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/2837e2c69914fa7853e01d0bd4e57740c58de8bba003c541a1ad88240596f4b2.jpg> 衝突激化 イランの邦人ら70人退避
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/63b9948ec20dc80f91aabd10c5d5c385c0cb3ab7bbea960cce5cd519fb95fe2a.jpg> 中学の事務職員 2200万円超を着服
+      <a href=https://news.yahoo.co.jp/pickup/6542798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
+      <a href=https://news.yahoo.co.jp/pickup/6542810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/65fa016d74b3970ee32303a6c4566bb2fcf8c29e1f74eced6e780b18241a7467.jpg> 県議逮捕 会見中に知った知事驚き
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b293910b9c425ef438909ddbda4df2392a7fb45517119b29349e38fe8628ffa7.jpg> 速報 日ハム北山がノーノー継続
+      <a href=https://news.yahoo.co.jp/pickup/6542813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/dbab82ba7d1cf97e70409788cfee872613b2820a2880e4e78b21d791b826a057.jpg> あと2人 日ハム北山ノーノー逃す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 20:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
