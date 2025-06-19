@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c618179010950206963e04d36890c702.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/944e7ce4eba295e114ede509e33b55ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2502ed1e59145ba78124f35f751c549b5f52bb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06191294-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=887&ch=887&exp=10800&fmt=webp> 佐々木尽、失神ＫＯで緊急搬送　中屋会長「ここ１か月半の記憶が飛んでいる」２０日検査へ
+      <a href=https://news.yahoo.co.jp/articles/fcb409a1f75792233055336317409c390f3341b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06191275-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 山中慎介氏「世界との差を痛感」アジア最強の佐々木尽でも…　ライト級からミドル級は分厚い壁が立ちはだかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ec76e62e1a3b35e2b866ac58f2bd4e9ff2979a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 日本ハムは「次から次へいいピッチャー出てくるな」26歳右腕が9回1死までノーノ―投球が話題　圧巻の1.15「いつでも海を渡れる」
+      <a href=https://news.yahoo.co.jp/articles/38e1a434377e05b434d0b1c9a58610947fe66e8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000069-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 日本ハム・北山　ノーノーあと2人9回1失点完投　9回被弾に新庄監督も悔しい「いってほしかったね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e0f1bf6ebd330eb1b58201607b783c12f3afc59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-09616296-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、イラン核関連施設などへの攻撃を拡大　ネタニヤフ首相“政権崩壊の可能性”を警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06426c345ff3957286ae4bd48c8dba398a581b12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191126-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ社長が対面で謝罪　被害女性も書面でコメント「二度とこのような被害が起こらないように」
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 05:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 06:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
