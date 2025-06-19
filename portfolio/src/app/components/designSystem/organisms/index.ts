@@ -1,6 +1,6 @@
 export { Article } from './article';
 export { Calculator } from './calculator';
-export { ContactForm } from './contactForm';
+export { ContactFormWrapper } from './contactFormWrapper';
 export { Footer } from './footer';
 export { Header } from './header';
 export { HomeArticleList } from './homeArticleList';

@@ -1,3 +1,5 @@
+'use cache';
+
 import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import { ThemeProvider } from 'next-themes';
@@ -12,7 +14,8 @@ import 'katex/dist/katex.min.css';
 import 'scroll-hint/css/scroll-hint.css';
 import '../globals.css';
 
-const generateStaticParams: LayoutGenerateStaticParamsType = () => {
+// eslint-disable-next-line @typescript-eslint/require-await
+const generateStaticParams: LayoutGenerateStaticParamsType = async () => {
   return arrayOfLocales.map((locale) => {
     return { locale, slug: [] };
   });

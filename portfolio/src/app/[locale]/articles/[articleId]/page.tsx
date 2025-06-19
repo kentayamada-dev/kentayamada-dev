@@ -1,3 +1,5 @@
+'use cache';
+
 import { notFound } from 'next/navigation';
 import { ArticleList } from '@/components/designSystem/molecules';
 import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';
@@ -35,7 +37,7 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
     'article',
     articlePath,
     locale,
-    article.description,
+    article.subtitle,
     article.title,
     `${articlePath}${OPENGRAPH_IMAGE_PATH}`,
     new Date(article.sys.publishedAt),
@@ -64,9 +66,9 @@ const Page: ArticlePageType = async (props) => {
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),
-        description: article.description,
         href: `${articlesHref}/${articleData.slug}`,
         likeCount,
+        subtitle: article.subtitle,
         title: articleData.title,
         topics: articleData.topics,
         viewCount

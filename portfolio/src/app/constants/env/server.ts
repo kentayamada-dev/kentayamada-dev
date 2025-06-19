@@ -9,8 +9,11 @@ export const envServer = createEnv({
     CONTENTFUL_ACCESS_TOKEN: z.string(),
     CONTENTFUL_SPACE_ID: z.string(),
     GITHUB_ACCESS_TOKEN: z.string(),
+    GOOGLE_CLIENT_EMAIL: z.string(),
+    GOOGLE_PRIVATE_KEY: z.string(),
     RECAPTCHA_SECRETKEY: z.string(),
     REDIS_URL: z.string(),
+    RESEND_API_KEY: z.string(),
     SITE_URL: z.string()
   }
 });

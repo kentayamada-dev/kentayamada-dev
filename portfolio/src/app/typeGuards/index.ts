@@ -1,2 +1,2 @@
-export { isString } from './isString';
+export { isDefined } from './isDefined';
 export { isValueInArray } from './isValueInArray';

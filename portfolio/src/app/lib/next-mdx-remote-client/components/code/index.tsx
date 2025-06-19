@@ -1,4 +1,5 @@
 import { codeToHtml } from 'shiki';
+import { isDefined } from '@/typeGuards';
 import { CodeBlock } from './codeBlock';
 import type { CodeType } from './types';
 
@@ -7,8 +8,7 @@ const Code: CodeType = async (props) => {
   const { children, className, copyCodeLabel, 'data-language': lang, 'data-title': title, ...rest } = props;
   const hasDataLanguage = Boolean(lang);
 
-  // eslint-disable-next-line no-undefined
-  if (hasDataLanguage && lang !== undefined && title !== undefined) {
+  if (hasDataLanguage && isDefined(lang) && isDefined(title)) {
     const html = await codeToHtml(children.slice(0, -1), {
       lang,
       themes: {

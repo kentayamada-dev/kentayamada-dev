@@ -4,8 +4,8 @@ import type { ComponentType } from '@/types/components';
 type HomeArticleListProps = {
   articles: {
     createdAt: Date;
-    description: string;
     href: string;
+    subtitle: string;
     title: string;
   }[];
   locale: LocaleKeyType;

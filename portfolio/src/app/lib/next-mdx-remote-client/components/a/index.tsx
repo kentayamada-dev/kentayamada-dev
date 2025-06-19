@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { YoutubeEmbed } from '@/components/designSystem/atoms';
+import { isDefined } from '@/typeGuards';
 import { throwColoredError } from '@/utils';
 import type { AType } from './types';
 
@@ -11,14 +12,13 @@ const isYouTubeUrl = (url: string): boolean => {
 
 const getYouTubeVideoId = (url: string): string => {
   // prettier-ignore
-  const match = (/(?:youtube\.com\/.*v=|youtu\.be\/)(?<temp1>[a-zA-Z0-9_-]{11})/u).exec(url);
+  const videoId = (/(?:youtube\.com\/.*v=|youtu\.be\/)(?<temp1>[a-zA-Z0-9_-]{11})/u).exec(url)?.[1];
 
-  // eslint-disable-next-line no-undefined
-  if (match?.[1] === undefined) {
-    return throwColoredError('Unable to get YouTube video id', 'red');
+  if (isDefined(videoId)) {
+    return videoId;
   }
 
-  return match[1];
+  return throwColoredError('Unable to get YouTube video id', 'red');
 };
 
 // eslint-disable-next-line id-length
@@ -34,14 +34,11 @@ const A: AType = (props) => {
   if (isYouTubeUrl(rest.href)) {
     const videoId = getYouTubeVideoId(rest.href);
 
-    // eslint-disable-next-line no-undefined
-    if (rest.title === undefined) {
-      return throwColoredError('YouTube video title is missing', 'red');
-    }
-
-    if (videoId) {
+    if (isDefined(rest.title)) {
       return <YoutubeEmbed title={rest.title} videoId={videoId} />;
     }
+
+    return throwColoredError('YouTube video title is missing', 'red');
   }
 
   if (rest.href.includes('#user-content-fnref-')) {

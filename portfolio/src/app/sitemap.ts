@@ -2,7 +2,7 @@ import { envServer } from '@/constants/env';
 import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getSitemap } from '@/lib/graphql-request';
-import { isString } from '@/typeGuards';
+import { isDefined } from '@/typeGuards';
 import storybook from '../../public/storybook/index.json';
 import type { MetadataRoute } from 'next';
 
@@ -12,7 +12,7 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
 
   const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
     return {
-      lastModified: isString(publishedAt) ? publishedAt : today,
+      lastModified: isDefined(publishedAt) ? publishedAt : today,
       url
     };
   };

@@ -21,8 +21,7 @@ const Span: SpanType = (props) => {
   return (
     <span
       className={className === 'katex-display' ? `${className} !m-0 overflow-auto py-7` : className}
-      // eslint-disable-next-line no-undefined
-      ref={className === 'katex-display' ? spanRef : undefined}
+      ref={className === 'katex-display' ? spanRef : null}
       {...rest}
     />
   );

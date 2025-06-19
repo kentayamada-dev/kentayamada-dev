@@ -7,36 +7,36 @@ const meta = {
     articles: [
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        description: 'Description',
         href: '#',
         likeCount: 20,
+        subtitle: 'Subtitle',
         title: 'Title',
         topics: ['React', 'JavaScript', 'TypeScript'],
         viewCount: 10
       },
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        description: 'Description',
         href: '#',
         likeCount: 20,
+        subtitle: 'Subtitle',
         title: 'Title',
         topics: ['React', 'JavaScript', 'TypeScript'],
         viewCount: 10
       },
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        description: 'Description',
         href: '#',
         likeCount: 20,
+        subtitle: 'Subtitle',
         title: 'Title',
         topics: ['React', 'JavaScript', 'TypeScript'],
         viewCount: 10
       },
       {
         createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        description: 'Description',
         href: '#',
         likeCount: 20,
+        subtitle: 'Subtitle',
         title: 'Title',
         topics: ['React', 'JavaScript', 'TypeScript'],
         viewCount: 10

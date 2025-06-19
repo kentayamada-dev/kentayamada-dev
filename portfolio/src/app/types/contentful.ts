@@ -1,14 +1,4 @@
 type UtilityType = {
-  content: string;
-  coverImage: {
-    title: string;
-    url: string;
-  };
-  subtitle: string;
-  sys: {
-    firstPublishedAt: string;
-    publishedAt: string;
-  };
   title: string;
 };
 
@@ -28,7 +18,7 @@ type ArticleType = {
     title: string;
     url: string;
   };
-  description: string;
+  subtitle: string;
   sys: {
     firstPublishedAt: string;
     publishedAt: string;
@@ -61,21 +51,16 @@ type FaqsType = {
 }[];
 
 type ArticlesType = {
-  description: string;
   slug: string;
+  subtitle: string;
   sys: { firstPublishedAt: string; publishedAt: string };
   title: string;
   topics: string[];
 }[];
 
 type UtilitiesType = {
-  coverImage: {
-    title: string;
-    url: string;
-  };
   slug: string;
   subtitle: string;
-  sys: { publishedAt: string };
   title: string;
 }[];
 

@@ -1,6 +1,6 @@
 import { createEnv } from '@t3-oss/env-nextjs';
 import { z } from 'zod';
-import { isString } from '@/typeGuards';
+import { isDefined } from '@/typeGuards';
 
 export const envClient = createEnv({
   client: {
@@ -8,7 +8,7 @@ export const envClient = createEnv({
       .string()
       .optional()
       .transform((val) => {
-        if (isString(val) && val === 'production') {
+        if (isDefined(val) && val === 'production') {
           return true;
         }
 

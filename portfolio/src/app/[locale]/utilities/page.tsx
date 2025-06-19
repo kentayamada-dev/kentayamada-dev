@@ -1,3 +1,5 @@
+'use cache';
+
 import { UtilitiesList } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';

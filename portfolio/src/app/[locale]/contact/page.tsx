@@ -1,5 +1,7 @@
+'use cache';
+
 import { notFound } from 'next/navigation';
-import { ContactForm } from '@/components/designSystem/organisms';
+import { ContactFormWrapper } from '@/components/designSystem/organisms';
 import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getContact, getMetadata } from '@/lib/graphql-request';
@@ -43,7 +45,7 @@ const Page: PageType = async (props) => {
           <p className='text-secondary mt-5 text-base/7 sm:mt-10 sm:text-lg/8'>{contact.subtitle}</p>
         </div>
         <div className='mt-16 md:mt-0'>
-          <ContactForm locale={locale} />
+          <ContactFormWrapper locale={locale} />
         </div>
       </div>
     </main>

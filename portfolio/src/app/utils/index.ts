@@ -5,8 +5,6 @@ export { getEntries } from './getEntries';
 export { getKeysFromObject } from './getKeysFromObject';
 export { getPeriod } from './getPeriod';
 export { getRedisKey } from './getRedisKey';
-export { getSlugFromUrl } from './getSlugFromUrl';
-export { getTypedKey } from './getTypedKey';
 export { isPathStartingWith } from './isPathStartingWith';
 export { isSameDate } from './isSameDate';
 export { mapObjectByKeyValue } from './mapObjectByKeyValue';

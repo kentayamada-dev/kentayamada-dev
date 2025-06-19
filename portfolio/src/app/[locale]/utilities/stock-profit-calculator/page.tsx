@@ -1,52 +1,53 @@
+'use cache';
+
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react';
-import { headers } from 'next/headers';
 import { notFound } from 'next/navigation';
 import { Calculator, LikeButtonWrapper } from '@/components/designSystem/organisms';
 import { MinusIcon, PlusIcon } from '@/components/icons';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
-import { REQUEST_URL_HEADER, navigationItems } from '@/constants/navigation';
-import { getFaqs, getUtilityBySlug } from '@/lib/graphql-request';
+import { navigationItems } from '@/constants/navigation';
+import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
-import { getRedisKey, getSlugFromUrl, throwColoredError } from '@/utils';
+import { getRedisKey, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
+
+const stockProfitCalculatorId = contentfulType.metadata.stockProfitCalculator;
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const utilityId = getSlugFromUrl(new URL((await headers()).get(REQUEST_URL_HEADER) ?? ''));
-  const utility = await getUtilityBySlug(locale, utilityId);
+  const metadata = await getMetadata(locale, stockProfitCalculatorId);
 
-  if (utility === null) {
-    return throwColoredError(`utility <${utilityId}> is empty`, 'red');
+  if (metadata === null) {
+    return throwColoredError(`metadata <${stockProfitCalculatorId}> is empty`, 'red');
   }
 
   return getMetadataObject(
     'website',
-    `${navigationItems(locale).articles.href}/${utilityId}`,
+    `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`,
     locale,
-    utility.subtitle,
-    utility.title,
-    utility.coverImage.url,
-    new Date(utility.sys.publishedAt),
-    new Date(utility.sys.firstPublishedAt)
+    metadata.description,
+    metadata.title,
+    metadata.coverImage.url,
+    new Date(metadata.sys.publishedAt),
+    new Date(metadata.sys.firstPublishedAt)
   );
 };
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const utilityId = getSlugFromUrl(new URL((await headers()).get(REQUEST_URL_HEADER) ?? ''));
-  const utility = await getUtilityBySlug(locale, utilityId);
+  const utility = await getUtilityBySlug(locale, stockProfitCalculatorId);
 
   if (utility === null) {
     return notFound();
   }
 
   const faqLabel = dictionaries[locale].faq;
-  const utilityViewKey = getRedisKey('utility', 'view', utilityId);
-  const utilityLikeKey = getRedisKey('utility', 'like', utilityId);
+  const utilityViewKey = getRedisKey('utility', 'view', stockProfitCalculatorId);
+  const utilityLikeKey = getRedisKey('utility', 'like', stockProfitCalculatorId);
   const utilityLikeCount = await getCount(utilityLikeKey);
 
   const faqs = await Promise.all(

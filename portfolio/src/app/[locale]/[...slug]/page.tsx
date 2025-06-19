@@ -1,3 +1,5 @@
+'use cache';
+
 import { notFound } from 'next/navigation';
 import { contentfulType } from '@/constants/contentful';
 import { getMetadata } from '@/lib/graphql-request';
@@ -16,7 +18,8 @@ const generateMetadata: GenerateMetadataType = async (props) => {
   return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
 };
 
-const CatchAllPage = (): VoidFunction => {
+// eslint-disable-next-line @typescript-eslint/require-await
+const CatchAllPage = async (): Promise<void> => {
   notFound();
 };
 

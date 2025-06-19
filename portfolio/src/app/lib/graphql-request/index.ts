@@ -160,7 +160,7 @@ const getArticles: GetArticlesType = async (locale) => {
         items {
           title
           slug
-          description
+          subtitle
           topics
           sys {
             publishedAt
@@ -214,13 +214,6 @@ const getUtilities: GetUtilitiesType = async (locale) => {
           title
           slug
           subtitle
-          sys {
-            publishedAt
-          }
-          coverImage {
-            url
-            title
-          }
         }
       }
     }
@@ -273,7 +266,7 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
         items {
           content
           title
-          description
+          subtitle
           topics
           sys {
             publishedAt
@@ -305,17 +298,7 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
     query Query($where: UtilityFilter, $locale: String) {
       utilityCollection(where: $where, locale: $locale) {
         items {
-          content
           title
-          subtitle
-          coverImage {
-            url
-            title
-          }
-          sys {
-            publishedAt
-            firstPublishedAt
-          }
         }
       }
     }

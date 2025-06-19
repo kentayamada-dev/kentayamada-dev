@@ -2,7 +2,7 @@
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
 import Form from 'next/form';
-import { useActionState, useMemo, useRef, useState } from 'react';
+import { useMemo } from 'react';
 // @ts-expect-error type not found
 // eslint-disable-next-line import/no-named-as-default
 import ReCAPTCHA from 'react-google-recaptcha';
@@ -13,20 +13,14 @@ import { envClient } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
 import { getEntries } from '@/utils';
-import { createPost, verifyRecaptcha } from './actions';
-import { contactSchema } from './schema';
 import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types';
-import type { ContactFormSchemaType, ContactFormStateType, ContactFormType } from './types';
+import type { ContactFormSchemaType, ContactFormType } from './types';
 
 const ContactForm: ContactFormType = (props) => {
   const {
     form,
     labels: { selectCountryCodeLabel }
   } = dictionaries[props.locale];
-
-  const recaptchaRef = useRef(null);
-  const recaptchaToken = useRef('');
-  const [isRcError, setIsRcError] = useState(false);
 
   const { control, register, watch } = useForm<ContactFormSchemaType>({
     defaultValues: {
@@ -38,39 +32,6 @@ const ContactForm: ContactFormType = (props) => {
       phoneNumber: ''
     }
   });
-
-  const actionWithRecaptcha = async (prevState: ContactFormStateType, formData: FormData): Promise<ContactFormStateType> => {
-    const rawData = Object.fromEntries(formData);
-    const parsed = contactSchema.safeParse(rawData);
-
-    if (!parsed.success) {
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-      return { data: rawData as ContactFormSchemaType, errors: parsed.error.formErrors };
-    }
-
-    const isHuman = await verifyRecaptcha(recaptchaToken.current);
-
-    if (!isHuman) {
-      setIsRcError(true);
-
-      return {
-        // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-        data: Object.fromEntries(formData) as ContactFormSchemaType
-      };
-    }
-
-    const result = await createPost(prevState, formData);
-
-    // @ts-expect-error type missing
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-call
-    recaptchaRef.current.reset();
-
-    setIsRcError(false);
-
-    return result;
-  };
-
-  const [state, action, isPending] = useActionState(actionWithRecaptcha, {});
 
   const countriesData = useMemo<Record<IntlTelKeyType, IntlTelEntryType>>(() => {
     return getEntries(intlTelList)
@@ -96,16 +57,12 @@ const ContactForm: ContactFormType = (props) => {
       );
   }, [props.locale]);
 
-  const handleRc = (value: string): void => {
-    recaptchaToken.current = value;
-  };
-
   return (
-    <Form action={action} className='flex flex-col space-y-6'>
+    <Form action={props.action} className='flex flex-col space-y-6'>
       <div className='grid grid-cols-2 gap-4'>
         <Input
           autoComplete='given-name'
-          defaultValue={state.data?.firstName}
+          defaultValue={props.state.data?.firstName}
           label={form.firstName}
           placeholder={form.placeHolder.firstName}
           required
@@ -114,7 +71,7 @@ const ContactForm: ContactFormType = (props) => {
         />
         <Input
           autoComplete='family-name'
-          defaultValue={state.data?.lastName}
+          defaultValue={props.state.data?.lastName}
           label={form.lastName}
           placeholder={form.placeHolder.lastName}
           required
@@ -124,7 +81,7 @@ const ContactForm: ContactFormType = (props) => {
       </div>
       <Input
         autoComplete='email'
-        defaultValue={state.data?.email}
+        defaultValue={props.state.data?.email}
         label={form.email}
         placeholder='name@example.com'
         required
@@ -136,12 +93,12 @@ const ContactForm: ContactFormType = (props) => {
           {form.phoneNumber}
         </label>
         <div
-          className={`${state.errors?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex overflow-hidden rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}
+          className={`${props.state.errors?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex overflow-hidden rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}
         >
           <div>
             <Controller
               control={control}
-              defaultValue={state.data?.countryCode ?? defaultIntlTelCode}
+              defaultValue={props.state.data?.countryCode ?? defaultIntlTelCode}
               name='countryCode'
               // eslint-disable-next-line no-restricted-syntax
               render={({ field: { ref, value, ...rest } }) => {
@@ -149,7 +106,7 @@ const ContactForm: ContactFormType = (props) => {
                   <Listbox as='div' className='h-full w-full' value={value} {...rest}>
                     <ListboxButton
                       aria-label={selectCountryCodeLabel}
-                      className={`${state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex h-full w-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
+                      className={`${props.state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex h-full w-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
                       ref={ref}
                       title={selectCountryCodeLabel}
                     >
@@ -189,7 +146,7 @@ const ContactForm: ContactFormType = (props) => {
           <input
             autoComplete='tel'
             className='placeholder-primary bg-primary grow p-2.5 text-base text-black focus:outline-hidden dark:text-white'
-            defaultValue={state.data?.phoneNumber}
+            defaultValue={props.state.data?.phoneNumber}
             id='phoneNumber'
             placeholder={countriesData[watch('countryCode')].format}
             required
@@ -197,26 +154,26 @@ const ContactForm: ContactFormType = (props) => {
             {...register('phoneNumber')}
           />
         </div>
-        {state.errors?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{form.phoneNumberError}</p> : null}
+        {props.state.errors?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{form.phoneNumberError}</p> : null}
       </div>
       <TextArea
         autoComplete='on'
-        defaultValue={state.data?.message}
+        defaultValue={props.state.data?.message}
         label={form.message}
         placeholder={form.placeHolder.message}
         required
         rows={4}
         {...register('message')}
       />
-      <ReCAPTCHA hl={props.locale} onChange={handleRc} ref={recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
+      <ReCAPTCHA hl={props.locale} onChange={props.handleRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
       <button
         className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
-        disabled={isPending}
+        disabled={props.isPending}
         type='submit'
       >
         {form.submit}
       </button>
-      {isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
+      {props.isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </Form>
   );
 };

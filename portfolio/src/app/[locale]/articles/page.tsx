@@ -1,3 +1,5 @@
+'use cache';
+
 import { ArticleList } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
@@ -40,9 +42,9 @@ const Page: PageType = async (props) => {
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),
-        description: article.description,
         href: `${articlesHref}/${article.slug}`,
         likeCount,
+        subtitle: article.subtitle,
         title: article.title,
         topics: article.topics,
         viewCount

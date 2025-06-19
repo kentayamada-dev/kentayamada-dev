@@ -4,9 +4,9 @@ import type { ComponentType } from '@/types/components';
 type ArticleListProps = {
   articles: {
     createdAt: Date;
-    description: string;
     href: string;
     likeCount: number;
+    subtitle: string;
     title: string;
     topics: string[];
     viewCount: number;

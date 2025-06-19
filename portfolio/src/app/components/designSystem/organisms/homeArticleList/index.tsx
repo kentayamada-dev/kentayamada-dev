@@ -42,7 +42,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
                       </time>
                     </div>
                     <h2 className='text-lg font-semibold tracking-tight text-zinc-800 dark:text-zinc-100'>{article.title}</h2>
-                    <p className='text-secondary line-clamp-[7] text-sm'>{article.description}</p>
+                    <p className='text-secondary line-clamp-[7] text-sm'>{article.subtitle}</p>
                     <div className='flex items-center'>
                       <span className='text-sm font-semibold text-blue-500'>{props.readArticle}</span>
                       <div className='size-1 rotate-45 border-t-2 border-r-2 border-blue-500 p-1' />

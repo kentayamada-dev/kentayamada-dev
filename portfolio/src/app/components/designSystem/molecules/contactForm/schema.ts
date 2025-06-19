@@ -4,13 +4,6 @@ import { isValidPhoneNumber } from '@/lib/libphonenumber';
 import { getKeysFromObject } from '@/utils';
 import type { IntlTelKeyType } from '@/constants/intlTel/types';
 
-const siteVerifySchema = z.object({
-  // eslint-disable-next-line camelcase
-  challenge_ts: z.string(),
-  hostname: z.string(),
-  success: z.boolean()
-});
-
 const contactSchema = z
   .object({
     // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
@@ -42,4 +35,4 @@ const contactSchema = z
     };
   });
 
-export { contactSchema, siteVerifySchema };
+export { contactSchema };

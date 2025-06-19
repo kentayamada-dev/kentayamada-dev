@@ -1,3 +1,5 @@
+'use cache';
+
 import { notFound } from 'next/navigation';
 import { CustomImage } from '@/components/designSystem/atoms';
 import { HomeArticleList, HomeIntro, WhackMole } from '@/components/designSystem/organisms';
@@ -43,8 +45,8 @@ const Page: PageType = async (props) => {
   const articles = (await getArticles(locale)).map((article) => {
     return {
       createdAt: new Date(article.sys.firstPublishedAt),
-      description: article.description,
       href: `${articlesHref}/${article.slug}`,
+      subtitle: article.subtitle,
       title: article.title
     };
   });

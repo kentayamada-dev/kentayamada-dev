@@ -1,4 +1,6 @@
 export { ArticleList } from './articleList';
+export { ContactForm } from './contactForm';
+export type { ContactFormSchemaType, ContactFormStateType } from './contactForm/types';
 export { LikeButton } from './likeButton';
 export type { LikeButtonProps } from './likeButton/types';
 export { ProjectsList } from './projectsList';
@@ -7,5 +9,6 @@ export { Switcher } from './switcher';
 export type { SwitcherProps } from './switcher/types';
 export { UtilitiesList } from './utilitiesList';
 export type { UtilitiesListType } from './utilitiesList/types';
+export { contactSchema } from './contactForm/schema';
 export { default as projectsListStory } from './projectsList/index.stories';
 export { default as utilitiesListStory } from './utilitiesList/index.stories';

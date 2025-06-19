@@ -9,4 +9,4 @@ type ThemeOptionKeyType = 'dark' | 'light' | 'system';
 
 type ThemeOptionsType = Record<ThemeOptionKeyType, ThemeOptionType>;
 
-export type { ThemeOptionKeyType, ThemeOptionsType };
+export type { ThemeOptionKeyType, ThemeOptionType, ThemeOptionsType };
