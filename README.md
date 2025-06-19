@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/944e7ce4eba295e114ede509e33b55ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d62e701efa431d24a0004115dc7e839c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a832cb59b058816a76a5ad36bf53a5b457d7c4db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000011-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イラン指導部の崩壊、「目標ではないが起こり得る」＝イスラエル首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a0d4ba9a3da4b71e8cae7966ed947e99f123fe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10560732-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 日本ハム・北山亘基、快挙まであと2人も痛恨の被弾…岩本勉氏「ノーノー出来ずで、ちょっと湿っぽくなりがちですけど…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d6eb74bcd56b697425ff73ce0027774c85d99a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01775793-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の登板後「動揺が見て取れた」　復帰戦を絶賛も…殿堂入り投手が“気になった一幕”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fcb409a1f75792233055336317409c390f3341b8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06191275-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 山中慎介氏「世界との差を痛感」アジア最強の佐々木尽でも…　ライト級からミドル級は分厚い壁が立ちはだかる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38e1a434377e05b434d0b1c9a58610947fe66e8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000069-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 日本ハム・北山　ノーノーあと2人9回1失点完投　9回被弾に新庄監督も悔しい「いってほしかったね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e0f1bf6ebd330eb1b58201607b783c12f3afc59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-09616296-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、イラン核関連施設などへの攻撃を拡大　ネタニヤフ首相“政権崩壊の可能性”を警告
       </a>
     </td>
   </tr>
@@ -418,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/03e79c63ac37bff6199841ca20ee0e42a1bf710e1a77d0fca69ca855001593ce.jpg> フジ社長から謝罪 被害女性が声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542822>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f6b762e0e7a39ba1b2003dec98002a7f7997645995e8e97491797f930d278c16.jpg> クック諸島が中国接近 NZ不快感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
       </a>
     </td>
   </tr>
@@ -456,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a1c4875def3b834a762590ca3ba39fb9377967028369852fe403d238afbb71ec.jpg> 失神KO負けの佐々木尽 記憶失う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1e3424d8f16a97e15dcd42d803212521e79c6c8b914ccf89e8594af38e36d882.jpg> 国分太一 TV各局に降板申し入れ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 06:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 06:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
