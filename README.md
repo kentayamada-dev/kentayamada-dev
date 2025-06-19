@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65b23c1e7b7a67ea328d68439ae215e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6da4a68bd679906d14dd5052c2d102d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f6f656eb3f41cc19847bb02efcda107a10c9460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00030284-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 1か月予報　早くも猛暑到来へ　梅雨明けは7月上旬か　西・東日本で雨量少ない
+      <a href=https://news.yahoo.co.jp/articles/5695e53cd0dbff01ffcf3cb57b96dc126aa19ebf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000005-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 地震頻発の北海道 専門家「直接的関係はない」　一方“噂”広がり観光客減…　気象庁「科学的根拠ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7b8e031dfb26181cd42471a8179d8510238e117>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190694-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> ジェームス三木さんと藤村志保さんに感謝「NHKの放送支えていただいた」NHK大阪放送局長
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a00396198ddc7a039259a4377528b39ded765838>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=454&ch=454&exp=10800&fmt=webp> ジェームス三木さんの脚本作品は「壮大」「原点」　渡辺謙さんら追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/208046d382cb051cf136785dc24638af3283d5bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90051643-hokkaibunv-000-2-thumb.jpg?exp=10800&fmt=webp> 【太平洋側で先月から6回目】道東で『最大震度4』の地震＿「こわい」「しょっちゅう起きているから気になる」地元住民も不安の声＿被害報告なし〈北海道〉
+      <a href=https://news.yahoo.co.jp/articles/a3b71e55491ca4e67e9aaa9fd4f70f4647839f50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184340-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 「あなたの症例は珍しい」患者から現金200万円詐取か 歯科医師の男逮捕
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c570634cae109c84160f110029c9bc34e966f1356247cb8a9de52d678179f466.jpg> 首相 ガソリン価格の予防措置表明
+      <a href=https://news.yahoo.co.jp/pickup/6542772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4ca8cf81433345b4887baeb0f0939ed9d3325872b132da5be80cdd8e6afc6170.jpg> 石破内閣支持率27%に上昇 時事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d3099cf6954ead29983e530af9d2508a8bd2e9a190d439ac2d5eb5229d1c9223.jpg> 都議選「物価高対策」争点 各党は
+      <a href=https://news.yahoo.co.jp/pickup/6542770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e51e0f3929fe3f901b54193e4d1b4e9fb40e1d312a913e9dda310b56c2ca87da.jpg> 猛暑日が続出 危険な暑さ続く
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b12ff1f78a0f9d85b03bde2e1f213141b17fecb4aa857a2553af7f5839aaf6fb.jpg> イスラエルが脅す ハメネイ師とは
+      <a href=https://news.yahoo.co.jp/pickup/6542773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e62d9b5d85214ed329c680b5c829b9d447f906cab6c2a4c5076eb56a4c408466.jpg> 歯科医が詐取疑い 被害1億円超か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/66187ccaf9b5324d8410f890ae70a0db6cf38c56dbad99f69aed57c8ac60532f.jpg> 4500年前のガラガラ 幼児用玩具か
+      <a href=https://news.yahoo.co.jp/pickup/6542769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b12ff1f78a0f9d85b03bde2e1f213141b17fecb4aa857a2553af7f5839aaf6fb.jpg> イスラエルが脅す ハメネイ師とは
       </a>
     </td>
   </tr>
@@ -459,7 +459,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e6334074d5e4a907c7394da3fb33247686808fb9c1b2ca9fb3cdbf26f88ea7c1.jpg> 俳優・藤村志保さん死去 86歳
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c2c6f538fe7cb0d10ec353f199b189667336cfc8a8f6ac5a3a70f8273593be58.jpg> 俳優・藤村志保さん死去 86歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 16:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 16:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
