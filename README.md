@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d6446a1da93dbb3cd09ee663d053a2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8047cfe276c939336df9492df1f1a46c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7afdb0941b2b2c5612d026bfca759adeb4cc5804>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36191065-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 【NBA】八村塁と大谷翔平がチームメートに!?レイカーズ経営権がドジャースオーナーに売却
+      <a href=https://news.yahoo.co.jp/articles/b244cf3ee6f178fec72e0bd1e62af9a595c3c987>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000072-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 群馬県議会議員らを新庁舎工事巡る入札妨害容疑で逮捕　埼玉県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d596da4e6f85a397bde176df7654bbfc91b38f30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 被害女性に謝罪し、補償で合意　清水社長が面会　フジテレビ
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27f732f6b90174781b325accf2a4cf0099e0f970>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07627868-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏がイランに“最後通告”　駐日イラン大使「核開発続ける」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07627868-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏がイランに“最後通告”　駐日イラン大使「核開発続ける」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46848fbed91994ac86ed3a578ab9e72e0bcd6809>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-01775679-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平、故障再発の危険性　OBが指摘する”2つの課題”「修正しないと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f9886ec98b4305b743e7bd4ad884d2691c1c8ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000468-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ社長の謝罪受け、被害女性がコメント「新たな気持ちで生きていこうと」【全文掲載】
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/ccffd2cd740b485a7100fa6f40241957ff304cc4601c78dc65a793d36336e960.jpg> プーチン氏の「娘」日本語を披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542785>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/df06a425413f0338cd73edc6f6f4cd7a09e3ea9661fd5f6c7a47513677d23089.jpg> チーズのよう「ミドル脂臭」注意
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8f639ca18938b180e8cd148474801ebd9b6a3f865a4c22a3f293a5a85dd1dcea.jpg> レイカーズ売却へ 推定1.4兆円
+      <a href=https://news.yahoo.co.jp/pickup/6542807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8f639ca18938b180e8cd148474801ebd9b6a3f865a4c22a3f293a5a85dd1dcea.jpg> 八村塁が所属のレイカーズ 売却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b293910b9c425ef438909ddbda4df2392a7fb45517119b29349e38fe8628ffa7.jpg> 速報 日ハム北山がノーノー継続
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 20:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 20:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
