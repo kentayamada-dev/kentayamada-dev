@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3098d61bcdd6f9034ec7dee5f4686818.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/032e35b6d6e33239b070a3261abe7705.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88b9dac9521cfbea992ba28bf9fa76acf1294154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777418-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ノーノーならずも残した衝撃「メジャー行きそう」　発覚した“驚愕事実”に唖然「ドラ8ってマジ？」
+      <a href=https://news.yahoo.co.jp/articles/870fb9187d693fc232f71dbb37ed0c1812276750>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イラン攻撃「2週間以内に決定」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90fb445b61d54cb1af5fef451c29d5431f30d33b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏「イランを攻撃するかどうか２週間以内に決定…交渉の可能性は大いにある」
+      <a href=https://news.yahoo.co.jp/articles/8a2ecd6c99abde7eb5f4570df9cf92198f47104b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03981814-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「恩返ししたい気持ちはあった」ノーノー逃した北山亘基　新庄監督への思い
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/489fbc332c4938a5ae05fb69271ae6f6038f5a5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191183-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=229&cw=816&ch=816&exp=10800&fmt=webp> 【悼む】藤村志保さん、しれっとやってみせる格好良さ　テンポのいい語りや豊富な話題で常識人
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191183-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=229&cw=816&ch=816&exp=10800&fmt=webp> 【悼む】藤村志保さん、しれっとやってみせる格好良さ　テンポのいい語りや豊富な話題で常識人
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06426c345ff3957286ae4bd48c8dba398a581b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191126-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ社長が対面で謝罪　被害女性も書面でコメント「二度とこのような被害が起こらないように」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191126-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ社長が対面で謝罪　被害女性も書面でコメント「二度とこのような被害が起こらないように」
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d25c9201c7dd235a8ea3ff369592e6695257d5bdf907bc47d92ab6b50d56cdee.jpg> 野田氏 不信任可決の確信なかった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/de47103ba7398d101f026d69f28b2cb675840455b618fff9272c5bfe9441e015.jpg> 暑さピーク 近畿中心に猛暑日予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542838>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06ca1dae1d40d960a21dfb94fcd62ae11247f708d580b70c00e7c101fdb53a8e.jpg> 直ちに最低賃金1500円に 全労連
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542840>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ホンダ 1万2千台を再度リコール
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/2f517cc4c40bdff6d63825f1f1a77fd8b33d7b48b98a1cd10720ff47d40506cc.jpg> 看護師に刺した注射針 男児に接種
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 08:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 08:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
