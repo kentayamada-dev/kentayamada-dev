@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe212df598b049157e688703e64d016d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fec10e10e109da2d855ec59e3ef2a1c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/306c9d25c0b1653c8ccc115f17b689e36a47f4d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00349054-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】大城卓三がノーノー阻止のホームラン「ファームでいろんなアドバイスをいただいて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcd9db403894d561665abe758b229106a8e8e886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07938427-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民党・参院選の公約発表「強い経済・伸びる賃金」掲げる
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 03:00:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 03:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
