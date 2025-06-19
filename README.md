@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be41d25382e1e4f45ccab9c251a9aabd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f53d771fdf0200a8b07aae7dc9599849.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20db96009c7daf224c29bb80c216efe15fdd4737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00349046-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【日本ハム】北山亘基が無安打無得点の快挙逃し…新庄監督「オーマイゴッシュ！」
+      <a href=https://news.yahoo.co.jp/articles/cc502edee17c86c6e66cbb7269d6d815c7224b2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000436-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=815&ch=815&exp=10800&fmt=webp> 巨人・坂本勇人「1試合でも多く出られるように頑張ります」　最愛の母の命日に東京ドーム1000試合出場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/774b0cd7b7e82dc57dde9929d281b81df817f81b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000419-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 佐々木尽の“来い！来い！”挑発に王者は何を思った？ノーマン「スマートに戦おうと思っていたので…」
+      <a href=https://news.yahoo.co.jp/articles/b94ed5d4418f1c5eda4e791b859478d8e75ba1b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36191672-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1225&ch=1225&exp=10800&fmt=webp> 【ボクシング】王者ノーマン淡々と「彼は向かってきた。真のファイター」佐々木尽に敬意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96535164f6de9fa3899bbd9d5fbb330d264886da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000207-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=836&ch=836&exp=10800&fmt=webp> 2030年度に賃金100万円増　自民参院選公約　「違法外国人ゼロ」訴え保守層意識
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a266aa9cc7b4b498c67dfdd164b020eb546bedc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民、参院選公約　「暮らしを豊かに」　30年度に年収100万円増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/348d0385bd99a6606e587e7e2215f3c3dbe14b45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000115-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米国「参戦」待つイスラエル　イラン攻撃、国民も圧倒的支持
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000115-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米国「参戦」待つイスラエル　イラン攻撃、国民も圧倒的支持
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bb8d9e0ac611203dddb3acfc076d88c42a54348228ef64564a3fb94e7e58eb44.jpg> 相方死去 四天王・ジェットが追悼
+      <a href=https://news.yahoo.co.jp/pickup/6542815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/fd11c56b1e953514ff8bd1ff07bfd0833a70d2a9c45d2e2fde5adde99de549ee.jpg> 阿部寛 菜々緒の恋人役にニヤニヤ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8f639ca18938b180e8cd148474801ebd9b6a3f865a4c22a3f293a5a85dd1dcea.jpg> 八村塁が所属のレイカーズ 売却へ
+      <a href=https://news.yahoo.co.jp/pickup/6542817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bb8d9e0ac611203dddb3acfc076d88c42a54348228ef64564a3fb94e7e58eb44.jpg> 相方死去 四天王・ジェットが追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 22:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 22:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
