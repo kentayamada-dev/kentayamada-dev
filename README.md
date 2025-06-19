@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d62e701efa431d24a0004115dc7e839c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9be838850ba10a664673f8ad77f2a76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a832cb59b058816a76a5ad36bf53a5b457d7c4db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000011-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イラン指導部の崩壊、「目標ではないが起こり得る」＝イスラエル首相
+      <a href=https://news.yahoo.co.jp/articles/f74321d9d5e6312d803ed60f6244391ad5f15399>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00549634-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 村田諒太が指摘した日本ボクシング中重量級の課題　佐々木尽をKOした世界王者に見る「ヒント」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e897fabce16183bb9e7d3a299e5acc88d7a3f06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00050004-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イラン攻撃１週間、イスラエルが圧倒的軍事力で戦果…出口戦略示さず体制転覆も公言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/becd14b7f9ed798f2204cbf750173cd20cf2db39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244081-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 晴れて厳しい暑さ続く　西日本を中心に猛暑日の所も　週末は梅雨空戻る　北日本は大雨のおそれも
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a0d4ba9a3da4b71e8cae7966ed947e99f123fe2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10560732-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 日本ハム・北山亘基、快挙まであと2人も痛恨の被弾…岩本勉氏「ノーノー出来ずで、ちょっと湿っぽくなりがちですけど…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d6eb74bcd56b697425ff73ce0027774c85d99a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01775793-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の登板後「動揺が見て取れた」　復帰戦を絶賛も…殿堂入り投手が“気になった一幕”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcb409a1f75792233055336317409c390f3341b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06191275-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 山中慎介氏「世界との差を痛感」アジア最強の佐々木尽でも…　ライト級からミドル級は分厚い壁が立ちはだかる
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/9e42753c3155076fa777b1b0a644c55cb1e906777cc01e70c446a6e8311cb2e3.jpg> 参院比例投票先で国民が急落 時事
+      <a href=https://news.yahoo.co.jp/pickup/6542832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d25c9201c7dd235a8ea3ff369592e6695257d5bdf907bc47d92ab6b50d56cdee.jpg> 野田氏 不信任可決の確信なかった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/de47103ba7398d101f026d69f28b2cb675840455b618fff9272c5bfe9441e015.jpg> 暑さピーク 近畿中心に猛暑日予想
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e210e7f8eaa38a5418cc8790c585517009591d7e80b66801ea54162a3aa96f35.jpg> 麻生氏 ガソリン減税法案を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f6b762e0e7a39ba1b2003dec98002a7f7997645995e8e97491797f930d278c16.jpg> クック諸島が中国接近 NZ不快感
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 07:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
