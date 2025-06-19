@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0551c239ee95802733111156d4cd6cf1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9979033740dffa5b74d9ec4c85048dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddc5d5e5295e85dd1086c57d0dbae412e3cbb427>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=426&ch=426&exp=10800&fmt=webp> USスチール買収完了で日鉄が会見　「経営の自由度と採算性は確保」
+      <a href=https://news.yahoo.co.jp/articles/ca23a1626841d3747a830893acf2c9d582c6e60f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243877-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領が「イラン攻撃を承認」 最終命令は保留　米紙報道　“核開発”放棄の意思を見極めるため
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b42419b3467989dc51d38bd3dd5a7d05c864fec8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010000-chibatelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】患者から現金詐取か　歯科医師の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/33a39502dd83e5ba6a5d08b070f0081c4085d838>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00989384-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】日本製鉄「トランプ大統領の歴史的な大英断」USスチール買収完了で会見　買収額2兆円超は「大変効率的な案件」と説明　「アメリカ政府との合意は満足いくもの」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d80f1f664f655b162f2f6b1de034e790904a0c6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-02689152-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 【震度４】釧路町で地震　M6.1津波の心配なし　震源は根室半島南東沖…けが人の情報なし　北海道
+      <a href=https://news.yahoo.co.jp/articles/c50ea6f346a4d5c5bd520a32498cbf5b38b271f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=581&ch=581&exp=10800&fmt=webp> インプラントでうそ説明、詐欺容疑で歯科医師逮捕　被害1億円超か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12444408ee536a0fd596d5531d9dccd70b1c8c28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243870-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　対イラン攻撃「最終決定はしていない」と強調 「期限の直前に下すことが好きだ」
+      <a href=https://news.yahoo.co.jp/articles/6c4fc9d2e5a4a95532908d20fd963c822a8c6306>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21988315-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・根室市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/761984851e4eef6197748928dc29dfba6c05122c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190096-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1197&ch=1197&exp=10800&fmt=webp> 渡辺謙「懐かしく、思い出しました」　出世作「独眼竜政宗」ジェームス三木さん逸話を披露
+      <a href=https://news.yahoo.co.jp/articles/e4dd1e174afe201ed633d9fccac242a6d06aabd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000035-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=372&ch=372&exp=10800&fmt=webp> ジェームス三木さん死去　91歳、脚本家「独眼竜政宗」「澪つくし」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d9f104423876da678957c6fdf0d8fe71f24f6451260039a5dea9e616b220ec37.jpg> 危険な暑さ続く 熱中症の対策を
+      <a href=https://news.yahoo.co.jp/pickup/6542737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/1725e74a3c8e8f89b4d95544af7f24d85ed025391f5b35c7f9cc81b47267b49b.jpg> 米 学生ビザ取得の手続き再開へ
       </a>
     </td>
   </tr>
@@ -420,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542722>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沖縄戦後80年 遠のく「平和の島」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f5b20f1e2b7d6fed385a29859b35b70582d8f058882f9c6d42dc76cf29e40430.jpg> 西武選手ら5人書類送検 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/43045baae2bbbb89a0372cdb533df9acb82f32d7da83e7670f3aecb8fee1a39a.jpg> 歯科医の男逮捕 患者から詐取疑い
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c8890a0260fa0fbde1dc19d764d548379db4433997bcb287a2deebd1ebe285cb.jpg> 1年で12kg減量 市長のダイエット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/0b751e289b7901ac1941bc6562b8408be2683fdda2cbaa561f639b193e840b74.jpg> ジェームスさん死去 渡辺謙が追悼
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 11:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 12:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
