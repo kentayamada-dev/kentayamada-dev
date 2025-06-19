@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e445416d92550731a70f35e52a07397c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e52986637a4a5832dacd3e061cf7b56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/261930458b4fa09505178f28467fa51cfd99a3f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00098174-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が中５日で今季２度目の先発マウンドへ。期待増もLAメディアは慎重「本格的に復帰するのはまだ疑問が残る」
+      <a href=https://news.yahoo.co.jp/articles/ca9a4f106c062374ce67f1d07f7f3c99495f2efb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相、衆参同日選見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79900785dcaaa9c442a810b2cb12a6ed503ea55a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民、不信任案提出見送り　野田氏伝達、政治空白回避
+      <a href=https://news.yahoo.co.jp/articles/20c4bfe0eae8b6fef6fd06dfc3dd7b570a2dbca9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21990042-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 東京都で最大震度2の地震 震源は三宅島近海でマグニチュード4.7 津波の心配なし【地震情報】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/261930458b4fa09505178f28467fa51cfd99a3f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00098174-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が中５日で今季２度目の先発マウンドへ。球界の期待増もLAメディアは慎重「本格的に復帰するのはまだ疑問が残る」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7a72f01b90d0f71f67c912d11b02469ad337b21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21989696-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京都で最大震度2の地震　東京都・三宅村、御蔵島村、八丈町
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f8753a68a9f27b57062050dea5d4e130bb3af8eab3c41c293fab9450e3c73bc3.jpg> 自民の参院選公約 賃金増など明記
+      <a href=https://news.yahoo.co.jp/pickup/6542786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f8753a68a9f27b57062050dea5d4e130bb3af8eab3c41c293fab9450e3c73bc3.jpg> 自民が参院選公約発表 賃金増など
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/97b7ea6f95ef4356b234a9b8877f5d2fab144eb25c78f76f7935618310ce7b5c.jpg> オウム真理教対応記録 県庁で発見
+      <a href=https://news.yahoo.co.jp/pickup/6542782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d674aec0623240a054918b6327a00d7b319f961e63014b27cb97f6028221e21b.jpg> 免許返納望む息子 家族会議の様子
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d37da902b45460498933e9d92e671eb718d9b78646a0f013918e5e4f24c76c55.jpg> 武庫女の共学化 反対署名が3万超
+      <a href=https://news.yahoo.co.jp/pickup/6542784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d37da902b45460498933e9d92e671eb718d9b78646a0f013918e5e4f24c76c55.jpg> 混乱 武庫女の共学化中止求める声
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/df06a425413f0338cd73edc6f6f4cd7a09e3ea9661fd5f6c7a47513677d23089.jpg> 猛烈な暑さ「ミドル脂臭」対策は
+      <a href=https://news.yahoo.co.jp/pickup/6542785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/df06a425413f0338cd73edc6f6f4cd7a09e3ea9661fd5f6c7a47513677d23089.jpg> チーズのよう「ミドル脂臭」注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 17:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 18:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
