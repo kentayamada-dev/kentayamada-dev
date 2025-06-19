@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d543c42a4add330b65d09f73bc4ba69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67c89dc46c72f89f9c1f1c9e4d7c7cca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a56cd648a50d1f8787de7742512ca208a578a1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000001-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 北海道で最大震度4を観測するやや強い地震　北海道釧路町で震度4　いまのところ被害の情報なし　北海道内のJRは平常運行
+      <a href=https://news.yahoo.co.jp/articles/10717cbc5f4a9dcf74fdbac165a4e258719c17da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000051-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 北海道釧路町で震度4　震源は根室半島南東沖
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/761984851e4eef6197748928dc29dfba6c05122c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190096-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1197&ch=1197&exp=10800&fmt=webp> 渡辺謙「懐かしく、思い出しました」　出世作「独眼竜政宗」ジェームス三木さん逸話を披露
       </a>
     </td>
   </tr>
@@ -366,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddd7aba996ec42cc70ce4068493a4bbbcaa5c665>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 激昂！審判団に詰め寄り猛抗議・退場処分 大谷翔平への死球「意図的だと感じた」故意で「間違いない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010001-tvtokyos-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 激昂！審判団に詰め寄り猛抗議で退場処分 大谷翔平への死球「意図的だと感じた」故意で「間違いない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05d2ddd0520aeb959328ce9b1f3e8a6122404464>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000015-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イラン攻撃計画承認か　「最終決定はまだ」とトランプ氏　交渉余地も
+      <a href=https://news.yahoo.co.jp/articles/592fd8f5b123ca2d9727a2b9843855c1da93d9cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000011-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　条件付きでイラン攻撃承認　最終判断は保留に　米報道
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acee5221882ee680b251eb7c8eb50ae6f8abb093>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000248-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=1057&ch=1057&exp=10800&fmt=webp> マリナーズ傘下3Aタコマ・藤浪晋太郎、自由契約に　直近8戦無失点アピールも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e879b37e75d982ca723d896c898a4d98d742c1fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00813216-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 脚本家・ジェームス三木さんが91歳で死去　大河『独眼竜政宗』で年間39.7％、朝ドラ『澪つくし』で最高55.3％
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/55b4b473fa69ac07532e211e104b6c0e452d460b5cb70cd5bd463ce5af2faf5f.jpg> 米FRB 4会合連続で利下げ見送り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/39a1752aaa1966de9901d5c9d8168fee599cc155b424fc83be7c6fd096dd6583.jpg> トランプ氏 イランに「最後通告」
+      <a href=https://news.yahoo.co.jp/pickup/6542728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/68f2356600d08bcbcd435db0a158e4233e27276d62d6fba971852d5181c5c42f.jpg> トランプ氏 イラン攻撃計画承認か
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/18/7796a42b78193b1cf68b9cc074eec8ee0594f75e6f916d0a5f827654cf17da08.jpg> 住宅ローン破綻 シニアの「誤算」
+      <a href=https://news.yahoo.co.jp/pickup/6542730>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miwadaisuke/02253906/title-1750224812499.jpeg?exp=10800> コーヒーチェーンが茶専門店 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c8890a0260fa0fbde1dc19d764d548379db4433997bcb287a2deebd1ebe285cb.jpg> 1年で12kg減量 市長のダイエット
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 08:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 09:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
