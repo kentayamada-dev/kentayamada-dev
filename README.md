@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f341b30a1318958f532f374f2548e9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c86c04e08424f2ffc2d2b61e0c29b3a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c214fd45ef2c35d045dd3e0e5820376f9287fb38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244039-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビ清水社長 被害女性に面会して謝罪　中居正広氏との一連の問題を受け　誹謗中傷対策・補償などで合意 女性が被った経済的・精神的損害に対する補償を行うなど
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f5e85180ebd7f9920d9390eb749d26eb917b6e21>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0730862c6e418f1113fea12a95729e2b0d3fa38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> フジテレビ・清水社長、被害女性に謝罪　誹謗中傷対策で合意書
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bc4b55dd1af7f7374a36f7e1a8bd576c966e5470469664646bcfcb0f55b96d82.jpg> 「進次郎効果」を期待 自民切実
+      <a href=https://news.yahoo.co.jp/pickup/6542818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/22dafa760274bcc9fe85985b511d63650a871e1a12e4123daf3b259278d5ec3a.jpg> 米国の「参戦」待つイスラエル
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d3c6e496895119e97098d7925995afccb724a8b7d4d94095c329c636d376c12.jpg> 定員割れの私大6割 迫られる選択
+      <a href=https://news.yahoo.co.jp/pickup/6542811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/03e79c63ac37bff6199841ca20ee0e42a1bf710e1a77d0fca69ca855001593ce.jpg> フジ社長から謝罪 被害女性が声明
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/03e79c63ac37bff6199841ca20ee0e42a1bf710e1a77d0fca69ca855001593ce.jpg> フジ社長から謝罪 被害女性が声明
+      <a href=https://news.yahoo.co.jp/pickup/6542798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 23:51:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 00:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
