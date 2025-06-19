@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8688142b6b230e60727b98e6fdf92fb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/023c7ebf60a9098edaa6ec5e580dfc13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e2720f3704462e8f534f146a8988ea70535194f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190491-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=229&cw=816&ch=816&exp=10800&fmt=webp> 藤村志保さん肺炎のため死去　86歳　NHK大河「太閤記」ねね役「軍師官兵衛」ナレーション
+      <a href=https://news.yahoo.co.jp/articles/23f49c45e371006f17d598cc38e0d32a99e78d1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大谷翔平、今季３度目の２試合連続無安打…ドジャースは代打スミスのサヨナラ弾で５連勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ee3891556e60c17b22802aac1f006f9665b60db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05477799-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=640&ch=640&exp=10800&fmt=webp> 脚本家・ジェームス三木さん、肺炎のため91歳で死去　自宅静養中の13日に容体急変
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0686b4eff371007a376588ac4bfee647f62ed9ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190300-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 元インディアンスの「ちょんまげラーメン」、個人名も改名？　川島明「れんげとなるとで」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542752>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 内閣不信任案 焦点は野田氏の判断
+      <a href=https://news.yahoo.co.jp/pickup/6542753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d3099cf6954ead29983e530af9d2508a8bd2e9a190d439ac2d5eb5229d1c9223.jpg> 都議選「物価高対策」争点 各党は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/48b5b8f00d8f5dacbd8b218c883bf2894954a1215b03b96ba50be879de0598e0.jpg> トランプ氏 プーチン氏の仲裁拒絶
+      <a href=https://news.yahoo.co.jp/pickup/6542752>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 内閣不信任案 焦点は野田氏の判断
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/48b5b8f00d8f5dacbd8b218c883bf2894954a1215b03b96ba50be879de0598e0.jpg> トランプ氏 プーチン氏の仲裁拒絶
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542746>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f5b20f1e2b7d6fed385a29859b35b70582d8f058882f9c6d42dc76cf29e40430.jpg> 西武選手ら5人書類送検 賭博疑い
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/43045baae2bbbb89a0372cdb533df9acb82f32d7da83e7670f3aecb8fee1a39a.jpg> 歯科医の男逮捕 患者から詐取疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/90bcadc693d35a56000489f11096f6c652838d5430207d20f5cb2091f01b7f1e.jpg> ドジャース 劇的サヨナラで5連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/251952db00e64e2bfbba174bf321a588384bc6b850eee5372f3549548bdef725.jpg> 東京メトロ東西線 なぜ常に混雑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4f33377067e1763e986a790bf44ccafc49c250790916a0e883bc293dd76bfe28.jpg> トンボ模型の虫よけグッズ 注目
+      <a href=https://news.yahoo.co.jp/pickup/6542758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e6334074d5e4a907c7394da3fb33247686808fb9c1b2ca9fb3cdbf26f88ea7c1.jpg> 俳優・藤村志保さん死去 86歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 14:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 14:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
