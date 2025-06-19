@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc8fc323a568f147b801b2611ee9a296.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/998013377659c67ce3bf50577030f79d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4097175d6a67bfcb2802b0fad652cc6a9b07decc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=571&ch=571&exp=10800&fmt=webp> 日鉄、USスチールの買収完了　橋本会長「世界一復活に必要な戦略」
+      <a href=https://news.yahoo.co.jp/articles/3c253dab18d722751aa5d0cb533385d4c8c80f9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90023039-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【地震】岩手県内で震度2 青森県東方沖を震源とする最大震度2の地震が発生 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/251722d32942b121114ae623c84433efa9da897a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243865-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　イラン攻撃を承認　最終命令は保留　米紙報道　“核開発”放棄の意思を見極めるため
+      <a href=https://news.yahoo.co.jp/articles/e603ae92e16f279a7ef51892585cc732aecb3914>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> USスチール買収承認、薄氷の決着　大統領令署名直前まで調整か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c9693365cbda4e44473c6de7d879e690e4a8ca1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243862-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道で最大震度4のやや強い地震　若干の海面変動も被害の心配なし　震源は根室半島南東沖　M6.1　北海道・釧路町
+      <a href=https://news.yahoo.co.jp/articles/c4505dcad0b799821194e53f25f3f377b2012942>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000014-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米、学生ビザ申請者にSNS公開義務付け 反米思想がないか審査へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49951e5b974ae8bacbd3db8fc9f0de4e37ca9ca9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権　留学に必要な学生ビザの申請受付を再開　SNSの「公開」義務化
+      <a href=https://news.yahoo.co.jp/articles/652d342bef3c5b7d344890551cc0e1ae3adc70e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000023-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イラン攻撃計画を条件付き承認か　トランプ氏「最終決定は直前に」
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/68f2356600d08bcbcd435db0a158e4233e27276d62d6fba971852d5181c5c42f.jpg> トランプ氏 イラン攻撃計画承認か
+      <a href=https://news.yahoo.co.jp/pickup/6542722>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沖縄戦後80年 遠のく「平和の島」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/47961858a010b49ce718b194550c943d8b9c1fe3cc1eaccb95163d661049ae87.jpg> G7サミット閉幕「変容」決定的に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5bf8f05c048c068e1522d5e9a041e76ee30e1fb2fb0b60da20f04458db66010.jpg> 西田薫議員 支援者名義無断使用か
+      <a href=https://news.yahoo.co.jp/pickup/6542740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/ce71688aef9fe141e7e6125761760879d2682b8815c5d8a4f9a6759333107f72.jpg> シュノーケリング中体調不良 死亡
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542734>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4900cf06694adff0dc91203477885155d8f2fc69a1fd9c35ac0f0eb8f3c7fb07.jpg> 「高揚成分」の菓子食べ飛び降り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3bdece82cd8942d21833019764b7d38ff7cdfbf25510b3d52f5f7248e05296e3.jpg> 住宅むしばむ「夏型結露」対策は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 10:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 11:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
