@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6da4a68bd679906d14dd5052c2d102d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59e9bedfc5af9bc6b54a46d8c060be3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5695e53cd0dbff01ffcf3cb57b96dc126aa19ebf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000005-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 地震頻発の北海道 専門家「直接的関係はない」　一方“噂”広がり観光客減…　気象庁「科学的根拠ない」
+      <a href=https://news.yahoo.co.jp/articles/b19bacfeaef6305a0e1615535ae5a7601db2c7b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00050187-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立民・野田氏、内閣不信任を提出しない意向…維新・前原氏と会談「米国と関税交渉継続」を理由に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1c6ccfc49e6cb1a1be840910785ff79f4d40509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010009-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ドキドキがまた始まる」大谷翔平の2度目登板決定にファン早くも“興奮”「マジかロバーツ！？ 」「今度は3イニング位かな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7a72f01b90d0f71f67c912d11b02469ad337b21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21989696-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京都で最大震度2の地震　東京都・三宅村、御蔵島村、八丈町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15ba97c027993722dce0901d22fed7021982fb1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010000-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> USスチール社の買収で、どうなる日本製鉄の脱炭素戦略
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f71ae8590b36084e76014eaeddb2876aa7685f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00348998-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の次回登板が決定　日本時間２３日午前５時１０分開始のナショナルズ戦に中５日で先発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbc657ca5f480f2c3c24e69af86b04ac2a27dc67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010008-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「やるかもしれないし、やらないかもしれない」トランプ氏、米軍のイラン攻撃への参加を肯定も否定もせず　すでに計画承認との報道も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3b71e55491ca4e67e9aaa9fd4f70f4647839f50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-10184340-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 「あなたの症例は珍しい」患者から現金200万円詐取か 歯科医師の男逮捕
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4ca8cf81433345b4887baeb0f0939ed9d3325872b132da5be80cdd8e6afc6170.jpg> 石破内閣支持率27%に上昇 時事
+      <a href=https://news.yahoo.co.jp/pickup/6542778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/74da135c75aa90e0b8b5d4c8986720bc322da1ee115827782a47fc66015b78fd.jpg> 野田氏 不信任案見送り意向固める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e51e0f3929fe3f901b54193e4d1b4e9fb40e1d312a913e9dda310b56c2ca87da.jpg> 猛暑日が続出 危険な暑さ続く
+      <a href=https://news.yahoo.co.jp/pickup/6542772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4ca8cf81433345b4887baeb0f0939ed9d3325872b132da5be80cdd8e6afc6170.jpg> 石破内閣支持率27%に上昇 時事
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b12ff1f78a0f9d85b03bde2e1f213141b17fecb4aa857a2553af7f5839aaf6fb.jpg> イスラエルが脅す ハメネイ師とは
+      <a href=https://news.yahoo.co.jp/pickup/6542774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d37da902b45460498933e9d92e671eb718d9b78646a0f013918e5e4f24c76c55.jpg> 武庫女の共学化 反対署名が3万超
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/90bcadc693d35a56000489f11096f6c652838d5430207d20f5cb2091f01b7f1e.jpg> ドジャース 劇的サヨナラで5連勝
+      <a href=https://news.yahoo.co.jp/pickup/6542754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d4291083737f17e44149bcf543296c4ca80a83908f5506ca665dd15a03ac44bc.jpg> 鹿島本拠地 メルカリスタジアムに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c2c6f538fe7cb0d10ec353f199b189667336cfc8a8f6ac5a3a70f8273593be58.jpg> 俳優・藤村志保さん死去 86歳
+      <a href=https://news.yahoo.co.jp/pickup/6542776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/9f822405ad533ecf2ac5a31cdfdbd3769fd920aaf9c5830bad1ec165588d11a4.jpg> 卓也努力勝利さん死去 芸人ら追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 16:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 17:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
