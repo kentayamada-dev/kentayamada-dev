@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f53d771fdf0200a8b07aae7dc9599849.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba970484a0da642d438aaadf5fcabcb2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc502edee17c86c6e66cbb7269d6d815c7224b2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000436-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=815&ch=815&exp=10800&fmt=webp> 巨人・坂本勇人「1試合でも多く出られるように頑張ります」　最愛の母の命日に東京ドーム1000試合出場
+      <a href=https://news.yahoo.co.jp/articles/4ee489ef297dd654350fac9e7973c939c3808a3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000286-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=507&ch=507&exp=10800&fmt=webp> テニス錦織が謝罪文発表　週刊誌の不倫疑惑に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b94ed5d4418f1c5eda4e791b859478d8e75ba1b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36191672-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1225&ch=1225&exp=10800&fmt=webp> 【ボクシング】王者ノーマン淡々と「彼は向かってきた。真のファイター」佐々木尽に敬意
+      <a href=https://news.yahoo.co.jp/articles/3f1a0c3a5ab2de4b9af05ccf2d6d68d3a14704cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000124-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=875&ch=875&exp=10800&fmt=webp> 日本ハム・北山亘基、ノーノー目前被弾に「慢心しちゃう、っていうメッセージかな」防御率はパトップに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96535164f6de9fa3899bbd9d5fbb330d264886da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000207-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=836&ch=836&exp=10800&fmt=webp> 2030年度に賃金100万円増　自民参院選公約　「違法外国人ゼロ」訴え保守層意識
+      <a href=https://news.yahoo.co.jp/articles/dcd9db403894d561665abe758b229106a8e8e886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07938427-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民党・参院選の公約発表「強い経済・伸びる賃金」掲げる
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/22dafa760274bcc9fe85985b511d63650a871e1a12e4123daf3b259278d5ec3a.jpg> 米国の「参戦」待つイスラエル
+      <a href=https://news.yahoo.co.jp/pickup/6542820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/9e42753c3155076fa777b1b0a644c55cb1e906777cc01e70c446a6e8311cb2e3.jpg> 参院比例投票先で国民が急落 時事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/854313fac7f69159fbcd765f636ef17be77b97fc014335c846c76ad39cf73bac.jpg> 貸金庫で現金保管禁止 全銀協発表
+      <a href=https://news.yahoo.co.jp/pickup/6542821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e210e7f8eaa38a5418cc8790c585517009591d7e80b66801ea54162a3aa96f35.jpg> 麻生氏 ガソリン減税法案を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/22dafa760274bcc9fe85985b511d63650a871e1a12e4123daf3b259278d5ec3a.jpg> 米国の「参戦」待つイスラエル
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/167f690e4010debbc0422dada0081823b802aea300e4f43bf6d54017a76597f2.jpg> ホンダ社長 日産協業は是々非々で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542814>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/65fa016d74b3970ee32303a6c4566bb2fcf8c29e1f74eced6e780b18241a7467.jpg> 群馬県議逮捕 会見中の知事驚き
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5a2b0fa6b237a6cfc9eb3d9791b2a23557fdaf1257ed2db36b8d353c9adac1f.jpg> 切実な声受け らくらくホン新機種
+      <a href=https://news.yahoo.co.jp/pickup/6542826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/550fdaedba37e96cfbb94925254adaaf50133cd9a78e9362eec186f3a07ed4d1.jpg> スペースXの宇宙船 地上で爆発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/fd11c56b1e953514ff8bd1ff07bfd0833a70d2a9c45d2e2fde5adde99de549ee.jpg> 阿部寛 菜々緒の恋人役にニヤニヤ
+      <a href=https://news.yahoo.co.jp/pickup/6542825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/38ada2ff0d6058f24ea731afc091da57dc50b46ff026c12e6ee8d19adf542005.jpg> 錦織圭 不倫報道受け謝罪コメント
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 22:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 23:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
