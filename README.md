@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/775b160ac1cf3d34dcbe61c7e989e6d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3aa79cf5a2d567c331bac25a33b3a8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d831692bc7afd4864f7821680eec56502c6d7cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 絶望的状況から買収完了 日本製鉄“逆転合意”の背景は 「ここからがスタート」の声も
+      <a href=https://news.yahoo.co.jp/articles/c2282998dce7367524a9a7efd5394ce96c718aa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000048-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 石破首相、関税交渉で協力要請　立民代表、不信任案判断へ　党首会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/208046d382cb051cf136785dc24638af3283d5bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90051643-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【太平洋側で先月から6回目】道東で『最大震度4』の地震＿「こわい」「しょっちゅう起きているから気になる」地元住民も不安の声＿被害報告なし〈北海道〉
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a159984ea53d1d3184f6a06938961e86b48b596b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0db13df9c5fe0cd8801b24bcd9bab9fe71f08a01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-16717406-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 日本製鉄、難航したUSスチール買収を完了　トランプ米大統領と協定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c4fc9d2e5a4a95532908d20fd963c822a8c6306>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21988315-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道で最大震度1の地震　北海道・根室市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c400b4402800c46189e20191158058675283976be0683f72655ae2a6e9caeaa0.jpg> 邦人退避 中東に自衛隊機派遣指示
+      <a href=https://news.yahoo.co.jp/pickup/6542752>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 内閣不信任案 焦点は野田氏の判断
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542749>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d52f23b1b39bc7fef1bf29ebbeb09ebc617c2cdd57fdb595916f7ea9372f5983.jpg> USS買収巡り日本製鉄 英断に感謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/1725e74a3c8e8f89b4d95544af7f24d85ed025391f5b35c7f9cc81b47267b49b.jpg> 米 学生ビザ取得の手続き再開へ
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/ce71688aef9fe141e7e6125761760879d2682b8815c5d8a4f9a6759333107f72.jpg> シュノーケリング中体調不良 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542750>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02254719/title-1750290954675.jpeg?exp=10800> 日本郵便で続く不祥事 問題点は
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542739>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4f33377067e1763e986a790bf44ccafc49c250790916a0e883bc293dd76bfe28.jpg> トンボ模型の虫よけグッズ 注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f1b63991149e81d99c56b93e7b259ab6930864cab275a588da1465e6f53dcebe.jpg> 芸人・卓也努力勝利さん死去 38歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 12:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 13:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
