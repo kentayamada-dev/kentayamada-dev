@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67c89dc46c72f89f9c1f1c9e4d7c7cca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62da11c42043e13d214d8d32919c826d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10717cbc5f4a9dcf74fdbac165a4e258719c17da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000051-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 北海道釧路町で震度4　震源は根室半島南東沖
+      <a href=https://news.yahoo.co.jp/articles/65405066cd8c92d3df27d60464c0ec0eceab10a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000339-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=315&ch=315&exp=10800&fmt=webp> インディアンス改め“ちょんまげラーメン”『ラヴィット！』初登場　川島明が“ピン名”提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74cf9704740f3b7b397e5015bda89e87bba132ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00549321-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷が自ら投稿する“死球写真”を撮った人物が判明　「どうやって！」「完璧な写真だ」米称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3a5e5835bca28c69b2c5a771dde94e446779235>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000018-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 北海道・釧路で震度4の地震　震源地は根室半島南東沖　気象庁
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/761984851e4eef6197748928dc29dfba6c05122c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190096-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1197&ch=1197&exp=10800&fmt=webp> 渡辺謙「懐かしく、思い出しました」　出世作「独眼竜政宗」ジェームス三木さん逸話を披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddd7aba996ec42cc70ce4068493a4bbbcaa5c665>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010001-tvtokyos-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 激昂！審判団に詰め寄り猛抗議で退場処分 大谷翔平への死球「意図的だと感じた」故意で「間違いない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190096-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1197&ch=1197&exp=10800&fmt=webp> 渡辺謙「懐かしく、思い出しました」　出世作「独眼竜政宗」ジェームス三木さん逸話を披露
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acee5221882ee680b251eb7c8eb50ae6f8abb093>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250618-00000248-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=1057&ch=1057&exp=10800&fmt=webp> マリナーズ傘下3Aタコマ・藤浪晋太郎、自由契約に　直近8戦無失点アピールも
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8a4af8f255930a77a5b41b1f1141f69fa79dfe03ff18d268ebb65202ff4ec06b.jpg> 北海道で震度4 津波被害心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6542728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/68f2356600d08bcbcd435db0a158e4233e27276d62d6fba971852d5181c5c42f.jpg> トランプ氏 イラン攻撃計画承認か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/68f2356600d08bcbcd435db0a158e4233e27276d62d6fba971852d5181c5c42f.jpg> トランプ氏 イラン攻撃計画承認か
+      <a href=https://news.yahoo.co.jp/pickup/6542721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/47961858a010b49ce718b194550c943d8b9c1fe3cc1eaccb95163d661049ae87.jpg> G7サミット閉幕「変容」決定的に
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> ちょんまげラーメン 改名の狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6542732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/0b751e289b7901ac1941bc6562b8408be2683fdda2cbaa561f639b193e840b74.jpg> ジェームスさん死去 渡辺謙が追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/6c80d07985ade0dcb1c4e5804611c37668ddcbec7b01d669a2ab0f067010cca1.jpg> あんぱん岩男役 2～3日食べず撮影
+      <a href=https://news.yahoo.co.jp/pickup/6542724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> ちょんまげラーメン 改名の狙いは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 09:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 09:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
