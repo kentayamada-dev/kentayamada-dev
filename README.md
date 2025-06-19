@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59e9bedfc5af9bc6b54a46d8c060be3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e445416d92550731a70f35e52a07397c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b19bacfeaef6305a0e1615535ae5a7601db2c7b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00050187-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立民・野田氏、内閣不信任を提出しない意向…維新・前原氏と会談「米国と関税交渉継続」を理由に
+      <a href=https://news.yahoo.co.jp/articles/261930458b4fa09505178f28467fa51cfd99a3f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00098174-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が中５日で今季２度目の先発マウンドへ。期待増もLAメディアは慎重「本格的に復帰するのはまだ疑問が残る」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1c6ccfc49e6cb1a1be840910785ff79f4d40509>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010009-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ドキドキがまた始まる」大谷翔平の2度目登板決定にファン早くも“興奮”「マジかロバーツ！？ 」「今度は3イニング位かな」
+      <a href=https://news.yahoo.co.jp/articles/79900785dcaaa9c442a810b2cb12a6ed503ea55a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民、不信任案提出見送り　野田氏伝達、政治空白回避
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/70d3fcaaea0677602be0c29c1d830373d4009847>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000090-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 澪つくし、独眼竜政宗…「NHKに数多くのヒット」大阪局長がジェームス三木さん悼む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2b945034b6c167f6bca7f36c0694bb7f9f8611d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000035-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1399&ch=1399&exp=10800&fmt=webp> イスラエル軍、イランの「稼働停止中の原子炉」攻撃
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15ba97c027993722dce0901d22fed7021982fb1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00010000-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> USスチール社の買収で、どうなる日本製鉄の脱炭素戦略
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7b8e031dfb26181cd42471a8179d8510238e117>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190694-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> ジェームス三木さんと藤村志保さんに感謝「NHKの放送支えていただいた」NHK大阪放送局長
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/74da135c75aa90e0b8b5d4c8986720bc322da1ee115827782a47fc66015b78fd.jpg> 野田氏 不信任案見送り意向固める
+      <a href=https://news.yahoo.co.jp/pickup/6542777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f8753a68a9f27b57062050dea5d4e130bb3af8eab3c41c293fab9450e3c73bc3.jpg> 自民の参院選公約 賃金増など明記
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4ca8cf81433345b4887baeb0f0939ed9d3325872b132da5be80cdd8e6afc6170.jpg> 石破内閣支持率27%に上昇 時事
+      <a href=https://news.yahoo.co.jp/pickup/6542779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/74da135c75aa90e0b8b5d4c8986720bc322da1ee115827782a47fc66015b78fd.jpg> 野田氏 不信任案提出を見送る意向
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d4291083737f17e44149bcf543296c4ca80a83908f5506ca665dd15a03ac44bc.jpg> 鹿島本拠地 メルカリスタジアムに
+      <a href=https://news.yahoo.co.jp/pickup/6542781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/df06a425413f0338cd73edc6f6f4cd7a09e3ea9661fd5f6c7a47513677d23089.jpg> 猛烈な暑さ「ミドル脂臭」対策は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 17:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 17:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
