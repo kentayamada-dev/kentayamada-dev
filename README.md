@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/720e6b9f2478268b039eabd0a0698f42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0860765f367360d66f65d5a08d721f53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dcf272b5b7fc2bcc5a920af90bb8b6354ab2b7fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000236-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=791&ch=791&exp=10800&fmt=webp> ジェームス三木さん、4月に体調崩し入院　自宅療養中に急変　妻が最期明かす「病院で家族に看取られ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000236-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=791&ch=791&exp=10800&fmt=webp> ジェームス三木さん、4月に体調崩し入院　自宅療養中に急変　妻が最期明かす「病院で家族に看取られ」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acdfc4addfc9fdc4e813608523ad6d1e6f0fdb5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “ガソリン価格抑制措置”来週から開始　石破首相が表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-09244754-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> “ガソリン価格抑制措置”来週から開始　石破首相が表明
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a159984ea53d1d3184f6a06938961e86b48b596b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05514177-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「最終的な決断していない」“イラン攻撃計画を承認”報道も
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/c570634cae109c84160f110029c9bc34e966f1356247cb8a9de52d678179f466.jpg> 首相 ガソリン価格の予防措置表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542753>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f5b20f1e2b7d6fed385a29859b35b70582d8f058882f9c6d42dc76cf29e40430.jpg> 西武選手ら5人書類送検 賭博疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4171406a11e33250337f0a109fe2e35ab492936697fbbfd9a95ff7b13ef8ea37.jpg> 大山古墳の副葬品 ナイフなど発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4171406a11e33250337f0a109fe2e35ab492936697fbbfd9a95ff7b13ef8ea37.jpg> 大山古墳の副葬品 ナイフなど発見
+      <a href=https://news.yahoo.co.jp/pickup/6542759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/66187ccaf9b5324d8410f890ae70a0db6cf38c56dbad99f69aed57c8ac60532f.jpg> 4500年前のガラガラ 幼児用玩具か
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f1b63991149e81d99c56b93e7b259ab6930864cab275a588da1465e6f53dcebe.jpg> 芸人・卓也努力勝利さん死去 38歳
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 15:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 15:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
