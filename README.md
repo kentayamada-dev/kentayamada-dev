@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e52986637a4a5832dacd3e061cf7b56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d6446a1da93dbb3cd09ee663d053a2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca9a4f106c062374ce67f1d07f7f3c99495f2efb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相、衆参同日選見送り
+      <a href=https://news.yahoo.co.jp/articles/7afdb0941b2b2c5612d026bfca759adeb4cc5804>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36191065-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 【NBA】八村塁と大谷翔平がチームメートに!?レイカーズ経営権がドジャースオーナーに売却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20c4bfe0eae8b6fef6fd06dfc3dd7b570a2dbca9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-21990042-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 東京都で最大震度2の地震 震源は三宅島近海でマグニチュード4.7 津波の心配なし【地震情報】
+      <a href=https://news.yahoo.co.jp/articles/27f732f6b90174781b325accf2a4cf0099e0f970>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07627868-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏がイランに“最後通告”　駐日イラン大使「核開発続ける」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/261930458b4fa09505178f28467fa51cfd99a3f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00098174-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が中５日で今季２度目の先発マウンドへ。球界の期待増もLAメディアは慎重「本格的に復帰するのはまだ疑問が残る」
+      <a href=https://news.yahoo.co.jp/articles/46848fbed91994ac86ed3a578ab9e72e0bcd6809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-01775679-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平、故障再発の危険性　OBが指摘する”2つの課題”「修正しないと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70d3fcaaea0677602be0c29c1d830373d4009847>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000090-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 澪つくし、独眼竜政宗…「NHKに数多くのヒット」大阪局長がジェームス三木さん悼む
+      <a href=https://news.yahoo.co.jp/articles/5f9886ec98b4305b743e7bd4ad884d2691c1c8ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000468-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ社長の謝罪受け、被害女性がコメント「新たな気持ちで生きていこうと」【全文掲載】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b945034b6c167f6bca7f36c0694bb7f9f8611d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000035-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1399&ch=1399&exp=10800&fmt=webp> イスラエル軍、イランの「稼働停止中の原子炉」攻撃
+      <a href=https://news.yahoo.co.jp/articles/6f23d0ea46c0ef5ff1a421df57091a8c0b708c10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07244030-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 自民党が参院選公約を発表　国民一律2万円の給付 「2030年度に賃金100万円増」
       </a>
     </td>
   </tr>
@@ -402,48 +402,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f8753a68a9f27b57062050dea5d4e130bb3af8eab3c41c293fab9450e3c73bc3.jpg> 自民が参院選公約発表 賃金増など
+      <a href=https://news.yahoo.co.jp/pickup/6542780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/946d8ab6c2b480cd73f76b225ad89dfb08139055da4d67d6823c32f41b1881aa.jpg> まだ野ざらしの遺骨 沖縄戦の今
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/74da135c75aa90e0b8b5d4c8986720bc322da1ee115827782a47fc66015b78fd.jpg> 野田氏 不信任案提出を見送る意向
+      <a href=https://news.yahoo.co.jp/pickup/6542796>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> JA全中がビル売却へ 損失穴埋め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d674aec0623240a054918b6327a00d7b319f961e63014b27cb97f6028221e21b.jpg> 免許返納望む息子 家族会議の様子
+      <a href=https://news.yahoo.co.jp/pickup/6542797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/63b9948ec20dc80f91aabd10c5d5c385c0cb3ab7bbea960cce5cd519fb95fe2a.jpg> 中学の事務職員 2200万円超を着服
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e62d9b5d85214ed329c680b5c829b9d447f906cab6c2a4c5076eb56a4c408466.jpg> 歯科医が詐取疑い 被害1億円超か
+      <a href=https://news.yahoo.co.jp/pickup/6542798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d37da902b45460498933e9d92e671eb718d9b78646a0f013918e5e4f24c76c55.jpg> 混乱 武庫女の共学化中止求める声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8406bbecba6769fb04edcfdd0add443ef03d821b4bf2ce82e142d182845771c0.jpg> 西武選手ら賭博疑い 球団コメント
+      <a href=https://news.yahoo.co.jp/pickup/6542800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/ccffd2cd740b485a7100fa6f40241957ff304cc4601c78dc65a793d36336e960.jpg> プーチン氏の「娘」日本語を披露
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/9f822405ad533ecf2ac5a31cdfdbd3769fd920aaf9c5830bad1ec165588d11a4.jpg> 卓也努力勝利さん死去 芸人ら追悼
+      <a href=https://news.yahoo.co.jp/pickup/6542804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8f639ca18938b180e8cd148474801ebd9b6a3f865a4c22a3f293a5a85dd1dcea.jpg> レイカーズ売却へ 推定1.4兆円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f0ad462653a19eda05530fa7ed059016f4dfc24c6b117e3f4cc9be21beeb6017.jpg> 春香クリスティーン 米国に移住へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 18:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 20:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
