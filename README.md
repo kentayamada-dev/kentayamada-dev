@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa92c56d924f1c82ef3856cd9125cde1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc8fc323a568f147b801b2611ee9a296.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74cf9704740f3b7b397e5015bda89e87bba132ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00549321-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷が自ら投稿する“死球写真”を撮った人物が判明　「どうやって！」「完璧な写真だ」米称賛
+      <a href=https://news.yahoo.co.jp/articles/4097175d6a67bfcb2802b0fad652cc6a9b07decc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=571&ch=571&exp=10800&fmt=webp> 日鉄、USスチールの買収完了　橋本会長「世界一復活に必要な戦略」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3a5e5835bca28c69b2c5a771dde94e446779235>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000018-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 北海道・釧路で震度4の地震　震源地は根室半島南東沖　気象庁
+      <a href=https://news.yahoo.co.jp/articles/251722d32942b121114ae623c84433efa9da897a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243865-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　イラン攻撃を承認　最終命令は保留　米紙報道　“核開発”放棄の意思を見極めるため
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c9693365cbda4e44473c6de7d879e690e4a8ca1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243862-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道で最大震度4のやや強い地震　若干の海面変動も被害の心配なし　震源は根室半島南東沖　M6.1　北海道・釧路町
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49951e5b974ae8bacbd3db8fc9f0de4e37ca9ca9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000018-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ政権　留学に必要な学生ビザの申請受付を再開　SNSの「公開」義務化
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/761984851e4eef6197748928dc29dfba6c05122c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-36190096-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=2&cw=1197&ch=1197&exp=10800&fmt=webp> 渡辺謙「懐かしく、思い出しました」　出世作「独眼竜政宗」ジェームス三木さん逸話を披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/592fd8f5b123ca2d9727a2b9843855c1da93d9cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000011-ann-000-8-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　条件付きでイラン攻撃承認　最終判断は保留に　米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f97634e5f2733f1482348758a3df504221385568>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243856-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 強い日差し　6月とは思えない夏本番の暑さ続く　真夏並の熱中症対策を　午後は急な雷雨に注意
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5bf8f05c048c068e1522d5e9a041e76ee30e1fb2fb0b60da20f04458db66010.jpg> 西田薫議員 支援者名義無断使用か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542734>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4900cf06694adff0dc91203477885155d8f2fc69a1fd9c35ac0f0eb8f3c7fb07.jpg> 「高揚成分」の菓子食べ飛び降り
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/95734f4cb7e88a1322febab1c5e7f33a5d5301879ea114c5ac2d39d46cedb565.jpg> 新潟コシヒカリ 業者間取引で急落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542730>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miwadaisuke/02253906/title-1750224812499.jpeg?exp=10800> コーヒーチェーンが茶専門店 背景
+      <a href=https://news.yahoo.co.jp/pickup/6542736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e92c3d5cc55080145df3b5a740f4832644c5d8f3b01f09d58958013b2cbb372b.jpg> アイスキャンデー なぜ関西で定着
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 10:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 10:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
