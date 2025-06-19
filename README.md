@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62da11c42043e13d214d8d32919c826d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa92c56d924f1c82ef3856cd9125cde1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65405066cd8c92d3df27d60464c0ec0eceab10a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000339-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=315&ch=315&exp=10800&fmt=webp> インディアンス改め“ちょんまげラーメン”『ラヴィット！』初登場　川島明が“ピン名”提案
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74cf9704740f3b7b397e5015bda89e87bba132ca>
@@ -390,7 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/592fd8f5b123ca2d9727a2b9843855c1da93d9cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000011-ann-000-6-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　条件付きでイラン攻撃承認　最終判断は保留に　米報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000011-ann-000-8-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　条件付きでイラン攻撃承認　最終判断は保留に　米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f97634e5f2733f1482348758a3df504221385568>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07243856-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 強い日差し　6月とは思えない夏本番の暑さ続く　真夏並の熱中症対策を　午後は急な雷雨に注意
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/d9f104423876da678957c6fdf0d8fe71f24f6451260039a5dea9e616b220ec37.jpg> 危険な暑さ続く 熱中症の対策を
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542728>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542721>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/47961858a010b49ce718b194550c943d8b9c1fe3cc1eaccb95163d661049ae87.jpg> G7サミット閉幕「変容」決定的に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4900cf06694adff0dc91203477885155d8f2fc69a1fd9c35ac0f0eb8f3c7fb07.jpg> 「高揚成分」の菓子食べ飛び降り
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3383c85974d9fcac1f00940f415cfaf8182966b989d8685e74f411f3a0f5c9f8.jpg> バレー女子 タイに劇的逆転で連勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542732>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/0b751e289b7901ac1941bc6562b8408be2683fdda2cbaa561f639b193e840b74.jpg> ジェームスさん死去 渡辺謙が追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542724>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02254527/title-1750258723230.jpeg?exp=10800> ちょんまげラーメン 改名の狙いは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 09:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 10:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
