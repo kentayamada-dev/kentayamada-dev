@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32c05b0c99017e7ea542ff83ec46cc9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be41d25382e1e4f45ccab9c251a9aabd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4cbc538d3e851c727e8d6b5d7ed5523960f60a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000406-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 巨人・大城卓三がノーノー阻止弾！9回1死から右翼スタンドに叩き込んで北山の偉業を打ち砕く
+      <a href=https://news.yahoo.co.jp/articles/20db96009c7daf224c29bb80c216efe15fdd4737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00349046-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【日本ハム】北山亘基が無安打無得点の快挙逃し…新庄監督「オーマイゴッシュ！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/774b0cd7b7e82dc57dde9929d281b81df817f81b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000419-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 佐々木尽の“来い！来い！”挑発に王者は何を思った？ノーマン「スマートに戦おうと思っていたので…」
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66252c053806aa96fc98cbacdd855d47c3d6ec51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-90027756-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 阿部寛、菜々緒との恋人役にニヤニヤ「すごくうれしかったですね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a266aa9cc7b4b498c67dfdd164b020eb546bedc6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民、参院選公約　「暮らしを豊かに」　30年度に年収100万円増
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46848fbed91994ac86ed3a578ab9e72e0bcd6809>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-01775679-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 投手・大谷翔平、故障再発の危険性　OBが指摘する”2つの課題”「修正しないと」
+      <a href=https://news.yahoo.co.jp/articles/348d0385bd99a6606e587e7e2215f3c3dbe14b45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000115-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米国「参戦」待つイスラエル　イラン攻撃、国民も圧倒的支持
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/2837e2c69914fa7853e01d0bd4e57740c58de8bba003c541a1ad88240596f4b2.jpg> 衝突激化 イランの邦人ら70人退避
+      <a href=https://news.yahoo.co.jp/pickup/6542818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/22dafa760274bcc9fe85985b511d63650a871e1a12e4123daf3b259278d5ec3a.jpg> 米国の「参戦」待つイスラエル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542796>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> JA全中がビル売却へ 損失穴埋め
+      <a href=https://news.yahoo.co.jp/pickup/6542809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/854313fac7f69159fbcd765f636ef17be77b97fc014335c846c76ad39cf73bac.jpg> 貸金庫で現金保管禁止 全銀協発表
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d44d15316d66d4e36ee5d47b6e344f02e29dbb288cb221289c89c161f13d376.jpg> 死んでしまう 必死に叫んだ性被害
+      <a href=https://news.yahoo.co.jp/pickup/6542795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5a2b0fa6b237a6cfc9eb3d9791b2a23557fdaf1257ed2db36b8d353c9adac1f.jpg> 切実な声受け らくらくホン新機種
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/b5a2b0fa6b237a6cfc9eb3d9791b2a23557fdaf1257ed2db36b8d353c9adac1f.jpg> 切実な声受け らくらくホン新機種
+      <a href=https://news.yahoo.co.jp/pickup/6542817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bb8d9e0ac611203dddb3acfc076d88c42a54348228ef64564a3fb94e7e58eb44.jpg> 相方死去 四天王・ジェットが追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 22:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
