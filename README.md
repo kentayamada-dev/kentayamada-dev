@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba970484a0da642d438aaadf5fcabcb2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f341b30a1318958f532f374f2548e9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ee489ef297dd654350fac9e7973c939c3808a3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000286-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=507&ch=507&exp=10800&fmt=webp> テニス錦織が謝罪文発表　週刊誌の不倫疑惑に
+      <a href=https://news.yahoo.co.jp/articles/f5e85180ebd7f9920d9390eb749d26eb917b6e21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00349057-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 錦織圭が不倫疑惑を謝罪　ファンからは同情論も「別に世間に向けて謝る必要ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f1a0c3a5ab2de4b9af05ccf2d6d68d3a14704cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000124-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=875&ch=875&exp=10800&fmt=webp> 日本ハム・北山亘基、ノーノー目前被弾に「慢心しちゃう、っていうメッセージかな」防御率はパトップに
+      <a href=https://news.yahoo.co.jp/articles/4abd2a29ad84d24b73bd7978fd209ec10bf1b064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00050230-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏のイラン攻撃承認、核開発放棄の意思確認のため命令保留…イスラエル・イラン交戦１週間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/306c9d25c0b1653c8ccc115f17b689e36a47f4d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00349054-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】大城卓三がノーノー阻止のホームラン「ファームでいろんなアドバイスをいただいて」
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dcd9db403894d561665abe758b229106a8e8e886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07938427-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民党・参院選の公約発表「強い経済・伸びる賃金」掲げる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-07938427-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民党・参院選の公約発表「強い経済・伸びる賃金」掲げる
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0730862c6e418f1113fea12a95729e2b0d3fa38>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=497&ch=497&exp=10800&fmt=webp> フジテレビ・清水社長、被害女性に謝罪　誹謗中傷対策で合意書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/348d0385bd99a6606e587e7e2215f3c3dbe14b45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000115-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米国「参戦」待つイスラエル　イラン攻撃、国民も圧倒的支持
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bc4b55dd1af7f7374a36f7e1a8bd576c966e5470469664646bcfcb0f55b96d82.jpg> 「進次郎効果」を期待 自民切実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/e210e7f8eaa38a5418cc8790c585517009591d7e80b66801ea54162a3aa96f35.jpg> 麻生氏 ガソリン減税法案を批判
       </a>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/22dafa760274bcc9fe85985b511d63650a871e1a12e4123daf3b259278d5ec3a.jpg> 米国の「参戦」待つイスラエル
+      <a href=https://news.yahoo.co.jp/pickup/6542827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/3d3c6e496895119e97098d7925995afccb724a8b7d4d94095c329c636d376c12.jpg> 定員割れの私大6割 迫られる選択
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f6b762e0e7a39ba1b2003dec98002a7f7997645995e8e97491797f930d278c16.jpg> クック諸島が中国接近 NZ不快感
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542811>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/03e79c63ac37bff6199841ca20ee0e42a1bf710e1a77d0fca69ca855001593ce.jpg> フジ社長から謝罪 被害女性が声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/65fa016d74b3970ee32303a6c4566bb2fcf8c29e1f74eced6e780b18241a7467.jpg> 群馬県議逮捕 会見中の知事驚き
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/bb8d9e0ac611203dddb3acfc076d88c42a54348228ef64564a3fb94e7e58eb44.jpg> 相方死去 四天王・ジェットが追悼
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 23:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 23:51:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
