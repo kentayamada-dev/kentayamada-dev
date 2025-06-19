@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/023c7ebf60a9098edaa6ec5e580dfc13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/720e6b9f2478268b039eabd0a0698f42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23f49c45e371006f17d598cc38e0d32a99e78d1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大谷翔平、今季３度目の２試合連続無安打…ドジャースは代打スミスのサヨナラ弾で５連勝
+      <a href=https://news.yahoo.co.jp/articles/dcf272b5b7fc2bcc5a920af90bb8b6354ab2b7fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000236-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=791&ch=791&exp=10800&fmt=webp> ジェームス三木さん、4月に体調崩し入院　自宅療養中に急変　妻が最期明かす「病院で家族に看取られ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ee3891556e60c17b22802aac1f006f9665b60db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-05477799-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=640&ch=640&exp=10800&fmt=webp> 脚本家・ジェームス三木さん、肺炎のため91歳で死去　自宅静養中の13日に容体急変
+      <a href=https://news.yahoo.co.jp/articles/acdfc4addfc9fdc4e813608523ad6d1e6f0fdb5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “ガソリン価格抑制措置”来週から開始　石破首相が表明
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542752>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 内閣不信任案 焦点は野田氏の判断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542756>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/8029089d820df5285e9817aa0f139cd7a8122af76fa0fe7f1c843b2813b3bf25.jpg> 梅雨前線が復活予想 蒸し暑さ注意
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542746>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/f5b20f1e2b7d6fed385a29859b35b70582d8f058882f9c6d42dc76cf29e40430.jpg> 西武選手ら5人書類送検 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/4171406a11e33250337f0a109fe2e35ab492936697fbbfd9a95ff7b13ef8ea37.jpg> 大山古墳の副葬品 ナイフなど発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/19 14:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/19 15:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
