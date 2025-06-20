@@ -95,8 +95,9 @@ const getSitemap: GetSitemapType = async () => {
     }
   `;
 
-  const articleItems = (await apiRequest<SitemapResponseType>('contentful', query)).articleCollection.items;
-  const utilityItems = (await apiRequest<SitemapResponseType>('contentful', query)).utilityCollection.items;
+  const response = await apiRequest<SitemapResponseType>('contentful', query);
+  const articleItems = response.articleCollection.items;
+  const utilityItems = response.utilityCollection.items;
 
   return { articleItems, utilityItems };
 };

@@ -10,6 +10,9 @@ const API_ENDPOINTS = {
 const createApiClient = (api: keyof typeof API_ENDPOINTS): GraphQLClient => {
   return new GraphQLClient(API_ENDPOINTS[api], {
     excludeOperationName: true,
+    fetch: async (url, params): Promise<Response> => {
+      return fetch(url, { ...params, next: { revalidate: false } });
+    },
     headers: {
       authorization: `Bearer ${api === 'contentful' ? envServer.CONTENTFUL_ACCESS_TOKEN : envServer.GITHUB_ACCESS_TOKEN}`
     }
