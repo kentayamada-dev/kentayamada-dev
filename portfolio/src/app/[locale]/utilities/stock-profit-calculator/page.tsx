@@ -1,5 +1,3 @@
-'use cache';
-
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react';
 import { notFound } from 'next/navigation';
 import { Calculator, LikeButtonWrapper } from '@/components/designSystem/organisms';

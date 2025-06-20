@@ -1,5 +1,3 @@
-'use cache';
-
 import { notFound } from 'next/navigation';
 import { ArticleList } from '@/components/designSystem/molecules';
 import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';

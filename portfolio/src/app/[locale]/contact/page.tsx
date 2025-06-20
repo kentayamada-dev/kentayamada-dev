@@ -1,5 +1,3 @@
-'use cache';
-
 import { notFound } from 'next/navigation';
 import { ContactFormWrapper } from '@/components/designSystem/organisms';
 import { contentfulType } from '@/constants/contentful';

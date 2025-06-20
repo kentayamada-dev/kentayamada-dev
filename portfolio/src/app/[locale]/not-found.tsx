@@ -10,7 +10,6 @@ import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, NotFoundPageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
-  'use cache';
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
 

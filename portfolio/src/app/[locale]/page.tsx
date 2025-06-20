@@ -1,5 +1,3 @@
-'use cache';
-
 import { notFound } from 'next/navigation';
 import { CustomImage } from '@/components/designSystem/atoms';
 import { HomeArticleList, HomeIntro, WhackMole } from '@/components/designSystem/organisms';

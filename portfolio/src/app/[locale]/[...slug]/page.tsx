@@ -1,5 +1,3 @@
-'use cache';
-
 import { notFound } from 'next/navigation';
 import { contentfulType } from '@/constants/contentful';
 import { getMetadata } from '@/lib/graphql-request';
