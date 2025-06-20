@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf4e99f8ebd47448aaae474e61d04968.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abb0b2f43c32c833aef7d5da975afe77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c622358dfabd39a7d5ce28e43ce351e754fab09c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「紳士というか、神というか…」大谷翔平が160キロ直撃後にみせた“予想外の行動”に美人女子アナも驚嘆！「本当に存在が眩しすぎる」
+      <a href=https://news.yahoo.co.jp/articles/013f2a2b87b031d4f7c65cc66de248f81cdaa23d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00549956-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の文化から学べることがある」　死球の130秒後、大谷が敵ベンチに歩み寄る“聖人の対応”に米絶賛の嵐
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 04:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 04:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
