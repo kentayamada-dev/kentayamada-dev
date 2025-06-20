@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/916b0f3b1226f8684ebb87e8759599a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6a657069cb2a06544122d2e2c41077b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1579395ccc5ba1308adaf261f6f79cc1225d206>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201111-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 来季限りで引退表明の坂本花織　「セカンドキャリアではインストラクターに」…主な一問一答
+      <a href=https://news.yahoo.co.jp/articles/e4bc60bfc9d334c6de05959db7a277da4c6da357>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-21990512-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 攻撃の応酬開始から1週間　イスラエル・イランから日本人の退避開始　鍵を握るトランプ大統領はイラン攻撃計画 “承認”か　核めぐる立場の違いは?須賀川記者解説【news23】
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b27f4617abf8af9c3944f4aa909fa60eb1fcd2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000210-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 初の世界挑戦5回KO負けの佐々木尽がSNS更新「本当に悔しく申し訳ない」　試合後は一時的記憶喪失も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000210-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 初の世界挑戦5回KO負けの佐々木尽がSNS更新「本当に悔しく申し訳ない」　試合後は一時的記憶喪失も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/825057901b7952e29b740da6491c11467afe53e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-25802087-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「これはアメリカの戦争ではない」とイラン副外相　イスラエルとの軍事対立についてBBCに
+      <a href=https://news.yahoo.co.jp/articles/8a404dd323cb88c3f96e0630dd38c95d162212ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000046-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=777&ch=777&exp=10800&fmt=webp> コメ「概算金」方式見直しへ　小泉農水相、JA全中会長と一致
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d5ca73ca5ea9a3881ab9f76eb924f0248b4286d6a9e28f6062f6ddb23b88996d.jpg> ガソリン減税法案 職権で採決決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6cce9fb5aa33a01b7c0fd39072df408baf239f3c61ad8f4f5b910e02cd23f668.jpg> イランと米国が複数回の電話協議
+      <a href=https://news.yahoo.co.jp/pickup/6542870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8b56eb6141da82b6723c0e20e587eb0d62593fe943de67cdb8f7e8fff6418590.jpg> JAコメ「概算金」方式を見直しへ
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/86f80751156466e2f8f71f38b2c9ee59ad97f1c71c1a95d51b0f68ff58cb29ae.jpg> 坂本花織 来季限りで引退を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542865>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 国分太一降板巡り日テレ会見
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 13:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 14:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
