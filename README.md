@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f8f47c677a01dbf9b1971a04e76aaf7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07d232bd8b556e75ec64c8078b98995a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/673429040e57b4905665238598a5fe3b79ccbbfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244289-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イギリス下院「安楽死」認める法案を可決　上院審議へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c27aa034d7c4e6bae14b3235d533cc47347044c1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 大谷翔平　また“報復”死球！それでも神対応　九回タティスに当てて再燃　乱闘騒ぎも笑顔で敵軍と会話
       </a>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd84c087ad325375cd1b1c25b337a34d4e835cce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-09473545-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 軍事衝突から1週間　イスラエルとイラン、攻撃の応酬続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1acf6da8e51fba14029f0fe23b509c993b63453>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-90027836-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 番組降板“ゆかりの地”も困惑…国分太一さん“コンプラ違反”で無期限活動休止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7f5cf3eebe838d1c3be2993c474ddeb7191d0d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-gbr-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=421&ch=421&exp=10800&fmt=webp> ”空手黒帯”で和太鼓の先生がラウンドガール、ミニ衣装からのぞく筋肉が魅力的
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-09473545-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 軍事衝突から1週間　イスラエルとイラン、攻撃の応酬続く
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 03:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 03:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
