@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1906f50cf6fc6be7df3100232eed3acc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e961dab2b40a4420f1021e62071324d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ea293051f9e8f915ddac81fcf2f209d66141bf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000129-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平への“報復死球”、米解説者が激怒した理由…「正しいやり方じゃない。あんな場所に当てるのはあり得ない」
+      <a href=https://news.yahoo.co.jp/articles/635b69cc14eff7b94571dfe930c896e50cf281a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=1018&ch=1018&exp=10800&fmt=webp> 鈴木宗男氏、自民から出馬へ　参院選、議員辞職し復党
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97afdcb701982a7f8576978dd949b27c3ef0eb89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-08229146-stv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 観覧車のギアに油をさす作業中　機械に体を挟まれ50代男性死亡　おびひろ動物園・北海道
+      <a href=https://news.yahoo.co.jp/articles/b7bd13ca2860243e105f6922ab88376b47c78d31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00550009-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の行動に…韓国でも広がる絶賛「聖人君子級の人間性」　161km直撃でもブレない「品格」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/eccfa5079cca9ae652e6cadbb3bd7f539e50d5378336e3607cd69b270fe70a3c.jpg> 兵庫知事 適法の認識に変わりない
+      <a href=https://news.yahoo.co.jp/pickup/6542893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02256075/title-1750380970089.jpeg?exp=10800> 台湾海峡通過 なぜ海自艦たかなみ
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06d7f80c234806138daac4779e98893416e9e03c6dab16ab9171efebdab95d96.jpg> 観覧車点検中の男性 はさまれ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8639ee3e8b91c43917ce5b23860820886d4a01a1960709de7f0201cebf9011f2.jpg> 市長が「公務」でM-1挑戦 支障は
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542911>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/f9d205049e68dbf0aa9cecf202d86afb4ecc5e0aaf44938564cd3e76e4376cea.jpg> イワナ1万尾死ぬ レッドマウス病
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 20:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 21:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
