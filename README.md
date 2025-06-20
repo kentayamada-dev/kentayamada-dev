@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e9aec0fff679f32d464474b31a2c199.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9693fdc92a2e12d13821a4469d972860.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/438d7bc654c6a849a23cc8bd64ceb195b3fd4a6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」スタメン入り、３戦２死球＆２日後登板も…奪三振王左腕から６戦ぶり２６号期待
+      <a href=https://news.yahoo.co.jp/articles/2e3ee70348360cb8c3c61853d1e167191dfef72f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=956&ch=956&exp=10800&fmt=webp> 「今朝の放送を休止しました毎日放送…詳細がわからないまま対応に追われている」…国分太一「無期限活動休止」…テレ朝「グッド！モーニング」でテレビ局「対応」を報じる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/254243c98af54dd4ab48fbb98dfc1afd62fd0246>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランのアラグチ外相、欧州主要3か国外相らと協議　イスラエルとの攻撃の応酬続く中、外交的な解決を模索
+      <a href=https://news.yahoo.co.jp/articles/e900b111476ea387b90e0d76554bf3804e18796f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01777881-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の神対応に美人レポーター感動　“報復死球”直後に…「伝えていたなんて…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c15dd4ebc4dfc74aa681da919207bd22ea63362>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「中身に関してはあまり関心ありません」…ＴＯＫＩＯ国分太一「コンプライアンス違反」無期限活動休止…徳光和夫さん「ラジオ生放送」でコメント
+      <a href=https://news.yahoo.co.jp/articles/5afcf47f28701a18952f83295e8a04c8852ff589>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000016-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン攻撃、「2週間内」に決断　交渉に猶予、時間稼ぎの見方も　軍事と外交両面で圧力・米大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8c22d6c69f1219fd1472f2cd945227c14263d76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21980147-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希が60日間の負傷者リスト入りへ、ドジャースが発表　復帰の目途立たず...レッドソックス左腕を獲得
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/14d100c46954f47fa0a9e9c2d66aad740b93d3b643eb88e8a275e04aa75c5cc4.jpg> 輸出ルールの省令改正へ 冤罪巡り
+      <a href=https://news.yahoo.co.jp/pickup/6542930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5e8de72a01217de10aac677104672bf9b07befcf79597345199cc596f378a120.jpg> 東北や北陸など35℃超 熱中症警戒
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a9081ca26a7648f585051c51d662dc166841df28992d0a6d602eb1e968d9f4a9.jpg> ビュッフェ形式で食事 58人食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6542929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/50903be3d2f13be3d6dccb319b77f970d77e89bef57d399630d8c827d477d43d.jpg> 姉を刺して殺害疑い 出頭の弟逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a110ed5e808fde710baf1c5a550192fa8a9bd60a0b49a0c06973f6ff6ba8c2ad.jpg> 若者の「デス活」死を前向きに
+      <a href=https://news.yahoo.co.jp/pickup/6542932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b8cf6b7d2a194a15df6d2f0138b0bf510fb9ea6c6f71b5902f690c213dbb8b54.jpg> 7人乗る軽が横転「危険運転」疑い
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/00f8e26ce03a8db197ca872be1586ae2ee0c9eb36f055e28efbbee93580125b8.jpg> 坂本花織 引退「スパッと決めた」
+      <a href=https://news.yahoo.co.jp/pickup/6542933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3cef30436b43784abded900342c1f92d7a2b8302780eee0bc8efc1256b46f511.jpg> 朗希 60日間の負傷者リストへ移行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/775346fc677b95f57c7a46236e6cde2a0e06bf4b103eb12b722effd6339ef3f6.jpg> 城島茂が声明文発表 国分太一巡り
+      <a href=https://news.yahoo.co.jp/pickup/6542931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e8a1e9391b021503f33d8978e82a4098da607e506a4bf2d1924986a21f225807.jpg> 田原俊彦 番組でアナに不適切言動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/70b204a1b70b6210fa61a6246d2639f708552f3b629c85f124a46cdd2dc26b75.jpg> JO1鶴房が活動休止 ネットカジノ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 07:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 07:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
