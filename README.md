@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c40803895c8465d68f27a04169146cef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/988889fcfb690db6354f9447371bed0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae01602ab524db0abf005a8afa9db8ac8cfa2178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000063-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国務長官、英欧豪外相とイスラエル・イラン情勢協議
+      <a href=https://news.yahoo.co.jp/articles/825057901b7952e29b740da6491c11467afe53e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-25802087-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「これはアメリカの戦争ではない」とイラン副外相　イスラエルとの軍事対立についてBBCに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38bad49d29e5c6eee21419663a2f4b2d265b83fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000193-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」　中居氏の「性暴力」認定を巡り、清水社長が被害女性に対面謝罪したことを報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b98b0d172e3e9716d8caf820574cfc1f41bfd9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 群馬県議らによる入札妨害事件　「技術評価点」を不正に変更か
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e17d7d20e8f10b9e7d8dbd8c665e966d965641a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03495789-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「刑が重すぎる」との控訴退ける　元少年に二審も『懲役18年』判決　15年前の神戸男子高校生殺害事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/019b3354c10298e09570194037d8d1f431aef007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201083-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> 錦織圭の不倫疑惑　スポンサーのユニクロがコメント「現時点で、お答えできることはございません」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a14246e5a0e5ab6cb51e403c092b35875068827>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200274-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側が「人権尊重のお願い」　フジ社長の元アナウンサー被害女性への直接謝罪でコメント
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03495789-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 「刑が重すぎる」との控訴退ける　元少年に二審も『懲役18年』判決　15年前の神戸男子高校生殺害事件
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542856>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d5ca73ca5ea9a3881ab9f76eb924f0248b4286d6a9e28f6062f6ddb23b88996d.jpg> ガソリン減税法案 職権で採決決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/29c462dc73f8df5003ac4aeca425fa07712adac8962815af38b356bf46db80e5.jpg> イランイスラエル邦人ら87人退避
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a71b20737b7456bf140961a8bb0dd6f68f5c8bee195bdc1bbb4eb352a46ab0b9.jpg> 女性にフジ謝罪 中居氏側コメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542852>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d9bd767966481e3d314447e7cec348f8469911af6f7b335f6dd8ef86c40ef9cb.jpg> バイきんぐ・小峠英二 結婚を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 12:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 13:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
