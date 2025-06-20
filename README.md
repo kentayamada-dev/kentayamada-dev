@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25c321e2af509ef7283061c5cc12e537.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc99f82422eacebf7a5304bd4f2f6c74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c47d87dca07ec4a953816b579bd2392eb52ee8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10561677-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=623&ch=623&exp=10800&fmt=webp> ドジャース、両軍指揮官退場の乱戦に敗れる　山本由伸は7回途中3失点も、援護なく6敗目　大谷翔平は3戦ぶり安打
+      <a href=https://news.yahoo.co.jp/articles/b3275492717b5f6505aaf7d4c3627f653a6c91ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777901-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ロバーツ監督、“死球合戦”に言及　9回に退場処分…連勝は5でストップ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/114a0f0d2b1cf81922e212240f28e6ddfc8709f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 副総監「緻密な捜査徹底されていなかった」
+      <a href=https://news.yahoo.co.jp/articles/f7dabe722fbd564fb7498ee2c905dd97fb67a2e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200593-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=23&cw=497&ch=497&exp=10800&fmt=webp> 【ボクシング】19日KO負け佐々木尽「本当に悔しく」「人生上手く行かない」試合後病院に搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4349b3a9672d459dcbba8a04a830abc9739e5413>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00051846-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】兵庫県知事選のＳＮＳ運用めぐり、斎藤知事とＰＲ会社の代表を書類送検　公選法違反で弁護士らが刑事告発
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b98b0d172e3e9716d8caf820574cfc1f41bfd9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 群馬県議らによる入札妨害事件　「技術評価点」を不正に変更か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/194cad01a44188138dad2c51cba6bbec540ff18298e92a26416c13572f4b40f6.jpg> アベノマスク文書 国の敗訴確定
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542867>
@@ -410,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8b56eb6141da82b6723c0e20e587eb0d62593fe943de67cdb8f7e8fff6418590.jpg> JAコメ「概算金」方式を見直しへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1353bd9214eca3b892d74d379ac40de8977dce3f410d66d3d89a1554f6624e9d.jpg> 15年前の高2殺害 2審も懲役18年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542868>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/875e3f5246ec8652900a4d83ea0a363d91903ef0813e491e90658064ac56d881.jpg> 体育で小学生7人が熱中症疑い搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/72906ac87c70f8e068507e5123f398408933179ea64eba94c3c244902b452acc.jpg> 兵庫知事 公選法違反疑い書類送検
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 国分太一降板巡り日テレ会見
+      <a href=https://news.yahoo.co.jp/pickup/6542871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6345776efebdfad7a328c28e5831a91a5fe314bf2ed77a311232f13fbd06d2e2.jpg> 国分降板 日テレ事案詳細明かさず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 14:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 15:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
