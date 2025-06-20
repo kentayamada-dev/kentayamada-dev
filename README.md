@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f26e3ec609e151ca0dae960582b2940.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/721bffa2150ff903deba4ad5730c293b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b224d4cb86b1e5e91ea8031adf3a3354bf1f4ff6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01528928-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今回は明らかに意図的だった」大谷翔平の死球に指揮官が怒り　その後の紳士的行動に「彼の判断は尊重」試合は退場者4人の大荒れ
+      <a href=https://news.yahoo.co.jp/articles/edb26f0bde5623a825f0ade6bfa1c87f38ee14db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201218-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パドレスの主砲マチャド、古巣への怒りが止まらず「キャンドルでも灯して祈るべきだ」　４連戦で異例の計８死球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a76a77a6a856f97f7e2e3d8e1a9441267d04ee9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「この判決ではまた事故起きる」東電株主代表訴訟で原告上告　控訴審で旧経営陣の責任否定
+      <a href=https://news.yahoo.co.jp/articles/d80a238e1c01f9074f5c00dd5a7cd70b13eaae64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=584&ch=584&exp=10800&fmt=webp> 作新学院監督を謹慎処分　学生野球協会　不適切指導で部員が指を骨折
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b88658fcc3c8e5fc1f3fd013dc8f52cf9cc5175>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 作新学院・小針崇宏監督のシートノック一塁手素手捕球指導は「危険行為」　投手、二塁手は送球を弱める配慮も
+      <a href=https://news.yahoo.co.jp/articles/a78853f89caf25f7605e83e3be1b70e43d152f0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000087-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 東電株主訴訟、原告側が上告　巨額賠償命令取り消しに不服
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79416d24a9477ecbbcf2d60679db178f5a820b89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000073-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=890&ch=890&exp=10800&fmt=webp> ロシア、イラン原発攻撃なら大惨事と警告、チェルノブイリ事故に匹敵
+      <a href=https://news.yahoo.co.jp/articles/c863c15870f05b913d464319aa23cf8f388f17be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000049-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=812&ch=812&exp=10800&fmt=webp> イスラエル、ミサイル装置破壊　イラン応酬、クラスター弾使用か
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e387def4da339d5e14bde7c9c616dd7f65ec6ebe4becb18dd09bd2ab1597eaa4.jpg> 警視庁幹部 冤罪謝罪で名前間違う
+      <a href=https://news.yahoo.co.jp/pickup/6542886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/27ec00168375b85c4a7b4c08dee753b831a6e9164a84e55e8f81d52be389d727.jpg> ユニチカ 繊維事業の一部を売却
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 17:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 18:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
