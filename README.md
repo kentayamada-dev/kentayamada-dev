@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9760a730075456c23f3eb6deb2f68973.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/213d396748f7fe268bd7aa5c577bae42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d778c5342241eb02b5e1c6cb32c4f86e876f7797>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000081-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イラン外相　イスラエルの攻撃は「重大な戦争犯罪」 この後欧州外相らと直接協議へ
+      <a href=https://news.yahoo.co.jp/articles/0bca1066d71af6ee3169a668ec4551a0a7a4e766>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000087-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 欧州3カ国とイラン外相が会談　「軍事作戦は制御不能に陥る危険」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f069c5ef774c5f559ad853cabd24aac75da06c7a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000120-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 捜索から一夜明け…群馬・桐生市議会、入札妨害関連の質疑できず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a366d6a8c5b9977724a9e93ea61cf74f1ef6625d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90028577-ftv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東電株主代表訴訟　原告側が最高裁に上告　二審で逆転敗訴　「誰一人責任を取らないというのは許されない」
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/761a78a7f731b28c9f0c6cd29c77af9e2255aa9d22c034e072c5f03b19378e43.jpg> 明治安田系の元社員 1.6億円着服
+      <a href=https://news.yahoo.co.jp/pickup/6542927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a79ec82ac455c3dbfb3cc778820935ac62fcb3f3ca896e07319d790bcd054d40.jpg> 胸平らに見せる下着 開発者の思い
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 23:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 23:51:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
