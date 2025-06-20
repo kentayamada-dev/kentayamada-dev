@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/721bffa2150ff903deba4ad5730c293b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e788317adbd293be65ee5fe6ebd9f3bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edb26f0bde5623a825f0ade6bfa1c87f38ee14db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201218-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パドレスの主砲マチャド、古巣への怒りが止まらず「キャンドルでも灯して祈るべきだ」　４連戦で異例の計８死球
+      <a href=https://news.yahoo.co.jp/articles/10c1732754f1920f9b659472bfc3d04e01bc8fa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-09321138-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 「福島に尽力してくれていたのでショック」　TOKIO国分太一さん　複数のコンプラ違反で無期限活動休止　福島県民は困惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d80a238e1c01f9074f5c00dd5a7cd70b13eaae64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=584&ch=584&exp=10800&fmt=webp> 作新学院監督を謹慎処分　学生野球協会　不適切指導で部員が指を骨折
+      <a href=https://news.yahoo.co.jp/articles/16ef3777e1f84369ee209b93119d376910a22f61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-02614739-fct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東電株主代表訴訟で株主側が上告　控訴審は旧経営陣の責任認めず一審判決取り消し　福島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a78853f89caf25f7605e83e3be1b70e43d152f0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000087-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 東電株主訴訟、原告側が上告　巨額賠償命令取り消しに不服
+      <a href=https://news.yahoo.co.jp/articles/e80b4ee018f006200565a5149a0c378d2136b823>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777710-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> スアレスは大谷翔平を狙った？　米記者断罪「恥ずべき事」…ロバーツ監督は“確信”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f710eb2a0032c63ce4cc1eadcb7464ef99213fe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00050150-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル南部の病院にミサイル、ネタニヤフ首相「戦争犯罪」と非難…分断世論を結束させる狙いも
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c863c15870f05b913d464319aa23cf8f388f17be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000049-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=812&ch=812&exp=10800&fmt=webp> イスラエル、ミサイル装置破壊　イラン応酬、クラスター弾使用か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/f9cefc7892ce4e1e77cf369a1458a23e60c30fedd0b9e669761fe8e644db45a3.jpg> 5月の消費者物価指数 3.7%上昇
+      <a href=https://news.yahoo.co.jp/pickup/6542892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/509003bd8da64f1e5bc91326a661ecc7a52d1e59ed5495f5c455e2ed02a49b15.jpg> 原発巡る訴訟 東電株主側が上告
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542888>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02255163/title-1750308255800.jpeg?exp=10800> 米大統領 イラン巡る発言なぜ変化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542886>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/27ec00168375b85c4a7b4c08dee753b831a6e9164a84e55e8f81d52be389d727.jpg> ユニチカ 繊維事業の一部を売却
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d29436268dc2ba840bb9c402bdf7ef36194f3739ecf150f6d45efef8c4d8ab73.jpg> 車が正面衝突 1人死亡2人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6542897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a50acdb62712f7e09d5172a35797a84889e7c840b2d29503d917453a6919097a.jpg> 女性死亡 弟とみられる男を確保
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/9e67bc4d904313d8747ba320103049848bc92e1b36a43f323e34529a211c736f.jpg> 映画釣りバカ日誌 栗山監督が死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/b7e4179350e83e2e7791998cd5ab8821b548fca716772fc7a342fb79f3b1b9f0.jpg> 国分太一が無期限で活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6542898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e27b048dc2a9910e61610eeebdc0fb5be6a41c65da680d14a0ad5b9fd86de6d6.jpg> 国分がコメント 自分を見つめ直す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 18:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 18:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
