@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/213d396748f7fe268bd7aa5c577bae42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95e6311d81cbb964cbc8499e96731312.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bca1066d71af6ee3169a668ec4551a0a7a4e766>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000087-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 欧州3カ国とイラン外相が会談　「軍事作戦は制御不能に陥る危険」
+      <a href=https://news.yahoo.co.jp/articles/d7f5cf3eebe838d1c3be2993c474ddeb7191d0d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-gbr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=421&ch=421&exp=10800&fmt=webp> ”空手黒帯”で和太鼓の先生がリングガール、筋肉のぞくミニ衣装で魅了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4682c2ad612dca624e6277a1fe66811a130bdaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10184605-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=800&ch=800&exp=10800&fmt=webp> また報復？ 大谷翔平、とんでもない死球をぶつけられて“まさかの行動”「やめろ！」ベンチへのリアクションが話題に「カッコよすぎる」
+      <a href=https://news.yahoo.co.jp/articles/56d0ba3115459aeb3c22f3f3fefd2a8265c114e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244277-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン外相がイスラエルを非難「核施設への攻撃は重大な戦争犯罪」　国連人権理事会に出席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d78b8841fe7baa6223c4447317c10c1f7e9c83a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000420-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 国分太一は何をした？弁護士ユーチューバー持論「説明しないことで、かえって憶測と不信を…」
+      <a href=https://news.yahoo.co.jp/articles/28e80597915316f0cf646048054d36ed79f34168>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000201-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=1048&ch=1048&exp=10800&fmt=webp> ドジャース・ベッツも死球禍には冷静に対応　「死球について語るのはやめよう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f069c5ef774c5f559ad853cabd24aac75da06c7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000120-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 捜索から一夜明け…群馬・桐生市議会、入札妨害関連の質疑できず
+      <a href=https://news.yahoo.co.jp/articles/8b1dc0419564c4ec7159161d360e788a1fcf1bf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000174-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=64&cw=1685&ch=1685&exp=10800&fmt=webp> 【国分太一】「一体何した？」「会見を」国分やＴＯＫＩＯのＳＮＳに厳しい声も「説明して」多数　「日テレも困ってる」「これ以上ＴＯＫＩＯが減るの見たくない」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542919>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a110ed5e808fde710baf1c5a550192fa8a9bd60a0b49a0c06973f6ff6ba8c2ad.jpg> 若者の「デス活」死を前向きに
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/39265ac1b338ee59007cc87cdc4c921f48a523f04d44bb99c4debe3f91478bf8.jpg> 国分が活動休止 福島県民は困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542916>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/775346fc677b95f57c7a46236e6cde2a0e06bf4b103eb12b722effd6339ef3f6.jpg> 城島茂が声明文発表 国分太一巡り
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 23:51:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 01:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
