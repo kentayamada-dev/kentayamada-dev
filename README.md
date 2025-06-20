@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d812e2154039afb8fefd1539b42ae17.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/926acdd6741ce3a17d6a97cb15fd6f17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/817bb7dd07a3382e327a7526205ab88bfa869a02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778219-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督に1試合の出場停止処分　パドレス戦で乱闘騒ぎ…シルト監督とともに退場に
+      <a href=https://news.yahoo.co.jp/articles/64045525d3dd43ba6fa700f2696cc6a93363f317>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 「無期限の活動休止の影響　次々に」…国分太一「無期限活動休止」波紋を日テレ系「シューイチ」が報じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebacca51da16193b82c1bd9fa1a0450f9574b7eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778300-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”を否定　元阪神右腕「ぶつけようとしたわけではない」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ffbe6b17a60d8b21a034d6504c38b52d85b4342>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211026-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 右肩不調の佐々木朗希が２度目のキャッチボール再開　約２０メートルで１２０キロ程度　６０日間ＩＬ以降も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e3ee70348360cb8c3c61853d1e167191dfef72f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=956&ch=956&exp=10800&fmt=webp> 「今朝の放送を休止しました毎日放送…詳細がわからないまま対応に追われている」…国分太一「無期限活動休止」…テレ朝「グッド！モーニング」でテレビ局「対応」を報じる
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8b5592b7fb47bac55d0cf58caac5c05785d1ac9f4fb7da867722d7c51f91b0ec.jpg> インドに次世代新幹線導入 合意へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542929>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/50903be3d2f13be3d6dccb319b77f970d77e89bef57d399630d8c827d477d43d.jpg> 姉を刺して殺害疑い 出頭の弟逮捕
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542932>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b8cf6b7d2a194a15df6d2f0138b0bf510fb9ea6c6f71b5902f690c213dbb8b54.jpg> 7人乗る軽が横転「危険運転」疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a79ec82ac455c3dbfb3cc778820935ac62fcb3f3ca896e07319d790bcd054d40.jpg> 胸平らに見せる下着 開発者の思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 08:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 08:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
