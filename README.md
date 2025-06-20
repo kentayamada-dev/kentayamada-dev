@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9693fdc92a2e12d13821a4469d972860.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d812e2154039afb8fefd1539b42ae17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/817bb7dd07a3382e327a7526205ab88bfa869a02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778219-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督に1試合の出場停止処分　パドレス戦で乱闘騒ぎ…シルト監督とともに退場に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fa41e35f02fc6b04941b4abd939a4c7c17086da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000013-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> イランのミサイル直撃　イスラエル病院患者「爆風で目が覚めた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ffbe6b17a60d8b21a034d6504c38b52d85b4342>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211026-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 右肩不調の佐々木朗希が２度目のキャッチボール再開　約２０メートルで１２０キロ程度　６０日間ＩＬ以降も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e3ee70348360cb8c3c61853d1e167191dfef72f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=956&ch=956&exp=10800&fmt=webp> 「今朝の放送を休止しました毎日放送…詳細がわからないまま対応に追われている」…国分太一「無期限活動休止」…テレ朝「グッド！モーニング」でテレビ局「対応」を報じる
       </a>
@@ -365,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e900b111476ea387b90e0d76554bf3804e18796f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01777881-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の神対応に美人レポーター感動　“報復死球”直後に…「伝えていたなんて…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5afcf47f28701a18952f83295e8a04c8852ff589>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000016-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン攻撃、「2週間内」に決断　交渉に猶予、時間稼ぎの見方も　軍事と外交両面で圧力・米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8c22d6c69f1219fd1472f2cd945227c14263d76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21980147-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希が60日間の負傷者リスト入りへ、ドジャースが発表　復帰の目途立たず...レッドソックス左腕を獲得
+      <a href=https://news.yahoo.co.jp/articles/d4edd64fffe535b9a1ca90c69b995fdc35383001>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244290-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> プーチン大統領　ウクライナ北東部の州都占領の可能性に言及 「ウクライナ全土がわれわれのもの」持論展開も　会見では孫娘の存在明かす「中国語滑らかに話す」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d45d7a7b14d0060fe3cbc1e47663b177b0114d8e7aec4d7331d36ee002887245.jpg> 英下院「安楽死」容認法案を可決
+      <a href=https://news.yahoo.co.jp/pickup/6542935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/c6007e6661c4c1a786ca4831045fbd371295165a9803eaaef9bc0dd0c718e1d6.jpg> プーチン氏持論 ウ全土我々のもの
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3cef30436b43784abded900342c1f92d7a2b8302780eee0bc8efc1256b46f511.jpg> 朗希 60日間の負傷者リストへ移行
+      <a href=https://news.yahoo.co.jp/pickup/6542936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3cef30436b43784abded900342c1f92d7a2b8302780eee0bc8efc1256b46f511.jpg> 佐々木朗希 60日間のILへ移行
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 07:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
