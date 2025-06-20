@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad037bfed3097831956588de987771a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59a12a31e54d94d3f83a4681cb8e0cb7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b1086a1eef863c2743e7e6b17e6687c0125e78e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平５戦ぶり２６号なるか、１打席目右飛…７勝目狙う山本由伸初回３者凡退の好発進
+      <a href=https://news.yahoo.co.jp/articles/493b5532c1d8d879ee3b39f011bd851568840d36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200302-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 国分太一、最後のＸ投稿は16日　異変感じさせない35秒動画「むちゃくちゃ癒された」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a1fb942ceba435e2eb4978755887e5aa09b34de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244104-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン応酬続く “トランプ大統領がイランへの攻撃を2週間以内に判断” 「外交的解決のチャンスがあれば掴み取る」と交渉続ける姿勢も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a14246e5a0e5ab6cb51e403c092b35875068827>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200274-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側が「人権尊重のお願い」　フジ社長の元アナウンサー被害女性への直接謝罪でコメント
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6956bab16e8bf02691642a76c3c4ed413f92e3d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a62cbabba8271d067a61182e5480dfed41a58175>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00254313-shueisha-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 〈偽造の週刊少年ジャンプ販売で逮捕〉中国から仕入れ“一家総出”でメルカリで高額販売…正規品と精巧につくられたニセモノの明らかな違いとは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f863f8cd8d80ad6dfcf22cdde822c08bc4a01ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10184461-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 米・イラン高官が電話協議「イスラエルの攻撃を止めない限り核交渉は再開しない」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d5ca73ca5ea9a3881ab9f76eb924f0248b4286d6a9e28f6062f6ddb23b88996d.jpg> ガソリン減税法案 職権で採決決定
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542851>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/0191e526fbd55ee76e304a3fa9e6d55f32d061b194a87815ebd098872ddb9e5b.jpg> セカチュー聖地 アジサイに異変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542852>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d9bd767966481e3d314447e7cec348f8469911af6f7b335f6dd8ef86c40ef9cb.jpg> バイきんぐ・小峠英二 結婚を発表
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/58ca1dd75b8d66dcb42eff5545e1e0079bf7b62145c492cee4ea8a86ad17d7af.jpg> 国分太一 無期限活動休止を発表へ
+      <a href=https://news.yahoo.co.jp/pickup/6542859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/bc1d3c46414d64485da70adf3009790c1741e03facc07014655697cc7991696a.jpg> 日テレ 国分太一の番組降板を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 11:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 12:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
