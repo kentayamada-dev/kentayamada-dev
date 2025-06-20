@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81ffaaf86e33685900d03b76d37fd3cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e9aec0fff679f32d464474b31a2c199.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33fb1d4f9cc7cb86a9acede1961ca21a0a5dcb8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36201913-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 徳永有美アナ「福島の魅力を訴え続けてき活動が、このような形で…」活動休止の国分太一に言及
+      <a href=https://news.yahoo.co.jp/articles/438d7bc654c6a849a23cc8bd64ceb195b3fd4a6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」スタメン入り、３戦２死球＆２日後登板も…奪三振王左腕から６戦ぶり２６号期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71697990e1e03669862a7e8c5d6033fc3df79be1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00549944-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「オオタニへの死球は報復だったのでしょうか？」　パドレス監督「正直どうでもいい」直球質問に投げやり気味
+      <a href=https://news.yahoo.co.jp/articles/254243c98af54dd4ab48fbb98dfc1afd62fd0246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランのアラグチ外相、欧州主要3か国外相らと協議　イスラエルとの攻撃の応酬続く中、外交的な解決を模索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cb5851695dc583a209fa1b0aa92fc361f36781c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=1477&ch=1477&exp=10800&fmt=webp> ＮＹ外為市場＝ドル／円3週ぶり高値、中東への米関与懸念で買い
+      <a href=https://news.yahoo.co.jp/articles/1c15dd4ebc4dfc74aa681da919207bd22ea63362>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「中身に関してはあまり関心ありません」…ＴＯＫＩＯ国分太一「コンプライアンス違反」無期限活動休止…徳光和夫さん「ラジオ生放送」でコメント
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 06:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 07:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
