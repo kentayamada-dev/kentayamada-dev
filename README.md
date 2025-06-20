@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/032e35b6d6e33239b070a3261abe7705.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecabd39f683a147124bd62548404c0bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/870fb9187d693fc232f71dbb37ed0c1812276750>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イラン攻撃「2週間以内に決定」
+      <a href=https://news.yahoo.co.jp/articles/a61b8c2b308a0f0f8aa69ac3cb6d88e94a7950a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000019-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イラン核問題の外交的解決、英外相「好機は今後2週間」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a2ecd6c99abde7eb5f4570df9cf92198f47104b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03981814-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「恩返ししたい気持ちはあった」ノーノー逃した北山亘基　新庄監督への思い
+      <a href=https://news.yahoo.co.jp/articles/77912ea096aa9327075f97aaecccc2bfa0b39db1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00549657-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ノーノー阻止後の新庄監督＆巨人選手の“やり取り”に思わぬ注目「すみませんって…」「称えるような姿勢」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/137c3524931732a0f1e67987b1786223aea168c7e167568a047d0d897ac8bc4b.jpg> 共産と立憲 選挙区調整進める考え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542838>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06ca1dae1d40d960a21dfb94fcd62ae11247f708d580b70c00e7c101fdb53a8e.jpg> 直ちに最低賃金1500円に 全労連
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a1c4875def3b834a762590ca3ba39fb9377967028369852fe403d238afbb71ec.jpg> 失神KO負けの佐々木尽 記憶失う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542829>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1e3424d8f16a97e15dcd42d803212521e79c6c8b914ccf89e8594af38e36d882.jpg> 国分太一 TV各局に降板申し入れ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 08:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 09:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
