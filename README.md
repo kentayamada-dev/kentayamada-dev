@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/988889fcfb690db6354f9447371bed0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/916b0f3b1226f8684ebb87e8759599a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1579395ccc5ba1308adaf261f6f79cc1225d206>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201111-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 来季限りで引退表明の坂本花織　「セカンドキャリアではインストラクターに」…主な一問一答
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b27f4617abf8af9c3944f4aa909fa60eb1fcd2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000210-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 初の世界挑戦5回KO負けの佐々木尽がSNS更新「本当に悔しく申し訳ない」　試合後は一時的記憶喪失も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/825057901b7952e29b740da6491c11467afe53e4>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b98b0d172e3e9716d8caf820574cfc1f41bfd9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 群馬県議らによる入札妨害事件　「技術評価点」を不正に変更か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e17d7d20e8f10b9e7d8dbd8c665e966d965641a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03495789-ytv-000-3-thumb.jpg?exp=10800&fmt=webp> 「刑が重すぎる」との控訴退ける　元少年に二審も『懲役18年』判決　15年前の神戸男子高校生殺害事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6956bab16e8bf02691642a76c3c4ed413f92e3d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e3339b55d4acfe3740afb9c98524d316748ab348ed164d951c5c734e2d299876.jpg> 女性はねられ死亡 ひき逃げで捜査
+      <a href=https://news.yahoo.co.jp/pickup/6542868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/875e3f5246ec8652900a4d83ea0a363d91903ef0813e491e90658064ac56d881.jpg> 体育で小学生7人が熱中症疑い搬送
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d9bd767966481e3d314447e7cec348f8469911af6f7b335f6dd8ef86c40ef9cb.jpg> バイきんぐ・小峠英二 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継 国分太一降板巡り日テレ会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/bc1d3c46414d64485da70adf3009790c1741e03facc07014655697cc7991696a.jpg> 日テレ 国分太一の番組降板を発表
+      <a href=https://news.yahoo.co.jp/pickup/6542866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/385b7150c7f92390931576c4cee0a895dcd1cc178562746bc287ada996b427b8.jpg> 小峠の結婚 バイきんぐ西村が祝福
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 13:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 13:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
