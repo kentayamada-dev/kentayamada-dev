@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e961dab2b40a4420f1021e62071324d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c23696ea1cd07991f9118c72984f85c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/635b69cc14eff7b94571dfe930c896e50cf281a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=1018&ch=1018&exp=10800&fmt=webp> 鈴木宗男氏、自民から出馬へ　参院選、議員辞職し復党
+      <a href=https://news.yahoo.co.jp/articles/ff8816c93ef487fb33a0ad68682019beee648da0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000118-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 岩屋外相、イスラエル側にも自制求める　16日のイランに続き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7bd13ca2860243e105f6922ab88376b47c78d31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00550009-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の行動に…韓国でも広がる絶賛「聖人君子級の人間性」　161km直撃でもブレない「品格」
+      <a href=https://news.yahoo.co.jp/articles/dff528137664ba526fe814fe0192b49e14d4042f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01778070-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 殺伐空気が一変…大谷翔平の"神対応"　スターの行動に米メディア称賛の嵐「一流の人間」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52beb81bb1b4bd712bacdcbfb9f9e68066f8ae71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-08124847-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランへの攻撃は…トランプ氏「2週間以内に決断」　イスラエルの攻撃から1週間
+      <a href=https://news.yahoo.co.jp/articles/0be9abe1c570aae7a3e2fe22593eeb42124997f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000283-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> アンナミラーズ復活、東京再出店　12月に3年ぶり、井村屋運営
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a4fe10cb507d3a1081ccd761f9c419cd7f1b35fccdf9af76d69dbf3208f0dbae.jpg> 21日土曜も国会審議 法案採決へ
+      <a href=https://news.yahoo.co.jp/pickup/6542910>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 戦争体験語らない祖母 孫の気づき
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/63633795e0906ae14ac7a7f8077354b9eaac7d432b4616bbdeb8cfc8d9e3403c.jpg> 鈴木宗男氏を参院選で擁立へ 自民
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06d7f80c234806138daac4779e98893416e9e03c6dab16ab9171efebdab95d96.jpg> 観覧車点検中の男性 はさまれ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/bca313a533c5455ff6ce6b43501a74eddc9bf190d5b727f3765a50d86f826c0a.jpg> 高2自殺 被告「おしおき」と主張
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d9994514611a46792a5704166ae56f3eee516735c3b30c935e6cc34644ab23bf.jpg> アンナミラーズ復活 東京に再出店
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542911>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/c379cfaa27aefe9438010cb3a37d92e6aa666dad11b4d80b212669a6ee57655b.jpg> 素手で捕球させ部員骨折 監督処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e27b048dc2a9910e61610eeebdc0fb5be6a41c65da680d14a0ad5b9fd86de6d6.jpg> 国分がコメント 自分を見つめ直す
+      <a href=https://news.yahoo.co.jp/pickup/6542916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/775346fc677b95f57c7a46236e6cde2a0e06bf4b103eb12b722effd6339ef3f6.jpg> 城島茂が声明文発表 国分太一巡り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 21:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 21:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
