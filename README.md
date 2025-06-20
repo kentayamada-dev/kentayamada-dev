@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecabd39f683a147124bd62548404c0bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba118583830117188f7fe2cf09d54094.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a61b8c2b308a0f0f8aa69ac3cb6d88e94a7950a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000019-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イラン核問題の外交的解決、英外相「好機は今後2週間」
+      <a href=https://news.yahoo.co.jp/articles/85b049983083e70494bde6ad0a726b0ac7d5ae78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200129-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1403&ch=1403&exp=10800&fmt=webp> 【日本ハム】投打で巨人圧倒の新庄監督、中日との３連戦は「相性いいんで３連勝を」／一問一答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77912ea096aa9327075f97aaecccc2bfa0b39db1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00549657-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ノーノー阻止後の新庄監督＆巨人選手の“やり取り”に思わぬ注目「すみませんって…」「称えるような姿勢」
+      <a href=https://news.yahoo.co.jp/articles/60de0bcfef5351761100e0abcea3a4534cd29f57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1017&ch=1017&exp=10800&fmt=webp> 「１番ＤＨ」大谷翔平が試合前１０分キャッチボール、日本時間２３日先発へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/696977f120108e80f5fb01eb477993a1f539361b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250619-00000267-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=776&ch=776&exp=10800&fmt=webp> 佐々木尽、壮絶失神5回KO負け　王者の左フックに沈んだ…病院直行、日本勢初ウエルター級世界王座奪取ならず
+      <a href=https://news.yahoo.co.jp/articles/c36570f6a53fedd0f4d19afb6235e7de3045f737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00549643-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「あれこそが彼の強さだと思う」　失神KO勝ち世界王者も敬意を示した佐々木尽という男、八王子から世界に言い放った闘志の言葉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbeffb399ee7090a84968e77cb1d97ffe370171c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米報道官、イラン攻撃は「トランプ氏が2週間以内に決断」
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06426c345ff3957286ae4bd48c8dba398a581b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191126-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ社長が対面で謝罪　被害女性も書面でコメント「二度とこのような被害が起こらないように」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/57c95aa166b6a9586d9b3f914b4a99406bdc7c7d69051f76df22cca9329a2af9.jpg> イラン攻撃2週内に決断 米大統領
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542844>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06ca1dae1d40d960a21dfb94fcd62ae11247f708d580b70c00e7c101fdb53a8e.jpg> 直ちに最低賃金1500円に 全労連
+      <a href=https://news.yahoo.co.jp/pickup/6542846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/be2f78f494a0868c079b179dcc42bf873cee72e545d8f9195b97a09de99c94f5.jpg> 異例 プーチン氏が孫娘に言及
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/9198a53a9a1b59252f269b8f3e87849cdcd85fc1da8e25da41b9a1217539902c.jpg> 和食店 処分無視の発覚防ぐ依頼か
+      <a href=https://news.yahoo.co.jp/pickup/6542839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/604fa465f9d11cd1cd5bcd54df1d62e186c1fc175985d04485a4c3c1ab5f4482.jpg> 園で広がる夕食販売 親をサポート
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1e3424d8f16a97e15dcd42d803212521e79c6c8b914ccf89e8594af38e36d882.jpg> 国分太一 TV各局に降板申し入れ
+      <a href=https://news.yahoo.co.jp/pickup/6542842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/90b769e5f3fdae79f7e3c534e6b313493715073e9a0e360f26516ebf60f19f71.jpg> FW古橋 イングランド2部移籍濃厚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/58ca1dd75b8d66dcb42eff5545e1e0079bf7b62145c492cee4ea8a86ad17d7af.jpg> 国分太一 無期限活動休止を発表へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 09:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 09:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
