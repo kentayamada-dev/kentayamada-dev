@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07d232bd8b556e75ec64c8078b98995a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf4e99f8ebd47448aaae474e61d04968.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/673429040e57b4905665238598a5fe3b79ccbbfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244289-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イギリス下院「安楽死」認める法案を可決　上院審議へ
+      <a href=https://news.yahoo.co.jp/articles/c622358dfabd39a7d5ce28e43ce351e754fab09c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「紳士というか、神というか…」大谷翔平が160キロ直撃後にみせた“予想外の行動”に美人女子アナも驚嘆！「本当に存在が眩しすぎる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c27aa034d7c4e6bae14b3235d533cc47347044c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 大谷翔平　また“報復”死球！それでも神対応　九回タティスに当てて再燃　乱闘騒ぎも笑顔で敵軍と会話
+      <a href=https://news.yahoo.co.jp/articles/16db5cdb920ca05d9f5eb767c786bf262b31c127>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000017-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 国分太一が社長を務める「TOKIO―BA」休止・休園　福島県西郷村の交流施設にも打撃　
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 03:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 04:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
