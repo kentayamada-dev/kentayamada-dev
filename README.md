@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed4cc71901b1f4fd3f13c0cdccee3761.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad037bfed3097831956588de987771a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73530e62bfb85617f51094e24461739a0e33019e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-08172748-mmt-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【続報】ひき逃げは赤い色の大型トラックか　国道45号下りで女性（60代）がひかれ死亡
+      <a href=https://news.yahoo.co.jp/articles/2b1086a1eef863c2743e7e6b17e6687c0125e78e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平５戦ぶり２６号なるか、１打席目右飛…７勝目狙う山本由伸初回３者凡退の好発進
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6956bab16e8bf02691642a76c3c4ed413f92e3d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a62cbabba8271d067a61182e5480dfed41a58175>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00254313-shueisha-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 〈偽造の週刊少年ジャンプ販売で逮捕〉中国から仕入れ“一家総出”でメルカリで高額販売…正規品と精巧につくられたニセモノの明らかな違いとは？
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f863f8cd8d80ad6dfcf22cdde822c08bc4a01ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10184461-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 米・イラン高官が電話協議「イスラエルの攻撃を止めない限り核交渉は再開しない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff82d2612dc32e8de4a339a953054df01f9cf2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777564-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ノーノー快挙目前…右腕が感じた“異様”　ベテランも新人も「みんな顔が引きつっていた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9bcbd6a9e497c4e275ce3a00d58a27cb754c250>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000031-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> ＭＬＢ＝大谷、22日のナショナルズ戦で先発へ　復帰後2回目
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6cce9fb5aa33a01b7c0fd39072df408baf239f3c61ad8f4f5b910e02cd23f668.jpg> イランと米国が複数回の電話協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/7df7d56347c3f22faf820ba4352cca18d9297da174e75cbeed7089f4d58b27f3.jpg> 妻子に暴力 祖父の心壊した沖縄戦
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/85ee11dd4728464b2bdbcbfc8a0503f20d1a4fca584b1587b04ab3f60e706961.jpg> 入院患者へのコメ 調達に病院悲鳴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/be2f78f494a0868c079b179dcc42bf873cee72e545d8f9195b97a09de99c94f5.jpg> 異例 プーチン氏が孫娘に言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/cc9d7043f4be63a9eef3f2df79475b1bf417fcc78cff5e226b3e0fb2f1648243.jpg> 女性はねられ死亡 ひき逃げで捜査
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e3339b55d4acfe3740afb9c98524d316748ab348ed164d951c5c734e2d299876.jpg> 女性はねられ死亡 ひき逃げで捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/91d66d221fcedab0cf0e81fb0b87c7da4a1954c8d949d5dd27cf902ce7e61463.jpg> 偽の少年ジャンプ所持疑い3人逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 11:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
