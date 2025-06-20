@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b04080cc7736a8a59f8797650ec8c703.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3d7feaec16714a7958d713974b9d9e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4b5c88f601f6f8bd1bc95c9310d07b566d4fbc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36201315-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平また報復死球も同僚制し和やかムード　先発登板影響にロバーツ監督「うまく避けたから」
+      <a href=https://news.yahoo.co.jp/articles/69bf6ad4151a88dee178d0c4ab131a1447bb7abb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000026-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 整備中に…観覧車の部品に体をはさまれ男性作業員死亡　観覧車に客はおらず　北海道・おびひろ動物園　　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbf9d169409a0c5fae1bd2ef88c7c1ba96cadcb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01778029-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、160キロ直撃後に見せた“一流の振る舞い”　LA放送も感嘆「見たことのない光景」
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c749ee716728b291fa9449f28a981e9030a5963d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 滋賀で「レッドマウス病」が発生　国内2例目、養鰻場のイワナから
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7895c533785667557dae4dbe2458d2030f7bb6c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90027783-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=865&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> イスラエル×イラン 交戦開始から1週間　対立の背景と変わるパワーバランス　米“介入”止められる？
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542888>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02255163/title-1750308255800.jpeg?exp=10800> 米大統領 イラン巡る発言なぜ変化
+      <a href=https://news.yahoo.co.jp/pickup/6542904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a4fe10cb507d3a1081ccd761f9c419cd7f1b35fccdf9af76d69dbf3208f0dbae.jpg> 21日土曜も国会審議 法案採決へ
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a50acdb62712f7e09d5172a35797a84889e7c840b2d29503d917453a6919097a.jpg> 女性死亡 弟とみられる男を確保
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06d7f80c234806138daac4779e98893416e9e03c6dab16ab9171efebdab95d96.jpg> 観覧車点検中の男性 はさまれ死亡
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/77b132a2f6f3c8120f7dd1b8532edefe73d6b2e75cb95a67caa2e3b4ba45c984.jpg> 死球で球場騒然 大谷は笑顔で対応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542898>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e27b048dc2a9910e61610eeebdc0fb5be6a41c65da680d14a0ad5b9fd86de6d6.jpg> 国分がコメント 自分を見つめ直す
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 19:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
