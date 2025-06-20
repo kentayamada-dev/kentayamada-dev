@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a63206bad7433fe87ca46eb390f6fcfc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba18293731fd0bcc411c4283fee169c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5c1ea3b5d2df75efc83a6cf1074ce2b97217eef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “報復”に怒らなかった大谷翔平は「別次元の人」　死球後の神行動に米解説が愕然「品格があった。誰も同じ対応はできない」
+      <a href=https://news.yahoo.co.jp/articles/93b9e0e509934186e58df0fac5b7e695df360f25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「平和の使者として品格示す」「トラブルの際にいて欲しい男」報復死球も乱闘危機を食い止めた大谷翔平の神対応を米メディアが絶賛…ロバーツ監督は元阪神スアレスを「意図的だ」と批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/823759dce797add8a9ea0541cbbb3b104e47ae40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36201419-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 活動休止の国分太一、コンプラ違反はセクハラに該当する内容と関係者　すでに示談の可能性も
+      <a href=https://news.yahoo.co.jp/articles/1ce1c6f61047eb908ced7cb2b7d2251e5bf28561>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244292-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=506&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 英・仏・独外相ら イランのアラグチ外相に対しIAEAの調査に全面的に協力するよう求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e77f588b48c3fbfe755c7dee6fa752cba22aba61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000003-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 英独仏EU、イランと外相会談　「米国との協議継続」強く呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/926dadd27281e2ea7d9282e19034efb003683551>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06201338-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=112&cw=956&ch=956&exp=10800&fmt=webp> 福島県内に購入した約８万平方メートルの土地　国分太一が失ったファンとの夢
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 05:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 06:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
