@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba6e955fcf4e494069da931d32043d49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/410a002be9612f60603c1380e36fc20f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a671e0433043ccc1a7e0dca57534895483afb2bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200754-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 【全文】コンプラ違反の国分太一が謝罪、城島茂とコメント発表「猛省を促すべく」今後は未定
+      <a href=https://news.yahoo.co.jp/articles/22eda4eef8e0bf3f9897225ae7f4d1f54e0c951f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00098218-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の“大人な振る舞い”に球団OBから絶賛の嵐「現実離れしている」「腹を立てることができない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a07e74595b41b45476031b60daf6ae8b4c5280fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201157-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ロバーツ監督「明らかに故意」大谷翔平への死球に怒り　大谷は腫れた患部に湿布を張って帰宅
+      <a href=https://news.yahoo.co.jp/articles/02de0d3b3478587fc217727cc7cdd087afd89a50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000125-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> “IVE ウォニョンらへの名誉毀損の疑い”炎上系YouTuber、損害賠償訴訟の敗訴に不服…控訴状を提出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a8d3d059d39c01643ede7c1acdb5cd60f4cd4bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000057-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=724&ch=724&exp=10800&fmt=webp> 中居正広氏の代理人、フジ社長の女性への謝罪受けコメント「双方に同じ人権があることを厳にご認識いただきますよう」
+      <a href=https://news.yahoo.co.jp/articles/7370d9b68859ddc4fbb090fd90f5d9a1ce79240c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 広島市の国道で車衝突、1人死亡、2人重体
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/194cad01a44188138dad2c51cba6bbec540ff18298e92a26416c13572f4b40f6.jpg> アベノマスク文書 国の敗訴確定
+      <a href=https://news.yahoo.co.jp/pickup/6542879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/f9cefc7892ce4e1e77cf369a1458a23e60c30fedd0b9e669761fe8e644db45a3.jpg> 5月の消費者物価指数 3.7%上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/ad9a3dfea2aea8c2102a6da91afc61d6ff25ed7911c2737fcaf18ddc1b2ef850.jpg> 公明の山口元代表 政界を引退へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/875e3f5246ec8652900a4d83ea0a363d91903ef0813e491e90658064ac56d881.jpg> 体育で小学生7人が熱中症疑い搬送
+      <a href=https://news.yahoo.co.jp/pickup/6542872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5fa23e3d67587884993e9b246f568c69ed9ee4db1618f89e2e99cf2288685591.jpg> イスラエルとイラン 空爆応酬続く
       </a>
     </td>
   </tr>
@@ -434,16 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a71b20737b7456bf140961a8bb0dd6f68f5c8bee195bdc1bbb4eb352a46ab0b9.jpg> 女性にフジ謝罪 中居氏側コメント
+      <a href=https://news.yahoo.co.jp/pickup/6542889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d29436268dc2ba840bb9c402bdf7ef36194f3739ecf150f6d45efef8c4d8ab73.jpg> 車が正面衝突 1人死亡2人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/86f80751156466e2f8f71f38b2c9ee59ad97f1c71c1a95d51b0f68ff58cb29ae.jpg> 坂本花織 来季限りで引退を表明
+      <a href=https://news.yahoo.co.jp/pickup/6542883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8e3c85534ccbaf708e490a94059188f973393c82718af2b4c222b289ab2f29ee.jpg> 岩手県産「サヴァ缶」販売終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/25139d77d6f1e486b95d2391d23f47621dcc8dbb5ccb69417b14a66670aecd60.jpg> 「iPS細胞」施設開所 柳井氏寄付
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/9e67bc4d904313d8747ba320103049848bc92e1b36a43f323e34529a211c736f.jpg> 映画釣りバカ日誌 栗山監督が死去
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/385b7150c7f92390931576c4cee0a895dcd1cc178562746bc287ada996b427b8.jpg> 小峠の結婚 バイきんぐ西村が祝福
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 15:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 17:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
