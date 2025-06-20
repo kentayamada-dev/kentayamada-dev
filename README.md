@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/410a002be9612f60603c1380e36fc20f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f26e3ec609e151ca0dae960582b2940.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22eda4eef8e0bf3f9897225ae7f4d1f54e0c951f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00098218-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平の“大人な振る舞い”に球団OBから絶賛の嵐「現実離れしている」「腹を立てることができない」
+      <a href=https://news.yahoo.co.jp/articles/b224d4cb86b1e5e91ea8031adf3a3354bf1f4ff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01528928-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「今回は明らかに意図的だった」大谷翔平の死球に指揮官が怒り　その後の紳士的行動に「彼の判断は尊重」試合は退場者4人の大荒れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02de0d3b3478587fc217727cc7cdd087afd89a50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000125-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=512&ch=512&exp=10800&fmt=webp> “IVE ウォニョンらへの名誉毀損の疑い”炎上系YouTuber、損害賠償訴訟の敗訴に不服…控訴状を提出
+      <a href=https://news.yahoo.co.jp/articles/a76a77a6a856f97f7e2e3d8e1a9441267d04ee9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「この判決ではまた事故起きる」東電株主代表訴訟で原告上告　控訴審で旧経営陣の責任否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7370d9b68859ddc4fbb090fd90f5d9a1ce79240c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 広島市の国道で車衝突、1人死亡、2人重体
+      <a href=https://news.yahoo.co.jp/articles/9b88658fcc3c8e5fc1f3fd013dc8f52cf9cc5175>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1015&ch=1015&exp=10800&fmt=webp> 作新学院・小針崇宏監督のシートノック一塁手素手捕球指導は「危険行為」　投手、二塁手は送球を弱める配慮も
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/72906ac87c70f8e068507e5123f398408933179ea64eba94c3c244902b452acc.jpg> 兵庫知事 公選法違反疑い書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6542876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/e387def4da339d5e14bde7c9c616dd7f65ec6ebe4becb18dd09bd2ab1597eaa4.jpg> 警視庁幹部 冤罪謝罪で名前間違う
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/25139d77d6f1e486b95d2391d23f47621dcc8dbb5ccb69417b14a66670aecd60.jpg> 「iPS細胞」施設開所 柳井氏寄付
+      <a href=https://news.yahoo.co.jp/pickup/6542881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/77b132a2f6f3c8120f7dd1b8532edefe73d6b2e75cb95a67caa2e3b4ba45c984.jpg> 死球で球場騒然 大谷は笑顔で対応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 17:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 17:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
