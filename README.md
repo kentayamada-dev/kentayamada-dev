@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3d7feaec16714a7958d713974b9d9e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1906f50cf6fc6be7df3100232eed3acc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69bf6ad4151a88dee178d0c4ab131a1447bb7abb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000026-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 整備中に…観覧車の部品に体をはさまれ男性作業員死亡　観覧車に客はおらず　北海道・おびひろ動物園　　
+      <a href=https://news.yahoo.co.jp/articles/2ea293051f9e8f915ddac81fcf2f209d66141bf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000129-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平への“報復死球”、米解説者が激怒した理由…「正しいやり方じゃない。あんな場所に当てるのはあり得ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbf9d169409a0c5fae1bd2ef88c7c1ba96cadcb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01778029-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、160キロ直撃後に見せた“一流の振る舞い”　LA放送も感嘆「見たことのない光景」
+      <a href=https://news.yahoo.co.jp/articles/97afdcb701982a7f8576978dd949b27c3ef0eb89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-08229146-stv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 観覧車のギアに油をさす作業中　機械に体を挟まれ50代男性死亡　おびひろ動物園・北海道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b07d92b85581d8e568584209f430c86673856e60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000059-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「もう静かに暮らして」中居正広氏　 “被害女性へのフジの謝罪”受け“人権尊重”訴えも疑問噴出
+      <a href=https://news.yahoo.co.jp/articles/52beb81bb1b4bd712bacdcbfb9f9e68066f8ae71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-08124847-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランへの攻撃は…トランプ氏「2週間以内に決断」　イスラエルの攻撃から1週間
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a366d6a8c5b9977724a9e93ea61cf74f1ef6625d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90028577-ftv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東電株主代表訴訟　原告側が最高裁に上告　二審で逆転敗訴　「誰一人責任を取らないというのは許されない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7895c533785667557dae4dbe2458d2030f7bb6c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90027783-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=865&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> イスラエル×イラン 交戦開始から1週間　対立の背景と変わるパワーバランス　米“介入”止められる？
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a50acdb62712f7e09d5172a35797a84889e7c840b2d29503d917453a6919097a.jpg> 女性死亡 弟とみられる男を確保
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06d7f80c234806138daac4779e98893416e9e03c6dab16ab9171efebdab95d96.jpg> 観覧車点検中の男性 はさまれ死亡
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a89da23c92b64556dc68dfd367d48fa45ad5f57eb8ec1e6138a639356cc61897.jpg> おにぎり100円 セブン社長手応え
+      <a href=https://news.yahoo.co.jp/pickup/6542905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d9994514611a46792a5704166ae56f3eee516735c3b30c935e6cc34644ab23bf.jpg> アンナミラーズ復活 東京に再出店
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 20:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 20:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
