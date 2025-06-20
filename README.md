@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abb0b2f43c32c833aef7d5da975afe77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ec820b16d7c3972bca1919e8e9f0292.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/013f2a2b87b031d4f7c65cc66de248f81cdaa23d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00549956-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「日本の文化から学べることがある」　死球の130秒後、大谷が敵ベンチに歩み寄る“聖人の対応”に米絶賛の嵐
+      <a href=https://news.yahoo.co.jp/articles/3fcbf4b5787f935d5b3e79cb315a13b0a9d7eeb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098251-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「ワールドクラスの人間性だ…」死球を受けた大谷翔平の“まさかの行動”に韓国メディアも唖然＆絶賛！「なんて男だろう」「あの笑顔がすべて」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 04:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 05:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
