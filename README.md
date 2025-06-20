@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e788317adbd293be65ee5fe6ebd9f3bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41129bd6fe30cfba20e98dfbffafdc8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10c1732754f1920f9b659472bfc3d04e01bc8fa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-09321138-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 「福島に尽力してくれていたのでショック」　TOKIO国分太一さん　複数のコンプラ違反で無期限活動休止　福島県民は困惑
+      <a href=https://news.yahoo.co.jp/articles/e53ff1754aa69110ed5756566f98c09d14010114>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244199-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰も責任を取らないのは許されない」福島第一原発事故めぐる株主代表訴訟で原告側が最高裁に上告　旧経営陣の責任を認めなかった高裁判決を不服
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16ef3777e1f84369ee209b93119d376910a22f61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-02614739-fct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東電株主代表訴訟で株主側が上告　控訴審は旧経営陣の責任認めず一審判決取り消し　福島
+      <a href=https://news.yahoo.co.jp/articles/910b446739a5e167925403bbe9cceed6272e0ecf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36201169-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米実況「神秘的な存在だよ」大谷翔平が死球後に見せた振る舞いに衝撃「また伝説が刻まれた瞬間」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e80b4ee018f006200565a5149a0c378d2136b823>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777710-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> スアレスは大谷翔平を狙った？　米記者断罪「恥ずべき事」…ロバーツ監督は“確信”
+      <a href=https://news.yahoo.co.jp/articles/afe128623852d79707768e2241f396fcdc7edaff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000092-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1250&ch=1250&exp=10800&fmt=webp> 国士舘大柔道部員の大麻使用疑い　学長「深くおわび」　全国大会辞退
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5fa23e3d67587884993e9b246f568c69ed9ee4db1618f89e2e99cf2288685591.jpg> イスラエルとイラン 空爆応酬続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542888>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02255163/title-1750308255800.jpeg?exp=10800> 米大統領 イラン巡る発言なぜ変化
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/27ec00168375b85c4a7b4c08dee753b831a6e9164a84e55e8f81d52be389d727.jpg> ユニチカ 繊維事業の一部を売却
+      <a href=https://news.yahoo.co.jp/pickup/6542891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/eccfa5079cca9ae652e6cadbb3bd7f539e50d5378336e3607cd69b270fe70a3c.jpg> 兵庫知事 適法の認識に変わりない
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542883>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8e3c85534ccbaf708e490a94059188f973393c82718af2b4c222b289ab2f29ee.jpg> 岩手県産「サヴァ缶」販売終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/deebd46f5ee194bdac6559f66f57181656cd53addbd1383ff7bf2c84577498c2.jpg> 温泉ない市 まんじゅうでアピール
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 18:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 19:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
