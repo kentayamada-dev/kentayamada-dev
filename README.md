@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/59a12a31e54d94d3f83a4681cb8e0cb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c40803895c8465d68f27a04169146cef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/493b5532c1d8d879ee3b39f011bd851568840d36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200302-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 国分太一、最後のＸ投稿は16日　異変感じさせない35秒動画「むちゃくちゃ癒された」
+      <a href=https://news.yahoo.co.jp/articles/ae01602ab524db0abf005a8afa9db8ac8cfa2178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000063-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国務長官、英欧豪外相とイスラエル・イラン情勢協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a1fb942ceba435e2eb4978755887e5aa09b34de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244104-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン応酬続く “トランプ大統領がイランへの攻撃を2週間以内に判断” 「外交的解決のチャンスがあれば掴み取る」と交渉続ける姿勢も
+      <a href=https://news.yahoo.co.jp/articles/e17d7d20e8f10b9e7d8dbd8c665e966d965641a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-03495789-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「刑が重すぎる」との控訴退ける　元少年に二審も『懲役18年』判決　15年前の神戸男子高校生殺害事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/019b3354c10298e09570194037d8d1f431aef007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201083-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> 錦織圭の不倫疑惑　スポンサーのユニクロがコメント「現時点で、お答えできることはございません」
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a14246e5a0e5ab6cb51e403c092b35875068827>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200274-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側が「人権尊重のお願い」　フジ社長の元アナウンサー被害女性への直接謝罪でコメント
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200274-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1207&ch=1207&exp=10800&fmt=webp> 中居正広氏側が「人権尊重のお願い」　フジ社長の元アナウンサー被害女性への直接謝罪でコメント
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6956bab16e8bf02691642a76c3c4ed413f92e3d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c36570f6a53fedd0f4d19afb6235e7de3045f737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00549643-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「あれこそが彼の強さだと思う」　失神KO勝ち世界王者も敬意を示した佐々木尽という男、八王子から世界に言い放った闘志の言葉
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/7df7d56347c3f22faf820ba4352cca18d9297da174e75cbeed7089f4d58b27f3.jpg> 妻子に暴力 祖父の心壊した沖縄戦
+      <a href=https://news.yahoo.co.jp/pickup/6542862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1353bd9214eca3b892d74d379ac40de8977dce3f410d66d3d89a1554f6624e9d.jpg> 15年前の高2殺害 2審も懲役18年
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 12:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 12:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
