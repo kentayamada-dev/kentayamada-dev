@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/900deb671833623df98453dff121a7a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9760a730075456c23f3eb6deb2f68973.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9746e80d700a775a662cb3673c983c02a7d0db2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】イラン外相 イスラエル攻撃は「重大な戦争犯罪」スイスで開かれている国連人権理事会で演説
+      <a href=https://news.yahoo.co.jp/articles/d778c5342241eb02b5e1c6cb32c4f86e876f7797>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000081-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イラン外相　イスラエルの攻撃は「重大な戦争犯罪」 この後欧州外相らと直接協議へ
       </a>
     </td>
   </tr>
@@ -366,7 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4682c2ad612dca624e6277a1fe66811a130bdaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10184605-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=800&ch=800&exp=10800&fmt=webp> また報復？ 大谷翔平、とんでもない死球をぶつけられて“まさかの光景”「やめろ！」ベンチへのリアクションが話題に「カッコよすぎる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10184605-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=800&ch=800&exp=10800&fmt=webp> また報復？ 大谷翔平、とんでもない死球をぶつけられて“まさかの行動”「やめろ！」ベンチへのリアクションが話題に「カッコよすぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d78b8841fe7baa6223c4447317c10c1f7e9c83a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000420-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 国分太一は何をした？弁護士ユーチューバー持論「説明しないことで、かえって憶測と不信を…」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f069c5ef774c5f559ad853cabd24aac75da06c7a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000120-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 捜索から一夜明け…群馬・桐生市議会、入札妨害関連の質疑できず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0be9abe1c570aae7a3e2fe22593eeb42124997f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000283-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> アンナミラーズ復活、東京再出店　12月に3年ぶり、井村屋運営
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6648e16ecac901a9179ae65ef1358277c1cb63d115cbc3bad73548b06f91cd8f.jpg> 引退の山口元代表 遊説先で人気
+      <a href=https://news.yahoo.co.jp/pickup/6542923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d45d7a7b14d0060fe3cbc1e47663b177b0114d8e7aec4d7331d36ee002887245.jpg> 英下院「安楽死」容認法案を可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/bdc0d4c8bf36ec0b46873655122e1494840f58025b36080bbce9f1d799adbf33.jpg> アンナミラーズ復活 井村屋が展開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
+      <a href=https://news.yahoo.co.jp/pickup/6542924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a9081ca26a7648f585051c51d662dc166841df28992d0a6d602eb1e968d9f4a9.jpg> ビュッフェ形式で食事 58人食中毒
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/761a78a7f731b28c9f0c6cd29c77af9e2255aa9d22c034e072c5f03b19378e43.jpg> 明治安田系の元社員 1.6億円着服
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542922>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/00f8e26ce03a8db197ca872be1586ae2ee0c9eb36f055e28efbbee93580125b8.jpg> 坂本花織 引退「スパッと決めた」
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/39eb09f3b780d94230e80845cb645f8f488c8f5310201d4d46be0b5b6d609adb.jpg> 小峠英二結婚 クロちゃんらX投稿
+      <a href=https://news.yahoo.co.jp/pickup/6542926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/39265ac1b338ee59007cc87cdc4c921f48a523f04d44bb99c4debe3f91478bf8.jpg> 国分が活動休止 福島県民は困惑
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 23:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 23:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
