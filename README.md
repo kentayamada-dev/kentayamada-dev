@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41129bd6fe30cfba20e98dfbffafdc8d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b04080cc7736a8a59f8797650ec8c703.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e53ff1754aa69110ed5756566f98c09d14010114>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07244199-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=450&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「誰も責任を取らないのは許されない」福島第一原発事故めぐる株主代表訴訟で原告側が最高裁に上告　旧経営陣の責任を認めなかった高裁判決を不服
+      <a href=https://news.yahoo.co.jp/articles/a4b5c88f601f6f8bd1bc95c9310d07b566d4fbc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36201315-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平また報復死球も同僚制し和やかムード　先発登板影響にロバーツ監督「うまく避けたから」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/910b446739a5e167925403bbe9cceed6272e0ecf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36201169-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米実況「神秘的な存在だよ」大谷翔平が死球後に見せた振る舞いに衝撃「また伝説が刻まれた瞬間」
+      <a href=https://news.yahoo.co.jp/articles/b07d92b85581d8e568584209f430c86673856e60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000059-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「もう静かに暮らして」中居正広氏　 “被害女性へのフジの謝罪”受け“人権尊重”訴えも疑問噴出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afe128623852d79707768e2241f396fcdc7edaff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000092-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1250&ch=1250&exp=10800&fmt=webp> 国士舘大柔道部員の大麻使用疑い　学長「深くおわび」　全国大会辞退
+      <a href=https://news.yahoo.co.jp/articles/a366d6a8c5b9977724a9e93ea61cf74f1ef6625d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90028577-ftv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東電株主代表訴訟　原告側が最高裁に上告　二審で逆転敗訴　「誰一人責任を取らないというのは許されない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f710eb2a0032c63ce4cc1eadcb7464ef99213fe2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00050150-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル南部の病院にミサイル、ネタニヤフ首相「戦争犯罪」と非難…分断世論を結束させる狙いも
+      <a href=https://news.yahoo.co.jp/articles/c749ee716728b291fa9449f28a981e9030a5963d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 滋賀で「レッドマウス病」が発生　国内2例目、養鰻場のイワナから
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45aad7a19b0a318d898e9aa89d48a694a8054369>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000029-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> クック諸島、援助打ち切りのNZを批判「恩着せがましい」
+      <a href=https://news.yahoo.co.jp/articles/7895c533785667557dae4dbe2458d2030f7bb6c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-90027783-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=865&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> イスラエル×イラン 交戦開始から1週間　対立の背景と変わるパワーバランス　米“介入”止められる？
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/509003bd8da64f1e5bc91326a661ecc7a52d1e59ed5495f5c455e2ed02a49b15.jpg> 原発巡る訴訟 東電株主側が上告
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542888>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8e3c85534ccbaf708e490a94059188f973393c82718af2b4c222b289ab2f29ee.jpg> 岩手県産「サヴァ缶」販売終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6542906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a89da23c92b64556dc68dfd367d48fa45ad5f57eb8ec1e6138a639356cc61897.jpg> おにぎり100円 セブン社長手応え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/deebd46f5ee194bdac6559f66f57181656cd53addbd1383ff7bf2c84577498c2.jpg> 温泉ない市 まんじゅうでアピール
+      <a href=https://news.yahoo.co.jp/pickup/6542903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/f9d205049e68dbf0aa9cecf202d86afb4ecc5e0aaf44938564cd3e76e4376cea.jpg> イワナ1万尾死ぬ レッドマウス病
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/c379cfaa27aefe9438010cb3a37d92e6aa666dad11b4d80b212669a6ee57655b.jpg> 素手で捕球させ部員骨折 監督処分
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 19:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 19:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
