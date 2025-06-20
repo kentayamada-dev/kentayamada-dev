@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6a657069cb2a06544122d2e2c41077b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/25c321e2af509ef7283061c5cc12e537.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4bc60bfc9d334c6de05959db7a277da4c6da357>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-21990512-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 攻撃の応酬開始から1週間　イスラエル・イランから日本人の退避開始　鍵を握るトランプ大統領はイラン攻撃計画 “承認”か　核めぐる立場の違いは?須賀川記者解説【news23】
+      <a href=https://news.yahoo.co.jp/articles/4c47d87dca07ec4a953816b579bd2392eb52ee8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-10561677-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=623&ch=623&exp=10800&fmt=webp> ドジャース、両軍指揮官退場の乱戦に敗れる　山本由伸は7回途中3失点も、援護なく6敗目　大谷翔平は3戦ぶり安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b27f4617abf8af9c3944f4aa909fa60eb1fcd2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000210-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 初の世界挑戦5回KO負けの佐々木尽がSNS更新「本当に悔しく申し訳ない」　試合後は一時的記憶喪失も
+      <a href=https://news.yahoo.co.jp/articles/114a0f0d2b1cf81922e212240f28e6ddfc8709f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 副総監「緻密な捜査徹底されていなかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a404dd323cb88c3f96e0630dd38c95d162212ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000046-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=777&ch=777&exp=10800&fmt=webp> コメ「概算金」方式見直しへ　小泉農水相、JA全中会長と一致
+      <a href=https://news.yahoo.co.jp/articles/79416d24a9477ecbbcf2d60679db178f5a820b89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000073-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=890&ch=890&exp=10800&fmt=webp> ロシア、イラン原発攻撃なら大惨事と警告、チェルノブイリ事故に匹敵
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6956bab16e8bf02691642a76c3c4ed413f92e3d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010006-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「人として素晴らしい」巨人OBも絶賛、誠実さがにじみ出たヒーローインタビューも話題　9回1死までノーノ―投球、日本ハムドラフト8位入団、26歳右腕の存在感
+      <a href=https://news.yahoo.co.jp/articles/6b98b0d172e3e9716d8caf820574cfc1f41bfd9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000035-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 群馬県議らによる入札妨害事件　「技術評価点」を不正に変更か
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/ad9a3dfea2aea8c2102a6da91afc61d6ff25ed7911c2737fcaf18ddc1b2ef850.jpg> 公明の山口元代表 政界を引退へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542870>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542868>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/875e3f5246ec8652900a4d83ea0a363d91903ef0813e491e90658064ac56d881.jpg> 体育で小学生7人が熱中症疑い搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/91d66d221fcedab0cf0e81fb0b87c7da4a1954c8d949d5dd27cf902ce7e61463.jpg> 偽の少年ジャンプ所持疑い3人逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 14:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 14:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
