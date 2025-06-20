@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc99f82422eacebf7a5304bd4f2f6c74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba6e955fcf4e494069da931d32043d49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3275492717b5f6505aaf7d4c3627f653a6c91ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777901-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍ロバーツ監督、“死球合戦”に言及　9回に退場処分…連勝は5でストップ
+      <a href=https://news.yahoo.co.jp/articles/a671e0433043ccc1a7e0dca57534895483afb2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200754-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 【全文】コンプラ違反の国分太一が謝罪、城島茂とコメント発表「猛省を促すべく」今後は未定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7dabe722fbd564fb7498ee2c905dd97fb67a2e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36200593-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=23&cw=497&ch=497&exp=10800&fmt=webp> 【ボクシング】19日KO負け佐々木尽「本当に悔しく」「人生上手く行かない」試合後病院に搬送
+      <a href=https://news.yahoo.co.jp/articles/a07e74595b41b45476031b60daf6ae8b4c5280fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-06201157-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ロバーツ監督「明らかに故意」大谷翔平への死球に怒り　大谷は腫れた患部に湿布を張って帰宅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4349b3a9672d459dcbba8a04a830abc9739e5413>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00051846-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】兵庫県知事選のＳＮＳ運用めぐり、斎藤知事とＰＲ会社の代表を書類送検　公選法違反で弁護士らが刑事告発
+      <a href=https://news.yahoo.co.jp/articles/3a8d3d059d39c01643ede7c1acdb5cd60f4cd4bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000057-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=84&cw=724&ch=724&exp=10800&fmt=webp> 中居正広氏の代理人、フジ社長の女性への謝罪受けコメント「双方に同じ人権があることを厳にご認識いただきますよう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45aad7a19b0a318d898e9aa89d48a694a8054369>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000029-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> クック諸島、援助打ち切りのNZを批判「恩着せがましい」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79416d24a9477ecbbcf2d60679db178f5a820b89>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000073-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=890&ch=890&exp=10800&fmt=webp> ロシア、イラン原発攻撃なら大惨事と警告、チェルノブイリ事故に匹敵
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38bad49d29e5c6eee21419663a2f4b2d265b83fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000193-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」　中居氏の「性暴力」認定を巡り、清水社長が被害女性に対面謝罪したことを報道
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6345776efebdfad7a328c28e5831a91a5fe314bf2ed77a311232f13fbd06d2e2.jpg> 国分降板 日テレ事案詳細明かさず
+      <a href=https://news.yahoo.co.jp/pickup/6542878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/b7e4179350e83e2e7791998cd5ab8821b548fca716772fc7a342fb79f3b1b9f0.jpg> 国分太一が無期限で活動休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 15:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 15:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
