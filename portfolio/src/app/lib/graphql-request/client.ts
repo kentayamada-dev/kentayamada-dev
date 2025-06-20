@@ -17,9 +17,9 @@ const createApiClient = (api: keyof typeof API_ENDPOINTS): GraphQLClient => {
 };
 
 export const apiRequest = async <T>(api: keyof typeof API_ENDPOINTS, query: string, variables: Record<string, unknown> = {}): Promise<T> => {
-  const client = createApiClient(api);
-
   try {
+    const client = createApiClient(api);
+
     return await client.request<T>(query, variables);
   } catch (error) {
     return throwColoredError('GraphQL Request Failed', 'red', JSON.stringify(error, null, 2));
