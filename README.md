@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c23696ea1cd07991f9118c72984f85c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d21fc0f92af4d4bf725841ffc1d26f6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff8816c93ef487fb33a0ad68682019beee648da0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000118-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 岩屋外相、イスラエル側にも自制求める　16日のイランに続き
+      <a href=https://news.yahoo.co.jp/articles/dbaa138756ac5309583771c93a288d8a9a524ec5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00050209-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 米国とイラン、外交が活発化…トランプ大統領「２週間以内に行動を決断」軍事介入の判断に猶予
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dff528137664ba526fe814fe0192b49e14d4042f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01778070-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 殺伐空気が一変…大谷翔平の"神対応"　スターの行動に米メディア称賛の嵐「一流の人間」
+      <a href=https://news.yahoo.co.jp/articles/e18a9d274929660a8ca1b0000b4b8938c5a42bd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-01777675-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が死球直後…向かった“相手”「泣けてくる」　異様な空気を一変「人間性が分かる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0be9abe1c570aae7a3e2fe22593eeb42124997f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000283-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> アンナミラーズ復活、東京再出店　12月に3年ぶり、井村屋運営
+      <a href=https://news.yahoo.co.jp/articles/4067b1134700c354dca621c087739c78cab6ae55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000177-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 坂本花織が来季限りで現役引退　2026年2月のミラノ・コルティナ五輪が最後の大舞台／フィギュア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f069c5ef774c5f559ad853cabd24aac75da06c7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000120-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 捜索から一夜明け…群馬・桐生市議会、入札妨害関連の質疑できず
       </a>
     </td>
   </tr>
@@ -402,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02256075/title-1750380970089.jpeg?exp=10800> 台湾海峡通過 なぜ海自艦たかなみ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/63633795e0906ae14ac7a7f8077354b9eaac7d432b4616bbdeb8cfc8d9e3403c.jpg> 鈴木宗男氏を参院選で擁立へ 自民
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/06d7f80c234806138daac4779e98893416e9e03c6dab16ab9171efebdab95d96.jpg> 観覧車点検中の男性 はさまれ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6542887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/6648e16ecac901a9179ae65ef1358277c1cb63d115cbc3bad73548b06f91cd8f.jpg> 引退の山口元代表 遊説先で人気
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/8639ee3e8b91c43917ce5b23860820886d4a01a1960709de7f0201cebf9011f2.jpg> 市長が「公務」でM-1挑戦 支障は
+      <a href=https://news.yahoo.co.jp/pickup/6542915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/bdc0d4c8bf36ec0b46873655122e1494840f58025b36080bbce9f1d799adbf33.jpg> アンナミラーズ復活 井村屋が展開
       </a>
     </td>
   </tr>
@@ -444,6 +436,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542911>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a110ed5e808fde710baf1c5a550192fa8a9bd60a0b49a0c06973f6ff6ba8c2ad.jpg> 若者の「デス活」死を前向きに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/00f8e26ce03a8db197ca872be1586ae2ee0c9eb36f055e28efbbee93580125b8.jpg> 坂本花織 引退「スパッと決めた」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 21:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/20 22:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
