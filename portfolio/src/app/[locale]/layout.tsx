@@ -12,8 +12,7 @@ import 'katex/dist/katex.min.css';
 import 'scroll-hint/css/scroll-hint.css';
 import '../globals.css';
 
-// eslint-disable-next-line @typescript-eslint/require-await
-const generateStaticParams: LayoutGenerateStaticParamsType = async () => {
+const generateStaticParams: LayoutGenerateStaticParamsType = () => {
   return arrayOfLocales.map((locale) => {
     return { locale, slug: [] };
   });

@@ -77,7 +77,7 @@ type NotFoundPageType = AsyncComponentType;
 
 type ArticleGenerateMetadataType = AsyncMetadataComponentType<ArticlePageProps>;
 
-type LayoutGenerateStaticParamsType = () => Promise<LayoutGenerateStaticParams[]>;
+type LayoutGenerateStaticParamsType = () => LayoutGenerateStaticParams[];
 
 type ArticleGenerateStaticParamsType = () => Promise<ArticleGenerateStaticParams[]>;
 

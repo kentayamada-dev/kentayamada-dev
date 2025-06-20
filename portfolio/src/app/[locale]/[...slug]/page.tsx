@@ -16,8 +16,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
   return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
 };
 
-// eslint-disable-next-line @typescript-eslint/require-await
-const CatchAllPage = async (): Promise<void> => {
+const CatchAllPage = (): void => {
   notFound();
 };
 
