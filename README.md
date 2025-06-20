@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xx6vWSuaDb8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b6d70255be42042f5a68d75db1b7ba8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e9aec0fff679f32d464474b31a2c199.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe85fe8e7de29cff78e90e17be7576d19aed77b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00010001-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 井上尚弥がショックを受けた「ウエルター級の世界の壁」…なぜ佐々木尽はノーマンに5回失神KOで敗れたのか…見破られていた弱点、当日の体重差5.6キロ、巧緻性の違い
+      <a href=https://news.yahoo.co.jp/articles/438d7bc654c6a849a23cc8bd64ceb195b3fd4a6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」スタメン入り、３戦２死球＆２日後登板も…奪三振王左腕から６戦ぶり２６号期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6fbd150c3bc72a10d351e2098ece44808c4eb75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-07792948-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「黙り込んでしまいました」ノーノー逃した北山亘基に新庄監督が悔しさ全開「逃してほしくなかった」
+      <a href=https://news.yahoo.co.jp/articles/254243c98af54dd4ab48fbb98dfc1afd62fd0246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランのアラグチ外相、欧州主要3か国外相らと協議　イスラエルとの攻撃の応酬続く中、外交的な解決を模索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85ddcf231b4cd9864f39c73e1ee805b0a35d15d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00989906-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「2週間以内に対応を決定」イランへの攻撃について表明　交渉実現の可能性説明も「イランが合意拒否すれば、深刻な結果招く」警告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/489fbc332c4938a5ae05fb69271ae6f6038f5a5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191183-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=229&cw=816&ch=816&exp=10800&fmt=webp> 【悼む】藤村志保さん、しれっとやってみせる格好良さ　テンポのいい語りや豊富な話題で常識人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06426c345ff3957286ae4bd48c8dba398a581b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-36191126-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ社長が対面で謝罪　被害女性も書面でコメント「二度とこのような被害が起こらないように」
+      <a href=https://news.yahoo.co.jp/articles/1c15dd4ebc4dfc74aa681da919207bd22ea63362>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「中身に関してはあまり関心ありません」…ＴＯＫＩＯ国分太一「コンプライアンス違反」無期限活動休止…徳光和夫さん「ラジオ生放送」でコメント
       </a>
     </td>
   </tr>
@@ -402,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d25c9201c7dd235a8ea3ff369592e6695257d5bdf907bc47d92ab6b50d56cdee.jpg> 野田氏 不信任可決の確信なかった
+      <a href=https://news.yahoo.co.jp/pickup/6542920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/14d100c46954f47fa0a9e9c2d66aad740b93d3b643eb88e8a275e04aa75c5cc4.jpg> 輸出ルールの省令改正へ 冤罪巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/57c95aa166b6a9586d9b3f914b4a99406bdc7c7d69051f76df22cca9329a2af9.jpg> イラン攻撃2週内に決断 米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6542923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/d45d7a7b14d0060fe3cbc1e47663b177b0114d8e7aec4d7331d36ee002887245.jpg> 英下院「安楽死」容認法案を可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/de47103ba7398d101f026d69f28b2cb675840455b618fff9272c5bfe9441e015.jpg> 暑さピーク 近畿中心に猛暑日予想
+      <a href=https://news.yahoo.co.jp/pickup/6542924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a9081ca26a7648f585051c51d662dc166841df28992d0a6d602eb1e968d9f4a9.jpg> ビュッフェ形式で食事 58人食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/550fdaedba37e96cfbb94925254adaaf50133cd9a78e9362eec186f3a07ed4d1.jpg> スペースXの宇宙船 地上で爆発
+      <a href=https://news.yahoo.co.jp/pickup/6542911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/5d65d5e8a94343afee65e1dcc1ef1f5df983a751650e197f0b98f0ee5e71399d.jpg> 人生狂わされた 住宅メーカー破産
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/9198a53a9a1b59252f269b8f3e87849cdcd85fc1da8e25da41b9a1217539902c.jpg> 和食店 処分無視の発覚防ぐ依頼か
+      <a href=https://news.yahoo.co.jp/pickup/6542919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a110ed5e808fde710baf1c5a550192fa8a9bd60a0b49a0c06973f6ff6ba8c2ad.jpg> 若者の「デス活」死を前向きに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a1c4875def3b834a762590ca3ba39fb9377967028369852fe403d238afbb71ec.jpg> 失神KO負けの佐々木尽 記憶失う
+      <a href=https://news.yahoo.co.jp/pickup/6542927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/a79ec82ac455c3dbfb3cc778820935ac62fcb3f3ca896e07319d790bcd054d40.jpg> 胸平らに見せる下着 開発者の思い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/19/38ada2ff0d6058f24ea731afc091da57dc50b46ff026c12e6ee8d19adf542005.jpg> 錦織圭 不倫報道受け謝罪コメント
+      <a href=https://news.yahoo.co.jp/pickup/6542922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/00f8e26ce03a8db197ca872be1586ae2ee0c9eb36f055e28efbbee93580125b8.jpg> 坂本花織 引退「スパッと決めた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/1e3424d8f16a97e15dcd42d803212521e79c6c8b914ccf89e8594af38e36d882.jpg> 国分太一 TV各局に降板申し入れ
+      <a href=https://news.yahoo.co.jp/pickup/6542916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/20/775346fc677b95f57c7a46236e6cde2a0e06bf4b103eb12b722effd6339ef3f6.jpg> 城島茂が声明文発表 国分太一巡り
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/20 07:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 07:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
