@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95e6311d81cbb964cbc8499e96731312.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4273772dffb1426ac4cd18554d1870f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ddf0ae19626e8850bbc03bde7378fe6f86e08981>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000052-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1046&ch=1046&exp=10800&fmt=webp> ドジャース・大谷　また報復死球も“来るな”　パドレスとの遺恨過熱も冷静に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd84c087ad325375cd1b1c25b337a34d4e835cce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 軍事衝突から1週間　イスラエルとイラン、攻撃の応酬続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1acf6da8e51fba14029f0fe23b509c993b63453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-90027836-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 番組降板“ゆかりの地”も困惑…国分太一さん“コンプラ違反”で無期限活動休止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7f5cf3eebe838d1c3be2993c474ddeb7191d0d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-gbr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=421&ch=421&exp=10800&fmt=webp> ”空手黒帯”で和太鼓の先生がリングガール、筋肉のぞくミニ衣装で魅了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56d0ba3115459aeb3c22f3f3fefd2a8265c114e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244277-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン外相がイスラエルを非難「核施設への攻撃は重大な戦争犯罪」　国連人権理事会に出席
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28e80597915316f0cf646048054d36ed79f34168>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000201-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=1048&ch=1048&exp=10800&fmt=webp> ドジャース・ベッツも死球禍には冷静に対応　「死球について語るのはやめよう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b1dc0419564c4ec7159161d360e788a1fcf1bf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000174-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=64&cw=1685&ch=1685&exp=10800&fmt=webp> 【国分太一】「一体何した？」「会見を」国分やＴＯＫＩＯのＳＮＳに厳しい声も「説明して」多数　「日テレも困ってる」「これ以上ＴＯＫＩＯが減るの見たくない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-gbr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=421&ch=421&exp=10800&fmt=webp> ”空手黒帯”で和太鼓の先生がリングガール、鍛えた筋肉、ミニ衣装で魅了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 01:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 01:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
