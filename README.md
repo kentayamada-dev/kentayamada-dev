@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ec820b16d7c3972bca1919e8e9f0292.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a63206bad7433fe87ca46eb390f6fcfc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fcbf4b5787f935d5b3e79cb315a13b0a9d7eeb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098251-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「ワールドクラスの人間性だ…」死球を受けた大谷翔平の“まさかの行動”に韓国メディアも唖然＆絶賛！「なんて男だろう」「あの笑顔がすべて」
+      <a href=https://news.yahoo.co.jp/articles/a5c1ea3b5d2df75efc83a6cf1074ce2b97217eef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “報復”に怒らなかった大谷翔平は「別次元の人」　死球後の神行動に米解説が愕然「品格があった。誰も同じ対応はできない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16db5cdb920ca05d9f5eb767c786bf262b31c127>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000017-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=945&ch=945&exp=10800&fmt=webp> 国分太一が社長を務める「TOKIO―BA」休止・休園　福島県西郷村の交流施設にも打撃　
+      <a href=https://news.yahoo.co.jp/articles/823759dce797add8a9ea0541cbbb3b104e47ae40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36201419-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=863&ch=863&exp=10800&fmt=webp> 活動休止の国分太一、コンプラ違反はセクハラに該当する内容と関係者　すでに示談の可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd84c087ad325375cd1b1c25b337a34d4e835cce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-09473545-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 軍事衝突から1週間　イスラエルとイラン、攻撃の応酬続く
+      <a href=https://news.yahoo.co.jp/articles/e77f588b48c3fbfe755c7dee6fa752cba22aba61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000003-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 英独仏EU、イランと外相会談　「米国との協議継続」強く呼びかけ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 05:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 05:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
