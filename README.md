@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e263f668c17adc8b3bf0ec80025a4017.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c2b007cfccaa2ef3a92b27f48a1b770.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94709495b5b1eba879de6064a672122efd32dbc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010007-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 那須川龍心が階級が上の王者を完封してISKA王座を獲得。試合後には王座を返上してのスーパーフライ級戦線への殴り込みを宣言【RISE】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc085af14c72f8c9f3067e8a11bcc4f181446344>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211992-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1341&ch=1341&exp=10800&fmt=webp> 明石家さんま「戦友」国分太一の活動休止に言及「何があって…」「時代な、時代かな」つぶやく
+      <a href=https://news.yahoo.co.jp/articles/c2406196762e91504fe342bb683be63ccd907f99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000362-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 明石家さんま　国分太一ら「戦友」が次々と　「そういう時代の人たちがこういうことになるっていうのは…」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 02:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 03:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
