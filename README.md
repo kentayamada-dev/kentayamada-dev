@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fb3052bf7893b14e27a64f8cd38ac43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cc5337bc35a2050587f36e5c3130e7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd872686cc540aa01fe9ed737b45e3fde08c6461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01777168-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球界の外にまで広がる影響力…大谷翔平が見せた“お手本”「しゃれた男だ」「作りが違う！」
+      <a href=https://news.yahoo.co.jp/articles/69c4a37168b90c3a5edf3071ec457e68546b268b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-35234554-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イランとイスラエルの衝突、米国は「電話一本で止められる」　イラン大統領府当局者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f877cfcba4ef880b98bf8fe320fc0ae80c0af5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-16944494-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=561&ch=561&exp=10800&fmt=webp> イラン、イスラエルの攻撃が続く限り核関連の協議再開しないと表明
+      <a href=https://news.yahoo.co.jp/articles/f90571a06d18e30a2ad9ef49258d2365b49d19d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184662-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=538&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…！？ 大乱闘中に激怒している監督に近づいて…“驚きの行動”が話題に「すげえなw」「プロ中のプロ」ド軍テオスカーに称賛の嵐
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/434fa7da1c181dd4ad5788d26a775e9213e45c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21993622-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> TOKIOーBAも期間定めず休園　社長務める国分太一さんの活動休止で　福島・西郷村
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21993622-tuf-000-2-thumb.jpg?exp=10800&fmt=webp> TOKIOーBAも期間定めず休園　社長務める国分太一さんの活動休止で　福島・西郷村
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7890c3fcc74384c4bbde5ec015487ae1990a3be7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/451cee5d3e58f0184c21aa091ae6002e9a2c0598a21da3e500fa3ea0b9ff2bf3.jpg> イスラエルの攻撃中止 米「困難」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542939>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> 「顕著な少雨」観測で注意喚起へ
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542948>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/161b1f85a2c26de99be42d560a92e35a93596b53514b1e23d5317be9a406b35c.jpg> 知らない人からジュース 3人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/677326270b566b23e4699a09f43e541ee40d3708b8bfcf7c1acb892db9c72d8d.jpg> 都会卒業 元芸人志望が見つけた夢
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/eb5b90094fdc7b39fbdec3444f41d5c02db93e5d2892b521349ee41d7f9bfdaa.jpg> エンゼルス監督が無期限休養 発表
+      <a href=https://news.yahoo.co.jp/pickup/6542963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e1837dc352947568fb079c8cfd193b5d4280a5a04fe948393b6e4b53d63d9d0d.jpg> 乱闘騒ぎ ドジャース監督に処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/1eaed58e20589c39c37b7f306ccbfe9557f73ecfb39eb51549b3bb40c4f042dc.jpg> 国分太一 問題行為セクハラ該当か
+      <a href=https://news.yahoo.co.jp/pickup/6542961>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02257275/title-1750459063593.jpeg?exp=10800> 国分太一巡る会見 違和感の正体は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 12:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 13:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
