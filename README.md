@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35e0dce302888b0f3e109fb26639a488.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8ccbbb46c43b87efb153b1cb814c0ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/654888928eb6c2d6ce472e9e26f5d40150a49c41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000041-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 乱闘騒ぎでロバーツ監督不在も、ドジャース勝利！ 前日死球の大谷翔平タイムリー、カーショーは無傷の３勝目
+      <a href=https://news.yahoo.co.jp/articles/a6fdd5637b6f88267499ecdff54f02c26c289095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自輸送機、ジブチへ出発　邦人退避に備え情勢分析
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41e02ae0a9abe4a2e14aba43bb73ab0d3bf96a2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000036-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】異例の週末国会　野党4党が参院・財政金融委員長の解任決議案を提出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa1e5d3b873caad8d0706751fdf97b40d6dccb2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349225-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平を米メディアがこぞって神認定　報復死球後の行動に「純粋な品格で臨む教訓を与えた」「王様だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02d2f69ab962ab330468745ec59b17c297aeff4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184667-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=546&ch=546&exp=10800&fmt=webp> プーチン大統領「ウクライナの全土がロシアのものだ」国際会議で主張
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77933459d4584555b77b549c5fce87df57b92c6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349220-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 荻野目洋子がライジングプロダクションと業務提携「気持ちを新たに、仕事に取り組んでいきたい所存です」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69c4a37168b90c3a5edf3071ec457e68546b268b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-35234554-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イランとイスラエルの衝突、米国は「電話一本で止められる」　イラン大統領府当局者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7890c3fcc74384c4bbde5ec015487ae1990a3be7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8e53867675b88bce4d0b266f223bb5b2747cc5ef25c519acddcd6443c225c629.jpg> 少数与党国会 異例尽くしの展開に
+      <a href=https://news.yahoo.co.jp/pickup/6542981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/241ecc980b96ae2e18a8adf6ca425601e601680066d529a30c240cd93af3945d.jpg> ガソリン減税法案 自民が採決拒否
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/451cee5d3e58f0184c21aa091ae6002e9a2c0598a21da3e500fa3ea0b9ff2bf3.jpg> イスラエルの攻撃中止 米「困難」
+      <a href=https://news.yahoo.co.jp/pickup/6542967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9e1d014b2e4f77f3cce13e433ae02f974cf11e90eb7a34668ae291d5a4a48434.jpg> 米大統領 ハーバード大と合意近い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/4a46d3b1464d1304ce1adbd970c6532af1a3b57f5d457a20c3ae7e2054d5100f.jpg> 令和で変化 若者たちの出会い事情
+      <a href=https://news.yahoo.co.jp/pickup/6542973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/af5b411260439d89573fb1666aeb7dc884ea7f111e7e06553a18ec152e38b2f8.jpg> 最後の国鉄型特急電車が完全引退
       </a>
     </td>
   </tr>
@@ -434,32 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/021ae942349e45734b2ebb6d9a0737984109ca78c5320240940a28996adffa5f.jpg> バナナ?ウナギ 引き取り希望殺到
+      <a href=https://news.yahoo.co.jp/pickup/6542970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ae1f875120c01dcb95abcac8eb1218a678eb5b49210425047fdd560e8b1a35a6.jpg> 卵のサイズ 黄身は変わらない?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f01eb0eb7330081a2a09b659328f6cba46ac660c286f413b96d53ae2231ed28e.jpg> メジャー注目 公立校の150km左腕
+      <a href=https://news.yahoo.co.jp/pickup/6542975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/66cb08f95964ca3facd63b2a338eaace395fc7e5cf807f202b2e675bbcd4c2bd.jpg> 大谷死球で投手処分 異議申し立て
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e1837dc352947568fb079c8cfd193b5d4280a5a04fe948393b6e4b53d63d9d0d.jpg> 乱闘騒ぎ ドジャース監督に処分
+      <a href=https://news.yahoo.co.jp/pickup/6542974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30ef189a905a06cbd3f60d7acc55d0e706d061203332a909e94f164c47d31063.jpg> ゴー☆ジャス 再ブレイク中を否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542961>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02257275/title-1750459063593.jpeg?exp=10800> 国分太一巡る会見 違和感の正体は
+      <a href=https://news.yahoo.co.jp/pickup/6542976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fad16805eabb4bd49b3da1e94136c7117deee4d8f0cbde53f850ef2c267ab0ed.jpg> 石橋貴明 冠ラジオが6月で終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 14:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 15:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
