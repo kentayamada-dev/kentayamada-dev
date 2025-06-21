@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73d35cd7803ac59316793a3aa4f3ca71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ef34f3e7a4ef0063b3d98f3cbbe419c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cff657f219fd1632f9b611f73f5a3f29550374b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ガソリン法案廃案へ　国民・玉木氏が与党批判　「参院選で判断仰ぐ」
+      <a href=https://news.yahoo.co.jp/articles/dc085af14c72f8c9f3067e8a11bcc4f181446344>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211992-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1341&ch=1341&exp=10800&fmt=webp> 明石家さんま「戦友」国分太一の活動休止に言及「何があって…」「時代な、時代かな」つぶやく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80b066bd24c5e04401f91875f5abcfa60f53a243>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000152-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> ０－０だったら０－１９　交流戦優勝ＴＱＢ決着なら日本ハムＶ条件は・・・
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8f5a5fb44782699563f18ed541dc53d7868832dd787280bde21f6c3c90e54221.jpg> 過酷売春させた罪 被告が正当化
+      <a href=https://news.yahoo.co.jp/pickup/6543035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fcad78da859d8c6dbf0ae8a4dfbad05071b9ffda9ffc7488938b1db0c84d3373.jpg> ガソリン法案廃案へ 玉木氏が批判
       </a>
     </td>
   </tr>
@@ -418,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8f5a5fb44782699563f18ed541dc53d7868832dd787280bde21f6c3c90e54221.jpg> 過酷売春させた罪 被告が正当化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543029>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f0169a256bebd9b0f6a4485b2e6e6b31fb71bf1124d0f88d14369ef9914e77a1.jpg> 工場で機械に挟まれ 男性意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/4b3525fc5d7d07bd889d4fd2f3288355e16e5fb3c8090e3f82872f9cb60c001b.jpg> サングラスにAI搭載 メタが発売へ
       </a>
     </td>
   </tr>
@@ -432,27 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5c1784f9af524a6d30c040fa2eb152f04f76f396613c57e5dbcda3558df4910e.jpg> 療養中のB'z松本 急きょ登場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 22:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
