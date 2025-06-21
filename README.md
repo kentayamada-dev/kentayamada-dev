@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2aac17f4959edfb3504424479f4fe7e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fb3052bf7893b14e27a64f8cd38ac43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd872686cc540aa01fe9ed737b45e3fde08c6461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01777168-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 球界の外にまで広がる影響力…大谷翔平が見せた“お手本”「しゃれた男だ」「作りが違う！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f877cfcba4ef880b98bf8fe320fc0ae80c0af5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-16944494-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=561&ch=561&exp=10800&fmt=webp> イラン、イスラエルの攻撃が続く限り核関連の協議再開しないと表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/434fa7da1c181dd4ad5788d26a775e9213e45c5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21993622-tuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> TOKIOーBAも期間定めず休園　社長務める国分太一さんの活動休止で　福島・西郷村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7890c3fcc74384c4bbde5ec015487ae1990a3be7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03ced2b23f2f4fd0ee2c6515e0d1a69d9451487c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000029-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平は2打席連続四球　相手左腕は明らかに勝負避ける　カーショーが通算3000Kまで残り「9」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/170d8e20741b56cd96dd6111f69271c5679ee30c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01987488-fct-000-1-thumb.jpg?exp=10800&fmt=webp> TOKIO国分太一氏の活動休止の余波「TOKIO-BA」も無期限休園に　福島県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4629d9079ee9da5e354ee56d6c2899d59e2570c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00079581-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 「もし私が子どもを生めない場合は…」マサイ族と結婚した日本人女性（27）が語る、夫・マサイ戦士（25）との夫婦のあり方
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f7f56776283578a7830171c20b739f41f0c77e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 国連安保理会合でイスラエルとイランが非難合戦、ＩＡＥＡは「放射能漏出のリスク」を警告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00079581-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 「もし私が子どもを生めない場合は…」マサイ族と結婚した日本人女性（27）が語る、夫・マサイ戦士（25）との夫婦のあり方
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/093bac6d486139cf1595b0d626a99c99bcc8dd3cd62442e41d27a071c4b8097d.jpg> 証券口座乗っ取り 監督指針改定へ
+      <a href=https://news.yahoo.co.jp/pickup/6542939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> 「顕著な少雨」観測で注意喚起へ
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542958>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/677326270b566b23e4699a09f43e541ee40d3708b8bfcf7c1acb892db9c72d8d.jpg> 都会卒業 元芸人志望が見つけた夢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5b7b4f533ebbe2fd8eae2fb3d5747702281b24b123d4d7ba9c2e595d5da1a2e6.jpg> マサイ族の戦士と結婚 日本人女性
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b316d0dd1ebe433af68e9da0013a8bef1d4ed24341a6b3df82516247ee8a30af.jpg> BTSのSUGA除隊 全員兵役終える
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 12:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 12:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
