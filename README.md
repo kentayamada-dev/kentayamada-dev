@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/435f895e3e8168fb285637b1f2803e11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57f2b37e352375926dc48dd29dc1f69e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1d446fb476fa41d105b59d6f37bacf999e290ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010005-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平こそ「MLB全体の模範」 死球直後の“紳士的振る舞い”にNFL識者は脱帽「これもベースボールの一部」
+      <a href=https://news.yahoo.co.jp/articles/f8201bbafcf86370773a11ae8d6c14c2f8cfdcc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010000-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 国分太一さん活動休止発表から一夜...福島県内に広がる困惑　トキオバは立ち入り禁止看板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d654ac3995ccf37d1f0fbded65fa502af195e5b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778667-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 4年経っても変わらぬ関係「泣けてくる」　大谷翔平が死球直後…笑顔で向かった“相棒”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8871a84e4616de3309ebf36a1ab4932b4a329177>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-45959789-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=960&ch=960&exp=10800&fmt=webp> インテル優勢は想定内も浦和MFグスタフソン「ローディフェンスから抜け出すことが重要だった」
       </a>
     </td>
   </tr>
@@ -378,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543015>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 与野党 参院選に向け論戦本格化
+      <a href=https://news.yahoo.co.jp/pickup/6543042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0c8aa54fc8ff4131047f64ef352df1690d0e2b13366eb474e660306f3996d45e.jpg> 都議選投票始まる 参院選の前哨戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fcad78da859d8c6dbf0ae8a4dfbad05071b9ffda9ffc7488938b1db0c84d3373.jpg> ガソリン法案廃案へ 玉木氏が批判
+      <a href=https://news.yahoo.co.jp/pickup/6543045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/32199200d40fc6a9f393ef6b72e350aacde6a3fc075331fd6954d379936d67c3.jpg> 日本海側 局地的に警報級の大雨か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6b6e499cb71b1a0337db3ed641cd8370f4bed6b51aab067a877b5e3384b9fce.jpg> ベラルーシ 邦人2人への恩赦決定
       </a>
     </td>
   </tr>
@@ -402,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e40c4205a78948c2bde156e63e668da17386599a0837bd8ad18a6c20dcf6b1ee.jpg> 川遊び中の21歳男性 流され死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f0169a256bebd9b0f6a4485b2e6e6b31fb71bf1124d0f88d14369ef9914e77a1.jpg> 工場で機械に挟まれ 男性意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543038>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 倉庫からクマ 鉢合わせ男性けが
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/9c715be9631da53e626eccf65feb355e3eec9bccf46f9f4e7b4f512a445a49a4.jpg> 観客が設備破壊 横浜FMが処分
+      <a href=https://news.yahoo.co.jp/pickup/6543044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/11057e31ce9797ba8aa592d2cd09bd6bdcc4fd8fb51453b767bc788926e79c2c.jpg> 浦和 インテルに劇的決勝弾許す
       </a>
     </td>
   </tr>
@@ -440,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/869d660b5104b475444b7d4bfd2e37d1412901981ae9a1092968a25b1d824e84.jpg> 松岡昌宏 報道陣に3秒無言で一礼
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 07:00:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 07:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
