@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57f2b37e352375926dc48dd29dc1f69e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e3094982b0cbbaec29d14af6f137220.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8201bbafcf86370773a11ae8d6c14c2f8cfdcc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010000-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 国分太一さん活動休止発表から一夜...福島県内に広がる困惑　トキオバは立ち入り禁止看板
+      <a href=https://news.yahoo.co.jp/articles/05e132a91439e91198a8ac8bcdd66d477d20c399>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000090-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和　インテル戦の内容はスコア以上の差　シュート数5―26　ボール支配率20％―80％
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d654ac3995ccf37d1f0fbded65fa502af195e5b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778667-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 4年経っても変わらぬ関係「泣けてくる」　大谷翔平が死球直後…笑顔で向かった“相棒”
+      <a href=https://news.yahoo.co.jp/articles/a9974213b258596286b24be47d90be3cece1989d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778468-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”「野球のためにいけない」　米番組でOB＆識者が激論…絶対的不可侵の存在
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8871a84e4616de3309ebf36a1ab4932b4a329177>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-45959789-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=960&ch=960&exp=10800&fmt=webp> インテル優勢は想定内も浦和MFグスタフソン「ローディフェンスから抜け出すことが重要だった」
+      <a href=https://news.yahoo.co.jp/articles/fc8859cf7ae749aa493ff4210470d24c40bfde48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000164-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 日本ハム・清宮幸太郎、約1カ月ぶり5号千金弾「結果的に最高の形に」　22日交流戦V可能性に新庄監督「取りにいきます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca5c58dfcedf2761d84e9afcf9695a600e61fd62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-03228716-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=354&ch=354&exp=10800&fmt=webp> 【交流戦順位表】日本ハム18年ぶりVに望みつなげる　ソフトバンク引き分け以上で6年ぶり9度目V
+      <a href=https://news.yahoo.co.jp/articles/47b2ea3768ccd79896bfc99e23eac0ef79dcae40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000165-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> チームTOKIOで謝罪行脚へ　国分太一が無期限活動休止、城島茂＆松岡昌宏とスタッフ一丸となって信頼回復へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543038>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 倉庫からクマ 鉢合わせ男性けが
+      <a href=https://news.yahoo.co.jp/pickup/6543046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ce689d965e11588600aa4ed9fa6051bbed028cf4bf1e93fcbf6bf4fa5b310ceb.jpg> 江戸川区でマンション火災1人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/036059590d05be40882fb77a51a124bfc1f869532899329cfc3542912efe8270.jpg> 退職代行から電話 反省し社内改革
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543044>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/11057e31ce9797ba8aa592d2cd09bd6bdcc4fd8fb51453b767bc788926e79c2c.jpg> 浦和 インテルに劇的決勝弾許す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 07:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 08:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
