@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d0686828064cbf9bea567eb4814e78b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73d35cd7803ac59316793a3aa4f3ca71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/604bc9791fd4602abba31c22f9cf30c994fe79b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000150-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1881&ch=1881&exp=10800&fmt=webp> １９歳の那須川龍心　初の世界王座獲得も判定決着に傷心「ムズムズする内容」兄・天心からも“ダメ出し”「俺の気持ちわかったっしょ？」「マイク５点」
+      <a href=https://news.yahoo.co.jp/articles/8cff657f219fd1632f9b611f73f5a3f29550374b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ガソリン法案廃案へ　国民・玉木氏が与党批判　「参院選で判断仰ぐ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a6331d93a864e2a1e36a25e06bfb208ea0fd1d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098273-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 異例の計８死球…ドジャースとの乱闘騒ぎは「全く後悔していない」パドレス監督が一夜明け言及「タティやチーム、街、組織のために立ち上がった」
+      <a href=https://news.yahoo.co.jp/articles/c35e9bb6bb19b5771ef8d3f1777c5d3d80803b7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778723-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の死球に「虚無」　激昂カーショーと対照的…ド軍ベンチで“無関心”の男に「ジワる」
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/35743234ceba3c747ae28391c4ee9c5b0b012ffd7ca539177fcacdecf2435fcc.jpg> イスラエル・イラン 攻撃が激化
+      <a href=https://news.yahoo.co.jp/pickup/6543015>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 与野党 参院選に向け論戦本格化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543018>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 講演で赤沢氏 日本を再び偉大に
+      <a href=https://news.yahoo.co.jp/pickup/6543034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6f525fbe1639331368913dcd946a2403c8742e0b29e832a957dc831fda0f907b.jpg> イランから隣国へ 避難民続々と
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fe0678875f7281c12b413d7de4fedc6e18ab0ee8188274bae9511fccb49b51a4.jpg> 川で遊んでいた男性 心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6543037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e40c4205a78948c2bde156e63e668da17386599a0837bd8ad18a6c20dcf6b1ee.jpg> 川遊び中の21歳男性 流され死亡
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
+      <a href=https://news.yahoo.co.jp/pickup/6543026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9897b18fed989e72f22953b60ffd5e3933828ba1f03541d249e51f045fd93829.jpg> 天心弟・那須川龍心 初世界王座に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/c95e6707eaa542e3b689b0e61e21990c679655ba690894492de4c3dd51cd4a70.jpg> 菅井友香 櫻坂46卒業3年での変化
+      <a href=https://news.yahoo.co.jp/pickup/6543014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 22:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 22:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
