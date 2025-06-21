@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e81c2fc12bf243513c7c86884cb61163.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5c382cf2aa059c01328c6a4204d1c84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e01a05792fabda826defc3b90f87e86c3ebab6f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07133562-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊輸送機、ジブチへ出発　中東の日本人退避に備え
+      <a href=https://news.yahoo.co.jp/articles/cf940d74996b1482693fad5ef3dae4d144286410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【22日(日)の天気】日本海側を中心に梅雨空　梅雨ない北海道で大雨のおそれ　関東は晴れて35℃超え予想も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1b29bcb2e0a8310650751f46c730d90d2988139>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06835162-nkt-000-1-thumb.jpg?exp=10800&fmt=webp> C-2輸送機　アフリカのジブチへ　緊迫する中東情勢
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c15f610b9f6fd48d09d82488342a233fe570ada1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00030312-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 梅雨明けどうなる?　来週は梅雨前線や熱帯低気圧の影響で強雨も　再来週は晴れて猛暑
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7a943bb381c0cc2096e1ad2cf84c91730f2f4b0c9b7f536b7573601f7fea2865.jpg> 石破首相 都議選で初の応援演説
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542997>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7d396f38e34f9ec3eeabc3ec8e0d633508a461ad11be61435b111575b13c20e6.jpg> 中東緊迫 退避に備え自衛隊機出発
+      <a href=https://news.yahoo.co.jp/pickup/6542993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de27f59b2e06e6431bcf3ebc33ece20fde5a1d5c464dec3b2e7b87be3737c41e.jpg> 大型車が横転し下敷き 運転手死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de27f59b2e06e6431bcf3ebc33ece20fde5a1d5c464dec3b2e7b87be3737c41e.jpg> 大型車が横転し下敷き 運転手死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f93b9822423bec1fab7e0df8d92a4b9200e47aef03c9ad8e038691865e504d6c.jpg> バギー転落死 施設社長を書類送検
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/52287a3295c8fd3665e4b53047153eb9996cd25b262fad76bb2e0d5c3e5bb642.jpg> ヒカルと結婚 進撃のノア公の場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 17:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 18:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
