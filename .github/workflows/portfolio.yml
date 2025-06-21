@@ -6,6 +6,8 @@ env:
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [contentful_published]
   push:
     paths:
       - portfolio/**
