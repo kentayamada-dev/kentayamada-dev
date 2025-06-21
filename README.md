@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/707e6bf578961232e4999b226c6ece38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86ccf8018f1b29f18b84d4977eabbeff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8be4d6437d3ebd09d22c7a27e133e90deaf4493>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184706-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=416&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もうワケわからん！ 緊急登板の松井裕樹に“謎のハプニング”「ウソでしょw」「こんなことある？」予想外すぎる珍光景が話題に
+      <a href=https://news.yahoo.co.jp/articles/deb46d28170cd7ee3bcdc807768064e9e85fe722>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000366-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 横浜M　観戦者の違反行為を発表　ファンがスタジアム設備破損で無期限入場禁止処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f1cd9599e9dae08931446cafa13e5d19bbf457b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000000-ann-000-4-thumb.jpg?exp=10800&fmt=webp> イスラエル再び核施設を攻撃　トランプ氏は停戦仲介動かず？攻撃止めるのは「困難」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bdbdf955b4fed19749739d87e02cf42a5d2e4f56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000148-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平、4試合ぶり適時打　20日に受けた死球痕は変色も〝鉄人〟ぶり発揮　23日先発登板も変更なし
       </a>
     </td>
   </tr>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/abbcafa302c053f638cd8f5f96438135fa4e2736c6ae819368d67549fa21a07b.jpg> 新庄監督の采配ズバリ 当たるわぁ
+      <a href=https://news.yahoo.co.jp/pickup/6543040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/9c715be9631da53e626eccf65feb355e3eec9bccf46f9f4e7b4f512a445a49a4.jpg> 観客が設備破壊 横浜FMが処分
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 23:52:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 00:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
