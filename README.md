@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/926acdd6741ce3a17d6a97cb15fd6f17.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7850e5a5ea9fc70e991cc08cb4701f11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64045525d3dd43ba6fa700f2696cc6a93363f317>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 「無期限の活動休止の影響　次々に」…国分太一「無期限活動休止」波紋を日テレ系「シューイチ」が報じる
+      <a href=https://news.yahoo.co.jp/articles/cc9ad6a9d8542dafe9b9103426c649acae5ead09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国分太一さんの降板発表　「意味のない会見」という批判は想定内？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebacca51da16193b82c1bd9fa1a0450f9574b7eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778300-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”を否定　元阪神右腕「ぶつけようとしたわけではない」
+      <a href=https://news.yahoo.co.jp/articles/98a9b23e062c2c5dd80fead227d98d5ec40e6c3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が報復死球＆乱闘騒動で１試合出場停止「支持する」　大谷翔平死球の元阪神右腕は３戦出場停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16ed1cb670fd82865a5cd6dec463310fdf0d1ad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000247-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=183&cw=927&ch=927&exp=10800&fmt=webp> TOKIO・国分太一の違約金は最大40～50億円　冠ラジオ即休止、MC降板にCM差し止め…テレビ局やCM企業対応追われ
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0fa41e35f02fc6b04941b4abd939a4c7c17086da>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000013-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> イランのミサイル直撃　イスラエル病院患者「爆風で目が覚めた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ffbe6b17a60d8b21a034d6504c38b52d85b4342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211026-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 右肩不調の佐々木朗希が２度目のキャッチボール再開　約２０メートルで１２０キロ程度　６０日間ＩＬ以降も
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/c6007e6661c4c1a786ca4831045fbd371295165a9803eaaef9bc0dd0c718e1d6.jpg> プーチン氏持論 ウ全土我々のもの
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/10f507ee8b512c5832cdb3586e71e95f1942fb6856bdd496727e0e38553fa6ea.jpg> プーチン氏持論 ウ全土我々のもの
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/50903be3d2f13be3d6dccb319b77f970d77e89bef57d399630d8c827d477d43d.jpg> 姉を刺して殺害疑い 出頭の弟逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6542941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9e0f60a075f3551264f5db385f71f394333e11054bd5212b6edacd3ad7c9e760.jpg> 工藤会「賠償逃れ」 被害側提訴へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e8a1e9391b021503f33d8978e82a4098da607e506a4bf2d1924986a21f225807.jpg> 田原俊彦 番組でアナに不適切言動
+      <a href=https://news.yahoo.co.jp/pickup/6542942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/1eaed58e20589c39c37b7f306ccbfe9557f73ecfb39eb51549b3bb40c4f042dc.jpg> 国分太一 問題行為セクハラ該当か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/70b204a1b70b6210fa61a6246d2639f708552f3b629c85f124a46cdd2dc26b75.jpg> JO1鶴房が活動休止 ネットカジノ
+      <a href=https://news.yahoo.co.jp/pickup/6542931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e8a1e9391b021503f33d8978e82a4098da607e506a4bf2d1924986a21f225807.jpg> 田原俊彦 番組でアナに不適切言動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 08:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 09:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
