@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ff5238ec7009ef4365c1db44cff8148.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d88beeae2124b84f1a09a7cd676bf26a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/804391f063eaf7f8f4462a82e3a06f0e706b54dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「オオタニに当てるのは絶対にダメ」元阪神スアレスに米記者が異論！ 大谷翔平への“故意死球”が波紋「野球界のためにもいけない」
+      <a href=https://news.yahoo.co.jp/articles/65f9b812af514e99961d423dbd0988e1cba3118f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050053-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 大谷翔平の背中への死球は「故意」、パドレスのスアレスに３試合の出場停止処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f83cd41dbfdd0441b9a04cb8a187873a7be3767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000006-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一体何が…」福島県民困惑　応援してくれたのに　県、今年もＣＭ準備　ＴＯＫＩＯ国分さん無期限活動休止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8bd13c57137c1931499eb5ed926c1786ca4df17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米が防衛費3.5％要求、日本は2プラス2会合見送り　英紙報道
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2c24a3aae4a4a583b216387a6c691980c70f6dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184645-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 国連安保理 イスラエルとイランが非難の応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f29a550523d05eeb6ca021796d8aab74150a52b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000026-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=535&ch=535&exp=10800&fmt=webp> トランプ政権、日本にGDP比3.5％の防衛費増額を要求　英紙報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81679699a0f78a9b2e09bf9ae9bf270dfc83212b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00990550-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領「ウクライナ全土は我々のものだ」国際フォーラムでスピーチ　「軍需産業は好調だ」と軍の戦闘能力強化も示唆
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cf638277171f8d96fc7d6c18b4d9862808fd3dbd54ac18350bc1a23559e6ae4e.jpg> 参政党の支持率が維新を逆転 時事
+      <a href=https://news.yahoo.co.jp/pickup/6542944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/90ed1d1a2fef0eb9cd08fddb30a89aa23cc38c68b952b32c1f64c696a997651d.jpg> オンカジ抑止 強制遮断に予防効果
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cac4cd1ca5dd5fcfed4a0a577ff5b2c53ab425ca09995a3151feabe917fd965f.jpg> トヨタ 7月から米国で値上げへ
+      <a href=https://news.yahoo.co.jp/pickup/6542955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30413653d87807e66da4a395a6747fd0a99a7acb59c5f49dbe49470620255130.jpg> 万博協会 近く水上ショー再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 10:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 11:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
