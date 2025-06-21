@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bada21bb76d6c312c15e2bb96281b46c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc085765f0702687c7376530ebe0f5e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb7be01fd6274af2f33dc39edd28abac65570cd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00990650-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがイランのミサイル保管施設や発射施設などを空爆…攻撃の応酬激化し事態の打開見通せず　日本人を空路で退避させるため自衛隊輸送機ジブチに向け出発
+      <a href=https://news.yahoo.co.jp/articles/80bfcbfc991666c823fab3973b497382a81001f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211038-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> “報復死球”受けた大谷翔平、予定通り22日先発へ「しっかり投げることできて安心」ロバーツ監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f5d90376cdd35ec81a108e05e473220763431ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211059-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1119&ch=1119&exp=10800&fmt=webp> 【データ】阪神大竹耕太郎、21人目の全球団勝利　通算36勝で達成は３番目の少なさ
+      <a href=https://news.yahoo.co.jp/articles/b1b96592abc421e0705bd62a687ececaf5576db9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-03477449-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊輸送機、ジブチへ出発　中東の日本人退避に備え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af6af36981e45a5449f86477223dc970f72585b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36210823-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 死球に揺れるMLB…エンゼルス戦でも大騒動が勃発　ネトへの２球連続内角球に両軍入り乱れる
+      <a href=https://news.yahoo.co.jp/articles/b923276c7468845b5b004c5cc16001b385ca4a98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211240-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 【阪神】大竹耕太郎が育成出身初の全球団勝利「気合入って当然」　緊急登板の桐敷には「何か贈呈したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67d256fd6d2931c42f68f11a93e6ffd620c8a0eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184670-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=546&ch=546&exp=10800&fmt=webp> “安楽死法案”が英下院で可決 上院で審議へ
+      <a href=https://news.yahoo.co.jp/articles/493b1452096b7ccf3dd4252144fce7ebafa3360c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000049-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【国分太一活動休止】山口達也「チャンスは何度でも」“エール投稿”に賞賛相次ぐも、“傷のなめ合い”批判のリスク
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de27f59b2e06e6431bcf3ebc33ece20fde5a1d5c464dec3b2e7b87be3737c41e.jpg> 大型車が横転し下敷き 運転手死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3d24f699aded5ba5fb44c943782fed711dae4a737ac3a1095803c4690e9af8ab.jpg> 乗用車と衝突 バイクの高3死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 18:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 19:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
