@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2ab7652348e7f4a5d2cd17f97ea0f6b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a56743e18620c84cdca6c57466e71b5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fba4ae5126a5eb7ba70a7bda4fe18c77210af4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050105-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＤｅＮＡ３連発、牧秀悟・筒香嘉智・戸柱恭孝が３者連続アーチ
+      <a href=https://news.yahoo.co.jp/articles/660b6bc23bc723b65cc255848d57dea2ac7f9dbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000039-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【会見はナシ、問い合わせ先は丸投げ】「株式会社TOKIO」には「遊び半分で会社作った」と批判も…国分太一に“卑わい写真加害報道”
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/165971dc2f541ed84627ae26a79b6dfe8ad1d10f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000036-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 《フジの二の舞になるものか》国分太一　日テレで重大コンプラ違反に各局困惑…不祥事の“詳細ナシ”で迅速対応
+      <a href=https://news.yahoo.co.jp/articles/a6fdd5637b6f88267499ecdff54f02c26c289095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自輸送機、ジブチへ出発　邦人退避に備え情勢分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6fdd5637b6f88267499ecdff54f02c26c289095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自輸送機、ジブチへ出発　邦人退避に備え情勢分析
+      <a href=https://news.yahoo.co.jp/articles/ca4a2c0799df82c79c9177ba50e29a0ecdeeb653>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-09456737-stv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トレーラーが横転 運転の男性が車体の下敷きに…その場で死亡確認 北海道江別市
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de27f59b2e06e6431bcf3ebc33ece20fde5a1d5c464dec3b2e7b87be3737c41e.jpg> 大型車が横転し下敷き 運転手死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542987>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f77db9275fa2a99e683b504056f924c38f9753381827ab67d9fc6c6051581cf7.jpg> エアコン使わない親 子世代の心配
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ae1f875120c01dcb95abcac8eb1218a678eb5b49210425047fdd560e8b1a35a6.jpg> 卵のサイズ 黄身は変わらない?
+      <a href=https://news.yahoo.co.jp/pickup/6542985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f4ae48e134c29dae6c34a1294d8f5edabbca88c60ac15087925cd8b5c00edd3b.jpg> 動画撮影で過食嘔吐 女性の体験
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/66cb08f95964ca3facd63b2a338eaace395fc7e5cf807f202b2e675bbcd4c2bd.jpg> 大谷死球で投手処分 異議申し立て
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/243e8f09840c1793602d9ffca28d05898fd95f4867fc67800cf75d44fd750216.jpg> 荻野目洋子 事務所独立し業務提携
+      <a href=https://news.yahoo.co.jp/pickup/6542991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/52287a3295c8fd3665e4b53047153eb9996cd25b262fad76bb2e0d5c3e5bb642.jpg> ヒカルと結婚 進撃のノア公の場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 16:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 17:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
