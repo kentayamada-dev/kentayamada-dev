@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5c382cf2aa059c01328c6a4204d1c84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bada21bb76d6c312c15e2bb96281b46c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf940d74996b1482693fad5ef3dae4d144286410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【22日(日)の天気】日本海側を中心に梅雨空　梅雨ない北海道で大雨のおそれ　関東は晴れて35℃超え予想も
+      <a href=https://news.yahoo.co.jp/articles/eb7be01fd6274af2f33dc39edd28abac65570cd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00990650-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがイランのミサイル保管施設や発射施設などを空爆…攻撃の応酬激化し事態の打開見通せず　日本人を空路で退避させるため自衛隊輸送機ジブチに向け出発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1b29bcb2e0a8310650751f46c730d90d2988139>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06835162-nkt-000-1-thumb.jpg?exp=10800&fmt=webp> C-2輸送機　アフリカのジブチへ　緊迫する中東情勢
+      <a href=https://news.yahoo.co.jp/articles/0f5d90376cdd35ec81a108e05e473220763431ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211059-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1119&ch=1119&exp=10800&fmt=webp> 【データ】阪神大竹耕太郎、21人目の全球団勝利　通算36勝で達成は３番目の少なさ
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/660b6bc23bc723b65cc255848d57dea2ac7f9dbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000039-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【会見はナシ、問い合わせ先は丸投げ】「株式会社TOKIO」には「遊び半分で会社作った」と批判も…国分太一に“卑わい写真加害報道”
+      <a href=https://news.yahoo.co.jp/articles/67d256fd6d2931c42f68f11a93e6ffd620c8a0eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184670-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=546&ch=546&exp=10800&fmt=webp> “安楽死法案”が英下院で可決 上院で審議へ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5e60fcae2710ff8493af561cc232d91f3c70ac22de0074001ad46b6e24c766a8.jpg> コメ概算金廃止要請 生産者の懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542993>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de27f59b2e06e6431bcf3ebc33ece20fde5a1d5c464dec3b2e7b87be3737c41e.jpg> 大型車が横転し下敷き 運転手死亡
       </a>
@@ -434,24 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f4ae48e134c29dae6c34a1294d8f5edabbca88c60ac15087925cd8b5c00edd3b.jpg> 動画撮影で過食嘔吐 女性の体験
+      <a href=https://news.yahoo.co.jp/pickup/6543008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/1144df35609a7e7ea6c9fc62636599f752ad472f71802c10c1aea08877fcc071.jpg> 菅野が敬遠直後に降板「屈辱的」
+      <a href=https://news.yahoo.co.jp/pickup/6543005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30f375f169cf980815e6b5129eb8699a438d703ecb30f4c1f03c9a7a64747037.jpg> 熟年再婚による相続トラブル 増加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/684eada87deb10080cd2b22dcaf7a82e81225fd224219576fd25c07a8287eb7e.jpg> 国分が活動休止 CM各社も対応
+      <a href=https://news.yahoo.co.jp/pickup/6542966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5b7b4f533ebbe2fd8eae2fb3d5747702281b24b123d4d7ba9c2e595d5da1a2e6.jpg> マサイ族の戦士と結婚 日本人女性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6af4cb08cbee1d3a7e3a5ed4a6fed44d90eff7c8b59edbb838a929643098baa6.jpg> 阪神・大竹 緊急降板も12球団勝利
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 18:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 18:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
