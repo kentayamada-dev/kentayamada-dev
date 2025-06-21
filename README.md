@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/959716b3d5688acac09fc6729ba0a9c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1257d4d118a47ab8c015f63bcc768a52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f50ec282845f6c6fe36f5421fe7fe71bb254d34d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000012-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 賞金は裏方さんへ　日本ハム　交流戦逆転優勝へ望みつなぐ　新庄政権初タイトルへ最終戦必勝!
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000012-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 賞金は裏方さんへ　日本ハム　交流戦逆転優勝へ望みつなぐ　新庄政権初タイトルへ最終戦必勝!
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 05:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 06:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
