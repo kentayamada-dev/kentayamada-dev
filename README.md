@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b0f2cc17d1b42fc8f10acb9502bfb62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2aac17f4959edfb3504424479f4fe7e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc12c89b52eb7e5cd807603c25f22a617fe13df4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、“故意死球”翌日の第1打席は四球、一度もバットを振ることなく出塁する…先発カーショーは1回に先制ソロを被弾
+      <a href=https://news.yahoo.co.jp/articles/7890c3fcc74384c4bbde5ec015487ae1990a3be7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2169579421834d26d810757cab2345decaeaf79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000026-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 大谷翔平の第1打席は四球　前日161キロ死球受けるも…23日ナ軍戦も先発へ　ロバーツ監督出場停止の一戦
+      <a href=https://news.yahoo.co.jp/articles/03ced2b23f2f4fd0ee2c6515e0d1a69d9451487c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000029-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平は2打席連続四球　相手左腕は明らかに勝負避ける　カーショーが通算3000Kまで残り「9」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/170d8e20741b56cd96dd6111f69271c5679ee30c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01987488-fct-000-1-thumb.jpg?exp=10800&fmt=webp> TOKIO国分太一氏の活動休止の余波「TOKIO-BA」も無期限休園に　福島県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4629d9079ee9da5e354ee56d6c2899d59e2570c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00079581-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 「もし私が子どもを生めない場合は…」マサイ族と結婚した日本人女性（27）が語る、夫・マサイ戦士（25）との夫婦のあり方
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/507db83323df0d789f995a74aee7050cbf9f4fdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、スムイ州の制圧可能性「排除しない」　侵攻範囲拡大か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3313d98ac0cb192c3cf0477afecd6e5a87dcda8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010002-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博東ゲート前は長蛇の列…6月中の9時・10時台は「ほぼ満員」ウォーターパークのレジオネラ属菌「最初からほぼ検出されなかった」ショーはいつ再開？
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6544ab2d1fe03c9ecd1968239f981900d5df0b166801a622e5b22f22b484654c.jpg> 安保理 イランとイスラエルが応酬
+      <a href=https://news.yahoo.co.jp/pickup/6542965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8e53867675b88bce4d0b266f223bb5b2747cc5ef25c519acddcd6443c225c629.jpg> 少数与党国会 異例尽くしの展開に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/90ed1d1a2fef0eb9cd08fddb30a89aa23cc38c68b952b32c1f64c696a997651d.jpg> オンカジ抑止 強制遮断に予防効果
+      <a href=https://news.yahoo.co.jp/pickup/6542964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/093bac6d486139cf1595b0d626a99c99bcc8dd3cd62442e41d27a071c4b8097d.jpg> 証券口座乗っ取り 監督指針改定へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/095b205fb055ca06735d99e936424b1ea452e5966c298b22748137908d66b7d1.jpg> 特攻兵にヒロポン注射 元軍医後悔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30413653d87807e66da4a395a6747fd0a99a7acb59c5f49dbe49470620255130.jpg> 万博協会 近く水上ショー再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6542958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/677326270b566b23e4699a09f43e541ee40d3708b8bfcf7c1acb892db9c72d8d.jpg> 都会卒業 元芸人志望が見つけた夢
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b316d0dd1ebe433af68e9da0013a8bef1d4ed24341a6b3df82516247ee8a30af.jpg> BTSのSUGA除隊 全員兵役終える
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 11:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 12:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
