@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de05fc23fcd2e7fe55067b4335f778b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2ab7652348e7f4a5d2cd17f97ea0f6b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2581bffab8792d903b46682cd223538afde47d4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778472-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、死球後の“神対応”だけじゃない　LAメディアが振る舞いに爆笑「オチまでつけた」
+      <a href=https://news.yahoo.co.jp/articles/9fba4ae5126a5eb7ba70a7bda4fe18c77210af4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050105-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ＤｅＮＡ３連発、牧秀悟・筒香嘉智・戸柱恭孝が３者連続アーチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/430ecd80e3469115864327b16fb8dce07cc2393f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000035-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ＜草なぎ剛＞FNS歌謡祭に10年ぶり“凱旋”　「司会をやっていたときは嵐に助けてもらった」
+      <a href=https://news.yahoo.co.jp/articles/978edf903d6b39ba07d524ac55b4445909222c18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「こういう状況になるのは初めて」――大谷翔平への“死球騒動”が物議　当てた元阪神助っ人は釈明も日本語の誹謗中傷が止まず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/165971dc2f541ed84627ae26a79b6dfe8ad1d10f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000036-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=790&ch=790&exp=10800&fmt=webp> 《フジの二の舞になるものか》国分太一　日テレで重大コンプラ違反に各局困惑…不祥事の“詳細ナシ”で迅速対応
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02d2f69ab962ab330468745ec59b17c297aeff4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184667-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=546&ch=546&exp=10800&fmt=webp> プーチン大統領「ウクライナの全土がロシアのものだ」国際会議で主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5452bc14ca6acd85da62ac497259330b25e5db31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211110-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> テレ東、「男子ごはん」が経済番組に差し替え…国分太一のコンプラ問題で急きょ対応
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/241ecc980b96ae2e18a8adf6ca425601e601680066d529a30c240cd93af3945d.jpg> ガソリン減税法案 自民が採決拒否
+      <a href=https://news.yahoo.co.jp/pickup/6542982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7d396f38e34f9ec3eeabc3ec8e0d633508a461ad11be61435b111575b13c20e6.jpg> 中東緊迫 退避に備え自衛隊機出発
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/af5b411260439d89573fb1666aeb7dc884ea7f111e7e06553a18ec152e38b2f8.jpg> 最後の国鉄型特急電車が完全引退
+      <a href=https://news.yahoo.co.jp/pickup/6542988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/54ab8c12ad93c52232ab9384a259e124159f8116ba88593a739de8b04ec1b896.jpg> トランプ氏 平和賞巡り不満こぼす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5b7b4f533ebbe2fd8eae2fb3d5747702281b24b123d4d7ba9c2e595d5da1a2e6.jpg> マサイ族の戦士と結婚 日本人女性
+      <a href=https://news.yahoo.co.jp/pickup/6542987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f77db9275fa2a99e683b504056f924c38f9753381827ab67d9fc6c6051581cf7.jpg> エアコン使わない親 子世代の心配
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fad16805eabb4bd49b3da1e94136c7117deee4d8f0cbde53f850ef2c267ab0ed.jpg> 石橋貴明 冠ラジオが6月で終了
+      <a href=https://news.yahoo.co.jp/pickup/6542972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/243e8f09840c1793602d9ffca28d05898fd95f4867fc67800cf75d44fd750216.jpg> 荻野目洋子 事務所独立し業務提携
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 16:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 16:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
