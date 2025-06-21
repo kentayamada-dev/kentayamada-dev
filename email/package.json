@@ -1,4 +1,7 @@
 {
+	"engines": {
+		"npm": "please-use-pnpm"
+	},
 	"scripts": {
 		"deploy": "wrangler deploy",
 		"dev": "wrangler dev --ip 127.0.0.1",
