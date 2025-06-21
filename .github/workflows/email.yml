@@ -28,12 +28,13 @@ jobs:
         with:
           version: 9.15.5
 
-      - name: Build & Deploy Worker
+      - name: Deploy
         uses: cloudflare/wrangler-action@v3.14.1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: "email"
+          wranglerVersion: "4.20.5"
 
       - name: Delete previous workflow
         run: |
