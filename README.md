@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ef34f3e7a4ef0063b3d98f3cbbe419c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bbfd4e8dc1da4b5224a5062e87134d5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8be4d6437d3ebd09d22c7a27e133e90deaf4493>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184706-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=416&cy=0&cw=800&ch=800&exp=10800&fmt=webp> もうワケわからん！ 緊急登板の松井裕樹に“謎のハプニング”「ウソでしょw」「こんなことある？」予想外すぎる珍光景が話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dc085af14c72f8c9f3067e8a11bcc4f181446344>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211992-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1341&ch=1341&exp=10800&fmt=webp> 明石家さんま「戦友」国分太一の活動休止に言及「何があって…」「時代な、時代かな」つぶやく
       </a>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80b066bd24c5e04401f91875f5abcfa60f53a243>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000152-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> ０－０だったら０－１９　交流戦優勝ＴＱＢ決着なら日本ハムＶ条件は・・・
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c35e9bb6bb19b5771ef8d3f1777c5d3d80803b7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778723-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の死球に「虚無」　激昂カーショーと対照的…ド軍ベンチで“無関心”の男に「ジワる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1b96592abc421e0705bd62a687ececaf5576db9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-03477449-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊輸送機、ジブチへ出発　中東の日本人退避に備え
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000152-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=1646&ch=1646&exp=10800&fmt=webp> ０－０だったら０－１９　交流戦優勝ＴＱＢ決着なら日本ハムＶ条件は・・・
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8f5a5fb44782699563f18ed541dc53d7868832dd787280bde21f6c3c90e54221.jpg> 過酷売春させた罪 被告が正当化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543029>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f0169a256bebd9b0f6a4485b2e6e6b31fb71bf1124d0f88d14369ef9914e77a1.jpg> 工場で機械に挟まれ 男性意識不明
       </a>
@@ -442,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/4b3525fc5d7d07bd889d4fd2f3288355e16e5fb3c8090e3f82872f9cb60c001b.jpg> サングラスにAI搭載 メタが発売へ
+      <a href=https://news.yahoo.co.jp/pickup/6543008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9897b18fed989e72f22953b60ffd5e3933828ba1f03541d249e51f045fd93829.jpg> 天心弟・那須川龍心 初世界王座に
+      <a href=https://news.yahoo.co.jp/pickup/6543038>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 倉庫からクマ 鉢合わせ男性けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/abbcafa302c053f638cd8f5f96438135fa4e2736c6ae819368d67549fa21a07b.jpg> 新庄監督の采配ズバリ 当たるわぁ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 23:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 23:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
