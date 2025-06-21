@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d88beeae2124b84f1a09a7cd676bf26a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b0f2cc17d1b42fc8f10acb9502bfb62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65f9b812af514e99961d423dbd0988e1cba3118f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050053-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 大谷翔平の背中への死球は「故意」、パドレスのスアレスに３試合の出場停止処分
+      <a href=https://news.yahoo.co.jp/articles/bc12c89b52eb7e5cd807603c25f22a617fe13df4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、“故意死球”翌日の第1打席は四球、一度もバットを振ることなく出塁する…先発カーショーは1回に先制ソロを被弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f83cd41dbfdd0441b9a04cb8a187873a7be3767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000006-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一体何が…」福島県民困惑　応援してくれたのに　県、今年もＣＭ準備　ＴＯＫＩＯ国分さん無期限活動休止
+      <a href=https://news.yahoo.co.jp/articles/f2169579421834d26d810757cab2345decaeaf79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000026-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 大谷翔平の第1打席は四球　前日161キロ死球受けるも…23日ナ軍戦も先発へ　ロバーツ監督出場停止の一戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8bd13c57137c1931499eb5ed926c1786ca4df17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米が防衛費3.5％要求、日本は2プラス2会合見送り　英紙報道
+      <a href=https://news.yahoo.co.jp/articles/9f7f56776283578a7830171c20b739f41f0c77e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 国連安保理会合でイスラエルとイランが非難合戦、ＩＡＥＡは「放射能漏出のリスク」を警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c24a3aae4a4a583b216387a6c691980c70f6dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184645-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 国連安保理 イスラエルとイランが非難の応酬
+      <a href=https://news.yahoo.co.jp/articles/507db83323df0d789f995a74aee7050cbf9f4fdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、スムイ州の制圧可能性「排除しない」　侵攻範囲拡大か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cbb1b0c90f4866b751743f7acdd9fcc5681a8661dc051d5ef94b3cb9d3845939.jpg> チョコモナカジャンボ 外国人注目
+      <a href=https://news.yahoo.co.jp/pickup/6542954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/021ae942349e45734b2ebb6d9a0737984109ca78c5320240940a28996adffa5f.jpg> バナナ?ウナギ 引き取り希望殺到
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/084c97968eb0c2fe2d381ea2648874a1673df7941426a10a3dfb1597b0f79b13.jpg> 乱闘危機止めた大谷 米で絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6542951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/eb5b90094fdc7b39fbdec3444f41d5c02db93e5d2892b521349ee41d7f9bfdaa.jpg> エンゼルス監督が無期限休養 発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 11:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 11:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
