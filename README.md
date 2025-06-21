@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05e43bb94b35fed012159e9ce42af8ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2629db9eb5043956c89f6a0c2bd3f48a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f890835294b780c600a911e2a6abcf265812fd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000109-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=851&ch=851&exp=10800&fmt=webp> B'z松本孝弘、体調不良で出演見送りを発表した「UNITE #2」に急きょアンコールから出演　療養続くもファンと「特別な時間を少しでもともに過ごしたい」と強く希望
+      <a href=https://news.yahoo.co.jp/articles/06d0c9ad6f239c4a565e1c267828a304a6f73102>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000310-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RISE】那須川天心の弟・龍心　判定勝ちで初の世界ベルト獲得「次は53キロのベルトを狙う」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a6331d93a864e2a1e36a25e06bfb208ea0fd1d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098273-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 異例の計８死球…ドジャースとの乱闘騒ぎは「全く後悔していない」パドレス監督が一夜明け言及「タティやチーム、街、組織のために立ち上がった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb79995bdb6b441434c5df1a4567559791aad3d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国会が事実上閉会、参院選へ　ガソリン法案巡り異例の「週末審議」
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de1d2a0a3d1044b1d8b65ea634825a6e48ab073c9abc3d7d2893928796910845.jpg> 上海に観光施設続々 日本と競合も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543020>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8f5a5fb44782699563f18ed541dc53d7868832dd787280bde21f6c3c90e54221.jpg> 過酷売春させた罪 被告が正当化
       </a>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/310e1b570a96edbb7b2c22d19a6918c37b2f5bf9156147c39796e639e9e379e6.jpg> 精子提供で誕生「出自知りたい」
+      <a href=https://news.yahoo.co.jp/pickup/6543008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
+      <a href=https://news.yahoo.co.jp/pickup/6543017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6f60b853f660b24d9e98a5bc78ce046d25e1aa262876596f5229d9f8e3239883.jpg> G逆転劇で連勝 監督「興奮した」
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/07681013b4d4817f4ba1d29ffba0141ae2671fa1d4e0f661e4936e086d1b86cb.jpg> 石橋貴明のラジオ終了 療養のため
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 20:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 21:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
