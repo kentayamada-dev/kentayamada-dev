@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bbfd4e8dc1da4b5224a5062e87134d5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/707e6bf578961232e4999b226c6ece38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6f525fbe1639331368913dcd946a2403c8742e0b29e832a957dc831fda0f907b.jpg> イランから隣国へ 避難民続々と
+      <a href=https://news.yahoo.co.jp/pickup/6543035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fcad78da859d8c6dbf0ae8a4dfbad05071b9ffda9ffc7488938b1db0c84d3373.jpg> ガソリン法案廃案へ 玉木氏が批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fcad78da859d8c6dbf0ae8a4dfbad05071b9ffda9ffc7488938b1db0c84d3373.jpg> ガソリン法案廃案へ 玉木氏が批判
+      <a href=https://news.yahoo.co.jp/pickup/6543033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7644dcd0929dc929078452e20b584175784d5f83e0b756f3bf866b98e3b7c344.jpg> 森友 夫の直筆ノートに妻が思い
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543038>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 倉庫からクマ 鉢合わせ男性けが
       </a>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 23:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 23:52:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
