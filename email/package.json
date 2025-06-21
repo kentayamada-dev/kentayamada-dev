@@ -1,0 +1,15 @@
+{
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev --ip 127.0.0.1",
+		"start": "wrangler dev",
+		"cf-login": "wrangler login --browser=false --callback-host=0.0.0.0 --callback-port=8976 | stdbuf -oL sed 's/0.0.0.0/localhost/g'"
+	},
+	"devDependencies": {
+		"wrangler": "4.20.5"
+	},
+	"dependencies": {
+		"postal-mime": "2.4.3",
+		"resend": "4.6.0"
+	}
+}

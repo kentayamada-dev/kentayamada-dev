@@ -1,0 +1,25 @@
+{
+  "service": "email",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "workspaceFolder": "/home/dev/workspaces/email",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "javascript.preferences.importModuleSpecifier": "shortest",
+        "javascript.preferences.quoteStyle": "single",
+        "javascript.preferences.useAliasesForRenames": false,
+        "prettier.requireConfig": true
+      },
+      "extensions": [
+        "mhutchie.git-graph",
+        "Exelord.git-commits",
+        "esbenp.prettier-vscode",
+        "kentayamada.vscode-statusbar-commands",
+        "kentayamada.vscode-gpt-project-loader"
+      ]
+    }
+  }
+}
