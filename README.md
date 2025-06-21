@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9da9feb685f1756d3cc3f5fa461641e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e293211fbfcee9ad04aef7bc4c1e0ed7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb79995bdb6b441434c5df1a4567559791aad3d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国会が事実上閉会、参院選へ　ガソリン法案巡り異例の「週末審議」
+      <a href=https://news.yahoo.co.jp/articles/8a6331d93a864e2a1e36a25e06bfb208ea0fd1d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098273-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 異例の計８死球…ドジャースとの乱闘騒ぎは「全く後悔していない」パドレス監督が一夜明け言及「タティやチーム、街、組織のために立ち上がった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80bfcbfc991666c823fab3973b497382a81001f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211038-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> “報復死球”受けた大谷翔平、予定通り22日先発へ「しっかり投げることできて安心」ロバーツ監督
+      <a href=https://news.yahoo.co.jp/articles/d90b0e5feb2a4793ce588ffc527e1bdb9031e77a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211395-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=1266&ch=1266&exp=10800&fmt=webp> とんねるず木梨憲武「石橋貴明のGATE７」29日終了伝える「最終回、わたくしが…」
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7a943bb381c0cc2096e1ad2cf84c91730f2f4b0c9b7f536b7573601f7fea2865.jpg> 石破首相 都議選で初の応援演説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/517ea986d4f9cb1268165fda9148f40feeb94d3fe8cde8c6e81c648240ef62dd.jpg> 来週は梅雨空戻る 雨降りやすく
+      <a href=https://news.yahoo.co.jp/pickup/6543012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5ee63adfe68610e14115392f0ee27d25b241a9dc623bb508a6b64fae1d8312f3.jpg> 野党のガソリン減税法案 廃案へ
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f93b9822423bec1fab7e0df8d92a4b9200e47aef03c9ad8e038691865e504d6c.jpg> バギー転落死 施設社長を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6543010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/310e1b570a96edbb7b2c22d19a6918c37b2f5bf9156147c39796e639e9e379e6.jpg> 精子提供で誕生「出自知りたい」
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30f375f169cf980815e6b5129eb8699a438d703ecb30f4c1f03c9a7a64747037.jpg> 熟年再婚による相続トラブル 増加
+      <a href=https://news.yahoo.co.jp/pickup/6543014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/07681013b4d4817f4ba1d29ffba0141ae2671fa1d4e0f661e4936e086d1b86cb.jpg> 石橋貴明のラジオ終了 療養のため
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 19:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 20:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
