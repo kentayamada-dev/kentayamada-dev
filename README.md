@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cc5337bc35a2050587f36e5c3130e7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47f89c588c428392c00308b03f59538c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5452bc14ca6acd85da62ac497259330b25e5db31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211110-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> テレ東、「男子ごはん」が経済番組に差し替え…国分太一のコンプラ問題で急きょ対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77933459d4584555b77b549c5fce87df57b92c6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349220-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 荻野目洋子がライジングプロダクションと業務提携「気持ちを新たに、仕事に取り組んでいきたい所存です」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69c4a37168b90c3a5edf3071ec457e68546b268b>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/434fa7da1c181dd4ad5788d26a775e9213e45c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-21993622-tuf-000-2-thumb.jpg?exp=10800&fmt=webp> TOKIOーBAも期間定めず休園　社長務める国分太一さんの活動休止で　福島・西郷村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7890c3fcc74384c4bbde5ec015487ae1990a3be7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244307-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍を阻止し、殺人者らを排除しながら防衛している」ゼレンスキー大統領が反発　プーチン大統領が州都スーミ占領の可能性に言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4629d9079ee9da5e354ee56d6c2899d59e2570c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00079581-bunshun-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 「もし私が子どもを生めない場合は…」マサイ族と結婚した日本人女性（27）が語る、夫・マサイ戦士（25）との夫婦のあり方
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/161b1f85a2c26de99be42d560a92e35a93596b53514b1e23d5317be9a406b35c.jpg> 知らない人からジュース 3人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6542969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/4a46d3b1464d1304ce1adbd970c6532af1a3b57f5d457a20c3ae7e2054d5100f.jpg> 令和で変化 若者たちの出会い事情
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 13:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 13:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
