@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2629db9eb5043956c89f6a0c2bd3f48a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/810922a165cf9171bf6ecd33dbd23111.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06d0c9ad6f239c4a565e1c267828a304a6f73102>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000310-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RISE】那須川天心の弟・龍心　判定勝ちで初の世界ベルト獲得「次は53キロのベルトを狙う」
+      <a href=https://news.yahoo.co.jp/articles/15e4485d4e8cee247f61e29e409f18b43723ad8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349284-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＲＩＳＥ】那須川龍心 ISKA世界王座奪取も…判定勝ちに反省「空回りしてしまって…」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5ee63adfe68610e14115392f0ee27d25b241a9dc623bb508a6b64fae1d8312f3.jpg> 野党のガソリン減税法案 廃案へ
+      <a href=https://news.yahoo.co.jp/pickup/6543025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/35743234ceba3c747ae28391c4ee9c5b0b012ffd7ca539177fcacdecf2435fcc.jpg> イスラエル・イラン 攻撃が激化
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543018>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 講演で赤沢氏 日本を再び偉大に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/de1d2a0a3d1044b1d8b65ea634825a6e48ab073c9abc3d7d2893928796910845.jpg> 上海に観光施設続々 日本と競合も
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543008>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fe0678875f7281c12b413d7de4fedc6e18ab0ee8188274bae9511fccb49b51a4.jpg> 川で遊んでいた男性 心肺停止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 21:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 21:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
