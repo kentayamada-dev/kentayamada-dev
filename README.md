@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e293211fbfcee9ad04aef7bc4c1e0ed7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05e43bb94b35fed012159e9ce42af8ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f890835294b780c600a911e2a6abcf265812fd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000109-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=851&ch=851&exp=10800&fmt=webp> B'z松本孝弘、体調不良で出演見送りを発表した「UNITE #2」に急きょアンコールから出演　療養続くもファンと「特別な時間を少しでもともに過ごしたい」と強く希望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8a6331d93a864e2a1e36a25e06bfb208ea0fd1d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00098273-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 異例の計８死球…ドジャースとの乱闘騒ぎは「全く後悔していない」パドレス監督が一夜明け言及「タティやチーム、街、組織のために立ち上がった」
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d90b0e5feb2a4793ce588ffc527e1bdb9031e77a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-36211395-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=1266&ch=1266&exp=10800&fmt=webp> とんねるず木梨憲武「石橋貴明のGATE７」29日終了伝える「最終回、わたくしが…」
+      <a href=https://news.yahoo.co.jp/articles/fb79995bdb6b441434c5df1a4567559791aad3d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国会が事実上閉会、参院選へ　ガソリン法案巡り異例の「週末審議」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b1b96592abc421e0705bd62a687ececaf5576db9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-03477449-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 航空自衛隊輸送機、ジブチへ出発　中東の日本人退避に備え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/493b1452096b7ccf3dd4252144fce7ebafa3360c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000049-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【国分太一活動休止】山口達也「チャンスは何度でも」“エール投稿”に賞賛相次ぐも、“傷のなめ合い”批判のリスク
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a5897953bd6d135324f462d7a8556c0f9635ba30cc6d5b51771c1d0817ecba7d.jpg> イラン攻撃巡り プーチン氏の誤算
+      <a href=https://news.yahoo.co.jp/pickup/6543018>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 講演で赤沢氏 日本を再び偉大に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3d24f699aded5ba5fb44c943782fed711dae4a737ac3a1095803c4690e9af8ab.jpg> 乗用車と衝突 バイクの高3死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8f5a5fb44782699563f18ed541dc53d7868832dd787280bde21f6c3c90e54221.jpg> 過酷売春させた罪 被告が正当化
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/16f6f7c3deb4dda0bec40c81d119cd7b03ae9cc8df6b4c5ce415c8e43ccb8dda.jpg> ルメールが騎乗見合わせへ 休暇
+      <a href=https://news.yahoo.co.jp/pickup/6543022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5c1784f9af524a6d30c040fa2eb152f04f76f396613c57e5dbcda3558df4910e.jpg> 療養中のB'z松本 急きょ登場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 20:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 20:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
