@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/616bdf2fd7f182ba9f0bc24d3655530c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66a052f48fa79de42026680c23e6b7dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b67b7706bacd387baab0c1364116d67c7c3b4e11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1725&ch=1725&exp=10800&fmt=webp> 大谷翔平　報復死球から一夜明け４戦ぶり適時打　日本時間２３日先発　ロバーツ監督明言「問題なく調整できている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deb46d28170cd7ee3bcdc807768064e9e85fe722>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000366-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 横浜M　観戦者の違反行為を発表　ファンがスタジアム設備破損で無期限入場禁止処分
+      <a href=https://news.yahoo.co.jp/articles/4ab5efc80f8fb4c2dbbb5c6e13ace84acc213483>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00550301-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷に当てた死球は「完璧な場所」元MLB戦士が主張　「ノー！」番組で共演者唖然「高すぎる」
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 04:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 05:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
