@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/810922a165cf9171bf6ecd33dbd23111.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d0686828064cbf9bea567eb4814e78b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15e4485d4e8cee247f61e29e409f18b43723ad8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349284-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＲＩＳＥ】那須川龍心 ISKA世界王座奪取も…判定勝ちに反省「空回りしてしまって…」
+      <a href=https://news.yahoo.co.jp/articles/604bc9791fd4602abba31c22f9cf30c994fe79b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000150-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1881&ch=1881&exp=10800&fmt=webp> １９歳の那須川龍心　初の世界王座獲得も判定決着に傷心「ムズムズする内容」兄・天心からも“ダメ出し”「俺の気持ちわかったっしょ？」「マイク５点」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/a7cf1cf80c8b515861c1face497d1e6b6cb96c0924d214d20fd5abe28522aba2.jpg> 知らない人からジュース 3人入院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fe0678875f7281c12b413d7de4fedc6e18ab0ee8188274bae9511fccb49b51a4.jpg> 川で遊んでいた男性 心肺停止
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6f60b853f660b24d9e98a5bc78ce046d25e1aa262876596f5229d9f8e3239883.jpg> G逆転劇で連勝 監督「興奮した」
+      <a href=https://news.yahoo.co.jp/pickup/6543029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f0169a256bebd9b0f6a4485b2e6e6b31fb71bf1124d0f88d14369ef9914e77a1.jpg> 工場で機械に挟まれ 男性意識不明
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543014>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/c95e6707eaa542e3b689b0e61e21990c679655ba690894492de4c3dd51cd4a70.jpg> 菅井友香 櫻坂46卒業3年での変化
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 22:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
