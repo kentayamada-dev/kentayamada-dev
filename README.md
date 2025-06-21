@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/572e2c00288c0294b59f7fdca583f762.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ff5238ec7009ef4365c1db44cff8148.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab67c4fb4e1ed9474dad3f2e30dc009508bb109a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010004-sporting-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 前夜の騒動を受けてパドレスのロベルト・スアレス、シルト監督、ドジャースのロバーツ監督に出場停止処分
+      <a href=https://news.yahoo.co.jp/articles/804391f063eaf7f8f4462a82e3a06f0e706b54dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010006-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「オオタニに当てるのは絶対にダメ」元阪神スアレスに米記者が異論！ 大谷翔平への“故意死球”が波紋「野球界のためにもいけない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2c24a3aae4a4a583b216387a6c691980c70f6dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184645-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=768&ch=768&exp=10800&fmt=webp> 国連安保理 イスラエルとイランが非難の応酬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f29a550523d05eeb6ca021796d8aab74150a52b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000026-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=535&ch=535&exp=10800&fmt=webp> トランプ政権、日本にGDP比3.5％の防衛費増額を要求　英紙報道
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/167bad961b7d3ae6e10250be445bffbd1afbe6fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 福島・西郷のトキオバ、無期限休園　国分太一さん活動休止受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eee72de01160131b6c3a8461964d8b50113bf201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 米、日本に防衛費3．5％要求　反発で2プラス2見送りか　英紙報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fa41e35f02fc6b04941b4abd939a4c7c17086da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000013-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> イランのミサイル直撃　イスラエル病院患者「爆風で目が覚めた」
+      <a href=https://news.yahoo.co.jp/articles/3313d98ac0cb192c3cf0477afecd6e5a87dcda8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010002-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博東ゲート前は長蛇の列…6月中の9時・10時台は「ほぼ満員」ウォーターパークのレジオネラ属菌「最初からほぼ検出されなかった」ショーはいつ再開？
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/13d9f1542448c3ffbbbf38aafcd3a614a4738e09017ed25cb22e82b62fecb748.jpg> 米 日本に防衛費GDP比3.5%要求か
+      <a href=https://news.yahoo.co.jp/pickup/6542956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/6544ab2d1fe03c9ecd1968239f981900d5df0b166801a622e5b22f22b484654c.jpg> 安保理 イランとイスラエルが応酬
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/8b5592b7fb47bac55d0cf58caac5c05785d1ac9f4fb7da867722d7c51f91b0ec.jpg> インドに次世代新幹線導入 合意へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542948>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/161b1f85a2c26de99be42d560a92e35a93596b53514b1e23d5317be9a406b35c.jpg> 知らない人からジュース 3人搬送
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/095b205fb055ca06735d99e936424b1ea452e5966c298b22748137908d66b7d1.jpg> 特攻兵にヒロポン注射 元軍医後悔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542943>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cac4cd1ca5dd5fcfed4a0a577ff5b2c53ab425ca09995a3151feabe917fd965f.jpg> トヨタ 7月から米国で値上げへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cbb1b0c90f4866b751743f7acdd9fcc5681a8661dc051d5ef94b3cb9d3845939.jpg> チョコモナカジャンボ 外国人注目
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e8a1e9391b021503f33d8978e82a4098da607e506a4bf2d1924986a21f225807.jpg> 田原俊彦 番組でアナに不適切言動
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 10:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 10:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
