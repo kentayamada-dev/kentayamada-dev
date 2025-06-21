@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47f89c588c428392c00308b03f59538c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35e0dce302888b0f3e109fb26639a488.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/654888928eb6c2d6ce472e9e26f5d40150a49c41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000041-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 乱闘騒ぎでロバーツ監督不在も、ドジャース勝利！ 前日死球の大谷翔平タイムリー、カーショーは無傷の３勝目
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5452bc14ca6acd85da62ac497259330b25e5db31>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69c4a37168b90c3a5edf3071ec457e68546b268b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-35234554-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イランとイスラエルの衝突、米国は「電話一本で止められる」　イラン大統領府当局者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f90571a06d18e30a2ad9ef49258d2365b49d19d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-10184662-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=538&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウソでしょ…！？ 大乱闘中に激怒している監督に近づいて…“驚きの行動”が話題に「すげえなw」「プロ中のプロ」ド軍テオスカーに称賛の嵐
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> 「顕著な少雨」観測で注意喚起へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542969>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/4a46d3b1464d1304ce1adbd970c6532af1a3b57f5d457a20c3ae7e2054d5100f.jpg> 令和で変化 若者たちの出会い事情
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6542962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f01eb0eb7330081a2a09b659328f6cba46ac660c286f413b96d53ae2231ed28e.jpg> メジャー注目 公立校の150km左腕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6542963>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e1837dc352947568fb079c8cfd193b5d4280a5a04fe948393b6e4b53d63d9d0d.jpg> 乱闘騒ぎ ドジャース監督に処分
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 13:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 14:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
