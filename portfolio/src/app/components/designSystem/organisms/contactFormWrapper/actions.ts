@@ -11,7 +11,7 @@ import type { ContactFormSchemaType, ContactFormStateType } from '@/components/d
 
 const EMAIL_FROM = 'portfolio@notify.kentayamada.dev';
 const EMAIL_TO = 'contact@kentayamada.dev';
-const EMAIL_SUBJECT = 'Portfolio Inquiry';
+const EMAIL_SUBJECT = 'Website';
 const SPREADSHEET_ID = '1T5v7iPsLdU4CxQRMlBPi_PhqaeH7nIxs6a3B8Xg0NgU';
 const resend = new Resend(envServer.RESEND_API_KEY);
 
