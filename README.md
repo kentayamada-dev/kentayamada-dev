@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/630b6ead8748144e4b16603d016ac400.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/572e2c00288c0294b59f7fdca583f762.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/feab157e6dd324c88752aa2f618e2df1c3005f1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1571&ch=1571&exp=10800&fmt=webp> 両軍入り乱れての乱闘騒ぎ その直後 大谷翔平に報復死球…も笑顔の神対応でさらなる乱闘をおさめる
+      <a href=https://news.yahoo.co.jp/articles/ab67c4fb4e1ed9474dad3f2e30dc009508bb109a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010004-sporting-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 前夜の騒動を受けてパドレスのロベルト・スアレス、シルト監督、ドジャースのロバーツ監督に出場停止処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8d9cbca76443e6a5666db0070c812930c9f87f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=559&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> プーチン氏「ウクライナ全土がわれわれのもの」、スムイ制圧も排除せず
+      <a href=https://news.yahoo.co.jp/articles/81679699a0f78a9b2e09bf9ae9bf270dfc83212b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00990550-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領「ウクライナ全土は我々のものだ」国際フォーラムでスピーチ　「軍需産業は好調だ」と軍の戦闘能力強化も示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64045525d3dd43ba6fa700f2696cc6a93363f317>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 「無期限の活動休止の影響　次々に」…国分太一「無期限活動休止」波紋を日テレ系「シューイチ」が報じる
+      <a href=https://news.yahoo.co.jp/articles/167bad961b7d3ae6e10250be445bffbd1afbe6fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010004-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 福島・西郷のトキオバ、無期限休園　国分太一さん活動休止受け
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eee72de01160131b6c3a8461964d8b50113bf201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、日本に防衛費3．5％要求　反発で2プラス2見送りか　英紙報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 米、日本に防衛費3．5％要求　反発で2プラス2見送りか　英紙報道
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9e0f60a075f3551264f5db385f71f394333e11054bd5212b6edacd3ad7c9e760.jpg> 工藤会「賠償逃れ」 被害側提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6542948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/161b1f85a2c26de99be42d560a92e35a93596b53514b1e23d5317be9a406b35c.jpg> 知らない人からジュース 3人搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 09:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 10:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
