@@ -1,0 +1,34 @@
+name: Email Deployment
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - email/**
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  Deployment:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.1.4
+        with:
+          sparse-checkout: |
+            email
+
+      - name: Build & Deploy Worker
+        uses: cloudflare/wrangler-action@v3.14.1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: "email"
+
+      - name: Delete previous workflow
+        run: |
+          chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
