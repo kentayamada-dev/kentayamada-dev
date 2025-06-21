@@ -21,6 +21,7 @@ jobs:
         with:
           sparse-checkout: |
             email
+            .github/workflows/scripts/delete_workflows_except_latest.sh
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4.1.0
