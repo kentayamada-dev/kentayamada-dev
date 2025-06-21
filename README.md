@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e9516d93f1934ef5c37c23771126877.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/435f895e3e8168fb285637b1f2803e11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/478904b851d5ddde459c45d8826cb915972397ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778544-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 死球が「来るとわかっていた」のに…　元CY賞投手が感心、大谷翔平は「完璧なプロ」
+      <a href=https://news.yahoo.co.jp/articles/e1d446fb476fa41d105b59d6f37bacf999e290ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010005-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平こそ「MLB全体の模範」 死球直後の“紳士的振る舞い”にNFL識者は脱帽「これもベースボールの一部」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfe5fd4ed8c62de498b8ef7b4a1d2b61f134552d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06211321-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 「感触は全然」も清宮幸太郎の８６打席ぶり５号で日本ハム交流戦逆転Ｖ見えた
+      <a href=https://news.yahoo.co.jp/articles/ca5c58dfcedf2761d84e9afcf9695a600e61fd62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-03228716-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=354&ch=354&exp=10800&fmt=webp> 【交流戦順位表】日本ハム18年ぶりVに望みつなげる　ソフトバンク引き分け以上で6年ぶり9度目V
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 06:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 07:00:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
