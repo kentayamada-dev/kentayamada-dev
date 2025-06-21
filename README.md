@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e3094982b0cbbaec29d14af6f137220.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7501f3fff8b694f19352f6f747c3370.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05e132a91439e91198a8ac8bcdd66d477d20c399>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000090-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和　インテル戦の内容はスコア以上の差　シュート数5―26　ボール支配率20％―80％
+      <a href=https://news.yahoo.co.jp/articles/dafec41d49e165b6afec4438fd7e8f2ca05fcf34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参院選見据え首都決戦　投票開始、深夜に大勢判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d524a947bda20c3ad54848815890f02563f052e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000095-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和は後半ATの被弾で敗戦　新採用の“8秒ルール”にも苦戦　GK西川「終盤はきつい」
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a9974213b258596286b24be47d90be3cece1989d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778468-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”「野球のためにいけない」　米番組でOB＆識者が激論…絶対的不可侵の存在
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778468-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”「野球のためにいけない」　米番組でOB＆識者が激論…絶対的不可侵の存在
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc8859cf7ae749aa493ff4210470d24c40bfde48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000164-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 日本ハム・清宮幸太郎、約1カ月ぶり5号千金弾「結果的に最高の形に」　22日交流戦V可能性に新庄監督「取りにいきます」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47b2ea3768ccd79896bfc99e23eac0ef79dcae40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000165-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> チームTOKIOで謝罪行脚へ　国分太一が無期限活動休止、城島茂＆松岡昌宏とスタッフ一丸となって信頼回復へ
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/32199200d40fc6a9f393ef6b72e350aacde6a3fc075331fd6954d379936d67c3.jpg> 日本海側 局地的に警報級の大雨か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543043>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6b6e499cb71b1a0337db3ed641cd8370f4bed6b51aab067a877b5e3384b9fce.jpg> ベラルーシ 邦人2人への恩赦決定
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7644dcd0929dc929078452e20b584175784d5f83e0b756f3bf866b98e3b7c344.jpg> 森友 夫の直筆ノートに妻が思い
+      <a href=https://news.yahoo.co.jp/pickup/6543051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/236fa1ce37cfaab6a8a36a6ed3bfc02b58006bc3eb194d2f32a10cfae9ed8b74.jpg> イラン最高指導者 後継候補指名か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/575b72e3060f13e5b1c610dc8d09e68e1a565560a6d637fdcc9dbf27cc1f7fe1.jpg> 新聞に24万2567人の名前掲載 沖縄
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/036059590d05be40882fb77a51a124bfc1f869532899329cfc3542912efe8270.jpg> 退職代行から電話 反省し社内改革
+      <a href=https://news.yahoo.co.jp/pickup/6543054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/036059590d05be40882fb77a51a124bfc1f869532899329cfc3542912efe8270.jpg> 退職代行から電話 社長驚きと反省
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 08:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 08:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
