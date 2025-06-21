@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8ccbbb46c43b87efb153b1cb814c0ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de05fc23fcd2e7fe55067b4335f778b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2581bffab8792d903b46682cd223538afde47d4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-01778472-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、死球後の“神対応”だけじゃない　LAメディアが振る舞いに爆笑「オチまでつけた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/430ecd80e3469115864327b16fb8dce07cc2393f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000035-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ＜草なぎ剛＞FNS歌謡祭に10年ぶり“凱旋”　「司会をやっていたときは嵐に助けてもらった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6fdd5637b6f88267499ecdff54f02c26c289095>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空自輸送機、ジブチへ出発　邦人退避に備え情勢分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41e02ae0a9abe4a2e14aba43bb73ab0d3bf96a2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000036-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】異例の週末国会　野党4党が参院・財政金融委員長の解任決議案を提出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa1e5d3b873caad8d0706751fdf97b40d6dccb2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00349225-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平を米メディアがこぞって神認定　報復死球後の行動に「純粋な品格で臨む教訓を与えた」「王様だ」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/9e1d014b2e4f77f3cce13e433ae02f974cf11e90eb7a34668ae291d5a4a48434.jpg> 米大統領 ハーバード大と合意近い
+      <a href=https://news.yahoo.co.jp/pickup/6542979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b92d6d561b2def352fa22b56899aef995de202204a5cf938f522d402e593d0d2.jpg> 都知事が自民陣営を応援 就任後初
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/66cb08f95964ca3facd63b2a338eaace395fc7e5cf807f202b2e675bbcd4c2bd.jpg> 大谷死球で投手処分 異議申し立て
+      <a href=https://news.yahoo.co.jp/pickup/6542978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/1144df35609a7e7ea6c9fc62636599f752ad472f71802c10c1aea08877fcc071.jpg> 菅野が敬遠直後に降板「屈辱的」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/30ef189a905a06cbd3f60d7acc55d0e706d061203332a909e94f164c47d31063.jpg> ゴー☆ジャス 再ブレイク中を否定
+      <a href=https://news.yahoo.co.jp/pickup/6542975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/66cb08f95964ca3facd63b2a338eaace395fc7e5cf807f202b2e675bbcd4c2bd.jpg> 大谷死球で投手処分 異議申し立て
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 15:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 16:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
