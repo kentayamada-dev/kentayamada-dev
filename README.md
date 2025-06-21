@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7850e5a5ea9fc70e991cc08cb4701f11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/630b6ead8748144e4b16603d016ac400.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc9ad6a9d8542dafe9b9103426c649acae5ead09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000020-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国分太一さんの降板発表　「意味のない会見」という批判は想定内？
+      <a href=https://news.yahoo.co.jp/articles/feab157e6dd324c88752aa2f618e2df1c3005f1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1571&ch=1571&exp=10800&fmt=webp> 両軍入り乱れての乱闘騒ぎ その直後 大谷翔平に報復死球…も笑顔の神対応でさらなる乱闘をおさめる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98a9b23e062c2c5dd80fead227d98d5ec40e6c3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が報復死球＆乱闘騒動で１試合出場停止「支持する」　大谷翔平死球の元阪神右腕は３戦出場停止
+      <a href=https://news.yahoo.co.jp/articles/f8d9cbca76443e6a5666db0070c812930c9f87f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=559&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> プーチン氏「ウクライナ全土がわれわれのもの」、スムイ制圧も排除せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16ed1cb670fd82865a5cd6dec463310fdf0d1ad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250620-00000247-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=183&cw=927&ch=927&exp=10800&fmt=webp> TOKIO・国分太一の違約金は最大40～50億円　冠ラジオ即休止、MC降板にCM差し止め…テレビ局やCM企業対応追われ
+      <a href=https://news.yahoo.co.jp/articles/64045525d3dd43ba6fa700f2696cc6a93363f317>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-06211035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 「無期限の活動休止の影響　次々に」…国分太一「無期限活動休止」波紋を日テレ系「シューイチ」が報じる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eee72de01160131b6c3a8461964d8b50113bf201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、日本に防衛費3．5％要求　反発で2プラス2見送りか　英紙報道
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4edd64fffe535b9a1ca90c69b995fdc35383001>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-07244290-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> プーチン大統領　ウクライナ北東部の州都占領の可能性に言及 「ウクライナ全土がわれわれのもの」持論展開も　会見では孫娘の存在明かす「中国語滑らかに話す」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/5e8de72a01217de10aac677104672bf9b07befcf79597345199cc596f378a120.jpg> 東北や北陸など35℃超 熱中症警戒
+      <a href=https://news.yahoo.co.jp/pickup/6542945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/13d9f1542448c3ffbbbf38aafcd3a614a4738e09017ed25cb22e82b62fecb748.jpg> 米 日本に防衛費GDP比3.5%要求か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/10f507ee8b512c5832cdb3586e71e95f1942fb6856bdd496727e0e38553fa6ea.jpg> プーチン氏持論 ウ全土我々のもの
+      <a href=https://news.yahoo.co.jp/pickup/6542946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cf638277171f8d96fc7d6c18b4d9862808fd3dbd54ac18350bc1a23559e6ae4e.jpg> 参政党の支持率が維新を逆転 時事
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/b8cf6b7d2a194a15df6d2f0138b0bf510fb9ea6c6f71b5902f690c213dbb8b54.jpg> 7人乗る軽が横転「危険運転」疑い
+      <a href=https://news.yahoo.co.jp/pickup/6542943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/cac4cd1ca5dd5fcfed4a0a577ff5b2c53ab425ca09995a3151feabe917fd965f.jpg> トヨタ 7月から米国で値上げへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6542936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/3cef30436b43784abded900342c1f92d7a2b8302780eee0bc8efc1256b46f511.jpg> 佐々木朗希 60日間のILへ移行
+      <a href=https://news.yahoo.co.jp/pickup/6542949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/084c97968eb0c2fe2d381ea2648874a1673df7941426a10a3dfb1597b0f79b13.jpg> 乱闘危機止めた大谷 米で絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/21 09:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/21 09:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
