@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d5da44df4a49f5e1afe5e0d7412a63c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/346b13666ba0ac46e1fcb8c450eb36db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e3eb5d7da5e4ce9c3d50e6eb333f882e4b0f3d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06221094-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 【巨人】戸郷翔征が３勝目ならず…５回６安打３失点で降板　３四死球と状態上がらず
+      <a href=https://news.yahoo.co.jp/articles/c87d85191c58105d932e6f5ee76ba473cdb0f5b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995020-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61aa1817a0d335a142a376d4eaf3ae4e5680b1e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994968-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/5709cf76190ffd994b1892524df5ad43f0e65a3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06239671-htv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【続報➂】広島・府中町強盗殺人事件　容疑者の男女３人が現場付近の防犯カメラに写る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a80803ace176bb97337452408b486879c3703dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36220925-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1302&ch=1302&exp=10800&fmt=webp> 【日本ハム】07年以来の交流戦優勝を逃す…投打で中日に完敗　交流戦は11勝7敗で終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ad3a4c3766a37c8f9fa18faf10bfc6b5df7c50a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-10184752-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1051&ch=1051&exp=10800&fmt=webp> イラン核施設攻撃に使用された「バンカーバスター」の脅威…「最新型は地球上で一番強力」「地中に深くめり込んで爆発」専門家が解説
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cc26666ae86e2a8d01c66ff12bb42e9aa42658c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00030321-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 雨の時期なのに全国的に降水量は平年以下　雨が全く降っていない所も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18a709d0a6bac12a26fc40337fc3e810200cf053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050062-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエルのネタニヤフ首相「あなたの大胆な決断は、歴史を変えるだろう」とトランプ氏を称賛
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/bf7702aa59285ddb5b64359807d801ca40405edd919b95546c8eba5d9190da29.jpg> 米のイラン攻撃 石破首相が言及
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543090>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/eb44f4193b8995d40c543877855f8aecc366dc43e81e6bc026e3ae8f38f7c0af.jpg> 公園で殺人事件 10代男女3人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/6c1807f34174eb7a421e98d17a041349ac25df8613dd3b95ea7257550b1ece28.jpg> 目の前で母犠牲 沖縄戦で孤児に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/eb44f4193b8995d40c543877855f8aecc366dc43e81e6bc026e3ae8f38f7c0af.jpg> 強殺容疑で10代男女3人逮捕 広島
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4a4fd4532314658c3d110942912d84c13ab045222ca83ee1ed2231c12b578a4b.jpg> ド軍 計8本のアーチ合戦に敗れる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b0ddfe2b5a89b2cd3da5b35d381a78a4f325ecc00dc22ff9cd727e0b186117fa.jpg> 猛暑 MLB各地で体調不良者が続出
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 16:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 16:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
