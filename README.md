@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41f12ab813986d649ccf37baceaeb465.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f35ec6a278b990d86e44fa8d4a47be92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c63268150e484f66255e60e22b0c8e21e46687b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995115-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地震頻発のトカラ列島　震度4を2回観測　鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d48e2c3d2b334eb70594d9e36b5ff07458c20e9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000260-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 交流戦Vのソフトバンク小久保監督「秋にはセ・リーグ1位の阪神と戦いたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/670e1f3882ee720bd09437facc9127a68eb46f4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000050-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 静岡県警の警部、実弾入り拳銃置き忘れ　高速PAトイレに　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/918e2c2f2e7609f1e166c846f1e8b96f64ba4033>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050090-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 石破首相、米国のイラン攻撃を支持するかどうか明言避ける…「重大な関心持って注視している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/711446aa349d0278ac96055ded8f74563c411fb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新東名PAトイレに拳銃置き忘れ　静岡県警警部、25分後に回収
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/720fb50cc4adbdfa766fd2ff2772bcef16894787>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000116-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=914&ch=914&exp=10800&fmt=webp> 日本ハム・新庄監督　交流戦Ｖならずも「十分じゃないですか？」事前目標通りの１１勝７敗　パ差広がらず混戦続くも夏場の戦い手応え「若い分うちがちょっと有利かな」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/797eccdb0ec89ea449850d32f9dda6e6b0e9ecd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995055-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島県で震度4 津波心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543097>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/bf7702aa59285ddb5b64359807d801ca40405edd919b95546c8eba5d9190da29.jpg> 米のイラン攻撃 石破首相が言及
       </a>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/6c1807f34174eb7a421e98d17a041349ac25df8613dd3b95ea7257550b1ece28.jpg> 目の前で母犠牲 沖縄戦で孤児に
+      <a href=https://news.yahoo.co.jp/pickup/6543095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/630229056799e5428f1f627529365694202adce0bba4ee3afccbf8f9d93e4de7.jpg> 参院選へ 自公過半数は楽観できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/eb44f4193b8995d40c543877855f8aecc366dc43e81e6bc026e3ae8f38f7c0af.jpg> 強殺容疑で10代男女3人逮捕 広島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/c61aea0044f692767dee5564961f9f8c35b707361bc2677498da170f0c61040c.jpg> 長野の山林 クマに襲われ1人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/29ca46d3594591560868be3f79f11427e74f9e7c3ef21cc209872e13a4780be2.jpg> 誘拐疑い逮捕 少女置き手紙で発覚
+      <a href=https://news.yahoo.co.jp/pickup/6543105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/07d2e0f3d66e1d18b10123add3ba10bb704058737745d9e89ca4d748f9eceed4.jpg> PAに実弾入り拳銃置き忘れ 県警
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/368cff2cf8fd337bffa9e6303aefe1be3a6ff6aa012ffc090439e6460859581c.jpg> 球場に悲鳴 阪神・中野に頭部死球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543098>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02258928/title-1750573040346.jpeg?exp=10800> 田原俊彦の不適切発言 問題の根底
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 17:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 17:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
