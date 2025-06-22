@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce081c34db41760cd8c3c753a8ddd813.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc38461de621fb63a2efe44b30bbed38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f097f0f99a1bb0342c7dae970ead1fae4d3d3334>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244372-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【速報】埼玉県内に住む10代女性を誘拐か　岐阜県の覚間悠仁容疑者（21）を逮捕　SNSで女性を山梨・河口湖駅に誘い出し誘拐した疑い
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a78b8a30b7acdf3d7087a11b4de202743bbe07aa>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f73ba2bac8aa838d5d34a02841094e27256cde26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000002-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 元TOKIO山口達也「人生をあきらめない」テーマに講演→X更新　意味深メッセージ？活動休止の国分太一氏に響くか
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/f54ddacdcfacc8c7e79d21d001d0c2a85cc6c5b0e453fa1b0f5468f7ccd29a52.jpg> イランの核施設攻撃とトランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6543074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/44508eedc623b253db984f99044bb6f68883e8aaef11330ec05174ebbd5d92bd.jpg> トランプ氏が演説「軍事的成功」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/68edf86d13da4eb54d79359b325f43b2a52ea4a24897034a9e7094f5f3cea5fe.jpg> 米軍 バンカーバスターで攻撃か
+      <a href=https://news.yahoo.co.jp/pickup/6543072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a794932213e88d877b1be79470543dad8cb0d4c29dbdc45af9a00c659aefc017.jpg> イスラエル首相 米の攻撃に感謝
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/41263d3e9b4fa1579930056ffb4baed0451c04ee92b951583e385dffd5cc615b.jpg> 中央道で逆走 避けたトラック事故
+      <a href=https://news.yahoo.co.jp/pickup/6543064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a0b5411473a6678b765131d9b5077189bd3300aca4d8a6330525ff206b001616.jpg> 原爆 胴体から上だけになった夫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/cdc3ac3669f4af874f90d42ea41cf6b0fa2e6ebf68870f8b776c92d03c47e386.jpg> 突然激しい頭痛 脳出血で失語症に
+      <a href=https://news.yahoo.co.jp/pickup/6543071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/41263d3e9b4fa1579930056ffb4baed0451c04ee92b951583e385dffd5cc615b.jpg> 中央道で逆走 避けたトラック事故
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 11:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 12:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
