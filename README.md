@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b26a394341fee6cb3bb3692500cf43c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55dfed68ac728a76750e3fbd3e13f827.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8090ad4f2e83e8c5be9b480260dd157a66126392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000117-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 巨人・戸郷翔征、今季2度目の2軍調整へ課題は「おおまかに言えばメンタル」代役について杉内コーチ「誰か考えます」
+      <a href=https://news.yahoo.co.jp/articles/db064c9c78221d42fc5cf49940676c16463ff820>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-05329158-kytnews-000-1-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海震源の地震　十島村悪石島で震度４を２回観測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c1f20d91a9f5d87b61cf935405d6057eb697069>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995237-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/f016acffe88ed1f1ff5190a46ce57d4974b7e7be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01973654-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山・新燃岳で7年ぶりに噴火 噴煙が火口から500メートルの高さまで上がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e576bc4af3c26510cce14a974adbd001791c57f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000087-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=890&ch=890&exp=10800&fmt=webp> 日本ハム・新庄監督、清宮の3安打に「1日入ったら元の清宮君に戻るから」後半戦は「ニュー清宮君」に期待【一問一答】
+      <a href=https://news.yahoo.co.jp/articles/c37f2d3eb23579a37ca6ce95fe275702cd0c252a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000086-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 日本ハム・新庄監督「僕の作戦をやってくれたら勝たせます」　交流戦逆転V逃すも脱“混パ”へ「若さ有利」
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/804808f1397f1344f048556a1582be31bfccccacd578cd6cb3cee564c7a2db1d.jpg> 都議選の期日前投票 過去最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokohanawa/02258613/title-1750562161081.jpeg?exp=10800> 2万円給付 消費減税と比べ効果は
+      <a href=https://news.yahoo.co.jp/pickup/6543111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/74726a3f826c1dfec1266838226e9d6c71cfed8af88609ed11ca62c47a4464e3.jpg> 首相 米攻撃支持するか明言避ける
       </a>
     </td>
   </tr>
@@ -412,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543107>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02258577/title-1750577703852.jpeg?exp=10800> 猛暑から一転大雨か 今後の見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/006d860c7c58148903de1fccf8270b654f0a4dc4b8d893851bf0e1ecb500ef47.jpg> 新燃岳 連続噴火は停止したもよう
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543103>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 水泳大会で熱中症か 生徒10人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6543089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/8b09b65b0a581e2f7cffa559617738f8245fea5373242fdd5e4fff8d8fe9f14a.jpg> 鈴木桂治氏 母校の大麻問題言及
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 19:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 19:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
