@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f05975fd3b6951e208066906215b1ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38c13a9b7d85a13d5f65ad06f6024922.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2768fa906ee20951844f7b1df6fcd69031fbf35d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民党　第1党陥落確実　政治とカネ問題払しょくできず…参院選への影響必至
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000370-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=655&ch=655&exp=10800&fmt=webp> 自民党　第1党陥落確実　政治とカネ問題払しょくできず…参院選への影響必至
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e31b64c36bf422a28f17145db4162a8ec3cff549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244442-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がNSC＝国家安全保障会議を開催「イランの核兵器保有は決して許されない」
+      <a href=https://news.yahoo.co.jp/articles/5af799a578a58cdd02b7292362e89cb3dbba69ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 平和を願い「礎」を照らすあかり　沖縄戦犠牲者悼む「慰霊の日」前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5af799a578a58cdd02b7292362e89cb3dbba69ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 平和を願い「礎」を照らすあかり　沖縄戦犠牲者悼む「慰霊の日」前に
+      <a href=https://news.yahoo.co.jp/articles/96f1f5b0e303104a300d2c84df0391c0d32d902a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050148-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米のイラン攻撃巡る石破首相の発言要旨
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d302063d33e4e5fbf3212fac5b7efa14afe50287838d852a2c28924910359bdf.jpg> 自民苦戦 都民ファは次々と当確
+      <a href=https://news.yahoo.co.jp/pickup/6543137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0016108deb2e0c254774742f9705104307ae78c7184e1ab90777e3f0b58ccf68.jpg> 都議選 都民ファが第1党を奪還
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ac670d7601a67b929f9f4edaf28ccfff06a517e212ef90687bfe1551bc7dedc8.jpg> 新燃岳 連続噴火は停止したもよう
+      <a href=https://news.yahoo.co.jp/pickup/6543127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/28e1d4f8f47e13b1c1ad783877dfd969a448d304c980bfaa293d010a12899440.jpg> 高級おにぎり仕掛け人 異色の経歴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/28e1d4f8f47e13b1c1ad783877dfd969a448d304c980bfaa293d010a12899440.jpg> 高級おにぎり仕掛け人 異色の経歴
+      <a href=https://news.yahoo.co.jp/pickup/6543131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/asasatoshi/02259057/title-1750581125566.jpeg?exp=10800> 交流戦 セ・パの明暗くっきり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 23:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 23:52:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
