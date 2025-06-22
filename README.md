@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ddb8e27d6e6d1c72fc1e1fa645e40de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b26a394341fee6cb3bb3692500cf43c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/094f5267aaf002d0ad198e2226c073d49c5b93f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-90032760-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 「失念してしまった…」実弾入りの拳銃をトイレの個室に置き忘れ　窃盗事件の捜査で訪れた男性警部がパーキングエリアで
+      <a href=https://news.yahoo.co.jp/articles/8090ad4f2e83e8c5be9b480260dd157a66126392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000117-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 巨人・戸郷翔征、今季2度目の2軍調整へ課題は「おおまかに言えばメンタル」代役について杉内コーチ「誰か考えます」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4e8cd6a06f0740da02311f5b28565c71ebee29b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995213-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/2c1f20d91a9f5d87b61cf935405d6057eb697069>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995237-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab26ba8ac9fad65b4c6f4a7c13631fe9e60b7cee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000056-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 大谷翔平の低調は登板と関連？　指揮官「少しボール球に手を出す傾向が…」　23日イニングは「明確な制限ない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/630229056799e5428f1f627529365694202adce0bba4ee3afccbf8f9d93e4de7.jpg> 参院選へ 自公過半数は楽観できず
+      <a href=https://news.yahoo.co.jp/pickup/6543092>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokohanawa/02258613/title-1750562161081.jpeg?exp=10800> 2万円給付 消費減税と比べ効果は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokohanawa/02258613/title-1750562161081.jpeg?exp=10800> 2万円給付 消費減税と比べ効果は
+      <a href=https://news.yahoo.co.jp/pickup/6543107>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02258577/title-1750577703852.jpeg?exp=10800> 猛暑から一転大雨か 今後の見通し
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543098>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02258928/title-1750573040346.jpeg?exp=10800> 田原俊彦の不適切発言 問題の根底
+      <a href=https://news.yahoo.co.jp/pickup/6543113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ed19bcd58c9dd62dd38326af3ef7af6c9a2ffb3a057c03fbe338e7bdcf71cdf7.jpg> 田原俊彦が謝罪 調子に乗りすぎた
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 18:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 19:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
