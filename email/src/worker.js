@@ -11,17 +11,18 @@ export default {
 
     const headerTable = `
     <table style="border:1px solid oklch(0.446 0.043 257.281);border-collapse:collapse;font-size:16px">
-        <tbody>
-            <tr>
-                <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Sender</td>
-                <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.from.name} &lt;${email.from.address}&gt;</td>
-            </tr>
-            <tr>
-                <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Subject</td>
-                <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.subject}</td>
-            </tr>
-        </tbody>
+      <tbody>
+        <tr>
+          <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Sender</td>
+          <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.from.name} ${email.from.address}</td>
+        </tr>
+        <tr>
+          <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Subject</td>
+          <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.subject}</td>
+        </tr>
+      </tbody>
     </table>
+    <br>
   `;
 
     await resend.emails.send({
