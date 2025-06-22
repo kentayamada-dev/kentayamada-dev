@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8beb20549977c5108b383a9a151b66a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c67df7509108d565ef035b5d43a66db9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bdd06556c7adf0ab798b5fa152acd7c2e21cad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244466-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 鹿児島県十島村で震度4　津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/537fc882a31f20e535ab375884d0af317d71229f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995369-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e31b64c36bf422a28f17145db4162a8ec3cff549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244442-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がNSC＝国家安全保障会議を開催「イランの核兵器保有は決して許されない」
+      <a href=https://news.yahoo.co.jp/articles/d14b29d3a527c5bf710190ab6e9f192efe1c4c3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000186-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 爆撃機や第5世代戦闘機など125機超投入　「真夜中の鉄槌」作戦、潜水艦からトマホーク
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 01:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 01:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
