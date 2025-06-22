@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55444ad00213c1e31f2531a4f8206f75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b61e30b4b6d02e82998a00a00e37c52d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0f7a56d26043ae5d73f1790120f81abcafe486a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995430-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/12af7feeda4c6f3eb234e86add79c9656720ab79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 投手・大谷翔平、1イニングのみ無安打2奪三振で無失点　降板後“笑顔”も　リアル二刀流で今季2度目の先発登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d57e971fbab385dfff4371a42a194dc6276bb235>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民党　第1党から陥落　都民ファーストの会が返り咲き　参院選へ課題山積　東京都議選
+      <a href=https://news.yahoo.co.jp/articles/543305c15f1133dab20208a059ac15fa2bae4766>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-09157418-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【都議選2025】都民ファーストの会が第1党に　今後の小池都政への影響は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0aa258aa841497dd59e62bc5af016fb8952c742>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995437-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7a8cde7c874842efa3e7fd2abb40d8930bd8711b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=967&ch=967&exp=10800&fmt=webp> トランプ米大統領　イラン核施設攻撃　米軍“参戦”初の本土直接　バンカーバスター＆トマホークを使用
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d7403e870133a0b6a4739b35e39433f2ba74c45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01610078-okinawat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=246&ch=246&exp=10800&fmt=webp> ［社説］沖縄戦80年　慰霊の日に　戦争否定の意思示そう
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d1844e01eecfd130a2cfcf931edc675d1ae94130f5817e5eb9da3456f97687c3.jpg> 国民民主 都議選で9議席を獲得
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543126>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a49e2dd2c47c3a90b8d6109fceaf782a741a22ecbccce3517507819f04b07310.jpg> 都議選での警告37件 逮捕者は1人
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543133>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4ffc2a006e3f78e9b5b80835bc116cf6363c10222bef01b6937006c55a61cfa9.jpg> 米攻撃 作戦名「真夜中の鉄つい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31c017506fd433a33d1167de3c031e35feb5a6b64488f5728c8284e98cd15a10.jpg> 鹿児島県で震度4 津波の心配なし
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 05:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 05:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
