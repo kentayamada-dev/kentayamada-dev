@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c330165992b5e41a42543434abeac3c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e79b588dd9b9b6ca3303e9bd0dcf3263.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19b6947250b3f3aac333772534c9958c624e2536>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01779326-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「羨ましくない」　カーショーが語った“本音”…同僚として感謝「毎日アメージング」
+      <a href=https://news.yahoo.co.jp/articles/27ae21e4754d07bacd06b76b24bc9bade17d36ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030330-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 23日までの1週間で最大震度4の地震が4回　緊急地震速報が発表された時の対応は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2585e2f7684b7e381c9be00037f54aa20390944a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995488-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村などで最大震度3 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/8d34c602d413f83893cd040c4874cf7b8547f5e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 大谷翔平は「世界に衝撃を与え続けている」米記者も驚愕　復帰後初の奪三振も　“原点回帰”の登場曲「Do Or Die」で1回無失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e81dd1a097539f8495e282c67171517fa7a61b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990943-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民は過去最低 都民ファースト第1党　国民・参政は初議席　東京都議会議員選挙
+      <a href=https://news.yahoo.co.jp/articles/1d517f39cf462cd73773473167a332d752924f79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000033-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷翔平　第３打席は四球で好機を拡大　一塁ベースで３ランのロウと談笑シーン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33d550d2452dc0b0e6db3374bef3f2aa9625e796>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000005-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 都議選　都民ファが第1党に　自民は過去最低
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3eff40c963bbd4bf53dcf03e3c51f461724fc8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の復帰２度目登板　球場アナウンスも“新スタイル”に　１回無安打無失点２Ｋの快投
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c1152821fe3b35eb54c61b671506f9f93bf7b1498c1cf733c42dd81b8b7f017b.jpg> 米長官 イランの核開発計画を壊滅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543137>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0016108deb2e0c254774742f9705104307ae78c7184e1ab90777e3f0b58ccf68.jpg> 都議選 都民ファが第1党を奪還
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/ded6aca2e117a8682b78e93a946044ec95ef5b3780d1369fcb48a3c18d269e8e.jpg> 都議選 自民党が過去最低の議席数
       </a>
     </td>
   </tr>
@@ -426,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4ffc2a006e3f78e9b5b80835bc116cf6363c10222bef01b6937006c55a61cfa9.jpg> 米攻撃 作戦名「真夜中の鉄つい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/aba477ff5f6db2d337f07501f6fa95019692f1ea94a00c98b7a0f44ead68c3d0.jpg> 西・東日本で警報級の大雨恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/28e1d4f8f47e13b1c1ad783877dfd969a448d304c980bfaa293d010a12899440.jpg> 高級おにぎり仕掛け人 異色の経歴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 06:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 07:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
