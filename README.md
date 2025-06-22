@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/359b94008df7a224ee1e927bf9700fa2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75a41906334d54a6b23506f52ab92419.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93d0af7b9a02339b1c907e508b4be720d4ee7e34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000019-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞地下深くまで　「バンカーバスター」ってどんな爆弾?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c966bdb22be5b0176fd5899af25fbcb6722bcb9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21992943-rbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「全県民の力でつくり上げてきた」　敵味方を問わず戦没者を刻銘した「平和の礎」　建立に携わった男性が語る思い
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6c8399a49a6ea0e7d6e2ebab38031d3dea1abe3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778775-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 退場処分→衝撃の“在宅勤務”　2日ぶり復帰のロバーツ監督…画面に釘付けで「そわそわ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dafec41d49e165b6afec4438fd7e8f2ca05fcf34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000019-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 参院選見据え首都決戦　投票開始、深夜に大勢判明
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/bf225a26b35e2956f2d605468e98a8b2ecf2a7fc4a211d50face152058e41262.jpg> イランの核施設攻撃とトランプ氏
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/f54ddacdcfacc8c7e79d21d001d0c2a85cc6c5b0e453fa1b0f5468f7ccd29a52.jpg> イランの核施設攻撃とトランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/236fa1ce37cfaab6a8a36a6ed3bfc02b58006bc3eb194d2f32a10cfae9ed8b74.jpg> イラン最高指導者 後継候補指名か
+      <a href=https://news.yahoo.co.jp/pickup/6543062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/68edf86d13da4eb54d79359b325f43b2a52ea4a24897034a9e7094f5f3cea5fe.jpg> 米軍 バンカーバスターで攻撃か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81d09271b6e59ac07b87c3c856e97f8c9780245d3ec1e1787ff39f1e82b4cfc9.jpg> 今永のメジャー復帰登板 監督明言
+      <a href=https://news.yahoo.co.jp/pickup/6543052>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02257938/title-1750498549547.jpeg?exp=10800> Switch2「ゲリラ販売」驚く声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ba839fb636aaceea23d25d53405274fd237f9e30378afaac748af2361f8130cb.jpg> 「25時、赤坂で」続編の放送決定
+      <a href=https://news.yahoo.co.jp/pickup/6543055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81d09271b6e59ac07b87c3c856e97f8c9780245d3ec1e1787ff39f1e82b4cfc9.jpg> 今永のメジャー復帰登板 監督明言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 09:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 10:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
