@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e547dff392f45a44ae516032e05f3ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c330165992b5e41a42543434abeac3c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bf9589450a7f09a05267d2749355e9e4c4731d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995412-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/19b6947250b3f3aac333772534c9958c624e2536>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01779326-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「羨ましくない」　カーショーが語った“本音”…同僚として感謝「毎日アメージング」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e8290fd2ae887be358caa805998b9ca3164a338>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000198-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 自民大敗、都民ファ第1党奪還　国民民主は台風の目とならず　維新は全員落選確実
+      <a href=https://news.yahoo.co.jp/articles/2585e2f7684b7e381c9be00037f54aa20390944a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995488-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村などで最大震度3 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/999748ab4155da2d2fd1faf871d13d2349d97adb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231005-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「１番投手」でスタメン入り　２度目登板で２６号二刀流弾＆初奪三振期待
+      <a href=https://news.yahoo.co.jp/articles/6e81dd1a097539f8495e282c67171517fa7a61b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990943-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民は過去最低 都民ファースト第1党　国民・参政は初議席　東京都議会議員選挙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/413e78e77244dffa9745138ebf3732e4f11e23ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990938-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国防長官「イランの核開発計画を壊滅」 “体制転換狙ったものではない”　イラン外相「核兵器を保有していない」 米攻撃非難も“報復”言及せず
+      <a href=https://news.yahoo.co.jp/articles/e68028272df71182ddfcf915aaca082e2a8e087c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990942-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国務長官 攻撃の成果を強調　ホルムズ海峡閉鎖 イラン承認　米攻撃「混乱地域の危険高めた」 イランはNPT尊重を 国連事務総長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3eff40c963bbd4bf53dcf03e3c51f461724fc8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の復帰２度目登板　球場アナウンスも“新スタイル”に　１回無安打無失点２Ｋの快投
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a49e2dd2c47c3a90b8d6109fceaf782a741a22ecbccce3517507819f04b07310.jpg> 都議選での警告37件 逮捕者は1人
+      <a href=https://news.yahoo.co.jp/pickup/6543140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d1844e01eecfd130a2cfcf931edc675d1ae94130f5817e5eb9da3456f97687c3.jpg> 国民民主 都議選で9議席を獲得
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31c017506fd433a33d1167de3c031e35feb5a6b64488f5728c8284e98cd15a10.jpg> 鹿児島県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6543142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/aba477ff5f6db2d337f07501f6fa95019692f1ea94a00c98b7a0f44ead68c3d0.jpg> 西・東日本で警報級の大雨恐れ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/asasatoshi/02259057/title-1750581125566.jpeg?exp=10800> 交流戦 セ・パの明暗くっきり
+      <a href=https://news.yahoo.co.jp/pickup/6543141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/30b1e8c9fb5f67d2f9982cada0c112556d2e81606700994e3b2ab8310e049918.jpg> 大谷1回無失点降板 1球ごとに歓声
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 03:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 06:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
