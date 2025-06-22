@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc38461de621fb63a2efe44b30bbed38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92279dcafe3ea3c6e17e139c71f94b2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f097f0f99a1bb0342c7dae970ead1fae4d3d3334>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244372-jnn-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【速報】埼玉県内に住む10代女性を誘拐か　岐阜県の覚間悠仁容疑者（21）を逮捕　SNSで女性を山梨・河口湖駅に誘い出し誘拐した疑い
+      <a href=https://news.yahoo.co.jp/articles/08bad3a105410ac82ac258e239bb94cbaf084ba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994737-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a78b8a30b7acdf3d7087a11b4de202743bbe07aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 「TQB」決着なら価値ある「16―2」　ソフトバンク、9度目の交流戦Vなるか　日本ハムとの一騎打ち
+      <a href=https://news.yahoo.co.jp/articles/f0651a226813dc90c7f2980aa55078156eb9664f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00990771-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子高校生をSNSで誘い誘拐か…青木ヶ原樹海で遺体発見　21歳男を逮捕「一緒に自殺しようと思った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c87aa25f566b7d9832c4de7ebd08b44838c9dcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「イラン核施設３カ所の攻撃成功」…バンカーバスター搭載したＢ２爆撃機が関与
+      <a href=https://news.yahoo.co.jp/articles/18a709d0a6bac12a26fc40337fc3e810200cf053>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050062-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエルのネタニヤフ首相「あなたの大胆な決断は、歴史を変えるだろう」とトランプ氏を称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a94fd0d37e0fcd2356e17d68674a8bacacf1afb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00990746-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表「姑息な逃げ。ガソリン値下げを葬った」　ガソリン減税法案の採決拒否の自民を批判「参院選で国民の判断仰ぐ」
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/74c0c5fb41a8c553e3ca672380b9e4ba264f1216eaba27547975eec57d7cddcf.jpg> 鹿児島県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543074>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81a3650de2e308bcae8a673ef0ef23c4ea5bc66871fca4d173a3c74001a4e7c1.jpg> 品切れ続くミャクミャク 入荷急ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543052>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02257938/title-1750498549547.jpeg?exp=10800> Switch2「ゲリラ販売」驚く声も
+      <a href=https://news.yahoo.co.jp/pickup/6543075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6c8c8a98efa57d1f4aa3f4f560b3da746bfbb181bd045323ad88064925e6be3.jpg> 樹海に10代遺体 連れ去り疑い逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 12:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
