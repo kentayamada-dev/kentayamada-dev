@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1aef0f9dabcffb1b2daa0f97e4368446.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c330165992b5e41a42543434abeac3c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/867c7d18ed0c772dcbeed2599a63e7d701cded14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995464-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/19b6947250b3f3aac333772534c9958c624e2536>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01779326-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「羨ましくない」　カーショーが語った“本音”…同僚として感謝「毎日アメージング」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1376b9af299d2daed3d70559e7046cb6fe85ee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-04791952-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国防長官「核開発計画を壊滅」イラン核施設攻撃の成果強調
+      <a href=https://news.yahoo.co.jp/articles/2585e2f7684b7e381c9be00037f54aa20390944a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995488-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村などで最大震度3 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f33aeb50501c6705a44a23bb57f27a4d180ae27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231022-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が登場曲原点回帰「やるかやられるか」　ＮＨＫ中継でもおなじみの曲に
+      <a href=https://news.yahoo.co.jp/articles/6e81dd1a097539f8495e282c67171517fa7a61b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990943-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自民は過去最低 都民ファースト第1党　国民・参政は初議席　東京都議会議員選挙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c4a75296604238e18c8d571e306bfe9b4035007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=237&ch=237&exp=10800&fmt=webp> 都議選で自民党に厳しい審判、過去最低議席…「物価高対策の差別化できず」
+      <a href=https://news.yahoo.co.jp/articles/e68028272df71182ddfcf915aaca082e2a8e087c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990942-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国務長官 攻撃の成果を強調　ホルムズ海峡閉鎖 イラン承認　米攻撃「混乱地域の危険高めた」 イランはNPT尊重を 国連事務総長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3eff40c963bbd4bf53dcf03e3c51f461724fc8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の復帰２度目登板　球場アナウンスも“新スタイル”に　１回無安打無失点２Ｋの快投
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a49e2dd2c47c3a90b8d6109fceaf782a741a22ecbccce3517507819f04b07310.jpg> 都議選での警告37件 逮捕者は1人
+      <a href=https://news.yahoo.co.jp/pickup/6543133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4ffc2a006e3f78e9b5b80835bc116cf6363c10222bef01b6937006c55a61cfa9.jpg> 米攻撃 作戦名「真夜中の鉄つい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4ffc2a006e3f78e9b5b80835bc116cf6363c10222bef01b6937006c55a61cfa9.jpg> 米攻撃 作戦名「真夜中の鉄つい」
+      <a href=https://news.yahoo.co.jp/pickup/6543142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/aba477ff5f6db2d337f07501f6fa95019692f1ea94a00c98b7a0f44ead68c3d0.jpg> 西・東日本で警報級の大雨恐れ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/asasatoshi/02259057/title-1750581125566.jpeg?exp=10800> 交流戦 セ・パの明暗くっきり
+      <a href=https://news.yahoo.co.jp/pickup/6543141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/30b1e8c9fb5f67d2f9982cada0c112556d2e81606700994e3b2ab8310e049918.jpg> 大谷1回無失点降板 1球ごとに歓声
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 06:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 06:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
