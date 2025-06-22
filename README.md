@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef5b6eb15d0aac2006b9249197b898ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8beb20549977c5108b383a9a151b66a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dd98968a21d9d9732d4f1b07a376935a72db5ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010001-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 国籍・軍民問わず戦没者24万人余の氏名を刻んだ沖縄「平和の礎」　戸籍は焼失、犠牲者の名前をどう把握したのか　建立から30年、尽力した人々の軌跡
+      <a href=https://news.yahoo.co.jp/articles/0bdd06556c7adf0ab798b5fa152acd7c2e21cad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244466-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 鹿児島県十島村で震度4　津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09b06eb41550604a9fdaa18c23df2433874bc064>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000001-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鹿児島県十島村で震度4
+      <a href=https://news.yahoo.co.jp/articles/5dd98968a21d9d9732d4f1b07a376935a72db5ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010001-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 国籍・軍民問わず戦没者24万人余の氏名を刻んだ沖縄「平和の礎」　戸籍は焼失、犠牲者の名前をどう把握したのか　建立から30年、尽力した人々の軌跡
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31c017506fd433a33d1167de3c031e35feb5a6b64488f5728c8284e98cd15a10.jpg> 鹿児島県で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543137>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0016108deb2e0c254774742f9705104307ae78c7184e1ab90777e3f0b58ccf68.jpg> 都議選 都民ファが第1党を奪還
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31c017506fd433a33d1167de3c031e35feb5a6b64488f5728c8284e98cd15a10.jpg> 鹿児島県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543127>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/28e1d4f8f47e13b1c1ad783877dfd969a448d304c980bfaa293d010a12899440.jpg> 高級おにぎり仕掛け人 異色の経歴
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 00:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 01:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
