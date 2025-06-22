@@ -12,11 +12,15 @@ const contactSchema = z
     firstName: z.string().nonempty(),
     lastName: z.string().nonempty(),
     message: z.string().nonempty(),
-    phoneNumber: z.string().nonempty()
+    phoneNumber: z.string()
   })
   .refine(
     (args) => {
       const { countryCode, phoneNumber } = args;
+
+      if (!phoneNumber) {
+        return true;
+      }
 
       return isValidPhoneNumber(`${intlTelList[countryCode].code} ${phoneNumber}`, countryCode);
     },
@@ -26,12 +30,11 @@ const contactSchema = z
   )
   .transform((args) => {
     const { countryCode, phoneNumber, ...rest } = args;
-    const formattedPhoneNumber = `${intlTelList[countryCode].code} ${phoneNumber}`;
 
     return {
       ...rest,
       countryCode,
-      phoneNumber: formattedPhoneNumber
+      phoneNumber: phoneNumber && `${intlTelList[countryCode].code} ${phoneNumber}`
     };
   });
 

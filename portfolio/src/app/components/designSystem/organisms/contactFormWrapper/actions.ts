@@ -5,7 +5,6 @@ import { headers } from 'next/headers';
 import { Resend } from 'resend';
 import { envServer } from '@/constants/env';
 import { X_REAL_IP_HEADER } from '@/constants/navigation';
-import { EmailTemplate } from './emailTemplate';
 import { siteVerifySchema } from './schema';
 import type { ContactFormSchemaType, ContactFormStateType } from '@/components/designSystem/molecules';
 
@@ -49,24 +48,44 @@ const verifyRecaptcha = async (token: string): Promise<boolean> => {
 };
 
 const createPost = async (formData: ContactFormSchemaType): Promise<ContactFormStateType> => {
-  const data = [
-    { label: 'Country Code', value: formData.countryCode },
-    { label: 'Phone Number', value: formData.phoneNumber },
-    { label: 'Email', value: formData.email },
-    { label: 'First Name', value: formData.firstName },
-    { label: 'Last Name', value: formData.lastName },
-    { label: 'Message', value: formData.message }
-  ];
+  const data = {
+    countryCode: {
+      label: 'Country Code',
+      value: formData.phoneNumber ? formData.countryCode : ''
+    },
+    phoneNumber: {
+      label: 'Phone Number',
+      value: formData.phoneNumber
+    },
+    // eslint-disable-next-line sort-keys
+    email: {
+      label: 'Email',
+      value: formData.email
+    },
+    firstName: {
+      label: 'First Name',
+      value: formData.firstName
+    },
+    lastName: {
+      label: 'Last Name',
+      value: formData.lastName
+    },
+    message: {
+      label: 'Message',
+      value: formData.message
+    }
+  };
 
   await resend.emails.send({
     from: EMAIL_FROM,
-    react: EmailTemplate({ data }),
+    html: `<div>
+            <h2>Info:</h2>
+            <p>${data.firstName.value} ${data.lastName.value} &lt;${data.email.value}&gt;</p>
+            <h2>Message:</h2>
+            <p>${data.message.value.replace(/\r?\n/gu, '<br>')}</p>
+          </div>`,
     subject: EMAIL_SUBJECT,
-    text: data
-      .map((val) => {
-        return `${val.label}: ${val.value}`;
-      })
-      .join('\n'),
+    text: `Info: ${data.firstName.value} ${data.lastName.value} <${data.email.value}>\nMessage:\n${data.message.value}`,
     to: [EMAIL_TO]
   });
 
@@ -78,12 +97,12 @@ const createPost = async (formData: ContactFormSchemaType): Promise<ContactFormS
     requestBody: {
       values: [
         [
-          formData.countryCode,
-          `=HYPERLINK("https://call.ctrlq.org/${formData.phoneNumber.replace(/\s/gu, '')}", "${formData.phoneNumber}")`,
-          `=HYPERLINK("mailto:${formData.email}", "${formData.email}")`,
-          formData.firstName,
-          formData.lastName,
-          formData.message
+          data.countryCode.value,
+          data.phoneNumber.value && `=HYPERLINK("https://call.ctrlq.org/${formData.phoneNumber.replace(/\s/gu, '')}", "${formData.phoneNumber}")`,
+          `=HYPERLINK("mailto:${data.email.value}", "${data.email.value}")`,
+          data.firstName.value,
+          data.lastName.value,
+          data.message.value
         ]
       ]
     },

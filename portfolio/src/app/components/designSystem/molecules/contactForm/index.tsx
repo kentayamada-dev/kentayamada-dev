@@ -149,7 +149,6 @@ const ContactForm: ContactFormType = (props) => {
             defaultValue={props.state.data?.phoneNumber}
             id='phoneNumber'
             placeholder={countriesData[watch('countryCode')].format}
-            required
             type='tel'
             {...register('phoneNumber')}
           />
