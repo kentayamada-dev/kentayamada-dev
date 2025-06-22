@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b039d1142a07f4e778a6a6dffb7670ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ddb8e27d6e6d1c72fc1e1fa645e40de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8287b339b0de5c6b145b9c733d523e5179c598a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995167-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/094f5267aaf002d0ad198e2226c073d49c5b93f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-90032760-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 「失念してしまった…」実弾入りの拳銃をトイレの個室に置き忘れ　窃盗事件の捜査で訪れた男性警部がパーキングエリアで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df0f06e4d96da9cf583ebb49fa58f9f9251894c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995162-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 静岡県警警部実弾入り拳銃を新東名PAのトイレに置き忘れる トイレ利用の一般客が拳銃を発見 警部自ら拳銃を回収=静岡
+      <a href=https://news.yahoo.co.jp/articles/d4e8cd6a06f0740da02311f5b28565c71ebee29b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995213-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/932087583f18221c48b3225537517b6feccaabc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米のイラン攻撃「早期沈静化が重要」　石破首相、支持するか明言せず
+      <a href=https://news.yahoo.co.jp/articles/b7b3eb7fcb64a05701b16fc2b7974a5755da6119>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 外務省、中東全域に注意喚起　報復応酬回避へ外交的働きかけ強化方針
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543103>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 水泳大会で熱中症か 生徒10人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6543110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/09391d6787eedbbc6f62ab281662ce6d54973356d7518455643f7e66731c0942.jpg> 歯抜かれたまま 元歯科院長に怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/7e8e0812e8e46cd655f9910ae4af033650c9071a680660e9171a9f4505062eb4.jpg> SB交流戦V 日ハムが先に敗れ決定
+      <a href=https://news.yahoo.co.jp/pickup/6543103>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 水泳大会で熱中症か 生徒10人搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 18:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 18:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
