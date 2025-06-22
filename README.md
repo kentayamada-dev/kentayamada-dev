@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3bd060896cf0c08aced30ee01958806.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/756e6216930b68e3f8072d0b1962e33f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b67b7706bacd387baab0c1364116d67c7c3b4e11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1725&ch=1725&exp=10800&fmt=webp> 大谷翔平　報復死球から一夜明け４戦ぶり適時打　日本時間２３日先発　ロバーツ監督明言「問題なく調整できている」
+      <a href=https://news.yahoo.co.jp/articles/fbb0e85531a3353e73bb0a2d9ccc0a46a82faf4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994781-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deb46d28170cd7ee3bcdc807768064e9e85fe722>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000366-spnannex-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 横浜M　観戦者の違反行為を発表　ファンがスタジアム設備破損で無期限入場禁止処分
+      <a href=https://news.yahoo.co.jp/articles/e4a4a6e6a12e2f1f6e4859366524752a78353c14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-03789377-nnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【速報】山梨・河口湖駅近くで埼玉県に住む女子高校生を連れ去りか　男（21）を逮捕　女子高校生は湖近くの樹海で遺体で見つかる～埼玉県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2406196762e91504fe342bb683be63ccd907f99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000362-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=892&ch=892&exp=10800&fmt=webp> 明石家さんま　国分太一ら「戦友」が次々と　「そういう時代の人たちがこういうことになるっていうのは…」
+      <a href=https://news.yahoo.co.jp/articles/a2c7b25b401bfc71e5788c8b2f4bfcc4f9152d84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-90080795-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ガソリン減税法案“廃案”　自民党は採決を拒否　野党からは怒りの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/701f62501c045abaecec973590cf407aa373735e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000033-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第3打席は甘い球を見逃し三振　ゾーン管理に異変…第2打席でも甘い球にスイングできず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18a709d0a6bac12a26fc40337fc3e810200cf053>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050062-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエルのネタニヤフ首相「あなたの大胆な決断は、歴史を変えるだろう」とトランプ氏を称賛
       </a>
     </td>
   </tr>
@@ -386,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543015>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 与野党 参院選に向け論戦本格化
+      <a href=https://news.yahoo.co.jp/pickup/6543074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/44508eedc623b253db984f99044bb6f68883e8aaef11330ec05174ebbd5d92bd.jpg> トランプ氏が演説「軍事的成功」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/fcad78da859d8c6dbf0ae8a4dfbad05071b9ffda9ffc7488938b1db0c84d3373.jpg> ガソリン法案廃案へ 玉木氏が批判
+      <a href=https://news.yahoo.co.jp/pickup/6543072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a794932213e88d877b1be79470543dad8cb0d4c29dbdc45af9a00c659aefc017.jpg> イスラエル首相 米の攻撃に感謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/7644dcd0929dc929078452e20b584175784d5f83e0b756f3bf866b98e3b7c344.jpg> 森友 夫の直筆ノートに妻が思い
+      <a href=https://news.yahoo.co.jp/pickup/6543064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a0b5411473a6678b765131d9b5077189bd3300aca4d8a6330525ff206b001616.jpg> 原爆 胴体から上だけになった夫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/e40c4205a78948c2bde156e63e668da17386599a0837bd8ad18a6c20dcf6b1ee.jpg> 川遊び中の21歳男性 流され死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/49015aefc9fa6c7464566bb2663323df6e9a8980f36d8576f4cd57cc48eca394.jpg> 介護離職 年10万人直面する選択
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/f0169a256bebd9b0f6a4485b2e6e6b31fb71bf1124d0f88d14369ef9914e77a1.jpg> 工場で機械に挟まれ 男性意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6543075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6c8c8a98efa57d1f4aa3f4f560b3da746bfbb181bd045323ad88064925e6be3.jpg> 樹海に10代遺体 連れ去り疑い逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543038>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 倉庫からクマ 鉢合わせ男性けが
+      <a href=https://news.yahoo.co.jp/pickup/6543077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/afdfe42ee1fdad9f9b2c44a039611be8ff8b7d0e453a1c9a45135544808bfd04.jpg> 自己肯定感低く悩む人へ 識者解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/9c715be9631da53e626eccf65feb355e3eec9bccf46f9f4e7b4f512a445a49a4.jpg> 観客が設備破壊 横浜FMが処分
+      <a href=https://news.yahoo.co.jp/pickup/6543070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e4281735ce6ff23c88b77a037d91ea70568ffe04bcfaf416ca93119a1798335a.jpg> ド軍監督 出場停止試合は自宅観戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/21/ff65ae1fe4ce2c37506b6fa1debb1d6e5fd584dc2f2d13a0a2898c5c66fa1bbf.jpg> 内村航平氏ら 体操協会の理事退任
+      <a href=https://news.yahoo.co.jp/pickup/6543069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ead67f0c9964e9567aaf127aa14bd9cab9f191659c6f1a77c991d459c3bbbf40.jpg> チームTOKIO 一丸で謝罪行脚へ
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 03:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 13:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
