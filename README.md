@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9aad922711fc209bbe9002cad283e75a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d5da44df4a49f5e1afe5e0d7412a63c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40ed015bcc7672f046c2d116027404a46cf98094>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994963-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/4e3eb5d7da5e4ce9c3d50e6eb333f882e4b0f3d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06221094-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 【巨人】戸郷翔征が３勝目ならず…５回６安打３失点で降板　３四死球と状態上がらず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/346f5338ee542a352a38b78a9950ae26997243e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36220628-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 【DeNA】バウアー、NPB最短ＫＯ　１回０／３を７失点　２回は１アウトも取れず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fe0b9282607c22d4f9cd9f4559a7bad5e0af8c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010029-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=860&ch=860&exp=10800&fmt=webp> 交流戦V目前のソフトバンク　初回、先制のチャンス逃す　阪神ドラ1ルーキー伊原陵人の前に2者残塁
+      <a href=https://news.yahoo.co.jp/articles/61aa1817a0d335a142a376d4eaf3ae4e5680b1e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994968-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab26ba8ac9fad65b4c6f4a7c13631fe9e60b7cee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000056-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 大谷翔平の低調は登板と関連？　指揮官「少しボール球に手を出す傾向が…」　23日イニングは「明確な制限ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cc26666ae86e2a8d01c66ff12bb42e9aa42658c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00030321-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 雨の時期なのに全国的に降水量は平年以下　雨が全く降っていない所も
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b8c2e03a9b40f4d3a9a7aa5c204b4b2108fb02dc72526c46a1a64fd97fc95f2d.jpg> 山菜採り中 クマに襲われ意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6543093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/29ca46d3594591560868be3f79f11427e74f9e7c3ef21cc209872e13a4780be2.jpg> 誘拐疑い逮捕 少女置き手紙で発覚
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543053>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4eebd425d209951bc9832c72170cb982cf6c935b837c9496a6c5ad0eebc74d82.jpg> 中古車販売の倒産増 トラブル注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/79513349cef089006bfa8e81e4ecf44f0aa868704eaf4b4ab500db88a8a110bf.jpg> バウアーが炎上 初回に痛恨5失点
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/29e6df5e61ab90458e14f6ae5bdac495bf1948f5701271858b554f12386c0e2a.jpg> 石田ひかり 40代大変な時期だった
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 15:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 16:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
