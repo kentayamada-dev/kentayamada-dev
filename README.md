@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38c13a9b7d85a13d5f65ad06f6024922.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef5b6eb15d0aac2006b9249197b898ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2768fa906ee20951844f7b1df6fcd69031fbf35d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000370-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=655&ch=655&exp=10800&fmt=webp> 自民党　第1党陥落確実　政治とカネ問題払しょくできず…参院選への影響必至
+      <a href=https://news.yahoo.co.jp/articles/5dd98968a21d9d9732d4f1b07a376935a72db5ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010001-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 国籍・軍民問わず戦没者24万人余の氏名を刻んだ沖縄「平和の礎」　戸籍は焼失、犠牲者の名前をどう把握したのか　建立から30年、尽力した人々の軌跡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/09b06eb41550604a9fdaa18c23df2433874bc064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000001-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鹿児島県十島村で震度4
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/27580726bde35ba57cf1be8268b44b150ad56f49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000193-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=823&ch=823&exp=10800&fmt=webp> 都民ファが第1党の勢い　自民は苦戦　「知事与党」は過半数維持の見通し
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a513e76638007ada1b0338db51424ae52bcdf7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995316-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5af799a578a58cdd02b7292362e89cb3dbba69ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 平和を願い「礎」を照らすあかり　沖縄戦犠牲者悼む「慰霊の日」前に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96f1f5b0e303104a300d2c84df0391c0d32d902a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050148-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米のイラン攻撃巡る石破首相の発言要旨
+      <a href=https://news.yahoo.co.jp/articles/e31b64c36bf422a28f17145db4162a8ec3cff549>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244442-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がNSC＝国家安全保障会議を開催「イランの核兵器保有は決して許されない」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0016108deb2e0c254774742f9705104307ae78c7184e1ab90777e3f0b58ccf68.jpg> 都議選 都民ファが第1党を奪還
+      <a href=https://news.yahoo.co.jp/pickup/6543138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31c017506fd433a33d1167de3c031e35feb5a6b64488f5728c8284e98cd15a10.jpg> 鹿児島県で震度4 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d1844e01eecfd130a2cfcf931edc675d1ae94130f5817e5eb9da3456f97687c3.jpg> 国民民主 都議選で初議席を獲得
+      <a href=https://news.yahoo.co.jp/pickup/6543137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0016108deb2e0c254774742f9705104307ae78c7184e1ab90777e3f0b58ccf68.jpg> 都議選 都民ファが第1党を奪還
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0bddd542d74ebd6a725408a522020353b947dfbd11c11a722abdda758a0a7aa8.jpg> 露と中国 米のイラン攻撃強く非難
+      <a href=https://news.yahoo.co.jp/pickup/6543126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a49e2dd2c47c3a90b8d6109fceaf782a741a22ecbccce3517507819f04b07310.jpg> 都議選での警告37件 逮捕者は1人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4ffc2a006e3f78e9b5b80835bc116cf6363c10222bef01b6937006c55a61cfa9.jpg> 米攻撃 作戦名「真夜中の鉄つい」
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4bc0a14618be930f58a61ebccfb61da39f4063a43f0177253d117c91d8b5542f.jpg> 中野の頭部に死球 SB津森が謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543125>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/2251ff326f13d2884708f7fb8037a4bcbed1e7995eb7c91bfad865cb5ec26b20.jpg> ひょうろく大河出演 瞬き止まらず
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 23:52:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 00:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
