@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9325f1c880a23537aa365213db408e42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/523498d4a806b3dfffc49113e6cb6d57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cc26666ae86e2a8d01c66ff12bb42e9aa42658c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00030321-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 雨の時期なのに全国的に降水量は平年以下　雨が全く降っていない所も
+      <a href=https://news.yahoo.co.jp/articles/346f5338ee542a352a38b78a9950ae26997243e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36220628-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1304&ch=1304&exp=10800&fmt=webp> 【DeNA】バウアー、NPB最短ＫＯ　１回０／３を７失点　２回は１アウトも取れず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c8941df04ce12c57a3552b8f92bcee282b983e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994881-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/19121963a5b2d73f36ba1aae2fddec982abef4d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994901-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b0ee3b5a08471faec150d7f287037b0512be96e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010003-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース敗れる　正捕手ウィル・スミスはナ・リーグ首位打者に浮上　大谷4打数ノーヒット2三振
+      <a href=https://news.yahoo.co.jp/articles/9fe0b9282607c22d4f9cd9f4559a7bad5e0af8c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010029-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=860&ch=860&exp=10800&fmt=webp> 交流戦V目前のソフトバンク　初回、先制のチャンス逃す　阪神ドラ1ルーキー伊原陵人の前に2者残塁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5aa8021bfec6654335e336ebd04390bc51a37e88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000046-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 鈴木桂治監督、母校・国士舘大の大麻問題について言及「私にできることで解決できることはしていきたい」
+      <a href=https://news.yahoo.co.jp/articles/ab26ba8ac9fad65b4c6f4a7c13631fe9e60b7cee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000056-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 大谷翔平の低調は登板と関連？　指揮官「少しボール球に手を出す傾向が…」　23日イニングは「明確な制限ない」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/88c751fa7e5731855f935767e8c42eb9bb2d7abd28b9d4404ea2533a849f7668.jpg> イラン 核関連の活動続けると発表
+      <a href=https://news.yahoo.co.jp/pickup/6543090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/6e7a301b06279d26b9838e0991311e43ee6c97ab8035fa4b7b99ef32867a470b.jpg> イラン イスラエルにミサイル発射
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/72fa00cc255499626096e9fbbbe7703138d3381610e659a128901b106f7f4c9a.jpg> バンカーバスター どんな爆弾か
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543083>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/c648083a2fac0f38b0a715738eea22ab8876318247a9ab0012b109cbd22e36be.jpg> 午前中から東京などで35℃以上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a0b5411473a6678b765131d9b5077189bd3300aca4d8a6330525ff206b001616.jpg> 原爆 胴体から上だけになった夫
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81917ba3908b5edf4bb840ace59f55d7ddec20acb7d2c60ade21b2e7dd822995.jpg> 山菜採り中 クマに襲われ意識不明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b8c2e03a9b40f4d3a9a7aa5c204b4b2108fb02dc72526c46a1a64fd97fc95f2d.jpg> 山菜採り中 クマに襲われ意識不明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 14:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 15:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
