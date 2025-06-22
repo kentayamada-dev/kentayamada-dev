@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05ea9ad33adc83e529f381262edccd8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71f329bd94709dad35171b9e38498b69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cc3d820e4c0d8376e26a9bee4f591de100fff97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06221063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 出場停止だったロバーツ監督が試合を見たまさかの場所「落ち着かない気持ち」　代行の采配は合格点
+      <a href=https://news.yahoo.co.jp/articles/3a70816cc26ac63f3771251e7f4e66a34c4ca86c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平への“報復”は「正しい」　元MLB捕手がパドレスの死球合戦を擁護「嫌なら、ドジャースはオオタニを試合から外せ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f21270fb6393a94cec7581ae256f9bbeaf389bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> B2爆撃機出動か　米軍のイラン攻撃
+      <a href=https://news.yahoo.co.jp/articles/f73ba2bac8aa838d5d34a02841094e27256cde26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 元TOKIO山口達也「人生をあきらめない」テーマに講演→X更新　意味深メッセージ？活動休止の国分太一氏に響くか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9285ed548a24914eae8edd82763511e1d28f7692>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000118-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和撃破のインテル監督は「これほど組織化されたチームとの対戦は決して容易ではない」
+      <a href=https://news.yahoo.co.jp/articles/d77ea4f4f467a7ebe9cd4e4d6c1801af9c7bf7a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-16944538-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=864&ch=864&exp=10800&fmt=webp> トランプ氏、米軍がイランの核施設3カ所を爆撃し破壊と発表　フォルドなど
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c966bdb22be5b0176fd5899af25fbcb6722bcb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21992943-rbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「全県民の力でつくり上げてきた」　敵味方を問わず戦没者を刻銘した「平和の礎」　建立に携わった男性が語る思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc8859cf7ae749aa493ff4210470d24c40bfde48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000164-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 日本ハム・清宮幸太郎、約1カ月ぶり5号千金弾「結果的に最高の形に」　22日交流戦V可能性に新庄監督「取りにいきます」
+      <a href=https://news.yahoo.co.jp/articles/fa97e8b3e95fd3da31249175e040a856cac1b8d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010000-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=228&ch=228&exp=10800&fmt=webp> ソフトバンクは交流戦優勝目前だが…元チームメートの阪神・大竹耕太郎に手を焼き零封「うまく打たされた」
       </a>
     </td>
   </tr>
@@ -418,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/575b72e3060f13e5b1c610dc8d09e68e1a565560a6d637fdcc9dbf27cc1f7fe1.jpg> 新聞に24万2567人の名前掲載 沖縄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/36ff7246147d12501b5810c40a09aed3776b3d9262ef2a370f03e342e1aa1a0b.jpg> 運転中の友人切りつけ疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543054>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/036059590d05be40882fb77a51a124bfc1f869532899329cfc3542912efe8270.jpg> 退職代行から電話 社長驚きと反省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/cdc3ac3669f4af874f90d42ea41cf6b0fa2e6ebf68870f8b776c92d03c47e386.jpg> 突然激しい頭痛 脳出血で失語症に
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ead67f0c9964e9567aaf127aa14bd9cab9f191659c6f1a77c991d459c3bbbf40.jpg> チームTOKIO 一丸で謝罪行脚へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543048>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/5dd862f9d42b87670225088b41ea73e1205845c6dfda52bdd7db5e8822a61a13.jpg> 山口達也氏が講演 国分に言及せず
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 10:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
