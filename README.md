@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55dfed68ac728a76750e3fbd3e13f827.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c2f784fab57b60ffb7a3aba5b6687ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db064c9c78221d42fc5cf49940676c16463ff820>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-05329158-kytnews-000-1-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海震源の地震　十島村悪石島で震度４を２回観測
+      <a href=https://news.yahoo.co.jp/articles/cf791ee14bb04513fd4e3b996498783652367ed7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995273-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c37f2d3eb23579a37ca6ce95fe275702cd0c252a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000086-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 日本ハム・新庄監督「僕の作戦をやってくれたら勝たせます」　交流戦逆転V逃すも脱“混パ”へ「若さ有利」
+      <a href=https://news.yahoo.co.jp/articles/e576bc4af3c26510cce14a974adbd001791c57f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000087-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=890&ch=890&exp=10800&fmt=webp> 日本ハム・新庄監督、清宮の3安打に「1日入ったら元の清宮君に戻るから」後半戦は「ニュー清宮君」に期待【一問一答】
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7b3eb7fcb64a05701b16fc2b7974a5755da6119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 外務省、中東全域に注意喚起　報復応酬回避へ外交的働きかけ強化方針
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 外務省、中東全域に注意喚起　報復応酬回避へ外交的働きかけ強化方針
       </a>
     </td>
   </tr>
@@ -392,6 +392,22 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585564275_1585564246_aflo_108134983.jpg> 速報 東京都議選の開票状況
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/9ac04d1836931f91ec2f1e75d266d2fc22461d2dbaec2f1e892f24ecc848aab8.jpg> 米とイラン 激しい対立のきっかけ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543111>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/07d2e0f3d66e1d18b10123add3ba10bb704058737745d9e89ca4d748f9eceed4.jpg> PAに実弾入り拳銃置き忘れ 県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543110>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/09391d6787eedbbc6f62ab281662ce6d54973356d7518455643f7e66731c0942.jpg> 歯抜かれたまま 元歯科院長に怒り
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/368cff2cf8fd337bffa9e6303aefe1be3a6ff6aa012ffc090439e6460859581c.jpg> 球場に悲鳴 阪神・中野に頭部死球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543113>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ed19bcd58c9dd62dd38326af3ef7af6c9a2ffb3a057c03fbe338e7bdcf71cdf7.jpg> 田原俊彦が謝罪 調子に乗りすぎた
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 19:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 20:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
