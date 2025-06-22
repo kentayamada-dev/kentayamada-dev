@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02b190ded87a24c97b2c6b65f7e9cf26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9325f1c880a23537aa365213db408e42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3b50a5c63b2079fe03150d3ba455036f8c1c63f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994864-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/1cc26666ae86e2a8d01c66ff12bb42e9aa42658c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00030321-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 雨の時期なのに全国的に降水量は平年以下　雨が全く降っていない所も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edf835462166058958e51242c0882075e8a83953>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャースがリーグ最高勝率から陥落　大谷翔平は4打数無安打2三振…甘い球にバット出ず　23日はリアル二刀流
+      <a href=https://news.yahoo.co.jp/articles/8c8941df04ce12c57a3552b8f92bcee282b983e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994881-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/737c4f7a8764ca212289a8fb9cd716072c100600>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000173-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=957&ch=957&exp=10800&fmt=webp> 岡田紗佳　国分太一の無期限活動休止「憶測とかしちゃう…間違えた噂が広まって印象づくのが一番怖い」
+      <a href=https://news.yahoo.co.jp/articles/7b0ee3b5a08471faec150d7f287037b0512be96e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010003-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース敗れる　正捕手ウィル・スミスはナ・リーグ首位打者に浮上　大谷4打数ノーヒット2三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d49ec70238ce023a40a162980843d515b2b9f8fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000034-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 10代の男女3人を逮捕。52歳会社員への強盗殺人の疑い　広島県警
+      <a href=https://news.yahoo.co.jp/articles/5aa8021bfec6654335e336ebd04390bc51a37e88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000046-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 鈴木桂治監督、母校・国士舘大の大麻問題について言及「私にできることで解決できることはしていきたい」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18a709d0a6bac12a26fc40337fc3e810200cf053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050062-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエルのネタニヤフ首相「あなたの大胆な決断は、歴史を変えるだろう」とトランプ氏を称賛
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050062-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエルのネタニヤフ首相「あなたの大胆な決断は、歴史を変えるだろう」とトランプ氏を称賛
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/15eab6ed2b345b2800f5da6a45042a5cd2577c5f0c824540dfa20a3cb241d3ba.jpg> 茨城のネコもSFTS マダニリスク
+      <a href=https://news.yahoo.co.jp/pickup/6543086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81917ba3908b5edf4bb840ace59f55d7ddec20acb7d2c60ade21b2e7dd822995.jpg> 山菜採り中 クマに襲われ意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4a4fd4532314658c3d110942912d84c13ab045222ca83ee1ed2231c12b578a4b.jpg> ド軍 計8本のアーチ合戦に敗れる
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ead67f0c9964e9567aaf127aa14bd9cab9f191659c6f1a77c991d459c3bbbf40.jpg> チームTOKIO 一丸で謝罪行脚へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 14:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 14:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
