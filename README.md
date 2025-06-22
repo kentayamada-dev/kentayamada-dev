@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b08091b4e5016687a64a4d9f0d1db2a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e61e1464b66ebc50197b6818fbd9e412.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8877fbbfb81f1d364d48b4df852db5ecc40517fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、イランと戦争望まず　核施設攻撃は「限定的」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be7e768ead8915304e3f9c942862271f42ecc8cd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995423-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
       </a>
@@ -366,31 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d7403e870133a0b6a4739b35e39433f2ba74c45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ［社説］沖縄戦80年　慰霊の日に　戦争否定の意思示そう
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01610078-okinawat-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=246&ch=246&exp=10800&fmt=webp> ［社説］沖縄戦80年　慰霊の日に　戦争否定の意思示そう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e8290fd2ae887be358caa805998b9ca3164a338>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000198-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 自民大敗、都民ファ第1党奪還　国民民主は台風の目とならず　維新は全員落選確実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/999748ab4155da2d2fd1faf871d13d2349d97adb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231005-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「１番投手」でスタメン入り　２度目登板で２６号二刀流弾＆初奪三振期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/413e78e77244dffa9745138ebf3732e4f11e23ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990938-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国防長官「イランの核開発計画を壊滅」 “体制転換狙ったものではない”　イラン外相「核兵器を保有していない」 米攻撃非難も“報復”言及せず
+      <a href=https://news.yahoo.co.jp/articles/2c9cdb16aa9af056b2d400ee1a26cee737b32b9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【都議選2025】全議席確定　都ファ31で第1党に　自民は過去最低　国民・参政は初の議席　再生はゼロ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 04:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 04:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
