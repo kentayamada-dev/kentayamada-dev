@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f35ec6a278b990d86e44fa8d4a47be92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b039d1142a07f4e778a6a6dffb7670ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c63268150e484f66255e60e22b0c8e21e46687b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995115-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 地震頻発のトカラ列島　震度4を2回観測　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/8287b339b0de5c6b145b9c733d523e5179c598a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995167-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d48e2c3d2b334eb70594d9e36b5ff07458c20e9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000260-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 交流戦Vのソフトバンク小久保監督「秋にはセ・リーグ1位の阪神と戦いたい」
+      <a href=https://news.yahoo.co.jp/articles/df0f06e4d96da9cf583ebb49fa58f9f9251894c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995162-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 静岡県警警部実弾入り拳銃を新東名PAのトイレに置き忘れる トイレ利用の一般客が拳銃を発見 警部自ら拳銃を回収=静岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/670e1f3882ee720bd09437facc9127a68eb46f4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000050-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 静岡県警の警部、実弾入り拳銃置き忘れ　高速PAトイレに　
+      <a href=https://news.yahoo.co.jp/articles/e576bc4af3c26510cce14a974adbd001791c57f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000087-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=890&ch=890&exp=10800&fmt=webp> 日本ハム・新庄監督、清宮の3安打に「1日入ったら元の清宮君に戻るから」後半戦は「ニュー清宮君」に期待【一問一答】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/918e2c2f2e7609f1e166c846f1e8b96f64ba4033>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050090-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 石破首相、米国のイラン攻撃を支持するかどうか明言避ける…「重大な関心持って注視している」
+      <a href=https://news.yahoo.co.jp/articles/932087583f18221c48b3225537517b6feccaabc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米のイラン攻撃「早期沈静化が重要」　石破首相、支持するか明言せず
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島県で震度4 津波心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/bf7702aa59285ddb5b64359807d801ca40405edd919b95546c8eba5d9190da29.jpg> 米のイラン攻撃 石破首相が言及
+      <a href=https://news.yahoo.co.jp/pickup/6543106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/804808f1397f1344f048556a1582be31bfccccacd578cd6cb3cee564c7a2db1d.jpg> 都議選の期日前投票 過去最多
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543095>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/630229056799e5428f1f627529365694202adce0bba4ee3afccbf8f9d93e4de7.jpg> 参院選へ 自公過半数は楽観できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543092>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokohanawa/02258613/title-1750562161081.jpeg?exp=10800> 2万円給付 消費減税と比べ効果は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 17:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 18:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
