@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7501f3fff8b694f19352f6f747c3370.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cf1c7a94db77d890507391c63e5b881.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6c8399a49a6ea0e7d6e2ebab38031d3dea1abe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778775-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 退場処分→衝撃の“在宅勤務”　2日ぶり復帰のロバーツ監督…画面に釘付けで「そわそわ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dafec41d49e165b6afec4438fd7e8f2ca05fcf34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 参院選見据え首都決戦　投票開始、深夜に大勢判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d524a947bda20c3ad54848815890f02563f052e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000095-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和は後半ATの被弾で敗戦　新採用の“8秒ルール”にも苦戦　GK西川「終盤はきつい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9974213b258596286b24be47d90be3cece1989d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778468-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平への“報復死球”「野球のためにいけない」　米番組でOB＆識者が激論…絶対的不可侵の存在
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000019-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 参院選見据え首都決戦　投票開始、深夜に大勢判明
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc8859cf7ae749aa493ff4210470d24c40bfde48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000164-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 日本ハム・清宮幸太郎、約1カ月ぶり5号千金弾「結果的に最高の形に」　22日交流戦V可能性に新庄監督「取りにいきます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c002cb1a35a0a9657d88be41084a6bfc9697bc86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010001-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 『25時、赤坂で Season2』10月より放送決定　駒木根葵汰×新原泰佑がW主演で続投へ
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543042>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0c8aa54fc8ff4131047f64ef352df1690d0e2b13366eb474e660306f3996d45e.jpg> 都議選投票始まる 参院選の前哨戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6b6e499cb71b1a0337db3ed641cd8370f4bed6b51aab067a877b5e3384b9fce.jpg> ベラルーシ 邦人2人への恩赦決定
       </a>
     </td>
   </tr>
@@ -427,7 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ce689d965e11588600aa4ed9fa6051bbed028cf4bf1e93fcbf6bf4fa5b310ceb.jpg> 江戸川区でマンション火災1人死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/560725dc8d1316cce76b258d85e6bef00bd6632782da8d77c27ecb203bbb9dcc.jpg> 江戸川区でマンション火災1人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/36ff7246147d12501b5810c40a09aed3776b3d9262ef2a370f03e342e1aa1a0b.jpg> 運転中の友人切りつけ疑い 逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 08:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 09:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
