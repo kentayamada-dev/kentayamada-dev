@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee497abb8018a3ff10699c2aa5fb8974.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f05975fd3b6951e208066906215b1ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2768fa906ee20951844f7b1df6fcd69031fbf35d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民党　第1党陥落確実　政治とカネ問題払しょくできず…参院選への影響必至
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b11536896a275e2465d159dc9ea9b7429033cf1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000006-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「べらぼう」第24話、「グッと来る」「蔦重のソウルメイト」…橋本愛“てい”の言葉に感動広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a513e76638007ada1b0338db51424ae52bcdf7f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995316-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/335f01a598c63b0ad779eb13c1526adf76092556>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000178-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> まだ騙されているひょうろくｗ「べらぼう」花魁の色仕掛けは「ありがた～い」　役が消えて「本当にドキドキ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e31b64c36bf422a28f17145db4162a8ec3cff549>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-07244442-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=517&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がNSC＝国家安全保障会議を開催「イランの核兵器保有は決して許されない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf313c05e631a7391e24756d60234620558d8ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-10184788-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 参院選の“前哨戦”都議選の結果が与える影響は 苦戦の自民党に担当記者「ある幹部からは『現金給付が余計だった』という声も」
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/36ca6b1986871772072d106581a7e1379625b1e85ea2e58aa949279bd4db0185.jpg> 都議選 都民ファと自民が接戦
+      <a href=https://news.yahoo.co.jp/pickup/6543134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d302063d33e4e5fbf3212fac5b7efa14afe50287838d852a2c28924910359bdf.jpg> 自民苦戦 都民ファは次々と当確
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/207968ccb88c5aa91b04d491f4f912df3975174234b171b94b36a4245f041b92.jpg> 参政党 都議選で初の議席獲得
+      <a href=https://news.yahoo.co.jp/pickup/6543132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d1844e01eecfd130a2cfcf931edc675d1ae94130f5817e5eb9da3456f97687c3.jpg> 国民民主 都議選で初議席を獲得
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585564275_1585564246_aflo_108134983.jpg> 速報 東京都議選の開票状況
+      <a href=https://news.yahoo.co.jp/pickup/6543135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/3/30/1585564275_1585564246_aflo_108134983.jpg> 最新情報 東京都議選の開票状況
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/dd2fc16380619447431ed91d3880d1f80fba78cec113c0e2c6ff8d37a892694b.jpg> 巨人・戸郷 今季2度目の2軍落ちへ
+      <a href=https://news.yahoo.co.jp/pickup/6543130>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4bc0a14618be930f58a61ebccfb61da39f4063a43f0177253d117c91d8b5542f.jpg> 中野の頭部に死球 SB津森が謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 23:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 23:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
