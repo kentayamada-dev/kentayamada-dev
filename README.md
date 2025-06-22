@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f37b130247658ea737d39c868e355e70.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d834b9f7bd8fd536bca7e8ae80968033.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5dfd746a1f797120b64396dd04bd99f856bf22c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010002-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “二刀流”大谷翔平 1回2K無失点＆8試合ぶり26号、大谷のホームランボールをパパが取り損ねて息子大号泣
+      <a href=https://news.yahoo.co.jp/articles/4146635ec658b5e937f4df54d99840a95a3dffb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000053-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=79&cw=1694&ch=1694&exp=10800&fmt=webp> 大谷翔平　投打同時出場は打に好影響　２試合で打率・５００、１本塁打、７打点　二刀流は「うれしい」不振脱却のきっかけに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58d3bc46135eea006ae1ee0f851040447547c053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01967974-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】広く梅雨空戻る　激しい雷雨になるところも
+      <a href=https://news.yahoo.co.jp/articles/6c81393732d6faa6f53e9df60ae0641667d0337c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000007-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米バンス副大統領「イランと戦争していない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db30421da825d087f45e7db6d2f70b35d3ba3f5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-36230101-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=507&ch=507&exp=10800&fmt=webp> 【都議選】自民が歴史的大敗で都議会第１党失う　裏金＆“バラマキ”批判も影響か　参院選に不安
+      <a href=https://news.yahoo.co.jp/articles/486d51123af47f842e5087899525a7c493ee967b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995537-mbcnewsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/088eac4097be193cd8769cf8120c0b7a32d7cbbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995514-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/c5928951c16b6a111c2fb5e78cd54b83b56b875c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-36230144-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【都議選】全議席が確定　都民ファが第１党復活　国民民主&amp;参政が初の議席獲得　維新は議席失う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d43e2b6425f6b68be76a0e1840dc93be665a6bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-09461964-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> イランの攻撃でイスラエル86人負傷　核施設の攻撃後も応酬続く
+      <a href=https://news.yahoo.co.jp/articles/f53c91364bc3ed8cfb2b027e13beb43194e8209f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010000-chuokou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 選挙を脅かす襲撃事件と、日本の要人警護
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c1152821fe3b35eb54c61b671506f9f93bf7b1498c1cf733c42dd81b8b7f017b.jpg> 米長官 イランの核開発計画を壊滅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/883372580807d7a8a327b8a492b6a8b8a7fd79bba533dca1643aa97db05958eb.jpg> 米のイラン攻撃 識者が背景解説
       </a>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/8b6c6da1e9dddc7b2947e4a3375ca74f51039a80693b527de4e222c7f6e7a76c.jpg> 都議選 自民は参院選へ危機感
+      <a href=https://news.yahoo.co.jp/pickup/6543144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c1152821fe3b35eb54c61b671506f9f93bf7b1498c1cf733c42dd81b8b7f017b.jpg> 米長官 イランの核開発計画を壊滅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/ded6aca2e117a8682b78e93a946044ec95ef5b3780d1369fcb48a3c18d269e8e.jpg> 都議選 自民党が過去最低の議席数
+      <a href=https://news.yahoo.co.jp/pickup/6543146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/8b6c6da1e9dddc7b2947e4a3375ca74f51039a80693b527de4e222c7f6e7a76c.jpg> 都議選 自民は参院選へ危機感
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543142>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/aba477ff5f6db2d337f07501f6fa95019692f1ea94a00c98b7a0f44ead68c3d0.jpg> 西・東日本で警報級の大雨恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/acd8ccb970976c7348e4b1069bfcf8bef622dc3bbea9ec85622e4fda47919e91.jpg> 沖に流され高校生が死亡 鎌倉
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 08:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 08:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
