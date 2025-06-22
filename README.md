@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f893597463572ab19b20fc0d1b8198e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e542b4c6142818cac762b3cce495d835.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01235723104b2ff369d99d438be77d4dbd1669aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-90113126-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 渡辺直美、東京ドーム公演開催決定「まじ自分でもびっくりしています！！！！笑
+      <a href=https://news.yahoo.co.jp/articles/bf313c05e631a7391e24756d60234620558d8ed3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-10184788-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 参院選の“前哨戦”都議選の結果が与える影響は 苦戦の自民党に担当記者「ある幹部からは『現金給付が余計だった』という声も」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/775597bb1cc7a6d66ac36d3e27a0002850e52456>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000008-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』ひょうろく、大河オファーにドッキリ疑う「何が本当で何が嘘かわからなく…」 渡辺謙を見て確信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/666386aef5d6c9f1237f98f937c14b01eefb4a76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36222141-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1132&ch=1132&exp=10800&fmt=webp> 【ソフトバンク】６年ぶり９度目の交流戦優勝…その裏にあった小久保裕紀監督の大きな決断とは？
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/074489adf3c3133727c6a27e3d589d6e33a4b57a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995295-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f97b3de65431f0e3ed2270f5dfc44ae27a1a5720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050110-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=338&ch=338&exp=10800&fmt=webp> 都議選の石破政権への影響、自民苦戦でも遠のく「石破おろし」…「連立」へのシナリオ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5af799a578a58cdd02b7292362e89cb3dbba69ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 平和を願い「礎」を照らすあかり　沖縄戦犠牲者悼む「慰霊の日」前に
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/0fea573927146ca4f882ec1b007f2e1eae80dd7a73ccbb99117b1c4da43f6649.jpg> 都議選の結果 石破政権にどう影響
+      <a href=https://news.yahoo.co.jp/pickup/6543121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/207968ccb88c5aa91b04d491f4f912df3975174234b171b94b36a4245f041b92.jpg> 参政党 都議選で初の議席獲得へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/65b2d4ce3559180657dab39db9d5986047075557bffd87610feafc6860466901.jpg> 渡辺直美 ピン芸人初東京D公演へ
+      <a href=https://news.yahoo.co.jp/pickup/6543113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ed19bcd58c9dd62dd38326af3ef7af6c9a2ffb3a057c03fbe338e7bdcf71cdf7.jpg> 田原俊彦が謝罪 調子に乗りすぎた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ed19bcd58c9dd62dd38326af3ef7af6c9a2ffb3a057c03fbe338e7bdcf71cdf7.jpg> 田原俊彦が謝罪 調子に乗りすぎた
+      <a href=https://news.yahoo.co.jp/pickup/6543125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/2251ff326f13d2884708f7fb8037a4bcbed1e7995eb7c91bfad865cb5ec26b20.jpg> ひょうろく大河出演 瞬き止まらず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 21:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 22:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
