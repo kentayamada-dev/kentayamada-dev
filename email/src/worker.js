@@ -14,7 +14,7 @@ export default {
         <tbody>
             <tr>
                 <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Sender</td>
-                <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.from.name} &lt;${email.from.address}&gt;</td>
+                <td style="border:1px solid oklch(0.446 0.043 257.281);padding:8px">${email.from.name} ${email.from.address}</td>
             </tr>
             <tr>
                 <td style="border:1px solid oklch(0.446 0.043 257.281);font-weight:700;padding:8px">Subject</td>
