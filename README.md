@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b61e30b4b6d02e82998a00a00e37c52d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1aef0f9dabcffb1b2daa0f97e4368446.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12af7feeda4c6f3eb234e86add79c9656720ab79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 投手・大谷翔平、1イニングのみ無安打2奪三振で無失点　降板後“笑顔”も　リアル二刀流で今季2度目の先発登板
+      <a href=https://news.yahoo.co.jp/articles/867c7d18ed0c772dcbeed2599a63e7d701cded14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995464-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/543305c15f1133dab20208a059ac15fa2bae4766>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-09157418-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【都議選2025】都民ファーストの会が第1党に　今後の小池都政への影響は
+      <a href=https://news.yahoo.co.jp/articles/f1376b9af299d2daed3d70559e7046cb6fe85ee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-04791952-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国防長官「核開発計画を壊滅」イラン核施設攻撃の成果強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0aa258aa841497dd59e62bc5af016fb8952c742>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995437-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度2 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/2f33aeb50501c6705a44a23bb57f27a4d180ae27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231022-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が登場曲原点回帰「やるかやられるか」　ＮＨＫ中継でもおなじみの曲に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a8cde7c874842efa3e7fd2abb40d8930bd8711b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=967&ch=967&exp=10800&fmt=webp> トランプ米大統領　イラン核施設攻撃　米軍“参戦”初の本土直接　バンカーバスター＆トマホークを使用
+      <a href=https://news.yahoo.co.jp/articles/9c4a75296604238e18c8d571e306bfe9b4035007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=237&ch=237&exp=10800&fmt=webp> 都議選で自民党に厳しい審判、過去最低議席…「物価高対策の差別化できず」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 05:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 06:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
