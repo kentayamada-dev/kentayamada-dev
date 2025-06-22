@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c2f784fab57b60ffb7a3aba5b6687ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21db0d48f90b7935592779fe5f2212e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf791ee14bb04513fd4e3b996498783652367ed7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995273-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/01235723104b2ff369d99d438be77d4dbd1669aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-90113126-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 渡辺直美、東京ドーム公演開催決定「まじ自分でもびっくりしています！！！！笑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f016acffe88ed1f1ff5190a46ce57d4974b7e7be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01973654-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山・新燃岳で7年ぶりに噴火 噴煙が火口から500メートルの高さまで上がる
+      <a href=https://news.yahoo.co.jp/articles/50eb95b6d561eb80d2f7eaa5a903d192957e7680>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000072-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 参政党、都議選で初の議席獲得へ　都民税「50％減税」など訴え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e576bc4af3c26510cce14a974adbd001791c57f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000087-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=890&ch=890&exp=10800&fmt=webp> 日本ハム・新庄監督、清宮の3安打に「1日入ったら元の清宮君に戻るから」後半戦は「ニュー清宮君」に期待【一問一答】
+      <a href=https://news.yahoo.co.jp/articles/074489adf3c3133727c6a27e3d589d6e33a4b57a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21995295-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7b3eb7fcb64a05701b16fc2b7974a5755da6119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 外務省、中東全域に注意喚起　報復応酬回避へ外交的働きかけ強化方針
+      <a href=https://news.yahoo.co.jp/articles/5af799a578a58cdd02b7292362e89cb3dbba69ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000051-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 平和を願い「礎」を照らすあかり　沖縄戦犠牲者悼む「慰霊の日」前に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96f1f5b0e303104a300d2c84df0391c0d32d902a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00050148-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 米のイラン攻撃巡る石破首相の発言要旨
       </a>
     </td>
   </tr>
@@ -392,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/36ca6b1986871772072d106581a7e1379625b1e85ea2e58aa949279bd4db0185.jpg> 都議選 都民ファと自民が接戦
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543117>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/74726a3f826c1dfec1266838226e9d6c71cfed8af88609ed11ca62c47a4464e3.jpg> 首相 米攻撃支持するか明言避ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543107>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02258577/title-1750577703852.jpeg?exp=10800> 猛暑から一転大雨か 今後の見通し
       </a>
@@ -427,15 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/006d860c7c58148903de1fccf8270b654f0a4dc4b8d893851bf0e1ecb500ef47.jpg> 新燃岳 連続噴火は停止したもよう
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/09391d6787eedbbc6f62ab281662ce6d54973356d7518455643f7e66731c0942.jpg> 歯抜かれたまま 元歯科院長に怒り
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/ac670d7601a67b929f9f4edaf28ccfff06a517e212ef90687bfe1551bc7dedc8.jpg> 新燃岳 連続噴火は停止したもよう
       </a>
     </td>
   </tr>
@@ -444,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543089>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/8b09b65b0a581e2f7cffa559617738f8245fea5373242fdd5e4fff8d8fe9f14a.jpg> 鈴木桂治氏 母校の大麻問題言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/65b2d4ce3559180657dab39db9d5986047075557bffd87610feafc6860466901.jpg> 渡辺直美 ピン芸人初東京D公演へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 20:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 21:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
