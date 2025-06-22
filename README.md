@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e79b588dd9b9b6ca3303e9bd0dcf3263.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5686d3b0944da6121aa32dae6d1830c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ae21e4754d07bacd06b76b24bc9bade17d36ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030330-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 23日までの1週間で最大震度4の地震が4回　緊急地震速報が発表された時の対応は
+      <a href=https://news.yahoo.co.jp/articles/70daed54a5db145f6cc62294ca999523256aa491>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01779389-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が覆した“定説”　LA中継は興奮…1回2K無失点→激走三塁打「打てないって誰が」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d34c602d413f83893cd040c4874cf7b8547f5e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 大谷翔平は「世界に衝撃を与え続けている」米記者も驚愕　復帰後初の奪三振も　“原点回帰”の登場曲「Do Or Die」で1回無失点
+      <a href=https://news.yahoo.co.jp/articles/088eac4097be193cd8769cf8120c0b7a32d7cbbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995514-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d517f39cf462cd73773473167a332d752924f79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000033-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷翔平　第３打席は四球で好機を拡大　一塁ベースで３ランのロウと談笑シーン
+      <a href=https://news.yahoo.co.jp/articles/5cba1fc01f23b05f49b9d652e42f69f4603cbb8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-08155776-kry-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【山口天気 朝刊6/23】再び梅雨らしい空模様で一日傘の出番 夜にかけてエアコン活躍の蒸し暑さに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33d550d2452dc0b0e6db3374bef3f2aa9625e796>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000005-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 都議選　都民ファが第1党に　自民は過去最低
+      <a href=https://news.yahoo.co.jp/articles/d5884b8c63d9089f346a1961e855f3693c9b3256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000005-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=737&ch=737&exp=10800&fmt=webp> 自民、参院選へ危機感　物価高・裏金が影響　立、国は手応え・都議選
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543144>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c1152821fe3b35eb54c61b671506f9f93bf7b1498c1cf733c42dd81b8b7f017b.jpg> 米長官 イランの核開発計画を壊滅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/8b6c6da1e9dddc7b2947e4a3375ca74f51039a80693b527de4e222c7f6e7a76c.jpg> 都議選 自民は参院選へ危機感
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/d1844e01eecfd130a2cfcf931edc675d1ae94130f5817e5eb9da3456f97687c3.jpg> 国民民主 都議選で9議席を獲得
+      <a href=https://news.yahoo.co.jp/pickup/6543145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/33d875c1828d7fdc076121225eb4cacda468630fff3aea15980cc5e0dc185eca.jpg> 都議選の投票率47.59% 前回上回る
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/2251ff326f13d2884708f7fb8037a4bcbed1e7995eb7c91bfad865cb5ec26b20.jpg> ひょうろく大河出演 瞬き止まらず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 07:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 07:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
