@@ -35,7 +35,7 @@ const LikeButton: LikeButtonType = (props) => {
   return (
     <button
       aria-label={likeLabel}
-      className='bg-primary flex w-fit cursor-pointer items-center justify-center rounded-full py-2 pr-6 pl-3 disabled:cursor-not-allowed'
+      className='hover-primary bg-primary flex w-fit cursor-pointer items-center justify-center rounded-full py-2 pr-6 pl-3 disabled:cursor-not-allowed'
       disabled={isDisabled}
       onClick={handleClick}
       title={likeLabel}

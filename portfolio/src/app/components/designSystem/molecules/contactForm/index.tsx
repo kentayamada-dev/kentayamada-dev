@@ -167,7 +167,7 @@ const ContactForm: ContactFormType = (props) => {
       />
       <ReCAPTCHA hl={props.locale} onChange={props.handleRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
       <button
-        className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white disabled:cursor-not-allowed'
+        className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white hover:brightness-95 disabled:cursor-not-allowed dark:hover:brightness-110'
         disabled={props.isPending}
         type='submit'
       >

@@ -174,7 +174,10 @@ const Calculator: CalculatorType = (props) => {
           type='number'
           {...register('shares')}
         />
-        <button className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white' type='submit'>
+        <button
+          className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white hover:brightness-95 dark:hover:brightness-110'
+          type='submit'
+        >
           {calculator.calculate}
         </button>
       </form>
