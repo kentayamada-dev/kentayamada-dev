@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/523498d4a806b3dfffc49113e6cb6d57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9aad922711fc209bbe9002cad283e75a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/346f5338ee542a352a38b78a9950ae26997243e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36220628-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1304&ch=1304&exp=10800&fmt=webp> 【DeNA】バウアー、NPB最短ＫＯ　１回０／３を７失点　２回は１アウトも取れず
+      <a href=https://news.yahoo.co.jp/articles/40ed015bcc7672f046c2d116027404a46cf98094>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994963-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度1 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19121963a5b2d73f36ba1aae2fddec982abef4d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994901-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/346f5338ee542a352a38b78a9950ae26997243e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-36220628-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=1201&ch=1201&exp=10800&fmt=webp> 【DeNA】バウアー、NPB最短ＫＯ　１回０／３を７失点　２回は１アウトも取れず
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/c648083a2fac0f38b0a715738eea22ab8876318247a9ab0012b109cbd22e36be.jpg> 午前中から東京などで35℃以上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543085>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/eb44f4193b8995d40c543877855f8aecc366dc43e81e6bc026e3ae8f38f7c0af.jpg> 公園で殺人事件 10代男女3人逮捕
       </a>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e6c8c8a98efa57d1f4aa3f4f560b3da746bfbb181bd045323ad88064925e6be3.jpg> 樹海に10代遺体 連れ去り疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b8c2e03a9b40f4d3a9a7aa5c204b4b2108fb02dc72526c46a1a64fd97fc95f2d.jpg> 山菜採り中 クマに襲われ意識不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b8c2e03a9b40f4d3a9a7aa5c204b4b2108fb02dc72526c46a1a64fd97fc95f2d.jpg> 山菜採り中 クマに襲われ意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6543053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/4eebd425d209951bc9832c72170cb982cf6c935b837c9496a6c5ad0eebc74d82.jpg> 中古車販売の倒産増 トラブル注意
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/29e6df5e61ab90458e14f6ae5bdac495bf1948f5701271858b554f12386c0e2a.jpg> 石田ひかり 40代大変な時期だった
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 15:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
