@@ -3,7 +3,6 @@ import { Resend } from 'resend';
 
 export default {
   async email(message, env, ctx) {
-    console.log(JSON.stringify(message, null, 4));
     const email = await PostalMime.parse(message.raw, {
       attachmentEncoding: 'base64'
     });
