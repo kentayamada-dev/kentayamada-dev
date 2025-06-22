@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/71f329bd94709dad35171b9e38498b69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce081c34db41760cd8c3c753a8ddd813.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a70816cc26ac63f3771251e7f4e66a34c4ca86c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平への“報復”は「正しい」　元MLB捕手がパドレスの死球合戦を擁護「嫌なら、ドジャースはオオタニを試合から外せ」
+      <a href=https://news.yahoo.co.jp/articles/a78b8a30b7acdf3d7087a11b4de202743bbe07aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=880&ch=880&exp=10800&fmt=webp> 「TQB」決着なら価値ある「16―2」　ソフトバンク、9度目の交流戦Vなるか　日本ハムとの一騎打ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c87aa25f566b7d9832c4de7ebd08b44838c9dcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=386&ch=386&exp=10800&fmt=webp> トランプ大統領「イラン核施設３カ所の攻撃成功」…バンカーバスター搭載したＢ２爆撃機が関与
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f73ba2bac8aa838d5d34a02841094e27256cde26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 元TOKIO山口達也「人生をあきらめない」テーマに講演→X更新　意味深メッセージ？活動休止の国分太一氏に響くか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d77ea4f4f467a7ebe9cd4e4d6c1801af9c7bf7a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-16944538-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=864&ch=864&exp=10800&fmt=webp> トランプ氏、米軍がイランの核施設3カ所を爆撃し破壊と発表　フォルドなど
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa97e8b3e95fd3da31249175e040a856cac1b8d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010000-yomseibu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=228&ch=228&exp=10800&fmt=webp> ソフトバンクは交流戦優勝目前だが…元チームメートの阪神・大竹耕太郎に手を焼き零封「うまく打たされた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000002-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 元TOKIO山口達也「人生をあきらめない」テーマに講演→X更新　意味深メッセージ？活動休止の国分太一氏に響くか
       </a>
     </td>
   </tr>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/036059590d05be40882fb77a51a124bfc1f869532899329cfc3542912efe8270.jpg> 退職代行から電話 社長驚きと反省
+      <a href=https://news.yahoo.co.jp/pickup/6543060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/bc6bd60c9fc16a7a133da7494c7308cb84722cfd18bfa3a8729b847c1911652a.jpg> 都議選「切り抜き動画」が急増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/41263d3e9b4fa1579930056ffb4baed0451c04ee92b951583e385dffd5cc615b.jpg> 中央道で逆走 避けたトラック事故
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543052>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02257938/title-1750498549547.jpeg?exp=10800> Switch2「ゲリラ販売」驚く声も
+      <a href=https://news.yahoo.co.jp/pickup/6543057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81a3650de2e308bcae8a673ef0ef23c4ea5bc66871fca4d173a3c74001a4e7c1.jpg> 品切れ続くミャクミャク 入荷急ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/3c46c8e444ad262daa6fa8ab83f7501eabbc50dd5db16ed950039221a7f8ce18.jpg> 浦和逆転負け 守護神が涙「残酷」
+      <a href=https://news.yahoo.co.jp/pickup/6543052>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02257938/title-1750498549547.jpeg?exp=10800> Switch2「ゲリラ販売」驚く声も
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/5dd862f9d42b87670225088b41ea73e1205845c6dfda52bdd7db5e8822a61a13.jpg> 山口達也氏が講演 国分に言及せず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 11:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
