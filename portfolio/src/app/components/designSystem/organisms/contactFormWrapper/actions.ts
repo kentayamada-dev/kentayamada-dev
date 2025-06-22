@@ -79,13 +79,14 @@ const createPost = async (formData: ContactFormSchemaType): Promise<ContactFormS
   await resend.emails.send({
     from: EMAIL_FROM,
     html: `<div>
-            <h2>Info:</h2>
-            <p>${data.firstName.value} ${data.lastName.value} &lt;${data.email.value}&gt;</p>
-            <h2>Message:</h2>
-            <p>${data.message.value.replace(/\r?\n/gu, '<br>')}</p>
+            <h2 style="margin: 0;">Info:</h2>
+            <p style="margin: 0;">${data.firstName.value} ${data.lastName.value} &lt;${data.email.value}&gt;</p>
+            <br>
+            <h2 style="margin: 0;">Message:</h2>
+            <p style="margin: 0;">${data.message.value.replace(/\r?\n/gu, '<br>')}</p>
           </div>`,
     subject: EMAIL_SUBJECT,
-    text: `Info: ${data.firstName.value} ${data.lastName.value} <${data.email.value}>\nMessage:\n${data.message.value}`,
+    text: `Info:\n${data.firstName.value} ${data.lastName.value} <${data.email.value}>\n\nMessage:\n${data.message.value}`,
     to: [EMAIL_TO]
   });
 
