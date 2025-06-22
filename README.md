@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/756e6216930b68e3f8072d0b1962e33f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/238e3fed7ca413f7c6909f4c02719f9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb0e85531a3353e73bb0a2d9ccc0a46a82faf4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-21994781-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/e4555ab467f4816e3eac305325b03c137c011af7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000005-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 震源はトカラ列島近海、悪石島で最大震度4――21日から地震頻発、22日も昼までに60回
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4a4a6e6a12e2f1f6e4859366524752a78353c14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-03789377-nnn-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【速報】山梨・河口湖駅近くで埼玉県に住む女子高校生を連れ去りか　男（21）を逮捕　女子高校生は湖近くの樹海で遺体で見つかる～埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/9dc2bc9b1479c2f18f165e93e2714db466de897c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000163-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=802&ch=802&exp=10800&fmt=webp> MLB　選手、球審、スタッフが次々に…各地の猛暑デーゲームで体調不良者が続出　マ軍監督「ひどかった」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/44508eedc623b253db984f99044bb6f68883e8aaef11330ec05174ebbd5d92bd.jpg> トランプ氏が演説「軍事的成功」
+      <a href=https://news.yahoo.co.jp/pickup/6543076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/88c751fa7e5731855f935767e8c42eb9bb2d7abd28b9d4404ea2533a849f7668.jpg> イラン 核関連の活動続けると発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/a794932213e88d877b1be79470543dad8cb0d4c29dbdc45af9a00c659aefc017.jpg> イスラエル首相 米の攻撃に感謝
+      <a href=https://news.yahoo.co.jp/pickup/6543083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/c648083a2fac0f38b0a715738eea22ab8876318247a9ab0012b109cbd22e36be.jpg> 午前中から東京などで35℃以上
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/afdfe42ee1fdad9f9b2c44a039611be8ff8b7d0e453a1c9a45135544808bfd04.jpg> 自己肯定感低く悩む人へ 識者解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/e4281735ce6ff23c88b77a037d91ea70568ffe04bcfaf416ca93119a1798335a.jpg> ド軍監督 出場停止試合は自宅観戦
+      <a href=https://news.yahoo.co.jp/pickup/6543047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/15eab6ed2b345b2800f5da6a45042a5cd2577c5f0c824540dfa20a3cb241d3ba.jpg> 茨城のネコもSFTS マダニリスク
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/b0ddfe2b5a89b2cd3da5b35d381a78a4f325ecc00dc22ff9cd727e0b186117fa.jpg> 猛暑 MLB各地で体調不良者が続出
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 13:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 13:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
