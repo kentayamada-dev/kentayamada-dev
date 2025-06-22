@@ -49,10 +49,24 @@ const verifyRecaptcha = async (token: string): Promise<boolean> => {
 };
 
 const createPost = async (formData: ContactFormSchemaType): Promise<ContactFormStateType> => {
+  const data = [
+    { label: 'Country Code', value: formData.countryCode },
+    { label: 'Phone Number', value: formData.phoneNumber },
+    { label: 'Email', value: formData.email },
+    { label: 'First Name', value: formData.firstName },
+    { label: 'Last Name', value: formData.lastName },
+    { label: 'Message', value: formData.message }
+  ];
+
   await resend.emails.send({
     from: EMAIL_FROM,
-    react: EmailTemplate(formData),
+    react: EmailTemplate({ data }),
     subject: EMAIL_SUBJECT,
+    text: data
+      .map((val) => {
+        return `${val.label}: ${val.value}`;
+      })
+      .join('\n'),
     to: [EMAIL_TO]
   });
 

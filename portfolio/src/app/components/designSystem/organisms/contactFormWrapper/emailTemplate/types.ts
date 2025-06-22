@@ -1,8 +1,10 @@
-import type { ContactFormSchemaType } from '@/components/designSystem/molecules';
 import type { DeepReadonlyType, JSXElementType } from '@/types/components';
 
-type EmailTemplateProps = ContactFormSchemaType & {
-  isPlain?: boolean;
+type EmailTemplateProps = {
+  data: {
+    label: string;
+    value: string;
+  }[];
 };
 
 type EmailTemplateType = (props: DeepReadonlyType<EmailTemplateProps>) => JSXElementType | string;

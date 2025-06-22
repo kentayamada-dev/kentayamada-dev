@@ -3,12 +3,14 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    countryCode: 'AD',
-    email: 'test@gmail.com',
-    firstName: 'John',
-    lastName: 'Doe',
-    message: 'Hello world!',
-    phoneNumber: '12'
+    data: [
+      { label: 'Country Code', value: 'AD' },
+      { label: 'Phone Number', value: '123456789' },
+      { label: 'Email', value: 'test@gmail.com' },
+      { label: 'First Name', value: 'John' },
+      { label: 'Last Name', value: 'Doe' },
+      { label: 'Message', value: 'Hello World!' }
+    ]
   },
   component: EmailTemplate
 } satisfies Meta<typeof EmailTemplate>;
