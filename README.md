@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75a41906334d54a6b23506f52ab92419.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05ea9ad33adc83e529f381262edccd8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93d0af7b9a02339b1c907e508b4be720d4ee7e34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000019-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞地下深くまで　「バンカーバスター」ってどんな爆弾?
+      <a href=https://news.yahoo.co.jp/articles/8cc3d820e4c0d8376e26a9bee4f591de100fff97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-06221063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 出場停止だったロバーツ監督が試合を見たまさかの場所「落ち着かない気持ち」　代行の采配は合格点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f21270fb6393a94cec7581ae256f9bbeaf389bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> B2爆撃機出動か　米軍のイラン攻撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9285ed548a24914eae8edd82763511e1d28f7692>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000118-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和撃破のインテル監督は「これほど組織化されたチームとの対戦は決して容易ではない」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6c8399a49a6ea0e7d6e2ebab38031d3dea1abe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-01778775-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 退場処分→衝撃の“在宅勤務”　2日ぶり復帰のロバーツ監督…画面に釘付けで「そわそわ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc8859cf7ae749aa493ff4210470d24c40bfde48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250621-00000164-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 日本ハム・清宮幸太郎、約1カ月ぶり5号千金弾「結果的に最高の形に」　22日交流戦V可能性に新庄監督「取りにいきます」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c002cb1a35a0a9657d88be41084a6bfc9697bc86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00010001-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 『25時、赤坂で Season2』10月より放送決定　駒木根葵汰×新原泰佑がW主演で続投へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/81d09271b6e59ac07b87c3c856e97f8c9780245d3ec1e1787ff39f1e82b4cfc9.jpg> 今永のメジャー復帰登板 監督明言
+      <a href=https://news.yahoo.co.jp/pickup/6543063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/3c46c8e444ad262daa6fa8ab83f7501eabbc50dd5db16ed950039221a7f8ce18.jpg> 浦和逆転負け 守護神が涙「残酷」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/869d660b5104b475444b7d4bfd2e37d1412901981ae9a1092968a25b1d824e84.jpg> 松岡昌宏 報道陣に3秒無言で一礼
+      <a href=https://news.yahoo.co.jp/pickup/6543048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/22/5dd862f9d42b87670225088b41ea73e1205845c6dfda52bdd7db5e8822a61a13.jpg> 山口達也氏が講演 国分に言及せず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/22 10:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/22 10:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
