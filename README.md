@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c67df7509108d565ef035b5d43a66db9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86be2b74f7eeb5be474b7eea75431358.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/537fc882a31f20e535ab375884d0af317d71229f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995369-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/213d7db6a846090e579387852d0eb79ef344ca93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21995379-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dd98968a21d9d9732d4f1b07a376935a72db5ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010001-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 国籍・軍民問わず戦没者24万人余の氏名を刻んだ沖縄「平和の礎」　戸籍は焼失、犠牲者の名前をどう把握したのか　建立から30年、尽力した人々の軌跡
+      <a href=https://news.yahoo.co.jp/articles/413e78e77244dffa9745138ebf3732e4f11e23ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990938-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国防長官「イランの核開発計画を壊滅」 “体制転換狙ったものではない”　イラン外相「核兵器を保有していない」 米攻撃非難も“報復”言及せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7bd6958d12afb6cee250ea0e9124a54f11a1fedc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000054-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和　1次リーグ敗退の収穫と課題　組織的守備は通用も攻撃では前線線孤立
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27580726bde35ba57cf1be8268b44b150ad56f49>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000193-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=823&ch=823&exp=10800&fmt=webp> 都民ファが第1党の勢い　自民は苦戦　「知事与党」は過半数維持の見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b11536896a275e2465d159dc9ea9b7429033cf1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000006-cine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 「べらぼう」第24話、「グッと来る」「蔦重のソウルメイト」…橋本愛“てい”の言葉に感動広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d14b29d3a527c5bf710190ab6e9f192efe1c4c3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250622-00000186-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 爆撃機や第5世代戦闘機など125機超投入　「真夜中の鉄槌」作戦、潜水艦からトマホーク
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 01:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 02:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
