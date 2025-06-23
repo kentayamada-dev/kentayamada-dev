@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7120d0bc4e556b6f2d49e446333048f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e69fe5d990eb6a28ff548aa75b181713.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e4b786c3a9ed69916a6acfa946c0726f2f3bdb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90023079-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手“二刀流復帰”2戦目…投打で躍動　1回無失点＆26号ホームラン
+      <a href=https://news.yahoo.co.jp/articles/37b668a3bc105b5506cc2f141f491ffa6ed8d520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000105-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> ウルフ・アロン、「YouTubeは続けていく」新日本プロレス入団後も配信続行宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dcba1cd4ed00914f100977746e5ff6f2355ddaf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000134-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=796&ch=796&exp=10800&fmt=webp> ルーマニア、セルビア、ドイツの3館も未払い2億円超か　発注元は同一外資系イベント会社
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eb1eb7389094ec792d9377367a38cfcdf896cc0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000118-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> プーチン氏「米攻撃は侵略」　イラン外相と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9659f3d485aa139d1639d3418638a9540a6a7dda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050203-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 青木ヶ原樹海で女子高生死亡、逮捕の男が事件前に「自殺仲間募集」などと検索
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/82c1fa4bc5a0455976f10ba6d1910be14610518c19a3242c407e70864c6a6beb.jpg> 平和願う小6「おばあちゃんの歌」
+      <a href=https://news.yahoo.co.jp/pickup/6543235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/9a7d60681fe98682881a698cc8ec29aec8f378d19cc96128fa311beb9459206f.jpg> 24日梅雨空の所多く 激しい雨恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6bdda34fa20650b20f7dfb54edbab10f0523cb928d8377584e56c9e6ca363a1d.jpg> パナHD1万人削減「断腸の思い」
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e7855ff189262dca27c0cb65725949314721bd4fc63d106d32b24ed6aac04f1c.jpg> 国分太一会見予定なし STARTO社
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 22:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 22:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
