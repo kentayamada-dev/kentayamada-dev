@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb62215c4c408be4e11454389207e72d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c9551ca9a59b2125f9f98d09a496f3e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/676ee9ca65e21c3de04f4ea7e427db63f0d3eb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231217-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「元の状態以上に戻れる」　１回０封からの二刀流弾＆５打点！　“大谷超え”に「自信」
+      <a href=https://news.yahoo.co.jp/articles/1ef5b081f1e72eb906440133552516c890a3c8bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一つ一つ改善したい」大谷翔平、１８球中１０球がスライダー系　５回以上を投げるのは球宴後濃厚　
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 04:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 04:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
