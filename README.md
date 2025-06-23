@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a6e015eae84e1187744f7c601d641f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cafd3ae5d87992d7becf0ca2ab2f228d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2ef903e19bdb217fb20c0055ee161a367b343e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996274-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/ee70c3bb8240a4f3c4cb0b9e2d0d5e832470a1c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000039-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「くら寿司」の皿投入口に避妊具　写真をSNSに投稿か　16歳少年を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e58ca4d8811422f0381f58d0c9626379d0e9d451>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> くら寿司で迷惑行為の画像投稿疑い　16歳少年を書類送検　警視庁
+      <a href=https://news.yahoo.co.jp/articles/d6e84254b8c87ff702afa0c7b186a60cf116b511>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 沖縄戦「伝え続けていく」　慰霊の日追悼式、継承への決意新たに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4995f7f45d30e8bc55bf8baf4891a7e2a0ef4a5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00349467-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の二刀流弾に賛辞の嵐も…　ベッツ落球が〝下手目立ち〟「ポップフライを捕れない」
+      <a href=https://news.yahoo.co.jp/articles/bd4059a91d20405933d45b3caf10ef83cc43729c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00886386-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 都議選で自民党は“史上最低”21議席の惨敗、7月の参院選では36年ぶりに再び「山が動く」のか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e4a45f21309509edd7f83a464d8744a475dfdb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010011-annd-000-1-thumb.jpg?exp=10800&fmt=webp> 米軍イラン攻撃に外務省幹部  「同盟国として可能な限り配慮」
+      <a href=https://news.yahoo.co.jp/articles/0b21743f759fa3a36277fe7c63c2142dcc29b367>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞イラン、米国へ報復宣言　ホルムズ海峡封鎖で影響は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9961f55222499579798980e2f374f41c9c84db23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000038-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 都民フが第1会派奪還　自民は裏金問題響く…　明暗分かれた都議選
+      <a href=https://news.yahoo.co.jp/articles/30a462468666c22cea3752d91004788274a792e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000042-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「ドジャースはついに大谷翔平の『完全バージョン』を手に入れようとしている」 米地元紙が注目 「球場で２度目のユニコーンを、神話上の二刀流を目撃」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6254754dabbbc7d3a2727bc6005dba7255c4b9c9a56936c4342ee15d3b0aa642.jpg> 石破首相 沖縄の平和は国家の責務
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543175>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/4d7a89c13d9f25877b60e89e72de0339c54513d209bbeeff2fa5306bd58166f6.jpg> ホルムズ海峡封鎖報道を注視 林氏
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31d516754d7bd60fbed7cadfacc6cf9f427495de07e4dca7d7dcbe47943e9c1d.jpg> 軍服の毛皮に 愛犬差し出した少女
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/ff499131d83251a54bd6b52a753f02b6d6fd1a6d24c872181570bb322027892e.jpg> 台風2号発生 接近前に関東大雨か
+      <a href=https://news.yahoo.co.jp/pickup/6543177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31d516754d7bd60fbed7cadfacc6cf9f427495de07e4dca7d7dcbe47943e9c1d.jpg> 愛犬が軍服の毛皮に 少女の悲痛
       </a>
     </td>
   </tr>
@@ -434,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1f86771d63816d0695b80001afaed156e48221cc59622d8befa13d4162c9d56a.jpg> 常習賭博の疑い フジ社員を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a44c9a2ce405d0ab36ac83e7e44d3adf0cb9387f887c3a382876eda1662d56fc.jpg> くら寿司で迷惑写真疑い 書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543168>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miwadaisuke/02259474/title-1750601796928.jpeg?exp=10800> 業績好調の外食企業 大きな共通点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d0e42148b95efa57bed42004340b66de14d2a77dccb83049103e5004fc035ff3.jpg> Switch2 携帯モードの使い勝手は
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/df57aa1c64dd5765a26e1b198ca51a7726a30414e992dedce656dc3275a39582.jpg> Suchmos復活 死去のHSUさん偲ぶ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b89bec9700aea0c191762ffe5bc8523ad26fb95430c1ad4c4bbe81f5831f2d08.jpg> ラウール ミラノコレでデビュー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 13:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 13:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
