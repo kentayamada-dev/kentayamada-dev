@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c867a67801214c876924ebb28e23b47c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb62215c4c408be4e11454389207e72d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a076908184138f30114a8a2e83bc17c026a7582d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミサイル発射は核施設攻撃への報復とイラン
+      <a href=https://news.yahoo.co.jp/articles/676ee9ca65e21c3de04f4ea7e427db63f0d3eb83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231217-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「元の状態以上に戻れる」　１回０封からの二刀流弾＆５打点！　“大谷超え”に「自信」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ee6d5b16d8491ddab33925564a9ab755b1cd17c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244724-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「強力で破壊的なミサイル攻撃」イランがカタールの米軍基地を攻撃　紛争拡大に懸念高まる
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f4f14b15fafa3730e85671e7fec9723a4252b38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00030348-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 鹿児島県で震度4の地震　津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4706c328d1536671ba23bf9a377e38e6cb572d4d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ホルムズ海峡でタンカー航路変更相次ぐ　封鎖や米攻撃へのイラン報復懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6a10adc5479612ccc2dafba0113db31ee4554d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000051-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・大谷　669日ぶり二刀流弾！1回零封＆26号5打点に「元の状態以上に戻れるんじゃないか」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24872c20cc5735e9e9766561e13a6e496fba2696>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000139-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> ウルフ・アロン、新日本プロレス入り電撃発表「好きだから。喜びを感じています」　日本の五輪金メダリスト初の挑戦＆来年1・4デビュー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 03:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 04:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
