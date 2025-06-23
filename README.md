@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48ab35498ac01b3bcc1dfe7716996d99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a6e8d11c9ae22a839af5e8a14ee922f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8bb5fcc2a95329dc90f09a3750bd76c1bbf9512>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244543-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府、アメリカ軍の攻撃は「イランの核兵器保有を阻止する決意」と一定の理解　岩屋外務大臣談話
+      <a href=https://news.yahoo.co.jp/articles/a5b07718f81d97f0df8f973ab1c5dba2b7b7a32b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991142-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「目に見える形で実現する」沖縄の負担軽減に決意　「慰霊の日」追悼式に出席…ひめゆりの塔で献花も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4008dee81c2040269cab52c9f6dcfb5c64264c1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991144-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表　中東緊迫受け「海自派遣を検討すべき」　日本の商船保護など海上輸送路の安全確保が必要と指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bd65a3c92a8fbcbd79e1fd9a4f422dce677d0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00349480-tospoweb-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ「ぽかぽか」から２人目のオンカジ関与者　今度は制作統括、２３日放送では説明ナシ
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23afe0c6437dc310da91b8af40cc3ea22aef853c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000012-ryu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 【全文】石破茂首相あいさつ　沖縄全戦没者追悼式　沖縄戦から80年 　慰霊の日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75a800a5a514f3da0af34335c29397332e71ecb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民大敗、裏金が影響　立・国、参院選へ対決姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/376183133c88b42a2583f68192c4904f20020fca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030338-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 梅雨前線+台風2号で大雨の恐れ　明日24日にかけて局地的な激しい雨　停電リスク大
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000055-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=938&ch=938&exp=10800&fmt=webp> 自民大敗、裏金が影響　立・国、参院選へ対決姿勢
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543180>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a512dcea7fa57217fbb366d5fee965856fcb3802a9c517c032281fd3a90b42da.jpg> 「反自衛隊」沖縄県民の意識変化
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31d516754d7bd60fbed7cadfacc6cf9f427495de07e4dca7d7dcbe47943e9c1d.jpg> 愛犬が軍服の毛皮に 少女の悲痛
+      <a href=https://news.yahoo.co.jp/pickup/6543164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a31d58ea939722a69a5b67fdb2065d102c5faf40a5e280aaacb9e5a29a88b79f.jpg> 台風2号 週半ば関東で大雨の恐れ
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d42db9ef39e7010742eb21f813f0850e91b71b77441e5eaa92499733a7956ffe.jpg> フジ社員逮捕 懲戒処分後も賭博か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/214fe4914544b4fdc97b2f29992437eb6b1610e20392abf087c9f5fd70d39dc0.jpg> 札幌ドームV字回復で黒字 24年度
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e0f3f8fe3d672e40232ff7d4d1804e0a83985d73de2a864d56003856e6bab038.jpg> 力石徹のモデル 山崎照朝氏が死去
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 15:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 15:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
