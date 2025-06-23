@@ -1,9 +1,9 @@
-import { OrganizationIcon } from '.';
+import { LocationIcon } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
-  component: OrganizationIcon,
+  component: LocationIcon,
   decorators: [
     (Story): JSXElementType => {
       return (
@@ -13,7 +13,7 @@ const meta = {
       );
     }
   ]
-} satisfies Meta<typeof OrganizationIcon>;
+} satisfies Meta<typeof LocationIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

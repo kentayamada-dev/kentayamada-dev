@@ -1,6 +1,7 @@
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ContactFormWrapper } from '@/components/designSystem/organisms';
-import { EmailIcon, OrganizationIcon } from '@/components/icons';
+import { EmailIcon, LocationIcon } from '@/components/icons';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
@@ -50,12 +51,12 @@ const Page: PageType = async (props) => {
           <dl className='mt-14 flex flex-col gap-y-5'>
             <div className='flex items-center gap-x-4'>
               <dt>
-                <span className='sr-only'>{contactLabel.address}</span>
+                <span className='sr-only'>{contactLabel.locationLabel}</span>
                 <div className='size-5'>
-                  <OrganizationIcon />
+                  <LocationIcon />
                 </div>
               </dt>
-              <dd className='text-md font-medium text-slate-500 dark:text-slate-400'>{contactLabel.location}</dd>
+              <dd className='text-md font-medium text-slate-500 dark:text-slate-400'>{contactLabel.locationValue}</dd>
             </div>
             <div className='flex items-center gap-x-4'>
               <dt>
@@ -65,9 +66,9 @@ const Page: PageType = async (props) => {
                 </div>
               </dt>
               <dd>
-                <a className='link-primary text-md font-medium' href={`mailto:${EMAIL}`}>
+                <Link className='link-primary text-md font-medium' href={`mailto:${EMAIL}`}>
                   {EMAIL}
-                </a>
+                </Link>
               </dd>
             </div>
           </dl>

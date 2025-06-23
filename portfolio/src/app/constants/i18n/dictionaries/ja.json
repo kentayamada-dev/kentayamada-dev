@@ -18,9 +18,9 @@
     "totalProfitLoss": "合計損益"
   },
   "contact": {
-    "address": "住所",
     "email": "メールアドレス",
-    "location": "トロント, カナダ"
+    "locationLabel": "所在地",
+    "locationValue": "トロント, カナダ"
   },
   "faq": "FAQ",
   "form": {

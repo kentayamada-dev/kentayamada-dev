@@ -18,9 +18,9 @@
     "totalProfitLoss": "Total Profit/Loss"
   },
   "contact": {
-    "address": "Address",
     "email": "Email",
-    "location": "Toronto, Canada"
+    "locationLabel": "Location",
+    "locationValue": "Toronto, Canada"
   },
   "faq": "FAQ",
   "form": {

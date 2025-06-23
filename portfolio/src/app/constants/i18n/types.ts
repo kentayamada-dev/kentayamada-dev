@@ -25,9 +25,9 @@ type DictionaryType = {
     totalProfitLoss: string;
   };
   contact: {
-    address: string;
     email: string;
-    location: string;
+    locationLabel: string;
+    locationValue: string;
   };
   faq: string;
   form: {
