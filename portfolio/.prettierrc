@@ -1,8 +1,9 @@
 {
-  "printWidth": 150,
-  "trailingComma": "none",
-  "singleQuote": true,
-  "quoteProps": "preserve",
+  "jsonRecursiveSort": true,
   "jsxSingleQuote": true,
-  "plugins": ["prettier-plugin-tailwindcss"]
+  "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-sort-json"],
+  "printWidth": 150,
+  "quoteProps": "preserve",
+  "singleQuote": true,
+  "trailingComma": "none"
 }

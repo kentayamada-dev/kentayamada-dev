@@ -1,76 +1,76 @@
 {
-  "myName": "山田健太",
-  "siteName": "山田健太のポートフォリオ",
-  "faq": "FAQ",
-  "utilities": "ユーティリティ",
-  "projects": "プロジェクト",
-  "readArticle": "記事を読む",
-  "theme": {
-    "dark": "ダーク",
-    "light": "ライト",
-    "system": "システム"
+  "articles": {
+    "footnotes": "脚注",
+    "latest": "最新記事",
+    "permalink": "パーマリンク",
+    "recommend": "おすすめ記事",
+    "toc": "目次"
+  },
+  "calculator": {
+    "buyPrice": "購入時株価",
+    "buyRate": "購入時為替レート",
+    "calculate": "計算する",
+    "forexProfitLoss": "為替損益",
+    "sellPrice": "売却時株価",
+    "sellRate": "売却時為替レート",
+    "shares": "株数",
+    "stockProfitLoss": "株式損益",
+    "totalProfitLoss": "合計損益"
   },
   "contact": {
     "address": "住所",
     "email": "メールアドレス",
     "location": "トロント, カナダ"
   },
-  "navigation": {
-    "home": "ホーム",
-    "articles": "記事",
-    "utilities": "ユーティリティ",
-    "projects": "プロジェクト",
-    "contact": "お問い合わせ"
-  },
-  "labels": {
-    "copyCodeLabel": "コードをコピー",
-    "localeSwitcherLabel": "言語",
-    "likeLabel": "いいね",
-    "themeSwitcherLabel": "テーマ",
-    "openSidePanelLabel": "サイドパネルを開く",
-    "closeSidePanelLabel": "サイドパネルを閉じる",
-    "openTocLabel": "目次を開く",
-    "closeTocLabel": "目次を閉じる",
-    "storybookLinkLabel": "Storybook",
-    "githubLinkLabel": "GitHub",
-    "globalNavLabel": "グローバル",
-    "homeLinkLabel": "ホームページへ行く",
-    "selectCurrencyLabel": "通貨を選択",
-    "selectCurrencyPairLabel": "通貨ペアを選択",
-    "selectCountryCodeLabel": "国コードを選択"
-  },
-  "articles": {
-    "toc": "目次",
-    "latest": "最新記事",
-    "recommend": "おすすめ記事",
-    "footnotes": "脚注",
-    "permalink": "パーマリンク"
-  },
-  "calculator": {
-    "shares": "株数",
-    "sellRate": "売却時為替レート",
-    "buyRate": "購入時為替レート",
-    "sellPrice": "売却時株価",
-    "buyPrice": "購入時株価",
-    "stockProfitLoss": "株式損益",
-    "forexProfitLoss": "為替損益",
-    "totalProfitLoss": "合計損益",
-    "calculate": "計算する"
-  },
+  "faq": "FAQ",
   "form": {
+    "email": "メールアドレス",
     "firstName": "名",
     "lastName": "姓",
-    "email": "メールアドレス",
     "message": "メッセージ",
+    "optional": "省略可",
     "phoneNumber": "電話番号",
-    "submit": "送信する",
     "phoneNumberError": "有効な電話番号を入力してください。",
-    "recaptchaError": "reCAPTCHA の検証に失敗しました。お手数ですが再度お試しください。",
     "placeHolder": {
       "firstName": "太郎",
       "lastName": "山田",
       "message": "ご用件をお聞かせください"
     },
-    "optional": "省略可"
-  }
+    "recaptchaError": "reCAPTCHA の検証に失敗しました。お手数ですが再度お試しください。",
+    "submit": "送信する"
+  },
+  "labels": {
+    "closeSidePanelLabel": "サイドパネルを閉じる",
+    "closeTocLabel": "目次を閉じる",
+    "copyCodeLabel": "コードをコピー",
+    "githubLinkLabel": "GitHub",
+    "globalNavLabel": "グローバル",
+    "homeLinkLabel": "ホームページへ行く",
+    "likeLabel": "いいね",
+    "localeSwitcherLabel": "言語",
+    "openSidePanelLabel": "サイドパネルを開く",
+    "openTocLabel": "目次を開く",
+    "selectCountryCodeLabel": "国コードを選択",
+    "selectCurrencyLabel": "通貨を選択",
+    "selectCurrencyPairLabel": "通貨ペアを選択",
+    "storybookLinkLabel": "Storybook",
+    "themeSwitcherLabel": "テーマ"
+  },
+  "myName": "山田健太",
+  "navigation": {
+    "articles": "記事",
+    "contact": "お問い合わせ",
+    "home": "ホーム",
+    "projects": "プロジェクト",
+    "utilities": "ユーティリティ"
+  },
+  "projects": "プロジェクト",
+  "readArticle": "記事を読む",
+  "siteName": "山田健太のポートフォリオ",
+  "theme": {
+    "dark": "ダーク",
+    "light": "ライト",
+    "system": "システム"
+  },
+  "utilities": "ユーティリティ"
 }

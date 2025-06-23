@@ -1,76 +1,76 @@
 {
-  "myName": "Kenta Yamada",
-  "siteName": "Kenta Yamada's Portfolio",
-  "faq": "FAQ",
-  "utilities": "Utilities",
-  "projects": "Projects",
-  "readArticle": "Read article",
-  "theme": {
-    "dark": "Dark",
-    "light": "Light",
-    "system": "System"
+  "articles": {
+    "footnotes": "Footnotes",
+    "latest": "Latest",
+    "permalink": "Permalink",
+    "recommend": "Recommended",
+    "toc": "Table of Contents"
+  },
+  "calculator": {
+    "buyPrice": "Buy Price",
+    "buyRate": "Buy Rate",
+    "calculate": "Calculate",
+    "forexProfitLoss": "Forex Profit/Loss",
+    "sellPrice": "Sell Price",
+    "sellRate": "Sell Rate",
+    "shares": "Shares",
+    "stockProfitLoss": "Stock Profit/Loss",
+    "totalProfitLoss": "Total Profit/Loss"
   },
   "contact": {
     "address": "Address",
     "email": "Email",
     "location": "Toronto, Canada"
   },
-  "navigation": {
-    "home": "Home",
-    "articles": "Articles",
-    "utilities": "Utilities",
-    "projects": "Projects",
-    "contact": "Contact"
-  },
-  "labels": {
-    "copyCodeLabel": "Copy Code",
-    "localeSwitcherLabel": "Language",
-    "likeLabel": "Like",
-    "themeSwitcherLabel": "Theme",
-    "openSidePanelLabel": "Open Side Panel",
-    "closeSidePanelLabel": "Close Side Panel",
-    "openTocLabel": "Open Table of Contents",
-    "closeTocLabel": "Close Table of Contents",
-    "storybookLinkLabel": "Storybook",
-    "githubLinkLabel": "GitHub",
-    "homeLinkLabel": "Go to Home Page",
-    "globalNavLabel": "Global",
-    "selectCurrencyLabel": "Select Currency",
-    "selectCurrencyPairLabel": "Select Currency Pair",
-    "selectCountryCodeLabel": "Select Country Code"
-  },
-  "articles": {
-    "toc": "Table of Contents",
-    "latest": "Latest",
-    "recommend": "Recommended",
-    "footnotes": "Footnotes",
-    "permalink": "Permalink"
-  },
-  "calculator": {
-    "shares": "Shares",
-    "sellRate": "Sell Rate",
-    "buyRate": "Buy Rate",
-    "sellPrice": "Sell Price",
-    "buyPrice": "Buy Price",
-    "stockProfitLoss": "Stock Profit/Loss",
-    "forexProfitLoss": "Forex Profit/Loss",
-    "totalProfitLoss": "Total Profit/Loss",
-    "calculate": "Calculate"
-  },
+  "faq": "FAQ",
   "form": {
+    "email": "Email",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "email": "Email",
     "message": "Message",
+    "optional": "optional",
     "phoneNumber": "Phone Number",
     "phoneNumberError": "Please enter a valid phone number.",
-    "recaptchaError": "reCAPTCHA verification failed. Please try again.",
     "placeHolder": {
       "firstName": "John",
       "lastName": "Doe",
       "message": "How can I help you?"
     },
-    "optional": "optional",
+    "recaptchaError": "reCAPTCHA verification failed. Please try again.",
     "submit": "Submit"
-  }
+  },
+  "labels": {
+    "closeSidePanelLabel": "Close Side Panel",
+    "closeTocLabel": "Close Table of Contents",
+    "copyCodeLabel": "Copy Code",
+    "githubLinkLabel": "GitHub",
+    "globalNavLabel": "Global",
+    "homeLinkLabel": "Go to Home Page",
+    "likeLabel": "Like",
+    "localeSwitcherLabel": "Language",
+    "openSidePanelLabel": "Open Side Panel",
+    "openTocLabel": "Open Table of Contents",
+    "selectCountryCodeLabel": "Select Country Code",
+    "selectCurrencyLabel": "Select Currency",
+    "selectCurrencyPairLabel": "Select Currency Pair",
+    "storybookLinkLabel": "Storybook",
+    "themeSwitcherLabel": "Theme"
+  },
+  "myName": "Kenta Yamada",
+  "navigation": {
+    "articles": "Articles",
+    "contact": "Contact",
+    "home": "Home",
+    "projects": "Projects",
+    "utilities": "Utilities"
+  },
+  "projects": "Projects",
+  "readArticle": "Read article",
+  "siteName": "Kenta Yamada's Portfolio",
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  },
+  "utilities": "Utilities"
 }
