@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33490eb4e1f0cd5b37937d3d6cd21817.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c85e14540d20fdfa8c7a3355211c3d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dadb923a341dea1cbba65c7f2d2be326b174ee42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000455-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 田原俊彦、NHK『うたコン』出演見合わせ　番組公式Xで発表
+      <a href=https://news.yahoo.co.jp/articles/a55ea6e4cd96e272eca3960948bbd4d8fa43fc1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00367122-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=420&ch=420&exp=10800&fmt=webp> TOKIO国分太一が衝撃の活動休止！松岡昌宏の「痛烈な言葉」が7年越しで国分に突き刺さるワケ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ab62ddca1d348efa27a287ef54fd216a3c3774f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997608-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 緊迫する中東情勢で「円安加速」「光熱費の上昇」も　米軍がイラン核施設を攻撃…鹿児島経済への影響は?
+      <a href=https://news.yahoo.co.jp/articles/bc02a9de93f20ed4ea5f7710de09873c3c52ca7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ホルムズ海峡「封鎖承認」　石油危機？日本への影響は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1658b31307963e030505cefcc786769a9c48f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-03296492-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> なぜ「再生の道」は0議席だったか…石丸語録から読み解く
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea66f4c0a3d7042a8da7d8e41e244cb66a437891>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90013696-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理「平和実現は国家の責務」地位協定改定は触れず　沖縄・慰霊の日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a86d0c464b7363995f4b63107d90ff06fa0be201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00254345-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 〈42人全員落選〉それでも“負け”を認めない石丸氏が会見で見せた「本性」と恒例のお説教の中身…参加した記者は「分かりにくいし、記者の顔も晒されてるし…どう書こう」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1fdad85b04a9c9d71f0883eebef3ed21a78e799242e63e59b897f46d3196af5a.jpg> 中3で「英検3級以上」52% 文科省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543220>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/128169b1ee43eae1cc033076cf620a6962ac2375fc6a0311ec3a8c639959b992.jpg> 北海道物産展の海鮮丼 4人食中毒
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/4aa0414a01624b154d1e1947a707ab3442d552906f62f8661157439c5fae7384.jpg> ジム利用少なく 性的少数者の悩み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e22521d734f1622d9e668fda867982d10b62f75328e190d91a7e6d9c2c0252eb.jpg> ローソン「未来のコンビニ」開店
+      <a href=https://news.yahoo.co.jp/pickup/6543228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e7855ff189262dca27c0cb65725949314721bd4fc63d106d32b24ed6aac04f1c.jpg> 国分太一会見予定なし STARTO社
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 20:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 20:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
