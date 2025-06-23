@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee69a115bcd4eb755c6e1ede7ecb1b20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dbe26375459a356723b713ac8ccc36dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a953e73710c7a333065954338a22ace575da979>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> くら寿司の皿投入口に避妊具置く様子を投稿した疑い　少年を書類送検
+      <a href=https://news.yahoo.co.jp/articles/1035829b89ee83fe9122178a583d457df76679a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000052-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「ドジャースは先発ローテに大谷翔平が必要だ」 復帰２試合目登板を米解説者が分析 「打撃も必ず修正し、復活する才能がある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/055069cab8f73953818430617eb67bda00f20762>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098326-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 二刀流の“大谷翔平だけ”ができる芸当に球団公式も唖然「先発投手として試合に臨み、最後はホームランで締めくくる」
+      <a href=https://news.yahoo.co.jp/articles/73c7dde1952b9437636386dbb3dbb7656c77b7f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000236-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=724&ch=724&exp=10800&fmt=webp> ウルフ・アロンのプロレスデビューは来年1月4日！棚橋弘至の引退試合とW興行「全力で挑む」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a2d3998e8b7e6687c5c87f339f23e4ac61ea812>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00529692-nshaberu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1512&ch=1512&exp=10800&fmt=webp> 都議選終わる、参院選への影響は？「仰天シナリオ」も？
+      <a href=https://news.yahoo.co.jp/articles/4de7f7864b49249980cbc88a1f6e099665533247>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991008-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「不記載問題響いた」東京都議会選挙で自民大敗し参院選に懸念…「給付金への嫌悪感出た」との見方も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6e84254b8c87ff702afa0c7b186a60cf116b511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 沖縄戦「伝え続けていく」　慰霊の日追悼式、継承への決意新たに
+      <a href=https://news.yahoo.co.jp/articles/2a291c2fe2ca8ad9e76e3bdb313e5579d3269656>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244544-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 遺族「見守ってくださいね」 沖縄戦終結から80年「慰霊の日」で追悼式
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/4d7a89c13d9f25877b60e89e72de0339c54513d209bbeeff2fa5306bd58166f6.jpg> ホルムズ海峡封鎖報道を注視 林氏
+      <a href=https://news.yahoo.co.jp/pickup/6543164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e216b9fac8b36c049fe8286a3fcdf3b22b473ad11fd4a100c10f24326c7c233f.jpg> 都議選 「再生の道」42人全員落選
+      <a href=https://news.yahoo.co.jp/pickup/6543181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/32dc8600d58c84053d6ee4d89b4cc0efa4d33cd606cf9e9b6988afaa5f10b190.jpg> 30年ひきこもる子 気遣う70代の父
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e0f3f8fe3d672e40232ff7d4d1804e0a83985d73de2a864d56003856e6bab038.jpg> 力石徹のモデル 山崎照朝氏が死去
+      <a href=https://news.yahoo.co.jp/pickup/6543184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/652c3982c254b17bbf696c1fb424a47330ba676413febf3516333a51c4eb8602.jpg> ウルフ・アロン プロレス電撃転向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/85c6834178b29ab352cebcbfccdb641af2ca665da0070f18f86964e7a12619ed.jpg> 大谷は「ユニコーン」捕手が感激
+      <a href=https://news.yahoo.co.jp/pickup/6543166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e0f3f8fe3d672e40232ff7d4d1804e0a83985d73de2a864d56003856e6bab038.jpg> 力石徹のモデル 山崎照朝氏が死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 14:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 14:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
