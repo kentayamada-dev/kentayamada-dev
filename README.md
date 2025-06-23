@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3adca803a33a156a152ec2c3c44cc10a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1a9c3d2168265149fcc48f7fb808248.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4964343388aa1ee2684e58435c29722323d8ef6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90007386-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカによる核施設空爆でイランはホルムズ海峡「封鎖」に動くか　愛知経済に与える影響を専門家が指摘
+      <a href=https://news.yahoo.co.jp/articles/338b96c86321b9006e71e301b74a1116862c8247>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997733-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6794f97967a2e8da22441853895c42edf1042d0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244579-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 都議選　自民“歴史的大敗” 「都民ファーストの会」第一党に　総理「厳しい審判をいただいた」 参院選へ広がる危機感　“給付金見透かされた”の声も
+      <a href=https://news.yahoo.co.jp/articles/6ae10ea24476df8a6b6935edefb4add2fb7b2699>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000071-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 東京都議選　明暗くっきり　自民“惨敗”参院選へ影響は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/482f7e6590b9a386a9c02ef4ec25977fff19f802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-11652652-yorozuns-000-31898184-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> フジテレビ、社員の「オンカジ」常習による逮捕者認める　所属のイケメンアナも「オンカジ」発覚したばかり
+      <a href=https://news.yahoo.co.jp/articles/ea63ac3e54d70c65ce669fb280dae0bf146a37f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07262185-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 沖縄県の米軍基地負担軽減「目に見える形で実現」　石破首相が強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be0b9b340d9fe0e6d71479b592354b8ba87bb813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000197-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1569&ch=1569&exp=10800&fmt=webp> 沖縄慰霊の日、死者20万人悼む　首相、ひめゆりの塔に献花
+      <a href=https://news.yahoo.co.jp/articles/8f5c973f532b0ef361f2e47a36744cc17f2d0c29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997720-rccv-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカのイラン核施設攻撃でヒロシマでも懸念の声　松井市長「外交政策で解決に舵を」　県被団協・箕牧理事長「衝突拡大を懸念」　佐久間理事長「被爆者は黙っていられない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a424ac77d8a249deb2ba89acffc3311e487a321>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000073-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=106&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、二刀流こそ生きる道、組んだ新人捕手「ユニコーン」… 前カード２死球も「我慢できる痛み」、投打同時出場で自己最多５打点
+      <a href=https://news.yahoo.co.jp/articles/9118bc86c92b5612c160e7f08a5c10577c74f8f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00550796-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、26号で忘れられがちな事実を敵陣OBが指摘「それに加えて…」　5打点荒稼ぎにも驚き
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_33.png> 新燃岳 噴火警戒レベル3に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/04726c9bd43df320c193950856c07e2ef2c9ff10dd54b14a232326b65ea46856.jpg> 小池氏 都民の共感得ることできた
+      <a href=https://news.yahoo.co.jp/pickup/6543218>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コメ5キロ3920円 4週連続値下がり
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/20d3bc4d6f35fad74cffd9bcfcf7f4cc88fc182b6014e0ee27057754c7fbce3e.jpg> 4歳児が行方不明 川に流されたか
+      <a href=https://news.yahoo.co.jp/pickup/6543224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/870156c51da57f8f054597a3d2512e5c36e0be2178d2f7f6a4d48613ab9b3936.jpg> トカラ近海で地震相次ぐ 不安の声
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543208>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02260533/title-1750664269802.jpeg?exp=10800> 絶賛相次ぐ 映画・国宝なぜ高評価
+      <a href=https://news.yahoo.co.jp/pickup/6543203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/4aa0414a01624b154d1e1947a707ab3442d552906f62f8661157439c5fae7384.jpg> ジム利用少なく 性的少数者の悩み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543195>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02259318/title-1750590138621.jpeg?exp=10800> ダウンタウンDX 最終回に松本は
+      <a href=https://news.yahoo.co.jp/pickup/6543201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/77d08117f39f049903ee87183d15a5cd094cd743532b9147c63be2614828028e.jpg> 8歳から脱毛受け入れ 医師の思い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543208>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02260533/title-1750664269802.jpeg?exp=10800> 絶賛相次ぐ 映画・国宝なぜ高評価
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 19:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
