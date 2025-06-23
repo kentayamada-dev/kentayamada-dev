@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a4384f5abed8b17b1b6643de03e9ee2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e26c6ef231fffb43799027488d296627.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60f48a09417fbaf5802a367fe9c7a887fb49b779>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36231199-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=1205&ch=1205&exp=10800&fmt=webp> 【新日本】棚橋弘至社長、ウルフ・アロン育成に意欲　デビュー前から試合会場に帯同プランも
+      <a href=https://news.yahoo.co.jp/articles/21a75180a788d4e4b2b6bb0159cc4b42d7dbe7d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、374ドル高＝ナスダックも高い（23日）☆差替
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dc8d1af7cdf777d0869b8a28235fc7f79c1a589>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランは米軍駐留基地に6発着弾と主張
+      <a href=https://news.yahoo.co.jp/articles/3865cbdb453cafd59a5e079fdc756ce5d8e34169>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231240-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=956&ch=956&exp=10800&fmt=webp> プロレス転向ウルフ・アロンのデビュー戦で「１・４」２２年ぶりテレ朝系で全国放送　棚橋弘至社長「業界を担う選手に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dcde7a3b5bd227f776308910212f242060b5217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「エグい角度だ」大谷翔平、投手復帰2戦目で魅せた“魔球”に米記者は衝撃「凶悪すぎる」
+      <a href=https://news.yahoo.co.jp/articles/2d34bebebea3cb5da9e0065a256cd532f3a150e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244729-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イランがカタールの米軍基地にミサイル攻撃　アメリカによる核施設攻撃の報復措置　紛争拡大を懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5337b9bfa15e92cf1838962ffff49307eec6b20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高橋洋一氏　イスラエルのイラン攻撃　原油価格が上昇、ロシアの侵攻継続可能に　北國新聞単独連載・政治経済ホントのところ
+      <a href=https://news.yahoo.co.jp/articles/ebaeb785eb71cb3dbaefde4342ab3a76c30182ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998132-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c576a8cec9a0912f8b5f9d386b54a0d45e76b7ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 鹿児島県十島村でまた震度4　約3時間前にも観測　津波の心配はなし
+      <a href=https://news.yahoo.co.jp/articles/676ee9ca65e21c3de04f4ea7e427db63f0d3eb83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231217-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「元の状態以上に戻れる」　１回０封からの二刀流弾＆５打点！　“大谷超え”に「自信」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 05:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 06:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
