@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f3cc2a329d5e0044edce89651b3c917.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b33a318df9a3b6d2bc11a14e6444dd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71d5d859855b2ba015b6444b6b7f3b56ab983caa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07748932-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 核施設攻撃うけイラン、米に報復の構え　エルサレムから中継
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67747fd16e0792221b609d01a34188744cc0db4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998040-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
       </a>
@@ -365,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ceac1f426ba4c838db50e7110c028c9e3b2a24b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、176ドル高＝ナスダックも高い（23日午前）
+      <a href=https://news.yahoo.co.jp/articles/1d561c7478575ae310cacf2a467c4e87ff22cc52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050232-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 都議選大敗の与党、参院選へ浮揚策見当たらず…求心力低下も「石破降ろし」兆しなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92cf87a3a370c7758f377f94962bba2c76265694>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-10008980-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大谷翔平、二刀流で久々に新たな史上初を記録する
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24872c20cc5735e9e9766561e13a6e496fba2696>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000139-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> ウルフ・アロン、新日本プロレス入り電撃発表「好きだから。喜びを感じています」　日本の五輪金メダリスト初の挑戦＆来年1・4デビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8312ca88efeee419a7be58d2c443cad389fdaaf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991235-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【追悼】「平和の礎」刻まれた亡き肉親の名前に手を合わせる遺族たち「戦争が終わってからが苦しかった」沖縄戦から80年「慰霊の日」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1658b31307963e030505cefcc786769a9c48f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-03296492-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> なぜ「再生の道」は0議席だったか…石丸語録から読み解く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 00:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 01:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
