@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d7a94cc33490428033c722ede444ee9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/39f3dce5b1215476e82de0a3c53842d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6568794e1132655e06e05715bfc55da1bea9efea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「まだ完全復活はどうなるかわからない」大谷翔平が2度目のリアル二刀流で1回2三振無失点もロバーツ監督は先行きに懸念？！…打撃は三塁打＆26号2ランのメジャー史塗り替える大爆発
+      <a href=https://news.yahoo.co.jp/articles/09a0e067beeb1de27a836526bcea9ea96186b5f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06241009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 「めちゃくちゃエンターテナー」…ウルフ・アロン「プロレス転向」に「めざましテレビ」伊藤利尋アナが期待「楽しみです」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/044524d417c4e42f120d9264f620df4f909c1495>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991512-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランが報復措置　カタールの米軍基地を攻撃
+      <a href=https://news.yahoo.co.jp/articles/1a30d03c10da1b8b658d3dc77d99e070f7f60119>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998156-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b9f4e44f8bb205aa1b59f5bbfa9d49cf2c1245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00349535-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【新日本】スカウト部長・永田裕志が打ち明けるウルフ・アロン入団の経緯　〝未来のエース〟への期待と注文
+      <a href=https://news.yahoo.co.jp/articles/a5d80f8660dd27fa4ca43a2fcda0edce76eb6e47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998153-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 台風2号は熱帯低気圧に変わる見込み　九州北部は落雷や激しい突風に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db7e71465f7ae38bb2d0de9b2e78e69b32f9837c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998141-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/fa9785810550d3e567adc472a45ad15dbc2b1ff4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000012-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イラン報復攻撃　カタールのアメリカ軍基地での被害なし　米国防総省当局者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf0592dc63c015496ce2914cca00884530f74f17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779203-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 94年間で大谷翔平“だけ”　MLB史に燦然と残る偉業…衝撃26号が証明する絶対領域
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/22c66c815ca7b4a9a45e4af1ffec4fdc594322adb103fbb4da39bfe8bf964a26.jpg> 首相 3つのアプローチで政策推進
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543243>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b5f4daa187b3a330720a1b904f8141748fd33a281fa58a612c0f798ec988fed9.jpg> 自民・石原伸晃氏 政界引退を表明
       </a>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/bbc61e169f8a4fcf853b9388d1369e0320ca8b201dafc725792a20a97dec500e.jpg> ルーマニア館 1億円超の未払いか
+      <a href=https://news.yahoo.co.jp/pickup/6543254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b8c8b7a7a580c28e059b01fd601617cad92134d2ef4bfca19814d27d5591b67a.jpg> 日本郵便 あす運送許可取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/5d39f3a94eccd3e47bf7364a12a33a740df5d5f4c99979398281f53d58170882.jpg> コックピットで異臭 羽田緊急着陸
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 06:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 07:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
