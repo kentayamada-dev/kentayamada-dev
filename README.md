@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39f3dce5b1215476e82de0a3c53842d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/012b87542ad6a0c0530e56255a4e01bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09a0e067beeb1de27a836526bcea9ea96186b5f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06241009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 「めちゃくちゃエンターテナー」…ウルフ・アロン「プロレス転向」に「めざましテレビ」伊藤利尋アナが期待「楽しみです」
+      <a href=https://news.yahoo.co.jp/articles/7d2cac0d0eca7e91bb10667bfc01d48c4c64a18a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00030351-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日24日の関東　午後は激しい雷雨　道路の冠水など注意　26日にかけて大雨の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a30d03c10da1b8b658d3dc77d99e070f7f60119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998156-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/85ccf5d7b51a1c81ae21356b259de503791b08a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10184993-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=778&ch=778&exp=10800&fmt=webp> イラン、中東の米軍基地を攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5d80f8660dd27fa4ca43a2fcda0edce76eb6e47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998153-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 台風2号は熱帯低気圧に変わる見込み　九州北部は落雷や激しい突風に注意
+      <a href=https://news.yahoo.co.jp/articles/0b41887b3fb5a95498d80c0625a6ae53dc76137b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998164-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa9785810550d3e567adc472a45ad15dbc2b1ff4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000012-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イラン報復攻撃　カタールのアメリカ軍基地での被害なし　米国防総省当局者
+      <a href=https://news.yahoo.co.jp/articles/081c332bafbed8f4399e9d07a5d23c05d527ca38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000160-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ウルフ・アロン「柔道人生やり残しなし」　来年1月の棚橋弘至引退興行でプロレスデビュー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 07:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 07:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
