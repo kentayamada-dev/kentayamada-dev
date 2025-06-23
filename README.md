@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ca6dd8bba89fe19bc8811c59371d154.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f3cc2a329d5e0044edce89651b3c917.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff9da305aa484b2219c8450fe07d02ee1b26ff20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030346-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 鹿児島県で震度4の地震　津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/67747fd16e0792221b609d01a34188744cc0db4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998040-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b2ad9f2c104e1c137a8604c8bc6fdbd4e2be72c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90167434-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【訃報】作曲家・藤竜之介さんが74歳で　多くの歌手を支えた人生
+      <a href=https://news.yahoo.co.jp/articles/24872c20cc5735e9e9766561e13a6e496fba2696>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000139-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> ウルフ・アロン、新日本プロレス入り電撃発表「好きだから。喜びを感じています」　日本の五輪金メダリスト初の挑戦＆来年1・4デビュー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcba1cd4ed00914f100977746e5ff6f2355ddaf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000134-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=796&ch=796&exp=10800&fmt=webp> ルーマニア、セルビア、ドイツの3館も未払い2億円超か　発注元は同一外資系イベント会社
+      <a href=https://news.yahoo.co.jp/articles/8312ca88efeee419a7be58d2c443cad389fdaaf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991235-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【追悼】「平和の礎」刻まれた亡き肉親の名前に手を合わせる遺族たち「戦争が終わってからが苦しかった」沖縄戦から80年「慰霊の日」
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b29cd857e49ce3edd210615e657c2b4b939b702709d5ad4603b66353398c1b8c.jpg> 鹿児島県で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543238>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6bdda34fa20650b20f7dfb54edbab10f0523cb928d8377584e56c9e6ca363a1d.jpg> パナHD1万人削減「断腸の思い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543245>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/842d8d1621b5b5da4797b47842bea37ff4de86965eb5b7fe7cbcbad905e932bd.jpg> 男児が川に流されたか おむつ発見
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 23:52:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 00:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
