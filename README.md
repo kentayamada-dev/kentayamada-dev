@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/012b87542ad6a0c0530e56255a4e01bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c09c5402ca2411d3e70cf203a1f79a5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d2cac0d0eca7e91bb10667bfc01d48c4c64a18a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00030351-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日24日の関東　午後は激しい雷雨　道路の冠水など注意　26日にかけて大雨の恐れ
+      <a href=https://news.yahoo.co.jp/articles/bdfb72f5e90dbfb71f3d32ea0618e7e7af61f66c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998176-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85ccf5d7b51a1c81ae21356b259de503791b08a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10184993-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=778&ch=778&exp=10800&fmt=webp> イラン、中東の米軍基地を攻撃
+      <a href=https://news.yahoo.co.jp/articles/35959e5a5052e07c212ebd0cf657e2f178175ec1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01936187-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “イスラエルとイランが完全かつ全面的な停戦を開始する”トランプ大統領、SNSで発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b41887b3fb5a95498d80c0625a6ae53dc76137b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998164-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/2f7c24461fb51fee8367c2b26d3da4316dd0cef2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00175310-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=528&ch=528&exp=10800&fmt=webp> 20歳の日本代表DFがイングランド名門に電撃移籍へ！ 英BBCが「9.8億円で合意」と報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93e909bf339d6245169288b4cc377e680395357e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779619-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流で見せた光と影…専門家が見抜いた2つの懸念材料「らしくない」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf0592dc63c015496ce2914cca00884530f74f17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779203-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 94年間で大谷翔平“だけ”　MLB史に燦然と残る偉業…衝撃26号が証明する絶対領域
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/507e3ce8fb20245573b81622632b0670c1a0487f4944d0acede479f2906b950f.jpg> イラン カタール米軍基地に攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6543261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/c7aa08fa7f763818cd75eec34cd2f84c5cc7ebe931339bae7f06389d3f9a849d.jpg> イスラエルとイランが停戦合意 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b1eed561c1b8442d7652b580a868a968f4b288fb2963c0979252b94472b49881.jpg> 東・西日本 土砂災害に厳重警戒
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543252>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0c4e6ecec4cd35996b4615d3fb879f28bb8a1f728974b9a2e5e37798d64ffeb3.jpg> トランプ氏 イラン報復は弱かった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b5f4daa187b3a330720a1b904f8141748fd33a281fa58a612c0f798ec988fed9.jpg> 自民・石原伸晃氏 政界引退を表明
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/65225288772d92b466c9038ee42eb0a86681f358f9f44a4c2a1fcc57d212112b.jpg> IWGP世界王者後藤 ウルフに通告
+      <a href=https://news.yahoo.co.jp/pickup/6543258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/392121416df436a6d410ef1e9fd3e1e8fc03336f07e3fd194eb5c6a8d51e49d5.jpg> DF高井幸大 トットナムに移籍へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 07:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 08:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
