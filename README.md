@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f41e8a4ff9d0e6da4f769caca84b41b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f73b31bf9479ad8da9fc0c961beb07b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/495fe53790724f3e5ee4c63964f5cb58a8a5d615>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998069-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6a10adc5479612ccc2dafba0113db31ee4554d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000051-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・大谷　669日ぶり二刀流弾！1回零封＆26号5打点に「元の状態以上に戻れるんじゃないか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71d5d859855b2ba015b6444b6b7f3b56ab983caa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07748932-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 核施設攻撃うけイラン、米に報復の構え　エルサレムから中継
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67747fd16e0792221b609d01a34188744cc0db4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998040-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d561c7478575ae310cacf2a467c4e87ff22cc52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050232-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=262&ch=262&exp=10800&fmt=webp> 都議選大敗の与党、参院選へ浮揚策見当たらず…求心力低下も「石破降ろし」兆しなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92cf87a3a370c7758f377f94962bba2c76265694>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-10008980-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 大谷翔平、二刀流で久々に新たな史上初を記録する
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 01:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 02:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
