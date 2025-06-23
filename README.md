@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8109ebdfbd4aa10c536e81bafd3c8332.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3adca803a33a156a152ec2c3c44cc10a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/887e78fd3eab9184821ee71da4cb368186f0626a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔ロンドン外為〕円下落、147円台後半（23日午前10時）
+      <a href=https://news.yahoo.co.jp/articles/e4964343388aa1ee2684e58435c29722323d8ef6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90007386-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカによる核施設空爆でイランはホルムズ海峡「封鎖」に動くか　愛知経済に与える影響を専門家が指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6794f97967a2e8da22441853895c42edf1042d0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244579-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 都議選　自民“歴史的大敗” 「都民ファーストの会」第一党に　総理「厳しい審判をいただいた」 参院選へ広がる危機感　“給付金見透かされた”の声も
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/482f7e6590b9a386a9c02ef4ec25977fff19f802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-11652652-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> フジテレビ、社員の「オンカジ」常習による逮捕者認める　所属のイケメンアナも「オンカジ」発覚したばかり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-11652652-yorozuns-000-31898184-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> フジテレビ、社員の「オンカジ」常習による逮捕者認める　所属のイケメンアナも「オンカジ」発覚したばかり
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be0b9b340d9fe0e6d71479b592354b8ba87bb813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 沖縄慰霊の日、死者20万人悼む　首相、ひめゆりの塔に献花
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000197-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1569&ch=1569&exp=10800&fmt=webp> 沖縄慰霊の日、死者20万人悼む　首相、ひめゆりの塔に献花
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cda9181c2671f052725e9fa22e6bcf758b4982ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244569-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京都議選で都民ファーストが第一党に　自民党“歴史的大敗” 国民・参政が躍進、42人擁立の再生の道はゼロ議席
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_33.png> 新燃岳 噴火警戒レベル3に
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543205>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6d81c319a12f75df1fbad843ed5813e63e5ad2fe8dcf84ec9d044ebb9abea520.jpg> 五輪談合 電通などに課徴金33億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/2415b61538f390d6047335770143eceb0dba9c74e7c8fdd5feb014388a56e400.jpg> UFJ元行員 顧客から4000万円詐取
+      <a href=https://news.yahoo.co.jp/pickup/6543210>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02260182/title-1750650322998.jpeg?exp=10800> 米によるイラン攻撃 物価影響懸念
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f39931b596c69f6dff55c2749fdaa987982d8e1c764db26f4932bf358e7ea870.jpg> ウルフデビュー戦 テレ朝特番予定
+      <a href=https://news.yahoo.co.jp/pickup/6543215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a452b010904b2507109ed7f7d76619c9019c69f62badc250566b61493db0937c.jpg> 部屋確保されず アゴダに改善要請
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 18:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 19:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
