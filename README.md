@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a6e8d11c9ae22a839af5e8a14ee922f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/600e3aaebac11d48d685c33e9b1bdb23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5b07718f81d97f0df8f973ab1c5dba2b7b7a32b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991142-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「目に見える形で実現する」沖縄の負担軽減に決意　「慰霊の日」追悼式に出席…ひめゆりの塔で献花も
+      <a href=https://news.yahoo.co.jp/articles/392675488fefaa40683ea757201202723d1f20c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231149-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 「プロレスに対して愛情があるか…とても大事」棚橋弘至社長、ウルフ・アロン「入団」経緯を明かす「プロレスへの本気の熱意と誠実な態度」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4008dee81c2040269cab52c9f6dcfb5c64264c1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991144-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 国民・玉木代表　中東緊迫受け「海自派遣を検討すべき」　日本の商船保護など海上輸送路の安全確保が必要と指摘
+      <a href=https://news.yahoo.co.jp/articles/978f355fa78dc8cd00dcd5b8cd31f1ac1abef802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000076-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 午後3時のドルは147円前半に上昇、中東情勢悪化なら一段高も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bd65a3c92a8fbcbd79e1fd9a4f422dce677d0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00349480-tospoweb-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ「ぽかぽか」から２人目のオンカジ関与者　今度は制作統括、２３日放送では説明ナシ
+      <a href=https://news.yahoo.co.jp/articles/3fcc7b91ad019b9be3e13d7cd965cbd641c82c5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相がひめゆりの塔に献花　自民議員の「書き換え」発言で注目
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a512dcea7fa57217fbb366d5fee965856fcb3802a9c517c032281fd3a90b42da.jpg> 「反自衛隊」沖縄県民の意識変化
+      <a href=https://news.yahoo.co.jp/pickup/6543179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31b783265dad34970a40535c615808989bc6360925af2598d05cb27485cb5fe1.jpg> 首相 NATO首脳会議見送りで調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
+      <a href=https://news.yahoo.co.jp/pickup/6543180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a512dcea7fa57217fbb366d5fee965856fcb3802a9c517c032281fd3a90b42da.jpg> 「反自衛隊」沖縄県民の意識変化
       </a>
     </td>
   </tr>
@@ -426,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/32dc8600d58c84053d6ee4d89b4cc0efa4d33cd606cf9e9b6988afaa5f10b190.jpg> 30年ひきこもる子 気遣う70代の父
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e9e384c54d39f2cea1ada53f9f029e104c8928cf7d3e595a40cd6760a7cd4646.jpg> くら寿司で迷惑写真疑い 書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d42db9ef39e7010742eb21f813f0850e91b71b77441e5eaa92499733a7956ffe.jpg> フジ社員逮捕 懲戒処分後も賭博か
+      <a href=https://news.yahoo.co.jp/pickup/6543188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
       </a>
     </td>
   </tr>
@@ -452,6 +436,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/214fe4914544b4fdc97b2f29992437eb6b1610e20392abf087c9f5fd70d39dc0.jpg> 札幌ドームV字回復で黒字 24年度
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/5eb273708216d3cf0b54c9f43203849d15445d43ec05f99e01093b4fad732755.jpg> Chatbotに痴漢被害 気付いた異変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d42db9ef39e7010742eb21f813f0850e91b71b77441e5eaa92499733a7956ffe.jpg> フジ社員逮捕 懲戒処分後も賭博か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 15:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 16:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
