@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc14a148fb1321b888ab38d69f63959c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e81f3d78b101b22a17812ac91650b98f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81761a2960a04c28254c15d58908f871a738576d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、147円台前半＝「有事のドル買い」で大幅上昇（23日午後5時）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3b04eb6082a3d963e92e667288ca49608b81fc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000119-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> 大谷翔平投打に爆発→球場に激レア女優が！米国人弁護士と再婚、ＬＡ在住５５歳信じられん美貌健在「うわ～」「羨ましい」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3244c2d565e1d67129e8f672b05e1a00d4ec3d8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-15429288-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 【速報】北九州市の小学校　プール授業後に２５人症状訴え　集団搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cda9181c2671f052725e9fa22e6bcf758b4982ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244569-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京都議選で都民ファーストが第一党に　自民党“歴史的大敗” 国民・参政が躍進、42人擁立の再生の道はゼロ議席
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fb4b42267aa5b0d6c17c2528c5d205277c1c91e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996043-rbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 玉城知事や石破総理らのあいさつ 戦後80年の慰霊の日 沖縄全戦没者追悼式
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3439065f1b0e15ce8a208e3fb8c473772ab20e83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231163-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田明子氏、自民の都議選大敗の理由分析「身近な生活課題に対して明確な答えを打ち出せなかった」…Ｎｅｗｓ　イット！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/233a38476b69f637a9bb06d0a18bbce6e995b891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-10184852-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 降板？続投？ 大谷翔平、ファンをヤキモキさせた初回の舞台裏 グラブを手に解説者も「行くと思うんですけど…」降板直前の一幕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8ede7dbb838509991acc06181e825cc9663c10a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90026032-tncv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】プール授業後に「気分悪い」と訴え小学生10人以上が救急搬送　手のしびれや湿疹、腹痛も　北九州市小倉南区の小学校　福岡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb995191b8d2fc3f3008a65b69737f876aa61bab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 日経平均は3日続落、米イラン核施設攻撃を嫌気　円安好感で後半戻り歩調
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996043-rbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 玉城知事や石破総理らのあいさつ 戦後80年の慰霊の日 沖縄全戦没者追悼式
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31b783265dad34970a40535c615808989bc6360925af2598d05cb27485cb5fe1.jpg> 首相 NATO首脳会議の出席見送り
+      <a href=https://news.yahoo.co.jp/pickup/6543194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a931aa05d41a6b8c70719c6407b4c240a5943e8775474eeb98b13f560a894561.jpg> 沖縄戦の縮図 3500人亡くなった島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/1/24/1579857888_1579857859_aflo_90067822.jpg> 原油先物 急上昇後に上げ幅縮小
+      <a href=https://news.yahoo.co.jp/pickup/6543182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/0be99cb61cb808dcd358ccce1519deca1eeb70f2d67fdc4e1b152bf5959382df.jpg> 北朝鮮 米のイラン攻撃を強く非難
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543188>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c9ec64b99a7dbc8a60b2b793f0aa9547386d060352019f987b0ded8a83e0639c.jpg> プール授業後に児童搬送 25人症状
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543189>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/5eb273708216d3cf0b54c9f43203849d15445d43ec05f99e01093b4fad732755.jpg> Chatbotに痴漢被害 気付いた異変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d42db9ef39e7010742eb21f813f0850e91b71b77441e5eaa92499733a7956ffe.jpg> フジ社員逮捕 懲戒処分後も賭博か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 17:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 17:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
