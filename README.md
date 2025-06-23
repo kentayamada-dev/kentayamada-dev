@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e26c6ef231fffb43799027488d296627.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d7a94cc33490428033c722ede444ee9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21a75180a788d4e4b2b6bb0159cc4b42d7dbe7d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、374ドル高＝ナスダックも高い（23日）☆差替
+      <a href=https://news.yahoo.co.jp/articles/6568794e1132655e06e05715bfc55da1bea9efea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「まだ完全復活はどうなるかわからない」大谷翔平が2度目のリアル二刀流で1回2三振無失点もロバーツ監督は先行きに懸念？！…打撃は三塁打＆26号2ランのメジャー史塗り替える大爆発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3865cbdb453cafd59a5e079fdc756ce5d8e34169>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231240-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=956&ch=956&exp=10800&fmt=webp> プロレス転向ウルフ・アロンのデビュー戦で「１・４」２２年ぶりテレ朝系で全国放送　棚橋弘至社長「業界を担う選手に」
+      <a href=https://news.yahoo.co.jp/articles/044524d417c4e42f120d9264f620df4f909c1495>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991512-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランが報復措置　カタールの米軍基地を攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d34bebebea3cb5da9e0065a256cd532f3a150e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244729-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> イランがカタールの米軍基地にミサイル攻撃　アメリカによる核施設攻撃の報復措置　紛争拡大を懸念
+      <a href=https://news.yahoo.co.jp/articles/48b9f4e44f8bb205aa1b59f5bbfa9d49cf2c1245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00349535-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【新日本】スカウト部長・永田裕志が打ち明けるウルフ・アロン入団の経緯　〝未来のエース〟への期待と注文
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebaeb785eb71cb3dbaefde4342ab3a76c30182ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998132-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/676ee9ca65e21c3de04f4ea7e427db63f0d3eb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231217-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「元の状態以上に戻れる」　１回０封からの二刀流弾＆５打点！　“大谷超え”に「自信」
+      <a href=https://news.yahoo.co.jp/articles/db7e71465f7ae38bb2d0de9b2e78e69b32f9837c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998141-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/e6204af69d7d5cdb2050ab6ca8f3d0195dc538ba7a5281bddbc6bf23410813a4.jpg> 鹿児島県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6543252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0c4e6ecec4cd35996b4615d3fb879f28bb8a1f728974b9a2e5e37798d64ffeb3.jpg> トランプ氏 イラン報復は弱かった
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/83771a4cfd1552d94a6c32569c1c073aa6de4c998c8e0a300849a8ee73e0db4c.jpg> 橋本大輝 菊池病の可能性と診断
+      <a href=https://news.yahoo.co.jp/pickup/6543253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/65225288772d92b466c9038ee42eb0a86681f358f9f44a4c2a1fcc57d212112b.jpg> IWGP世界王者後藤 ウルフに通告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543208>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02260533/title-1750664269802.jpeg?exp=10800> 絶賛相次ぐ 映画・国宝なぜ高評価
+      <a href=https://news.yahoo.co.jp/pickup/6543233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/83771a4cfd1552d94a6c32569c1c073aa6de4c998c8e0a300849a8ee73e0db4c.jpg> 橋本大輝 菊池病の可能性と診断
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 06:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 06:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
