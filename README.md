@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/028e4a8f18ab1f4deb6831a000d40df4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc14a148fb1321b888ab38d69f63959c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7fb4b42267aa5b0d6c17c2528c5d205277c1c91e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996043-rbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 玉城知事や石破総理らのあいさつ 戦後80年の慰霊の日 沖縄全戦没者追悼式
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3439065f1b0e15ce8a208e3fb8c473772ab20e83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231163-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 岩田明子氏、自民の都議選大敗の理由分析「身近な生活課題に対して明確な答えを打ち出せなかった」…Ｎｅｗｓ　イット！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/233a38476b69f637a9bb06d0a18bbce6e995b891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-10184852-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 降板？続投？ 大谷翔平、ファンをヤキモキさせた初回の舞台裏 グラブを手に解説者も「行くと思うんですけど…」降板直前の一幕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8ede7dbb838509991acc06181e825cc9663c10a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90026032-tncv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】プール授業後に「気分悪い」と訴え小学生10人以上が救急搬送　手のしびれや湿疹、腹痛も　北九州市小倉南区の小学校　福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb995191b8d2fc3f3008a65b69737f876aa61bab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 日経平均は3日続落、米イラン核施設攻撃を嫌気　円安好感で後半戻り歩調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b22a8f39c0bf1950da377650d86784c861c56f03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000077-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウルフ・アロン、新日本プロレス入団　来年1月4日デビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f573b91fc75b37a80067e262e96f5306662cfc38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098337-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 過去125年で「唯一の選手だ」 大谷翔平が刻む歴史的快挙に米記者注目！ リアル二刀流で“キャリア２度目”を記録
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/761df68399e408730561a81b12e35675d1572db1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 警察庁「LO脅威情報統合センター」設置　参院選期間中に対策強化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fcc7b91ad019b9be3e13d7cd965cbd641c82c5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相がひめゆりの塔に献花　自民議員の「書き換え」発言で注目
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31b783265dad34970a40535c615808989bc6360925af2598d05cb27485cb5fe1.jpg> 首相 NATO首脳会議見送りで調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a31d58ea939722a69a5b67fdb2065d102c5faf40a5e280aaacb9e5a29a88b79f.jpg> 台風2号 週半ば関東で大雨の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
+      <a href=https://news.yahoo.co.jp/pickup/6543200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31b783265dad34970a40535c615808989bc6360925af2598d05cb27485cb5fe1.jpg> 首相 NATO首脳会議の出席見送り
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/214fe4914544b4fdc97b2f29992437eb6b1610e20392abf087c9f5fd70d39dc0.jpg> 札幌ドームV字回復で黒字 24年度
+      <a href=https://news.yahoo.co.jp/pickup/6543188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b93e56f8dfa68efecb76413e8b99318c4965694640796caf9e30180ae96e88f2.jpg> 渡された飲料飲み搬送 薬物未検出
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f39931b596c69f6dff55c2749fdaa987982d8e1c764db26f4932bf358e7ea870.jpg> ウルフデビュー戦 テレ朝特番予定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543195>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02259318/title-1750590138621.jpeg?exp=10800> ダウンタウンDX 最終回に松本は
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 16:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 17:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
