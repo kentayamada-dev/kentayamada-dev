@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa19ce7c3287a5f082bc29d1b910acb7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a4384f5abed8b17b1b6643de03e9ee2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ef5b081f1e72eb906440133552516c890a3c8bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06231221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「一つ一つ改善したい」大谷翔平、１８球中１０球がスライダー系　５回以上を投げるのは球宴後濃厚　
+      <a href=https://news.yahoo.co.jp/articles/60f48a09417fbaf5802a367fe9c7a887fb49b779>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36231199-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=1205&ch=1205&exp=10800&fmt=webp> 【新日本】棚橋弘至社長、ウルフ・アロン育成に意欲　デビュー前から試合会場に帯同プランも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee6d5b16d8491ddab33925564a9ab755b1cd17c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244724-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「強力で破壊的なミサイル攻撃」イランがカタールの米軍基地を攻撃　紛争拡大に懸念高まる
+      <a href=https://news.yahoo.co.jp/articles/9dc8d1af7cdf777d0869b8a28235fc7f79c1a589>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランは米軍駐留基地に6発着弾と主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4dcde7a3b5bd227f776308910212f242060b5217>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「エグい角度だ」大谷翔平、投手復帰2戦目で魅せた“魔球”に米記者は衝撃「凶悪すぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c5337b9bfa15e92cf1838962ffff49307eec6b20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高橋洋一氏　イスラエルのイラン攻撃　原油価格が上昇、ロシアの侵攻継続可能に　北國新聞単独連載・政治経済ホントのところ
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c576a8cec9a0912f8b5f9d386b54a0d45e76b7ab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 鹿児島県十島村でまた震度4　約3時間前にも観測　津波の心配はなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8d856365fe1a45965629c1aa3671a5d3eab419e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90167440-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【報ステ解説】報復攻撃は？海峡封鎖も？“軍事介入”アメリカがイラン核施設を攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f4f14b15fafa3730e85671e7fec9723a4252b38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00030348-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 鹿児島県で震度4の地震　津波の心配なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 05:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 05:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
