@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5bb060f06a1694721ac7babd25e1870.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a6e015eae84e1187744f7c601d641f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c2abf4d059823355df36a4d7a43cd9f4d8790e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90167382-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アメリカがイラン攻撃「真夜中の鉄槌」　3000億円爆撃機おとり　トランプ氏「大成功」
+      <a href=https://news.yahoo.co.jp/articles/b2ef903e19bdb217fb20c0055ee161a367b343e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996274-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12e9b642f4f865d03fbd0ba94e28d881e9534e1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010012-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=721&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平、二刀流の“完全体”へ邁進「完全な実像に近づいている」　敵将も脱帽「球は走っていたし、スイーパーも本当に良かった」
+      <a href=https://news.yahoo.co.jp/articles/e58ca4d8811422f0381f58d0c9626379d0e9d451>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> くら寿司で迷惑行為の画像投稿疑い　16歳少年を書類送検　警視庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62bd8922fcf8b1c12db5367f63de706fc2047b37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000100-kyodonews-000-3-view.jpg?pri=l&w=178&h=178&order=c2r&cx=0&cy=9&cw=178&ch=178&exp=10800&fmt=webp> くら寿司皿投入口に避妊具　画像投稿疑い、書類送検
+      <a href=https://news.yahoo.co.jp/articles/4995f7f45d30e8bc55bf8baf4891a7e2a0ef4a5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00349467-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の二刀流弾に賛辞の嵐も…　ベッツ落球が〝下手目立ち〟「ポップフライを捕れない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32eb34652342ec80ecdb8f477d1645c40c2447f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01610157-okinawat-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=324&ch=324&exp=10800&fmt=webp> 沖縄戦で家族7人を失い孤児に　避難中に生まれ名付けられなかった弟も　「誰も助けられず、逃げるだけで精いっぱいだった」
+      <a href=https://news.yahoo.co.jp/articles/2e4a45f21309509edd7f83a464d8744a475dfdb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010011-annd-000-1-thumb.jpg?exp=10800&fmt=webp> 米軍イラン攻撃に外務省幹部  「同盟国として可能な限り配慮」
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> ロシア 米国のイラン攻撃に苦慮
+      <a href=https://news.yahoo.co.jp/pickup/6543175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/4d7a89c13d9f25877b60e89e72de0339c54513d209bbeeff2fa5306bd58166f6.jpg> ホルムズ海峡封鎖報道を注視 林氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c1f705585f00363e677fcf065fb78169f951075a845fac4c61c5fadd7ffe0e61.jpg> 家族失いさまよった 91歳の沖縄戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e216b9fac8b36c049fe8286a3fcdf3b22b473ad11fd4a100c10f24326c7c233f.jpg> 都議選 「再生の道」42人全員落選
+      <a href=https://news.yahoo.co.jp/pickup/6543171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/31d516754d7bd60fbed7cadfacc6cf9f427495de07e4dca7d7dcbe47943e9c1d.jpg> 軍服の毛皮に 愛犬差し出した少女
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e216b9fac8b36c049fe8286a3fcdf3b22b473ad11fd4a100c10f24326c7c233f.jpg> 都議選 「再生の道」42人全員落選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543159>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1f86771d63816d0695b80001afaed156e48221cc59622d8befa13d4162c9d56a.jpg> 常習賭博の疑い フジ社員を逮捕
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f9181e0476f8d2505f34a9c649a4d5df4843c43045771b4c03f527b2bd2542b9.jpg> ドジャース逆転勝ち 大谷が5打点
+      <a href=https://news.yahoo.co.jp/pickup/6543174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/85c6834178b29ab352cebcbfccdb641af2ca665da0070f18f86964e7a12619ed.jpg> 大谷は「ユニコーン」捕手が感激
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 12:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 13:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
