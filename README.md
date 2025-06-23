@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1a9c3d2168265149fcc48f7fb808248.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33490eb4e1f0cd5b37937d3d6cd21817.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/338b96c86321b9006e71e301b74a1116862c8247>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997733-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/dadb923a341dea1cbba65c7f2d2be326b174ee42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000455-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=882&ch=882&exp=10800&fmt=webp> 田原俊彦、NHK『うたコン』出演見合わせ　番組公式Xで発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ae10ea24476df8a6b6935edefb4add2fb7b2699>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000071-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 東京都議選　明暗くっきり　自民“惨敗”参院選へ影響は？
+      <a href=https://news.yahoo.co.jp/articles/6ab62ddca1d348efa27a287ef54fd216a3c3774f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997608-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 緊迫する中東情勢で「円安加速」「光熱費の上昇」も　米軍がイラン核施設を攻撃…鹿児島経済への影響は?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea63ac3e54d70c65ce669fb280dae0bf146a37f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07262185-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 沖縄県の米軍基地負担軽減「目に見える形で実現」　石破首相が強調
+      <a href=https://news.yahoo.co.jp/articles/ea66f4c0a3d7042a8da7d8e41e244cb66a437891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90013696-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理「平和実現は国家の責務」地位協定改定は触れず　沖縄・慰霊の日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f5c973f532b0ef361f2e47a36744cc17f2d0c29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997720-rccv-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカのイラン核施設攻撃でヒロシマでも懸念の声　松井市長「外交政策で解決に舵を」　県被団協・箕牧理事長「衝突拡大を懸念」　佐久間理事長「被爆者は黙っていられない」
+      <a href=https://news.yahoo.co.jp/articles/a86d0c464b7363995f4b63107d90ff06fa0be201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00254345-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 〈42人全員落選〉それでも“負け”を認めない石丸氏が会見で見せた「本性」と恒例のお説教の中身…参加した記者は「分かりにくいし、記者の顔も晒されてるし…どう書こう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9118bc86c92b5612c160e7f08a5c10577c74f8f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00550796-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、26号で忘れられがちな事実を敵陣OBが指摘「それに加えて…」　5打点荒稼ぎにも驚き
+      <a href=https://news.yahoo.co.jp/articles/f558b71cb48b8e300be5a8c398c306c088859a55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000348-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> ドジャース・大谷翔平　投手で登板した試合で1試合5打点は自己最多　これまでは3打点が最多
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/82c1fa4bc5a0455976f10ba6d1910be14610518c19a3242c407e70864c6a6beb.jpg> 平和願う小6「おばあちゃんの歌」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543218>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コメ5キロ3920円 4週連続値下がり
       </a>
@@ -410,32 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543210>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02260182/title-1750650322998.jpeg?exp=10800> 米によるイラン攻撃 物価影響懸念
+      <a href=https://news.yahoo.co.jp/pickup/6543227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/05b6615f3ba787e1a206048d2a0aa566b49efcbcd546817f6daff76cfd98972f.jpg> 石丸新党は全員落選 惨敗の予兆も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/870156c51da57f8f054597a3d2512e5c36e0be2178d2f7f6a4d48613ab9b3936.jpg> トカラ近海で地震相次ぐ 不安の声
+      <a href=https://news.yahoo.co.jp/pickup/6543220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/128169b1ee43eae1cc033076cf620a6962ac2375fc6a0311ec3a8c639959b992.jpg> 北海道物産展の海鮮丼 4人食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c9ec64b99a7dbc8a60b2b793f0aa9547386d060352019f987b0ded8a83e0639c.jpg> プール授業後に児童搬送 25人症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a452b010904b2507109ed7f7d76619c9019c69f62badc250566b61493db0937c.jpg> 部屋確保されず アゴダに改善要請
+      <a href=https://news.yahoo.co.jp/pickup/6543214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/67bc52b625ce854ca67bb2bb3f5cc1b90ea688a5b6e345bdd80b8612ab362357.jpg> フジテレビ 社員逮捕を受け謝罪
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/77d08117f39f049903ee87183d15a5cd094cd743532b9147c63be2614828028e.jpg> 8歳から脱毛受け入れ 医師の思い
+      <a href=https://news.yahoo.co.jp/pickup/6543209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e22521d734f1622d9e668fda867982d10b62f75328e190d91a7e6d9c2c0252eb.jpg> ローソン「未来のコンビニ」開店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543208>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02260533/title-1750664269802.jpeg?exp=10800> 絶賛相次ぐ 映画・国宝なぜ高評価
+      <a href=https://news.yahoo.co.jp/pickup/6543225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/3fce0cc6c98938a86663f9854fba4d148f69e197740e6ad2e804fde4345da38e.jpg> 田原俊彦 NHKうたコン出演中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 19:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 20:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
