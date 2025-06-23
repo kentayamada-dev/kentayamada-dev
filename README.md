@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c85e14540d20fdfa8c7a3355211c3d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10f843acdb1c6fc3017de1ff737495e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a55ea6e4cd96e272eca3960948bbd4d8fa43fc1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00367122-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=420&ch=420&exp=10800&fmt=webp> TOKIO国分太一が衝撃の活動休止！松岡昌宏の「痛烈な言葉」が7年越しで国分に突き刺さるワケ
+      <a href=https://news.yahoo.co.jp/articles/79766e7073fb3af99596fa2717451bd067757c2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991464-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=462&ch=462&exp=10800&fmt=webp> 元『週刊文春』中村竜太郎氏が独自取材「スタッフに強烈なパワハラ・たたく行為あったと情報」国分さん活動休止問題
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/82c1fa4bc5a0455976f10ba6d1910be14610518c19a3242c407e70864c6a6beb.jpg> 平和願う小6「おばあちゃんの歌」
+      <a href=https://news.yahoo.co.jp/pickup/6543213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継・首相会見 国会の閉幕受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543218>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コメ5キロ3920円 4週連続値下がり
+      <a href=https://news.yahoo.co.jp/pickup/6543223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/82c1fa4bc5a0455976f10ba6d1910be14610518c19a3242c407e70864c6a6beb.jpg> 平和願う小6「おばあちゃんの歌」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/67bc52b625ce854ca67bb2bb3f5cc1b90ea688a5b6e345bdd80b8612ab362357.jpg> フジテレビ 社員逮捕を受け謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b75a8ea87b7641beeb2879747800754678b18fbc40dfa9176d3f4880d3e15f6b.jpg> けいれん繰り返す娘 難病に母は涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 20:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 21:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
