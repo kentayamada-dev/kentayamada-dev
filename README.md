@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e81f3d78b101b22a17812ac91650b98f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ff7174444bb543867bafa024bfe4ae6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81761a2960a04c28254c15d58908f871a738576d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、147円台前半＝「有事のドル買い」で大幅上昇（23日午後5時）
+      <a href=https://news.yahoo.co.jp/articles/a1fdd12a2a7687a8da3fcad407bde7803fb8b6aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010004-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 米軍がまさかの核施設空爆！ イランの報復攻撃は？　緊迫する中東情勢に各国の思惑は【識者解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/deb8c4dafdacd697ab6b76c68f32ca2e0877650f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997545-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3323cd3fd35e2ad0544a227f85ae30ad0acdd308>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01949384-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「全戦没者追悼式」沖縄知事が平和宣言　石破首相も参加…犠牲者を悼む
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3b04eb6082a3d963e92e667288ca49608b81fc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000119-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> 大谷翔平投打に爆発→球場に激レア女優が！米国人弁護士と再婚、ＬＡ在住５５歳信じられん美貌健在「うわ～」「羨ましい」の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3244c2d565e1d67129e8f672b05e1a00d4ec3d8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-15429288-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 【速報】北九州市の小学校　プール授業後に２５人症状訴え　集団搬送
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000119-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> 大谷翔平投打に爆発→球場に激レア女優が！米国人弁護士と再婚、ＬＡ在住５５歳信じられん美貌健在「うわ～」「羨ましい」の声
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fb4b42267aa5b0d6c17c2528c5d205277c1c91e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21996043-rbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 玉城知事や石破総理らのあいさつ 戦後80年の慰霊の日 沖縄全戦没者追悼式
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a931aa05d41a6b8c70719c6407b4c240a5943e8775474eeb98b13f560a894561.jpg> 沖縄戦の縮図 3500人亡くなった島
+      <a href=https://news.yahoo.co.jp/pickup/6543198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/fc7dc09720fb57c6a48a8156b9fd7570a317f5f19fbb0470e22ce89b10e30fa8.jpg> 自民幹部 都議選思ったより大負け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/0be99cb61cb808dcd358ccce1519deca1eeb70f2d67fdc4e1b152bf5959382df.jpg> 北朝鮮 米のイラン攻撃を強く非難
+      <a href=https://news.yahoo.co.jp/pickup/6543190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6d81c319a12f75df1fbad843ed5813e63e5ad2fe8dcf84ec9d044ebb9abea520.jpg> 五輪談合 電通などに課徴金33億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
+      <a href=https://news.yahoo.co.jp/pickup/6543206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/2415b61538f390d6047335770143eceb0dba9c74e7c8fdd5feb014388a56e400.jpg> UFJ元行員 顧客から4000万円詐取
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/5eb273708216d3cf0b54c9f43203849d15445d43ec05f99e01093b4fad732755.jpg> Chatbotに痴漢被害 気付いた異変
+      <a href=https://news.yahoo.co.jp/pickup/6543191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f39931b596c69f6dff55c2749fdaa987982d8e1c764db26f4932bf358e7ea870.jpg> ウルフデビュー戦 テレ朝特番予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f39931b596c69f6dff55c2749fdaa987982d8e1c764db26f4932bf358e7ea870.jpg> ウルフデビュー戦 テレ朝特番予定
+      <a href=https://news.yahoo.co.jp/pickup/6543208>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02260533/title-1750664269802.jpeg?exp=10800> 絶賛相次ぐ 映画・国宝なぜ高評価
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 17:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 18:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
