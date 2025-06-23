@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ff7174444bb543867bafa024bfe4ae6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8109ebdfbd4aa10c536e81bafd3c8332.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1fdd12a2a7687a8da3fcad407bde7803fb8b6aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010004-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 米軍がまさかの核施設空爆！ イランの報復攻撃は？　緊迫する中東情勢に各国の思惑は【識者解説】
+      <a href=https://news.yahoo.co.jp/articles/887e78fd3eab9184821ee71da4cb368186f0626a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔ロンドン外為〕円下落、147円台後半（23日午前10時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deb8c4dafdacd697ab6b76c68f32ca2e0877650f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-21997545-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/482f7e6590b9a386a9c02ef4ec25977fff19f802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-11652652-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=406&ch=406&exp=10800&fmt=webp> フジテレビ、社員の「オンカジ」常習による逮捕者認める　所属のイケメンアナも「オンカジ」発覚したばかり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3323cd3fd35e2ad0544a227f85ae30ad0acdd308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-01949384-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「全戦没者追悼式」沖縄知事が平和宣言　石破首相も参加…犠牲者を悼む
+      <a href=https://news.yahoo.co.jp/articles/be0b9b340d9fe0e6d71479b592354b8ba87bb813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 沖縄慰霊の日、死者20万人悼む　首相、ひめゆりの塔に献花
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3b04eb6082a3d963e92e667288ca49608b81fc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000119-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> 大谷翔平投打に爆発→球場に激レア女優が！米国人弁護士と再婚、ＬＡ在住５５歳信じられん美貌健在「うわ～」「羨ましい」の声
+      <a href=https://news.yahoo.co.jp/articles/5a424ac77d8a249deb2ba89acffc3311e487a321>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000073-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=106&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、二刀流こそ生きる道、組んだ新人捕手「ユニコーン」… 前カード２死球も「我慢できる痛み」、投打同時出場で自己最多５打点
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/fc7dc09720fb57c6a48a8156b9fd7570a317f5f19fbb0470e22ce89b10e30fa8.jpg> 自民幹部 都議選思ったより大負け
+      <a href=https://news.yahoo.co.jp/pickup/6543205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/04726c9bd43df320c193950856c07e2ef2c9ff10dd54b14a232326b65ea46856.jpg> 小池氏 都民の共感得ることできた
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c9ec64b99a7dbc8a60b2b793f0aa9547386d060352019f987b0ded8a83e0639c.jpg> プール授業後に児童搬送 25人症状
+      <a href=https://news.yahoo.co.jp/pickup/6543212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/20d3bc4d6f35fad74cffd9bcfcf7f4cc88fc182b6014e0ee27057754c7fbce3e.jpg> 4歳児が行方不明 川に流されたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b93e56f8dfa68efecb76413e8b99318c4965694640796caf9e30180ae96e88f2.jpg> 渡された飲料飲み搬送 薬物未検出
+      <a href=https://news.yahoo.co.jp/pickup/6543202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/c9ec64b99a7dbc8a60b2b793f0aa9547386d060352019f987b0ded8a83e0639c.jpg> プール授業後に児童搬送 25人症状
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 18:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 18:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
