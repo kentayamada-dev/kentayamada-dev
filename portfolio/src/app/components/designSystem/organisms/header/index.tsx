@@ -27,7 +27,7 @@ const Header: HeaderType = (props) => {
         <span className='hidden md:block'>
           <NavItemsWrapper locale={props.locale} navLabel={globalNavLabel} />
         </span>
-        <span className='border-primary hidden h-10 border-l md:block' />
+        <span className='border-primary mx-2.5 hidden h-7 border-l md:block' />
         <LocaleSwitcherWrapper locale={props.locale} />
         <ThemeSwitcherWrapper locale={props.locale} />
         <Link

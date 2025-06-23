@@ -90,7 +90,7 @@ const ContactForm: ContactFormType = (props) => {
       />
       <div className='relative'>
         <label className='text-primary block pb-2 text-base font-medium' htmlFor='phoneNumber'>
-          {form.phoneNumber}
+          {`${form.phoneNumber} (${form.optional})`}
         </label>
         <div
           className={`${props.state.errors?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex overflow-hidden rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}

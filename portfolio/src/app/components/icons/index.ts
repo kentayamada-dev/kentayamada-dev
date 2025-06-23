@@ -18,6 +18,7 @@ export { KyIcon } from './kyIcon';
 export { LinkIcon } from './linkIcon';
 export { MinusIcon } from './minusIcon';
 export { MoonIcon } from './moonIcon';
+export { OrganizationIcon } from './organizationIcon';
 export { PlusIcon } from './plusIcon';
 export { ProjectIcon } from './projectIcon';
 export { StarIcon } from './starIcon';

@@ -10,6 +10,11 @@
     "light": "Light",
     "system": "System"
   },
+  "contact": {
+    "address": "Address",
+    "email": "Email",
+    "location": "Toronto, Canada"
+  },
   "navigation": {
     "home": "Home",
     "articles": "Articles",
@@ -62,9 +67,10 @@
     "recaptchaError": "reCAPTCHA verification failed. Please try again.",
     "placeHolder": {
       "firstName": "John",
-      "lastName": "Smith",
+      "lastName": "Doe",
       "message": "How can I help you?"
     },
+    "optional": "optional",
     "submit": "Submit"
   }
 }

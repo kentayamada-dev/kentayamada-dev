@@ -24,12 +24,18 @@ type DictionaryType = {
     stockProfitLoss: string;
     totalProfitLoss: string;
   };
+  contact: {
+    address: string;
+    email: string;
+    location: string;
+  };
   faq: string;
   form: {
     email: string;
     firstName: string;
     lastName: string;
     message: string;
+    optional: string;
     phoneNumber: string;
     phoneNumberError: string;
     placeHolder: {
