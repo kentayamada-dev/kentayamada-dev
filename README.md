@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3723ba309b866b44bbb16ecd66498c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da001504bf955d7b493b63547f27f775.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd802e679ed4adec75b62e001b09b1c391275d4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース・大谷翔平　2度目の先発は1回無失点　26号2ラン含む5打点で二刀流として貢献
+      <a href=https://news.yahoo.co.jp/articles/10218b7f29b901d51463c08c34f5f5e8e5ff973d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> オンラインカジノで賭博容疑、フジ社員逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66a0f98ec7dfa27a3d45bfe5ea32255e4d27849c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990968-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> オンラインカジノで賭博の疑い　フジテレビ社員を逮捕　警視庁
+      <a href=https://news.yahoo.co.jp/articles/d7ca60db78053351de7b319a6b0ef32691fbfbd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000027-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、「登板した試合で２度目の本塁打＆三塁打」は史上初 「チーム開幕79試合で１番打者として26本塁打」メジャー記録
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbcb4e3b46f2752b8eb5902265165f98dc0a2ecf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000014-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=356&ch=356&exp=10800&fmt=webp> イラン革命防衛隊「中東米軍基地は弱い」報復圧迫
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000014-cnippou-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=356&ch=356&exp=10800&fmt=webp> イラン革命防衛隊「中東米軍基地は弱い」報復圧迫
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/cb0cdedeff6a3199d9a8328956c31969ff4d7a9b4f8ac01b8ec3dde07d51c001.jpg> 置き配を標準に 国が新ルール検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543156>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/fa63b589a9288875076f18dc6c2d4927c9ae063caf0f2fe5daf066c80a811725.jpg> ドコモ社長 新料金反響は計画通り
       </a>
@@ -451,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543159>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 常習賭博の疑い フジ社員を逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/acc6f00b7762c33ec3fc1af2cc7b95660d8bf56735077d243f61480fca46456c.jpg> 常習賭博の疑い フジ社員を逮捕
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b89bec9700aea0c191762ffe5bc8523ad26fb95430c1ad4c4bbe81f5831f2d08.jpg> ラウール ミラノコレでデビュー
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 10:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 11:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
