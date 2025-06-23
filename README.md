@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10f843acdb1c6fc3017de1ff737495e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9deec3aae425cb9edd5a05798debe636.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79766e7073fb3af99596fa2717451bd067757c2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991464-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=462&ch=462&exp=10800&fmt=webp> 元『週刊文春』中村竜太郎氏が独自取材「スタッフに強烈なパワハラ・たたく行為あったと情報」国分さん活動休止問題
+      <a href=https://news.yahoo.co.jp/articles/2e4b786c3a9ed69916a6acfa946c0726f2f3bdb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90023079-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手“二刀流復帰”2戦目…投打で躍動　1回無失点＆26号ホームラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc02a9de93f20ed4ea5f7710de09873c3c52ca7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ホルムズ海峡「封鎖承認」　石油危機？日本への影響は
+      <a href=https://news.yahoo.co.jp/articles/2a632e5904b02a0ee660a76d8dc3eecec0330d1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000240-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イランは対決姿勢、報復焦点　ホルムズ海峡封鎖論も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9659f3d485aa139d1639d3418638a9540a6a7dda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00050203-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 青木ヶ原樹海で女子高生死亡、逮捕の男が事件前に「自殺仲間募集」などと検索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8312ca88efeee419a7be58d2c443cad389fdaaf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991235-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【追悼】「平和の礎」刻まれた亡き肉親の名前に手を合わせる遺族たち「戦争が終わってからが苦しかった」沖縄戦から80年「慰霊の日」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1658b31307963e030505cefcc786769a9c48f88>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-03296492-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> なぜ「再生の道」は0議席だったか…石丸語録から読み解く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea66f4c0a3d7042a8da7d8e41e244cb66a437891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90013696-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理「平和実現は国家の責務」地位協定改定は触れず　沖縄・慰霊の日
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f558b71cb48b8e300be5a8c398c306c088859a55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000348-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> ドジャース・大谷翔平　投手で登板した試合で1試合5打点は自己最多　これまでは3打点が最多
       </a>
     </td>
   </tr>
@@ -426,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/58536d47e02f640351419bc867c7fac2012c1b9924ad50d9ceffd70568ca5b2f.jpg> 住宅で流血の女性死亡 殺人で捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/97719ebcd7d7f9a2e8a91de689238f37c24a0ab2357ca943eb56debd8d657218.jpg> 樹海で生徒死亡 男は自殺仲間検索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543229>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1fdad85b04a9c9d71f0883eebef3ed21a78e799242e63e59b897f46d3196af5a.jpg> 中3で「英検3級以上」52% 文科省
       </a>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/128169b1ee43eae1cc033076cf620a6962ac2375fc6a0311ec3a8c639959b992.jpg> 北海道物産展の海鮮丼 4人食中毒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b75a8ea87b7641beeb2879747800754678b18fbc40dfa9176d3f4880d3e15f6b.jpg> けいれん繰り返す娘 難病に母は涙
+      <a href=https://news.yahoo.co.jp/pickup/6543233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/83771a4cfd1552d94a6c32569c1c073aa6de4c998c8e0a300849a8ee73e0db4c.jpg> 橋本大輝 菊池病の可能性と診断
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/3fce0cc6c98938a86663f9854fba4d148f69e197740e6ad2e804fde4345da38e.jpg> 田原俊彦 NHKうたコン出演中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 21:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 21:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
