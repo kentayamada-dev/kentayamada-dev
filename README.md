@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cafd3ae5d87992d7becf0ca2ab2f228d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee69a115bcd4eb755c6e1ede7ecb1b20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee70c3bb8240a4f3c4cb0b9e2d0d5e832470a1c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000039-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「くら寿司」の皿投入口に避妊具　写真をSNSに投稿か　16歳少年を書類送検
+      <a href=https://news.yahoo.co.jp/articles/1a953e73710c7a333065954338a22ace575da979>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> くら寿司の皿投入口に避妊具置く様子を投稿した疑い　少年を書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/055069cab8f73953818430617eb67bda00f20762>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098326-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 二刀流の“大谷翔平だけ”ができる芸当に球団公式も唖然「先発投手として試合に臨み、最後はホームランで締めくくる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a2d3998e8b7e6687c5c87f339f23e4ac61ea812>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00529692-nshaberu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=1512&ch=1512&exp=10800&fmt=webp> 都議選終わる、参院選への影響は？「仰天シナリオ」も？
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd4059a91d20405933d45b3caf10ef83cc43729c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00886386-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 都議選で自民党は“史上最低”21議席の惨敗、7月の参院選では36年ぶりに再び「山が動く」のか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b21743f759fa3a36277fe7c63c2142dcc29b367>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞イラン、米国へ報復宣言　ホルムズ海峡封鎖で影響は？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30a462468666c22cea3752d91004788274a792e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000042-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「ドジャースはついに大谷翔平の『完全バージョン』を手に入れようとしている」 米地元紙が注目 「球場で２度目のユニコーンを、神話上の二刀流を目撃」
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a44c9a2ce405d0ab36ac83e7e44d3adf0cb9387f887c3a382876eda1662d56fc.jpg> くら寿司で迷惑写真疑い 書類送検
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e9e384c54d39f2cea1ada53f9f029e104c8928cf7d3e595a40cd6760a7cd4646.jpg> くら寿司で迷惑写真疑い 書類送検
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d0e42148b95efa57bed42004340b66de14d2a77dccb83049103e5004fc035ff3.jpg> Switch2 携帯モードの使い勝手は
+      <a href=https://news.yahoo.co.jp/pickup/6543166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e0f3f8fe3d672e40232ff7d4d1804e0a83985d73de2a864d56003856e6bab038.jpg> 力石徹のモデル 山崎照朝氏が死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 13:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 14:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
