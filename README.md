@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/600e3aaebac11d48d685c33e9b1bdb23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/028e4a8f18ab1f4deb6831a000d40df4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/392675488fefaa40683ea757201202723d1f20c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231149-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 「プロレスに対して愛情があるか…とても大事」棚橋弘至社長、ウルフ・アロン「入団」経緯を明かす「プロレスへの本気の熱意と誠実な態度」
+      <a href=https://news.yahoo.co.jp/articles/fb995191b8d2fc3f3008a65b69737f876aa61bab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> 日経平均は3日続落、米イラン核施設攻撃を嫌気　円安好感で後半戻り歩調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/978f355fa78dc8cd00dcd5b8cd31f1ac1abef802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000076-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 午後3時のドルは147円前半に上昇、中東情勢悪化なら一段高も
+      <a href=https://news.yahoo.co.jp/articles/b22a8f39c0bf1950da377650d86784c861c56f03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000077-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ウルフ・アロン、新日本プロレス入団　来年1月4日デビュー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f573b91fc75b37a80067e262e96f5306662cfc38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098337-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 過去125年で「唯一の選手だ」 大谷翔平が刻む歴史的快挙に米記者注目！ リアル二刀流で“キャリア２度目”を記録
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/761df68399e408730561a81b12e35675d1572db1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 警察庁「LO脅威情報統合センター」設置　参院選期間中に対策強化
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3fcc7b91ad019b9be3e13d7cd965cbd641c82c5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相がひめゆりの塔に献花　自民議員の「書き換え」発言で注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/156414f1a0dd02a5ac04c771aee7a69968711b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098327-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「すべての球が爆発的」１回２K無失点の大谷翔平に新人捕手ラッシングも感服！ 待望のリアル二刀流アーチには「まさにユニコーン」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75a800a5a514f3da0af34335c29397332e71ecb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000055-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=131&cw=938&ch=938&exp=10800&fmt=webp> 自民大敗、裏金が影響　立・国、参院選へ対決姿勢
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000047-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相がひめゆりの塔に献花　自民議員の「書き換え」発言で注目
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a512dcea7fa57217fbb366d5fee965856fcb3802a9c517c032281fd3a90b42da.jpg> 「反自衛隊」沖縄県民の意識変化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543185>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a31d58ea939722a69a5b67fdb2065d102c5faf40a5e280aaacb9e5a29a88b79f.jpg> 台風2号 週半ば関東で大雨の恐れ
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543188>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/539aab8aed7a96f92061cdfe333697baa97566bf1c7272172d01520ef7021ea0.jpg> 都議選全員落選の維新 吉村氏言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2020/1/24/1579857888_1579857859_aflo_90067822.jpg> 原油先物 急上昇後に上げ幅縮小
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e30171427c8beaf6788897f7cbf61d226cf0beb616f9e3f0af54d39428f388b9.jpg> ウルフ・アロン プロレス電撃転向
+      <a href=https://news.yahoo.co.jp/pickup/6543195>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02259318/title-1750590138621.jpeg?exp=10800> ダウンタウンDX 最終回に松本は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 16:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 16:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
