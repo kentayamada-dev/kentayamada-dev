@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c09c5402ca2411d3e70cf203a1f79a5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac3ddcae2e74a34daf1bc1ea16448fdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdfb72f5e90dbfb71f3d32ea0618e7e7af61f66c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998176-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/1f1f211844cc927c365a2fbc86f5084190501151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998190-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35959e5a5052e07c212ebd0cf657e2f178175ec1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01936187-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “イスラエルとイランが完全かつ全面的な停戦を開始する”トランプ大統領、SNSで発表
+      <a href=https://news.yahoo.co.jp/articles/fad1b6acbf06f66b0177d7e11182b58a0c38b6b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00260300-tvtnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「イスラエルとイラン停戦合意」トランプ大統領がSNSに投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f7c24461fb51fee8367c2b26d3da4316dd0cef2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00175310-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=528&ch=528&exp=10800&fmt=webp> 20歳の日本代表DFがイングランド名門に電撃移籍へ！ 英BBCが「9.8億円で合意」と報道
+      <a href=https://news.yahoo.co.jp/articles/b2ea254023ee575ec8dfe19b862f8c29abc9881e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240082-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 【川崎Ｆ】日本代表DF高井幸大、プレミア強豪トットナムに10億円で移籍へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/49b451d87b149f96954147ba8500408e8943d546270a186a7bd030040625d33e.jpg> ロシア原発 日本海沿岸を候補地に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543254>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b8c8b7a7a580c28e059b01fd601617cad92134d2ef4bfca19814d27d5591b67a.jpg> 日本郵便 あす運送許可取り消し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3677af2904df1c77ac7de22de45b03fdfbaac338aaa1cc7fe96dc1b008452037.jpg> あえて脱石丸 再生の道候補の戦略
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/842d8d1621b5b5da4797b47842bea37ff4de86965eb5b7fe7cbcbad905e932bd.jpg> 男児が川に流されたか おむつ発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543258>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/392121416df436a6d410ef1e9fd3e1e8fc03336f07e3fd194eb5c6a8d51e49d5.jpg> DF高井幸大 トットナムに移籍へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/83771a4cfd1552d94a6c32569c1c073aa6de4c998c8e0a300849a8ee73e0db4c.jpg> 橋本大輝 菊池病の可能性と診断
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 08:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 08:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
