@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d87b6c864921cd70fd7d611d0b4a8071.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ca6dd8bba89fe19bc8811c59371d154.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff9da305aa484b2219c8450fe07d02ee1b26ff20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030346-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 鹿児島県で震度4の地震　津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ceac1f426ba4c838db50e7110c028c9e3b2a24b6>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea66f4c0a3d7042a8da7d8e41e244cb66a437891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90013696-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理「平和実現は国家の責務」地位協定改定は触れず　沖縄・慰霊の日
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b29cd857e49ce3edd210615e657c2b4b939b702709d5ad4603b66353398c1b8c.jpg> 鹿児島県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543238>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/9a7d60681fe98682881a698cc8ec29aec8f378d19cc96128fa311beb9459206f.jpg> 24日梅雨空の所多く 激しい雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6543237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/35c5c5f2e4560bfbf83c458d80e04ec491e108912436d285475efdbd097c1772.jpg> プーチン氏 米の攻撃正当化できず
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543239>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/bbc61e169f8a4fcf853b9388d1369e0320ca8b201dafc725792a20a97dec500e.jpg> ルーマニア館 1億円超の未払いか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6bdda34fa20650b20f7dfb54edbab10f0523cb928d8377584e56c9e6ca363a1d.jpg> パナHD1万人削減「断腸の思い」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 23:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 23:52:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
