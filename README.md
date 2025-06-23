@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dbe26375459a356723b713ac8ccc36dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48ab35498ac01b3bcc1dfe7716996d99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1035829b89ee83fe9122178a583d457df76679a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000052-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 「ドジャースは先発ローテに大谷翔平が必要だ」 復帰２試合目登板を米解説者が分析 「打撃も必ず修正し、復活する才能がある」
+      <a href=https://news.yahoo.co.jp/articles/e8bb5fcc2a95329dc90f09a3750bd76c1bbf9512>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244543-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府、アメリカ軍の攻撃は「イランの核兵器保有を阻止する決意」と一定の理解　岩屋外務大臣談話
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73c7dde1952b9437636386dbb3dbb7656c77b7f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000236-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=724&ch=724&exp=10800&fmt=webp> ウルフ・アロンのプロレスデビューは来年1月4日！棚橋弘至の引退試合とW興行「全力で挑む」
+      <a href=https://news.yahoo.co.jp/articles/156414f1a0dd02a5ac04c771aee7a69968711b95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00098327-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「すべての球が爆発的」１回２K無失点の大谷翔平に新人捕手ラッシングも感服！ 待望のリアル二刀流アーチには「まさにユニコーン」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4de7f7864b49249980cbc88a1f6e099665533247>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991008-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「不記載問題響いた」東京都議会選挙で自民大敗し参院選に懸念…「給付金への嫌悪感出た」との見方も
+      <a href=https://news.yahoo.co.jp/articles/23afe0c6437dc310da91b8af40cc3ea22aef853c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000012-ryu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 【全文】石破茂首相あいさつ　沖縄全戦没者追悼式　沖縄戦から80年 　慰霊の日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a291c2fe2ca8ad9e76e3bdb313e5579d3269656>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-07244544-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 遺族「見守ってくださいね」 沖縄戦終結から80年「慰霊の日」で追悼式
+      <a href=https://news.yahoo.co.jp/articles/75a800a5a514f3da0af34335c29397332e71ecb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民大敗、裏金が影響　立・国、参院選へ対決姿勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b21743f759fa3a36277fe7c63c2142dcc29b367>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜1分で解説＞イラン、米国へ報復宣言　ホルムズ海峡封鎖で影響は？
+      <a href=https://news.yahoo.co.jp/articles/376183133c88b42a2583f68192c4904f20020fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00030338-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 梅雨前線+台風2号で大雨の恐れ　明日24日にかけて局地的な激しい雨　停電リスク大
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6254754dabbbc7d3a2727bc6005dba7255c4b9c9a56936c4342ee15d3b0aa642.jpg> 石破首相 沖縄の平和は国家の責務
+      <a href=https://news.yahoo.co.jp/pickup/6543164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1b23f0c5c4fd4a73db0be0a7512e04ff6415b6f0097c6c99f156c071e2e48f38.jpg> 米大統領「イラン体制転換」言及
+      <a href=https://news.yahoo.co.jp/pickup/6543180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/a512dcea7fa57217fbb366d5fee965856fcb3802a9c517c032281fd3a90b42da.jpg> 「反自衛隊」沖縄県民の意識変化
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543168>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/miwadaisuke/02259474/title-1750601796928.jpeg?exp=10800> 業績好調の外食企業 大きな共通点
+      <a href=https://news.yahoo.co.jp/pickup/6543176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/214fe4914544b4fdc97b2f29992437eb6b1610e20392abf087c9f5fd70d39dc0.jpg> 札幌ドームV字回復で黒字 24年度
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/652c3982c254b17bbf696c1fb424a47330ba676413febf3516333a51c4eb8602.jpg> ウルフ・アロン プロレス電撃転向
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/e30171427c8beaf6788897f7cbf61d226cf0beb616f9e3f0af54d39428f388b9.jpg> ウルフ・アロン プロレス電撃転向
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 14:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 15:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
