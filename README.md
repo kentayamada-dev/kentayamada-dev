@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9deec3aae425cb9edd5a05798debe636.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7120d0bc4e556b6f2d49e446333048f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a632e5904b02a0ee660a76d8dc3eecec0330d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000240-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イランは対決姿勢、報復焦点　ホルムズ海峡封鎖論も
+      <a href=https://news.yahoo.co.jp/articles/eb1eb7389094ec792d9377367a38cfcdf896cc0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000118-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> プーチン氏「米攻撃は侵略」　イラン外相と会談
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/12/5/livestreaming_00001.png> 中継・首相会見 国会の閉幕受け
+      <a href=https://news.yahoo.co.jp/pickup/6543238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/22c66c815ca7b4a9a45e4af1ffec4fdc594322adb103fbb4da39bfe8bf964a26.jpg> 首相 3つのアプローチで政策推進
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543223>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/82c1fa4bc5a0455976f10ba6d1910be14610518c19a3242c407e70864c6a6beb.jpg> 平和願う小6「おばあちゃんの歌」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/05b6615f3ba787e1a206048d2a0aa566b49efcbcd546817f6daff76cfd98972f.jpg> 石丸新党は全員落選 惨敗の予兆も
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/1fdad85b04a9c9d71f0883eebef3ed21a78e799242e63e59b897f46d3196af5a.jpg> 中3で「英検3級以上」52% 文科省
+      <a href=https://news.yahoo.co.jp/pickup/6543230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/fd05d54c489a83208fdebcf3783305a036611af78136940e08d4d697147fb3c8.jpg> ヒット連続のキュレル 視線は世界
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543233>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/83771a4cfd1552d94a6c32569c1c073aa6de4c998c8e0a300849a8ee73e0db4c.jpg> 橋本大輝 菊池病の可能性と診断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543195>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02259318/title-1750590138621.jpeg?exp=10800> ダウンタウンDX 最終回に松本は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 21:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 22:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
