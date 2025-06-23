@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/973d620ef4c34e5003d7c09d42af0b74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3723ba309b866b44bbb16ecd66498c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d428614d0b1594d7fdfe37e770c6dbc7bdc9a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-06231065-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=964&ch=964&exp=10800&fmt=webp> 「フジテレビの社員逮捕ということです」…４０代男が「オンラインカジノ」常習賭博容疑…「モーニングショー」羽鳥慎一アナウンサーが速報
+      <a href=https://news.yahoo.co.jp/articles/fd802e679ed4adec75b62e001b09b1c391275d4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース・大谷翔平　2度目の先発は1回無失点　26号2ラン含む5打点で二刀流として貢献
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac4bbf546a38bcda19d14866f01474558f52d5ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000158-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ド軍指揮官　リアル二刀流の大谷翔平に感嘆「やっぱり凄い。彼はそれを当たり前のようにこなしている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5035574e7a89172e058812497e5a6b222a360095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000022-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=1419&ch=1419&exp=10800&fmt=webp> イスラエル首相、イラン軍事攻撃は目的達成に「非常に近づいてる」
+      <a href=https://news.yahoo.co.jp/articles/66a0f98ec7dfa27a3d45bfe5ea32255e4d27849c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00990968-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> オンラインカジノで賭博の疑い　フジテレビ社員を逮捕　警視庁
       </a>
     </td>
   </tr>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f53c91364bc3ed8cfb2b027e13beb43194e8209f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00010000-chuokou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 選挙を脅かす襲撃事件と、日本の要人警護
+      <a href=https://news.yahoo.co.jp/articles/fbcb4e3b46f2752b8eb5902265165f98dc0a2ecf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000014-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=356&ch=356&exp=10800&fmt=webp> イラン革命防衛隊「中東米軍基地は弱い」報復圧迫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bbdb4ba704ca61c023bb2f698789161fbe595c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-36230204-nksports-000-4-view.jpg?pri=l&w=113&h=113&order=c2r&cx=0&cy=10&cw=113&ch=113&exp=10800&fmt=webp> 【都議選】参政党が初の議席を獲得　公式Ｘが３人当選を報告「これからが本当のスタートです」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/8b6c6da1e9dddc7b2947e4a3375ca74f51039a80693b527de4e222c7f6e7a76c.jpg> 都議選 自民は参院選へ危機感
+      <a href=https://news.yahoo.co.jp/pickup/6543150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/cb62c3fbab99161054f4b7c1800c7b591830bf98fccba7fa686724a3b447d1f8.jpg> 参院選 ローンオフェンダー新対策
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/d8e0b279d48ba22fb19964affd84c6229906807c97d12f837c1e640d1a2840e9.jpg> 大谷翔平が26号二刀流ホームラン
+      <a href=https://news.yahoo.co.jp/pickup/6543155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/f9181e0476f8d2505f34a9c649a4d5df4843c43045771b4c03f527b2bd2542b9.jpg> ドジャース逆転勝ち 大谷が5打点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 10:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 10:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
