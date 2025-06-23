@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e69fe5d990eb6a28ff548aa75b181713.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ae33c42a8309423a18181be18b1a974.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37b668a3bc105b5506cc2f141f491ffa6ed8d520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000105-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=812&ch=812&exp=10800&fmt=webp> ウルフ・アロン、「YouTubeは続けていく」新日本プロレス入団後も配信続行宣言
+      <a href=https://news.yahoo.co.jp/articles/7b2ad9f2c104e1c137a8604c8bc6fdbd4e2be72c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90167434-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【訃報】作曲家・藤竜之介さん逝く　多くの歌手を支えた人生
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8312ca88efeee419a7be58d2c443cad389fdaaf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00991235-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【追悼】「平和の礎」刻まれた亡き肉親の名前に手を合わせる遺族たち「戦争が終わってからが苦しかった」沖縄戦から80年「慰霊の日」
+      <a href=https://news.yahoo.co.jp/articles/f1658b31307963e030505cefcc786769a9c48f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-03296492-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> なぜ「再生の道」は0議席だったか…石丸語録から読み解く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1658b31307963e030505cefcc786769a9c48f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-03296492-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> なぜ「再生の道」は0議席だったか…石丸語録から読み解く
+      <a href=https://news.yahoo.co.jp/articles/ea66f4c0a3d7042a8da7d8e41e244cb66a437891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-90013696-otv-000-1-thumb.jpg?exp=10800&fmt=webp> 石破総理「平和実現は国家の責務」地位協定改定は触れず　沖縄・慰霊の日
       </a>
     </td>
   </tr>
@@ -418,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/b5f4daa187b3a330720a1b904f8141748fd33a281fa58a612c0f798ec988fed9.jpg> 自民・石原伸晃氏 政界引退を表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/bbc61e169f8a4fcf853b9388d1369e0320ca8b201dafc725792a20a97dec500e.jpg> ルーマニア館 1億円超の未払いか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543240>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/6bdda34fa20650b20f7dfb54edbab10f0523cb928d8377584e56c9e6ca363a1d.jpg> パナHD1万人削減「断腸の思い」
       </a>
@@ -426,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/58536d47e02f640351419bc867c7fac2012c1b9924ad50d9ceffd70568ca5b2f.jpg> 住宅で流血の女性死亡 殺人で捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543236>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/97719ebcd7d7f9a2e8a91de689238f37c24a0ab2357ca943eb56debd8d657218.jpg> 樹海で生徒死亡 男は自殺仲間検索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/23/fd05d54c489a83208fdebcf3783305a036611af78136940e08d4d697147fb3c8.jpg> ヒット連続のキュレル 視線は世界
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/23 22:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/23 23:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
