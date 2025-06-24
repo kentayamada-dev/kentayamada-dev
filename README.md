@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0bd3654b7c3f2289bcb36cd5f018a6e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/160b5b8229edbe26fda628ec2dbdfdea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3403117611ede88b11d6a55df79549388488c768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “停戦発効”も…イスラエル、イランともに相手の停戦違反を主張　予断許さず
+      <a href=https://news.yahoo.co.jp/articles/7419807ac4187ceafdd5878b0b5f08689571361e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000749-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28e4fc4d6c528966213a3f941cc33421d7fc04cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全柔連会長、成功を願う　プロレス転向のウルフに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d145ed1d1e8c50a6c21cc59d2fbda7f2f98aebd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000131-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン、継戦能力に打撃　体制存続を優先
       </a>
     </td>
   </tr>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5944d2b8e2a8235faa0e92349798b8342c206b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050163-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立民、蓮舫氏を参院比例選に擁立…反対論押し切り都議選での議席増貢献を評価
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050163-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立民、蓮舫氏を参院比例選に擁立…反対論押し切り都議選での議席増貢献を評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a1bd410997a5e2372050b68313262386aa801fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010029-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 巨人・坂本勇人が今季1号ホームラン！第3打席では交流戦通算337安打目を放つ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc2cd988a4e280f992662c4ac9e08d0b1401f1a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000711-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f38a62d40168713ccedefcf2840d0306c81f48f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00349613-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝元暴走王〟小川直也氏　新日本入団のウルフ・アロンに辛口指南「自分一人では何もできないからね」
+      <a href=https://news.yahoo.co.jp/articles/72826b600321fa82dc199a8cda42d628fa608e60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000051-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> フジテレビ『ぽかぽか』アナも部長もオンラインカジノ汚染…中居問題から続く “隠蔽体質” に「社内はボロボロ」の悲鳴
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f74958fae8a1dd9ebb3d9f51af9cba1bfbc2d2c0ed41b5acacd25e19ae7b757e.jpg> 韓国 尹前大統領の拘束令状を請求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0237318f12066e994eba1570d1ea6984a3398e33f0a38be4b78deea347cab599.jpg> 梅雨前線が再び消滅へ 猛暑戻るか
+      <a href=https://news.yahoo.co.jp/pickup/6543355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d6649592edd877217beea02f17657439235e608bf9c0f3d4fb7021c151a8028d.jpg> 停戦仲介したカタール 役回り注目
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/baf56e592315c24cada7a68ec9740859aeb138fde5e9336c777dc5861d9b430a.jpg> 国分巡り総務相 日テレの考え聞く
+      <a href=https://news.yahoo.co.jp/pickup/6543353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a372abdaf7fcd1a9026c7e4c3b5c9df55bfa8bafc3c5144b1e100711f2635716.jpg> 駅員鮮やか過ぎる関節技 痴漢逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/8d7773bec482148431cde37eb388642c663308b1efa72635b3dfa060eeb7828e.jpg> ついに出た 坂本勇人が今季1号HR
+      <a href=https://news.yahoo.co.jp/pickup/6543356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/043ef3166ed5de81dbcfbf687aa05ad6ff88629c21e66503f958cbe1db492d74.jpg> フジ山本アナ 無の状態で賭け事を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3c9a9fab58228a731370eb046eb3c57e6b99686c65bbdee70a3741013d1ae02b.jpg> 若いシニア 子と同居より「近居」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 20:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 21:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
