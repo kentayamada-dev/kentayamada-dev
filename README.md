@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc3280f0f05200a77c2c49b893daee2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24f402b8359e5cb2d6e2b6036173c9aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79b8b44f4071a180f77b4449edfacb4bd012fbb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】25日の天気 - 水曜にかけて大雨続く　九州～東北の広範囲で大雨災害に警戒（24日19時更新）
+      <a href=https://news.yahoo.co.jp/articles/cb3329944704d2a32369bed3987c6d0cb52f53b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991901-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【警戒】関東・東海に迫る「台風2号」あすにかけ警報級大雨の恐れ　梅雨前線に湿った空気…各地で猛烈な雨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f1d1bd783cb75377e32da32e039850e972c52df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90019571-tsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 緊迫の中東情勢…攻撃の応酬「本当に許しがたい」日本被団協が危機感　戦争と核の根絶への願い（島根）
+      <a href=https://news.yahoo.co.jp/articles/a12b4ddd548f8b34a01b1cff361311c842f5b521>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 中国、停戦合意を評価も複雑　「同志」イラン弱体化で戦略練り直しも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8762691ffd002e792f9b708b4a92c20d02f21793>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000590-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/2445b9825bc472f2a59a284b060c1c0728cc8e17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000119-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=985&ch=985&exp=10800&fmt=webp> 立民、蓮舫氏を参院比例に擁立　知名度期待、慎重論も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b6fbd36591310965f906e4fe9381037f60ea5d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90021274-bbt-000-1-thumb.jpg?exp=10800&fmt=webp> 立憲民主・国民民主・連合富山が参院選勝利へ合意書取り交わし
+      <a href=https://news.yahoo.co.jp/articles/00f4249b80887150ff970f21516859bd1cc216e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000632-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f74958fae8a1dd9ebb3d9f51af9cba1bfbc2d2c0ed41b5acacd25e19ae7b757e.jpg> 韓国 尹前大統領の拘束令状を請求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543337>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0ae0873f998aa619ce74a9dd70df9c15472297daa4ac83908518614d9e6ea9f7.jpg> イラン 事実上の停戦受け入れ表明
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2ef7dd700b6a2d5a8f8a4d3beae93a80496a35169ca0eb5da5e4560a29f7070e.jpg> 違反と主張のイスラエル 攻撃指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bcbfbec18c01615241476abe0c9acdcbb57ba33274f50befd6b15d3b94b5eb17.jpg> 3連休中日に参院選 選管から愚痴
+      <a href=https://news.yahoo.co.jp/pickup/6543330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0237318f12066e994eba1570d1ea6984a3398e33f0a38be4b78deea347cab599.jpg> 梅雨前線が再び消滅へ 猛暑戻るか
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/21254b064b5f8d3db69126ecc6d97df6946d09d1df4d217c1066fefc34e7e81e.jpg> 賞味期限4カ月の牛乳 開発の狙い
+      <a href=https://news.yahoo.co.jp/pickup/6543339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f734c8bad1edfe11b5b827827ea24d306ef5af8c42133f996d514273fe7a73fa.jpg> 児童搬送 プールの水質に異常なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 19:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 20:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
