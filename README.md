@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99044fcd58127d8e24e63f0f6bece7ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5d7663dae5219ec4c77305923f84271.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6c00215df9a3857b89bcb1401f556ffca403681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-03681415-fbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】佐賀県で25日夜遅くにかけて土砂災害に注意・警戒　局地的に激しい雨の恐れ
+      <a href=https://news.yahoo.co.jp/articles/845bf12023451772fad0672d4851dd5c41c5393e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244946-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルとイランが停戦入り　双方が「歴史的な勝利」と強調　トランプ大統領が発表した合意で戦闘終結なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25615a63122a01f72bb15e70210a760a80f8ac7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992127-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が「彼らは停戦を破った」と非難　イスラエルとイランの緊張続く　イスラエルは「さらなる攻撃控える」と発表
+      <a href=https://news.yahoo.co.jp/articles/518caeb374ab2b316e4424860c965b2b1806c0e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「本当にコンビ愛の強いお２人」…「ロンドンブーツ１号２号」解散に「ＴＨＥ　ＴＩＭＥ，」で元テレ東アナが明かす「解散は残念」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf219f9d9593b9de98c53087c8aa32ea1b6e70c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36241521-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=1093&ch=1093&exp=10800&fmt=webp> 電撃解散のロンドンブーツ１号２号、今後も２人で番組出演し２人で仕事に呼ばれれば２人で稼働へ
+      <a href=https://news.yahoo.co.jp/articles/d24fa3dd34ed4d1aeccb181f60f8b64b95ae8369>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-68989523-business-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「我々は既に勝利」フジ株主総会直前、株主提案のダルトン投資責任者を直撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/931313fe882c546f535e673793f79e3c4343bf6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000352-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=817&ch=817&exp=10800&fmt=webp> 古谷徹、ガンダム新作＜ジークアクス＞出演で話題「声が聴けてよかった」　池田秀一・潘恵子と初代キャスト集結
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/38bd855118e0c71c33ef8e60a09200ebc4c122deaa7e44d3b47d3d31f03045e7.jpg> ダウンタウン配信 秋ごろ設立予定
+      <a href=https://news.yahoo.co.jp/pickup/6543380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3da82e0b64547646ce280be4efe3bdeb0aeba4ea8954ab168f238b27c91800da.jpg> ガンダム新作最終回 古谷徹が出演
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 07:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 07:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
