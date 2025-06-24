@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0bcb4549747badc97f61c8b86bc59f3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d1a4555b515d02fd2b4f7947752e2ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f3e22b206f0a79628ea017fcfa2563f1318448d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991663-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> きょうからiPhoneでマイナンバー機能の使用可能に　カード持ち歩かず「マイナポータル」ログイン、引っ越しのオンライン申請・コンビニでの住民票写し発行などできるように
+      <a href=https://news.yahoo.co.jp/articles/d7ef8af83391ab797e0459937868d6299820b6df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998946-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b2fb036fac919565d2f07166feaf4291eb59de0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ山本賢太アナをオンラインカジノ賭博容疑で書類送検　「違法ではないと考えていた」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/febfff0f0582bdb38bf91e29a5b6d2d93d2a6e57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185050-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 【緊急解説】なぜイラン・イスラエルは“停戦合意”へと傾いたのか？ アメリカによる核施設攻撃が“決め手”に？ 双方への攻撃が続く中、今後の動きは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58c55bc433c60c90a7297d8d857e34793b0a2dc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-04747725-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海の地震　計300回超える　夜中にも震度４が2回　気象台は注意を呼び掛ける
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185050-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 【緊急解説】なぜイラン・イスラエルは“停戦合意”へと傾いたのか？ アメリカによる核施設攻撃が“決め手”に？ 双方への攻撃が続く中、今後の動きは？
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d0170ca12c75806681efacce5d5922c3b754607d47b60effe513d86b771e03b1.jpg> ドーハ空港閉鎖 JAL機が引き返す
+      <a href=https://news.yahoo.co.jp/pickup/6543292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/805d4338de0468443a276a0fb7bd2cec9cc0a1b54d9cb40196420e5978f53210.jpg> ふるさと返礼品 ルールを明確化
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/56f804dad2514a8fd9e7c86df68affafa7f5918208e53fb744f4cb38d81ebb35.jpg> 元警官有罪 捜査先で3千万円窃盗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b0b3279f7e4b0f26c2a85f57ada61b5de7820a5cf3f3e4f3d237efc349870a9f.jpg> 逮捕のフジ社員 アナに賭博教える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543283>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a79f6d6b57eb25501aeea82a88d80c669566d072fec049358538b64f616e7e91.jpg> 名古屋の「死せる川」にアユ確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543282>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02261019/title-1750688933483.jpeg?exp=10800> めでたい人生イベント 心疲れる訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/c8497dfdd034a91c612cd0ddc7777e0cbe12dc79c4edaf627f3cd09c125c1e50.jpg> デコピン遊戯王カードに 大谷投稿
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 12:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 13:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
