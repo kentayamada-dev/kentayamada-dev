@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f59843d50e5b59859e69b964b9dec997.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/460648e690e5d0aaedc0284e73bc2e58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4edfb3c4106f588fda1c586185efbe8e5db7439>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00061697-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 都議選で自民大敗…第1党は都民ファーストに　国民民主は大躍進　静岡県の与野党に聞く参院選への影響
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acdb53a1fc1b4b705870327e58305ec16226cd55>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/413410e89499b3c1c72ae8b1c40e5d0650c1a990>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991709-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「百日咳」今年の累計感染者数3万人超え　過去最多…2024年の約8倍　乳児かかった場合は重症化し死亡するおそれ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991709-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「百日咳」今年の累計感染者数3万人超え　過去最多…2024年の約8倍　乳児かかった場合は重症化し死亡するおそれ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1424694eb9996d03beca6bb44f26cdeef066c406>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998055-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 与党「過半数」が勝敗ライン…参院選向け石破総理が明言　都議選で自民党大敗　公約の“2万円給付”に冷めた声「選挙前の一時しのぎと見透かされた」【news23】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/066abb5a066e1f4c47e7045c5c0255f7260de1c7d8bfe96692b5181788bf141f.jpg> 「停戦合意」トランプ政権の戦略
+      <a href=https://news.yahoo.co.jp/pickup/6543309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b0fef458498fda9837ef18640b2d43cfccb248a1e89c12861e9e9357ba3e1e11.jpg> イランイスラエル停戦「発効」米
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543295>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/898c95617c0967e61d54f4e72c9721a0a9c4815b2ffda7418961b6059f64d820.jpg> やばい死ぬ 突然刺された店員証言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d5dab64f0076c28c93039f11238cddef46f1631b22653e06b11b03790584e2c1.jpg> 業績悪化 日産社長が「おわび」
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543284>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02260833/title-1750677582149.jpeg?exp=10800> 大谷が二刀流復活 成功のカギは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543306>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f9c22ae088ac8a07537d6e4974a648e02155682293a4e7407cf3c3f5bd31dc13.jpg> TBS 国分太一の番組降板を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 15:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
