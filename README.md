@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0b1cb6c64f3b9eb4948d476b61dc598.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7a96f65141039f9436be896127ce912.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30e29669e493986189918f419e142c93e4491ac8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000792-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/464213bd00950e4c4bfcc43795f3739ad14b6828>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000113-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエルとイランの戦闘　25日午後にも終結見通し　予断許さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f50c7947de258230b5f89462d1372596bb0c37d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36241285-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1476&ch=1476&exp=10800&fmt=webp> 蓮舫氏「参院選」立憲民主党から比例で出馬「再び歩みを進める決意」Ｘで正式発表／投稿全文
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23aceac46d791358bf5ea6a77111b7822e7ecb69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000062-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フジテレビ再激震】オンラインカジノ賭博容疑で社員逮捕「先輩に誘われて」供述で指摘される“常習者”蔓延の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9370811264654fb8a1d7d50c2c7e03480b6544e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000766-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0073f98ce5e8a274c82917bf9cb8f1b009c3c3f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000149-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 蓮舫氏を参院選比例代表で公認の立民　野田佳彦代表に「側近重用」批判、党内抗争の火種か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72c1a562b44a58f01f376f8d52a5c8ff2257c508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050165-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イランのカタール米軍基地攻撃、体面保ち対立激化を回避か…軍事圧力には屈しない姿勢アピール
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000062-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フジテレビ再激震】オンラインカジノ賭博容疑で社員逮捕「先輩に誘われて」供述で指摘される“常習者”蔓延の可能性
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/413574bb7502fc75d481549fb6a447098c53317953c0f706b2c9b2ea8c859231.jpg> 蓮舫氏を参院選比例に擁立 立憲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543357>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/ce001a1a50ef43e81c2be0e088a8bf8be089aad5752b58caf383e0ec949c4bf8.jpg> NHK赤字 受信料収入最大の減額幅
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2b26264db1b43d782146784b1d431318f53e39b1076b1797d3fc23902842fb37.jpg> 結婚式場でノロ 27人が集団食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6543362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a4e45abde47bef0b21c294333c9419f3994cf021f388a0405c7f2c40e03f60b7.jpg> 店にワイン頼ませドタキャン 被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f40fd73d85376217c36864510598a3e8a37137ae124da82ac3d3b1c884d83524.jpg> サルがネコ襲ったか 専門家も驚き
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f40fd73d85376217c36864510598a3e8a37137ae124da82ac3d3b1c884d83524.jpg> サルがネコ襲ったか 専門家も驚き
+      <a href=https://news.yahoo.co.jp/pickup/6543358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/cbb33e000df12818b891e928ef78c17c4c34758a21573bed574c9235a2b39d82.jpg> 未来の「大人おむつ」万博で発信
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 21:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 22:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
