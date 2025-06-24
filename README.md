@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01b6e0d8f78a4f4befaf073a4bd05663.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b2a0ad41910d85458367ce8be08b161.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ac6fdc8128ae18ec07364381ca3bbeee9575713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000008-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=893&ch=893&exp=10800&fmt=webp> 「ご本人の口から…」日テレ“ゼロ回答”会見で国分太一に求めた説明責任「逃げられない謝罪会見」
+      <a href=https://news.yahoo.co.jp/articles/28aa0d4404882988b443f7a27570ae4ecb540537>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、戦争のやまない中東に「永遠」の平和が訪れたと主張　現実か幻想か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08f16aa7c5e747233e9e57e1d86b98fc8587e01f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000099-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/ba1bfd5e7f5a7e81cb272659a835d232eede9570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000244-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 石丸伸二氏　都議選で議席ゼロもブレず「当選を最優先していない」「そうではないものが上に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae429edb8c7a7ec116cb18e48e14da71cd70b333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90023726-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=807&ch=807&exp=10800&fmt=webp> 関東地方と伊豆諸島では「警報級の大雨」の可能性　25日夜遅くにかけて大気の状態が不安定　台風2号は25日未明までに熱帯低気圧に変わる見込み
+      <a href=https://news.yahoo.co.jp/articles/0207c92e95fca9dde067579eca06336040ce0604>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000162-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76db9e37aa8dc8d5f0bafda1ef8a2ffeed26ed49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244850-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「停戦が発効した」イスラエルとイランが停戦で合意　イラン国境の様子を中継
+      <a href=https://news.yahoo.co.jp/articles/a7a1b0ae925cda7d07097dbaa0202e11a05623fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010006-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西～北日本　26日（木）にかけて　大気非常に不安定　大雨災害に注意・警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c53cfe2806d1fc6c14a68cf4e4e8a2260d791ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000226-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 石丸伸二氏　議席ゼロの都議選受け「もったいない」と思ったワケ　「これだけの人が選挙に出たのに」
+      <a href=https://news.yahoo.co.jp/articles/1353a0f21cb2b6fac5c0d54ee27f159177953e44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185080-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 東京・渋谷区の“公道カート” 事業者に届け出を義務化
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島県で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b81946b9864278752b64b5df2d32805b46a1e1d2f473de4a879c4375e0059226.jpg> イランと停戦合意 イスラエル発表
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/114a16447cbc5c438b946dc87ef22f650f132e99fe684e8d8f63671fd88538a9.jpg> 教員断念の氷河期世代 積極採用へ
+      <a href=https://news.yahoo.co.jp/pickup/6543325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a67be584b5fda9f2f1ea900cfa65fda2844e1593839a66527376d1572f58dea0.jpg> 沖縄集団自決 父の決断で生きた子
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543311>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/ec696a3b00e5043208aa78ff9cc8b0886ad7607508982eb56bdc12a4990054d3.jpg> 不同意性交致傷 米兵に懲役7年
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/644cf30c628fe26a2d6d58a6de53fa2c38da9ff21f8379489dd501cb1d68628c.jpg> オンカジは「地獄」失った500万円
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543303>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02260701/title-1750686286342.jpeg?exp=10800> ウルフ転向成功への期待 識者見解
+      <a href=https://news.yahoo.co.jp/pickup/6543321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2a249de3629e47ef1c112555ff0980e0554759c642e4c80b54ec62cc4047384f.jpg> 国分太一の電撃発表 各局大わらわ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 17:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 17:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
