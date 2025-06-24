@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3133f13e3ae3ce06eaf0b96676e7921.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/656d7b612868a4b29f38a18f837fbd54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dee43a3a59668792ba5824845a3bc3be99080c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22000847-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/42dadaff0d6965c015fad7abb3d07f0bcb79adf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22000854-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f9293a24c67eeaa85d877909a1b6e63cd87ba7e2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07698864-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「停戦案」後に警報頻発…“激動の一日”今後は？【エルサレムから中継】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f50c7947de258230b5f89462d1372596bb0c37d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36241285-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1476&ch=1476&exp=10800&fmt=webp> 蓮舫氏「参院選」立憲民主党から比例で出馬「再び歩みを進める決意」Ｘで正式発表／投稿全文
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 01:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 01:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
