@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5d7663dae5219ec4c77305923f84271.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de49c5d52eecd6a1a4ef42abd9347fd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e69a8c179a8f7c70d441a49981a789f42b75952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10117444-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> ガンダム「ジークアクス」のガラス細工に見えるけど……　「おぉぉぉぉ」「凄いの一言」意外過ぎる正体に脳がバグる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c6d4684ca84b56bbf905340c177f67afeac1cab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000025-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> フジ・メディアきょう株主総会、ファンドが北尾氏らを取締役に提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/845bf12023451772fad0672d4851dd5c41c5393e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244946-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエルとイランが停戦入り　双方が「歴史的な勝利」と強調　トランプ大統領が発表した合意で戦闘終結なるか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244946-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランが停戦入り　双方が「歴史的な勝利」と強調　トランプ大統領が発表した合意で戦闘終結なるか
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/518caeb374ab2b316e4424860c965b2b1806c0e9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「本当にコンビ愛の強いお２人」…「ロンドンブーツ１号２号」解散に「ＴＨＥ　ＴＩＭＥ，」で元テレ東アナが明かす「解散は残念」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d24fa3dd34ed4d1aeccb181f60f8b64b95ae8369>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-68989523-business-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「我々は既に勝利」フジ株主総会直前、株主提案のダルトン投資責任者を直撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/931313fe882c546f535e673793f79e3c4343bf6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000352-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=817&ch=817&exp=10800&fmt=webp> 古谷徹、ガンダム新作＜ジークアクス＞出演で話題「声が聴けてよかった」　池田秀一・潘恵子と初代キャスト集結
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/5ece7ae0c2158a9fe2ad2cb53b04ec1026864b34d732caf6a983541511d883c4.jpg> フジHD株主総会 取締役案に注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/990e6dd636cf52bdcc438b0afce78406a8e033a2ff82fb28a6bc483e06c9b27c.jpg> 男子中学生 車にはねられ意識不明
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bc7a7d4242181c29a28d8b2abe6d6c3ce1b6b26d9cc16d1b8b4e4b793b80390b.jpg> 女児の盗撮を教員ら共有疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/30ef9b2b9135aac14512ff314921144d1fed5f06a4bf04a5e0436da5285fbb7a.jpg> 4歳が行方不明 母親は涙止まらず
+      <a href=https://news.yahoo.co.jp/pickup/6543383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b39c375f9ad7b03e02430a2af00fd4b0d1b40b94b7e8b542c26e630c053a900d.jpg> 南極で中国の観測施設が倒壊
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 07:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 08:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
