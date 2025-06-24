@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ac396b93a5489731df4b0f6958ddc14.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/663b1299e127a66e9c4a29676af9ea84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69c73f9eb5299ea628ee792e121b21a96e879bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000085-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【台風情報】台風2号（セーパット）は24日（火）夜には熱帯低気圧に 25日（水）は熱帯低気圧が離れていても“風の流れ”で関東に雨雲もたらし大雨のおそれ 雨と風シミュレーション
+      <a href=https://news.yahoo.co.jp/articles/f0ca1af90145bd6353e2a149b71f453551046e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 前線影響で大気不安定、大雨警戒　台風2号は熱帯低気圧へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c8b3c2b1c2f7c33583ba611ce25a2f6829fcb1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000400-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/4eeee2524b45d992a7f6ca163e1207038f59bf07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90020291-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン・イスラエル停戦合意の裏側　元AERA編集長「トランプ外交の危うさ“何でもあり”の国際秩序」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/945a99f90476fc67db2ad1d19c63f19f5bce30e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000083-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=574&cy=0&cw=1053&ch=1053&exp=10800&fmt=webp> イラン、イスラエルに対し「勝利」宣言　事実上の停戦受け入れ表明
+      <a href=https://news.yahoo.co.jp/articles/0dce39b934190f5a2bc8f601d197f40ce47aa2fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-15441967-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 水質検査結果「異常なし」北九州市立小学校のプールで２５人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/588c27e018192cd6c7d6bde5a495e9678db8f05b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000065-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 観光客に人気の公道カート、渋谷区が規制を強化へ　住民から苦情も
+      <a href=https://news.yahoo.co.jp/articles/cd395636a68455a9c80d3ee05a1143bcfb05e755>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000441-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2ef7dd700b6a2d5a8f8a4d3beae93a80496a35169ca0eb5da5e4560a29f7070e.jpg> 違反と主張のイスラエル 攻撃指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543331>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bcbfbec18c01615241476abe0c9acdcbb57ba33274f50befd6b15d3b94b5eb17.jpg> 3連休中日に参院選 選管から愚痴
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a67be584b5fda9f2f1ea900cfa65fda2844e1593839a66527376d1572f58dea0.jpg> 沖縄集団自決 父の決断で生きた子
+      <a href=https://news.yahoo.co.jp/pickup/6543328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bc395faf342f634d0202aa42a85f99a2454113a47cf6bb1336fa0b019d54c729.jpg> 役員報酬高すぎる 日産の株主怒号
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543314>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ariyoshiritsu/02259168/title-1750584925603.jpeg?exp=10800> 家に潜む「不快な小さな虫」対策
+      <a href=https://news.yahoo.co.jp/pickup/6543326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f634112ae24dace7ed58af822fdc632b44b3817ed9049d8d6d08f5bfbfe255b1.jpg> 高校野球に影響か ケーブル盗拡大
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543320>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f1a53ae752dd85786737409fce7622ce644782a06ef0edd9604b3b476eaf042a.jpg> 顔面覆う「フェイスカバー」注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/c8ab6ef7f6993aaa34e7afab7f6a7fb2a997cf916add32b562c42fe9dd237126.jpg> 蛇口ひねるとカルピス 実証実験へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 18:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 18:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
