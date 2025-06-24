@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cc49e35ca2a18371ab9de7e16f23b07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00601eda5211c759cba7757e33e16d1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f892cd6cf916263e442f23a983988c1b2fa92452>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998478-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/41b9b9154b3e3ded69dc1aa60f0d2bc2ef48d0a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991605-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】イスラエル・イラン「停戦合意」発表の背景　トランプ政権の双方の“メンツ”保たせた戦略とは?林長官が合意うけ「歓迎する」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24b956afac2fc9966aea76ff7cdaca47139cd110>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050060-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＪＲ総武線踏切で列車とトラック衝突、トラック運転の４０歳代男性をドクターヘリで搬送
+      <a href=https://news.yahoo.co.jp/articles/58c55bc433c60c90a7297d8d857e34793b0a2dc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-04747725-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海の地震　計300回超える　夜中にも震度４が2回　気象台は注意を呼び掛ける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a111992aafe41745a7ac2c1d714452eeb40f5772>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010001-proresut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 棚橋弘至引退試合、ウルフ アロンデビューの1月4日東京ドーム大会22年ぶり全国ネット放送が決定！「フルハウスにしたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/640e30af1e93db69db8b77515eeb3e01cd8554bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050063-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=369&ch=369&exp=10800&fmt=webp> 首都高６人死傷事故の運転手勤務先、安全運転管理者を置かずに営業か…会社と社長を書類送検
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1892c0780aee9ad290d4367a56a9b98fc1a6d160>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06819136-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 都議選で「大敗」なぜ……自民、小泉大臣の“電話作戦”も追い風ならず　都民ファーストへの浮気も【#みんなのギモン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5988f5cf0808ba4826385c9772e9aca659fb42bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000011-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=478&ch=478&exp=10800&fmt=webp> 安住紳一郎アナ、ウルフ アロン語り「プロレス、ぴったりじゃないかなと」 念願のCMにも出演「さらに夢をかなえて」とエール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c79e90d3e5a96d96dc12d9a2216a4a46c1af5d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-35234639-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イランが米提案の停戦に合意、カタール仲介　外交筋
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/15ff611a6ef2f74a3cc95950b8d9eeee9769afdf56fe7cb286f383f659d1ca54.jpg> NATO首脳会議 米大統領出席表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543274>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d0170ca12c75806681efacce5d5922c3b754607d47b60effe513d86b771e03b1.jpg> ドーハ空港閉鎖 JAL機が引き返す
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/319fa34043dfdc3cbb4b00c35decc3f5c37e0d43ee306bc6016a24e9207e8286.jpg> 維新 飲食費上限1万円とする方針
+      <a href=https://news.yahoo.co.jp/pickup/6543281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3b8863597011f269d80cd747ffc9df78b55f2889acc035b14345894ba9c19623.jpg> 新生児がやけど 看護師を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b32adde33069def0b2f4b4016d2e34c703bbec091163aa477d7885a8f219bf59.jpg> フジ山本アナを書類送検 賭博疑い
+      <a href=https://news.yahoo.co.jp/pickup/6543283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a79f6d6b57eb25501aeea82a88d80c669566d072fec049358538b64f616e7e91.jpg> 名古屋の「死せる川」にアユ確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543282>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/funakiayano/02261019/title-1750688933483.jpeg?exp=10800> めでたい人生イベント 心疲れる訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 11:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 12:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
