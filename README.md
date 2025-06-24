@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9d520bf54862ae036c63e7746235d0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2af1737ae880a0e31a1364f97c92432a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0644e51bfad384cefff79f5de301a6cf7fb6d52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000334-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ロンドンブーツ1号2号」電撃解散のワケ　亮の闇営業問題経て、今年3月に話し合い　「解散した方が…」
+      <a href=https://news.yahoo.co.jp/articles/c38cea266a256e358a41e87199a2a019f5baf066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000346-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 田村亮、Xでロンブー解散報告「新しいチャレンジをする前向きな解散」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4066bb409bcb7b8bb52d708addc2fe87e23ee9b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000816-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/8bdcc4c539f2abba1655a3c431ef30782aab32ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22000841-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/464213bd00950e4c4bfcc43795f3739ad14b6828>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000113-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエルとイランの戦闘　25日午後にも終結見通し　予断許さず
+      <a href=https://news.yahoo.co.jp/articles/f9293a24c67eeaa85d877909a1b6e63cd87ba7e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07698864-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「停戦案」後に警報頻発…“激動の一日”今後は？【エルサレムから中継】
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/cdd017e4c28df29da7655aca2389eecd7607323d6d417e6689b39d54d556bb40.jpg> イスラエルがイランを攻撃 停戦後
+      <a href=https://news.yahoo.co.jp/pickup/6543372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/35221091558a554fd033a15129decb619fb5679054083cd7357a9f0b31822990.jpg> 停戦「激動の1日」余談許さぬ状況
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d0a1d81916e6fc513c4d3c3659163a13d22e8b04001c906813ffe1843f21460a.jpg> NATO日本事務所 開設事実上断念
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543366>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/30ef9b2b9135aac14512ff314921144d1fed5f06a4bf04a5e0436da5285fbb7a.jpg> 4歳が行方不明 母親は涙止まらず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a4e45abde47bef0b21c294333c9419f3994cf021f388a0405c7f2c40e03f60b7.jpg> 店にワイン頼ませドタキャン 被害
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 23:51:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 00:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
