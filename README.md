@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fff01e96a74a7cf6a836bf0c4cecd8f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f899b0d4a7021e9ede6d9aaee7efc700.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38fb7e1a9a734fc97d61f7d1f2ee8f689727a742>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22000907-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed6dff11752ddbbc64fed67295b0a8e426278abf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07188959-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン“停戦合意”の実効性は　戦闘停止を継続できるかが焦点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07188959-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン“停戦合意”の実効性は　戦闘停止を継続できるかが焦点
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/35221091558a554fd033a15129decb619fb5679054083cd7357a9f0b31822990.jpg> 停戦「激動の1日」余談許さぬ状況
+      <a href=https://news.yahoo.co.jp/pickup/6543374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d5cf3cddeeb9db0d729802be39f0823dfabdb7045310074932603596b4236730.jpg> 停戦合意 「歴史的勝利」双方主張
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/990e6dd636cf52bdcc438b0afce78406a8e033a2ff82fb28a6bc483e06c9b27c.jpg> 男子中学生 車にはねられ意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543370>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bc7a7d4242181c29a28d8b2abe6d6c3ce1b6b26d9cc16d1b8b4e4b793b80390b.jpg> 女児の盗撮を教員ら共有疑い 逮捕
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b89b9a532f6d2388d3392d4449cabbf9d3b68694433bd5fdb5332faf6a6521f8.jpg> 「うなぎ」お得 うな丼980円も
+      <a href=https://news.yahoo.co.jp/pickup/6543360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/e02b9617494316436310183243169bc714a1a7bee4c6387c42ea7d7cad2fa2cf.jpg> GQuuuuuuX最終回 SNSの反応
       </a>
     </td>
   </tr>
@@ -440,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/63f71494e31584b75fc68c3f6440c3fa84b5e97529d40583c43467686a4b33c6.jpg> 中丸雄一 サプライズ地上波復帰
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 06:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 06:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
