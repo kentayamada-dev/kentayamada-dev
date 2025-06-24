@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6c9e07484c1e7db58c5af41f59a7807.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d21864e3a405eb8233fe9a70953d0dd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6152321c2d0131cd3df394fdae32e4ba259e5786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000806-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/1772d577cf0d18efc4adbedf53f2b01c9e6b0db4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90030721-nbnv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 名古屋の小学校教員らが逮捕　女子児童の下着を盗撮しSNSのグループに共有か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/331c410cefd8132aed33eda0b572322a76e21576>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000135-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=723&ch=723&exp=10800&fmt=webp> 中丸雄一「ぬるっと」地上波復帰ｗ桜井翔「ＫＡＴ－ＴＵＮ専門家」イジりでＸトレンド入り「号泣」「出てる！」
+      <a href=https://news.yahoo.co.jp/articles/4066bb409bcb7b8bb52d708addc2fe87e23ee9b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000816-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f40fd73d85376217c36864510598a3e8a37137ae124da82ac3d3b1c884d83524.jpg> サルがネコ襲ったか 専門家も驚き
+      <a href=https://news.yahoo.co.jp/pickup/6543359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/de9331af607d4c1d4f9a598c34a01c98fecc1f913593f04f5176e96e25697068.jpg> 悲惨な情報ばかり追う現象 対策は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/043ef3166ed5de81dbcfbf687aa05ad6ff88629c21e66503f958cbe1db492d74.jpg> フジ山本アナ 無の状態で賭け事を
+      <a href=https://news.yahoo.co.jp/pickup/6543369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b89b9a532f6d2388d3392d4449cabbf9d3b68694433bd5fdb5332faf6a6521f8.jpg> 「うなぎ」お得 うな丼980円も
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 22:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 23:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
