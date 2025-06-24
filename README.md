@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b23a1db3a4342cca9c6f95601ddcb8ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc8e3ae9be2bbfc7192a8aed6d71878a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1762e4fe645e57ab2a5baa27df047dc49e89231d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000055-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=406&ch=406&exp=10800&fmt=webp> 立憲、蓮舫氏を参院選比例に擁立　党内に不満、野田執行部の火だねに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a59ee00c55760ebd1db21d44da8a0c1543a6808d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991778-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランの停戦合意をトランプ大統領が発表後も双方の攻撃続く　イランのミサイル攻撃で4人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46cb985f5b0a8504390b0a820df79e1f4a58a133>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21999909-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3f8ae60b58191245b064ad7fa7969b6c4aa7160>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000077-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「生命の危機が生じかねない危険な犯行」　性的暴行で無罪主張の沖縄米兵に懲役7年判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f3d7e8bd51bb39607f13b63ba2fe4f1ed61825c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00138044-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 結局は一人負け…「茶番劇」で終わった報復攻撃、再び毒入り“聖杯”をすすったイラン、トランプを引き入れたネタニヤフ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4edfb3c4106f588fda1c586185efbe8e5db7439>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00061697-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 都議選で自民大敗…第1党は都民ファーストに　国民民主は大躍進　静岡県の与野党に聞く参院選への影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4e8dfff05f727223c502f399b8123b392e2f7c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21999242-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b0fef458498fda9837ef18640b2d43cfccb248a1e89c12861e9e9357ba3e1e11.jpg> イランイスラエル停戦「発効」米
+      <a href=https://news.yahoo.co.jp/pickup/6543315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b81946b9864278752b64b5df2d32805b46a1e1d2f473de4a879c4375e0059226.jpg> イランと停戦合意 イスラエル発表
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/06437bd3df8393310bf38cd80d6e6bea3ca0b60e0e63bbd2d1bb3fd247c213e2.jpg> 百日ぜき患者3万人超 昨年の8倍弱
+      <a href=https://news.yahoo.co.jp/pickup/6543310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2062331e1f7b0b7b8cff9511e13d69df0d4ff52efac4ea2c57a424c659698203.jpg> 西成の住宅で女性死亡 殺人事件か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2062331e1f7b0b7b8cff9511e13d69df0d4ff52efac4ea2c57a424c659698203.jpg> 西成の住宅で女性死亡 殺人事件か
+      <a href=https://news.yahoo.co.jp/pickup/6543311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/ec696a3b00e5043208aa78ff9cc8b0886ad7607508982eb56bdc12a4990054d3.jpg> 不同意性交致傷 米兵に懲役7年
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d5dab64f0076c28c93039f11238cddef46f1631b22653e06b11b03790584e2c1.jpg> 業績悪化 日産社長が「おわび」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/4a5fdb63e5d521283e574a7d059c756dac0019d67258fbaf0f95ff156177f515.jpg> 首から下が動かず 少年に転機
+      <a href=https://news.yahoo.co.jp/pickup/6543313>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> みなとみらい近く クラゲ大量発生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 16:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 16:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
