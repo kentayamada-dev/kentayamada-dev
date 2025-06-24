@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de49c5d52eecd6a1a4ef42abd9347fd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11b399ca43cbbfa3d4cf64273b661a22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ec09cf6e3514f0e2ad3a6e5b249b514e0bb4d49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816324-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ親会社FMH、午前10時から株主総会…社員のオンカジ事件も加わり大荒れか【中居氏問題からの経過まとめ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6f1eca1ffb4f349f945bcb73973087e7ce3840d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816321-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロンブーが深夜に解散生発表…闇営業問題から6年、淳が亮に吉本復帰を促すも叶わず「屋号を一回降ろして」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e69a8c179a8f7c70d441a49981a789f42b75952>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10117444-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> ガンダム「ジークアクス」のガラス細工に見えるけど……　「おぉぉぉぉ」「凄いの一言」意外過ぎる正体に脳がバグる
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c6d4684ca84b56bbf905340c177f67afeac1cab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000025-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1534&ch=1534&exp=10800&fmt=webp> フジ・メディアきょう株主総会、ファンドが北尾氏らを取締役に提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/845bf12023451772fad0672d4851dd5c41c5393e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244946-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランが停戦入り　双方が「歴史的な勝利」と強調　トランプ大統領が発表した合意で戦闘終結なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/518caeb374ab2b316e4424860c965b2b1806c0e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「本当にコンビ愛の強いお２人」…「ロンドンブーツ１号２号」解散に「ＴＨＥ　ＴＩＭＥ，」で元テレ東アナが明かす「解散は残念」
+      <a href=https://news.yahoo.co.jp/articles/129d236df34e8f21d5d53ff3dcab8580f3629092>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ＣＮＮ・ＮＹＴ　「米軍、核施設『破壊は制限的』評価」…トランプ氏「フェイクニュース」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d5cf3cddeeb9db0d729802be39f0823dfabdb7045310074932603596b4236730.jpg> 停戦合意 「歴史的勝利」双方主張
+      <a href=https://news.yahoo.co.jp/pickup/6543382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/5ece7ae0c2158a9fe2ad2cb53b04ec1026864b34d732caf6a983541511d883c4.jpg> フジHD株主総会 取締役案に注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/5ece7ae0c2158a9fe2ad2cb53b04ec1026864b34d732caf6a983541511d883c4.jpg> フジHD株主総会 取締役案に注目
+      <a href=https://news.yahoo.co.jp/pickup/6543387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/743530cf49f01e4bf50e5771f52399df5695285663bde22c9e48a22d6911f52c.jpg> イラン核施設を破壊できず 米報道
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3da82e0b64547646ce280be4efe3bdeb0aeba4ea8954ab168f238b27c91800da.jpg> ガンダム新作最終回 古谷徹が出演
+      <a href=https://news.yahoo.co.jp/pickup/6543388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d3a86d520ecd206d5f63b138fdb5c5309646d24051d8325975ab5b80082d73c9.jpg> ロンブー解散 「ロンハー」は継続
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/6420ce4edfc9cfbfef9d02796da17da3ed12a2607f23975511e9b116997da15f.jpg> ロンドンブーツ1号2号が電撃解散
+      <a href=https://news.yahoo.co.jp/pickup/6543380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3da82e0b64547646ce280be4efe3bdeb0aeba4ea8954ab168f238b27c91800da.jpg> ガンダム新作最終回 古谷徹が出演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 08:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 08:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
