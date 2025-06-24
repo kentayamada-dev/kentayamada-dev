@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/663b1299e127a66e9c4a29676af9ea84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bedd4e9153257f7b1a0d8d8916d77a54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0ca1af90145bd6353e2a149b71f453551046e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 前線影響で大気不安定、大雨警戒　台風2号は熱帯低気圧へ
+      <a href=https://news.yahoo.co.jp/articles/e2ada26186525f4cc0acad46bd9ed94acc8b0333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991932-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン・イスラエル停戦合意の裏側　元AERA編集長「トランプ外交の危うさ“何でもあり”の国際秩序」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eeee2524b45d992a7f6ca163e1207038f59bf07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90020291-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン・イスラエル停戦合意の裏側　元AERA編集長「トランプ外交の危うさ“何でもあり”の国際秩序」
+      <a href=https://news.yahoo.co.jp/articles/017171e1556d71f186b2c66bf2121daf515ea7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000007-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 25日は梅雨空つづくも気温UP&#8230;ひろく「真夏日」に【気象予報士が解説｜新潟】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dce39b934190f5a2bc8f601d197f40ce47aa2fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-15441967-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 水質検査結果「異常なし」北九州市立小学校のプールで２５人搬送
+      <a href=https://news.yahoo.co.jp/articles/77ae4d821b363ffc26298a8a7fd45dd95185a3ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000549-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd395636a68455a9c80d3ee05a1143bcfb05e755>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000441-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/91f7a66bc26b9827d2b4d7413da87cfe19e0aea6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000019-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 札幌の結婚式場でノロウイルス集団食中毒　未就学児から50代まで27人が発症　別の団体客も同様の症状
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0ae0873f998aa619ce74a9dd70df9c15472297daa4ac83908518614d9e6ea9f7.jpg> イラン 事実上の停戦受け入れ表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543334>
@@ -426,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/644cf30c628fe26a2d6d58a6de53fa2c38da9ff21f8379489dd501cb1d68628c.jpg> オンカジは「地獄」失った500万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543323>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 牛乳の味が変 児童ら体調不良訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f634112ae24dace7ed58af822fdc632b44b3817ed9049d8d6d08f5bfbfe255b1.jpg> 高校野球に影響か ケーブル盗拡大
+      <a href=https://news.yahoo.co.jp/pickup/6543327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2815a74b880814cd1aa2edd59fd983c3ef61e935cc86cb63661d011820622c44.jpg> 公道カート届け出義務化へ 渋谷区
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543320>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f1a53ae752dd85786737409fce7622ce644782a06ef0edd9604b3b476eaf042a.jpg> 顔面覆う「フェイスカバー」注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b5c5edc7dd037dd69e48234a8c1a62f5a9ec904a580468a777581d04827b72bf.jpg> 舞台東リベ 火災で衣装など全焼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 18:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 19:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
