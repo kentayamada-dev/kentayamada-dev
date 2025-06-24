@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d21864e3a405eb8233fe9a70953d0dd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f8c6ba7de863dcdedb69a7b531f7d83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1772d577cf0d18efc4adbedf53f2b01c9e6b0db4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90030721-nbnv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 名古屋の小学校教員らが逮捕　女子児童の下着を盗撮しSNSのグループに共有か
+      <a href=https://news.yahoo.co.jp/articles/98ef542cd62f2c8b7b6316d361ca01a445bab963>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000117-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 盗撮した女児の下着姿などをSNSで共有　盗撮容疑で教員2人逮捕
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/ce001a1a50ef43e81c2be0e088a8bf8be089aad5752b58caf383e0ec949c4bf8.jpg> NHK赤字 受信料収入最大の減額幅
+      <a href=https://news.yahoo.co.jp/pickup/6543367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/43e75dddf77f0108a3d98042a1a6a1442f8f9157322a9c6eea7e9937495014eb.jpg> SBI新生銀 7月に公的資金完済へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/bc7a7d4242181c29a28d8b2abe6d6c3ce1b6b26d9cc16d1b8b4e4b793b80390b.jpg> 女児の盗撮を教員ら共有疑い 逮捕
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/de9331af607d4c1d4f9a598c34a01c98fecc1f913593f04f5176e96e25697068.jpg> 悲惨な情報ばかり追う現象 対策は
+      <a href=https://news.yahoo.co.jp/pickup/6543369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b89b9a532f6d2388d3392d4449cabbf9d3b68694433bd5fdb5332faf6a6521f8.jpg> 「うなぎ」お得 うな丼980円も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b89b9a532f6d2388d3392d4449cabbf9d3b68694433bd5fdb5332faf6a6521f8.jpg> 「うなぎ」お得 うな丼980円も
+      <a href=https://news.yahoo.co.jp/pickup/6543368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2b1e72ed9d566be402719c95f9fd773bf85daf94e5d6a20f8473fd06ecd6e956.jpg> 佐藤輝明 交流戦ホームラン王確定
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2a249de3629e47ef1c112555ff0980e0554759c642e4c80b54ec62cc4047384f.jpg> 国分太一の電撃発表 各局大わらわ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 23:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 23:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
