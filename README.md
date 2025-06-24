@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8b8298e074fc54bd3d7a53c6cb8e165.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f59843d50e5b59859e69b964b9dec997.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acdb53a1fc1b4b705870327e58305ec16226cd55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010006-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏の停戦発表後、イランのミサイルがイスラエル南部に着弾　3人死亡
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d4e8dfff05f727223c502f399b8123b392e2f7c9>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92a2c1d07d4320f20b61141842732677fd1e2522>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240421-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1244&ch=1244&exp=10800&fmt=webp> 【新日本】タイチはウルフ・アロン会見の日取りに疑問「今日は俺たちが話題の主役じゃないのか」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c421ba60d0cb6f3a4edd55a33540b2a6d27a71d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン外相、イスラエルが攻撃停止すれば報復なしと示唆 合意の存在は否定
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8735a6e67f6d01dd6e8cafe4c7cb895ae93f74b824ea28748803dd790093f9c5.jpg> 企業の奨学金代理返還 全国で拡大
+      <a href=https://news.yahoo.co.jp/pickup/6543308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/06437bd3df8393310bf38cd80d6e6bea3ca0b60e0e63bbd2d1bb3fd247c213e2.jpg> 百日ぜき患者3万人超 昨年の8倍弱
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/7c96e4a021848aaf56d72e18a989698f5ae68582492714cc51ce899dcc60c67d.jpg> オンカジ巡り 西武球団社長が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543284>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02260833/title-1750677582149.jpeg?exp=10800> 大谷が二刀流復活 成功のカギは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/1bb90381cbb8975e554e3588b5bf7a288493676b970bbd962d11127a9c62a318.jpg> モデル・安座間美優 第1子出産
+      <a href=https://news.yahoo.co.jp/pickup/6543306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f9c22ae088ac8a07537d6e4974a648e02155682293a4e7407cf3c3f5bd31dc13.jpg> TBS 国分太一の番組降板を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 14:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 15:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
