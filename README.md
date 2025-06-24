@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4105143a7f0d8c0519057df3cf0a43f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72266d1083d84e055088063d4d2c75d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4724dde26ee666dc217dd346ebfb305e27a981a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240164-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=263&ch=263&exp=10800&fmt=webp> 小泉進次郎電話作戦の効果なし「自民に厳しい結果」　都議選大敗を岩田明子氏解説
+      <a href=https://news.yahoo.co.jp/articles/f7540588264d46d9ebbe3804d52cb562c5222681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185019-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 中東情勢の悪化を受け 日本航空、羽田〜ドーハ直行便の運航を当面見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da4213b42bb866ae001fcc0f8cfcbc0210d39b80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991543-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 山本賢太アナウンサー（27）オンラインカジノでバカラ賭博をした疑いで書類送検　フジテレビ「厳正に対処」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e08d3770bf22da5b37673ac49e32aa0236647ba2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000019-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イラン高官 イスラエルとの停戦合意を明らかに　ロイター通信が報じる
+      <a href=https://news.yahoo.co.jp/articles/842e5ed16bca223b94f2320e2316723e668f001f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244743-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、イスラエルとイランが停戦で合意したと発表　仲介役をカタールが務めたと報道
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93e909bf339d6245169288b4cc377e680395357e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779619-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流で見せた光と影…専門家が見抜いた2つの懸念材料「らしくない」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b1eed561c1b8442d7652b580a868a968f4b288fb2963c0979252b94472b49881.jpg> 東・西日本 土砂災害に厳重警戒
+      <a href=https://news.yahoo.co.jp/pickup/6543273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/15ff611a6ef2f74a3cc95950b8d9eeee9769afdf56fe7cb286f383f659d1ca54.jpg> NATO首脳会議 米大統領出席表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/49b451d87b149f96954147ba8500408e8943d546270a186a7bd030040625d33e.jpg> ロシア原発 日本海沿岸を候補地に
+      <a href=https://news.yahoo.co.jp/pickup/6543274>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ドーハ空港閉鎖 JAL機が引き返す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b1eed561c1b8442d7652b580a868a968f4b288fb2963c0979252b94472b49881.jpg> 東・西日本 土砂災害に厳重警戒
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3677af2904df1c77ac7de22de45b03fdfbaac338aaa1cc7fe96dc1b008452037.jpg> あえて脱石丸 再生の道候補の戦略
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/14e582ad7cf55df0ce7e88ebd7b6fe98020b3929361db3aa122f52fb529bc420.jpg> 伊達公子さん 51歳で再婚した思い
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 09:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 10:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
