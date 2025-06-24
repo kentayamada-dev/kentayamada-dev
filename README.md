@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bedd4e9153257f7b1a0d8d8916d77a54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc3280f0f05200a77c2c49b893daee2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2ada26186525f4cc0acad46bd9ed94acc8b0333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991932-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イラン・イスラエル停戦合意の裏側　元AERA編集長「トランプ外交の危うさ“何でもあり”の国際秩序」
+      <a href=https://news.yahoo.co.jp/articles/79b8b44f4071a180f77b4449edfacb4bd012fbb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】25日の天気 - 水曜にかけて大雨続く　九州～東北の広範囲で大雨災害に警戒（24日19時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/017171e1556d71f186b2c66bf2121daf515ea7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000007-niigatatvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 25日は梅雨空つづくも気温UP&#8230;ひろく「真夏日」に【気象予報士が解説｜新潟】
+      <a href=https://news.yahoo.co.jp/articles/2f1d1bd783cb75377e32da32e039850e972c52df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90019571-tsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 緊迫の中東情勢…攻撃の応酬「本当に許しがたい」日本被団協が危機感　戦争と核の根絶への願い（島根）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77ae4d821b363ffc26298a8a7fd45dd95185a3ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000549-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/8762691ffd002e792f9b708b4a92c20d02f21793>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-22000590-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8b6fbd36591310965f906e4fe9381037f60ea5d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-90021274-bbt-000-1-thumb.jpg?exp=10800&fmt=webp> 立憲民主・国民民主・連合富山が参院選勝利へ合意書取り交わし
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91f7a66bc26b9827d2b4d7413da87cfe19e0aea6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000019-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> 札幌の結婚式場でノロウイルス集団食中毒　未就学児から50代まで27人が発症　別の団体客も同様の症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba1bfd5e7f5a7e81cb272659a835d232eede9570>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000244-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=337&ch=337&exp=10800&fmt=webp> 石丸伸二氏　都議選で議席ゼロもブレず「当選を最優先していない」「そうではないものが上に」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2815a74b880814cd1aa2edd59fd983c3ef61e935cc86cb63661d011820622c44.jpg> 公道カート届け出義務化へ 渋谷区
+      <a href=https://news.yahoo.co.jp/pickup/6543345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/2b26264db1b43d782146784b1d431318f53e39b1076b1797d3fc23902842fb37.jpg> 結婚式場でノロ 27人が集団食中毒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/f1a53ae752dd85786737409fce7622ce644782a06ef0edd9604b3b476eaf042a.jpg> 顔面覆う「フェイスカバー」注目
+      <a href=https://news.yahoo.co.jp/pickup/6543342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/21254b064b5f8d3db69126ecc6d97df6946d09d1df4d217c1066fefc34e7e81e.jpg> 賞味期限4カ月の牛乳 開発の狙い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 19:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 19:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
