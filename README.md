@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Gvz6pUvALrk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72266d1083d84e055088063d4d2c75d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd6b1c949a9235c501f399d2b36ef35e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7540588264d46d9ebbe3804d52cb562c5222681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185019-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 中東情勢の悪化を受け 日本航空、羽田〜ドーハ直行便の運航を当面見合わせ
+      <a href=https://news.yahoo.co.jp/articles/98bd339e7eaf098268468b844be629173a3cc903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> JR総武本線の踏切で電車とトラックの衝突事故　千葉県山武市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/842e5ed16bca223b94f2320e2316723e668f001f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-07244743-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、イスラエルとイランが停戦で合意したと発表　仲介役をカタールが務めたと報道
+      <a href=https://news.yahoo.co.jp/articles/57474f593d0e817371ab503db7696dceb11796bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000027-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イラン当局者「イスラエルとの停戦に合意」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3316c4ce9157829463946002e0edfed9a04c1395>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01780066-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、125年で2人目の快記録　最後に達成されたのは73年前…米記者が凄み強調
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa6cc81fb1fcb0accfb060ed7d622a48efd3620d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000039-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1885&ch=1885&exp=10800&fmt=webp> プロレス電撃転向のウルフ・アロン、決め手は「好きだから」総合格闘技は全く考えず「そこまで好きじゃない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93e909bf339d6245169288b4cc377e680395357e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779619-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流で見せた光と影…専門家が見抜いた2つの懸念材料「らしくない」
       </a>
     </td>
   </tr>
@@ -419,15 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543274>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ドーハ空港閉鎖 JAL機が引き返す
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d0170ca12c75806681efacce5d5922c3b754607d47b60effe513d86b771e03b1.jpg> ドーハ空港閉鎖 JAL機が引き返す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b1eed561c1b8442d7652b580a868a968f4b288fb2963c0979252b94472b49881.jpg> 東・西日本 土砂災害に厳重警戒
+      <a href=https://news.yahoo.co.jp/pickup/6543276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/dd29dbce7813ff3ba73d6a1db946eb8ed3e7bb8af6bb4f60a9d5c06b80f5e6d2.jpg> 電車と衝突 トラック運転手を搬送
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/14e582ad7cf55df0ce7e88ebd7b6fe98020b3929361db3aa122f52fb529bc420.jpg> 伊達公子さん 51歳で再婚した思い
+      <a href=https://news.yahoo.co.jp/pickup/6543275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/c8497dfdd034a91c612cd0ddc7777e0cbe12dc79c4edaf627f3cd09c125c1e50.jpg> デコピン遊戯王カードに 大谷投稿
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 10:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 10:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
