@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea050f73c7371aa5cbef6bb904d1f0d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4105143a7f0d8c0519057df3cf0a43f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e6822f313c907491870c60e3f4fa646c7a0eb3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240111-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> トランプ氏「停戦合意」主張に「ホント？」「信じよう」イラン・イスラエル交戦めぐりトレンドに
+      <a href=https://news.yahoo.co.jp/articles/4724dde26ee666dc217dd346ebfb305e27a981a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240164-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=263&ch=263&exp=10800&fmt=webp> 小泉進次郎電話作戦の効果なし「自民に厳しい結果」　都議選大敗を岩田明子氏解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da4213b42bb866ae001fcc0f8cfcbc0210d39b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991543-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 山本賢太アナウンサー（27）オンラインカジノでバカラ賭博をした疑いで書類送検　フジテレビ「厳正に対処」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e08d3770bf22da5b37673ac49e32aa0236647ba2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000019-ann-000-5-thumb.jpg?exp=10800&fmt=webp> イラン高官 イスラエルとの停戦合意を明らかに　ロイター通信が報じる
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07a2c3e99a215c151e718159a244518b4b30cf07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01278681-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 【速報】フジ山本賢太アナ書類送検「オンカジ」賭博容疑-警視庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa6cc81fb1fcb0accfb060ed7d622a48efd3620d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000039-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1885&ch=1885&exp=10800&fmt=webp> プロレス電撃転向のウルフ・アロン、決め手は「好きだから」総合格闘技は全く考えず「そこまで好きじゃない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93e909bf339d6245169288b4cc377e680395357e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779619-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流で見せた光と影…専門家が見抜いた2つの懸念材料「らしくない」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/c7aa08fa7f763818cd75eec34cd2f84c5cc7ebe931339bae7f06389d3f9a849d.jpg> イスラエルとイランが停戦合意 米
+      <a href=https://news.yahoo.co.jp/pickup/6543271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/35938f9b868216e009a01cced86e85070e1fbf3fac30c68444be60e48b51541c.jpg> イラン イスラエルとの停戦合意か
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/0c4e6ecec4cd35996b4615d3fb879f28bb8a1f728974b9a2e5e37798d64ffeb3.jpg> トランプ氏 イラン報復は弱かった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543263>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/49b451d87b149f96954147ba8500408e8943d546270a186a7bd030040625d33e.jpg> ロシア原発 日本海沿岸を候補地に
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b8c8b7a7a580c28e059b01fd601617cad92134d2ef4bfca19814d27d5591b67a.jpg> 日本郵便 あす運送許可取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6543267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/76ea68c093072179a0919dbfbe2bea108c0c42a0f5201654f6ca7181623150dc.jpg> 川崎事件影響か ストーカー相談増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/319fa34043dfdc3cbb4b00c35decc3f5c37e0d43ee306bc6016a24e9207e8286.jpg> 維新 飲食費上限1万円とする方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 09:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 09:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
