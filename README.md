@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f899b0d4a7021e9ede6d9aaee7efc700.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99044fcd58127d8e24e63f0f6bece7ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed6dff11752ddbbc64fed67295b0a8e426278abf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07188959-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル・イラン“停戦合意”の実効性は　戦闘停止を継続できるかが焦点
+      <a href=https://news.yahoo.co.jp/articles/e6c00215df9a3857b89bcb1401f556ffca403681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-03681415-fbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】佐賀県で25日夜遅くにかけて土砂災害に注意・警戒　局地的に激しい雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25615a63122a01f72bb15e70210a760a80f8ac7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992127-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が「彼らは停戦を破った」と非難　イスラエルとイランの緊張続く　イスラエルは「さらなる攻撃控える」と発表
       </a>
     </td>
   </tr>
@@ -378,24 +386,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/643a28254f2707361615a98b8646fca3698d0470406c2071048b5be91084ed33.jpg> 九州～東北 局地的に激しい雨予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543374>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d5cf3cddeeb9db0d729802be39f0823dfabdb7045310074932603596b4236730.jpg> 停戦合意 「歴史的勝利」双方主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/d0a1d81916e6fc513c4d3c3659163a13d22e8b04001c906813ffe1843f21460a.jpg> NATO日本事務所 開設事実上断念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/43e75dddf77f0108a3d98042a1a6a1442f8f9157322a9c6eea7e9937495014eb.jpg> SBI新生銀 7月に公的資金完済へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/e02b9617494316436310183243169bc714a1a7bee4c6387c42ea7d7cad2fa2cf.jpg> GQuuuuuuX最終回 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6543377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3acb0f7970082d24877efa7594db83f7f9b9b2414a19438367b15a40e1745625.jpg> 交流戦 パ全6球団が1～6位を独占
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/38bd855118e0c71c33ef8e60a09200ebc4c122deaa7e44d3b47d3d31f03045e7.jpg> ダウンタウン配信 秋ごろ設立予定
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 06:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 07:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
