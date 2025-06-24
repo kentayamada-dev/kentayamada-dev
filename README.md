@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd6b1c949a9235c501f399d2b36ef35e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa09ff87794268fa43e2d15ecb090990.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98bd339e7eaf098268468b844be629173a3cc903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> JR総武本線の踏切で電車とトラックの衝突事故　千葉県山武市
+      <a href=https://news.yahoo.co.jp/articles/d343f477cb0b0ad8a6e9ad483e9d60e70b2fdcc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240262-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 柔道王者ウルフ・アロンのプロレス入り　山里亮太「ひたすら楽しみ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57474f593d0e817371ab503db7696dceb11796bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000027-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イラン当局者「イスラエルとの停戦に合意」
+      <a href=https://news.yahoo.co.jp/articles/ac12ff6595b42a2e043894228bf5abf9ad408175>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 千葉の踏切で電車とダンプ衝突乗客けがなし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f409219a7def5e20a81eb174287a666bfa8c5830>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998346-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c79e90d3e5a96d96dc12d9a2216a4a46c1af5d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-35234639-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=799&ch=799&exp=10800&fmt=webp> イランが米提案の停戦に合意、カタール仲介　外交筋
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3316c4ce9157829463946002e0edfed9a04c1395>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01780066-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、125年で2人目の快記録　最後に達成されたのは73年前…米記者が凄み強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48678d709c564a35f5dfe1556ca1583190082e7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998210-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa6cc81fb1fcb0accfb060ed7d622a48efd3620d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000039-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1885&ch=1885&exp=10800&fmt=webp> プロレス電撃転向のウルフ・アロン、決め手は「好きだから」総合格闘技は全く考えず「そこまで好きじゃない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01780066-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、125年で2人目の快記録　最後に達成されたのは73年前…米記者が凄み強調
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/35938f9b868216e009a01cced86e85070e1fbf3fac30c68444be60e48b51541c.jpg> イラン イスラエルとの停戦合意か
+      <a href=https://news.yahoo.co.jp/pickup/6543278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/7ffe119b1f7c8bf60df2583d3cc9a60b26f4b248467241b87dd522f79b2e1adc.jpg> 参院選7/3公示・7/20投開票 決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/56967bd86dcb1e3e5aea35d02aeb9d0b4971d66b837ef5decb72c05ec33ca1ea.jpg> イラン イスラエルとの停戦に合意
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543276>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/dd29dbce7813ff3ba73d6a1db946eb8ed3e7bb8af6bb4f60a9d5c06b80f5e6d2.jpg> 電車と衝突 トラック運転手を搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/76ea68c093072179a0919dbfbe2bea108c0c42a0f5201654f6ca7181623150dc.jpg> 川崎事件影響か ストーカー相談増
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 10:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 11:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
