@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d1a4555b515d02fd2b4f7947752e2ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8b8298e074fc54bd3d7a53c6cb8e165.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7ef8af83391ab797e0459937868d6299820b6df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998946-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/d4e8dfff05f727223c502f399b8123b392e2f7c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21999242-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b2fb036fac919565d2f07166feaf4291eb59de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ山本賢太アナをオンラインカジノ賭博容疑で書類送検　「違法ではないと考えていた」
+      <a href=https://news.yahoo.co.jp/articles/413410e89499b3c1c72ae8b1c40e5d0650c1a990>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991709-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「百日咳」今年の累計感染者数3万人超え　過去最多…2024年の約8倍　乳児かかった場合は重症化し死亡するおそれ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92a2c1d07d4320f20b61141842732677fd1e2522>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240421-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1244&ch=1244&exp=10800&fmt=webp> 【新日本】タイチはウルフ・アロン会見の日取りに疑問「今日は俺たちが話題の主役じゃないのか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c421ba60d0cb6f3a4edd55a33540b2a6d27a71d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イラン外相、イスラエルが攻撃停止すれば報復なしと示唆 合意の存在は否定
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/febfff0f0582bdb38bf91e29a5b6d2d93d2a6e57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185050-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 【緊急解説】なぜイラン・イスラエルは“停戦合意”へと傾いたのか？ アメリカによる核施設攻撃が“決め手”に？ 双方への攻撃が続く中、今後の動きは？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a111992aafe41745a7ac2c1d714452eeb40f5772>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010001-proresut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 棚橋弘至引退試合、ウルフ アロンデビューの1月4日東京ドーム大会22年ぶり全国ネット放送が決定！「フルハウスにしたい」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,48 +402,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/7ffe119b1f7c8bf60df2583d3cc9a60b26f4b248467241b87dd522f79b2e1adc.jpg> 参院選7/3公示・7/20投開票 決定
+      <a href=https://news.yahoo.co.jp/pickup/6543293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/066abb5a066e1f4c47e7045c5c0255f7260de1c7d8bfe96692b5181788bf141f.jpg> 「停戦合意」トランプ政権の戦略
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/9b93bdd44059080598def05383dfaed126fc20d90ea904e6a6353c32cc23a57a.jpg> イラン外相 最終決定は後ほど行う
+      <a href=https://news.yahoo.co.jp/pickup/6543270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8735a6e67f6d01dd6e8cafe4c7cb895ae93f74b824ea28748803dd790093f9c5.jpg> 企業の奨学金代理返還 全国で拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/805d4338de0468443a276a0fb7bd2cec9cc0a1b54d9cb40196420e5978f53210.jpg> ふるさと返礼品 ルールを明確化
+      <a href=https://news.yahoo.co.jp/pickup/6543295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/898c95617c0967e61d54f4e72c9721a0a9c4815b2ffda7418961b6059f64d820.jpg> やばい死ぬ 突然刺された店員証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/4955c051ed3361e0c53c0a3b272062fd8e4897e60692e07cfcb3d524fcf362c8.jpg> 追突で2歳死亡 会社を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6543305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/4a5fdb63e5d521283e574a7d059c756dac0019d67258fbaf0f95ff156177f515.jpg> 首から下が動かず 少年に転機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3b8863597011f269d80cd747ffc9df78b55f2889acc035b14345894ba9c19623.jpg> 新生児がやけど 看護師を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/56f804dad2514a8fd9e7c86df68affafa7f5918208e53fb744f4cb38d81ebb35.jpg> 元警官有罪 捜査先で3千万円窃盗
+      <a href=https://news.yahoo.co.jp/pickup/6543287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/89a73dfe7e1c125f0787937b0ded0d38d6e313635750c91d21b9dfe377957cbb.jpg> 生活保護で「がん末期」施設実態
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/a79f6d6b57eb25501aeea82a88d80c669566d072fec049358538b64f616e7e91.jpg> 名古屋の「死せる川」にアユ確認
+      <a href=https://news.yahoo.co.jp/pickup/6543297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/7c96e4a021848aaf56d72e18a989698f5ae68582492714cc51ce899dcc60c67d.jpg> オンカジ巡り 西武球団社長が謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/1bb90381cbb8975e554e3588b5bf7a288493676b970bbd962d11127a9c62a318.jpg> モデル・安座間美優 第1子出産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 13:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 14:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
