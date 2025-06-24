@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac3ddcae2e74a34daf1bc1ea16448fdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea050f73c7371aa5cbef6bb904d1f0d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f1f211844cc927c365a2fbc86f5084190501151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998190-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/0e6822f313c907491870c60e3f4fa646c7a0eb3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240111-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> トランプ氏「停戦合意」主張に「ホント？」「信じよう」イラン・イスラエル交戦めぐりトレンドに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fad1b6acbf06f66b0177d7e11182b58a0c38b6b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00260300-tvtnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「イスラエルとイラン停戦合意」トランプ大統領がSNSに投稿
+      <a href=https://news.yahoo.co.jp/articles/48678d709c564a35f5dfe1556ca1583190082e7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998210-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2ea254023ee575ec8dfe19b862f8c29abc9881e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-36240082-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=729&ch=729&exp=10800&fmt=webp> 【川崎Ｆ】日本代表DF高井幸大、プレミア強豪トットナムに10億円で移籍へ
+      <a href=https://news.yahoo.co.jp/articles/07a2c3e99a215c151e718159a244518b4b30cf07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01278681-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 【速報】フジ山本賢太アナ書類送検「オンカジ」賭博容疑-警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa6cc81fb1fcb0accfb060ed7d622a48efd3620d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00000039-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1885&ch=1885&exp=10800&fmt=webp> プロレス電撃転向のウルフ・アロン、決め手は「好きだから」総合格闘技は全く考えず「そこまで好きじゃない」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/93e909bf339d6245169288b4cc377e680395357e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-01779619-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、二刀流で見せた光と影…専門家が見抜いた2つの懸念材料「らしくない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/081c332bafbed8f4399e9d07a5d23c05d527ca38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250623-00000160-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ウルフ・アロン「柔道人生やり残しなし」　来年1月の棚橋弘至引退興行でプロレスデビュー
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/b32adde33069def0b2f4b4016d2e34c703bbec091163aa477d7885a8f219bf59.jpg> フジ山本アナを書類送検 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543262>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/3677af2904df1c77ac7de22de45b03fdfbaac338aaa1cc7fe96dc1b008452037.jpg> あえて脱石丸 再生の道候補の戦略
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/5d39f3a94eccd3e47bf7364a12a33a740df5d5f4c99979398281f53d58170882.jpg> コックピットで異臭 羽田緊急着陸
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/392121416df436a6d410ef1e9fd3e1e8fc03336f07e3fd194eb5c6a8d51e49d5.jpg> DF高井幸大 トットナムに移籍へ
+      <a href=https://news.yahoo.co.jp/pickup/6543268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/14e582ad7cf55df0ce7e88ebd7b6fe98020b3929361db3aa122f52fb529bc420.jpg> 伊達公子さん 51歳で再婚した思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 08:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 09:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
