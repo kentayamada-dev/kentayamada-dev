@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00601eda5211c759cba7757e33e16d1e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0bcb4549747badc97f61c8b86bc59f3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41b9b9154b3e3ded69dc1aa60f0d2bc2ef48d0a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991605-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】イスラエル・イラン「停戦合意」発表の背景　トランプ政権の双方の“メンツ”保たせた戦略とは?林長官が合意うけ「歓迎する」
+      <a href=https://news.yahoo.co.jp/articles/0f3e22b206f0a79628ea017fcfa2563f1318448d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00991663-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> きょうからiPhoneでマイナンバー機能の使用可能に　カード持ち歩かず「マイナポータル」ログイン、引っ越しのオンライン申請・コンビニでの住民票写し発行などできるように
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1424694eb9996d03beca6bb44f26cdeef066c406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-21998055-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 与党「過半数」が勝敗ライン…参院選向け石破総理が明言　都議選で自民党大敗　公約の“2万円給付”に冷めた声「選挙前の一時しのぎと見透かされた」【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/febfff0f0582bdb38bf91e29a5b6d2d93d2a6e57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-10185050-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 【緊急解説】なぜイラン・イスラエルは“停戦合意”へと傾いたのか？ アメリカによる核施設攻撃が“決め手”に？ 双方への攻撃が続く中、今後の動きは？
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a111992aafe41745a7ac2c1d714452eeb40f5772>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00010001-proresut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 棚橋弘至引退試合、ウルフ アロンデビューの1月4日東京ドーム大会22年ぶり全国ネット放送が決定！「フルハウスにしたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/640e30af1e93db69db8b77515eeb3e01cd8554bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-00050063-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=369&ch=369&exp=10800&fmt=webp> 首都高６人死傷事故の運転手勤務先、安全運転管理者を置かずに営業か…会社と社長を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1892c0780aee9ad290d4367a56a9b98fc1a6d160>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250624-06819136-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=339&ch=339&exp=10800&fmt=webp> 都議選で「大敗」なぜ……自民、小泉大臣の“電話作戦”も追い風ならず　都民ファーストへの浮気も【#みんなのギモン】
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/dd29dbce7813ff3ba73d6a1db946eb8ed3e7bb8af6bb4f60a9d5c06b80f5e6d2.jpg> 電車と衝突 トラック運転手を搬送
+      <a href=https://news.yahoo.co.jp/pickup/6543285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/24/4955c051ed3361e0c53c0a3b272062fd8e4897e60692e07cfcb3d524fcf362c8.jpg> 追突で2歳死亡 会社を書類送検
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/24 12:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/24 12:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
