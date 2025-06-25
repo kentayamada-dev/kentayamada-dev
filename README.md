@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ef0516f4e9e9487ed2eab4ced11c5f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3b15980bb004a1e8f3acff904bee180.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb5ee513e1053556127ca9f2c948c9f4e60d4259>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000189-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=750&ch=750&exp=10800&fmt=webp> 野球の神様もビックリ！？300号好捕のソフトボール部女子大生と大谷翔平の“共通点”左打ちだけでなく…
+      <a href=https://news.yahoo.co.jp/articles/cf100d9832202f0d785fa94650294b87b086aee1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22001877-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手今季27号で日米通算300号となるホームラン放つ　この一発でチームの勝利決める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/329a46d04ca84477a23907da928994ae97c7570b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244998-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社の株主総会で厳しい質問相次ぐ　3時間半経過、時折拍手も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bad62f09b108d9c33fd3eda5f75321da95580e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22001775-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=593&ch=593&exp=10800&fmt=webp> 【 ロンドンブーツ1号2号 】　解散を発表　田村淳「亮さんと色々と話し合いをして、31年間色々と振り返りましたけども、解散することを決めました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/362e9a670525a1fd007d444b31428e8ebf68161b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00551299-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵地解説が思わず白状「私は大谷の大ファン！」　27号浴び敗戦も「どうしようもないんだ！」
       </a>
     </td>
   </tr>
@@ -371,35 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27708f26c86265d105f6dc84d53310f2e39287b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> 堀江貴文氏、フジ株主総会に姿見せない日枝久氏に首かしげる「普通来るんだけどね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb91fe7ddfd44ef48aa9faf93e7e554f5f20d96e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-04695756-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「生ける伝説」日本ハムでのデビューから12年…大谷翔平が日米通算300号本塁打　“打者天国”の地で達成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af957caa25793df2fe5b00e3e38a04d85d504c27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167545-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=844&ch=844&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散発表 Xや公式サイトで思いを明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 茨城県で震度4 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543407>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a26b8a3db000c281c1fdb4c5acd29fe63141456b694207481a2e54c437268d4d.jpg> 災害予言の漫画家 日付の特定否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a62cdc9477e926a4dcb3cad7a954a6c6afef9003b442af8ef67381e8e20936bf.jpg> コンビニが守る 駆け込み年9300件
+      <a href=https://news.yahoo.co.jp/pickup/6543419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51fefd104bbe728488fa49ceced4ccc9810449904865a42ec5f38ed36911219e.jpg> 日本郵政 株主総会で批判が続出
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e0954f0bb9ffc40e93fd29cab2d4bf44bdf6c70b8c89e111b69b1bd2bf635267.jpg> 「つば九郎を戻して」涙ぐむ株主
+      <a href=https://news.yahoo.co.jp/pickup/6543417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/cc5b7beef52c47423bbb3547551d7abcf654497b07ed24fa20268852b219ce63.jpg> ドジャースが逆転 乱打戦を制す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/93f39a6f1bb1e65b520ac7f825126107a9968abdcddae831c389ef156756aec8.jpg> 大谷が打者天国で豪快アーチ 騒然
+      <a href=https://news.yahoo.co.jp/pickup/6543412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e0954f0bb9ffc40e93fd29cab2d4bf44bdf6c70b8c89e111b69b1bd2bf635267.jpg> 「つば九郎を戻して」涙ぐむ株主
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 13:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 14:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
