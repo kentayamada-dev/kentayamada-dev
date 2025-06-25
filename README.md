@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8b22c8147fd0304fe5ef3c653a1ec48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6739c7e1bc9fe42c21efe1d7f6316979.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/771cff690504e2936bd472831241e197ae295c7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816822-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 泉里香が結婚、相手は3歳年下のサッカー日本代表・谷口彰悟　ビッグカップルに祝福続々「なんと美男美女！」
+      <a href=https://news.yahoo.co.jp/articles/332e38bc07157373e2d40fe325197350068cc51a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050141-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=465&ch=465&exp=10800&fmt=webp> 有森裕子氏が日本陸連会長に、女性・五輪経験者で初…五輪女子マラソンで２大会連続メダル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/444706f522ce22ff2c5c59fe7afb45ffbaeeb8ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランの「体制転換望まず」　トランプ米大統領が修正
+      <a href=https://news.yahoo.co.jp/articles/352ad0a2b2382c645b1929788c91271706131b22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000075-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=467&ch=467&exp=10800&fmt=webp> イスラエルとイランの戦闘　トランプ大統領「停戦順調に進んでいる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5326bdac74e48bc18dac0de9b12072f1bb5b7c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02411235-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「乾杯したい」大谷翔平の通算300号をベッツが祝福　指揮官も「素晴らしい」と称賛
+      <a href=https://news.yahoo.co.jp/articles/0f8505a9417b2525cf0a7f8a0fc7d8a0e15893e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000060-ann-000-6-thumb.jpg?exp=10800&fmt=webp> フジVS物言う株主 堀江氏も参戦　カギを握る「村上氏の長女」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fa0212c3ab2601347aee0d5ff063282edca8831>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250683-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> フジ「イット！」株主総会伝える　会社側提案の11人取締役選任案が可決承認、ダルトン案は否決
+      <a href=https://news.yahoo.co.jp/articles/0c8f1f34f29df13f921fb0428e632c801b470786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185250-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> 「いった！」大谷翔平の“幻の27号”に敵地どよめき… 176キロの大飛球に全員がダマされた瞬間
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/fbd1cd0f602ebe5cb3806b005f5042634df1c285b07c01c4dfef49236104b89c.jpg> 堀江貴文氏 フジ株主総会で質問
+      <a href=https://news.yahoo.co.jp/pickup/6543443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/7aaafe314c47a4fd312cc5df7ddcc60a2ce2dddae31fff23b1a9e4861aa2d5ed.jpg> フジ 中居氏への責任追及否定せず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 17:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 18:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
