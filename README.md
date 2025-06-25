@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3b15980bb004a1e8f3acff904bee180.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ede613c6e04077c2ef9f94033be222bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf100d9832202f0d785fa94650294b87b086aee1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22001877-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手今季27号で日米通算300号となるホームラン放つ　この一発でチームの勝利決める
+      <a href=https://news.yahoo.co.jp/articles/022b35c8418a911893b62f21b80c98542cd0290b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 茨城県で震度4　M4.3、津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/329a46d04ca84477a23907da928994ae97c7570b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07244998-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社の株主総会で厳しい質問相次ぐ　3時間半経過、時折拍手も
+      <a href=https://news.yahoo.co.jp/articles/76df8c3697952c8b56f37a7ece83ea6019e4ce96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-09498856-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ネタニヤフ首相「イスラエルは核の脅威を排除した」　戦闘勝利の認識示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bad62f09b108d9c33fd3eda5f75321da95580e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22001775-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=593&ch=593&exp=10800&fmt=webp> 【 ロンドンブーツ1号2号 】　解散を発表　田村淳「亮さんと色々と話し合いをして、31年間色々と振り返りましたけども、解散することを決めました」
+      <a href=https://news.yahoo.co.jp/articles/2ba5756fa196dc876d32f85a6ed89c6036bb8a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 郵便運送、国交省が許可取り消し　2500台対象、再取得に5年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/362e9a670525a1fd007d444b31428e8ebf68161b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00551299-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 敵地解説が思わず白状「私は大谷の大ファン！」　27号浴び敗戦も「どうしようもないんだ！」
+      <a href=https://news.yahoo.co.jp/articles/df82c22548e6dda60f59f2642f4ed2e1fd52a7d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャースの大谷、日米通算300号　米大リーグ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/beecb88df99c340b0315f4296ced08e3f5766edf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00010001-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 停戦合意を「勝利」と位置づけ　イラン強硬派が政府支持集会
+      <a href=https://news.yahoo.co.jp/articles/1d9b4c7ef64d736731d52b8f629114e222745037>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000052-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 堀江貴文氏「日枝さん、普通来るんだけどね」　フジHD株主総会
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 茨城県で震度4 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a1e9009a6d15ea1f0ee16de92d6086de6d6f8f23939a3f048a377d8ad5cb210e.jpg> トランプ氏 イランへの態度軟化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dc2bd2e0c9b7b655d5a31e3becfda868c333a75ac9926d0f8310416b9f64e6cf.jpg> フジHD社長 株主総会冒頭で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/8ae864d17430e5721f7e09cc57b638e6d317decf51b127a51b0f002ccfb01214.jpg> 日本郵便の運送事業許可 取り消し
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
+      <a href=https://news.yahoo.co.jp/pickup/6543406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dc2bd2e0c9b7b655d5a31e3becfda868c333a75ac9926d0f8310416b9f64e6cf.jpg> フジHD社長 株主総会冒頭で謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9151f1fc0aac4979a7dfaf948a8638c74c4a7ce30a7ae53ee6214b821c72337b.jpg> 元男性市議におっさん発言 賠償令
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543415>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ガキ使を手がけた中村P 会社破産
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543408>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konakashota/02262759/title-1750807498573.jpeg?exp=10800> バース以来HR王へ 佐藤輝の進化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 14:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 14:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
