@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94a416266e3dd26ce5fb1ba2fc26ba1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85e1750188b2603a6df10e76c943ba8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/121c0523cb9ffe1ae21a27f91729ce71d421ec11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000051-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=853&ch=853&exp=10800&fmt=webp> フジ・メディアHD総会、約４時間半で終了 中居正広氏への損害賠償請求するのかとの質問も
+      <a href=https://news.yahoo.co.jp/articles/dc44437885a5eb767b70f69538d671a0975ba570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06247973-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「おめでたい事だ！」ロバーツ監督が大谷翔平300号本塁打を祝福　記者の問いかけに「本当か？」と即反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab33cfc1922da0b74156b3858121abe21a57df03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、二刀流の雑音一蹴の2戦連発27号、113メートル「ギリギリ」弾、日本選手偉業の多い地で節目アーチ
+      <a href=https://news.yahoo.co.jp/articles/582d116114782a27969e53499cc7d178c62909b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000095-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> フジ・メディアＨＤ、株主総会で取締役選任の会社提案を賛成多数で全て可決＝時事
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2480e87e46fea9e546b9e72fc78234a45b46a350>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992359-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “正式な戦闘終結”から2時間…これまでにイスラエル・イラン間で大規模攻撃の情報なし　トランプ氏の思惑通り停戦維持なるかが焦点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faa32cdecb384822b272e24b3fe8777c94b5e49d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251135-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 退任する日枝久氏の影響力は「ない、と断言」フジＨＤ株主総会で清水賢治専務が回答
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/022b35c8418a911893b62f21b80c98542cd0290b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 茨城県で震度4　M4.3、津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76df8c3697952c8b56f37a7ece83ea6019e4ce96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-09498856-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ネタニヤフ首相「イスラエルは核の脅威を排除した」　戦闘勝利の認識示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d9b4c7ef64d736731d52b8f629114e222745037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000052-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 堀江貴文氏「日枝さん、普通来るんだけどね」　フジHD株主総会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 15:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 15:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
