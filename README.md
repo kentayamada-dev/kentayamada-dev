@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3adfa6156f848aa5e71525c24879644a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fc28368824f4ad2a9c754c7415d8f22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3262fa6500534ee4772c1ea04fae9f686c4903e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01780679-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、日米通算300号に超速反応　スポンサー企業が僅か1分後に公開した“特別仕立て”
+      <a href=https://news.yahoo.co.jp/articles/085f3877ce85276f4f1b8ff3b0a2d360cf191d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250850-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、史上３人目の日米通算300号「マイルハイ」敵地でロバーツ監督通算900勝に花添える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50b0ccb429f4e56c93a478d83c7026f27b06ce61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07245078-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4時間以上続いたフジ・メディアHD株主総会　大株主ファンド提案の12人は一人も選ばれず
+      <a href=https://news.yahoo.co.jp/articles/ace49a1af36d2163f59eb5b00493a0ff308538a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> フジ清水社長、ホリエモン提案は「示唆に富む話」協業の可能性を否定せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddbe5e02e07e3bc4a3f82c82170c2ae169dc3293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00043129-rolling-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=556&cy=0&cw=750&ch=750&exp=10800&fmt=webp> トランプのイラン攻撃に「ノーベル平和賞を！」支持者らが猛プッシュ
+      <a href=https://news.yahoo.co.jp/articles/d3c67540dc184fc1afed15f62111aea85b98c2f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-08191427-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「モペット」販売の際、必要な説明しなかったか　経営者の女ら4人逮捕　店の複数の購入客が無免許運転
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6ea71fbbba437eb0d960c084d80d7afb4cc204b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050131-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 島村楽器が講師に取引条件示さず、公取委から勧告受ける…音楽業界初のフリーランス法違反
+      <a href=https://news.yahoo.co.jp/articles/0c40bd6e0c5c704f3cbd95b2ac7d501608f95d2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07245060-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「史上最も成功した軍事攻撃をおとしめる試み」ニューヨーク・タイムズの報道にいらだち　停戦期間に入ったイスラエルとイランとの動向は
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c85a31c6c2c82078721c62878d5ba76f89a57735443475f762f8838ce326f0da.jpg> 3連休中日が投票日 与党に有利?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543440>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c9f2490f0c1965e2ab214cad796323a8b897f5720ebd81b27a5a9a88b8e3b52e.jpg> 女性を巡る発言が波紋 玉木氏回答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d4478fd99bf109a34d5be572259d734f7b0344b297fb87096a323759744c44e6.jpg> 千葉県市原市で切りつけ 男逃走
       </a>
     </td>
   </tr>
@@ -442,8 +426,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2499ecb1b4c53f4187c997ad2194a74965ce8f0c724b5df61e6dd5fd9e1577bb.jpg> ニセ逮捕状 被害者語る詐欺の手口
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d4478fd99bf109a34d5be572259d734f7b0344b297fb87096a323759744c44e6.jpg> 千葉県市原市で切りつけ 男逃走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543441>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ec7201cd802f3a970b6dd27f7b33eb792b44d9b5c9c59fb16e641bdbe99f767b.jpg> トイレのシャワー機能 衛生的には
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/40520636e2130142b341cd9a68285bd26658824c3cd66c1ea2ee4e4205bdfdae.jpg> TOKIOが解散発表 SNSの反応
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3e8f9fb081a4f4d3eca9c748e3f99de1106456f0b8e8e44e8ee1f4e50b5b790f.jpg> TOKIO 解散を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 18:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 19:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
