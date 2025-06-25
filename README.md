@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87cc4b03041f132fec455b31d0081876.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbf554d60b56aaacaaa8f070ea1fa146.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cd7cc1e43e5d4bfe5b71d507ddd394cdc3a48a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=532&ch=532&exp=10800&fmt=webp> イラン核施設中枢は破壊できず　情報機関が分析　米報道
+      <a href=https://news.yahoo.co.jp/articles/539f3eefaccd54a69f00c8616543be44c5f5c8ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000024-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散「一度屋号を下ろす」、「ロンハー」は継続
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb69b567a779e92f273d33091cec7ceb5e9135b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992110-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「見たら玄関の上まで水が…」各地でゲリラ雷雨と記録的短時間大雨…台風2号から変わった熱帯低気圧の影響による大雨に警戒
+      <a href=https://news.yahoo.co.jp/articles/f9a145411fe5ebeb3708861dbc801ac0f99efb0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米軍攻撃のイラン3核施設、中核部分は破壊できずか　情報機関の分析と米報道、政府高官は否定
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6f1eca1ffb4f349f945bcb73973087e7ce3840d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816321-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロンブーが深夜に解散生発表…闇営業問題から6年、淳が亮に吉本復帰を促すも叶わず「屋号を一回降ろして」
+      <a href=https://news.yahoo.co.jp/articles/a2d9128868cc9e35ec2dce46c1e2c3b2818f3131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90030722-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 名古屋の小学校教員逮捕　女子児童の下着”盗撮画像”SNSのグループに共有か
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543394>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9ffa1ed5ebac988b335e21a5b011204a4f6f112663b8690fdad3da80017b713c.jpg> 大気不安定 関東や東海で大雨恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/5ece7ae0c2158a9fe2ad2cb53b04ec1026864b34d732caf6a983541511d883c4.jpg> フジHD株主総会 取締役案に注目
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3acb0f7970082d24877efa7594db83f7f9b9b2414a19438367b15a40e1745625.jpg> 交流戦 パ全6球団が1～6位を独占
+      <a href=https://news.yahoo.co.jp/pickup/6543395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0c8c0a7aba557faa31df49e108ca49b1ccf8730e490c83af05485e0c39cdceaf.jpg> 北大 国内未確認の毒性植物生育か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/897b791ddc17d6a851fd9c4ebf1104a977c8a2fa33ba8183f0e605b1334431c2.jpg> 大谷を球宴で投手起用 監督はNO
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 09:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 09:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
