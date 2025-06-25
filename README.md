@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/46f350139c412fe7b4083d9a339c6881.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e9ec30088adf2ab878da4d5937970ac9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/becb6470ccae37bb7df2a62c55ac78b9e83fb155>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-03273586-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジ側提案の取締役候補を選任　堀江氏質問に“拍手”も　フジHD株主総会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d54e039fe9900c0aa634dedcae8a5ac62c85cc21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000057-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 福島県　TOKIO解散後の連携について見解「城島茂氏と松岡昌宏氏には変わらず応援していただきたい」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05c9f799436f30109193eb0690d62f502d4c4601>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef558f9212e6b2f5fe98575d750e7c3b75a0fbfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000087-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「株式会社TOKIO」廃業へ　取引先との契約上の整理など終了後に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/499f24698c0d2c48b52f68dbff47fb69a85ba503>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平、日米通算300号　左翼席へ2戦連発27号　日米通算200号に続き〝打者天国〟でまたメモリアル弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b79b4748f3d5cb8642c29c0258be3e299efcd88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050182-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジ株主総会、昨年の２０倍の株主が出席…会社提案の取締役１１人選任・米ファンド提案の１２人は否決
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000181-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平、日米通算300号　左翼席へ2戦連発27号　日米通算200号に続き〝打者天国〟でまたメモリアル弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 00:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 01:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
