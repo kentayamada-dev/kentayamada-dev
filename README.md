@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a14568f7cbbf5954b82f04a8a2cc343f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/46f350139c412fe7b4083d9a339c6881.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a52ffe4ee6f7153ce4a8b9ddffff7427a21fbb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251290-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 福島県「ＴＯＫＩＯ課」は名称変更へ「城島茂氏と松岡昌宏氏には解散後も変わらず福島県を応援していただきたい」
+      <a href=https://news.yahoo.co.jp/articles/05c9f799436f30109193eb0690d62f502d4c4601>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050206-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 女児盗撮、教室や校外学習でも撮影か…主幹教諭や学年主任逮捕・画像共有のＳＮＳには教員１０人近く参加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/616a71e9845a071aae7d88bb2086d172031d9550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07795728-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、イラン核施設攻撃が「戦争を終わらせた」と強調　広島や長崎への原爆投下を引き合いに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef558f9212e6b2f5fe98575d750e7c3b75a0fbfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000087-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「株式会社TOKIO」廃業へ　取引先との契約上の整理など終了後に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/499f24698c0d2c48b52f68dbff47fb69a85ba503>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000181-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平、日米通算300号　左翼席へ2戦連発27号　日米通算200号に続き〝打者天国〟でまたメモリアル弾
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8802960d0d99114c3c8384d58bb9a6a69f3be837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992667-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=567&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「広島、長崎と本質的同じ」トランプ大統領がイラン核施設への攻撃に言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12e5bdbcea3b1b2e91631bc5a7b9d558873657fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185277-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 大谷翔平のメモリアル弾に観客“大ジャンプ” 衝撃の27号アーチに敵地がまさかの大歓声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b889fc7284cb2c94d8aaf6abcf8ece2736246550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンドンブーツ1号2号、深夜の解散宣言にファン衝撃“闇営業”騒動から埋められなかったコンビ間の深刻“温度差”
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/df9843e017f83320e98de637c9facf2b008fbc86e0f468f068887e6cf4e28008.jpg> 防衛費目標はGDPの5% NATO採択
+      <a href=https://news.yahoo.co.jp/pickup/6543478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51841c2ce2d9780e942df0afd052e5a2fc8904f1933d7093a238649d24edaa78.jpg> 日本郵便に行政処分 今後どうなる
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51841c2ce2d9780e942df0afd052e5a2fc8904f1933d7093a238649d24edaa78.jpg> 日本郵便に行政処分 今後どうなる
+      <a href=https://news.yahoo.co.jp/pickup/6543477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/df9843e017f83320e98de637c9facf2b008fbc86e0f468f068887e6cf4e28008.jpg> 防衛費目標はGDPの5% NATO採択
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/862bd20e27159646d813c4f2f2d9118d6cd7f1d500241ea133766f6520676f6e.jpg> SB山川穂高が1軍再合流 丸刈り姿
+      <a href=https://news.yahoo.co.jp/pickup/6543456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b8283fa4a9c80edcafe1bdc540544336753bacfed301232ba51d23ba65f322a3.jpg> 吉野家が麺メニュー 創業以来初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a56f5c3933d98f2425f8c52f2fb81bdab7f863d059fc8496f9c2dbf61932cf9c.jpg> TOKIO解散 城島と松岡が24日決断
+      <a href=https://news.yahoo.co.jp/pickup/6543480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0e3d9b9ab37ffd74bc47ebf2688bce550605490fec01aabc1f273540fe0d0584.jpg> TOKIO松岡 福島県に電話で謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 23:51:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 00:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
