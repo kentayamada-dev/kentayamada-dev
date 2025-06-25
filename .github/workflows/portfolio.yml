@@ -32,7 +32,10 @@ jobs:
         with:
           image: debian:bookworm-slim
           shell: bash
-          options: -v ${{ github.workspace }}:/app -e VERCEL_ORG_ID=${{ secrets.VERCEL_ORG_ID }} VERCEL_PROJECT_ID=${{ secrets.VERCEL_PROJECT_ID }}
+          options: |
+            -v ${{ github.workspace }}:/app
+            -e VERCEL_ORG_ID=${{ secrets.VERCEL_ORG_ID }}
+            -e VERCEL_PROJECT_ID=${{ secrets.VERCEL_PROJECT_ID }}
           run: |
             . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
 
