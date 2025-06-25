@@ -4,7 +4,6 @@ curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$2 SHELL=/bin/bash 
 . /root/.bashrc
 pnpm env use --global $1
 cd ./app/portfolio
-pnpm install
-pnpm build-storybook
-cd ./.storybook/output
+pnpm install && pnpm build-storybook
+vercel --cwd ./.storybook/output
 vercel deploy --prebuilt --prod --token=$3
