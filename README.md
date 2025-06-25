@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aebb5c85f63a2515bddccc90db12ff2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b95ced09ebb3884db827929c52a86b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/597afc47d31531b3b899b40fe1183a02f69c8681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 4時間半にわたる総会　3300人超の株主はフジHDに何を託したか
+      <a href=https://news.yahoo.co.jp/articles/83dbe9a0180875c2d0dbe473c3d295af9359cdaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00019011-bengocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=318&ch=318&exp=10800&fmt=webp> フジHD株主総会、対立人事は完全勝利も「勝負は持ち越し」、スポンサー回復も茨の道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e427b19e002b85546c60c647aeb690a802c8fa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏を立てて「同盟結束」演出に腐心　NATO首脳会議の「主役」はルッテ事務総長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/851f66e528c15cfe36b27ce0efd0c1bfecddcd77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 柏崎刈羽原発の所長「6号機に準備集中」　地元同意見通せず方針転換
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/915b1c5b8729f8cfe0d0957153ae47ad9e345198>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01780658-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「とんでもない人だった」大谷効果で一躍“バズリ”　女子大生の経歴にファン驚愕「猛者だ」
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b889fc7284cb2c94d8aaf6abcf8ece2736246550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンドンブーツ1号2号、深夜の解散宣言にファン衝撃“闇営業”騒動から埋められなかったコンビ間の深刻“温度差”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/668199f1d3666f75807bc121843568336355b46e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000230-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 停戦維持、情勢は依然不安定　イラン核開発、数カ月後退か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59bc19b9a00e6e332d02ad951745177378b16c51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185274-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> 大谷翔平、27号直後に“お辞儀”？同僚たちと喜びを分かち合う微笑ましい光景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c943b2d369388e6f1fd1b6836edbfb97ddb9829>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992577-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・泉佐野市「赤ちゃんポスト」設置に向け補正予算案可決　2026年度中の運用開始目指す
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンドンブーツ1号2号、深夜の解散宣言にファン衝撃“闇営業”騒動から埋められなかったコンビ間の深刻“温度差”
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/6f4598072b43872e8e62bfa94be1b4ea3f8a0ddc6d38eea402e5d1ca3f313e48.jpg> 立憲代表 大連立「考えていない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9021d456c6fb1a7ad42bffd3ade74ee113ffd4aeab886da14be05a70f9404bcf.jpg> モペットの違法走行黙認疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e632cabee2b61d4312a6322b6c0f97191bb0336b4add29eb2d5d9f6e151c9fc4.jpg> 柏崎刈羽の再稼働 6号機を優先
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/74bddeae99bab0c0e1e447d5d4c209157d07d8caa04add29615cac62fb9986e8.jpg> 「クラT」届かない トラブル増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543456>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b8283fa4a9c80edcafe1bdc540544336753bacfed301232ba51d23ba65f322a3.jpg> 吉野家が麺メニュー 創業以来初
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/eee04ab3ffe25a2dec29a8c3308b9eafe0e71f6fdec2546a742585bb2ac778ff.jpg> つば九郎 来季にも活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6543448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0e336e8899a900e8bc47fd4f8fecb42d8817a0016bad8d37939d25730605c777.jpg> 有森裕子氏 日本陸連新会長に就任
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 20:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 21:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
