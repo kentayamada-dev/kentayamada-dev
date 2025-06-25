@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f293261ef9e3323f1822fc04e1a15430.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/124650d559ad67fe881bbf553bb6011b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d0c09aad2841d86e6c1d1a58ed418427825ad9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050200-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「ＴＯＫＩＯ課」設置しＣＭなどに起用の福島県、解散に「衝撃」…「城島茂氏と松岡昌宏氏は変わらず応援して」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/774328dd102af8e7526f35d575a07de115c496d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01780245-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を祝う“特別仕立て”が「いつもより豪華」　ファン驚愕の超速対応に「準備してたな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47c1e5774b5bdceefd38303e62c2ef0a7debd94b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00349798-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ完全勝利の株主総会　それでも安心できないオンカジ〝芋づる〟摘発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1671df07efea458479fadfbc9da2bf2a14c27484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04113738-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、イランと核問題をめぐる協議を来週行うと表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04113738-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、イランと核問題をめぐる協議を来週行うと表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06c1547413321cc6d2ac9fb9ecb3a3473863ec7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00551305-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が日米300号で近づいた84年ぶりの偉業　トラウトも未達、ヤンキースの伝説にあと「3」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/609f574f16492e37a4dc5c0f91bb8e77e0503765>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36251419-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1174&ch=1174&exp=10800&fmt=webp> フジMH清水社長　“再出発”へ「日枝氏の影響力ない」強調、「経営体制が完全に刷新された」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/873d427cf851cf1a96f213f9a70a102246e32f06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36251240-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=657&ch=657&exp=10800&fmt=webp> TOKIO解散発表「心から御礼」老若男女から長く愛されてきた人気グループが電撃的ピリオド
+      <a href=https://news.yahoo.co.jp/articles/60e3e59b406160016de85d575c32ac1b73ca180e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00175408-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「取引は成立」190センチの日本人DFがついに５大リーグ移籍へ！ブンデスクラブと合意と有名記者が報道　移籍金は８億円
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b8283fa4a9c80edcafe1bdc540544336753bacfed301232ba51d23ba65f322a3.jpg> 吉野家が麺メニュー 創業以来初
+      <a href=https://news.yahoo.co.jp/pickup/6543485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/9f6e18f17e0f80caf30a4413651550c8263e97cb1ada35f6b04371a7df21510d.jpg> 福島県 城島と松岡に連携呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0e3d9b9ab37ffd74bc47ebf2688bce550605490fec01aabc1f273540fe0d0584.jpg> TOKIO松岡 福島県に電話で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e28c3dc004c7191d6888161c3544a8a30c41ef095f5173c140af8985fb39ada0.jpg> 堂安律がフランクフルトに移籍へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 06:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 06:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
