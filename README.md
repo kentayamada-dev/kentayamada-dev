@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b95ced09ebb3884db827929c52a86b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b0126917b295f1af1494f300a03ebcf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83dbe9a0180875c2d0dbe473c3d295af9359cdaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00019011-bengocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=318&ch=318&exp=10800&fmt=webp> フジHD株主総会、対立人事は完全勝利も「勝負は持ち越し」、スポンサー回復も茨の道
+      <a href=https://news.yahoo.co.jp/articles/ee90c53e8b8a152a0b3a119d111578f1269694b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22003471-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビ株主総会 会社提案が可決、ダルトン提案12人選任なし“オンカジ問題”に厳しい質問も【Nスタ解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e427b19e002b85546c60c647aeb690a802c8fa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏を立てて「同盟結束」演出に腐心　NATO首脳会議の「主役」はルッテ事務総長
+      <a href=https://news.yahoo.co.jp/articles/4066859977bd1e19f5562f9b43da6c8c8b4d7b22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-16012557-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 【解説】 目まぐるしい24時間、どうやって停戦に至ったのか　イランとイスラエル…そしてアメリカは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12e5bdbcea3b1b2e91631bc5a7b9d558873657fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185277-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1044&ch=1044&exp=10800&fmt=webp> 大谷翔平のメモリアル弾に観客“大ジャンプ” 衝撃の27号アーチに敵地がまさかの大歓声
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/851f66e528c15cfe36b27ce0efd0c1bfecddcd77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 柏崎刈羽原発の所長「6号機に準備集中」　地元同意見通せず方針転換
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/915b1c5b8729f8cfe0d0957153ae47ad9e345198>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01780658-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「とんでもない人だった」大谷効果で一躍“バズリ”　女子大生の経歴にファン驚愕「猛者だ」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dd29d7d44fccfa16199a63af2243a0838e419f870cf33c5d12536ee85b6026fd.jpg> 島村楽器 フリーランス法違反勧告
+      <a href=https://news.yahoo.co.jp/pickup/6543470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/adc53b85859fda00360efd1660f97f3426b71c975a78618053ba1d691498b2ff.jpg> 4歳不明 捜索続くも発見至らず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 21:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 21:30:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
