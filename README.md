@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36cbf12b6494d3e0d707ac1f100e2108.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ef0516f4e9e9487ed2eab4ced11c5f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a70221c290dcd1d7d5719948b651bb7b1d9e0a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000039-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、メジャー新記録を樹立「1番打者でチーム開幕80試合27本塁打」日米通算300号の節目にも到達
+      <a href=https://news.yahoo.co.jp/articles/cb5ee513e1053556127ca9f2c948c9f4e60d4259>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000189-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=750&ch=750&exp=10800&fmt=webp> 野球の神様もビックリ！？300号好捕のソフトボール部女子大生と大谷翔平の“共通点”左打ちだけでなく…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af678b96d5c77295911c1ee368fe20e92e2d3492>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00010001-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、日米通算300号　好相性“打者天国”で豪快アーチ…ド軍は乱打戦制す
+      <a href=https://news.yahoo.co.jp/articles/beecb88df99c340b0315f4296ced08e3f5766edf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00010001-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 停戦合意を「勝利」と位置づけ　イラン強硬派が政府支持集会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5612b822455243908a2217999fad2a8ed8f4b952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000038-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジMHD 株主総会続く　取締役候補 株主側は12人提案
+      <a href=https://news.yahoo.co.jp/articles/27708f26c86265d105f6dc84d53310f2e39287b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251095-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> 堀江貴文氏、フジ株主総会に姿見せない日枝久氏に首かしげる「普通来るんだけどね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/feb4d5e517f44524d655fafbe894f5fe8a8fc798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167542-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「爆弾落とすな」トランプ氏　イスラエルに怒りぶつける　停戦合意後もイランと応酬
+      <a href=https://news.yahoo.co.jp/articles/fb91fe7ddfd44ef48aa9faf93e7e554f5f20d96e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-04695756-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「生ける伝説」日本ハムでのデビューから12年…大谷翔平が日米通算300号本塁打　“打者天国”の地で達成
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a62cdc9477e926a4dcb3cad7a954a6c6afef9003b442af8ef67381e8e20936bf.jpg> コンビニが守る 駆け込み年9300件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543403>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543413>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02262861/title-1750811550270.jpeg?exp=10800> ロンブー解散「やさしい」選択肢
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 13:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 13:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
