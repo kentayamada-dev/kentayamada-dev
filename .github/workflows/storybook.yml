@@ -1,9 +1,5 @@
 name: Storybook Deployment
 
-env:
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_STORYBOOK_ID }}
-
 on:
   workflow_dispatch:
   push:
@@ -16,6 +12,9 @@ concurrency:
 
 jobs:
   Deployment:
+    env:
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_STORYBOOK_ID }}
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
