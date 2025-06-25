@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fc28368824f4ad2a9c754c7415d8f22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31100f6f44198466200605e0dd2b8a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/085f3877ce85276f4f1b8ff3b0a2d360cf191d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250850-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、史上３人目の日米通算300号「マイルハイ」敵地でロバーツ監督通算900勝に花添える
+      <a href=https://news.yahoo.co.jp/articles/676b1281b576ad9a4b86b773a35b5ceb81c8b130>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000221-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=705&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原爆投下引き合いに正当化　トランプ氏、対イラン攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ace49a1af36d2163f59eb5b00493a0ff308538a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> フジ清水社長、ホリエモン提案は「示唆に富む話」協業の可能性を否定せず
+      <a href=https://news.yahoo.co.jp/articles/1e6a9721e017c13447578dbba4de0c870d433b60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【TOKIO電撃解散】国分太一のパワハラ疑惑、他メンバーに指摘される「見て見ぬふり」の疑い…ストッパー不在の暴走か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3c67540dc184fc1afed15f62111aea85b98c2f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-08191427-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「モペット」販売の際、必要な説明しなかったか　経営者の女ら4人逮捕　店の複数の購入客が無免許運転
+      <a href=https://news.yahoo.co.jp/articles/aa6670532b993cfe2c730b3a8bec20a24e0983cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816899-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ、日枝久氏への退職金は「実行される」　FMH新社長が明言…弁護士の見解受けた措置と説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c40bd6e0c5c704f3cbd95b2ac7d501608f95d2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07245060-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「史上最も成功した軍事攻撃をおとしめる試み」ニューヨーク・タイムズの報道にいらだち　停戦期間に入ったイスラエルとイランとの動向は
+      <a href=https://news.yahoo.co.jp/articles/c9b96fe2716fdefbf05f9fce751993b84de0c448>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185255-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> 「あーあ」大谷翔平の27号HRに相手投手が“脱力”リアクション「あれで入るか」ファンは大興奮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/022b35c8418a911893b62f21b80c98542cd0290b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 茨城県で震度4　M4.3、津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/24e7e97122be7cee5fde5a3bc0e3233303099a30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンブー電撃解散で亮の冠番組に懸念…『ロンブー亮の釣りならまかせろ！』のコンビ名どうなる？
       </a>
     </td>
   </tr>
@@ -410,32 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c9f2490f0c1965e2ab214cad796323a8b897f5720ebd81b27a5a9a88b8e3b52e.jpg> 女性を巡る発言が波紋 玉木氏回答
+      <a href=https://news.yahoo.co.jp/pickup/6543455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> 精神障害の労災認定 初の1000件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/7aaafe314c47a4fd312cc5df7ddcc60a2ce2dddae31fff23b1a9e4861aa2d5ed.jpg> フジ 中居氏への責任追及否定せず
+      <a href=https://news.yahoo.co.jp/pickup/6543458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9021d456c6fb1a7ad42bffd3ade74ee113ffd4aeab886da14be05a70f9404bcf.jpg> モペットの違法走行黙認疑い 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2499ecb1b4c53f4187c997ad2194a74965ce8f0c724b5df61e6dd5fd9e1577bb.jpg> ニセ逮捕状 被害者語る詐欺の手口
+      <a href=https://news.yahoo.co.jp/pickup/6543453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dd29d7d44fccfa16199a63af2243a0838e419f870cf33c5d12536ee85b6026fd.jpg> 島村楽器 フリーランス法違反勧告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d4478fd99bf109a34d5be572259d734f7b0344b297fb87096a323759744c44e6.jpg> 千葉県市原市で切りつけ 男逃走
+      <a href=https://news.yahoo.co.jp/pickup/6543456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b8283fa4a9c80edcafe1bdc540544336753bacfed301232ba51d23ba65f322a3.jpg> 吉野家が麺メニュー 創業以来初
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/40520636e2130142b341cd9a68285bd26658824c3cd66c1ea2ee4e4205bdfdae.jpg> TOKIOが解散発表 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6543460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b839791dba9cc14ecccbda8694ca9b3a257efeac2c84b9b793a4a9f554faf0a1.jpg> 「株式会社TOKIO」廃業へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a9091c6615ccd87a6b8447b4f980f257bf0726d7dcad6deae28dc8252957add3.jpg> 泉里香 DF谷口彰悟との結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6543457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/40520636e2130142b341cd9a68285bd26658824c3cd66c1ea2ee4e4205bdfdae.jpg> TOKIOが解散発表 SNSの反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 19:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 19:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
