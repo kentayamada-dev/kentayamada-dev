@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11b399ca43cbbfa3d4cf64273b661a22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87cc4b03041f132fec455b31d0081876.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ec09cf6e3514f0e2ad3a6e5b249b514e0bb4d49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816324-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ親会社FMH、午前10時から株主総会…社員のオンカジ事件も加わり大荒れか【中居氏問題からの経過まとめ】
+      <a href=https://news.yahoo.co.jp/articles/6cd7cc1e43e5d4bfe5b71d507ddd394cdc3a48a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=532&ch=532&exp=10800&fmt=webp> イラン核施設中枢は破壊できず　情報機関が分析　米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/abb69b567a779e92f273d33091cec7ceb5e9135b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992110-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「見たら玄関の上まで水が…」各地でゲリラ雷雨と記録的短時間大雨…台風2号から変わった熱帯低気圧の影響による大雨に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5b7af8ab1b90e155967d881bdb9022cb97cac5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185176-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジテレビ親会社 25日株主総会
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6f1eca1ffb4f349f945bcb73973087e7ce3840d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816321-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロンブーが深夜に解散生発表…闇営業問題から6年、淳が亮に吉本復帰を促すも叶わず「屋号を一回降ろして」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e69a8c179a8f7c70d441a49981a789f42b75952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10117444-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> ガンダム「ジークアクス」のガラス細工に見えるけど……　「おぉぉぉぉ」「凄いの一言」意外過ぎる正体に脳がバグる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/129d236df34e8f21d5d53ff3dcab8580f3629092>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=373&ch=373&exp=10800&fmt=webp> ＣＮＮ・ＮＹＴ　「米軍、核施設『破壊は制限的』評価」…トランプ氏「フェイクニュース」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816321-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロンブーが深夜に解散生発表…闇営業問題から6年、淳が亮に吉本復帰を促すも叶わず「屋号を一回降ろして」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/643a28254f2707361615a98b8646fca3698d0470406c2071048b5be91084ed33.jpg> 九州～東北 局地的に激しい雨予想
+      <a href=https://news.yahoo.co.jp/pickup/6543394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9ffa1ed5ebac988b335e21a5b011204a4f6f112663b8690fdad3da80017b713c.jpg> 大気不安定 関東や東海で大雨恐れ
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/743530cf49f01e4bf50e5771f52399df5695285663bde22c9e48a22d6911f52c.jpg> イラン核施設を破壊できず 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6543391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/55ed4ba83f0c4e5217809fc3bad4ec46f66d05c9ab05d4dc00aca46ec4b12b7d.jpg> 米軍 イラン核施設中枢破壊できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/990e6dd636cf52bdcc438b0afce78406a8e033a2ff82fb28a6bc483e06c9b27c.jpg> 男子中学生 車にはねられ意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6543392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b0056e41a39660d95ee21220000ffb1ba3ddde295e64ec23413941fad3984a72.jpg> 94歳父死亡 殺人未遂疑い息子逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 08:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 09:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
