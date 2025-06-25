@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8e0e9e6555905a40ea1aae94379b9ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a14568f7cbbf5954b82f04a8a2cc343f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d7d4bdf2b792b4df770e3c6780aac6c23dff64cb9ca269034fd181d41b6018d0.jpg> 韓国企業 広告大手ADKの買収発表
+      <a href=https://news.yahoo.co.jp/pickup/6543462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b2808a44f4f90dec20e90e15154639108d25997e02e7c5f09422bfdd1e56ccb5.jpg> 行政主導赤ちゃんポスト 法律の壁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51841c2ce2d9780e942df0afd052e5a2fc8904f1933d7093a238649d24edaa78.jpg> 日本郵便に行政処分 今後どうなる
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/74bddeae99bab0c0e1e447d5d4c209157d07d8caa04add29615cac62fb9986e8.jpg> 「クラT」届かない トラブル増
+      <a href=https://news.yahoo.co.jp/pickup/6543473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/862bd20e27159646d813c4f2f2d9118d6cd7f1d500241ea133766f6520676f6e.jpg> SB山川穂高が1軍再合流 丸刈り姿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2941ac883979ef89092eb120215e20177ceeb51abc2d6447090d60fe9bf9fa2e.jpg> 部下が「上司選ぶ」静かに広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0e3d9b9ab37ffd74bc47ebf2688bce550605490fec01aabc1f273540fe0d0584.jpg> TOKIO松岡 福島県に電話で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a56f5c3933d98f2425f8c52f2fb81bdab7f863d059fc8496f9c2dbf61932cf9c.jpg> TOKIO解散 城島と松岡が24日決断
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 23:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 23:51:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
