@@ -1,13 +1,11 @@
-name: Portfolio Deployment
+name: Storybook Deployment
 
 env:
   VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_STORYBOOK_ID }}
 
 on:
   workflow_dispatch:
-  repository_dispatch:
-    types: [contentful_published]
   push:
     paths:
       - portfolio/**
