@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/394b111f5e944509a84bc4dec272802b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8b22c8147fd0304fe5ef3c653a1ec48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae8f8076fef228a1543fa8a6d744a53fa4693ea0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000043-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1110&ch=1110&exp=10800&fmt=webp> ＜TOKIO＞解散を発表　「グループとして応援いただくことは難しいと判断」
+      <a href=https://news.yahoo.co.jp/articles/771cff690504e2936bd472831241e197ae295c7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816822-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 泉里香が結婚、相手は3歳年下のサッカー日本代表・谷口彰悟　ビッグカップルに祝福続々「なんと美男美女！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f754b4c19ebb5dd828841202fe58a377f0947bef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「本当に“実力主義”ならば…」キム・ヘソンを阻む「障害」　25億円男の復調を待つ選手起用をド軍メディアが疑問視
+      <a href=https://news.yahoo.co.jp/articles/444706f522ce22ff2c5c59fe7afb45ffbaeeb8ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イランの「体制転換望まず」　トランプ米大統領が修正
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c7869eb28ba5e5306d56ad510b7865b5223012e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992391-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジメディアHD株主総会　会社提案の取締役選任案可決「人権尊重を経営の中心に置く揺るぎない企業文化の構築に取り組んでいく」　ダルトン側提案は否決
+      <a href=https://news.yahoo.co.jp/articles/d5326bdac74e48bc18dac0de9b12072f1bb5b7c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02411235-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「乾杯したい」大谷翔平の通算300号をベッツが祝福　指揮官も「素晴らしい」と称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9386642daffd4e9f6e6ee7b0b634454de0657b41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000101-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：イラン攻撃でＭＡＧＡ分裂リスク、トランプ氏の大きな賭け
+      <a href=https://news.yahoo.co.jp/articles/2fa0212c3ab2601347aee0d5ff063282edca8831>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250683-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> フジ「イット！」株主総会伝える　会社側提案の11人取締役選任案が可決承認、ダルトン案は否決
       </a>
     </td>
   </tr>
@@ -402,32 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3e8f9fb081a4f4d3eca9c748e3f99de1106456f0b8e8e44e8ee1f4e50b5b790f.jpg> TOKIO 解散を発表
+      <a href=https://news.yahoo.co.jp/pickup/6543439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c85a31c6c2c82078721c62878d5ba76f89a57735443475f762f8838ce326f0da.jpg> 3連休中日が投票日 与党に有利?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/8ae864d17430e5721f7e09cc57b638e6d317decf51b127a51b0f002ccfb01214.jpg> 日本郵便の運送事業許可 取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6543442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/90e6db438abf313c7f71586636e35219ca3426e9cb40e95ab9b3540052e16494.jpg> 民家で流血の女性死亡 殺人で捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02262846/title-1750811364821.jpeg?exp=10800> 襲撃事件影響か 中国から減る邦人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/6ace2201d9982f2a89c9f902b2890056087070a9a5a1b19a41ca73c0b76844fa.jpg> 元男性市議におっさん発言 賠償令
+      <a href=https://news.yahoo.co.jp/pickup/6543440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c9f2490f0c1965e2ab214cad796323a8b897f5720ebd81b27a5a9a88b8e3b52e.jpg> 女性を巡る発言が波紋 玉木氏回答
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ec7201cd802f3a970b6dd27f7b33eb792b44d9b5c9c59fb16e641bdbe99f767b.jpg> トイレのシャワー機能 衛生的には
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543433>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2725554089f2367d6ef609b1d9033dea6588238a2a4d64ffa8354407dff017fb.jpg> スズキがレトルトカレー発売 経緯
       </a>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/cc5b7beef52c47423bbb3547551d7abcf654497b07ed24fa20268852b219ce63.jpg> ドジャースが逆転 乱打戦を制す
+      <a href=https://news.yahoo.co.jp/pickup/6543446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a9091c6615ccd87a6b8447b4f980f257bf0726d7dcad6deae28dc8252957add3.jpg> 泉里香 DF谷口彰悟との結婚発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543434>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02262633/title-1750796378911.jpeg?exp=10800> 解散のロンブー 歩んだ独自路線
+      <a href=https://news.yahoo.co.jp/pickup/6543438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3e8f9fb081a4f4d3eca9c748e3f99de1106456f0b8e8e44e8ee1f4e50b5b790f.jpg> TOKIO 解散を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 16:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 17:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
