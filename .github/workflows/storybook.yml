@@ -26,7 +26,7 @@ jobs:
           sparse-checkout: |
             portfolio
             .devcontainer/.env
-            .github/workflows/scripts/deploy_storybook.sh
+            .github/workflows/scripts/deploy_vercel.sh
             .github/workflows/scripts/delete_workflows_except_latest.sh
 
       - name: Deploy to vercel
@@ -36,7 +36,7 @@ jobs:
           shell: bash
           options: -v ${{ github.workspace }}:/app
           run: |
-            . ./app/.github/workflows/scripts/deploy_storybook.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
+            . ./app/.github/workflows/scripts/deploy_vercel.sh $(grep NODE_VERSION ./app/.devcontainer/.env | cut -d = -f2) $(grep PNPM_VERSION ./app/.devcontainer/.env | cut -d = -f2) ${{ secrets.VERCEL_TOKEN }}
 
       - name: Delete previous workflow
         run: |
