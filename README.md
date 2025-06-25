@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/124650d559ad67fe881bbf553bb6011b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c09dbb56fb3f19d60432ee58b2f38634.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d0c09aad2841d86e6c1d1a58ed418427825ad9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050200-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「ＴＯＫＩＯ課」設置しＣＭなどに起用の福島県、解散に「衝撃」…「城島茂氏と松岡昌宏氏は変わらず応援して」
+      <a href=https://news.yahoo.co.jp/articles/3ef8e1107459661ed2c6e2a513454e0d3ae6fbff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000001-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=500&ch=500&exp=10800&fmt=webp> 活動休止…『TOKIO』国分太一「ついにバレた！ハラスメントな素顔」と待ち受ける「苦難の道」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/774328dd102af8e7526f35d575a07de115c496d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01780245-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を祝う“特別仕立て”が「いつもより豪華」　ファン驚愕の超速対応に「準備してたな」
+      <a href=https://news.yahoo.co.jp/articles/1948f9df204a39499a3f5ca6e5b6e687bd1efeeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000196-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が「1番・DH」で出場　〝打者天国〟で11度目の3戦連発出るか　3度目の前半戦30発に残り「3」　山本由伸が先発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c54b0d335db83c0b13b33cb8c8b1fad460f28855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=750&ch=750&exp=10800&fmt=webp> イランが北朝鮮の後を追う？　イスラエルやアメリカによる攻撃がイランの核開発を加速させるかも
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1671df07efea458479fadfbc9da2bf2a14c27484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04113738-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、イランと核問題をめぐる協議を来週行うと表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60e3e59b406160016de85d575c32ac1b73ca180e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00175408-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「取引は成立」190センチの日本人DFがついに５大リーグ移籍へ！ブンデスクラブと合意と有名記者が報道　移籍金は８億円
+      <a href=https://news.yahoo.co.jp/articles/40388a9a9cc130b7d4dee7116ec228339388397c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00030383-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 26日も大雨の恐れ　局地的に激しい雨や雷雨　少しの雨でも土砂災害などに警戒
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51841c2ce2d9780e942df0afd052e5a2fc8904f1933d7093a238649d24edaa78.jpg> 日本郵便に行政処分 今後どうなる
+      <a href=https://news.yahoo.co.jp/pickup/6543488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/1a1a04e44e5113e38f4babfde6fb4628a9587ec9a7407aafc8f4d4c662afdff2.jpg> 停戦巡り「戦争は終わった」米
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b2808a44f4f90dec20e90e15154639108d25997e02e7c5f09422bfdd1e56ccb5.jpg> 行政主導赤ちゃんポスト 法律の壁
+      <a href=https://news.yahoo.co.jp/pickup/6543489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/81a09fc00d6e8f5ea70effa33f88c29d874f1c132a3e7a243f9ab4cdc484f0ff.jpg> 局地的に激しい雨 災害に警戒を
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/df9843e017f83320e98de637c9facf2b008fbc86e0f468f068887e6cf4e28008.jpg> 防衛費目標はGDPの5% NATO採択
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/94bb95b7238e06920944020dcae0bc430e19dcfa431e5ec2139710b6d70a8c1b.jpg> 「置き配」標準化を検討 不安の声
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b2ce96e4e74f7db3411333411f9ce08522750a94948305213c5802919fb45e9b.jpg> 中森明菜が声優挑戦 歌声も披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543463>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d3408ee4779bd258cc2af2fa64a8e386b2b6b72c25fd8a344b2c483374042701.jpg> 花田優一 福田典子アナと交際
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 06:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 07:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
