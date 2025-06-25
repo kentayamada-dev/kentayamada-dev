@@ -9,5 +9,5 @@ vercel pull --yes --environment=production --token=$3
 vercel build --prod --token=$3
 vercel deploy --prebuilt --prod --token=$3
 
-vercel --cwd ./app/portfolio/.storybook/output
-vercel deploy --prebuilt --prod --token=$3
+# vercel --cwd ./app/portfolio/.storybook/output
+# vercel deploy --prebuilt --prod --token=$3
