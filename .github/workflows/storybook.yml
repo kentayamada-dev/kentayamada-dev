@@ -14,7 +14,7 @@ jobs:
   Deployment:
     env:
       VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID_2 }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_STORYBOOK_PROJECT_ID }}
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
