@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/049430768e1eff4d8021fb83a5060686.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36581a205f9faea9a950eddba16c4d04.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e258cd30ef6cfda31167cc8c368ea20d922b7d27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 「心より申し訳ない」トライグループが水俣市に謝罪　教材に誤表記
+      <a href=https://news.yahoo.co.jp/articles/bf2b7944c9a6d617dd4bfc67bb3455820e62500b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 鈴木誠也が２試合ぶりの２１号で自身の日本人右打者最多記録に並ぶ　２本の内野安打も放ち１か月ぶりの３安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0602dde68fe8a0313905bb23c1f19e44afe6998a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米報道「イラン核施設破壊できず」　米国連大使は否定
+      <a href=https://news.yahoo.co.jp/articles/180a071f8b2d6a6d70866a1f56b6aba23efbfb7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251055-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ロンドンブーツ１号２号」解散電撃発表　有名人からエール続々…陣内智則「これからもかっこいい淳と亮で」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0fee134d1c98b52a5fec859930a341da517cff5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=620&ch=620&exp=10800&fmt=webp> ＜1分で解説＞フジ・メディアHDの株主総会、取締役選びは
+      <a href=https://news.yahoo.co.jp/articles/a5818194060da27ed2666a5fbeaece7ff1c5e674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816371-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ親会社の株主総会、大雨の中で株主が続々会場入り「どんなもんかと思って」「経営刷新をしないと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/539f3eefaccd54a69f00c8616543be44c5f5c8ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000024-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散「一度屋号を下ろす」、「ロンハー」は継続
+      <a href=https://news.yahoo.co.jp/articles/bd7e06ab71c1e9ed472007206f1b7e2ca329aa68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000018-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 米のイラン空爆、核施設の重要部破壊できず　情報機関が初期評価か
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/55ed4ba83f0c4e5217809fc3bad4ec46f66d05c9ab05d4dc00aca46ec4b12b7d.jpg> 米軍 イラン核施設中枢破壊できず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543396>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ce10c1ff3d0b66d2ed4e2f31956f96cd9e68c61e965aac2e086ea4983b723d36.jpg> 日韓関係「良い」52%に上昇 調査
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b39c375f9ad7b03e02430a2af00fd4b0d1b40b94b7e8b542c26e630c053a900d.jpg> 南極で中国の観測施設が倒壊
+      <a href=https://news.yahoo.co.jp/pickup/6543402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/10f68f60af9c60ded15f7ac3a80a8b7f14f62e5ace39b5b6276f9d9d244240e9.jpg> トライG幹部ら 水俣市長に謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d8e2127f40e3032bcfcd3f0054b508a956d21f68f7f98d58e33acbebdb3bf3cb.jpg> 隈氏手掛けた美術館 屋根アルミに
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/53744cc039ee38fc9adc0b651ace85b4489d99297961f43d82093a211a9552eb.jpg> 香港式も登場 特化型のファミレス
+      <a href=https://news.yahoo.co.jp/pickup/6543405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3674fd0bb56620c1a14bc11131925f7731f9f8b5f2a9dcd631b19a9549efec51.jpg> 鈴木誠也が21号 低空弾に敵地騒然
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 10:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 11:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
