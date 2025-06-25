@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e9ec30088adf2ab878da4d5937970ac9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e8d95ce2a8f999e4990bda92bf2e5a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/becb6470ccae37bb7df2a62c55ac78b9e83fb155>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-03273586-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジ側提案の取締役候補を選任　堀江氏質問に“拍手”も　フジHD株主総会
+      <a href=https://news.yahoo.co.jp/articles/f1c7ff8843eeb7f9b330ccf489f85dc40144b0a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245148-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「広島・長崎と本質的に同じ」イラン核施設への攻撃をトランプ大統領が正当化　“12日間戦争”でイラン核開発が加速の恐れも…【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b673754dd6ec9f1022ab7cf0feec685d9a8e979>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167613-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 株主提案すべて否決…なぜ？フジHD提案の取締役『全員』選任　3300人が出席
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d54e039fe9900c0aa634dedcae8a5ac62c85cc21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000057-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 福島県　TOKIO解散後の連携について見解「城島茂氏と松岡昌宏氏には変わらず応援していただきたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c9f799436f30109193eb0690d62f502d4c4601>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050206-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 女児盗撮、教室や校外学習でも撮影か…主幹教諭や学年主任逮捕・画像共有のＳＮＳには教員１０人近く参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/616a71e9845a071aae7d88bb2086d172031d9550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07795728-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、イラン核施設攻撃が「戦争を終わらせた」と強調　広島や長崎への原爆投下を引き合いに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000057-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 福島県　TOKIO解散後の連携について見解「城島茂氏と松岡昌宏氏には変わらず応援していただきたい」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 01:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 01:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
