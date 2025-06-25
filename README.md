@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2575334b86f988d13cccc0e8cd5b22b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb31e34e191c0c9a23cf78e22c0cc5ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b41dc4be071059c3c564bb505acf67d5c79dffd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050168-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 初出席トランプ氏の意向くみ「結束」演出…ＮＡＴＯ首脳会議、防衛支出「ＧＤＰ５％」目標に合意
+      <a href=https://news.yahoo.co.jp/articles/1b79b4748f3d5cb8642c29c0258be3e299efcd88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050182-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジ株主総会、昨年の２０倍の株主が出席…会社提案の取締役１１人選任・米ファンド提案の１２人は否決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea24500f602c70d56bf941a6c9e1943423a40d9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000106-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=12&cw=587&ch=587&exp=10800&fmt=webp> フジHD退任の日枝氏に退職金　「過去の決議否定する法的根拠ない」
+      <a href=https://news.yahoo.co.jp/articles/39aaac4626378b82c7464b73116c9d3daa13f8df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-22003475-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0b536929c6792a099aedef1749b69317f1c90d0b6b31d97470652c5e5262bc3c.jpg> トランプ氏 核施設への攻撃正当化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e632cabee2b61d4312a6322b6c0f97191bb0336b4add29eb2d5d9f6e151c9fc4.jpg> 柏崎刈羽の再稼働 6号機を優先
+      <a href=https://news.yahoo.co.jp/pickup/6543477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/df9843e017f83320e98de637c9facf2b008fbc86e0f468f068887e6cf4e28008.jpg> 防衛費目標はGDPの5% NATO採択
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543474>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d7d4bdf2b792b4df770e3c6780aac6c23dff64cb9ca269034fd181d41b6018d0.jpg> 韓国企業 広告大手ADKの買収発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9e1a8f4ca46952c4eb6a760f972a8efa0fc39941c63ed9cbe0ed44036a01bdd4.jpg> 地震続く十島村 揺れで酔う人も
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b8283fa4a9c80edcafe1bdc540544336753bacfed301232ba51d23ba65f322a3.jpg> 吉野家が麺メニュー 創業以来初
+      <a href=https://news.yahoo.co.jp/pickup/6543481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2941ac883979ef89092eb120215e20177ceeb51abc2d6447090d60fe9bf9fa2e.jpg> 部下が「上司選ぶ」静かに広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b839791dba9cc14ecccbda8694ca9b3a257efeac2c84b9b793a4a9f554faf0a1.jpg> TOKIO解散 株式会社は廃業へ
+      <a href=https://news.yahoo.co.jp/pickup/6543480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0e3d9b9ab37ffd74bc47ebf2688bce550605490fec01aabc1f273540fe0d0584.jpg> TOKIO松岡 福島県に電話で謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 22:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 22:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
