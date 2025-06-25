@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/s22qWiuMfmc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d7b107deeca74a99504dd11397d06b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/049430768e1eff4d8021fb83a5060686.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea450ba1d12a20077ba68096f3492f4f2c8011ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000130-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 堀江貴文氏　フジ・メディアHDの株主総会会場に到着
+      <a href=https://news.yahoo.co.jp/articles/e258cd30ef6cfda31167cc8c368ea20d922b7d27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 「心より申し訳ない」トライグループが水俣市に謝罪　教材に誤表記
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b17774858db05785d0e9b432280abe0f4c159f91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＣＮＮ「イラン核施設の中核は破壊されず」…トランプ氏「失礼だ」「フェイクニュースだ」
+      <a href=https://news.yahoo.co.jp/articles/0602dde68fe8a0313905bb23c1f19e44afe6998a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米報道「イラン核施設破壊できず」　米国連大使は否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d0fee134d1c98b52a5fec859930a341da517cff5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=620&ch=620&exp=10800&fmt=webp> ＜1分で解説＞フジ・メディアHDの株主総会、取締役選びは
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/539f3eefaccd54a69f00c8616543be44c5f5c8ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000024-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散「一度屋号を下ろす」、「ロンハー」は継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2d9128868cc9e35ec2dce46c1e2c3b2818f3131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90030722-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 名古屋の小学校教員逮捕　女子児童の下着”盗撮画像”SNSのグループに共有か
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b0056e41a39660d95ee21220000ffb1ba3ddde295e64ec23413941fad3984a72.jpg> 94歳父死亡 殺人未遂疑い息子逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ce10c1ff3d0b66d2ed4e2f31956f96cd9e68c61e965aac2e086ea4983b723d36.jpg> 日韓関係「良い」52%に上昇 調査
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/897b791ddc17d6a851fd9c4ebf1104a977c8a2fa33ba8183f0e605b1334431c2.jpg> 大谷を球宴で投手起用 監督はNO
+      <a href=https://news.yahoo.co.jp/pickup/6543401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/53744cc039ee38fc9adc0b651ace85b4489d99297961f43d82093a211a9552eb.jpg> 香港式も登場 特化型のファミレス
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 10:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 10:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
