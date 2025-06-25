@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80105583804435f0d610329ee92e6933.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73a1863dd6e65fbd644d78201b824546.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d29af691d838a6eb0e4695b829c93b4ec1894e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050065-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フジＨＤ株主総会で社長が陳謝「改革を強力に推し進める」…ファンドと反する取締役人事案が焦点
+      <a href=https://news.yahoo.co.jp/articles/a9f6a5825b6bd1b396fbf702f01a8e0984691521>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02691913-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=360&ch=360&exp=10800&fmt=webp> WBC前年にキャリアハイなるか…ヌートバー2戦連発11号　自己最多14本塁打更新に前進
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4fd18500efffa7538dbdc3fee78eba2b0ea9a4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000161-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=750&ch=750&exp=10800&fmt=webp> 大谷翔平300号好捕はソフトボール部女子大生「彼のスイングをよく見ている」同じ左打ちで通算30発
+      <a href=https://news.yahoo.co.jp/articles/45f25f0099b09d9f75ba09be33f48527c82c579c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250324-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平27号フェンスギリギリ弾で日米通算300本塁打を達成　続く５打席目は投ゴロ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9f67b468d485326e70803068aafbfdedd4ebcbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01175486-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランの“完全停戦”…実現するかが焦点　トランプ大統領は“自信”示す
+      <a href=https://news.yahoo.co.jp/articles/fabe33eba679d6f78c393aec25513f75dd3edca4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジMHD 株主総会続く　取締役候補 株主側は12人提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f51b993d40a7c00ec48da9a743a0a92dcbb9845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10566585-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カージナルス、地区首位カブスとの乱打戦を制す　ヌートバーが2戦連発の11号先制弾　鈴木誠也の一発は空砲に
+      <a href=https://news.yahoo.co.jp/articles/feb4d5e517f44524d655fafbe894f5fe8a8fc798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167542-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「爆弾落とすな」トランプ氏　イスラエルに怒りぶつける　停戦合意後もイランと応酬
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ce10c1ff3d0b66d2ed4e2f31956f96cd9e68c61e965aac2e086ea4983b723d36.jpg> 日韓関係「良い」52%に上昇 調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543406>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dc2bd2e0c9b7b655d5a31e3becfda868c333a75ac9926d0f8310416b9f64e6cf.jpg> フジHD社長 株主総会冒頭で謝罪
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d8e2127f40e3032bcfcd3f0054b508a956d21f68f7f98d58e33acbebdb3bf3cb.jpg> 隈氏手掛けた美術館 屋根アルミに
+      <a href=https://news.yahoo.co.jp/pickup/6543414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a26b8a3db000c281c1fdb4c5acd29fe63141456b694207481a2e54c437268d4d.jpg> 災害予言の漫画家 日付の特定否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2bd129bb2f767ebb122c58d4815e5ccc8c8ab90ca5e404f181c9350ef2f826ca.jpg> ベゾス氏の結婚式会場変更 抗議で
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b215dcbb3b91c96dc20234bea410687c6131e16da7ee2d6b87dd1426c932c6d8.jpg> ロンブー解散 淳「友達に戻ろう」
+      <a href=https://news.yahoo.co.jp/pickup/6543413>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02262861/title-1750811550270.jpeg?exp=10800> ロンブー解散「やさしい」選択肢
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 12:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
