@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36581a205f9faea9a950eddba16c4d04.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d30549fd3fb35c808f0f6c36caf2393.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf2b7944c9a6d617dd4bfc67bb3455820e62500b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 鈴木誠也が２試合ぶりの２１号で自身の日本人右打者最多記録に並ぶ　２本の内野安打も放ち１か月ぶりの３安打
+      <a href=https://news.yahoo.co.jp/articles/1acf9d49deac64903b9aa2f1f290ea6e249591ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000026-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平が2戦連発の27号2ラン　日米通算300号達成　松井秀喜、福留孝介に続き日本選手史上3人目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/180a071f8b2d6a6d70866a1f56b6aba23efbfb7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251055-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「ロンドンブーツ１号２号」解散電撃発表　有名人からエール続々…陣内智則「これからもかっこいい淳と亮で」
+      <a href=https://news.yahoo.co.jp/articles/836c85dc357053bc2ced2cbc182633967187580a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000037-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「イスラエル６日戦争オマージュ」…トランプ大統領、この言葉でネタニヤフ首相を説得
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5818194060da27ed2666a5fbeaece7ff1c5e674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816371-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ親会社の株主総会、大雨の中で株主が続々会場入り「どんなもんかと思って」「経営刷新をしないと」
+      <a href=https://news.yahoo.co.jp/articles/8fea4c1f6d8570d3ee9b4eb64e513c4cc89b2fc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251029-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が日米通算３００号達成！　打者天国で逆方向へ圧巻の２戦連発２７号、敵地なのにＭＶＰコール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd7e06ab71c1e9ed472007206f1b7e2ca329aa68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000018-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=454&ch=454&exp=10800&fmt=webp> 米のイラン空爆、核施設の重要部破壊できず　情報機関が初期評価か
+      <a href=https://news.yahoo.co.jp/articles/bd37838d9a5315666864d5911f28b6d2a4c9bacd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000031-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 「いい番組作りを」「総取っ換えで新風を」　フジHD株主総会開催
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2eee0bbeb840d6301fde90901aa5ff98274fcdf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000021-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1296&ch=1296&exp=10800&fmt=webp> ＜ロンドンブーツ1号2号＞「ロンハー」で突如、解散発表　番組は継続
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/9ffa1ed5ebac988b335e21a5b011204a4f6f112663b8690fdad3da80017b713c.jpg> 大気不安定 関東や東海で大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6543407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a1e9009a6d15ea1f0ee16de92d6086de6d6f8f23939a3f048a377d8ad5cb210e.jpg> トランプ氏 イランへの態度軟化
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0c8c0a7aba557faa31df49e108ca49b1ccf8730e490c83af05485e0c39cdceaf.jpg> 北大 国内未確認の毒性植物生育か
+      <a href=https://news.yahoo.co.jp/pickup/6543403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3674fd0bb56620c1a14bc11131925f7731f9f8b5f2a9dcd631b19a9549efec51.jpg> 鈴木誠也が21号 低空弾に敵地騒然
+      <a href=https://news.yahoo.co.jp/pickup/6543409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/93f39a6f1bb1e65b520ac7f825126107a9968abdcddae831c389ef156756aec8.jpg> 大谷が日米通算300号 2試合連発
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 11:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 11:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
