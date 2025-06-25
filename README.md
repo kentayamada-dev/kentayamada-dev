@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6739c7e1bc9fe42c21efe1d7f6316979.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3adfa6156f848aa5e71525c24879644a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/332e38bc07157373e2d40fe325197350068cc51a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050141-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=465&ch=465&exp=10800&fmt=webp> 有森裕子氏が日本陸連会長に、女性・五輪経験者で初…五輪女子マラソンで２大会連続メダル
+      <a href=https://news.yahoo.co.jp/articles/3262fa6500534ee4772c1ea04fae9f686c4903e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01780679-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、日米通算300号に超速反応　スポンサー企業が僅か1分後に公開した“特別仕立て”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/352ad0a2b2382c645b1929788c91271706131b22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000075-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=467&ch=467&exp=10800&fmt=webp> イスラエルとイランの戦闘　トランプ大統領「停戦順調に進んでいる」
+      <a href=https://news.yahoo.co.jp/articles/50b0ccb429f4e56c93a478d83c7026f27b06ce61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-07245078-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4時間以上続いたフジ・メディアHD株主総会　大株主ファンド提案の12人は一人も選ばれず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f8505a9417b2525cf0a7f8a0fc7d8a0e15893e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000060-ann-000-6-thumb.jpg?exp=10800&fmt=webp> フジVS物言う株主 堀江氏も参戦　カギを握る「村上氏の長女」
+      <a href=https://news.yahoo.co.jp/articles/ddbe5e02e07e3bc4a3f82c82170c2ae169dc3293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00043129-rolling-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=556&cy=0&cw=750&ch=750&exp=10800&fmt=webp> トランプのイラン攻撃に「ノーベル平和賞を！」支持者らが猛プッシュ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c8f1f34f29df13f921fb0428e632c801b470786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185250-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> 「いった！」大谷翔平の“幻の27号”に敵地どよめき… 176キロの大飛球に全員がダマされた瞬間
+      <a href=https://news.yahoo.co.jp/articles/b6ea71fbbba437eb0d960c084d80d7afb4cc204b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050131-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 島村楽器が講師に取引条件示さず、公取委から勧告受ける…音楽業界初のフリーランス法違反
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/6ae831449eded9f796d288bf4e414bec40b7b3689f84d2d7da16157f8fbd4bb5.jpg> 関東甲信地方 警報級大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c85a31c6c2c82078721c62878d5ba76f89a57735443475f762f8838ce326f0da.jpg> 3連休中日が投票日 与党に有利?
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/90e6db438abf313c7f71586636e35219ca3426e9cb40e95ab9b3540052e16494.jpg> 民家で流血の女性死亡 殺人で捜査
+      <a href=https://news.yahoo.co.jp/pickup/6543440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c9f2490f0c1965e2ab214cad796323a8b897f5720ebd81b27a5a9a88b8e3b52e.jpg> 女性を巡る発言が波紋 玉木氏回答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c9f2490f0c1965e2ab214cad796323a8b897f5720ebd81b27a5a9a88b8e3b52e.jpg> 女性を巡る発言が波紋 玉木氏回答
+      <a href=https://news.yahoo.co.jp/pickup/6543449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d4478fd99bf109a34d5be572259d734f7b0344b297fb87096a323759744c44e6.jpg> 千葉県市原市で切りつけ 男逃走
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543441>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ec7201cd802f3a970b6dd27f7b33eb792b44d9b5c9c59fb16e641bdbe99f767b.jpg> トイレのシャワー機能 衛生的には
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2725554089f2367d6ef609b1d9033dea6588238a2a4d64ffa8354407dff017fb.jpg> スズキがレトルトカレー発売 経緯
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 18:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 18:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
