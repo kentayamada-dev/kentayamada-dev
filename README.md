@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ede613c6e04077c2ef9f94033be222bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94a416266e3dd26ce5fb1ba2fc26ba1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/121c0523cb9ffe1ae21a27f91729ce71d421ec11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000051-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=853&ch=853&exp=10800&fmt=webp> フジ・メディアHD総会、約４時間半で終了 中居正広氏への損害賠償請求するのかとの質問も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab33cfc1922da0b74156b3858121abe21a57df03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000047-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、二刀流の雑音一蹴の2戦連発27号、113メートル「ギリギリ」弾、日本選手偉業の多い地で節目アーチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/022b35c8418a911893b62f21b80c98542cd0290b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 茨城県で震度4　M4.3、津波の心配なし
       </a>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/76df8c3697952c8b56f37a7ece83ea6019e4ce96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-09498856-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ネタニヤフ首相「イスラエルは核の脅威を排除した」　戦闘勝利の認識示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ba5756fa196dc876d32f85a6ed89c6036bb8a59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 郵便運送、国交省が許可取り消し　2500台対象、再取得に5年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df82c22548e6dda60f59f2642f4ed2e1fd52a7d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャースの大谷、日米通算300号　米大リーグ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-09498856-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ネタニヤフ首相「イスラエルは核の脅威を排除した」　戦闘勝利の認識示す
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1d9b4c7ef64d736731d52b8f629114e222745037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000052-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 堀江貴文氏「日枝さん、普通来るんだけどね」　フジHD株主総会
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000052-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 堀江貴文氏「日枝さん、普通来るんだけどね」　フジHD株主総会
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/51fefd104bbe728488fa49ceced4ccc9810449904865a42ec5f38ed36911219e.jpg> 日本郵政 株主総会で批判が続出
+      <a href=https://news.yahoo.co.jp/pickup/6543432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/52803b1ed65932d47304336f62daf6065df233ffabc98ddb76c23895f2a7ebf3.jpg> フジHD会社提案の取締役全員選任
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dc2bd2e0c9b7b655d5a31e3becfda868c333a75ac9926d0f8310416b9f64e6cf.jpg> フジHD社長 株主総会冒頭で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c02b14c6da6e53272fc621f06c3e3e3c4cfdcdf2b2969a2c3aca2a96de4c7d98.jpg> 自民党旧安倍派が正式に解散
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543408>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konakashota/02262759/title-1750807498573.jpeg?exp=10800> バース以来HR王へ 佐藤輝の進化
+      <a href=https://news.yahoo.co.jp/pickup/6543429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/f717cc2797d1662e89e8c32149408b48a9b84c136aafbe25c5774458ed0bdafc.jpg> 「goo辞書」終了 25年の歴史に幕
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e0954f0bb9ffc40e93fd29cab2d4bf44bdf6c70b8c89e111b69b1bd2bf635267.jpg> 「つば九郎を戻して」涙ぐむ株主
+      <a href=https://news.yahoo.co.jp/pickup/6543424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/490e7aec8e4c7e7908d9cdcb98177c0f6ac274b0090c478c0c76c011eec881be.jpg> 高比良くるま よしもと劇場で自虐
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 14:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 15:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
