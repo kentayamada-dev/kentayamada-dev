@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c09dbb56fb3f19d60432ee58b2f38634.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1212a5678beb1a265a2708663fbae00a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ef8e1107459661ed2c6e2a513454e0d3ae6fbff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000001-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=500&ch=500&exp=10800&fmt=webp> 活動休止…『TOKIO』国分太一「ついにバレた！ハラスメントな素顔」と待ち受ける「苦難の道」
+      <a href=https://news.yahoo.co.jp/articles/d6a44997f38e964800f5df31ac5228ce619d3483>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 濃縮ウラン４００キロの行方分からず…イラン「核活動を続ける」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1948f9df204a39499a3f5ca6e5b6e687bd1efeeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000196-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が「1番・DH」で出場　〝打者天国〟で11度目の3戦連発出るか　3度目の前半戦30発に残り「3」　山本由伸が先発
+      <a href=https://news.yahoo.co.jp/articles/6e80ab220982d01a764728f8104f22c5de6d33bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22003597-tuliptv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 熱帯低気圧と寒冷渦が日本列島を挟む【雨と風の動き シミュレーション】27日にかけ局地的に激しい雨のおそれ 大気の状態は非常に不安定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c54b0d335db83c0b13b33cb8c8b1fad460f28855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=750&ch=750&exp=10800&fmt=webp> イランが北朝鮮の後を追う？　イスラエルやアメリカによる攻撃がイランの核開発を加速させるかも
+      <a href=https://news.yahoo.co.jp/articles/a3489e5e3be3ef0900e35bf76db54c0a1b95e742>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《国民に愛された『TOKIO』解散》現場騒然の「山口達也ブチギレ事件」、長瀬智也「ヤラセだらけの世界」意味深投稿が示唆する“メンバーの本当の関係”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47c1e5774b5bdceefd38303e62c2ef0a7debd94b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00349798-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ完全勝利の株主総会　それでも安心できないオンカジ〝芋づる〟摘発
+      <a href=https://news.yahoo.co.jp/articles/19324763d0ee9a324b124ac3a2bc8fc3861ef09e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000090-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　ロッキーズ戦「1番・DH」でスタメン、28号に期待　山本由伸が7勝目狙い先発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40388a9a9cc130b7d4dee7116ec228339388397c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00030383-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 26日も大雨の恐れ　局地的に激しい雨や雷雨　少しの雨でも土砂災害などに警戒
+      <a href=https://news.yahoo.co.jp/articles/47524ea8423bfc1a645202c4fad75531b627cf0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000012-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 株主側、役者そろうも失速　堀江氏出席、日枝氏姿見せず　フジHD総会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 07:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 07:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
