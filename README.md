@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d30549fd3fb35c808f0f6c36caf2393.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80105583804435f0d610329ee92e6933.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1acf9d49deac64903b9aa2f1f290ea6e249591ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000026-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平が2戦連発の27号2ラン　日米通算300号達成　松井秀喜、福留孝介に続き日本選手史上3人目
+      <a href=https://news.yahoo.co.jp/articles/2d29af691d838a6eb0e4695b829c93b4ec1894e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050065-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フジＨＤ株主総会で社長が陳謝「改革を強力に推し進める」…ファンドと反する取締役人事案が焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/836c85dc357053bc2ced2cbc182633967187580a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000037-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「イスラエル６日戦争オマージュ」…トランプ大統領、この言葉でネタニヤフ首相を説得
+      <a href=https://news.yahoo.co.jp/articles/e4fd18500efffa7538dbdc3fee78eba2b0ea9a4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000161-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=60&cw=750&ch=750&exp=10800&fmt=webp> 大谷翔平300号好捕はソフトボール部女子大生「彼のスイングをよく見ている」同じ左打ちで通算30発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fea4c1f6d8570d3ee9b4eb64e513c4cc89b2fc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251029-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が日米通算３００号達成！　打者天国で逆方向へ圧巻の２戦連発２７号、敵地なのにＭＶＰコール
+      <a href=https://news.yahoo.co.jp/articles/d9f67b468d485326e70803068aafbfdedd4ebcbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-01175486-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イスラエルとイランの“完全停戦”…実現するかが焦点　トランプ大統領は“自信”示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd37838d9a5315666864d5911f28b6d2a4c9bacd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000031-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 「いい番組作りを」「総取っ換えで新風を」　フジHD株主総会開催
+      <a href=https://news.yahoo.co.jp/articles/0f51b993d40a7c00ec48da9a743a0a92dcbb9845>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10566585-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=683&ch=683&exp=10800&fmt=webp> カージナルス、地区首位カブスとの乱打戦を制す　ヌートバーが2戦連発の11号先制弾　鈴木誠也の一発は空砲に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2eee0bbeb840d6301fde90901aa5ff98274fcdf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000021-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1296&ch=1296&exp=10800&fmt=webp> ＜ロンドンブーツ1号2号＞「ロンハー」で突如、解散発表　番組は継続
+      <a href=https://news.yahoo.co.jp/articles/af957caa25793df2fe5b00e3e38a04d85d504c27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167545-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=844&ch=844&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散発表 Xや公式サイトで思いを明かす
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/10f68f60af9c60ded15f7ac3a80a8b7f14f62e5ace39b5b6276f9d9d244240e9.jpg> トライG幹部ら 水俣市長に謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dc2bd2e0c9b7b655d5a31e3becfda868c333a75ac9926d0f8310416b9f64e6cf.jpg> フジHD社長 株主総会冒頭で謝罪
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a0a185af9d42f069c8eb6f9089f76841c41bcbb1a93bacd2f5e83e3bb075fcf5.jpg> 地震「トカラの法則」専門家否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543403>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/93f39a6f1bb1e65b520ac7f825126107a9968abdcddae831c389ef156756aec8.jpg> 大谷が日米通算300号 2試合連発
+      <a href=https://news.yahoo.co.jp/pickup/6543412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/e0954f0bb9ffc40e93fd29cab2d4bf44bdf6c70b8c89e111b69b1bd2bf635267.jpg> 「つば九郎を戻して」涙ぐむ株主
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/93f39a6f1bb1e65b520ac7f825126107a9968abdcddae831c389ef156756aec8.jpg> 大谷が打者天国で豪快アーチ 騒然
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 11:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 12:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
