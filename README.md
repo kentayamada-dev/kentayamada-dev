@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbf554d60b56aaacaaa8f070ea1fa146.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d7b107deeca74a99504dd11397d06b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea450ba1d12a20077ba68096f3492f4f2c8011ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000130-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 堀江貴文氏　フジ・メディアHDの株主総会会場に到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b17774858db05785d0e9b432280abe0f4c159f91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＣＮＮ「イラン核施設の中核は破壊されず」…トランプ氏「失礼だ」「フェイクニュースだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/539f3eefaccd54a69f00c8616543be44c5f5c8ea>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000024-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=500&ch=500&exp=10800&fmt=webp> ロンドンブーツ1号2号が解散「一度屋号を下ろす」、「ロンハー」は継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9a145411fe5ebeb3708861dbc801ac0f99efb0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米軍攻撃のイラン3核施設、中核部分は破壊できずか　情報機関の分析と米報道、政府高官は否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5b7af8ab1b90e155967d881bdb9022cb97cac5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185176-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジテレビ親会社 25日株主総会
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/a0a185af9d42f069c8eb6f9089f76841c41bcbb1a93bacd2f5e83e3bb075fcf5.jpg> 地震「トカラの法則」専門家否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543395>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0c8c0a7aba557faa31df49e108ca49b1ccf8730e490c83af05485e0c39cdceaf.jpg> 北大 国内未確認の毒性植物生育か
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/d3a86d520ecd206d5f63b138fdb5c5309646d24051d8325975ab5b80082d73c9.jpg> ロンブー解散 「ロンハー」は継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/3da82e0b64547646ce280be4efe3bdeb0aeba4ea8954ab168f238b27c91800da.jpg> ガンダム新作最終回 古谷徹が出演
+      <a href=https://news.yahoo.co.jp/pickup/6543397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b215dcbb3b91c96dc20234bea410687c6131e16da7ee2d6b87dd1426c932c6d8.jpg> ロンブー解散 淳「友達に戻ろう」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 09:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 10:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
