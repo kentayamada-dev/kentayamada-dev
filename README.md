@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c31100f6f44198466200605e0dd2b8a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/335c0c2e1e1944f2e161c424331aa627.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/676b1281b576ad9a4b86b773a35b5ceb81c8b130>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000221-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=705&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 原爆投下引き合いに正当化　トランプ氏、対イラン攻撃
+      <a href=https://news.yahoo.co.jp/articles/ba2c457ccbc7ee61cd8906c31db490082816b4a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000485-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=527&ch=527&exp=10800&fmt=webp> 山口達也氏「再出発は誰にだってできるはず」　TOKIO解散発表の日に近況報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e6a9721e017c13447578dbba4de0c870d433b60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【TOKIO電撃解散】国分太一のパワハラ疑惑、他メンバーに指摘される「見て見ぬふり」の疑い…ストッパー不在の暴走か
+      <a href=https://news.yahoo.co.jp/articles/297bd3afa637d065c2a2e4b222c0c579a971caa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90023103-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手　日米通算300号ＨＲ　2試合連続のホームラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa6670532b993cfe2c730b3a8bec20a24e0983cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00816899-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ、日枝久氏への退職金は「実行される」　FMH新社長が明言…弁護士の見解受けた措置と説明
+      <a href=https://news.yahoo.co.jp/articles/ae74632217e424521e394cac06c987395a2cfa6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、NATO事務総長の「おべっか」暴露　SNSに画像投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9b96fe2716fdefbf05f9fce751993b84de0c448>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185255-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> 「あーあ」大谷翔平の27号HRに相手投手が“脱力”リアクション「あれで入るか」ファンは大興奮
+      <a href=https://news.yahoo.co.jp/articles/8a3159440b430bc9608d3b23d53ade8457b87212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02545226-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 会社提案の取締役を選任　大株主ダルトン案は否決　フジHD株主総会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24e7e97122be7cee5fde5a3bc0e3233303099a30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンブー電撃解散で亮の冠番組に懸念…『ロンブー亮の釣りならまかせろ！』のコンビ名どうなる？
+      <a href=https://news.yahoo.co.jp/articles/6671b0b779117a7b0aea02eeb33c6f60738c275a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000023-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ロンブー＆TOKIOが電撃解散　ともに活動31年で「対照的な終わり方」「魔の周期」の声
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/6ae831449eded9f796d288bf4e414bec40b7b3689f84d2d7da16157f8fbd4bb5.jpg> 関東甲信地方 警報級大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6543461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/74d33186095f4a18c044cbff59a6186dd0eada9874559ec1b4838511a6e1f864.jpg> 恒久的な停戦なるか 混迷の中東
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg> 精神障害の労災認定 初の1000件
+      <a href=https://news.yahoo.co.jp/pickup/6543450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/6f4598072b43872e8e62bfa94be1b4ea3f8a0ddc6d38eea402e5d1ca3f313e48.jpg> 立憲代表 大連立「考えていない」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/ec7201cd802f3a970b6dd27f7b33eb792b44d9b5c9c59fb16e641bdbe99f767b.jpg> トイレのシャワー機能 衛生的には
+      <a href=https://news.yahoo.co.jp/pickup/6543444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/eee04ab3ffe25a2dec29a8c3308b9eafe0e71f6fdec2546a742585bb2ac778ff.jpg> つば九郎 来季にも活動再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 19:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 20:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
