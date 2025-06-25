@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/078d14992dc0469cb32cd73a48e71b1c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b9ea9e59f8fa6a7785185e0c48c0ff0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1041ee85604e106b07f05adb2c9e99d8a8946862>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イラン核協議、来週再開　トランプ氏表明、停戦続く
+      <a href=https://news.yahoo.co.jp/articles/d2fef69eadfefab50bc2d47bbea7ce40661331b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、攻撃の成果強調　イランと来週協議で「合意に署名も」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19324763d0ee9a324b124ac3a2bc8fc3861ef09e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000090-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　ロッキーズ戦「1番・DH」でスタメン、28号に期待　山本由伸が7勝目狙い先発
+      <a href=https://news.yahoo.co.jp/articles/33fb97fc4ee6b31898dfb07b6c5f20f7fec37412>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245177-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ペルーの最高峰のワスカラン山で日本人2人が遭難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54de3b54e205c9868cd4882c3fca42eab9ff1ac7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00992717-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 店舗兼住宅の4階建て雑居ビルで火事…焼け跡から住人と見られる男性2人の遺体　埼玉・小川町
+      <a href=https://news.yahoo.co.jp/articles/19324763d0ee9a324b124ac3a2bc8fc3861ef09e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000090-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　ロッキーズ戦「1番・DH」でスタメン、28号に期待　山本由伸が7勝目狙い先発
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/9f6e18f17e0f80caf30a4413651550c8263e97cb1ada35f6b04371a7df21510d.jpg> 福島県 城島と松岡に連携呼びかけ
+      <a href=https://news.yahoo.co.jp/pickup/6543496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d3141f099f9ccdafe593ac813e7c4e02123ecd896aaf7a4b827a614cbc2c8b87.jpg> ペルー最高峰で日本女性2人遭難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/85e484d3bc8cac44be7f853004b1f70c8708d71ca4f0ff3531296a7ab55881a3.jpg> 動物園にニワトリ捨てられる 京都
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b2ce96e4e74f7db3411333411f9ce08522750a94948305213c5802919fb45e9b.jpg> 中森明菜が声優挑戦 歌声も披露
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 08:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
