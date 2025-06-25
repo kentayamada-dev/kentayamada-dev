@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/335c0c2e1e1944f2e161c424331aa627.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aebb5c85f63a2515bddccc90db12ff2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba2c457ccbc7ee61cd8906c31db490082816b4a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000485-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=527&ch=527&exp=10800&fmt=webp> 山口達也氏「再出発は誰にだってできるはず」　TOKIO解散発表の日に近況報告
+      <a href=https://news.yahoo.co.jp/articles/597afc47d31531b3b899b40fe1183a02f69c8681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000098-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 4時間半にわたる総会　3300人超の株主はフジHDに何を託したか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/297bd3afa637d065c2a2e4b222c0c579a971caa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90023103-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手　日米通算300号ＨＲ　2試合連続のホームラン
+      <a href=https://news.yahoo.co.jp/articles/b889fc7284cb2c94d8aaf6abcf8ece2736246550>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ロンドンブーツ1号2号、深夜の解散宣言にファン衝撃“闇営業”騒動から埋められなかったコンビ間の深刻“温度差”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae74632217e424521e394cac06c987395a2cfa6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、NATO事務総長の「おべっか」暴露　SNSに画像投稿
+      <a href=https://news.yahoo.co.jp/articles/668199f1d3666f75807bc121843568336355b46e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000230-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 停戦維持、情勢は依然不安定　イラン核開発、数カ月後退か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a3159440b430bc9608d3b23d53ade8457b87212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02545226-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 会社提案の取締役を選任　大株主ダルトン案は否決　フジHD株主総会
+      <a href=https://news.yahoo.co.jp/articles/59bc19b9a00e6e332d02ad951745177378b16c51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-10185274-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1055&ch=1055&exp=10800&fmt=webp> 大谷翔平、27号直後に“お辞儀”？同僚たちと喜びを分かち合う微笑ましい光景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6671b0b779117a7b0aea02eeb33c6f60738c275a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000023-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ロンブー＆TOKIOが電撃解散　ともに活動31年で「対照的な終わり方」「魔の周期」の声
+      <a href=https://news.yahoo.co.jp/articles/3c943b2d369388e6f1fd1b6836edbfb97ddb9829>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992577-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・泉佐野市「赤ちゃんポスト」設置に向け補正予算案可決　2026年度中の運用開始目指す
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b839791dba9cc14ecccbda8694ca9b3a257efeac2c84b9b793a4a9f554faf0a1.jpg> 「株式会社TOKIO」廃業へ
+      <a href=https://news.yahoo.co.jp/pickup/6543464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/b839791dba9cc14ecccbda8694ca9b3a257efeac2c84b9b793a4a9f554faf0a1.jpg> TOKIO解散 株式会社は廃業へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/40520636e2130142b341cd9a68285bd26658824c3cd66c1ea2ee4e4205bdfdae.jpg> TOKIOが解散発表 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6543459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/0ba04b4f59de253cf03716eae6d7134d7eabfeeb6a5b5f4bff9722efc640bbd5.jpg> 秋山竜次 笑ゥせぇるすまん喪黒役
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 20:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 20:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
