@@ -32,19 +32,17 @@ export const middleware: NextMiddleware = async (request) => {
   const cookieStore = await cookies();
   let response = NextResponse.next();
 
-  if (!isPathStartingWith(pathname, 'storybook')) {
-    const foundLocale = arrayOfLocales.find((locale) => {
-      return isPathStartingWith(pathname, locale);
-    });
+  const foundLocale = arrayOfLocales.find((locale) => {
+    return isPathStartingWith(pathname, locale);
+  });
 
-    const value = foundLocale ?? getLocale(request.headers.get('accept-language'), cookieStore.get(localeCookieName)?.value ?? null);
+  const value = foundLocale ?? getLocale(request.headers.get('accept-language'), cookieStore.get(localeCookieName)?.value ?? null);
 
-    if (!foundLocale) {
-      response = NextResponse.redirect(new URL(`/${value}${pathname}`, request.url));
-    }
-
-    await setLocaleCookie(value, { req: request, res: response });
+  if (!foundLocale) {
+    response = NextResponse.redirect(new URL(`/${value}${pathname}`, request.url));
   }
+
+  await setLocaleCookie(value, { req: request, res: response });
 
   return response;
 };

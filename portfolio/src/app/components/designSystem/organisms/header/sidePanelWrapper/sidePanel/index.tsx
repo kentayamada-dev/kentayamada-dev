@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { CopyRight } from '@/components/designSystem/atoms';
 import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
+import { GITHUB_URL, STORYBOOK_URL } from '@/constants/navigation';
 import { LinkItem } from './linkItem';
 import { NavItem } from './navItem';
 import type { JSXElementType } from '@/types/components';
@@ -68,8 +69,8 @@ const SidePanel: SidePanelType = (props) => {
           </nav>
           <div className='border-primary mt-auto border-t'>
             <div className='mt-2' />
-            <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
-            <LinkItem href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio' icon={StyledGithubIcon} title='GitHub' />
+            <LinkItem href={STORYBOOK_URL} icon={StorybookIcon} title='Storybook' />
+            <LinkItem href={GITHUB_URL} icon={StyledGithubIcon} title='GitHub' />
             <div className='mt-5'>
               <CopyRight author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} />
             </div>

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { GithubIcon, KyIcon, StorybookIcon } from '@/components/icons';
 import { dictionaries } from '@/constants/i18n';
+import { GITHUB_URL, STORYBOOK_URL } from '@/constants/navigation';
 import { LocaleSwitcherWrapper } from './localeSwitcherWrapper';
 import { NavItemsWrapper } from './navItemsWrapper';
 import { SidePanelWrapper } from './sidePanelWrapper';
@@ -33,7 +34,7 @@ const Header: HeaderType = (props) => {
         <Link
           aria-label={storybookLinkLabel}
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 md:flex'
-          href='/storybook'
+          href={STORYBOOK_URL}
           target='_blank'
           title={storybookLinkLabel}
         >
@@ -42,7 +43,7 @@ const Header: HeaderType = (props) => {
         <Link
           aria-label={githubLinkLabel}
           className='hover-secondary hidden size-10 items-center justify-center overflow-hidden rounded-lg p-2 text-black md:flex dark:text-white'
-          href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio'
+          href={GITHUB_URL}
           target='_blank'
           title={githubLinkLabel}
         >

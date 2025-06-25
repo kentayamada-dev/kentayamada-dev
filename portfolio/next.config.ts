@@ -4,15 +4,6 @@ const nextConfig: NextConfig = {
   experimental: {
     useCache: true
   },
-  async redirects() {
-    return [
-      {
-        source: '/storybook',
-        destination: '/storybook/index.html',
-        permanent: true
-      }
-    ];
-  },
   eslint: {
     ignoreDuringBuilds: true
   },
