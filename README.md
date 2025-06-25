@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60f6d850fadc8215520b0158bd4e8f6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/480ac9984eb9cf3092468c6dbab29593.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60393b0ad6c641adaf701016466d8b76f3b5b9e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06251291-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ＴＯＫＩＯ解散…７年前に松岡昌宏は「甘えの根源がＴＯＫＩＯなら、一日も早くなくした方がいい」と発言していた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a639a83a48211f3ee48870498f41a53002a14ddd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏「来週、イランと協議」　空爆後初　何らかの合意も示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f07c10d78cbfaed517ff679c76bb0f6ddc569b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06251267-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 大谷翔平が日米３００号本塁打　最も本数が多い打順は　イニングは…完全データ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb7d0f3eebc21f5d6ba44e8585846ad16cf68443>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000031-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジHD完勝　ダルトン“自滅”　株主総会で“物言う株主”の取締役案否決　怒号飛ぶ中4時間半の長丁場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/412c64bf686ab870a79d3a35240e34427e4779ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245154-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　来週イランと協議へ　核開発放棄の合意文書の締結にはこだわらない考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/402a11c4ed595c8777a6b29668afe029b5756be4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010000-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 日米通算300号、大谷翔平の今季27号はメジャー記録！ MLB記者が指摘「またしても偉業を達成した」米メディアも報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30eab5d31174e3947dee4cc3a3a18e5fda250f8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000059-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=741&ch=741&exp=10800&fmt=webp> TOKIO　急転、解散!!　国分コンプラ違反の代償大きく　24日に城島、松岡の2人で決定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 04:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 05:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
