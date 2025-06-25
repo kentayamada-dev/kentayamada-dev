@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99e1047ba5300f7f7fb50df649a2292e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b8e0e9e6555905a40ea1aae94379b9ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b79b4748f3d5cb8642c29c0258be3e299efcd88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050182-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジ株主総会、昨年の２０倍の株主が出席…会社提案の取締役１１人選任・米ファンド提案の１２人は否決
+      <a href=https://news.yahoo.co.jp/articles/5a52ffe4ee6f7153ce4a8b9ddffff7427a21fbb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251290-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 福島県「ＴＯＫＩＯ課」は名称変更へ「城島茂氏と松岡昌宏氏には解散後も変わらず福島県を応援していただきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0b12125049aadf2e0ead3dc324006d3bdb6c628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36251575-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=1459&ch=1459&exp=10800&fmt=webp> 【DeNA】田中将大に14安打浴びせめった打ち！５回途中KO　１軍から５選手参加の２軍戦
+      <a href=https://news.yahoo.co.jp/articles/1b79b4748f3d5cb8642c29c0258be3e299efcd88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00050182-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジ株主総会、昨年の２０倍の株主が出席…会社提案の取締役１１人選任・米ファンド提案の１２人は否決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 23:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 23:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
