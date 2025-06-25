@@ -22,12 +22,12 @@ const preventNavigation: Decorator = (Story) => (
 );
 
 const preview: Preview = {
-  argTypes: {
-    locale: { control: 'select', options: arrayOfLocales },
-    createdAt: { control: 'date' },
-    updatedAt: { control: 'date' }
-  },
   parameters: {
+    controls: {
+      matchers: {
+        date: /(createdAt|updatedAt)$/i
+      }
+    },
     nextjs: {
       appDirectory: true,
       navigation: {

@@ -4,9 +4,14 @@ import type { JSXElementType } from '@/types/components';
 
 const meta = {
   args: {
-    paragraph: 'Paragraph',
-    subtitle: 'Subtitle',
-    title: 'Title'
+    paragraph:
+      'Solar power is one of the fastest-growing ' +
+      'renewable energy technologies. By capturing ' +
+      'sunlight with photovoltaic cells, we can ' +
+      'reduce fossil-fuel dependence and cut greenhouse ' +
+      'gas emissions.',
+    subtitle: 'A Sustainable Power Source',
+    title: 'Harnessing Solar Energy'
   },
   component: HomeIntro,
   decorators: [

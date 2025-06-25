@@ -1,8 +1,12 @@
 import { fn } from '@storybook/test';
+import { arrayOfLocales } from '@/constants/i18n';
 import { ContactForm } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
+  argTypes: {
+    locale: { control: 'select', options: arrayOfLocales }
+  },
   args: {
     action: fn(),
     handleRc: fn(),

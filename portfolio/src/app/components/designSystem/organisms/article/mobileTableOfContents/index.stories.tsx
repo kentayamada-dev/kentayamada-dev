@@ -1,9 +1,13 @@
+import { arrayOfLocales } from '@/constants/i18n';
 import { viewportKeys } from '@/lib/storybook';
 import desktopTableOfContentsStory from '../desktopTableOfContents/index.stories';
 import { MobileTableOfContents } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
+  argTypes: {
+    locale: { control: 'select', options: arrayOfLocales }
+  },
   args: { ...desktopTableOfContentsStory.args, locale: 'en' },
   component: MobileTableOfContents,
   decorators: desktopTableOfContentsStory.decorators,

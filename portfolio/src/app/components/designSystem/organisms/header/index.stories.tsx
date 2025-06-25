@@ -1,8 +1,12 @@
 import { copyRightStory } from '@/components/designSystem/atoms';
+import { arrayOfLocales } from '@/constants/i18n';
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
+  argTypes: {
+    locale: { control: 'select', options: arrayOfLocales }
+  },
   args: {
     locale: 'en',
     ...copyRightStory.args

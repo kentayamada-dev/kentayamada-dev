@@ -1,8 +1,12 @@
+import { arrayOfLocales } from '@/constants/i18n';
 import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
+  argTypes: {
+    locale: { control: 'select', options: arrayOfLocales }
+  },
   args: {
     articleTitle: 'Article Title',
     content: (
