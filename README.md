@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73a1863dd6e65fbd644d78201b824546.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36cbf12b6494d3e0d707ac1f100e2108.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9f6a5825b6bd1b396fbf702f01a8e0984691521>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-02691913-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=360&ch=360&exp=10800&fmt=webp> WBC前年にキャリアハイなるか…ヌートバー2戦連発11号　自己最多14本塁打更新に前進
+      <a href=https://news.yahoo.co.jp/articles/a70221c290dcd1d7d5719948b651bb7b1d9e0a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000039-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、メジャー新記録を樹立「1番打者でチーム開幕80試合27本塁打」日米通算300号の節目にも到達
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45f25f0099b09d9f75ba09be33f48527c82c579c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-36250324-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平27号フェンスギリギリ弾で日米通算300本塁打を達成　続く５打席目は投ゴロ
+      <a href=https://news.yahoo.co.jp/articles/af678b96d5c77295911c1ee368fe20e92e2d3492>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00010001-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、日米通算300号　好相性“打者天国”で豪快アーチ…ド軍は乱打戦制す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fabe33eba679d6f78c393aec25513f75dd3edca4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジMHD 株主総会続く　取締役候補 株主側は12人提案
+      <a href=https://news.yahoo.co.jp/articles/5612b822455243908a2217999fad2a8ed8f4b952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000038-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジMHD 株主総会続く　取締役候補 株主側は12人提案
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/feb4d5e517f44524d655fafbe894f5fe8a8fc798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167542-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「爆弾落とすな」トランプ氏　イスラエルに怒りぶつける　停戦合意後もイランと応酬
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-90167542-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「爆弾落とすな」トランプ氏　イスラエルに怒りぶつける　停戦合意後もイランと応酬
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2bd129bb2f767ebb122c58d4815e5ccc8c8ab90ca5e404f181c9350ef2f826ca.jpg> ベゾス氏の結婚式会場変更 抗議で
+      <a href=https://news.yahoo.co.jp/pickup/6543403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/dbec6702f2fab53100743823d177f33bf6efa0187e31c2a286836ca7802aecae.jpg> コーラ200円時代へ 限界の自販機
+      <a href=https://news.yahoo.co.jp/pickup/6543415>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ガキ使を手がけた中村P 会社破産
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 12:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 13:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
