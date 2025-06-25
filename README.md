@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCdAJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85e1750188b2603a6df10e76c943ba8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41f177f95428560af828f2d9c94383e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc44437885a5eb767b70f69538d671a0975ba570>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06247973-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「おめでたい事だ！」ロバーツ監督が大谷翔平300号本塁打を祝福　記者の問いかけに「本当か？」と即反応
+      <a href=https://news.yahoo.co.jp/articles/59bf3fdca855df6cd15f2a95b1dd7fd179819146>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=524&ch=524&exp=10800&fmt=webp> 「イスラエルは歴史的な罰を受けた」　イラン大統領が「勝利」宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/582d116114782a27969e53499cc7d178c62909b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000095-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> フジ・メディアＨＤ、株主総会で取締役選任の会社提案を賛成多数で全て可決＝時事
+      <a href=https://news.yahoo.co.jp/articles/a174e1b7e6ad27d1e4684c5f1e464bc4b209a4b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000240-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジテレビ「イット!」冒頭から親会社フジHD株主総会を報道　宮司アナ「番組全編に渡ってしっかりと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2480e87e46fea9e546b9e72fc78234a45b46a350>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00992359-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “正式な戦闘終結”から2時間…これまでにイスラエル・イラン間で大規模攻撃の情報なし　トランプ氏の思惑通り停戦維持なるかが焦点
+      <a href=https://news.yahoo.co.jp/articles/24945c0f737b4eb5864487e33defd74e489533c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000067-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=433&ch=433&exp=10800&fmt=webp> フジHD側、堀江貴文さんとの今後の協業「否定せず」20年に及ぶ”出禁”解除か、N党立花氏「堀江さんの事業のCMがフジで流れる」と予測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faa32cdecb384822b272e24b3fe8777c94b5e49d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-06251135-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 退任する日枝久氏の影響力は「ない、と断言」フジＨＤ株主総会で清水賢治専務が回答
+      <a href=https://news.yahoo.co.jp/articles/157e204e98550c088b49326ebc88a5f896073e81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00098433-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ８試合ぶり５号！今季初の複数打点！ ド軍コンフォートに復調の兆しも「総合的に見れば依然として…」地元紙は懐疑的
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/c02b14c6da6e53272fc621f06c3e3e3c4cfdcdf2b2969a2c3aca2a96de4c7d98.jpg> 自民党旧安倍派が正式に解散
+      <a href=https://news.yahoo.co.jp/pickup/6543423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakajimakei/02262846/title-1750811364821.jpeg?exp=10800> 襲撃事件影響か 中国から減る邦人
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543415>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ガキ使を手がけた中村P 会社破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/f717cc2797d1662e89e8c32149408b48a9b84c136aafbe25c5774458ed0bdafc.jpg> 「goo辞書」終了 25年の歴史に幕
+      <a href=https://news.yahoo.co.jp/pickup/6543433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/2725554089f2367d6ef609b1d9033dea6588238a2a4d64ffa8354407dff017fb.jpg> スズキがレトルトカレー発売 経緯
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543417>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/25/cc5b7beef52c47423bbb3547551d7abcf654497b07ed24fa20268852b219ce63.jpg> ドジャースが逆転 乱打戦を制す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543434>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02262633/title-1750796378911.jpeg?exp=10800> 解散のロンブー 歩んだ独自路線
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/25 15:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/25 16:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
