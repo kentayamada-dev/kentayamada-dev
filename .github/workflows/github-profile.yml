@@ -18,7 +18,7 @@ concurrency:
 jobs:
   Update-README:
     timeout-minutes: 5
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
 
     steps:
       - name: Set current datetime as env variable
@@ -28,7 +28,7 @@ jobs:
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
 
       - name: Checkout code
-        uses: actions/checkout@v4.1.4
+        uses: actions/checkout@v4.2.2
 
       - name: Update README.md
         run: |

@@ -13,11 +13,11 @@ concurrency:
 jobs:
   Deployment:
     timeout-minutes: 10
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4.1.4
+        uses: actions/checkout@v4.2.2
         with:
           sparse-checkout: |
             email
