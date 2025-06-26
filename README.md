@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a1d8700d022c0bcd81ad75dd9779561e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b805628d179935d28bbd1c4b408f8a62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2fbdd5ae8889769adc44b932dd1d89ac716311c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00992848-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【速報】大谷翔平1安打含む4出塁・2得点で勝利に貢献　山本由伸5回1安打無失点で7勝目　豪雨で試合約1時間半中断も“幸運な先制点”生かしドジャース3連勝
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bf044d435fba57f63f5a0ae619a649886c76ad5>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7661ec05c8e6a30fa3601a9e897e2cc10be55e42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00551597-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 雨天中断後の大谷敬遠に騒然　敵地に響いたブーイングに米実況席が同情「残った理由の1つなのに」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd081ed836904fdf5daa5f55b6b460550bca709b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b7e6537a855dbf00bd98cfaef1a39973a6f45ab178a24a31c281734d26f1a236.jpg> 大谷が生還 豪雨で野手が球見失う
+      <a href=https://news.yahoo.co.jp/pickup/6543505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/7f7ddc7bce811a0f8be1577361e5d816c5d957908af4605fece853f5298ce66a.jpg> 球児監督 練習で半パン着用を要望
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 13:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 14:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
