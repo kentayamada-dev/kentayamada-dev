@@ -24,7 +24,6 @@ jobs:
         with:
           configFile: .devcontainer/portfolio-container/devcontainer.json
           runCmd: |
-            zsh
             pnpm i -g vercel
             vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }}
             vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
