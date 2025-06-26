@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d3e4256fb731a46c84b10820ff4bc57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11e22c30e8c5c50dcfd4467c839fd2eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aab45a8dba4d489222afa42b218f5beb75cd7715>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167629-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> TOKIO解散を受けSTARTO社のプロフィル欄も3人の名前に変更
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/315f2fa7f6eb19be6be8d9635d085a9a4ccce87a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22003544-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社 “最大の山場” 株主総会勝利も…大手スポンサー「CM再開は判断できない」株主総会では“オンラインカジノ”に関する質問も…【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b64f225cd350cae9a21024ead37540917bf79bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 南米ペルー　登山中に日本人女性2人遭難　救助も1人は死亡確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58981bb558ee76ffc55d07c2ed7887b2479642ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260248-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、突如の豪雨でホームイン　左前打で出塁後、マンシーの一塁飛球を守備陣が見失う珍事
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f90c0f1ff1bab1f6aea0963c74cae7caf57e7ae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「行方を把握できないイランのウラン、災難になる」…勝利宣言も笑えないネタニヤフ首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ca07af88c3979700d8b7532d1e1f1d7ad09dc41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01780846-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷出場ド軍戦、突然の大雨で珍事発生　二塁手がフライ見失いド軍2点先制…球場騒然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03e53d42ff491b3fa7f22372e2262ce49f938006>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010002-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> フジHDが株主総会で謝罪「心よりおわびします」　会社側の取締役案を可決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a2b85ceca384c970aad636202867862707d7c76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04595690-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 南キャン山里、妻・蒼井優への誕プレは田中みな実セレクト「やっぱり女子のカリスマだから」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ca1822bbfbe35f2571683e0c5a2dfef4d35a371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00817070-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 市川團十郎、TOKIO解散に反応「自然と何故か涙がこぼれます」　松岡昌宏との共演に思い馳せ
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31bd2ffa3afdeb88d49811d5888938413f1a930bfde694edb890c066418459df.jpg> ペルー山で邦人遭難 1人死亡判断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543519>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/851983ddb42b42884dac24c8ea6cd21f86e6d70e4448d8b6f48959a32c2199e8.jpg> 教師が盗撮し共有疑い 卒業生驚き
       </a>
@@ -428,22 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543512>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0cfe906993f8ccea2b3d91c3543619a053c4f8d0312f1e605380f2617308a4ea.jpg> 夫の地元で孤独 絶望からの転機
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/fec6c9621ab0f5beb1bd9d71bc1fc6d7b1a98e3d1d1999703a128cb9b1342be4.jpg> 日本人の祖先 戦略的に沖縄渡来か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/c073a6f8fa4c8b150fb26584219f334e408fbca065a4099155d9130d77fad90f.jpg> TOKIO解散 CM起用企業も衝撃
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02264058/title-1750891044498.jpeg?exp=10800> TOKIOの尊さと危うさ 識者指摘
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 11:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 11:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
