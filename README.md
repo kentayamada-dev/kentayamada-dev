@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ab2c09ab5b5f2678365123dd8f29e5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e6c9897ead0a62526f2186de1cd1109.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65e395ec52407d229a0a6f22cc1193cafb400364>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781310-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ山本由伸は5回56球0封できた？　直近防御率5点台も…ド軍OBが見た“変化”
+      <a href=https://news.yahoo.co.jp/articles/3d496f81cd6912391868ec6d341492dc41e52a00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00993133-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 海岸で子ども2人が溺れ救助されるも1人心肺停止…岸から約10メートル離れた海上で数人のグループで遊んでいたか　福岡市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3049c8cf95b6368d7a40f6c62f89a481c2f6a28e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00098494-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「雨と暗い夜空の組み合わせで…」“不運な形”での失点にロッキーズ一塁手が嘆き 先発右腕は「彼らは悪くない」と擁護
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b4b8eca9dab4843b087e759d55aeaddf092ef3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> KDDI、全国で通信障害　約30分、原因調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7de53374ca10f52ed7a6759f084a4679b320b3d3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000051-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民・森山幹事長、参院選に危機感　目標達成へ「相当頑張らないと」
       </a>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f4eb435ef93df52705efeda6dc5dc1d7e36cad8122c84103a69c4766bcfcd29e.jpg> 参院選 自民幹事長が危機感を強調
+      <a href=https://news.yahoo.co.jp/pickup/6543567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a6ebd1b58942da1d63b4b108d99ab086e41d090df48c09f720daae0fa42a951e.jpg> ハメネイ師 戦闘終結後も沈黙保つ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/c154f37fce098e7b339daac2de134e19a2d27bfcce0b7f99296ed01bd1937901.jpg> 私立大入学金の負担軽減を 文科省
+      <a href=https://news.yahoo.co.jp/pickup/6543568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3d6ad5d39054e560bc2479b5a4acdbc22a5d38a78d6c8be1e1a991ff1aea31f6.jpg> 財務省解体デモ 林官房長官が見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/9b392d330994133000e64dd2a92d5b2d20ee32a855ce98a9b454dd204cc0cd33.jpg> 小6の男児2人おぼれる 1人死亡
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31d975460dd2b52708036357525614cee7a0522d58f44bffb9eb15ca5e53656b.jpg> 食べログの業績が過去最高 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543562>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0b89b9011c77ce8d08dd0f07040fc35bd151a3ffa0b37bb6ce9baf4e1666be44.jpg> 山本由伸が7勝目 ド軍監督が激賞
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 19:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
