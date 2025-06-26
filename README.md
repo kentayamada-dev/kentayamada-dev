@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6fe185c58c1c175a8405f6333bea9b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b4614c5e9c05d465fc221aff16f8622.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8c13ef4fa553d5a5ca9761a52a026df456f1f70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06633164-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 松岡さんからは県に謝罪の電話…県「解散後も変わらず福島県を応援していただきたい」　福島
+      <a href=https://news.yahoo.co.jp/articles/f5d302631a863c4450d0bb655e457c947c64f49b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10566649-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 山本由伸、メジャー初完封ペースも降雨中断により56球で降板…それでも5回1安打無失点で7勝目の権利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14e5803bc905edc26dde894f2a5c69568d3e7f9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000155-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> TOKIO電撃解散…7年前の会見で涙する松岡の“言葉”がネット話題に「最後まで尽力したのに…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2bc4b0db62b109bc599114ae1ecf4f1e8423574f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04595840-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 矢島舞美、第2子妊娠発表【全文】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8c2321c2a1dc82a86512cf48be1e70d6bccd6b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167634-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=675&ch=675&exp=10800&fmt=webp> フジ総会で大株主ダルトン案否決　日枝氏に退職金支給へ　元スポンサー企業CM再開は？
       </a>
     </td>
   </tr>
@@ -371,43 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/220481880ba93b0eb1fff7d25c63ce76fa477634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000027-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=1100&ch=1100&exp=10800&fmt=webp> ＜蒼井優＞多忙な日々でも「短時間でも帰ってきてくれる」　夫・山里亮太に感謝　「自分の価値を理解してほしい」愛ある助言も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/315f2fa7f6eb19be6be8d9635d085a9a4ccce87a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22003544-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビ親会社 “最大の山場” 株主総会勝利も…大手スポンサー「CM再開は判断できない」株主総会では“オンラインカジノ”に関する質問も…【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58981bb558ee76ffc55d07c2ed7887b2479642ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260248-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、突如の豪雨でホームイン　左前打で出塁後、マンシーの一塁飛球を守備陣が見失う珍事
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/15a48d907810d0859f133a12b0d3339a43fa225766677abb677f45b1e4b7c826.jpg> 自民非公認 党支部から衆院選資金
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543511>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/89abfcd5c4a99b1abd2dcf2698381d77549e2eff612e83832e3a15a667b40301.jpg> 山尾氏 榛葉氏の求め断った理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31bd2ffa3afdeb88d49811d5888938413f1a930bfde694edb890c066418459df.jpg> ペルーで邦人2人遭難 1人死亡判断
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/329d0ae2f525a6df895a0c21af661fb9ed1d531f3b5bd2b6d3001ad790d6a2b0.jpg> ペルーで邦人2人遭難 1人死亡判断
       </a>
     </td>
   </tr>
@@ -434,32 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0cfe906993f8ccea2b3d91c3543619a053c4f8d0312f1e605380f2617308a4ea.jpg> 夫の地元で孤独 絶望からの転機
+      <a href=https://news.yahoo.co.jp/pickup/6543526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5f7940cc7c2df84dfc44b05811130df096c2aae7e4770f16b3198ad501c7be9d.jpg> パンダのタンタン剥製 中国に到着
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/04e56e65d2dc8d99c179c3a7d104fcf69c076bf40ad4a4909d569e34f4b258f6.jpg> 速報クラブW杯 浦和vsモンテレイ
+      <a href=https://news.yahoo.co.jp/pickup/6543529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f4661724753de622c5ac91ba815134b1e5185dca79e76905cfcb843421e62acd.jpg> 浦和完敗 クラブW杯全敗で終える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d9f9729664f0142b71fc46b24153210fcf900c581e3d113656cb39e95c8636c.jpg> 山里 妻への誕プレはみな実に相談
+      <a href=https://news.yahoo.co.jp/pickup/6543522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6e50eb5625e5dc14d346e0446d5ac1a936c1da0689b98aa90092cb55d8c5c7bf.jpg> 大谷が生還 豪雨で野手が球見失う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f9bbb628c3544078b7fa257e6f8553710176ec4778fffbe98ca123964adad917.jpg> スティッチ 20年人気続く理由
+      <a href=https://news.yahoo.co.jp/pickup/6543528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bee49715477f915b85e8184b6d68cb5fec20323a337a36f183b635bd3a550fef.jpg> 元℃-uteの矢島舞美 第2子を妊娠
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 12:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 12:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
