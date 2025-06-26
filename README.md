@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e6c9897ead0a62526f2186de1cd1109.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67ced7bd7234573038008b77a028b5c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d496f81cd6912391868ec6d341492dc41e52a00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00993133-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 海岸で子ども2人が溺れ救助されるも1人心肺停止…岸から約10メートル離れた海上で数人のグループで遊んでいたか　福岡市
+      <a href=https://news.yahoo.co.jp/articles/12b341dba5b016e6257b95171a69c0267355cfaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジHD社長の選任賛成率82％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd9142224b36a70da4bd3350030be8a40903e95a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ、3回目の対面会談　トランプ氏「単なるご機嫌伺い」…誘導弾供与は「検討」
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5216e66dce4b1874dccec34437eb70ce263c9802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245278-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジHD株主総会で会社提案の取締役候補が大勝　SBI北尾会長の賛成率は27％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/335025dde2c35f1fe5e8892dff1d8378d8877169>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000119-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1284&ch=1284&exp=10800&fmt=webp> アングル：米のイラン攻撃、決断の背後に「トランプ・ドクトリン」
+      <a href=https://news.yahoo.co.jp/articles/a78a701b58166ecc53e9aa98bfb3bbab8a616181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22005578-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 養殖「ニジマス」約2トン大量死、業者悲痛「残念だとしか言いようがない」　大雨で水路が詰まり池が酸欠状態に…約1000匹が死ぬ　被害額約450万円　鳥取県倉吉市
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/59f06429ce995954fc63d78f8e8d1c95fcb3c7c563af0f24ac92aa8bfa33876c.jpg> ときメモ修正 親友彼女奪う不具合
+      <a href=https://news.yahoo.co.jp/pickup/6543571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/90ff405707f66d465592964a6256e610db0f71acfb60a55a147e59b9ba94bccb.jpg> ブラピ 中尾明慶へ現金プレゼント
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 20:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 20:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
