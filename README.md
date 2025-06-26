@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8caa97585ae99a927c002ce79b9e4f7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4907c403130a06ed1b6ebe084356907.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc8f845be3b4972042624d6f339d9392b033d419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261165-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 【巨人】オンラインカジノ賭博容疑で書類送検の２選手は不起訴「本人たちが心から反省」
+      <a href=https://news.yahoo.co.jp/articles/d1b35cb77885d15c4e2bef843d0460982a99b14f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-05745841-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 子ども2人が溺れる　救助されるも1人心肺停止　福岡市の海岸
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8617200b1fc461bc6b75480ae44ef4b29d753c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00993025-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジHDが株主総会で採決の取締役候補23人それぞれの賛成率公表　ダルトン側提案12人は北尾氏27％、9人は1割台
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/335025dde2c35f1fe5e8892dff1d8378d8877169>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000119-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1284&ch=1284&exp=10800&fmt=webp> アングル：米のイラン攻撃、決断の背後に「トランプ・ドクトリン」
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0629138983ba08777aa124300611fc81b2ee7361>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-16667652-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ガザ停戦に向けた動き、仲介が活発化か　ハマス幹部がBBCに説明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3ecfab71d2313d3ad4d63aae82a343b823ba164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185437-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=598&ch=598&exp=10800&fmt=webp> フジ・メディアHD株主総会 北尾氏への賛成率は27％
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/68eb51d782f8a44f6169934a70dcfb500ecebf1b6f92b52b2b2a655725ee5870.jpg> 米大統領の原爆発言 林氏論評回避
+      <a href=https://news.yahoo.co.jp/pickup/6543561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/c154f37fce098e7b339daac2de134e19a2d27bfcce0b7f99296ed01bd1937901.jpg> 私立大入学金の負担軽減を 文科省
       </a>
     </td>
   </tr>
@@ -419,15 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/23da30f5156e54cdaf71f632ed914891ffcdd42a73cf8ae76434373e4b35de42.jpg> 子供2人溺れたと通報 1人心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b0aeb881ef91237bc8eb869276ef34a72dbb4b8ad3d44a9738e50aa25f6b62a2.jpg> 車と衝突 自転車の高1が意識不明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b159aaaf459902775fac755df7119f6df2e05e1f4a4725bb3d94aee8f79a0c7b.jpg> 子供2人溺れたと通報 1人心肺停止
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5a26ff9927010c93fb6e04b4f98909f83657a27791ce00dba1bf572ab4d52473.jpg> ほっかほっか亭 ライス大盛値下げ
+      <a href=https://news.yahoo.co.jp/pickup/6543559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3bec5a32d07e785a2aedc930e694eaeddd4c974dc934ddbe3cc81e117597a708.jpg> 米も猛暑 原因はヒートドーム現象
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/59f06429ce995954fc63d78f8e8d1c95fcb3c7c563af0f24ac92aa8bfa33876c.jpg> ときメモ修正 親友彼女奪う不具合
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 18:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 18:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
