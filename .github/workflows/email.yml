@@ -25,6 +25,7 @@ jobs:
           docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/email --user root email bash -c "
             set -eu
 
+            pnpm install
             pnpm run deploy
           "
         env:
