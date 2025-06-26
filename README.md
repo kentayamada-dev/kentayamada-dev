@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06279052f536adac1ce2220eec490325.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a1d8700d022c0bcd81ad75dd9779561e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5c3309840b5a0933a55b009883dc4b969885813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260394-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> テレ朝女性アナ、性暴力に持論「表に出ていない被害は本当に多い」「見て見ぬふりをしない」
+      <a href=https://news.yahoo.co.jp/articles/5bf044d435fba57f63f5a0ae619a649886c76ad5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000034-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和・関根貴大、「あの１失点でチームが崩れてしまったのがすべて」鮮烈な一撃に動揺
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39ba5d59f5f1817d8277de6ca85c26ba3c697e14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050102-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 来週再開予定のイラン核協議、トランプ氏は開発放棄を求める方針「合意に署名するかもしれない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7661ec05c8e6a30fa3601a9e897e2cc10be55e42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00551597-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 雨天中断後の大谷敬遠に騒然　敵地に響いたブーイングに米実況席が同情「残った理由の1つなのに」
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd081ed836904fdf5daa5f55b6b460550bca709b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4c9d4119b1ef5fc9f560ec38b790c14560fbe1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000034-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 大谷翔平の第4打席は申告敬遠…敵地大ブーイングで球場騒然　山本由伸は完封ペースも無念の降板　5回無失点快投
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd872ab2bd8aac58c20e47bf8331923e18b89787>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167622-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領、広島、長崎への原爆投下を引き合いにイラン核施設攻撃の成果強調
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e561999a93ce17f573e83647552be7d2d134a423f9b96180087e7d3634d621f1.jpg> 英 核搭載可能な戦闘機12機調達へ
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543525>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/851983ddb42b42884dac24c8ea6cd21f86e6d70e4448d8b6f48959a32c2199e8.jpg> 教師が盗撮し共有疑い 卒業生驚き
+      <a href=https://news.yahoo.co.jp/pickup/6543530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a743c1bb59a9c4f52e27ffec91809f445f5343ed7069e6061a297cfda91f2cdd.jpg> 盗撮し共有疑い 学校で撮影の立場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8a187eff6a4959761fc7485f868eb37a4ba97fefceb234174b189cc183b541a2.jpg> 事件受け 日本駆け込み寺に勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/261b4d1ff11480f7e956da7d75ee75f60096ec4f5f69778d843322c06e4bd35d.jpg> ファミマ ジャスミン茶一部を回収
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f4661724753de622c5ac91ba815134b1e5185dca79e76905cfcb843421e62acd.jpg> 浦和完敗 クラブW杯全敗で終える
+      <a href=https://news.yahoo.co.jp/pickup/6543531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4c7e6ff7ead1e9b328f289a9882e429c488f17e18d568f7038ce835435b32bd9.jpg> 10分で3失点 クラブW杯浦和完敗
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d9f9729664f0142b71fc46b24153210fcf900c581e3d113656cb39e95c8636c.jpg> 山里 妻への誕プレはみな実に相談
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 13:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 13:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
