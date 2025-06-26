@@ -32,5 +32,3 @@ RUN chmod +x ./install_dev_packages.sh && ./install_dev_packages.sh curl \
   && chown --recursive $USER_NAME $HOME && install --directory --owner=$USER_NAME $WORKSPACE/node_modules
 
 USER $USER_NAME
-
-CMD ["zsh"]
