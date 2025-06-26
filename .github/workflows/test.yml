@@ -1,0 +1,35 @@
+name: Test Deployment
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  Deployment:
+    env:
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PORTFOLIO_PROJECT_ID }}
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.1.4
+        with:
+          sparse-checkout: |
+            portfolio
+            .devcontainer/.env
+            .github/workflows/scripts/deploy_vercel.sh
+            .github/workflows/scripts/delete_workflows_except_latest.sh
+
+      - name: Build and run dev container task
+        uses: devcontainers/ci@v0.3
+        with:
+          runCmd: pnpm build-next
+
+      - name: Delete previous workflow
+        run: |
+          chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
