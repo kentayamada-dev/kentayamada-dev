@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6416e3b4c457790e3451189c699850f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e519bb152c483c439d566e113b9a148f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bea2e00d876f9612d26603f076904f239d1ab7bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000003-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1522&ch=1522&exp=10800&fmt=webp> トランプ氏「来週イランと協議」 核開発計画は数十年後退と発言
+      <a href=https://news.yahoo.co.jp/articles/ad7e289b0b66545fdeb9a60b40297559470b3698>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000007-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> 大谷翔平の第1打席は遊飛　〝打者天国〟で11度目3戦連発なるか　試合前はブルペンで入念フォームチェック
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51ef4dc152237fcc1a5070e2d2074ae8df3cfd0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260085-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「１番DH」今季３度目の３戦連発なるか　ロッキーズ先発は23年ドラ１のドーランダー
+      <a href=https://news.yahoo.co.jp/articles/2fe33366990f71df81741f47b3dab19d79763c1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=145&cw=999&ch=999&exp=10800&fmt=webp> 「釈然としない思いは残ります」武田真一アナ、解散発表のＴＯＫＩＯに私見…「ＤａｙＤａｙ．」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c040e781cc25fd90a6e262676c440e3935f654b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010004-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】イラン停戦　火種を残した薄氷の合意
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b37f7cbc66f069f835157c9d39ebd45f07affe66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261021-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 「男女とも全世代で関心度１位でした」…ＴＯＫＩＯ「解散」…「ＴＨＥ　ＴＩＭＥ，」江藤愛アナが伝える「驚きが広がりました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/609f574f16492e37a4dc5c0f91bb8e77e0503765>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36251419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1174&ch=1174&exp=10800&fmt=webp> フジMH清水社長　“再出発”へ「日枝氏の影響力ない」強調、「経営体制が完全に刷新された」
+      <a href=https://news.yahoo.co.jp/articles/c50a0fb5cc4ab80b7716d4549f6508cde3947809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000209-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 阪神・藤川球児監督が「短パン練習」を球団に要望！　酷暑に勝ちセ界も勝つ！　移動時のポロシャツ含め猛虎クールビズ改革や
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/81a09fc00d6e8f5ea70effa33f88c29d874f1c132a3e7a243f9ab4cdc484f0ff.jpg> 局地的に激しい雨 災害に警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6543503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/81e3c73b05dd0e3c1c626f9425b66a6ee05ccfb56f9d6283bca64a34ad38b3b1.jpg> 博士課程の学生支援 対象見直しへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/79f110ac7ed47b2f1c39871ed1f6f607ae0f4562aaa5097d9c1f5d05906a5813.jpg> 参院過半割れで政権交代も 岸田氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b7182ba1e014a25d6b67c21a21853f7bae68e5b1d35ccd1a9db2da6bd8aac3f0.jpg> 埼玉のビルで火事 2人の遺体発見
+      <a href=https://news.yahoo.co.jp/pickup/6543501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bae3acdacbdc677ec42d6d3df8ad8c8ba5356a76485ff1e7558daba0d77fa6a5.jpg> フジ取締役 株主提案を否決の背景
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/34d4edae6a58accfd3730b8ccbeb92be32e91cb053f8962eeff3f59023d2707c.jpg> さいたま市「英語王国」の理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543498>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/85e484d3bc8cac44be7f853004b1f70c8708d71ca4f0ff3531296a7ab55881a3.jpg> 動物園にニワトリ捨てられる 京都
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/399fe114bf5c96f08ff43facc68a23e2217cfb91a0304d1364603fba9d99e4ca.jpg> 大谷参加? HRダービーに識者懸念
+      <a href=https://news.yahoo.co.jp/pickup/6543499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ed807be6367cb4fddcbdad452f1db50862b4a7d647daa3cd33e6c3f51ac27c31.jpg> 菊池雄星が7回2失点で3勝目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 09:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 10:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
