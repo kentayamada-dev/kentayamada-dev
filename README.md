@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67ced7bd7234573038008b77a028b5c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49d35b3f581fc2da354e888761c13629.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/459b4d853e595daab9c788b9a3571379531cefea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン、核開発継続で譲らず　トランプ氏「来週に協議再開」　米と隔たり、再攻撃リスクも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e50fb36d2b514c9dc2dee94b77ceedf8592fb13b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185466-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 「ヘイヘイヘイ！」大谷翔平、打席で“今季初”まさかのプレーに絶叫…ファンも称賛した“瞬時の判断”リアクションの一部始終
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c50efc5cf09dace96bcbe7aec7d3fe337789e3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000067-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【国分コンプラ違反】TOKIO・城島茂が生かせなかった「山口騒動」の“後悔”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fd4b0d4fe8bcc1a29031f3e70f708af67e8dcf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050191-yom-000-4-view.jpg?pri=l&w=192&h=135&exp=10800&fmt=webp> 天皇ご一家の愛犬「由莉」が死ぬ…側近「愛子さまが悲しく思われていると推察」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12b341dba5b016e6257b95171a69c0267355cfaa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジHD社長の選任賛成率82％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd9142224b36a70da4bd3350030be8a40903e95a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウクライナ、3回目の対面会談　トランプ氏「単なるご機嫌伺い」…誘導弾供与は「検討」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3049c8cf95b6368d7a40f6c62f89a481c2f6a28e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00098494-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「雨と暗い夜空の組み合わせで…」“不運な形”での失点にロッキーズ一塁手が嘆き 先発右腕は「彼らは悪くない」と擁護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a78a701b58166ecc53e9aa98bfb3bbab8a616181>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22005578-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 養殖「ニジマス」約2トン大量死、業者悲痛「残念だとしか言いようがない」　大雨で水路が詰まり池が酸欠状態に…約1000匹が死ぬ　被害額約450万円　鳥取県倉吉市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7de53374ca10f52ed7a6759f084a4679b320b3d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000051-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民・森山幹事長、参院選に危機感　目標達成へ「相当頑張らないと」
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bba20a89c96f8ad531db0dec8e9c94f9b48f36a3968c9c93e4bae16ce52a655d.jpg> 自転車ひょっこり運転 実刑判決
+      <a href=https://news.yahoo.co.jp/pickup/6543577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6a50ccba884624a4a32596a4024bc9c6c66eda3d362e9894d26de645792555e1.jpg> 天皇ご一家の愛犬「由莉」死ぬ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/816a6730afcf063ddf9aee3efb4216b6d5a8fa6a917d9f2b07fa1cf520b69ae7.jpg> 県警の柔道大会 男性巡査が首骨折
+      <a href=https://news.yahoo.co.jp/pickup/6543572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f9a350c0513be30fddb7396cdb5c1c207470c91b7ec991cd9d5770e648a73b90.jpg> 大雨で養殖ニジマス約2t死ぬ 悲痛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/eda505a80bcf022ae28ad3bb77c1a0dcff9f04e260f3c38bc76521b63ff246d2.jpg> 賭博疑い 巨人2選手を不起訴処分
+      <a href=https://news.yahoo.co.jp/pickup/6543575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d7e3d230417bf22d724c02dcda557edd68f6ac2fcc2ac295fe6363fb07611524.jpg> 中日 条件クリアで選手にボーナス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0b89b9011c77ce8d08dd0f07040fc35bd151a3ffa0b37bb6ce9baf4e1666be44.jpg> 山本由伸が7勝目 ド軍監督が激賞
+      <a href=https://news.yahoo.co.jp/pickup/6543576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/765afdf6eb27e2f865769d3e93e701e3ecc336e1f8983df0d5347decb3fa0c4a.jpg> NMBキャプテン小嶋花梨 卒業発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 20:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 21:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
