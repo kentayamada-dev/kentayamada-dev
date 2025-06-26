@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - portfolio/**
+      - portfolio/src/app/components/**
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
