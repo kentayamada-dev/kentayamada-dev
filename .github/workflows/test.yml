@@ -24,11 +24,12 @@ jobs:
             .devcontainer/.env
             .github/workflows/scripts/deploy_vercel.sh
             .github/workflows/scripts/delete_workflows_except_latest.sh
+            .devcontainer/portfolio-container/devcontainer.json
 
       - name: Build and run dev container task
         uses: devcontainers/ci@v0.3
         with:
-          configFile: portfolio-container/devcontainer.json
+          configFile: .devcontainer/portfolio-container/devcontainer.json
           runCmd: pnpm build-next
 
       - name: Delete previous workflow
