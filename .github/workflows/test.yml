@@ -24,6 +24,9 @@ jobs:
         with:
           configFile: .devcontainer/portfolio-container/devcontainer.json
           runCmd: pnpm build-next
+          runCmd: |
+            pnpm install
+            pnpm build-next
 
       - name: Delete previous workflow
         run: |
