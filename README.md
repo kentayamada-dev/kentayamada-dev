@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49d35b3f581fc2da354e888761c13629.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95ee849424c65436589103f506470a1f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/459b4d853e595daab9c788b9a3571379531cefea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン、核開発継続で譲らず　トランプ氏「来週に協議再開」　米と隔たり、再攻撃リスクも
+      <a href=https://news.yahoo.co.jp/articles/2925c20c8bd5aa62e634e73a61fef48081bc9be6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010032-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 教師盗撮「許しがたいこと」横浜市教育委が会見　児童の心のケアを進める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e50fb36d2b514c9dc2dee94b77ceedf8592fb13b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185466-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 「ヘイヘイヘイ！」大谷翔平、打席で“今季初”まさかのプレーに絶叫…ファンも称賛した“瞬時の判断”リアクションの一部始終
+      <a href=https://news.yahoo.co.jp/articles/508b42ffa1e892b98029ac7c60fa46464e6d1e2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00551685-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「大谷の大ファン！」と白状した敵地解説の止まらぬ“愛”　試合前の光景に「彼はユニコーン、ロボット」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/459b4d853e595daab9c788b9a3571379531cefea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000104-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン、核開発継続で譲らず　トランプ氏「来週に協議再開」　米と隔たり、再攻撃リスクも
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1c50efc5cf09dace96bcbe7aec7d3fe337789e3c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000067-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【国分コンプラ違反】TOKIO・城島茂が生かせなかった「山口騒動」の“後悔”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fd4b0d4fe8bcc1a29031f3e70f708af67e8dcf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050191-yom-000-4-view.jpg?pri=l&w=192&h=135&exp=10800&fmt=webp> 天皇ご一家の愛犬「由莉」が死ぬ…側近「愛子さまが悲しく思われていると推察」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a6ebd1b58942da1d63b4b108d99ab086e41d090df48c09f720daae0fa42a951e.jpg> ハメネイ師 戦闘終結後も沈黙保つ
+      <a href=https://news.yahoo.co.jp/pickup/6543579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4b127efd06ca83b12ba9a766504230fc521b746b00eae07c6e4e11780aeff0e9.jpg> ハメネイ師が声明 米何も得られず
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/9b392d330994133000e64dd2a92d5b2d20ee32a855ce98a9b454dd204cc0cd33.jpg> 小6の男児2人おぼれる 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/38a769a75469dda3da766debe30d694e5f2177af59519c9bff1617276d60aa26.jpg> 女児盗撮し共有疑い 市教委が陳謝
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d7e3d230417bf22d724c02dcda557edd68f6ac2fcc2ac295fe6363fb07611524.jpg> 中日 条件クリアで選手にボーナス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/765afdf6eb27e2f865769d3e93e701e3ecc336e1f8983df0d5347decb3fa0c4a.jpg> NMBキャプテン小嶋花梨 卒業発表
+      <a href=https://news.yahoo.co.jp/pickup/6543573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3a55528905aed3ea343aaeac459a78bee8b505367d37bf44c1218d930c77c125.jpg> JOC会長に橋本聖子氏 初の女性
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/59f06429ce995954fc63d78f8e8d1c95fcb3c7c563af0f24ac92aa8bfa33876c.jpg> ときメモ修正 親友彼女奪う不具合
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 21:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 21:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
