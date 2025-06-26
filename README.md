@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0455cdbf79cdd93e8b4c356e8016ed8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2de42df3a1cb782508cf96526aef408e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/773e2c0b2563d9773a364156f31768ab0e2efa4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781598-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、29号の直後に意外な行動？　まさかの“珍事”も…ド軍公式「土産を贈った」
+      <a href=https://news.yahoo.co.jp/articles/46cfc5596bb3d4cd9758624b844f939a3f56adf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781614-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=11&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の28号が「大きかったね」　4連勝貢献の豪快弾をド軍監督が称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0e31e7ae8462e6627b9c9622371e6c4362f6e6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270053-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 不在「ダウンタウンDX」最終回に「トスポ」声担当の放送作家が意味深投稿「そりゃ怒るよ」Xの声
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/386f79ffcf1fd333e605d52af66cd939b91bf5de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993314-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 逮捕の教師が務める小学校で保護者説明会　SNSで盗撮動画を共有
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993314-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 小学校教師が女子児童の下着盗撮か…逮捕教師が務める小学校で保護者説明会　保護者「どこに気持ちをぶつけたらいいのか」
       </a>
     </td>
   </tr>
@@ -386,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/625a445e94527aa3abd521e4b33fa88fbcc1ad7c3fc0dbb4d5b47f67935ea2e4.jpg> イラン 米と協議再開に前向き姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543583>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8aff8c925df1c9b25231371a84cce45db146be94731a8bd4b8db0d3092d788ab.jpg> トカラ列島の地震400回超 なぜ
       </a>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/94f2d2ca8625080799859cc2d13f7a87357c0c8692c7e65a44db09f7f1fe69bf.jpg> 盗撮共有事件 説明会で涙流す人も
+      <a href=https://news.yahoo.co.jp/pickup/6543596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/17c67b9768f83094a87a6cd0359f1a084e54fc75ff604e7885e8693baeba6732.jpg> 子供狙った盗撮後絶たず 被害実態
       </a>
     </td>
   </tr>
@@ -410,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/798998d3fa0245d334e61d735c2fb94024ff6757c3a921e0256e7f87480dce78.jpg> タイ人気リゾート地 複数爆発物か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriyamasaya/02263287/title-1750840686811.jpeg?exp=10800> ネット上の性的広告 家庭の対策法
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543593>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2ea13886d971b85a437cafea276ab85df3fe4ad1005774481f18869247914339.jpg> 大谷翔平が28号 リーグトップ独走
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/db0d2766cec0c235c6746b600324c585e4b56b5ff6468abbdead5222d902aaa1.jpg> TOKIO解散 城島と松岡は謝罪奔走
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 06:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 07:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
