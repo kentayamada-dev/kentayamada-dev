@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2ae021164b969b854d690ae2c96433e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ab2c09ab5b5f2678365123dd8f29e5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9868eb0b9865af84f09cdc5d55cdaad9fc082ed5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-09191636-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「自分の良さを引き出してくれた」山本由伸が初コンビの24歳・若手捕手を称賛　5回で6奪三振7勝目アシスト
+      <a href=https://news.yahoo.co.jp/articles/65e395ec52407d229a0a6f22cc1193cafb400364>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781310-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> なぜ山本由伸は5回56球0封できた？　直近防御率5点台も…ド軍OBが見た“変化”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8617200b1fc461bc6b75480ae44ef4b29d753c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00993025-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジHDが株主総会で採決の取締役候補23人それぞれの賛成率公表　ダルトン側提案12人は北尾氏27％、9人は1割台
+      <a href=https://news.yahoo.co.jp/articles/5216e66dce4b1874dccec34437eb70ce263c9802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245278-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジHD株主総会で会社提案の取締役候補が大勝　SBI北尾会長の賛成率は27％
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b159aaaf459902775fac755df7119f6df2e05e1f4a4725bb3d94aee8f79a0c7b.jpg> 子供2人溺れたと通報 1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6543566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bba20a89c96f8ad531db0dec8e9c94f9b48f36a3968c9c93e4bae16ce52a655d.jpg> 自転車ひょっこり運転 実刑判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/816a6730afcf063ddf9aee3efb4216b6d5a8fa6a917d9f2b07fa1cf520b69ae7.jpg> 県警の柔道大会 男性巡査が首骨折
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543564>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31d975460dd2b52708036357525614cee7a0522d58f44bffb9eb15ca5e53656b.jpg> 食べログの業績が過去最高 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3bec5a32d07e785a2aedc930e694eaeddd4c974dc934ddbe3cc81e117597a708.jpg> 米も猛暑 原因はヒートドーム現象
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 19:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 19:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
