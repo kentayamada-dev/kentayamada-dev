@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5b7faa45a47991718a91e79e938a6c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb17df18496a41fcb28ef58c2da29fe5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e0cc4756eabcf8702bd7c73d94375d18b7276f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=941&ch=941&exp=10800&fmt=webp> 山本由伸　早くも７勝で昨季に並んだ　雨で１時間半中断→わずか５６球降板で初完投お預け
+      <a href=https://news.yahoo.co.jp/articles/9fadca10916938564d758b4920e837069ebacea0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271013-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が２打席目四球で４戦連続出塁、好走塁も…２戦ぶり２８号なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26744ebdab7fa0ea9ae68b2d64319ed2976d33cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349887-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ダウンタウンDX」32年で浜田雅功がスタッフにキレた回数、吸ったタバコの本数判明
+      <a href=https://news.yahoo.co.jp/articles/cbecf78c8797696db8edf2714ca2784bd68e5cd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245377-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「不安と怒り」「ショックで涙する人も」逮捕の教員が勤務する小学校で緊急保護者説明会 約270人が出席　女児の下着盗撮・SNSで共有した疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b71ce7c20be5d3aa2c5d00a42ba3834bf4465f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000018-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1659&ch=1659&exp=10800&fmt=webp> ネタニヤフ首相、イランとの戦争で「和平の機会拡大」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 04:33:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 04:57:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
