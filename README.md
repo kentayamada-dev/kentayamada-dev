@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c75a9dc29437d3c96b6d8418ad5fb92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8caa97585ae99a927c002ce79b9e4f7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65b87c175a1dd25abd54b39065879e4fe7dec5ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=637&ch=637&exp=10800&fmt=webp> 「ランボルギーニ」不正車検疑い　スーパーカー愛好家ら6人を逮捕
+      <a href=https://news.yahoo.co.jp/articles/dc8f845be3b4972042624d6f339d9392b033d419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261165-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 【巨人】オンラインカジノ賭博容疑で書類送検の２選手は不起訴「本人たちが心から反省」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ac999797012a496f84ddf600377811a24fc29e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000142-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2150&ch=2150&exp=10800&fmt=webp> 大谷、巧打で好機を演出　ロッキーズ戦で2打数1安打
+      <a href=https://news.yahoo.co.jp/articles/6b4b8eca9dab4843b087e759d55aeaddf092ef3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> KDDI、全国で通信障害　約30分、原因調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63843fc44735df013fc0a7085b9e864ebb1f6b85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167606-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【停戦合意の行方】米国のイラン攻撃…核開発阻止に限定した本音“北朝鮮の教訓”も
+      <a href=https://news.yahoo.co.jp/articles/7de53374ca10f52ed7a6759f084a4679b320b3d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000051-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 自民・森山幹事長、参院選に危機感　目標達成へ「相当頑張らないと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0629138983ba08777aa124300611fc81b2ee7361>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-16667652-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=521&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ガザ停戦に向けた動き、仲介が活発化か　ハマス幹部がBBCに説明
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/908d5e962f01bacd97ec6a6a51a21f79ea596274>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000049-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> KDDIで通信障害発生も、30分足らずで復旧　「つながらない」との声Xに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3c7558893aa9136d78f94f1c40f626299d8955ebab2dc72ab7f7a1815661f517.jpg> 米大統領 イランとの交渉来週再開
+      <a href=https://news.yahoo.co.jp/pickup/6543557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f4eb435ef93df52705efeda6dc5dc1d7e36cad8122c84103a69c4766bcfcd29e.jpg> 参院選 自民幹事長が危機感を強調
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/23da30f5156e54cdaf71f632ed914891ffcdd42a73cf8ae76434373e4b35de42.jpg> 子供2人が溺れたと通報 1人重体
+      <a href=https://news.yahoo.co.jp/pickup/6543558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/23da30f5156e54cdaf71f632ed914891ffcdd42a73cf8ae76434373e4b35de42.jpg> 子供2人溺れたと通報 1人心肺停止
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/982e453f541139554edc54033a0d62ca3e170b0c1092e3e0b210cd342e23959b.jpg> 山形空港にクマ出没 滑走路閉鎖に
+      <a href=https://news.yahoo.co.jp/pickup/6543553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5cbba6c9f1dd362e31f2e70eda94393d42cfecd51a75c02bfae5321874441f27.jpg> 改造の高級車を不正車検疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/eda505a80bcf022ae28ad3bb77c1a0dcff9f04e260f3c38bc76521b63ff246d2.jpg> 賭博疑い 巨人2選手を不起訴処分
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bb91e3c7c298a3fc477d49f436aace046d03e36e425f104579d716592dfc35cf.jpg> イチロー選抜 松井稼頭央氏が参戦
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 17:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 18:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
