@@ -24,10 +24,10 @@ jobs:
         with:
           configFile: .devcontainer/portfolio-container/devcontainer.json
           runCmd: |
-            npx vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }}
-            npx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
-            npx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-            npx vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
+            pnpm dlx vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }}
+            pnpm dlx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+            pnpm dlx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+            pnpm dlx vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Delete previous workflow
         run: |
