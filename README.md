@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34b80794a0fd770fc2651fd71a12da1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63b9acc2ebff0d9ac0aa126dce3569ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9edd837fe7e021bcee4cbde633a964b3fa2fff5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000003-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> 大谷翔平、ミラクル生還でトップ独走79得点！！　ベーブ・ルースの「177」超えも射程
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/98420e4a3a831adc7815746e852f116bd80213a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90020352-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】徳島の山中で70代男性2人が死亡　遺体に複数ケガの痕　イノシシに襲われたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00ff903b29bc6252b513b00496dba4d58394d6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-05623441-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランの護憲評議会、IAEAとの協力一時停止の法案を承認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e6b65ec0ed4f2ebd53b25517dd03fa2cd7e888c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270023-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 解散発表のTOKIO城島茂がMBSラジオに出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26744ebdab7fa0ea9ae68b2d64319ed2976d33cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349887-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ダウンタウンDX」32年で浜田雅功がスタッフにキレた回数、吸ったタバコの本数判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/845e90a136b989034c377441b34bf20663bfa233>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050236-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=427&ch=427&exp=10800&fmt=webp> イランは「核開発断念」に応じない方針、米との協議再開は「支持する」…報道官が明言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/298ce9f542783656b0f9da0e7934437150eca40f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 大谷翔平、前半８１戦終了で自己最高の昨季に並ぶ５４発ペース　メンタルコーチ驚き「何一つ変えず全うしている」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270023-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 解散発表のTOKIO城島茂がMBSラジオに出演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 01:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 02:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
