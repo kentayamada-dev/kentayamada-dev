@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95ee849424c65436589103f506470a1f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f731ceccb6e0ec170d3058b345868b2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2925c20c8bd5aa62e634e73a61fef48081bc9be6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010032-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 教師盗撮「許しがたいこと」横浜市教育委が会見　児童の心のケアを進める
+      <a href=https://news.yahoo.co.jp/articles/a1fb5295dfc2a33f92e6e5da95cee85623877f88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781099-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平出場試合で生まれた“奇跡の光景”　90分中断がもたらした僥倖、米感動「何て美しい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/508b42ffa1e892b98029ac7c60fa46464e6d1e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00551685-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「大谷の大ファン！」と白状した敵地解説の止まらぬ“愛”　試合前の光景に「彼はユニコーン、ロボット」
+      <a href=https://news.yahoo.co.jp/articles/9a8770fa44f0db948552807218a398f974d7e77e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050192-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 長崎原爆の日にロシア駐日大使が参加へ、ウクライナ侵略後初…「広島」には不参加見込み
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3d6ad5d39054e560bc2479b5a4acdbc22a5d38a78d6c8be1e1a991ff1aea31f6.jpg> 財務省解体デモ 林官房長官が見解
+      <a href=https://news.yahoo.co.jp/pickup/6543581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3953b712eec71e86e11287b2ba11c537a175600f0aadd159593d5722c58bb88c.jpg> 駐日露大使 長崎の式典に出席意向
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543582>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> TOEIC不正受験 中国系業者乱立か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f9a350c0513be30fddb7396cdb5c1c207470c91b7ec991cd9d5770e648a73b90.jpg> 大雨で養殖ニジマス約2t死ぬ 悲痛
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3a55528905aed3ea343aaeac459a78bee8b505367d37bf44c1218d930c77c125.jpg> JOC会長に橋本聖子氏 初の女性
+      <a href=https://news.yahoo.co.jp/pickup/6543578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f7689c251765cd0fca3112719346a06ca75f4bc03deb5e74e9e5d5ac34d8e8dc.jpg> ニトリの家電が好調 安さの理由
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/59f06429ce995954fc63d78f8e8d1c95fcb3c7c563af0f24ac92aa8bfa33876c.jpg> ときメモ修正 親友彼女奪う不具合
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 21:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 22:01:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
