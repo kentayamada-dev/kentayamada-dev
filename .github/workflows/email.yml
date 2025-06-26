@@ -12,6 +12,8 @@ concurrency:
 
 jobs:
   Deployment:
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
     timeout-minutes: 10
     runs-on: ubuntu-24.04-arm
 
@@ -28,9 +30,6 @@ jobs:
             pnpm install
             pnpm run deploy
           "
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Delete previous workflow
         run: |
