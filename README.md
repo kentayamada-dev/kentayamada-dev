@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63b9acc2ebff0d9ac0aa126dce3569ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4202dfd939e05a11ea458c07c134746.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9edd837fe7e021bcee4cbde633a964b3fa2fff5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000003-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> 大谷翔平、ミラクル生還でトップ独走79得点！！　ベーブ・ルースの「177」超えも射程
+      <a href=https://news.yahoo.co.jp/articles/6e0cc4756eabcf8702bd7c73d94375d18b7276f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=941&ch=941&exp=10800&fmt=webp> 山本由伸　早くも７勝で昨季に並んだ　雨で１時間半中断→わずか５６球降板で初完投お預け
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98420e4a3a831adc7815746e852f116bd80213a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90020352-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】徳島の山中で70代男性2人が死亡　遺体に複数ケガの痕　イノシシに襲われたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00ff903b29bc6252b513b00496dba4d58394d6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-05623441-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イランの護憲評議会、IAEAとの協力一時停止の法案を承認
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 02:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 02:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
