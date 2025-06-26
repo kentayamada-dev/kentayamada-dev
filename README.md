@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cefa67c3bf963606c387f03ac788182.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1970e3632d528f5812a0299b21e6b68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/116c945584ba936c31b7c0e9eed976bb3765cf54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36261153-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1478&ch=1478&exp=10800&fmt=webp> 松岡昌宏が福島県にTOKIO電撃解散を直接謝罪　県側は城島茂＆松岡のCM出演継続に含み
+      <a href=https://news.yahoo.co.jp/articles/3369d388af0a61425f5533019c3e95e74ffbca6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000004-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 国分太一のMC降板で『テレ東音楽祭』情報解禁も延期に…やむを得ない「代役候補」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f68b61a24c9f328b59d2f01dd00515ab1835c7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271014-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が勝ち越しのチャンスも一ゴロ　得意左腕相手に３打席目までは快音なし
+      <a href=https://news.yahoo.co.jp/articles/dc0a327613d0132e59416a407e6967fcdcdfa155>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245381-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「イノシシの罠を見に行ってから帰ってこない」徳島県の山中で高齢男性2人死亡　手足に複数の傷　イノシシに襲われたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2477928841ae1a88eddeb96e47c54e256570aca5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> グループは教員10人近くか　校外学習中撮影データも　女児盗撮事件
+      <a href=https://news.yahoo.co.jp/articles/ed966459180bdbb3c7fb82a7ed57e7e7b56d237f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000080-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1087&ch=1087&exp=10800&fmt=webp> 大谷翔平　2戦ぶり28号！最近4戦3発で年間55発ペース　敵地大熱狂　2番手右腕がダイレクトキャッチ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 05:48:52 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 06:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
