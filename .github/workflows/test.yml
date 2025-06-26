@@ -18,13 +18,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4.1.4
-        with:
-          sparse-checkout: |
-            portfolio
-            .devcontainer/.env
-            .github/workflows/scripts/deploy_vercel.sh
-            .github/workflows/scripts/delete_workflows_except_latest.sh
-            .devcontainer/portfolio-container/devcontainer.json
 
       - name: Build and run dev container task
         uses: devcontainers/ci@v0.3
