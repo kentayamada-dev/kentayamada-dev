@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b9ea9e59f8fa6a7785185e0c48c0ff0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6416e3b4c457790e3451189c699850f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2fef69eadfefab50bc2d47bbea7ce40661331b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、攻撃の成果強調　イランと来週協議で「合意に署名も」
+      <a href=https://news.yahoo.co.jp/articles/bea2e00d876f9612d26603f076904f239d1ab7bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000003-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1522&ch=1522&exp=10800&fmt=webp> トランプ氏「来週イランと協議」 核開発計画は数十年後退と発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/51ef4dc152237fcc1a5070e2d2074ae8df3cfd0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260085-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「１番DH」今季３度目の３戦連発なるか　ロッキーズ先発は23年ドラ１のドーランダー
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33fb97fc4ee6b31898dfb07b6c5f20f7fec37412>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245177-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ペルーの最高峰のワスカラン山で日本人2人が遭難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19324763d0ee9a324b124ac3a2bc8fc3861ef09e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000090-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　ロッキーズ戦「1番・DH」でスタメン、28号に期待　山本由伸が7勝目狙い先発
+      <a href=https://news.yahoo.co.jp/articles/609f574f16492e37a4dc5c0f91bb8e77e0503765>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36251419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1174&ch=1174&exp=10800&fmt=webp> フジMH清水社長　“再出発”へ「日枝氏の影響力ない」強調、「経営体制が完全に刷新された」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/1a1a04e44e5113e38f4babfde6fb4628a9587ec9a7407aafc8f4d4c662afdff2.jpg> 停戦巡り「戦争は終わった」米
+      <a href=https://news.yahoo.co.jp/pickup/6543493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/15a48d907810d0859f133a12b0d3339a43fa225766677abb677f45b1e4b7c826.jpg> 自民非公認 党支部から衆院選資金
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e28c3dc004c7191d6888161c3544a8a30c41ef095f5173c140af8985fb39ada0.jpg> 堂安律がフランクフルトに移籍へ
+      <a href=https://news.yahoo.co.jp/pickup/6543500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/399fe114bf5c96f08ff43facc68a23e2217cfb91a0304d1364603fba9d99e4ca.jpg> 大谷参加? HRダービーに識者懸念
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 08:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 09:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
