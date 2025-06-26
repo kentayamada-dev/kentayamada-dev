@@ -24,9 +24,7 @@ jobs:
         with:
           configFile: .devcontainer/portfolio-container/devcontainer.json
           runCmd: |
-            echo $0
-            echo "The current user is: $(whoami)"
-            pnpm i -g vercel
+            npm i -g vercel
             vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }}
             vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
             vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
