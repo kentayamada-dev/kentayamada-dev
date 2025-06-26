@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b805628d179935d28bbd1c4b408f8a62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7810f0d5b548cbba4f5acd207a08f051.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2fbdd5ae8889769adc44b932dd1d89ac716311c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00992848-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【速報】大谷翔平1安打含む4出塁・2得点で勝利に貢献　山本由伸5回1安打無失点で7勝目　豪雨で試合約1時間半中断も“幸運な先制点”生かしドジャース3連勝
+      <a href=https://news.yahoo.co.jp/articles/8c3feeb4d7e1f58d12d5747a6ee97e6f9ed71634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261117-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 山本由伸、渡米後初“完投ペース”も１時間２７分の降雨中断で断念「もっと行けた気持ちはありましたけど…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bf044d435fba57f63f5a0ae619a649886c76ad5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000034-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【クラブW杯】浦和・関根貴大、「あの１失点でチームが崩れてしまったのがすべて」鮮烈な一撃に動揺
+      <a href=https://news.yahoo.co.jp/articles/895ded54330e6f224e1bb96f3c69bf06a38e199c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010008-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=297&ch=297&exp=10800&fmt=webp> 【速報】通信障害が復旧　全国で一時「au」「UQモバイル」などで利用しづらい状況が発生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39ba5d59f5f1817d8277de6ca85c26ba3c697e14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050102-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 来週再開予定のイラン核協議、トランプ氏は開発放棄を求める方針「合意に署名するかもしれない」
+      <a href=https://news.yahoo.co.jp/articles/1dcf9727760c57b5cb52851342e07a0a9d16d215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000077-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 橋下弁護士　国分太一は「もう復帰は考えてないんでしょう」　説明なしで一時活動休止なんてできない　「重大な事に全部蓋」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd081ed836904fdf5daa5f55b6b460550bca709b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
+      <a href=https://news.yahoo.co.jp/articles/74ad0a73635d0fb0c37ec7cdb29351dc726e44bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00349829-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が一気に本塁生還！強烈雨で相手二塁手がボール見失う　７回には申告敬遠も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8c2321c2a1dc82a86512cf48be1e70d6bccd6b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167634-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=675&ch=675&exp=10800&fmt=webp> フジ総会で大株主ダルトン案否決　日枝氏に退職金支給へ　元スポンサー企業CM再開は？
+      <a href=https://news.yahoo.co.jp/articles/dd079f88cb3af5b6197b0ba8ddb3f688b959356c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-16016258-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> イラン核施設、「深刻な損傷」受けた　米軍の空爆についてCIA長官
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/329d0ae2f525a6df895a0c21af661fb9ed1d531f3b5bd2b6d3001ad790d6a2b0.jpg> ペルーで邦人2人遭難 1人死亡判断
+      <a href=https://news.yahoo.co.jp/pickup/6543508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8a187eff6a4959761fc7485f868eb37a4ba97fefceb234174b189cc183b541a2.jpg> 事件受け 日本駆け込み寺に勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3a9af8403448fd96795945a4746b289410dadb558322a53b1ac56bb9134c9bcb.jpg> KDDI 全国で通信障害が発生
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8a187eff6a4959761fc7485f868eb37a4ba97fefceb234174b189cc183b541a2.jpg> 事件受け 日本駆け込み寺に勧告
+      <a href=https://news.yahoo.co.jp/pickup/6543534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/bb12724cb4c35f4ad0a57e9190222be7ec828299c980e753580e1fa36a61abef.jpg> ベッドインベッドで乳児事故 注意
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5f7940cc7c2df84dfc44b05811130df096c2aae7e4770f16b3198ad501c7be9d.jpg> パンダのタンタン剥製 中国に到着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4c7e6ff7ead1e9b328f289a9882e429c488f17e18d568f7038ce835435b32bd9.jpg> 10分で3失点 クラブW杯浦和完敗
+      <a href=https://news.yahoo.co.jp/pickup/6543536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a4ec0963c4282288a70986d21b6c9ed14f2c6bf381202143318bc377ef87b6e8.jpg> 由伸が7勝目 ラッキーな援護点も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 14:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 14:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
