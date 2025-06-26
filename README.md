@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7810f0d5b548cbba4f5acd207a08f051.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f4048b6cb6739acb6fc5c7556edf61c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c3feeb4d7e1f58d12d5747a6ee97e6f9ed71634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261117-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 山本由伸、渡米後初“完投ペース”も１時間２７分の降雨中断で断念「もっと行けた気持ちはありましたけど…」
+      <a href=https://news.yahoo.co.jp/articles/506510f4afc969188bcd6eaa124603b1705f5e36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22004627-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース大谷翔平選手は3試合連続ヒット　エンゼルス菊池雄星投手は圧巻の奪三振ショー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/895ded54330e6f224e1bb96f3c69bf06a38e199c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010008-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=297&ch=297&exp=10800&fmt=webp> 【速報】通信障害が復旧　全国で一時「au」「UQモバイル」などで利用しづらい状況が発生
+      <a href=https://news.yahoo.co.jp/articles/2e76cee97c98b606bd317e7cc29b2ceea4f7c7f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245253-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> KDDIが全国で通信障害　午後2時前に復旧　原因を調査中　音声通話・データ通信・SMSなど
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dcf9727760c57b5cb52851342e07a0a9d16d215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000077-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 橋下弁護士　国分太一は「もう復帰は考えてないんでしょう」　説明なしで一時活動休止なんてできない　「重大な事に全部蓋」
+      <a href=https://news.yahoo.co.jp/articles/5174496206e5a117083f9804afef9b34a5e51944>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185414-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 内堀福島県知事、国分太一のコンプラ違反・TOKIO解散に「本当に残念」と繰り返す「TOKIOは県民にとって特別な存在」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ad0a73635d0fb0c37ec7cdb29351dc726e44bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00349829-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が一気に本塁生還！強烈雨で相手二塁手がボール見失う　７回には申告敬遠も
+      <a href=https://news.yahoo.co.jp/articles/49f3252d47adadbf28eb96fd7dd47840f2dd8d3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260536-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 山本由伸と初コンビ組んだ新人ラッシング捕手「どんな球でも使えた」「うまくやっていけた」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3a9af8403448fd96795945a4746b289410dadb558322a53b1ac56bb9134c9bcb.jpg> KDDI 全国で通信障害が発生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a743c1bb59a9c4f52e27ffec91809f445f5343ed7069e6061a297cfda91f2cdd.jpg> 盗撮し共有疑い 学校で撮影の立場
+      <a href=https://news.yahoo.co.jp/pickup/6543540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3a9af8403448fd96795945a4746b289410dadb558322a53b1ac56bb9134c9bcb.jpg> KDDIの通信障害が復旧
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543534>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/bb12724cb4c35f4ad0a57e9190222be7ec828299c980e753580e1fa36a61abef.jpg> ベッドインベッドで乳児事故 注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b0563d36fed0e80672eed51eee3bff300d7917cf875bf918d0a38d931f4d66a1.jpg> 大量ねじで捜査車両パンク 男逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 14:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 15:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
