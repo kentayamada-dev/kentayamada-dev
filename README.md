@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/69958555ed9c6afdc7edb0f9b471b2d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23994c310f985448bd083e6cf9a246ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dcdf8d341538c6f2cedda9f4826fa62bd30708b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-09537651-jrt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> イノシシに襲われたか 徳島市の山中で男性２人死亡【徳島】
+      <a href=https://news.yahoo.co.jp/articles/3b1f173ef0b01e2f7ee2d88271a4bbd3cbaadd24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22006079-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> MLB球宴ファン投票、フリーマンらド軍野手が全カテゴリーで最終投票へ　大谷翔平はナ・リーグ全体トップで出場決める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df6eb5c041b88f2bb28759e181ea120289a6f558>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=856&ch=856&exp=10800&fmt=webp> ジャッジが大谷翔平との“激戦”制す　球宴ファン投票で４００万超の最多得票　２年連続は１７年ぶり快挙
+      <a href=https://news.yahoo.co.jp/articles/2dcdf8d341538c6f2cedda9f4826fa62bd30708b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-09537651-jrt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> イノシシに襲われたか 徳島市の山中で男性２人死亡【徳島】
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/17c67b9768f83094a87a6cd0359f1a084e54fc75ff604e7885e8693baeba6732.jpg> 子供狙った盗撮後絶たず 被害実態
+      <a href=https://news.yahoo.co.jp/pickup/6543605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0ea479e4d9e41f843e57bac03b6058a4a6f7c6d8453cf587d86b9ccbb10fea84.jpg> NYダウ終値 4カ月ぶり高値
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2ea13886d971b85a437cafea276ab85df3fe4ad1005774481f18869247914339.jpg> 大谷翔平が28号 リーグトップ独走
+      <a href=https://news.yahoo.co.jp/pickup/6543601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/523ce8cdf2b68e30575dd8fa7e904c490d32fbcaf06c8a7772aed50297460ece.jpg> 大谷翔平 5年連続で球宴出場決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/db0d2766cec0c235c6746b600324c585e4b56b5ff6468abbdead5222d902aaa1.jpg> TOKIO解散 城島と松岡は謝罪奔走
+      <a href=https://news.yahoo.co.jp/pickup/6543593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2ea13886d971b85a437cafea276ab85df3fe4ad1005774481f18869247914339.jpg> 大谷翔平が28号 リーグトップ独走
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 08:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 08:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
