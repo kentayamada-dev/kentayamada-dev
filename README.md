@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fbe81dd8bcc8bbcf032b25cb4aa867b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7ef33465bbeecdaf49a32ea126b28ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6661cd924f4fe33c63d548be66434f183cf5e629>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781291-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山本由伸を襲った“悪夢”「奪われた」　米ファン怒り心頭「完封のチャンスを…」
+      <a href=https://news.yahoo.co.jp/articles/d38756c40c5f7fa047a08ad16715e37f16583b98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 3試合連続安打で勝利に貢献 山本由伸は今季7勝目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a8770fa44f0db948552807218a398f974d7e77e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050192-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 長崎原爆の日にロシア駐日大使が参加へ、ウクライナ侵略後初…「広島」には不参加見込み
+      <a href=https://news.yahoo.co.jp/articles/bc9f87d1d46d2a9b497f75c101af030eb0f302dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-40967050-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=203&ch=203&exp=10800&fmt=webp> イランのハメネイ師、米国「何も得られなかった」－停戦後初の声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/459b4d853e595daab9c788b9a3571379531cefea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000104-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イラン、核開発継続で譲らず　トランプ氏「来週に協議再開」　米と隔たり、再攻撃リスクも
+      <a href=https://news.yahoo.co.jp/articles/e9d9b2126f115200b7373eed7bc64ff831fc40c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000076-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> パイオニア、台湾企業が買収　ディスプレイ大手Innoluxグループの一員に
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/38a769a75469dda3da766debe30d694e5f2177af59519c9bff1617276d60aa26.jpg> 女児盗撮し共有疑い 市教委が陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/fb5dc8cc826590ce38e9104e229bb0523726d15e291411c06571c9e32b31571d.jpg> フジHD株主総会 北尾氏賛成27%
+      <a href=https://news.yahoo.co.jp/pickup/6543588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/94f2d2ca8625080799859cc2d13f7a87357c0c8692c7e65a44db09f7f1fe69bf.jpg> 盗撮共有事件 説明会で涙流す人も
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f7689c251765cd0fca3112719346a06ca75f4bc03deb5e74e9e5d5ac34d8e8dc.jpg> ニトリの家電が好調 安さの理由
+      <a href=https://news.yahoo.co.jp/pickup/6543585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3b51e2edc898ce45aeed6fdfacb8d1b9d24d535ee147edc7823bb6a172233efb.jpg> 危険な猛毒植物? なぜ北海道に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ad5979bee2b2e0cd3f697357b4405d58b89a9f522531e11a0f825b59bb111536.jpg> 「得点王」の大谷 驚異的なペース
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 22:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 23:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
