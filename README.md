@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f4048b6cb6739acb6fc5c7556edf61c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98ffca5dbdb6715cd434159625c9e4bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/506510f4afc969188bcd6eaa124603b1705f5e36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22004627-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース大谷翔平選手は3試合連続ヒット　エンゼルス菊池雄星投手は圧巻の奪三振ショー
+      <a href=https://news.yahoo.co.jp/articles/90cd2b6de58d7f1577693c1ff5e4330548af4161>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00098471-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 山本由伸が“省エネ投球”で７勝目 『39／56』にド軍記者は唸り「圧倒的だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2360abc2985ebd0299f182e4f71ba2b32e3fd86e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261130-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=986&ch=986&exp=10800&fmt=webp> 国分太一の復帰は「見えてこない」と宮根誠司氏「そこを言わないと、何をもって…」「ずっとモヤモヤ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8071caa9c65b0312cbe260678d61cfa94e179dfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000085-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 大谷翔平　虫に襲撃？される珍シーン　ド軍専門メディアが紹介「勢いを弱めるためにあらゆる手段を」ファンも呼応「波動の強い人に」４出塁で５０勝到達に貢献
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e76cee97c98b606bd317e7cc29b2ceea4f7c7f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245253-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> KDDIが全国で通信障害　午後2時前に復旧　原因を調査中　音声通話・データ通信・SMSなど
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5174496206e5a117083f9804afef9b34a5e51944>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185414-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 内堀福島県知事、国分太一のコンプラ違反・TOKIO解散に「本当に残念」と繰り返す「TOKIOは県民にとって特別な存在」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49f3252d47adadbf28eb96fd7dd47840f2dd8d3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260536-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 山本由伸と初コンビ組んだ新人ラッシング捕手「どんな球でも使えた」「うまくやっていけた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245253-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> KDDIが全国で通信障害　午後2時前に復旧　原因を調査中　音声通話・データ通信・SMSなど
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/89abfcd5c4a99b1abd2dcf2698381d77549e2eff612e83832e3a15a667b40301.jpg> 山尾氏 榛葉氏の求め断った理由
+      <a href=https://news.yahoo.co.jp/pickup/6543541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3c7558893aa9136d78f94f1c40f626299d8955ebab2dc72ab7f7a1815661f517.jpg> 米大統領 イランとの交渉来週再開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/68eb51d782f8a44f6169934a70dcfb500ecebf1b6f92b52b2b2a655725ee5870.jpg> 米大統領の原爆発言 林氏論評回避
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/7f7ddc7bce811a0f8be1577361e5d816c5d957908af4605fece853f5298ce66a.jpg> 球児監督 練習で半パン着用を要望
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 15:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 15:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
