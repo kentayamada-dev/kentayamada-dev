@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d116bf2953f192917248aa53bd06430.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01ed787431e41ea281507d2aba266fa5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e0cc4756eabcf8702bd7c73d94375d18b7276f5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=941&ch=941&exp=10800&fmt=webp> 山本由伸　早くも７勝で昨季に並んだ　雨で１時間半中断→わずか５６球降板で初完投お預け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e6b65ec0ed4f2ebd53b25517dd03fa2cd7e888c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270023-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 解散発表のTOKIO城島茂がMBSラジオに出演
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 04:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 04:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
