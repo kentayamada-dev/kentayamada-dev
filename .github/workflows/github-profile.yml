@@ -30,19 +30,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
-      - name: Deploy to vercel
+      - name: README.md
         run: |
           docker compose --file ./.devcontainer/docker-compose.yml up github-profile --detach
           docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/github-profile --user root github-profile bash -c "
             set -eu
 
-            python3 -m venv ./.venv &&
-            . ./.venv/bin/activate &&
-            make install &&
-            CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} \
-            DEBUG=${{ github.event.inputs.debug }} \
-            GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} \
-            make run
+            python3 -m venv ./.venv
+            . ./.venv/bin/activate
+            make install
+            CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} make run
           "
 
       - name: Commit README.md
