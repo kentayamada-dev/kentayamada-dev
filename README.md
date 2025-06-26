@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e519bb152c483c439d566e113b9a148f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d3e4256fb731a46c84b10820ff4bc57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad7e289b0b66545fdeb9a60b40297559470b3698>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000007-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> 大谷翔平の第1打席は遊飛　〝打者天国〟で11度目3戦連発なるか　試合前はブルペンで入念フォームチェック
+      <a href=https://news.yahoo.co.jp/articles/0f90c0f1ff1bab1f6aea0963c74cae7caf57e7ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「行方を把握できないイランのウラン、災難になる」…勝利宣言も笑えないネタニヤフ首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fe33366990f71df81741f47b3dab19d79763c1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=145&cw=999&ch=999&exp=10800&fmt=webp> 「釈然としない思いは残ります」武田真一アナ、解散発表のＴＯＫＩＯに私見…「ＤａｙＤａｙ．」
+      <a href=https://news.yahoo.co.jp/articles/1ca07af88c3979700d8b7532d1e1f1d7ad09dc41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01780846-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷出場ド軍戦、突然の大雨で珍事発生　二塁手がフライ見失いド軍2点先制…球場騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c040e781cc25fd90a6e262676c440e3935f654b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010004-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 【社説】イラン停戦　火種を残した薄氷の合意
+      <a href=https://news.yahoo.co.jp/articles/03e53d42ff491b3fa7f22372e2262ce49f938006>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010002-tokyomxv-000-1-thumb.jpg?exp=10800&fmt=webp> フジHDが株主総会で謝罪「心よりおわびします」　会社側の取締役案を可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d87ffe029568855e576539873b400c67ca5e8f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00816964-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏、オンカジ問題、堀江貴文氏との“協業”…フジ社長が語った今後「極めて厳しい状況」
+      <a href=https://news.yahoo.co.jp/articles/4a2b85ceca384c970aad636202867862707d7c76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04595690-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 南キャン山里、妻・蒼井優への誕プレは田中みな実セレクト「やっぱり女子のカリスマだから」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c50a0fb5cc4ab80b7716d4549f6508cde3947809>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250625-00000209-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 阪神・藤川球児監督が「短パン練習」を球団に要望！　酷暑に勝ちセ界も勝つ！　移動時のポロシャツ含め猛虎クールビズ改革や
+      <a href=https://news.yahoo.co.jp/articles/4ca1822bbfbe35f2571683e0c5a2dfef4d35a371>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00817070-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 市川團十郎、TOKIO解散に反応「自然と何故か涙がこぼれます」　松岡昌宏との共演に思い馳せ
       </a>
     </td>
   </tr>
@@ -410,56 +410,56 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/81e3c73b05dd0e3c1c626f9425b66a6ee05ccfb56f9d6283bca64a34ad38b3b1.jpg> 博士課程の学生支援 対象見直しへ
+      <a href=https://news.yahoo.co.jp/pickup/6543511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e561999a93ce17f573e83647552be7d2d134a423f9b96180087e7d3634d621f1.jpg> 英 核搭載可能な戦闘機12機調達へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bae3acdacbdc677ec42d6d3df8ad8c8ba5356a76485ff1e7558daba0d77fa6a5.jpg> フジ取締役 株主提案を否決の背景
+      <a href=https://news.yahoo.co.jp/pickup/6543519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/851983ddb42b42884dac24c8ea6cd21f86e6d70e4448d8b6f48959a32c2199e8.jpg> 教師が盗撮し共有疑い 卒業生驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d3141f099f9ccdafe593ac813e7c4e02123ecd896aaf7a4b827a614cbc2c8b87.jpg> ペルー最高峰で日本女性2人遭難
+      <a href=https://news.yahoo.co.jp/pickup/6543512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0cfe906993f8ccea2b3d91c3543619a053c4f8d0312f1e605380f2617308a4ea.jpg> 夫の地元で孤独 絶望からの転機
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/34d4edae6a58accfd3730b8ccbeb92be32e91cb053f8962eeff3f59023d2707c.jpg> さいたま市「英語王国」の理由
+      <a href=https://news.yahoo.co.jp/pickup/6543497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/fec6c9621ab0f5beb1bd9d71bc1fc6d7b1a98e3d1d1999703a128cb9b1342be4.jpg> 日本人の祖先 戦略的に沖縄渡来か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/85e484d3bc8cac44be7f853004b1f70c8708d71ca4f0ff3531296a7ab55881a3.jpg> 動物園にニワトリ捨てられる 京都
+      <a href=https://news.yahoo.co.jp/pickup/6543518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/c073a6f8fa4c8b150fb26584219f334e408fbca065a4099155d9130d77fad90f.jpg> TOKIO解散 CM起用企業も衝撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ed807be6367cb4fddcbdad452f1db50862b4a7d647daa3cd33e6c3f51ac27c31.jpg> 菊池雄星が7回2失点で3勝目
+      <a href=https://news.yahoo.co.jp/pickup/6543510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/04e56e65d2dc8d99c179c3a7d104fcf69c076bf40ad4a4909d569e34f4b258f6.jpg> 速報クラブW杯 浦和vsモンテレイ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b375339f4ceffc9acd29bb437f5722d5cf302ac1c35086cf2c3da0bd1bea53b8.jpg> 新庄監督 交流戦優勝のSBに言及
+      <a href=https://news.yahoo.co.jp/pickup/6543513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/84b388139b55b1a6ee6788112cdae0d9ac202f465335a6dffcca6c6e8b8213ca.jpg> 山里と夫婦TV共演 蒼井照れ笑い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 10:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 11:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
