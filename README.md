@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7ef33465bbeecdaf49a32ea126b28ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a2d99ab65491b5cc7e9ee109d5ecd99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d38756c40c5f7fa047a08ad16715e37f16583b98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 3試合連続安打で勝利に貢献 山本由伸は今季7勝目
+      <a href=https://news.yahoo.co.jp/articles/298ce9f542783656b0f9da0e7934437150eca40f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 大谷翔平、前半８１戦終了で自己最高の昨季に並ぶ５４発ペース　メンタルコーチ驚き「何一つ変えず全うしている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56315a45164d3d82f33db5fe98e6323172af86c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000368-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 城島茂　「TOKIO」解散後、初のレギュラーラジオ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86cc32f62231742f5fc00ff25a4c8d039f16cdc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261228-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=531&ch=531&exp=10800&fmt=webp> 「ダウンタウンＤＸ」最終回に松本人志、浜田雅功は登場せず　最後は放送回数などを紹介…３２年の歴史に幕
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bc9f87d1d46d2a9b497f75c101af030eb0f302dd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-40967050-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=203&ch=203&exp=10800&fmt=webp> イランのハメネイ師、米国「何も得られなかった」－停戦後初の声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9d9b2126f115200b7373eed7bc64ff831fc40c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000076-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> パイオニア、台湾企業が買収　ディスプレイ大手Innoluxグループの一員に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c50efc5cf09dace96bcbe7aec7d3fe337789e3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000067-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【国分コンプラ違反】TOKIO・城島茂が生かせなかった「山口騒動」の“後悔”
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4b127efd06ca83b12ba9a766504230fc521b746b00eae07c6e4e11780aeff0e9.jpg> ハメネイ師が声明 米何も得られず
+      <a href=https://news.yahoo.co.jp/pickup/6543583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8aff8c925df1c9b25231371a84cce45db146be94731a8bd4b8db0d3092d788ab.jpg> トカラ列島の地震400回超 なぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3953b712eec71e86e11287b2ba11c537a175600f0aadd159593d5722c58bb88c.jpg> 駐日露大使 長崎の式典に出席意向
+      <a href=https://news.yahoo.co.jp/pickup/6543579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4b127efd06ca83b12ba9a766504230fc521b746b00eae07c6e4e11780aeff0e9.jpg> ハメネイ師が声明 米何も得られず
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6ac60298f7702e614b374ad930a8d2289259049d82476fd2da690a8c81715315.jpg> パイオニア 台湾メーカーの傘下に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriyamasaya/02263287/title-1750840686811.jpeg?exp=10800> ネット上の性的広告 家庭の対策法
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543577>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6a50ccba884624a4a32596a4024bc9c6c66eda3d362e9894d26de645792555e1.jpg> 天皇ご一家の愛犬「由莉」死ぬ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/93a0f42410c6869a32ade9735f0e63a9912ff814f8102d09dd10342835990b03.jpg> TOEIC不正受験 中国系業者乱立か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/3b51e2edc898ce45aeed6fdfacb8d1b9d24d535ee147edc7823bb6a172233efb.jpg> 危険な猛毒植物? なぜ北海道に
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/90ff405707f66d465592964a6256e610db0f71acfb60a55a147e59b9ba94bccb.jpg> ブラピ 中尾明慶へ現金プレゼント
+      <a href=https://news.yahoo.co.jp/pickup/6543590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b6532c5677efcff4ab21f123b360327e597acbbb99cec7beb93e8a61f511bfb5.jpg> ダウンタウンDX最終回 2人は不在
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 23:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 23:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
