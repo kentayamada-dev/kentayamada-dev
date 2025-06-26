@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11e22c30e8c5c50dcfd4467c839fd2eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6fe185c58c1c175a8405f6333bea9b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aab45a8dba4d489222afa42b218f5beb75cd7715>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167629-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> TOKIO解散を受けSTARTO社のプロフィル欄も3人の名前に変更
+      <a href=https://news.yahoo.co.jp/articles/b8c13ef4fa553d5a5ca9761a52a026df456f1f70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06633164-fct-000-1-thumb.jpg?exp=10800&fmt=webp> 松岡さんからは県に謝罪の電話…県「解散後も変わらず福島県を応援していただきたい」　福島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd872ab2bd8aac58c20e47bf8331923e18b89787>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167622-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領、広島、長崎への原爆投下を引き合いにイラン核施設攻撃の成果強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/220481880ba93b0eb1fff7d25c63ce76fa477634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000027-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=1100&ch=1100&exp=10800&fmt=webp> ＜蒼井優＞多忙な日々でも「短時間でも帰ってきてくれる」　夫・山里亮太に感謝　「自分の価値を理解してほしい」愛ある助言も
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b64f225cd350cae9a21024ead37540917bf79bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 南米ペルー　登山中に日本人女性2人遭難　救助も1人は死亡確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58981bb558ee76ffc55d07c2ed7887b2479642ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260248-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平、突如の豪雨でホームイン　左前打で出塁後、マンシーの一塁飛球を守備陣が見失う珍事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f90c0f1ff1bab1f6aea0963c74cae7caf57e7ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「行方を把握できないイランのウラン、災難になる」…勝利宣言も笑えないネタニヤフ首相
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31bd2ffa3afdeb88d49811d5888938413f1a930bfde694edb890c066418459df.jpg> ペルー山で邦人遭難 1人死亡判断
+      <a href=https://news.yahoo.co.jp/pickup/6543524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31bd2ffa3afdeb88d49811d5888938413f1a930bfde694edb890c066418459df.jpg> ペルーで邦人2人遭難 1人死亡判断
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/84b388139b55b1a6ee6788112cdae0d9ac202f465335a6dffcca6c6e8b8213ca.jpg> 山里と夫婦TV共演 蒼井照れ笑い
+      <a href=https://news.yahoo.co.jp/pickup/6543523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d9f9729664f0142b71fc46b24153210fcf900c581e3d113656cb39e95c8636c.jpg> 山里 妻への誕プレはみな実に相談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanishimasao/02264058/title-1750891044498.jpeg?exp=10800> TOKIOの尊さと危うさ 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6543504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f9bbb628c3544078b7fa257e6f8553710176ec4778fffbe98ca123964adad917.jpg> スティッチ 20年人気続く理由
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 11:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 12:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
