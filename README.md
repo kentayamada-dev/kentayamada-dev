@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2ac81d5f9870e422f8a46919e336ced.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c75a9dc29437d3c96b6d8418ad5fb92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c21e3b8597db9e89524d0fcc3472c73802e9643a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000054-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、6試合連続無得点から一転3試合連続得点　シーズン158得点ペースはルースらメジャー歴代5位タイ相当
+      <a href=https://news.yahoo.co.jp/articles/65b87c175a1dd25abd54b39065879e4fe7dec5ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=637&ch=637&exp=10800&fmt=webp> 「ランボルギーニ」不正車検疑い　スーパーカー愛好家ら6人を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2def450c9051c015b80bf8cacb43a3fbfc37bcec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10185440-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=590&ch=590&exp=10800&fmt=webp> トランプ氏「戦争は終わった」来週イランと核協議へ
+      <a href=https://news.yahoo.co.jp/articles/1ac999797012a496f84ddf600377811a24fc29e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000142-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2150&ch=2150&exp=10800&fmt=webp> 大谷、巧打で好機を演出　ロッキーズ戦で2打数1安打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63843fc44735df013fc0a7085b9e864ebb1f6b85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167606-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【停戦合意の行方】米国のイラン攻撃…核開発阻止に限定した本音“北朝鮮の教訓”も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/908d5e962f01bacd97ec6a6a51a21f79ea596274>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000049-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> KDDIで通信障害発生も、30分足らずで復旧　「つながらない」との声Xに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9342d8efc4118c9223061e2c8608a87b2f2c3a84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-22004619-tuy-000-5-thumb.jpg?exp=10800&fmt=webp> クマ出没で滑走路閉鎖の山形空港　猟友会が箱ワナを設置（山形）
       </a>
     </td>
   </tr>
@@ -418,40 +418,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d99a0378aaa8c271f414bd095849a69d826e7899eb19954ea638266defe1664e.jpg> 北朝鮮のリゾート観光地が完成
+      <a href=https://news.yahoo.co.jp/pickup/6543554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/23da30f5156e54cdaf71f632ed914891ffcdd42a73cf8ae76434373e4b35de42.jpg> 子供2人が溺れたと通報 1人重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d39afc8470904fdbd741841fe02811b4b09c786cd507a60c83c07e4344801f5.jpg> 若手キャリア官僚の離職深刻 背景
+      <a href=https://news.yahoo.co.jp/pickup/6543550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b0aeb881ef91237bc8eb869276ef34a72dbb4b8ad3d44a9738e50aa25f6b62a2.jpg> 車と衝突 自転車の高1が意識不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ebdb4a4a8a0e3d662bd9a3a99df3bb88eb59bb5d20ca938de0791c8904b97e16.jpg> 福島県庁「TOKIO課」扱いは未定
+      <a href=https://news.yahoo.co.jp/pickup/6543548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/982e453f541139554edc54033a0d62ca3e170b0c1092e3e0b210cd342e23959b.jpg> 山形空港にクマ出没 滑走路閉鎖に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/bb12724cb4c35f4ad0a57e9190222be7ec828299c980e753580e1fa36a61abef.jpg> ベッドインベッドで乳児事故 注意
+      <a href=https://news.yahoo.co.jp/pickup/6543551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5a26ff9927010c93fb6e04b4f98909f83657a27791ce00dba1bf572ab4d52473.jpg> ほっかほっか亭 ライス大盛値下げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b0563d36fed0e80672eed51eee3bff300d7917cf875bf918d0a38d931f4d66a1.jpg> 大量ねじで捜査車両パンク 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/41180d86ab98ba163f19caa3c50979199627d1ea733786817f8555c0a619b073.jpg> ロックのライブ中 客ら救命に尽力
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 16:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 17:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
