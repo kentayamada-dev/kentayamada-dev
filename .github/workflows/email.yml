@@ -25,7 +25,7 @@ jobs:
           docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/email --user root email bash -c "
             set -eu
 
-            pnpm deploy
+            pnpm run deploy
           "
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
