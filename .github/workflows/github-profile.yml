@@ -30,11 +30,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
-      - name: Update README.md
+      - name: Deploy to vercel
         run: |
-          docker compose -f ./.devcontainer/docker-compose.yml up github-profile -d
-          docker compose -f ./.devcontainer/docker-compose.yml exec -u root github-profile /bin/sh -c "
-            cd /home/dev/workspaces/github-profile &&
+          docker compose --file ./.devcontainer/docker-compose.yml up github-profile --detach
+          docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/github-profile --user root github-profile bash -c "
+            set -eu
+
             python3 -m venv ./.venv &&
             . ./.venv/bin/activate &&
             make install &&
