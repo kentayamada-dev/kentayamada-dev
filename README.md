@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1970e3632d528f5812a0299b21e6b68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0455cdbf79cdd93e8b4c356e8016ed8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3369d388af0a61425f5533019c3e95e74ffbca6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000004-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 国分太一のMC降板で『テレ東音楽祭』情報解禁も延期に…やむを得ない「代役候補」
+      <a href=https://news.yahoo.co.jp/articles/773e2c0b2563d9773a364156f31768ab0e2efa4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781598-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、29号の直後に意外な行動？　まさかの“珍事”も…ド軍公式「土産を贈った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc0a327613d0132e59416a407e6967fcdcdfa155>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245381-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「イノシシの罠を見に行ってから帰ってこない」徳島県の山中で高齢男性2人死亡　手足に複数の傷　イノシシに襲われたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed966459180bdbb3c7fb82a7ed57e7e7b56d237f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000080-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1087&ch=1087&exp=10800&fmt=webp> 大谷翔平　2戦ぶり28号！最近4戦3発で年間55発ペース　敵地大熱狂　2番手右腕がダイレクトキャッチ
+      <a href=https://news.yahoo.co.jp/articles/386f79ffcf1fd333e605d52af66cd939b91bf5de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993314-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 逮捕の教師が務める小学校で保護者説明会　SNSで盗撮動画を共有
       </a>
     </td>
   </tr>
@@ -384,6 +376,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/be6f527e0a57071bdaaa8aa0d9d016b7ac8bf3403ee8403581beaa1dacd77b2d.jpg> 最大手の今治造船 JMUを子会社化
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543583>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d802fc433ab2f38cc646ce482b12a8955842f6e565272874f5815f702f28f2fd.jpg> 東京の平均月給はNYの半分 調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543563>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriyamasaya/02263287/title-1750840686811.jpeg?exp=10800> ネット上の性的広告 家庭の対策法
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ad5979bee2b2e0cd3f697357b4405d58b89a9f522531e11a0f825b59bb111536.jpg> 「得点王」の大谷 驚異的なペース
+      <a href=https://news.yahoo.co.jp/pickup/6543593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2ea13886d971b85a437cafea276ab85df3fe4ad1005774481f18869247914339.jpg> 大谷翔平が28号 リーグトップ独走
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 06:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
