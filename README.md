@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22a144963d50e8dbf3d7e94db22d2cfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3d116bf2953f192917248aa53bd06430.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98420e4a3a831adc7815746e852f116bd80213a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90020352-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】徳島の山中で70代男性2人が死亡　遺体に複数ケガの痕　イノシシに襲われたか
+      <a href=https://news.yahoo.co.jp/articles/4e6b65ec0ed4f2ebd53b25517dd03fa2cd7e888c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270023-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 解散発表のTOKIO城島茂がMBSラジオに出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e6b65ec0ed4f2ebd53b25517dd03fa2cd7e888c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270023-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=681&ch=681&exp=10800&fmt=webp> 解散発表のTOKIO城島茂がMBSラジオに出演
+      <a href=https://news.yahoo.co.jp/articles/26744ebdab7fa0ea9ae68b2d64319ed2976d33cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349887-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ダウンタウンDX」32年で浜田雅功がスタッフにキレた回数、吸ったタバコの本数判明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 03:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 04:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
