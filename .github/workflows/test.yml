@@ -24,7 +24,7 @@ jobs:
           docker compose --file ./.devcontainer/docker-compose.yml up portfolio --detach
           docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/portfolio --user root portfolio bash -c "
             set -e
-            pnpm instal --global vercel
+            pnpm install --global vercel
             vercel link --yes --project portfolio-storybook --token=${{ secrets.VERCEL_TOKEN }} --cwd ./
             vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
             vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
