@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - portfolio/src/app/components/**
+      - portfolio/.storybook/**
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
