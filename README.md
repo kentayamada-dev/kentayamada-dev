@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98ffca5dbdb6715cd434159625c9e4bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf5756a21cdb45e4b026edf6ba21c32c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90cd2b6de58d7f1577693c1ff5e4330548af4161>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00098471-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 山本由伸が“省エネ投球”で７勝目 『39／56』にド軍記者は唸り「圧倒的だ」
+      <a href=https://news.yahoo.co.jp/articles/411de941daafd415f28c5b047ad24a783cf0397b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-09779325-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「雨じゃなければもっといけた」山本由伸が5回無失点で7勝目　豪雨で56球降板「初めてとは思えない」新相棒に感謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2360abc2985ebd0299f182e4f71ba2b32e3fd86e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261130-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=50&cw=986&ch=986&exp=10800&fmt=webp> 国分太一の復帰は「見えてこない」と宮根誠司氏「そこを言わないと、何をもって…」「ずっとモヤモヤ」
+      <a href=https://news.yahoo.co.jp/articles/908d5e962f01bacd97ec6a6a51a21f79ea596274>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000049-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> KDDIで通信障害発生も、30分足らずで復旧　「つながらない」との声Xに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8071caa9c65b0312cbe260678d61cfa94e179dfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000085-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 大谷翔平　虫に襲撃？される珍シーン　ド軍専門メディアが紹介「勢いを弱めるためにあらゆる手段を」ファンも呼応「波動の強い人に」４出塁で５０勝到達に貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e76cee97c98b606bd317e7cc29b2ceea4f7c7f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-07245253-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> KDDIが全国で通信障害　午後2時前に復旧　原因を調査中　音声通話・データ通信・SMSなど
+      <a href=https://news.yahoo.co.jp/articles/cae6780b29dc8a991a043629eb530b6c10c01462>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260592-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 山本由伸、標高1600メートルの“打者天国”でも「特に影響なくプレーできた」毎回奪三振で７勝目
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd079f88cb3af5b6197b0ba8ddb3f688b959356c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-16016258-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> イラン核施設、「深刻な損傷」受けた　米軍の空爆についてCIA長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9c396a0ada5f797ecb3fbc714e21206e850b445>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-90167648-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジHD株主総会　新たな取締役の選任…フジ側圧勝　清水社長「堀江氏と協業否定せず」
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d39afc8470904fdbd741841fe02811b4b09c786cd507a60c83c07e4344801f5.jpg> 若手キャリア官僚の離職深刻 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543534>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/bb12724cb4c35f4ad0a57e9190222be7ec828299c980e753580e1fa36a61abef.jpg> ベッドインベッドで乳児事故 注意
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/a4ec0963c4282288a70986d21b6c9ed14f2c6bf381202143318bc377ef87b6e8.jpg> 由伸が7勝目 ラッキーな援護点も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 15:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 16:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
