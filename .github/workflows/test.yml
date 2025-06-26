@@ -24,7 +24,7 @@ jobs:
           docker compose -f ./.devcontainer/docker-compose.yml up portfolio -d
           docker compose -f ./.devcontainer/docker-compose.yml exec -u dev portfolio /bin/zsh -c "
             set -e
-            echo "Current working directory: $(pwd)"
+            pwd
             pnpm dlx vercel link --yes --project portfolio-storybook --token=${{ secrets.VERCEL_TOKEN }} --cwd ./
             pnpm dlx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
             pnpm dlx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
