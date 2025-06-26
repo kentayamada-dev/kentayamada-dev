@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b94837db1506dfcf53ac5820e5e89fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/69958555ed9c6afdc7edb0f9b471b2d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95c90f458c13900d1febb943cc6f1e3e18db2e10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270129-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 「謎の最終回」話題の「ダウンタウンDX」ゲスト出演芸人の意味深投稿に反響「確かに謎」
+      <a href=https://news.yahoo.co.jp/articles/2dcdf8d341538c6f2cedda9f4826fa62bd30708b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-09537651-jrt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> イノシシに襲われたか 徳島市の山中で男性２人死亡【徳島】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21f070f82baffd4bc0aff51f3f9e0aa363870002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271030-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「衝撃が広がっています。小学校の教師らによる女子児童の盗撮事件です」…１０人近い教師による「盗撮共有」事件…「ＴＨＥ　ＴＩＭＥ，」が報じる
+      <a href=https://news.yahoo.co.jp/articles/df6eb5c041b88f2bb28759e181ea120289a6f558>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=856&ch=856&exp=10800&fmt=webp> ジャッジが大谷翔平との“激戦”制す　球宴ファン投票で４００万超の最多得票　２年連続は１７年ぶり快挙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0622dc35b6292189d2f4b354dd5bf95a0aaa6430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271027-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=893&ch=893&exp=10800&fmt=webp> ロバーツ監督「チームに余裕をもたらしてくれた」　リード広げる大谷翔平の２８号ソロを称賛
+      <a href=https://news.yahoo.co.jp/articles/13ee1878d880f48ccc7989bc1d44aa5a32518bfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（26日）Ｓ＆Ｐとナスダック最高値に迫る、ドル下落・利回り低下
       </a>
     </td>
   </tr>
@@ -388,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543597>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/625a445e94527aa3abd521e4b33fa88fbcc1ad7c3fc0dbb4d5b47f67935ea2e4.jpg> イラン 米と協議再開に前向き姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/be6f527e0a57071bdaaa8aa0d9d016b7ac8bf3403ee8403581beaa1dacd77b2d.jpg> 最大手の今治造船 JMUを子会社化
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e292b8759bfafa3714de1ce927c61fe09a2feb404a2765c556e310624efdf3d8.jpg> イノシシの罠を見に 山で2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4afa95a728a8abdf4ce4836bd2265fef5851e6621349964c092a9b8c411b4f4d.jpg> 2人死亡 イノシシに襲われたか
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543598>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2a41c3892cf2058a2d3515d09f6bb3478fbf9ca6929b4c6808ff47d3c630b75d.jpg> 市長に学歴詐称疑惑 百条委設置へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/33ee9a6cdc8d47c5bae5c709cea75b45368f8df16899ceb2ac1c3fe7c83a7e35.jpg> 白亜紀の海はイカだらけ 研究発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 07:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
