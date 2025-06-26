@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb17df18496a41fcb28ef58c2da29fe5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3469ef05b1be7678e5b928e28b322696.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fadca10916938564d758b4920e837069ebacea0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271013-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が２打席目四球で４戦連続出塁、好走塁も…２戦ぶり２８号なるか
+      <a href=https://news.yahoo.co.jp/articles/116c945584ba936c31b7c0e9eed976bb3765cf54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36261153-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1478&ch=1478&exp=10800&fmt=webp> 松岡昌宏が福島県にTOKIO電撃解散を直接謝罪　県側は城島茂＆松岡のCM出演継続に含み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbecf78c8797696db8edf2714ca2784bd68e5cd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245377-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「不安と怒り」「ショックで涙する人も」逮捕の教員が勤務する小学校で緊急保護者説明会 約270人が出席　女児の下着盗撮・SNSで共有した疑い
+      <a href=https://news.yahoo.co.jp/articles/9f68b61a24c9f328b59d2f01dd00515ab1835c7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271014-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が勝ち越しのチャンスも一ゴロ　得意左腕相手に３打席目までは快音なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b71ce7c20be5d3aa2c5d00a42ba3834bf4465f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000018-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1659&ch=1659&exp=10800&fmt=webp> ネタニヤフ首相、イランとの戦争で「和平の機会拡大」
+      <a href=https://news.yahoo.co.jp/articles/2477928841ae1a88eddeb96e47c54e256570aca5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> グループは教員10人近くか　校外学習中撮影データも　女児盗撮事件
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 04:57:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 05:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
