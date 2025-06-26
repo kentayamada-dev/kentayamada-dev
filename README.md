@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f731ceccb6e0ec170d3058b345868b2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fbe81dd8bcc8bbcf032b25cb4aa867b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1fb5295dfc2a33f92e6e5da95cee85623877f88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781099-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平出場試合で生まれた“奇跡の光景”　90分中断がもたらした僥倖、米感動「何て美しい」
+      <a href=https://news.yahoo.co.jp/articles/6661cd924f4fe33c63d548be66434f183cf5e629>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-01781291-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 山本由伸を襲った“悪夢”「奪われた」　米ファン怒り心頭「完封のチャンスを…」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9a8770fa44f0db948552807218a398f974d7e77e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050192-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 長崎原爆の日にロシア駐日大使が参加へ、ウクライナ侵略後初…「広島」には不参加見込み
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050192-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 長崎原爆の日にロシア駐日大使が参加へ、ウクライナ侵略後初…「広島」には不参加見込み
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/fb5dc8cc826590ce38e9104e229bb0523726d15e291411c06571c9e32b31571d.jpg> フジHD株主総会 北尾氏賛成27%
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543577>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6a50ccba884624a4a32596a4024bc9c6c66eda3d362e9894d26de645792555e1.jpg> 天皇ご一家の愛犬「由莉」死ぬ
       </a>
@@ -435,15 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543582>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> TOEIC不正受験 中国系業者乱立か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/f9a350c0513be30fddb7396cdb5c1c207470c91b7ec991cd9d5770e648a73b90.jpg> 大雨で養殖ニジマス約2t死ぬ 悲痛
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/93a0f42410c6869a32ade9735f0e63a9912ff814f8102d09dd10342835990b03.jpg> TOEIC不正受験 中国系業者乱立か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 22:01:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 22:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
