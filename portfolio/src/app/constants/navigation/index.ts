@@ -5,7 +5,7 @@ import type { NavigationType } from './types';
 
 const X_REAL_IP_HEADER = 'x-real-ip';
 const STORYBOOK_URL = 'https://storybook.kentayamada.dev';
-const GITHUB_URL = 'https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio';
+const GITHUB_URL = 'https://github.com/kentayamada-dev/kentayamada-dev';
 
 /* eslint-disable sort-keys*/
 const navigationItems = (locale: LocaleKeyType): NavigationType => {
