@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4907c403130a06ed1b6ebe084356907.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2ae021164b969b854d690ae2c96433e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1b35cb77885d15c4e2bef843d0460982a99b14f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-05745841-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 子ども2人が溺れる　救助されるも1人心肺停止　福岡市の海岸
+      <a href=https://news.yahoo.co.jp/articles/9868eb0b9865af84f09cdc5d55cdaad9fc082ed5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-09191636-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「自分の良さを引き出してくれた」山本由伸が初コンビの24歳・若手捕手を称賛　5回で6奪三振7勝目アシスト
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/5cbba6c9f1dd362e31f2e70eda94393d42cfecd51a75c02bfae5321874441f27.jpg> 改造の高級車を不正車検疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/eda505a80bcf022ae28ad3bb77c1a0dcff9f04e260f3c38bc76521b63ff246d2.jpg> 賭博疑い 巨人2選手を不起訴処分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/eda505a80bcf022ae28ad3bb77c1a0dcff9f04e260f3c38bc76521b63ff246d2.jpg> 賭博疑い 巨人2選手を不起訴処分
+      <a href=https://news.yahoo.co.jp/pickup/6543564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/31d975460dd2b52708036357525614cee7a0522d58f44bffb9eb15ca5e53656b.jpg> 食べログの業績が過去最高 背景
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/41180d86ab98ba163f19caa3c50979199627d1ea733786817f8555c0a619b073.jpg> ロックのライブ中 客ら救命に尽力
+      <a href=https://news.yahoo.co.jp/pickup/6543562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/0b89b9011c77ce8d08dd0f07040fc35bd151a3ffa0b37bb6ce9baf4e1666be44.jpg> 山本由伸が7勝目 ド軍監督が激賞
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 18:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 19:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
