@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9a047f3ac53c90466e56ef0c68700bec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/178574f8da1c8f2e8c4a887a83f27ec7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7090017495f536a9a536ba9bbc21a4c6b70bbad4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261273-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 「ダウンタウンＤＸ」意外な最終回にネットは複雑「ダウンタウンがいないのは…」
+      <a href=https://news.yahoo.co.jp/articles/26744ebdab7fa0ea9ae68b2d64319ed2976d33cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349887-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「ダウンタウンDX」32年で浜田雅功がスタッフにキレた回数、吸ったタバコの本数判明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/845e90a136b989034c377441b34bf20663bfa233>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00050236-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=427&ch=427&exp=10800&fmt=webp> イランは「核開発断念」に応じない方針、米との協議再開は「支持する」…報道官が明言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7aa5da0083763be2157ec42973a8597e25efae2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261275-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=952&ch=952&exp=10800&fmt=webp> 元ＴＯＫＩＯ城島茂、レギュラー番組冒頭は解散に言及せず…出演者から愛称「リーダー」で呼ばれる
       </a>
     </td>
   </tr>
@@ -367,30 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/298ce9f542783656b0f9da0e7934437150eca40f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-06261209-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 大谷翔平、前半８１戦終了で自己最高の昨季に並ぶ５４発ペース　メンタルコーチ驚き「何一つ変えず全うしている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56315a45164d3d82f33db5fe98e6323172af86c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000368-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 城島茂　「TOKIO」解散後、初のレギュラーラジオ出演　通常通り元気にあいさつ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc9f87d1d46d2a9b497f75c101af030eb0f302dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-40967050-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=203&ch=203&exp=10800&fmt=webp> イランのハメネイ師、米国「何も得られなかった」－停戦後初の声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12b341dba5b016e6257b95171a69c0267355cfaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジHD社長の選任賛成率82％
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/4b127efd06ca83b12ba9a766504230fc521b746b00eae07c6e4e11780aeff0e9.jpg> ハメネイ師が声明 米何も得られず
+      <a href=https://news.yahoo.co.jp/pickup/6543588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/94f2d2ca8625080799859cc2d13f7a87357c0c8692c7e65a44db09f7f1fe69bf.jpg> 盗撮共有事件 説明会で涙流す人も
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/94f2d2ca8625080799859cc2d13f7a87357c0c8692c7e65a44db09f7f1fe69bf.jpg> 盗撮共有事件 説明会で涙流す人も
+      <a href=https://news.yahoo.co.jp/pickup/6543592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/798998d3fa0245d334e61d735c2fb94024ff6757c3a921e0256e7f87480dce78.jpg> タイ人気リゾート地 複数爆発物か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6ac60298f7702e614b374ad930a8d2289259049d82476fd2da690a8c81715315.jpg> パイオニア 台湾メーカーの傘下に
+      <a href=https://news.yahoo.co.jp/pickup/6543589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d802fc433ab2f38cc646ce482b12a8955842f6e565272874f5815f702f28f2fd.jpg> 東京の平均月給はNYの半分 調査
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 23:51:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 00:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
