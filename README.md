@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b4614c5e9c05d465fc221aff16f8622.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06279052f536adac1ce2220eec490325.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5d302631a863c4450d0bb655e457c947c64f49b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-10566649-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 山本由伸、メジャー初完封ペースも降雨中断により56球で降板…それでも5回1安打無失点で7勝目の権利
+      <a href=https://news.yahoo.co.jp/articles/e5c3309840b5a0933a55b009883dc4b969885813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-36260394-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> テレ朝女性アナ、性暴力に持論「表に出ていない被害は本当に多い」「見て見ぬふりをしない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14e5803bc905edc26dde894f2a5c69568d3e7f9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000155-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> TOKIO電撃解散…7年前の会見で涙する松岡の“言葉”がネット話題に「最後まで尽力したのに…」
+      <a href=https://news.yahoo.co.jp/articles/bd081ed836904fdf5daa5f55b6b460550bca709b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000395-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=615&ch=615&exp=10800&fmt=webp> 福島県、TOKIO解散などに言及　城島茂＆松岡昌宏に“引き続き”呼びかけも「力を貸していただきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bc4b0db62b109bc599114ae1ecf4f1e8423574f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-04595840-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 矢島舞美、第2子妊娠発表【全文】
+      <a href=https://news.yahoo.co.jp/articles/c4c9d4119b1ef5fc9f560ec38b790c14560fbe1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250626-00000034-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 大谷翔平の第4打席は申告敬遠…敵地大ブーイングで球場騒然　山本由伸は完封ペースも無念の降板　5回無失点快投
       </a>
     </td>
   </tr>
@@ -451,15 +451,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/6e50eb5625e5dc14d346e0446d5ac1a936c1da0689b98aa90092cb55d8c5c7bf.jpg> 大谷が生還 豪雨で野手が球見失う
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b7e6537a855dbf00bd98cfaef1a39973a6f45ab178a24a31c281734d26f1a236.jpg> 大谷が生還 豪雨で野手が球見失う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/bee49715477f915b85e8184b6d68cb5fec20323a337a36f183b635bd3a550fef.jpg> 元℃-uteの矢島舞美 第2子を妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6543523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/2d9f9729664f0142b71fc46b24153210fcf900c581e3d113656cb39e95c8636c.jpg> 山里 妻への誕プレはみな実に相談
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/26 12:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/26 13:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
