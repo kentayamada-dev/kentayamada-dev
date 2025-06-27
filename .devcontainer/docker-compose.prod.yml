@@ -2,7 +2,7 @@ services:
   portfolio:
     build:
       context: ../
-      dockerfile: ./portfolio-container/Dockerfile
+      dockerfile: ./.devcontainer/portfolio-container/Dockerfile
       target: prod
       args:
         NODE_VERSION: ${NODE_VERSION}
