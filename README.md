@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/805205bcf8e7d05b93bee40d48d76597.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c13d927b9cfc0e270d410dd1d7922677.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e2e57b968fa022fe101e6abf40e6f040ed71de6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06684457-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】元TOKIO・松岡昌宏「たぶんそれしかリアクションできなかったと思います」　国分太一との会話を明かす
+      <a href=https://news.yahoo.co.jp/articles/74929a15c63010f8ad8355c61a47f557c7ee1dc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000183-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 松岡昌宏　国分太一は「奈落の底にいる状態」一問一答「城島と、自分が、これ以上ＴＯＫＩＯを名乗るわけにはいかない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427e73becf38c30d26ab8a55da32e12593781f15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000009-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=584&cw=1280&ch=1280&exp=10800&fmt=webp> 6月の梅雨明けは70年ぶり、今年は入りも早かった…なぜ？ 異例のシーズンとなった九州南部、天気図には「クジラの尾」
+      <a href=https://news.yahoo.co.jp/articles/1099176905aec48a9432c6bcfc66a1d4f3c2c151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-04951121-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 生活保護費の引き下げは「違法」減額処分を取り消し、国の賠償責任は認めず　最高裁
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9a39ffa578ef6c6b5e71df73c4648cba7dd8783e2aa17b980d73caeb438c3164.jpg> トラブル多い自転車ベル いつ使う
+      <a href=https://news.yahoo.co.jp/pickup/6543683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/42d5ebb8eca6c4d5fa38a2dffa4244f82ca897db375fab19de47b62fc7883971.jpg> 国産哨戒機P1 可動状況「低調」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/c2e62b48d946d320f9e12916483838eb3c32a3daaf0fe9e266061fdbb19f5da2.jpg> 生活保護減額は違法 補償どうなる
+      <a href=https://news.yahoo.co.jp/pickup/6543695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3e4ce55aa0eaeebb49ddab977a6c1a57b5ce1b5be30afd39e1ec64a328e65c5a.jpg> 八田容疑者にはねられ 男性の決意
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543682>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> サントリーHD フジCM出稿再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6543693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/50854ee06b831728615045fedc5cf9d59de99eead47f1e993a1d2233d8d38c70.jpg> 井ノ原氏CMO退任 タレント専念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ed0ef3d5cbf66e9ccfea54b7e8df4fe3e6e442eddef19187c28743b3ff62ff90.jpg> 西武・今井まさかの降板 熱中症か
+      <a href=https://news.yahoo.co.jp/pickup/6543691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2f2151188269508d3eae6af886c1a478708c86ce93f27df4a7898e7be3d6bd73.jpg> 琵琶湖の名物魚 実は新種だった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 22:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 22:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
