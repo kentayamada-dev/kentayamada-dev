@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8fa295bd0f0f09748a8dabac40354f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c3ec9854eaa8bfe86480de0d1bb2328.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d2e06cfd42b1fbf707d85f4191bcb75f241b13d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270448-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> パンダと最後の対面　朝早くから大勢　“前倒し”開演／白浜
+      <a href=https://news.yahoo.co.jp/articles/af75d97983e15b147f09ff42b73f38212adeaedc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　球宴選出御礼弾！記録ずくめの最多得票　DH部門で5年連続ファン投票選出は史上初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
+      <a href=https://news.yahoo.co.jp/articles/67ee7b2f53c32a8966d14ba6c873370ff5504b9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272269-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 【阪神】高寺望夢「申し訳ない」村上頌樹「悔しい」藤川監督は「新たに…」リーグの貯金独占
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c6d1a8c927d34cb0b881f0377285bba3f8f9e38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-05173972-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか…山中に男性2人の遺体　徳島市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3850b1e9f2b0303c658726077bb5198e246ca333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
+      <a href=https://news.yahoo.co.jp/articles/477eadf58dac18776c992ae256943d0bd30c1eae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “株式会社TOKIOは廃業”  “まだ人生は続く。どうか見守って頂きたい”
       </a>
     </td>
   </tr>
@@ -394,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/85d7fc5ded7a2d7a3aca0f61b23e95b17e0ee196f2933a3f4878e55b7e7311a2.jpg> 松本サリン事件31年 犠牲者を悼む
+      <a href=https://news.yahoo.co.jp/pickup/6543692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cd21912a355a28dd7f9505a7fec98b1a213c69c70ea2238aaa8511c1764f8a34.jpg> 生活保護費の減額分 追加支給検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/927793af6d962b30ad780c441cd47b64e97a96093dd755e42cad9d134a3f9e95.jpg> EU ウクライナ支援で一致できず
+      <a href=https://news.yahoo.co.jp/pickup/6543673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/264c31d5bc07d4b0e6771808df37dd420c119a9a8b5050b1731b8c5b12977e0e.jpg> ひかり号「弱冷房車」試験導入へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bc18800fb94190b282654b97e76da33ab023a9a0c49eac3ef223ca78f0bcf66e.jpg> 死刑執行 座間9人殺害事件とは
+      <a href=https://news.yahoo.co.jp/pickup/6543701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/fb289238abfc96d6dc786eb6bf76bef7f4b8bcb1fbe1ef9b5a9055471f8e0b78.jpg> 女児盗撮 学校だよりの担当悪用か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1bae37c93b86ae89227e55f0a5728d28c8d84692bcf80638db687b8a19d1b854.jpg> 西日本各地で梅雨明け 異例の早さ
+      <a href=https://news.yahoo.co.jp/pickup/6543695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3e4ce55aa0eaeebb49ddab977a6c1a57b5ce1b5be30afd39e1ec64a328e65c5a.jpg> 八田容疑者にはねられ 男性の決意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/16e0d2b0672960abf0f83dc01255e3349da3034591d7018875aceb84367b584a.jpg> 県議会に議員10人遅刻 議長が注意
+      <a href=https://news.yahoo.co.jp/pickup/6543688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e660e6a1ac8afc34a7d7b98e58adbd53731fabe5d558b726dce3e540b89fb849.jpg> ラオスで邦人が買春か 訴えた女性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/7112330376a1db83584074559583ffcfcf996e9cbca12efa59ec74d297c32d9e.jpg> 異例 中日・福がヘアドネーション
+      <a href=https://news.yahoo.co.jp/pickup/6543693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/50854ee06b831728615045fedc5cf9d59de99eead47f1e993a1d2233d8d38c70.jpg> 井ノ原氏CMO退任 タレント専念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/676cfe0f165f56f3bfb681c213a331c5db750bb330ac5f814882022423f8bdec.jpg> エムバペ氏 モラハラでPSGを提訴
+      <a href=https://news.yahoo.co.jp/pickup/6543699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e0bd31742915ee6c60a4c0d5cc5465907a9afd522abea04aa9bbc9033411dec.jpg> 阪神まさか 痛恨エラーで試合終了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ace26ec96fd952bb7ec1eb46b68da5bb739b9ff6bf2a1212e8c0eaef247e147d.jpg> 北斗の拳18年ぶりアニメ 来年放送
+      <a href=https://news.yahoo.co.jp/pickup/6543698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/a2bcc288bbc033497625199446aa986d05ecc688f872a755adc430af42739f55.jpg> 松岡昌宏 国分太一は「奈落の底」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 13:14:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 03:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
