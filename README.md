@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a3d175f4b77108c5653c40d4f7d7824.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/985d788e25cc015a806eb22b290fa171.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a60c3fbe47397af02de4d2f078bc6f9d7f2edbc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36271738-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1192&ch=1192&exp=10800&fmt=webp> 松岡昌宏が沈黙の国分太一を「奈落の底」とおもんぱかる　TOKIO内いじめ「全くない」報道否定
+      <a href=https://news.yahoo.co.jp/articles/eb48eee5379d890eb1d486304fdbd4c585c4b981>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06271365-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 「さすがに限界」松岡昌宏、騒動後初の取材対応で２０分心境語る　国分コンプラ違反は「誰も知らなかった」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 05:43:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 06:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
