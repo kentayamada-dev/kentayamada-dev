@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29ce19be55cd29ba580cb5f7013138e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9084096b9610ad67736c12424efc53c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21aa3273b28633e0b1ff03287d95b26d86e4966d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=202&cw=996&ch=996&exp=10800&fmt=webp> 「隠しカメラあるのでは」教員の盗撮事件　保護者から不安の声相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/1a2f3b315e433cd6fe5a8d3319a394d10b9d1944>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36280053-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1451&ch=1451&exp=10800&fmt=webp> 田中理恵さん「悔しさがすごく伝わりました」松岡昌宏の謝罪は「応援したいなという気持ちに…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb48eee5379d890eb1d486304fdbd4c585c4b981>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06271365-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 「さすがに限界」松岡昌宏、騒動後初の取材対応で２０分心境語る　国分コンプラ違反は「誰も知らなかった」
+      <a href=https://news.yahoo.co.jp/articles/21aa3273b28633e0b1ff03287d95b26d86e4966d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=202&cw=996&ch=996&exp=10800&fmt=webp> 「隠しカメラあるのでは」教員の盗撮事件　保護者から不安の声相次ぐ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 06:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 07:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
