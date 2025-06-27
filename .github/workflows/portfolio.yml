@@ -17,6 +17,7 @@ jobs:
     env:
       VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
       VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PORTFOLIO_PROJECT_ID }}
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
     timeout-minutes: 10
     runs-on: ubuntu-24.04-arm
 
@@ -27,7 +28,7 @@ jobs:
       - name: Deploy to vercel
         run: |
           docker compose --file ./.devcontainer/docker-compose.prod.yml up portfolio --detach
-          VERCEL_TOKEN=${{ secrets.VERCEL_TOKEN }} docker compose --file ./.devcontainer/docker-compose.prod.yml exec --user root portfolio bash
+          docker compose --file ./.devcontainer/docker-compose.prod.yml exec --user root portfolio bash
 
       - name: Delete previous workflow
         run: |
