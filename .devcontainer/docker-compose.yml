@@ -22,8 +22,6 @@ services:
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
-      NODE_VERSION: ${NODE_VERSION}
-      PNPM_VERSION: ${PNPM_VERSION}
       NEXT_TELEMETRY_DISABLED: ${NEXT_TELEMETRY_DISABLED}
       TZ: ${TZ}
 
@@ -65,8 +63,6 @@ services:
         source: node_modules_email
         target: /home/dev/workspaces/email/node_modules
     environment:
-      NODE_VERSION: ${NODE_VERSION}
-      PNPM_VERSION: ${PNPM_VERSION}
       TZ: ${TZ}
 
   redis:
