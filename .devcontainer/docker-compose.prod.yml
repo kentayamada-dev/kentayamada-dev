@@ -11,6 +11,7 @@ services:
         UID: ${UID}
         SYSTEM: ${SYSTEM}
         MKCERT_VERSION: ${MKCERT_VERSION}
+    command: sleep infinity
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
