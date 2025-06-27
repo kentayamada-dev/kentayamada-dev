@@ -13,12 +13,9 @@ services:
     command: sleep infinity
     hostname: portfolio
     volumes:
-      - type: bind
-        source: ../
-        target: /home/dev/workspaces
       - type: volume
-        source: node_modules_nextjs
-        target: /home/dev/workspaces/portfolio/node_modules
+        source: ../portfolio
+        target: /portfolio
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
@@ -89,5 +86,4 @@ services:
 
 volumes:
   python_venv:
-  node_modules_nextjs:
   node_modules_email:
