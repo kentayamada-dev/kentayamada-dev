@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9951bab9a68d6d1cdff3952b032b45a4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2af02d5a32824db471aa60476f45a3fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f001709dea823318cb55c53d836fb384c2b66aab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000033-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 《急にキレられたことも》松岡昌宏　国分太一から“陰湿イジり”報道…騒動前からしていた「距離のある呼び方」
+      <a href=https://news.yahoo.co.jp/articles/fbf5c2b658ff821d645b2b769434c8126a329de4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349943-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　球宴出場でファンに感謝も…韓国メディア「大谷は２位」「スターの中のスターはジャッジ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5d5552512db7afed5bc2e6ce3e2c29e57a2baa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781792-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 最多の大谷翔平だけじゃない…吹き荒れる“ド軍旋風”　示したスター軍団の力
+      <a href=https://news.yahoo.co.jp/articles/cb157c59d18118dd761655d54fe9ae66c2bc098b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000221-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 日テレHD株主総会　国分太一巡る質問相次ぐ「何をしたんだ？」　回答は「刑事事件になる事案ではない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9443df10abbed746f4a48ddaa42ec4e4e612ea87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-03967165-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 座間市9人殺害　白石隆浩死刑囚に死刑執行　鈴木法相「慎重な上にも慎重な検討を加えた」
+      <a href=https://news.yahoo.co.jp/articles/eaa4a965adc6bf4fda080b0ff325b4ca113e0af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185614-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 外国産鶏肉を「宮崎県産」と偽り販売か 男2人を逮捕
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15d173a3b4f0fe248fb932b73739208ce51d2d14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「イノシシのわなを見に行って帰らず」　徳島の山中で男性2人死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000050-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「イノシシのわなを見に行って帰らず」　徳島の山中で男性2人死亡
       </a>
     </td>
   </tr>
@@ -395,31 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e702d47f14ff2bdfdebfda54ee6d333580e2fa55f1e3d5cbf2c744101dcdb1a.jpg> 生活保護費の減額は違法 最高裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/48a3129a8cadb4449f0bf2ab8cd1093cb5b5882df180b7c1d1a434e771c17fc0.jpg> 北海道で猛烈な雨 1時間に120mm
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/411d8ceee5186f1f12068819f39f07a7a71a84e68601f85e6f47b6fb0549aae8.jpg> 与野党 SNS偽情報に注意呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e07186b1f991ed01b0e8768e54efa52add91eab847425c0a5e342ed33a81032c.jpg> 女児盗撮 文科相「怒り覚える」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/aa76d88be603d3b2b51a74b66a8427487ed94e02c1134c9958852c6e8980bb28.jpg> 生活保護費の減額は違法 最高裁
       </a>
     </td>
   </tr>
@@ -434,8 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/70640ac61901045568dc7451c1c7ccc8bf11cfdbe1cb4d33369b81e21399dab1.jpg> 勤務中窃盗疑い 警官2人懲戒免職
+      <a href=https://news.yahoo.co.jp/pickup/6543648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e07186b1f991ed01b0e8768e54efa52add91eab847425c0a5e342ed33a81032c.jpg> 女児盗撮 文科相「怒り覚える」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/5879c6aa0e50c7e5ffae890243bc75ba0a26950ca10b3f5c1a5e6175283f374a.jpg> 森永製菓元社長 松崎昭雄さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b11ba0448dbd5e1197e2f0d9aa8ca195844ff6accbb943cd045d18a114444575.jpg> 給食用鶏肉の産地偽装疑い 逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6028d966a82be2cd741c42ab595e138a7d53a9e59488c474d17bbee2fe09f8ab.jpg> 井ノ原快彦氏がCMO退任 STARTO
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/fd6a71703860cb1e31ed469cc797633489b80e9cc849ee5c98d958c57bf81842.jpg> 小野祐夢ホールインワン 1000万円
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/860dca07d9b83902db0e63b94cf88f815e46744de0e014ce7f67fd0acc18a812.jpg> 小野祐夢ホールインワン 1000万円
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 16:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 16:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
