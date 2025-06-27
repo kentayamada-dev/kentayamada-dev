@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d138b912ed6055fbefde945f0a2b6cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c3ec9854eaa8bfe86480de0d1bb2328.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af75d97983e15b147f09ff42b73f38212adeaedc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　球宴選出御礼弾！記録ずくめの最多得票　DH部門で5年連続ファン投票選出は史上初
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　球宴選出御礼弾！記録ずくめの最多得票　DH部門で5年連続ファン投票選出は史上初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78afb0f2a1737b238448e8e866069236eb746973>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07245591-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って」女児の下着を盗撮・SNSで共有の疑い　名古屋市の小学校教員・ 森山勇二容疑者（42）は「学校だより」担当で日常的に子どもにカメラ向ける機会が
+      <a href=https://news.yahoo.co.jp/articles/67ee7b2f53c32a8966d14ba6c873370ff5504b9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272269-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 【阪神】高寺望夢「申し訳ない」村上頌樹「悔しい」藤川監督は「新たに…」リーグの貯金独占
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 02:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 03:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
