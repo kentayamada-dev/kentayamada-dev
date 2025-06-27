@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7f06e361bc272ebbbf2e273c30c11ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa2991b0882aed2966cd2d5c20fa57a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b1754c36e2bb654b6030b6c7dc020d7de990029>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270195-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> ドジャース大谷翔平球宴ファン投票でリーグ最多　ロバーツ監督「ファンにとっても楽しみなこと」
+      <a href=https://news.yahoo.co.jp/articles/caded0add02b46e4900ff0145fd2e6a5617f18d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270237-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ジャッジが両リーグ最多得票でスタメン出場決定　大谷翔平を上回る400万超え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4772153c64886898eb4be69edf59ceb022282122>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185555-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 俳優ブラッド・ピットさんの自宅に空き巣
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13ee1878d880f48ccc7989bc1d44aa5a32518bfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（26日）Ｓ＆Ｐとナスダック最高値に迫る、ドル下落・利回り低下
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/08b94ae6871ef28d30ae7647bac1972060ccce8afea98cf90191631b6dcbc16c.jpg> 公明 参院選公約に「2万円給付」
+      <a href=https://news.yahoo.co.jp/pickup/6543613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e9d7b76dd6cea934e9c62f900490f95248cbcc0ccb79c0427292f0e3bf0eee7d.jpg> 日経平均一時4万円台 約5カ月ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0ea479e4d9e41f843e57bac03b6058a4a6f7c6d8453cf587d86b9ccbb10fea84.jpg> NYダウ終値 4カ月ぶり高値
+      <a href=https://news.yahoo.co.jp/pickup/6543610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/08b94ae6871ef28d30ae7647bac1972060ccce8afea98cf90191631b6dcbc16c.jpg> 公明 参院選公約に「2万円給付」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/523ce8cdf2b68e30575dd8fa7e904c490d32fbcaf06c8a7772aed50297460ece.jpg> 大谷翔平 5年連続で球宴出場決定
+      <a href=https://news.yahoo.co.jp/pickup/6543607>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 09:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 09:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
