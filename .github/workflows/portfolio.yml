@@ -14,9 +14,6 @@ concurrency:
 
 jobs:
   Deployment:
-    env:
-      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PORTFOLIO_PROJECT_ID }}
     timeout-minutes: 10
     runs-on: ubuntu-24.04-arm
 
