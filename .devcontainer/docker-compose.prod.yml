@@ -14,7 +14,7 @@ services:
     hostname: portfolio
     volumes:
       - type: volume
-        source: ../portfolio
+        source: ./portfolio
         target: /portfolio
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
