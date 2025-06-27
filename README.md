@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9084096b9610ad67736c12424efc53c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3c93d988eab881c4ff19d51a72ea01a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -371,6 +371,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34dee9e62171135ea66110fdb91325359205c73f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00175513-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=440&ch=440&exp=10800&fmt=webp> なでしこJはなぜ”繋げない”のか。田中美南の美技弾も、スペイン戦の逆転負けが示す課題【コラム】
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cd21912a355a28dd7f9505a7fec98b1a213c69c70ea2238aaa8511c1764f8a34.jpg> 生活保護費の減額分 追加支給検討
+      <a href=https://news.yahoo.co.jp/pickup/6543706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/478ad7ca0e479abcba34d074191627583388a826f14e864c04ad23e150a4b771.jpg> 関東から西 35℃以上続出の予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/264c31d5bc07d4b0e6771808df37dd420c119a9a8b5050b1731b8c5b12977e0e.jpg> ひかり号「弱冷房車」試験導入へ
+      <a href=https://news.yahoo.co.jp/pickup/6543692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cd21912a355a28dd7f9505a7fec98b1a213c69c70ea2238aaa8511c1764f8a34.jpg> 生活保護費の減額分 追加支給検討
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/50854ee06b831728615045fedc5cf9d59de99eead47f1e993a1d2233d8d38c70.jpg> 井ノ原氏CMO退任 タレント専念
+      <a href=https://news.yahoo.co.jp/pickup/6543704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c98431d0b9d1d185a32bb91129092210d7d55ad950022b4f4f7e9adc3696843f.jpg> なでしこ 強豪スペインに逆転負け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e0bd31742915ee6c60a4c0d5cc5465907a9afd522abea04aa9bbc9033411dec.jpg> 阪神まさか 痛恨エラーで試合終了
+      <a href=https://news.yahoo.co.jp/pickup/6543702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8ea006418282122b98f79fde48c1b24cedca98a20a9acebb4b69a07826032ad8.jpg> 池江璃花子 ロス五輪での引退決意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/a2bcc288bbc033497625199446aa986d05ecc688f872a755adc430af42739f55.jpg> 松岡昌宏 国分太一は「奈落の底」
+      <a href=https://news.yahoo.co.jp/pickup/6543703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/e8b59a850c96b4aa32f989dbf71c4e8a7ec69784672a30ae7999aab8d6d5f4a5.jpg> 松岡昌宏 国分との今後の関係語る
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 07:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 07:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
