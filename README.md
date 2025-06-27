@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dabe924152eb4e5f8edc86283827141d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/792ffb870a2b8097f3b060a83d42c697.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d0c49f143319e1015eeced0fc1249559f1cf7cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-03468855-jrt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 徳島市の山中から２人の遺体　イノシシに襲われたか【徳島】
+      <a href=https://news.yahoo.co.jp/articles/b12deba79f0e1db2c4a589cdd4b302993c002d91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00066756-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 生活保護基準の引き下げは「違法」最高裁が初の統一判断　減額決定の取り消し命じる判決　今後の国の対応が焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66a20b5098c764ca7a57d1af9557f1ae644765bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90030771-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> “盗撮SNS共有”事件　市教委が会見「児童全員の面談実施」　隠しカメラは第３者による捜索を実施
+      <a href=https://news.yahoo.co.jp/articles/0ba898868ef5d444e9d020130981455960c51e38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00066752-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> ズボンは破れ手足に複数の傷…山中で男性２人が死亡　イノシシに襲われたか　現場周辺では警戒が続く　徳島市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbf5c2b658ff821d645b2b769434c8126a329de4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349943-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　球宴出場でファンに感謝も…韓国メディア「大谷は２位」「スターの中のスターはジャッジ」
+      <a href=https://news.yahoo.co.jp/articles/ee0e88f0bea1ce7762141007043a68892cf7ff86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000045-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『鉄腕DASH』TOKIO解散でも、日テレは起用継続の“執着”に不満続出…局が手放せない正月特番にも暗雲が
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb157c59d18118dd761655d54fe9ae66c2bc098b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000221-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 日テレHD株主総会　国分太一巡る質問相次ぐ「何をしたんだ？」　回答は「刑事事件になる事案ではない」
+      <a href=https://news.yahoo.co.jp/articles/5b77a6ce5190c3ce04505e30b5c51b7ec35db360>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993611-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手のオールスタースタメン出場が決定…ファン投票でナ・リーグ最多得票を獲得　ドジャース勢が大挙出場か!?
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/aa76d88be603d3b2b51a74b66a8427487ed94e02c1134c9958852c6e8980bb28.jpg> 生活保護費の減額は違法 最高裁
+      <a href=https://news.yahoo.co.jp/pickup/6543663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/639843d96532b15006f162601f64e77b97ea93a12dbc4bc2760022a8c89abc54.jpg> 生活保護費判決 厚労相判断に過誤
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/5879c6aa0e50c7e5ffae890243bc75ba0a26950ca10b3f5c1a5e6175283f374a.jpg> 森永製菓元社長 松崎昭雄さん死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b11ba0448dbd5e1197e2f0d9aa8ca195844ff6accbb943cd045d18a114444575.jpg> 給食用鶏肉の産地偽装疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/c5cf1e56decf9cd1a4ac04c900498ed1b93f01a19550c2b93a82e89b7fca4eaf.jpg> 水路の水門に赤ちゃんの遺体 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6543662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/d526917412474906d999cba69ed3645d3b678480abf876b468c3f17bb861961e.jpg> 教師が盗撮共有疑い 市教委が謝罪
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543655>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02266092/title-1751005785557.jpeg?exp=10800> フジCMいつ戻る 各社「様子見」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543651>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6028d966a82be2cd741c42ab595e138a7d53a9e59488c474d17bbee2fe09f8ab.jpg> 井ノ原快彦氏がCMO退任 STARTO
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b4ce72a0a128ad2fd33b768ad175eed70f26fde90576d5cdf53b5283ba7325b5.jpg> 北口榛花 けがで日本選手権見送り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 17:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 18:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
