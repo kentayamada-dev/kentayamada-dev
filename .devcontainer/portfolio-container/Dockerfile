@@ -36,6 +36,6 @@ USER $USER_NAME
 FROM debian:bookworm-slim AS prod
 
 RUN apt update && apt --yes install --no-install-recommends ca-certificates curl \
-  && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/bash bash - \
-  && source /root/.bashrc \
+  && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/sh sh - \
+  && source /root/.shrc \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir /root/.pnpm-store

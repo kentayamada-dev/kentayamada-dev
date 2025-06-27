@@ -27,7 +27,7 @@ jobs:
       - name: Deploy to vercel
         run: |
           docker compose --file ./.devcontainer/docker-compose.prod.yml up portfolio --detach
-          docker compose --file ./.devcontainer/docker-compose.prod.yml exec --user root portfolio bash -c "
+          docker compose --file ./.devcontainer/docker-compose.prod.yml exec --user root portfolio sh -c "
             set -eu
 
             pnpm dlx vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }} --cwd ./
