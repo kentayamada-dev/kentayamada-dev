@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d30583de55375c76fbb6d18b796f1797.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42100612f19cb8c220d01b4606e4bbec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e84a4d0a49d0c9cd497475959309122dc2f6673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-35234834-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イランとの核開発協議再開に向け、米国が展開する秘密外交の詳細　CNN EXCLUSIVE
+      <a href=https://news.yahoo.co.jp/articles/e5476eca5d7512bbf56952b12550408cb3b8de58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000030-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【二度の“メンバー不祥事”】TOKIO解散発表で城島・松岡に寄せられる同情…グループ愛した「二人が不憫」の声殺到
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edcd1983a1fbacc1f39021558ff5430cfdcf20a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00733806-footballc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なでしこジャパンの最新メンバーが発表！ スペイン女子代表戦およびE-1サッカー選手権に臨むのは？
+      <a href=https://news.yahoo.co.jp/articles/39cd871761c33f97ad33e9cedf01b6cbf58ff74e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000084-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1332&ch=1332&exp=10800&fmt=webp> 大谷翔平のレッドカーペット観覧まだ間に合う！ＪＴＢが現地発着オールスター観戦ツアー発売中　２人１室利用の場合で１人１１０万円　日本発着は売り切れも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e84a4d0a49d0c9cd497475959309122dc2f6673>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-35234834-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イランとの核開発協議再開に向け、米国が展開する秘密外交の詳細　CNN EXCLUSIVE
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7761f020c98dcff070e51e1e74bc03800f6389bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000028-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 松岡昌宏、語っていた「一番だらしないTOKIOメンバー」で進む“答え合わせ”　グループ内の「陰湿イジり」報道で見えたメンバー同士の“本当の関係”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
+      <a href=https://news.yahoo.co.jp/articles/df0f028dbf59b89d6a11b8e8bff650e504ca713d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000065-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 署地域課警察官2人書類送検　勤務中に現金窃盗容疑　警視庁
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3ecc17465be25f18fc0440898d6dda8dde3d55c7a89968f173e0d88276166a35.jpg> 米国版「VOGUE」編集長が退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6543642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/70640ac61901045568dc7451c1c7ccc8bf11cfdbe1cb4d33369b81e21399dab1.jpg> 勤務中窃盗疑い 警官2人懲戒免職
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e4e010c4b64c5b809f25fa289389ec75ed002c237a7d9a3392e2eaca58dda4a2.jpg> プール授業しびれ 原因は圧迫痕か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cb51c5e5f86c2f3d4adf3a713acec6712787f1b30488879867d35db8c325c2f6.jpg> プール授業しびれ 原因は圧迫痕か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 14:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 15:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
