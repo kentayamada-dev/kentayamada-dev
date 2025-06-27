@@ -12,10 +12,6 @@ services:
         MKCERT_VERSION: ${MKCERT_VERSION}
     command: sleep infinity
     hostname: portfolio
-    volumes:
-      - type: bind
-        source: ../portfolio
-        target: /portfolio
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
