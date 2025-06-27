@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7059e1b5e72223a60ed6f55a67cef80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dabe924152eb4e5f8edc86283827141d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d0c49f143319e1015eeced0fc1249559f1cf7cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-03468855-jrt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 徳島市の山中から２人の遺体　イノシシに襲われたか【徳島】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66a20b5098c764ca7a57d1af9557f1ae644765bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90030771-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> “盗撮SNS共有”事件　市教委が会見「児童全員の面談実施」　隠しカメラは第３者による捜索を実施
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbf5c2b658ff821d645b2b769434c8126a329de4>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaa4a965adc6bf4fda080b0ff325b4ca113e0af9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185614-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 外国産鶏肉を「宮崎県産」と偽り販売か 男2人を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15d173a3b4f0fe248fb932b73739208ce51d2d14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000050-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「イノシシのわなを見に行って帰らず」　徳島の山中で男性2人死亡
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/45e687ebc99593665a365ccc595bdf0abf40184b95d48268c1d58a0b7acf9bcc.jpg> 日経平均4万円台回復 約5カ月ぶり
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543646>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/86c0f82388ffec9eab6bfc93215680b5f0c364e27023616fdec9e18148bc1ea0.jpg> 座間事件 死刑執行に遺族が思い
+      <a href=https://news.yahoo.co.jp/pickup/6543643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9fad28aa7e18c6fbff8655a9fa8a6a90eff67edf299386d511a3cc6d4db5d7b4.jpg> 在ラオス大使館 邦人の買春に警告
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/860dca07d9b83902db0e63b94cf88f815e46744de0e014ce7f67fd0acc18a812.jpg> 小野祐夢ホールインワン 1000万円
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 17:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 17:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
