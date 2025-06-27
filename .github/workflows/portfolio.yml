@@ -27,6 +27,7 @@ jobs:
             --build-arg NODE_VERSION=$(grep NODE_VERSION .devcontainer/.env | cut -d '=' -f2) \
             --build-arg PNPM_VERSION=$(grep PNPM_VERSION .devcontainer/.env | cut -d '=' -f2) \
             --build-arg VERCEL_TOKEN=${{ secrets.VERCEL_TOKEN }} \
+            --build-arg PROJECT_NAME=portfolio \
             --target prod --file .devcontainer/portfolio-container/Dockerfile .
 
       - name: Delete previous workflow
