@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fddd2c61beb94119103640e5ca1b088b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/176ebe37c8c19d728db82a545ebccaaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1922b4a9c07ce2c2982e60f0d45fdcfb1021addc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01512856-jrt-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】徳島市の山中から２人の遺体　イノシシに襲われたか【徳島】
+      <a href=https://news.yahoo.co.jp/articles/d4bf1a133da6d6d034909915f3da1ad9c2e04289>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270403-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=690&ch=690&exp=10800&fmt=webp> ガーシー氏「ダウンタウンDX」本人達不在の最終回に「誰がこんな終わり方でよろこぶん？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/efd98c44ada8397a5348769e679ac9020e1afcae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270382-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ５年連続球宴の大谷翔平、仲間への投票呼びかける　フリーマン、ベッツらド軍ファイナリスト7人
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3850b1e9f2b0303c658726077bb5198e246ca333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a52696399b269f68057fac5c4f787132549d620>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000070-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「中国でも元気で」白浜パンダ４頭　公開最終日に1400人が列　アドベンチャーワールド
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1780ced1e77b7106debe9dd8c5aeaa1b55ae5b15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000021-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、リーグ最多得票で５年連続５度目球宴出場…ジャッジがMLBトップ最多票、7月6日に全選手揃う
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000070-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「中国でも元気で」白浜パンダ４頭　公開最終日に1400人が列　アドベンチャーワールド
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9909203c85640a4eb76f29e5986b058df01c6195c2672b261ff12521001c1f99.jpg> 生活保護の減額訴訟 統一判断へ
+      <a href=https://news.yahoo.co.jp/pickup/6543617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/927793af6d962b30ad780c441cd47b64e97a96093dd755e42cad9d134a3f9e95.jpg> EU ウクライナ支援で一致できず
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/90efbec1e6751e6ed79303427850493e61e127a93a29f9edd79302b9930a2b1f.jpg> 教師が盗撮共有疑い 体育を中止
+      <a href=https://news.yahoo.co.jp/pickup/6543625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/16e0d2b0672960abf0f83dc01255e3349da3034591d7018875aceb84367b584a.jpg> 県議会に議員10人遅刻 議長が注意
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/676cfe0f165f56f3bfb681c213a331c5db750bb330ac5f814882022423f8bdec.jpg> エムバペ モラハラでPSGを提訴
+      <a href=https://news.yahoo.co.jp/pickup/6543630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ef0776798930911f8aefd4619794f8f6d8bef1582dc2f010cfe2f5640878e618.jpg> 今永が5回無失点で4勝目 圧巻復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/676cfe0f165f56f3bfb681c213a331c5db750bb330ac5f814882022423f8bdec.jpg> エムバペ氏 モラハラでPSGを提訴
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543607>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 12:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 12:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
