@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41d6592b6956f56f58bfba460afc7e97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/056a5828e3863f208a4834bcaf1c2332.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/566aa1a4427d6b0681417c7ea96c1fffb94fc281>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245571-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 福岡厚労大臣「判決内容を十分精査し適切に対応」　生活保護費引き下げ取り消し訴訟 最高裁判決受け
+      <a href=https://news.yahoo.co.jp/articles/6ba74be1e0c50bf981ece814d55e387b7a360cf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【TOKIO解散も『DASH』は存続】“番組への貢献度”指摘されていた国分太一…“もはやTOKIOの番組ではない”の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ba898868ef5d444e9d020130981455960c51e38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00066752-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> ズボンは破れ手足に複数の傷…山中で男性２人が死亡　イノシシに襲われたか　現場周辺では警戒が続く　徳島市
+      <a href=https://news.yahoo.co.jp/articles/a7f166efa659814877e992936072ce652b34051c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000078-ann-000-3-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか　男性2人死亡　徳島市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee0e88f0bea1ce7762141007043a68892cf7ff86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000045-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『鉄腕DASH』TOKIO解散でも、日テレは起用継続の“執着”に不満続出…局が手放せない正月特番にも暗雲が
+      <a href=https://news.yahoo.co.jp/articles/47f76a676bfd28ef4811a732455aad209e7fe9ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00259560-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「株価は年末までに4万2千円まで上がる」　SBI証券の投資情報部長が予想する5か月ぶり4万円台回復の“その先”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b48005e44188fc002f14d609f55130d8508e761>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008171-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「2歳児も含む3人がすねや尾てい骨を骨折していた」目玉遊具で事故相次ぐ　北九州市皿倉山のスライダー
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e37de97d1242dce2f1807ca4a389ad3efcb9a5f74672f6ee1ce8d4b0024bfe44.jpg> 早すぎる梅雨明け コメ農家に打撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543664>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/56817d5cc171ea2caa08ce0d8d43a3428ad3c86b2cfc5ca39f534c43f903f799.jpg> 元救急車 最低10万円から市が売却
       </a>
@@ -450,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/95c879c8ddde14516be045ca422e859ae0cffdbaf3919a2032bbbf91125561b6.jpg> 大谷28号を捕球 ド軍投手がドヤ顔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543607>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 18:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 19:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
