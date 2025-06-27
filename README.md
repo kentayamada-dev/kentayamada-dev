@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4ad2f8af27d0f5858debdf868b957a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/629408035ab3bd8a960616266785ec28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2ca80898fe5c515d0b714e9c46202c7d3741b7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272161-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1435&ch=1435&exp=10800&fmt=webp> 【阪神】中野拓夢が「らしさ」全開！頭部死球交代から４日で復活「積極的に」足でチームに勢い
+      <a href=https://news.yahoo.co.jp/articles/477eadf58dac18776c992ae256943d0bd30c1eae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “株式会社TOKIOは廃業”  “まだ人生は続く。どうか見守って頂きたい”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/570b2909e1e8fe7e435432f2f1280a345e5c9dbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008739-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “全ての方々に申し訳ない” 国分さんには “自分と見つめ合う時間を一秒でも多く、そして家族を大切にしてくれ” と
+      <a href=https://news.yahoo.co.jp/articles/2b8e7c31871fb0cbfc74a2d6052d599cb4e4563e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90030780-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って盗撮した」”盗撮SNS共有”で逮捕の名古屋の教師
       </a>
     </td>
   </tr>
@@ -388,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cf623d19c0bcefc495f4c7aa68d1b78d39a6b0cf06bb4d0a4180aa6f7b294825.jpg> 西日本で梅雨明け なぜ異例の早さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/42d5ebb8eca6c4d5fa38a2dffa4244f82ca897db375fab19de47b62fc7883971.jpg> 国産哨戒機P1 可動状況「低調」
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/06e5ab8002100b3a13f99a8b0733ab1366465ca08e451bf63009c135ed0723e4.jpg> 言葉にならない パンダ最後の別れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543699>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e0bd31742915ee6c60a4c0d5cc5465907a9afd522abea04aa9bbc9033411dec.jpg> 阪神まさか 痛恨エラーで試合終了
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 23:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 23:52:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
