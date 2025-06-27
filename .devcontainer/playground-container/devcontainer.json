@@ -2,7 +2,6 @@
   "build": {
     "dockerfile": "./Dockerfile"
   },
-  "workspaceMount": "destination=/playground,type=tmpfs",
   "workspaceFolder": "/playground",
   "runArgs": [
     "--name",
@@ -10,6 +9,10 @@
     "--hostname",
     "playground"
   ],
+  "features": {
+    "ghcr.io/devcontainers-extra/features/pnpm:2.0.5": {}
+  },
+  "remoteUser": "root",
   "customizations": {
     "vscode": {
       "settings": {
