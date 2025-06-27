@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ca60246e234dffd20cc0943dd5d8040.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9951bab9a68d6d1cdff3952b032b45a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f001709dea823318cb55c53d836fb384c2b66aab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000033-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=948&ch=948&exp=10800&fmt=webp> 《急にキレられたことも》松岡昌宏　国分太一から“陰湿イジり”報道…騒動前からしていた「距離のある呼び方」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f5d5552512db7afed5bc2e6ce3e2c29e57a2baa8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781792-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 最多の大谷翔平だけじゃない…吹き荒れる“ド軍旋風”　示したスター軍団の力
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5476eca5d7512bbf56952b12550408cb3b8de58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000030-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【二度の“メンバー不祥事”】TOKIO解散発表で城島・松岡に寄せられる同情…グループ愛した「二人が不憫」の声殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e84a4d0a49d0c9cd497475959309122dc2f6673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-35234834-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イランとの核開発協議再開に向け、米国が展開する秘密外交の詳細　CNN EXCLUSIVE
+      <a href=https://news.yahoo.co.jp/articles/9443df10abbed746f4a48ddaa42ec4e4e612ea87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-03967165-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 座間市9人殺害　白石隆浩死刑囚に死刑執行　鈴木法相「慎重な上にも慎重な検討を加えた」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15d173a3b4f0fe248fb932b73739208ce51d2d14>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「イノシシのわなを見に行って帰らず」　徳島の山中で男性2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a73a706150c1cf3dbcadb158eb72c47f0d65f6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10191511-egolf-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 女子ゴルフ同日2人目の“ホールインワン”達成!! 賞金1000万円＆600万円の獲得権利 ＜アース・モンダミンカップ＞
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bc18800fb94190b282654b97e76da33ab023a9a0c49eac3ef223ca78f0bcf66e.jpg> 死刑執行 座間9人殺害事件とは
+      <a href=https://news.yahoo.co.jp/pickup/6543648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e07186b1f991ed01b0e8768e54efa52add91eab847425c0a5e342ed33a81032c.jpg> 女児盗撮 文科相「怒り覚える」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/86c0f82388ffec9eab6bfc93215680b5f0c364e27023616fdec9e18148bc1ea0.jpg> 座間事件 死刑執行に遺族が思い
       </a>
     </td>
   </tr>
@@ -450,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b8f04041e980ad48871a9a1b7b0c998c778e55f99b848b1bc7b37d8cf0b77b22.jpg> 青柳晃洋 3Aから2Aに降格
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543647>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/fd6a71703860cb1e31ed469cc797633489b80e9cc849ee5c98d958c57bf81842.jpg> 小野祐夢ホールインワン 1000万円
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 15:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 16:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
