@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b7109f3725a72b7a455b82690598fa8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7438ea6ad9082f85a38710295b42f826.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78afb0f2a1737b238448e8e866069236eb746973>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07245591-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って」女児の下着を盗撮・SNSで共有の疑い　名古屋市の小学校教員・ 森山勇二容疑者（42）は「学校だより」担当で日常的に子どもにカメラ向ける機会が
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f564c2b96d8267b0f40690bfd6c5a42bea04d2c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06271297-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 大谷翔平の“球宴選出御礼弾”は驚きの角度４０度！メジャー通算２５３発の中で６番目の数字
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/477eadf58dac18776c992ae256943d0bd30c1eae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “株式会社TOKIOは廃業”  “まだ人生は続く。どうか見守って頂きたい”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b8e7c31871fb0cbfc74a2d6052d599cb4e4563e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90030780-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って盗撮した」”盗撮SNS共有”で逮捕の名古屋の教師
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 00:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 01:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
