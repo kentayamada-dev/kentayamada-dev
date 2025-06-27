@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6eb674ac0f2ff8ed45b1a651b815e1a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/805205bcf8e7d05b93bee40d48d76597.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427e73becf38c30d26ab8a55da32e12593781f15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000009-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=584&cw=1280&ch=1280&exp=10800&fmt=webp> 6月の梅雨明けは70年ぶり、今年は入りも早かった…なぜ？ 異例のシーズンとなった九州南部、天気図には「クジラの尾」
+      <a href=https://news.yahoo.co.jp/articles/1e2e57b968fa022fe101e6abf40e6f040ed71de6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06684457-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】元TOKIO・松岡昌宏「たぶんそれしかリアクションできなかったと思います」　国分太一との会話を明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/623963d9bb5cd1fc741460f95ec33fc87567cef7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000187-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 一問一答　元TOKIO・松岡昌宏「なんのコンプライアンス違反ですかと。城島も自分も知りません」
+      <a href=https://news.yahoo.co.jp/articles/427e73becf38c30d26ab8a55da32e12593781f15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000009-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=584&cw=1280&ch=1280&exp=10800&fmt=webp> 6月の梅雨明けは70年ぶり、今年は入りも早かった…なぜ？ 異例のシーズンとなった九州南部、天気図には「クジラの尾」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/52d0ec28aebba372bcf9c0a5724dfc14a09def3628dc3605356ca2e5ca59febb.jpg> コメ最新の店頭価格 5キロ3835円
+      <a href=https://news.yahoo.co.jp/pickup/6543687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cf623d19c0bcefc495f4c7aa68d1b78d39a6b0cf06bb4d0a4180aa6f7b294825.jpg> 西日本で梅雨明け なぜ異例の早さ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8c755682f55e4ac85b2a9eb9cb4cfa60fe46b0f213530fec872e2a618c2ce7ec.jpg> 外相 合成麻薬の密輸「許さない」
+      <a href=https://news.yahoo.co.jp/pickup/6543633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9a39ffa578ef6c6b5e71df73c4648cba7dd8783e2aa17b980d73caeb438c3164.jpg> トラブル多い自転車ベル いつ使う
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d19e9f96a75ba7def37f2f31c420ac4f8babe167c1bbedfa9ae1b7874da67d7.jpg> 30mスライダー これまでに4人骨折
+      <a href=https://news.yahoo.co.jp/pickup/6543688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e660e6a1ac8afc34a7d7b98e58adbd53731fabe5d558b726dce3e540b89fb849.jpg> ラオスで邦人が買春か 訴えた女性
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bf0a68f053925b43985d2b5d1c00083015cc1eb2d6edb98ba3abef7c73a47e18.jpg> 西武・今井が座り込む 緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6543690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ed0ef3d5cbf66e9ccfea54b7e8df4fe3e6e442eddef19187c28743b3ff62ff90.jpg> 西武・今井まさかの降板 熱中症か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1fcacf53775cd6d78f9ee8c23870071be22462031d0e6c03408edae3bd1612bc.jpg> 松岡昌宏 国分の違反内容は知らず
+      <a href=https://news.yahoo.co.jp/pickup/6543689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1fcacf53775cd6d78f9ee8c23870071be22462031d0e6c03408edae3bd1612bc.jpg> 松岡 国分コンプラ違反内容知らず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 21:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 22:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
