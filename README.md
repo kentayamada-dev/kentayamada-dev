@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/273b7f355b0feb58d212f13fc8c84cff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4ad2f8af27d0f5858debdf868b957a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9f9011bc692b24ddde9a39a149bcccaa34e9fc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271363-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【阪神】通算０犠打の森下翔太が執念のバント→ファウルも２０打席ぶり安打先取点呼び込む「もっとやれる」
+      <a href=https://news.yahoo.co.jp/articles/f2ca80898fe5c515d0b714e9c46202c7d3741b7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272161-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1435&ch=1435&exp=10800&fmt=webp> 【阪神】中野拓夢が「らしさ」全開！頭部死球交代から４日で復活「積極的に」足でチームに勢い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63bfdee045558cd8a6159a5f794eb33c5db1609f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01453634-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】松岡昌宏　「TOKIOというかたちは終わりました。本当に申し訳ございません」
+      <a href=https://news.yahoo.co.jp/articles/570b2909e1e8fe7e435432f2f1280a345e5c9dbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008739-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “全ての方々に申し訳ない” 国分さんには “自分と見つめ合う時間を一秒でも多く、そして家族を大切にしてくれ” と
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17f93ea96441c6236fa66076ea79837d457cdd12>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 28号ソロでドジャース4連勝に貢献！ロバーツ監督「本当に大きかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f60cb1e46a9daa82f2c910cc404030be47f7a6be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993612-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=446&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】最新の米価格5kg3835円…この秋の新米はいくらに?　専門家「4000円前後の可能性」7月中旬以降は24年産銘柄米4000円切りか【米高騰】
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/264c31d5bc07d4b0e6771808df37dd420c119a9a8b5050b1731b8c5b12977e0e.jpg> ひかり号「弱冷房車」試験導入へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543695>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3e4ce55aa0eaeebb49ddab977a6c1a57b5ce1b5be30afd39e1ec64a328e65c5a.jpg> 八田容疑者にはねられ 男性の決意
       </a>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9d2b3250bf0f7c0a44feb30534833a39f8ec6c93281c1d7e99920062b099b61e.jpg> 「燃えよドラゴン」作曲家 死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543693>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/50854ee06b831728615045fedc5cf9d59de99eead47f1e993a1d2233d8d38c70.jpg> 井ノ原氏CMO退任 タレント専念
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/7b249a8aaa1cb3bb3b3d70737211844050cf316003725339a6df8df3649c52c0.jpg> 丸刈りのSB山川穂高 10号満塁弾
+      <a href=https://news.yahoo.co.jp/pickup/6543699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e0bd31742915ee6c60a4c0d5cc5465907a9afd522abea04aa9bbc9033411dec.jpg> 阪神まさか 痛恨エラーで試合終了
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 23:01:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 23:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
