@@ -27,7 +27,10 @@ jobs:
 
       - name: Deploy to vercel
         run: |
-          docker build --target prod -f .devcontainer/portfolio-container/Dockerfile .
+          docker build \
+            --build-arg NODE_VERSION=$(grep NODE_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --build-arg PNPM_VERSION=$(grep PNPM_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --target prod --file .devcontainer/portfolio-container/Dockerfile .
 
       - name: Delete previous workflow
         run: |
