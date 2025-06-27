@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45a2b715bcca7c0f75b4f2f85ccc290e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9084096b9610ad67736c12424efc53c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a60c3fbe47397af02de4d2f078bc6f9d7f2edbc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36271738-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1192&ch=1192&exp=10800&fmt=webp> 松岡昌宏が沈黙の国分太一を「奈落の底」とおもんぱかる　TOKIO内いじめ「全くない」報道否定
+      <a href=https://news.yahoo.co.jp/articles/1a2f3b315e433cd6fe5a8d3319a394d10b9d1944>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36280053-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1451&ch=1451&exp=10800&fmt=webp> 田中理恵さん「悔しさがすごく伝わりました」松岡昌宏の謝罪は「応援したいなという気持ちに…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31eb3e1a249f903c2fbc9d0efdcb0663c6383ac4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000050-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 阪神・村上　得意神宮でまさか2被弾　高寺失策でサヨナラ負けも藤川監督「また顔を上げて戦ってくれれば」
+      <a href=https://news.yahoo.co.jp/articles/21aa3273b28633e0b1ff03287d95b26d86e4966d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000002-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=202&cw=996&ch=996&exp=10800&fmt=webp> 「隠しカメラあるのでは」教員の盗撮事件　保護者から不安の声相次ぐ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 05:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 07:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
