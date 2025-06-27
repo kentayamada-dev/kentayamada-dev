@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/176ebe37c8c19d728db82a545ebccaaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ea92490a55343d8c8c8d2374595515e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4bf1a133da6d6d034909915f3da1ad9c2e04289>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270403-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=690&ch=690&exp=10800&fmt=webp> ガーシー氏「ダウンタウンDX」本人達不在の最終回に「誰がこんな終わり方でよろこぶん？」
+      <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efd98c44ada8397a5348769e679ac9020e1afcae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270382-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ５年連続球宴の大谷翔平、仲間への投票呼びかける　フリーマン、ベッツらド軍ファイナリスト7人
+      <a href=https://news.yahoo.co.jp/articles/ce5ebd7293a25d0729c1461c5e84eb4c41fa9d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90020361-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「カムバックアゲイン」アドベンチャーワールドのパンダ　返還前最後の公開に大勢のファン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c6d1a8c927d34cb0b881f0377285bba3f8f9e38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-05173972-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか…山中に男性2人の遺体　徳島市
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3850b1e9f2b0303c658726077bb5198e246ca333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a52696399b269f68057fac5c4f787132549d620>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000070-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=415&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「中国でも元気で」白浜パンダ４頭　公開最終日に1400人が列　アドベンチャーワールド
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1bae37c93b86ae89227e55f0a5728d28c8d84692bcf80638db687b8a19d1b854.jpg> 西日本各地で梅雨明け 異例の早さ
+      <a href=https://news.yahoo.co.jp/pickup/6543628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/85d7fc5ded7a2d7a3aca0f61b23e95b17e0ee196f2933a3f4878e55b7e7311a2.jpg> 松本サリン事件31年 犠牲者を悼む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bc18800fb94190b282654b97e76da33ab023a9a0c49eac3ef223ca78f0bcf66e.jpg> 死刑執行 座間9人殺害事件とは
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
+      <a href=https://news.yahoo.co.jp/pickup/6543621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1bae37c93b86ae89227e55f0a5728d28c8d84692bcf80638db687b8a19d1b854.jpg> 西日本各地で梅雨明け 異例の早さ
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/16e0d2b0672960abf0f83dc01255e3349da3034591d7018875aceb84367b584a.jpg> 県議会に議員10人遅刻 議長が注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/392e2886e49385b281a4b3819a2b2825206438e1eb3ebc9cf5e2762baa76c318.jpg> 法政大ハンマー殴打事件 有罪判決
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 12:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 13:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
