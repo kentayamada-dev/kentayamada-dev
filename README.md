@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a483ca3031caf2303317902484b2d16f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdb614c2c8822cecc2db6d3b8e50d726.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ea07d3097d296b46bfea42088559bfe8f4f68c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000142-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 元ＴＯＫＩＯ松岡「縁が切れると、ぶっ飛ばせないでしょう」国分太一への思いを吐露「今、何を言っても彼の耳には伝わらないと思う」
+      <a href=https://news.yahoo.co.jp/articles/bf5fd0cffce910d978cd553b706381b3f2c0bf15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000299-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=64&cw=793&ch=793&exp=10800&fmt=webp> 松岡昌宏語る　国分太一のコンプラ問題行為について「キレることはなかった」「DASH村ではない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0fce2a3a4263885b9b516630fd6a7e6e436cf4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000277-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=255&ch=255&exp=10800&fmt=webp> 松岡昌宏　ファンに謝罪「申し訳ない」「TOKIOという形は終わりました」　発表後初の取材対応
+      <a href=https://news.yahoo.co.jp/articles/c02709b694642b0e5722806592e36ed9e72b0ab5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000167-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平、4連勝に貢献の28号は球宴選出〝御礼弾〟「アトランタで会いましょう」　DH部門でファン投票5年連続選出は史上初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9e26f7834f301755ff2bf0c73411f7cf66127fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000090-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 解散発表のTOKIO　メンバーの松岡昌宏さん「すべての方々に申し訳ない」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47f76a676bfd28ef4811a732455aad209e7fe9ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00259560-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「株価は年末までに4万2千円まで上がる」　SBI証券の投資情報部長が予想する5か月ぶり4万円台回復の“その先”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b77a6ce5190c3ce04505e30b5c51b7ec35db360>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993611-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=582&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手のオールスタースタメン出場が決定…ファン投票でナ・リーグ最多得票を獲得　ドジャース勢が大挙出場か!?
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3041daec45e275d5ddd438ab1cbb6c73ec4b647a50233176746ec0e3d27f0267.jpg> STARTO新社長 元フジ鈴木克明氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543670>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d19e9f96a75ba7def37f2f31c420ac4f8babe167c1bbedfa9ae1b7874da67d7.jpg> 30mスライダー これまでに4人骨折
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/95c879c8ddde14516be045ca422e859ae0cffdbaf3919a2032bbbf91125561b6.jpg> 大谷28号を捕球 ド軍投手がドヤ顔
+      <a href=https://news.yahoo.co.jp/pickup/6543678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bf0a68f053925b43985d2b5d1c00083015cc1eb2d6edb98ba3abef7c73a47e18.jpg> 西武・今井が座り込む 緊急降板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1b8eaae38cd4c65bbed6027ba5fa6cfe1c85aae15c68774f44a858b8013257f8.jpg> 松岡昌宏 TOKIO解散について語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 19:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 20:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
