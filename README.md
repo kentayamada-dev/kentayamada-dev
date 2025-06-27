@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/653e43a81ad46595b7df69997bd1c912.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fddd2c61beb94119103640e5ca1b088b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6cd19777a24fbb9573ac4cd614dcc1a9e35e5256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00011231-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 「みんな音楽がやりたい」【国分太一騒動でTOKIO解散】崩壊は2600日前「山口達也の脱退」から始まった
+      <a href=https://news.yahoo.co.jp/articles/1922b4a9c07ce2c2982e60f0d45fdcfb1021addc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01512856-jrt-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】徳島市の山中から２人の遺体　イノシシに襲われたか【徳島】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3850b1e9f2b0303c658726077bb5198e246ca333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a52696399b269f68057fac5c4f787132549d620>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000070-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=755&ch=755&exp=10800&fmt=webp> 「中国でも元気で」白浜パンダ４頭　公開最終日に1400人が列　アドベンチャーワールド
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1780ced1e77b7106debe9dd8c5aeaa1b55ae5b15>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000021-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、リーグ最多得票で５年連続５度目球宴出場…ジャッジがMLBトップ最多票、7月6日に全選手揃う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08fa0012f117dc179e3d529cee7d60a2cc5a1988>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271068-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=966&ch=966&exp=10800&fmt=webp> ２人不在の「ダウンタウンＤＸ」最終回視聴率５・１％でフィニッシュ…最高視聴率は２０％台も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83be6f152df968fe7ef58fe165ee4430359325cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000012-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「北斗の拳」新作アニメは2026年放送、拳を握るケンシロウのビジュアル公開
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0751dc21e6301df19ed3b4118ae578345aeea438a6213297ebc2bf7b5dce0d87.jpg> 拡大する修繕工事市場 不正が横行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/90efbec1e6751e6ed79303427850493e61e127a93a29f9edd79302b9930a2b1f.jpg> 教師が盗撮共有疑い 体育を中止
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/54b5d247afda6da062db9126c075e9a8acd71913828aeb266b5d2b625ee86f05.jpg> ブラッド・ピットさん宅に空き巣
+      <a href=https://news.yahoo.co.jp/pickup/6543623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/392e2886e49385b281a4b3819a2b2825206438e1eb3ebc9cf5e2762baa76c318.jpg> 法政大ハンマー殴打事件 有罪判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/676cfe0f165f56f3bfb681c213a331c5db750bb330ac5f814882022423f8bdec.jpg> エムバペ モラハラでPSGを提訴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 11:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 12:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
