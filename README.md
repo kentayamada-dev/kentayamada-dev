@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9bdd30d83a3dcae75ef8dc6880f0e9ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b07de8edc24031beb4483a3c54e23a2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d7b3f9f17f96555afed3156bd3f7f0463665bb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000051-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=969&ch=969&exp=10800&fmt=webp> 松岡昌宏　国分と「縁は切れない。縁が切れたらブッ飛ばせない」　TOKIO解散後、初めて心境を語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67ee7b2f53c32a8966d14ba6c873370ff5504b9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272269-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 【阪神】高寺望夢「申し訳ない」村上頌樹「悔しい」藤川監督は「新たに…」リーグの貯金独占
+      <a href=https://news.yahoo.co.jp/articles/6f717efd3e3119fad0690c2671b5745d065d72c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000057-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=749&ch=749&exp=10800&fmt=webp> 松岡昌宏　質問が尽きるまで報道陣に向き合う責任感
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 04:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 04:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
