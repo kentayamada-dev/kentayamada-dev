@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1970e3632d528f5812a0299b21e6b68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d91c9b0ed539d73162f59ebf60db509f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3369d388af0a61425f5533019c3e95e74ffbca6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000004-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 国分太一のMC降板で『テレ東音楽祭』情報解禁も延期に…やむを得ない「代役候補」
+      <a href=https://news.yahoo.co.jp/articles/41066c820b36d13154bd99c4f6c278467d5244ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270292-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> オールスター戦ファン２次投票進出ファイナリストはドジャースから最多７人　マンシー、パヘスも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc0a327613d0132e59416a407e6967fcdcdfa155>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245381-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「イノシシの罠を見に行ってから帰ってこない」徳島県の山中で高齢男性2人死亡　手足に複数の傷　イノシシに襲われたか
+      <a href=https://news.yahoo.co.jp/articles/2c9453a57007cbcb42473c0b62b102186a7f241b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185563-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 座間市男女9人殺害事件 白石死刑囚の死刑執行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed966459180bdbb3c7fb82a7ed57e7e7b56d237f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000080-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1087&ch=1087&exp=10800&fmt=webp> 大谷翔平　2戦ぶり28号！最近4戦3発で年間55発ペース　敵地大熱狂　2番手右腕がダイレクトキャッチ
+      <a href=https://news.yahoo.co.jp/articles/bddb6a7a3336f26c8e9057aaccfca6a3363ee8ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-02101646-sspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> 国分太一降板後、レギュラー番組はどうなるのか。『男子ごはん』『世界くらべてみたら』は継続か？『ザ!鉄腕!DASH!!』は…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2dcdf8d341538c6f2cedda9f4826fa62bd30708b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-09537651-jrt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> イノシシに襲われたか 徳島市の山中で男性２人死亡【徳島】
       </a>
     </td>
   </tr>
@@ -386,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/8aff8c925df1c9b25231371a84cce45db146be94731a8bd4b8db0d3092d788ab.jpg> トカラ列島の地震400回超 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6543615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/94f2d2ca8625080799859cc2d13f7a87357c0c8692c7e65a44db09f7f1fe69bf.jpg> 盗撮共有事件 説明会で涙流す人も
+      <a href=https://news.yahoo.co.jp/pickup/6543613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e9d7b76dd6cea934e9c62f900490f95248cbcc0ccb79c0427292f0e3bf0eee7d.jpg> 日経平均一時4万円台 約5カ月ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/e292b8759bfafa3714de1ce927c61fe09a2feb404a2765c556e310624efdf3d8.jpg> イノシシの罠を見に 山で2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6543610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/08b94ae6871ef28d30ae7647bac1972060ccce8afea98cf90191631b6dcbc16c.jpg> 公明 参院選公約に「2万円給付」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/798998d3fa0245d334e61d735c2fb94024ff6757c3a921e0256e7f87480dce78.jpg> タイ人気リゾート地 複数爆発物か
+      <a href=https://news.yahoo.co.jp/pickup/6543600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4afa95a728a8abdf4ce4836bd2265fef5851e6621349964c092a9b8c411b4f4d.jpg> 2人死亡 イノシシに襲われたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/d802fc433ab2f38cc646ce482b12a8955842f6e565272874f5815f702f28f2fd.jpg> 東京の平均月給はNYの半分 調査
+      <a href=https://news.yahoo.co.jp/pickup/6543614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/90efbec1e6751e6ed79303427850493e61e127a93a29f9edd79302b9930a2b1f.jpg> 教師が盗撮共有疑い 体育を中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriyamasaya/02263287/title-1750840686811.jpeg?exp=10800> ネット上の性的広告 家庭の対策法
+      <a href=https://news.yahoo.co.jp/pickup/6543598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2a41c3892cf2058a2d3515d09f6bb3478fbf9ca6929b4c6808ff47d3c630b75d.jpg> 市長に学歴詐称疑惑 百条委設置へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/ad5979bee2b2e0cd3f697357b4405d58b89a9f522531e11a0f825b59bb111536.jpg> 「得点王」の大谷 驚異的なペース
+      <a href=https://news.yahoo.co.jp/pickup/6543609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/611767317f5bc19c14ffef6b296041ac3065f8a1ca91c35a4123bf2618e1c834.jpg> 日本ハム2軍本拠地 北海道移転へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/26/b6532c5677efcff4ab21f123b360327e597acbbb99cec7beb93e8a61f511bfb5.jpg> ダウンタウンDX最終回 2人は不在
+      <a href=https://news.yahoo.co.jp/pickup/6543607>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 10:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
