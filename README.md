@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdb614c2c8822cecc2db6d3b8e50d726.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55286928253050292a3055a086aa487a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf5fd0cffce910d978cd553b706381b3f2c0bf15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000299-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=64&cw=793&ch=793&exp=10800&fmt=webp> 松岡昌宏語る　国分太一のコンプラ問題行為について「キレることはなかった」「DASH村ではない」
+      <a href=https://news.yahoo.co.jp/articles/5f37b9eab1335341dc9e15a6f260cc21a5da1e3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01864338-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか、徳島でワナ見に行った2人死亡　山梨で女性かまれケガ　全国でも被害相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c02709b694642b0e5722806592e36ed9e72b0ab5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000167-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=990&ch=990&exp=10800&fmt=webp> 大谷翔平、4連勝に貢献の28号は球宴選出〝御礼弾〟「アトランタで会いましょう」　DH部門でファン投票5年連続選出は史上初
+      <a href=https://news.yahoo.co.jp/articles/293ec857772330ab113c9ed58f2412003dfbca2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90023125-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手が5年連続オールスター出場へ　自ら祝う28号ホームラン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e26f7834f301755ff2bf0c73411f7cf66127fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000090-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 解散発表のTOKIO　メンバーの松岡昌宏さん「すべての方々に申し訳ない」
+      <a href=https://news.yahoo.co.jp/articles/86e27a3823d3a6a1d5830c41de6ebb171c916042>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00050163-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=304&ch=304&exp=10800&fmt=webp> 「共食い」も起きている哨戒機Ｐ１、会計検査院が「運用低調」と指摘…２兆３０００億円超で２６機追加予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7f166efa659814877e992936072ce652b34051c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000078-ann-000-4-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか　男性2人死亡　徳島市
+      <a href=https://news.yahoo.co.jp/articles/f60cb1e46a9daa82f2c910cc404030be47f7a6be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993612-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=446&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】最新の米価格5kg3835円…この秋の新米はいくらに?　専門家「4000円前後の可能性」7月中旬以降は24年産銘柄米4000円切りか【米高騰】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d86a79867432aa7891192835ad8a8be9fa95fd56384fffcc18b25e70395f052.jpg> 週末各地で35℃超予想 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6543681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/52d0ec28aebba372bcf9c0a5724dfc14a09def3628dc3605356ca2e5ca59febb.jpg> コメ最新の店頭価格 5キロ3835円
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/467294b0e3290ac7185f1b7683a0874e5186bf54bd10b54d31a6d3107da244fb.jpg> 女児盗撮 学校のデジカメで撮影か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543670>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d19e9f96a75ba7def37f2f31c420ac4f8babe167c1bbedfa9ae1b7874da67d7.jpg> 30mスライダー これまでに4人骨折
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cb51c5e5f86c2f3d4adf3a713acec6712787f1b30488879867d35db8c325c2f6.jpg> プール授業しびれ 原因は圧迫痕か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543661>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cf6449b042ab8b967995b75fb1174316cfa10f37d52fa89e5b7305d174bb4708.jpg> 不適切動画 109シネマズ運営謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0e9ae78a8b178ccab622f334cc734a33ee2ea327da54531dd08a907d998f47f4.jpg> フィギュア樋口新葉 来季引退表明
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1f1f7d9ed205d8064627d7f66160e68a86d610b4f33a900c273047be1354756a.jpg> 7453文字アニメセリフ ギネス認定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 20:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 20:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
