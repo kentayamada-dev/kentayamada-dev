@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f25e7a61217e17124197e9eef073610.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d30583de55375c76fbb6d18b796f1797.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e84a4d0a49d0c9cd497475959309122dc2f6673>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-35234834-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イランとの核開発協議再開に向け、米国が展開する秘密外交の詳細　CNN EXCLUSIVE
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edcd1983a1fbacc1f39021558ff5430cfdcf20a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00733806-footballc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なでしこジャパンの最新メンバーが発表！ スペイン女子代表戦およびE-1サッカー選手権に臨むのは？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15d173a3b4f0fe248fb932b73739208ce51d2d14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「イノシシのわなを見に行って帰らず」　徳島の山中で男性2人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7761f020c98dcff070e51e1e74bc03800f6389bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000028-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 松岡昌宏、語っていた「一番だらしないTOKIOメンバー」で進む“答え合わせ”　グループ内の「陰湿イジり」報道で見えたメンバー同士の“本当の関係”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11f7174228eab36fa49c4a82a5c7aa5da00cdab5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUがウナギの取引規制を提案へ　小泉農水大臣「極めて遺憾」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3318b72cae858959a5872e0ab577fe37b855d2ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=405&ch=405&exp=10800&fmt=webp> お金に弱いトランプ…ゼレンスキーの「武器を買う」発言後にプーチン批判
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000028-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 松岡昌宏、語っていた「一番だらしないTOKIOメンバー」で進む“答え合わせ”　グループ内の「陰湿イジり」報道で見えたメンバー同士の“本当の関係”
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c6d1a8c927d34cb0b881f0377285bba3f8f9e38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-05173972-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか…山中に男性2人の遺体　徳島市
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/16e0d2b0672960abf0f83dc01255e3349da3034591d7018875aceb84367b584a.jpg> 県議会に議員10人遅刻 議長が注意
+      <a href=https://news.yahoo.co.jp/pickup/6543640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e4e010c4b64c5b809f25fa289389ec75ed002c237a7d9a3392e2eaca58dda4a2.jpg> プール授業しびれ 原因は圧迫痕か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/876c346e6490098af52f9e06036f8415228c76cafa92f86052bb54e94ca34d66.jpg> 埼玉のイメージ 全国普及した背景
+      <a href=https://news.yahoo.co.jp/pickup/6543635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3c6ff2647967f4dd201bce95483a0cc4bbf175b11dfaed1ce8286458cdf2b359.jpg> パンダ4頭の公開最終日 Xの写真
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/06291b62d13fcb04d736a00f5cb10363026aa07bd7083feefcd7e63f413d226b.jpg> パンダ4頭の公開最終日 朝から列
+      <a href=https://news.yahoo.co.jp/pickup/6543641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/423ebb67434a09c45bb4f8bdc368904e1b03c23851559755dd45aa9d72a70cce.jpg> 浦和レディースに激震 5人が離脱
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 14:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 14:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
