@@ -39,7 +39,7 @@ jobs:
             --build-arg GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} \
             --target prod --file .devcontainer/github-profile-container/Dockerfile .
           docker run --name output-container output
-          docker cp output-container:/app/README.md ./README.md
+          docker cp output-container:/README.md ./README.md
 
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
