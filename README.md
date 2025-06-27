@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ea92490a55343d8c8c8d2374595515e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8fa295bd0f0f09748a8dabac40354f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
+      <a href=https://news.yahoo.co.jp/articles/5d2e06cfd42b1fbf707d85f4191bcb75f241b13d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270448-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> パンダと最後の対面　朝早くから大勢　“前倒し”開演／白浜
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce5ebd7293a25d0729c1461c5e84eb4c41fa9d94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90020361-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「カムバックアゲイン」アドベンチャーワールドのパンダ　返還前最後の公開に大勢のファン
+      <a href=https://news.yahoo.co.jp/articles/bd25f7560c59ea191f9527f567eb0af54023eda2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00551922-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「投票してくれてありがとう」　396万票獲得で球宴先発出場決定、ファンはフィールド外にも注目
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3850b1e9f2b0303c658726077bb5198e246ca333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000364-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=720&ch=720&exp=10800&fmt=webp> NEWS小山慶一郎、TOKIO解散に言及「正直まだ複雑な気持ちです」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bc18800fb94190b282654b97e76da33ab023a9a0c49eac3ef223ca78f0bcf66e.jpg> 死刑執行 座間9人殺害事件とは
+      <a href=https://news.yahoo.co.jp/pickup/6543617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/927793af6d962b30ad780c441cd47b64e97a96093dd755e42cad9d134a3f9e95.jpg> EU ウクライナ支援で一致できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/927793af6d962b30ad780c441cd47b64e97a96093dd755e42cad9d134a3f9e95.jpg> EU ウクライナ支援で一致できず
+      <a href=https://news.yahoo.co.jp/pickup/6543627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bc18800fb94190b282654b97e76da33ab023a9a0c49eac3ef223ca78f0bcf66e.jpg> 死刑執行 座間9人殺害事件とは
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ef0776798930911f8aefd4619794f8f6d8bef1582dc2f010cfe2f5640878e618.jpg> 今永が5回無失点で4勝目 圧巻復帰
+      <a href=https://news.yahoo.co.jp/pickup/6543632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/7112330376a1db83584074559583ffcfcf996e9cbca12efa59ec74d297c32d9e.jpg> 異例 中日・福がヘアドネーション
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 13:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 13:14:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
