@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12ecf9afc0ba6d320a48aa78a77ff064.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/653e43a81ad46595b7df69997bd1c912.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7807135be4139c09ba9a41be51d05c741157b041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000006-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=603&ch=603&exp=10800&fmt=webp> TOKIO解散で説明機会は消滅か…「復帰の可能性」を“潰した”国分太一と“残した”生島ヒロシの差
+      <a href=https://news.yahoo.co.jp/articles/6cd19777a24fbb9573ac4cd614dcc1a9e35e5256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00011231-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 「みんな音楽がやりたい」【国分太一騒動でTOKIO解散】崩壊は2600日前「山口達也の脱退」から始まった
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6bc86d292710094b231a794f1fcd6725ac7a9fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000041-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 対ロシア制裁延長で合意　追加措置は見送り　EU首脳会議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4772153c64886898eb4be69edf59ceb022282122>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185555-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 俳優ブラッド・ピットさんの自宅に空き巣
+      <a href=https://news.yahoo.co.jp/articles/83be6f152df968fe7ef58fe165ee4430359325cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000012-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 「北斗の拳」新作アニメは2026年放送、拳を握るケンシロウのビジュアル公開
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1bae37c93b86ae89227e55f0a5728d28c8d84692bcf80638db687b8a19d1b854.jpg> 西日本各地で梅雨明け 異例の早さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543611>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9909203c85640a4eb76f29e5986b058df01c6195c2672b261ff12521001c1f99.jpg> 生活保護の減額訴訟 統一判断へ
       </a>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/f74e9b1b340dfa9b398e8ad9e8838611e2ffaf80ad445eae49d84080d3f487b8.jpg> 日経平均一時4万円台 約5カ月ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543615>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/08b94ae6871ef28d30ae7647bac1972060ccce8afea98cf90191631b6dcbc16c.jpg> 公明 参院選公約に「2万円給付」
       </a>
     </td>
   </tr>
@@ -458,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ace26ec96fd952bb7ec1eb46b68da5bb739b9ff6bf2a1212e8c0eaef247e147d.jpg> 北斗の拳18年ぶりアニメ 来年放送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543607>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 11:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 11:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
