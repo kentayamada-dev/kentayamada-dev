@@ -14,8 +14,8 @@ services:
     hostname: portfolio
     volumes:
       - type: volume
-        source: /portfolio
-        target: ../portfolio
+        source: ../portfolio
+        target: /data
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
