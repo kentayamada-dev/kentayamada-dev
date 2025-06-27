@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a67215a82891f6b6e6fb330af53ab2d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44cbb135f782d1650e414ce9c8a0d41a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78afb0f2a1737b238448e8e866069236eb746973>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07245591-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って」女児の下着を盗撮・SNSで共有の疑い　名古屋市の小学校教員・ 森山勇二容疑者（42）は「学校だより」担当で日常的に子どもにカメラ向ける機会が
+      <a href=https://news.yahoo.co.jp/articles/af75d97983e15b147f09ff42b73f38212adeaedc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　球宴選出御礼弾！記録ずくめの最多得票　DH部門で5年連続ファン投票選出は史上初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f564c2b96d8267b0f40690bfd6c5a42bea04d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06271297-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 大谷翔平の“球宴選出御礼弾”は驚きの角度４０度！メジャー通算２５３発の中で６番目の数字
+      <a href=https://news.yahoo.co.jp/articles/78afb0f2a1737b238448e8e866069236eb746973>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07245591-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「学校のデジカメ使って」女児の下着を盗撮・SNSで共有の疑い　名古屋市の小学校教員・ 森山勇二容疑者（42）は「学校だより」担当で日常的に子どもにカメラ向ける機会が
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 01:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 02:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
