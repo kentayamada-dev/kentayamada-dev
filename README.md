@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcb1eb04d5833d188eb677b5a85d6f7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6eb674ac0f2ff8ed45b1a651b815e1a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6e7071e45cf94083e9ad11a92582d2889c19717>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185690-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=531&ch=531&exp=10800&fmt=webp> 「国分は奈落の底にいる」「TOKIO愛は5人とも違った形で持っている」「DASH村に行った時には彼はほのぼの」松岡昌宏がTOKIO解散の心境語る 約20分の取材後には大きな拍手も
+      <a href=https://news.yahoo.co.jp/articles/427e73becf38c30d26ab8a55da32e12593781f15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000009-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=584&cw=1280&ch=1280&exp=10800&fmt=webp> 6月の梅雨明けは70年ぶり、今年は入りも早かった…なぜ？ 異例のシーズンとなった九州南部、天気図には「クジラの尾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/555917271a1bf8d6b0ffcffc2684243600083bb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000107-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「互いが思いやる社会に」　各地の原告が判決を歓迎　生活保護費訴訟
+      <a href=https://news.yahoo.co.jp/articles/623963d9bb5cd1fc741460f95ec33fc87567cef7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000187-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 一問一答　元TOKIO・松岡昌宏「なんのコンプライアンス違反ですかと。城島も自分も知りません」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/864404263d60abe5cc9e907571d6ebd768640b7b3e449ea3898bd69898a6902e.jpg> 母が妊娠中に被爆 秘密を知り子涙
+      <a href=https://news.yahoo.co.jp/pickup/6543666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8c755682f55e4ac85b2a9eb9cb4cfa60fe46b0f213530fec872e2a618c2ce7ec.jpg> 外相 合成麻薬の密輸「許さない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8c755682f55e4ac85b2a9eb9cb4cfa60fe46b0f213530fec872e2a618c2ce7ec.jpg> 外相 合成麻薬の密輸「許さない」
+      <a href=https://news.yahoo.co.jp/pickup/6543684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/c2e62b48d946d320f9e12916483838eb3c32a3daaf0fe9e266061fdbb19f5da2.jpg> 生活保護減額は違法 補償どうなる
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0e9ae78a8b178ccab622f334cc734a33ee2ea327da54531dd08a907d998f47f4.jpg> フィギュア樋口新葉 来季引退表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bf0a68f053925b43985d2b5d1c00083015cc1eb2d6edb98ba3abef7c73a47e18.jpg> 西武・今井が座り込む 緊急降板
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1b8eaae38cd4c65bbed6027ba5fa6cfe1c85aae15c68774f44a858b8013257f8.jpg> 松岡昌宏 TOKIO解散について語る
+      <a href=https://news.yahoo.co.jp/pickup/6543685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e3273a2bfd71e4fac37a1bd6f07dca53e6fc5629695e453beb91b26570e3dada.jpg> 日ハム伊藤 死球当て近寄り即謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1fcacf53775cd6d78f9ee8c23870071be22462031d0e6c03408edae3bd1612bc.jpg> 松岡昌宏 国分の違反内容は知らず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 21:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 21:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
