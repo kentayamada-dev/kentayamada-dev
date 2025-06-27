@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55286928253050292a3055a086aa487a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcb1eb04d5833d188eb677b5a85d6f7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6e7071e45cf94083e9ad11a92582d2889c19717>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185690-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=531&ch=531&exp=10800&fmt=webp> 「国分は奈落の底にいる」「TOKIO愛は5人とも違った形で持っている」「DASH村に行った時には彼はほのぼの」松岡昌宏がTOKIO解散の心境語る 約20分の取材後には大きな拍手も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/555917271a1bf8d6b0ffcffc2684243600083bb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000107-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「互いが思いやる社会に」　各地の原告が判決を歓迎　生活保護費訴訟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f37b9eab1335341dc9e15a6f260cc21a5da1e3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01864338-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか、徳島でワナ見に行った2人死亡　山梨で女性かまれケガ　全国でも被害相次ぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01864338-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか、徳島でワナ見に行った2人死亡　山梨で女性かまれケガ　全国でも被害相次ぐ
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86e27a3823d3a6a1d5830c41de6ebb171c916042>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00050163-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=304&ch=304&exp=10800&fmt=webp> 「共食い」も起きている哨戒機Ｐ１、会計検査院が「運用低調」と指摘…２兆３０００億円超で２６機追加予定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f60cb1e46a9daa82f2c910cc404030be47f7a6be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00993612-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=446&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】最新の米価格5kg3835円…この秋の新米はいくらに?　専門家「4000円前後の可能性」7月中旬以降は24年産銘柄米4000円切りか【米高騰】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47f76a676bfd28ef4811a732455aad209e7fe9ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00259560-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「株価は年末までに4万2千円まで上がる」　SBI証券の投資情報部長が予想する5か月ぶり4万円台回復の“その先”
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8c755682f55e4ac85b2a9eb9cb4cfa60fe46b0f213530fec872e2a618c2ce7ec.jpg> 外相 合成麻薬の密輸「許さない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543670>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d19e9f96a75ba7def37f2f31c420ac4f8babe167c1bbedfa9ae1b7874da67d7.jpg> 30mスライダー これまでに4人骨折
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cb51c5e5f86c2f3d4adf3a713acec6712787f1b30488879867d35db8c325c2f6.jpg> プール授業しびれ 原因は圧迫痕か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cf6449b042ab8b967995b75fb1174316cfa10f37d52fa89e5b7305d174bb4708.jpg> 不適切動画 109シネマズ運営謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6543682>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> サントリーHD フジCM出稿再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 20:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 21:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
