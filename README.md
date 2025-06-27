@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42100612f19cb8c220d01b4606e4bbec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ca60246e234dffd20cc0943dd5d8040.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5476eca5d7512bbf56952b12550408cb3b8de58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000030-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【二度の“メンバー不祥事”】TOKIO解散発表で城島・松岡に寄せられる同情…グループ愛した「二人が不憫」の声殺到
+      <a href=https://news.yahoo.co.jp/articles/f5d5552512db7afed5bc2e6ce3e2c29e57a2baa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01781792-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 最多の大谷翔平だけじゃない…吹き荒れる“ド軍旋風”　示したスター軍団の力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39cd871761c33f97ad33e9cedf01b6cbf58ff74e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000084-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1332&ch=1332&exp=10800&fmt=webp> 大谷翔平のレッドカーペット観覧まだ間に合う！ＪＴＢが現地発着オールスター観戦ツアー発売中　２人１室利用の場合で１人１１０万円　日本発着は売り切れも
+      <a href=https://news.yahoo.co.jp/articles/e5476eca5d7512bbf56952b12550408cb3b8de58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000030-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【二度の“メンバー不祥事”】TOKIO解散発表で城島・松岡に寄せられる同情…グループ愛した「二人が不憫」の声殺到
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df0f028dbf59b89d6a11b8e8bff650e504ca713d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000065-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=845&ch=845&exp=10800&fmt=webp> 署地域課警察官2人書類送検　勤務中に現金窃盗容疑　警視庁
+      <a href=https://news.yahoo.co.jp/articles/7a73a706150c1cf3dbcadb158eb72c47f0d65f6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10191511-egolf-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 女子ゴルフ同日2人目の“ホールインワン”達成!! 賞金1000万円＆600万円の獲得権利 ＜アース・モンダミンカップ＞
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4b5ea3342404cf3c63b359017385d36b990608564bfc34c03e2447e390bc5cf3.jpg> 米 相互関税の停止延長の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6543646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6e702d47f14ff2bdfdebfda54ee6d333580e2fa55f1e3d5cbf2c744101dcdb1a.jpg> 生活保護費の減額は違法 最高裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6b0d257aa1599b927d59d44a117938510a4ee4cc5f593d3d26515a837f13fbb6.jpg> EUのウナギ規制案 小泉氏は遺憾
+      <a href=https://news.yahoo.co.jp/pickup/6543645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/48a3129a8cadb4449f0bf2ab8cd1093cb5b5882df180b7c1d1a434e771c17fc0.jpg> 北海道で猛烈な雨 1時間に120mm
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/411d8ceee5186f1f12068819f39f07a7a71a84e68601f85e6f47b6fb0549aae8.jpg> 与野党 SNS偽情報に注意呼びかけ
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3c6ff2647967f4dd201bce95483a0cc4bbf175b11dfaed1ce8286458cdf2b359.jpg> パンダ4頭の公開最終日 Xの写真
+      <a href=https://news.yahoo.co.jp/pickup/6543644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b8f04041e980ad48871a9a1b7b0c998c778e55f99b848b1bc7b37d8cf0b77b22.jpg> 青柳晃洋 3Aから2Aに降格
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/423ebb67434a09c45bb4f8bdc368904e1b03c23851559755dd45aa9d72a70cce.jpg> 浦和レディースに激震 5人が離脱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/7112330376a1db83584074559583ffcfcf996e9cbca12efa59ec74d297c32d9e.jpg> 異例 中日・福がヘアドネーション
+      <a href=https://news.yahoo.co.jp/pickup/6543647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/fd6a71703860cb1e31ed469cc797633489b80e9cc849ee5c98d958c57bf81842.jpg> 小野祐夢ホールインワン 1000万円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 15:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 15:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
