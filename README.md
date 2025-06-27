@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c3ec9854eaa8bfe86480de0d1bb2328.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dad503644741fcd343dc1a59b3d25864.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af75d97983e15b147f09ff42b73f38212adeaedc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　球宴選出御礼弾！記録ずくめの最多得票　DH部門で5年連続ファン投票選出は史上初
+      <a href=https://news.yahoo.co.jp/articles/8c7562a6f53a13fc7f367597dc8eb55ea135a659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008763-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 国分さんに “何があったのかは聞かない”  “縁は切れない。切れたらブッ飛ばせないでしょう?” 　「TOKIO愛」は “5人が5人とも持っている”
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67ee7b2f53c32a8966d14ba6c873370ff5504b9a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36272269-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 【阪神】高寺望夢「申し訳ない」村上頌樹「悔しい」藤川監督は「新たに…」リーグの貯金独占
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477eadf58dac18776c992ae256943d0bd30c1eae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008760-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 “株式会社TOKIOは廃業”  “まだ人生は続く。どうか見守って頂きたい”
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 03:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 03:41:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
