@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec95555e1503d59b74ab6230618cf428.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d8d5c39d685986a230b189df3b4d28c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/901bc404bb56366bcc96cd51509618c8b3b94b6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00993904-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子児童盗撮した名古屋市立の小学校教師の男　「学校のカメラで盗撮した」
+      <a href=https://news.yahoo.co.jp/articles/f1298daadc2735346295a983ab4e7740a1075cf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00097613-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 事務所の「手腕の差」が露骨に出た…「一発アウト」のTOKIO国分と、「復活」が報じられた松本人志の決定的違い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56e67bc97c76009429dc584184ebf7be8e65e58a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000033-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 松岡昌宏、解散後初めて激白〝またかTOKIO〟に限界　コンプラ違反の内容「城島も自分も知りません」
+      <a href=https://news.yahoo.co.jp/articles/901bc404bb56366bcc96cd51509618c8b3b94b6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00993904-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子児童盗撮した名古屋市立の小学校教師の男　「学校のカメラで盗撮した」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/478ad7ca0e479abcba34d074191627583388a826f14e864c04ad23e150a4b771.jpg> 関東から西 35℃以上続出の予想
+      <a href=https://news.yahoo.co.jp/pickup/6543707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c13ffdb45e3155e979d414d0de53f21df11b1dda67593fe7358261cac356e005.jpg> 飲酒逆走か 危険運転致死疑い逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c13ffdb45e3155e979d414d0de53f21df11b1dda67593fe7358261cac356e005.jpg> 飲酒逆走か 危険運転致死疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8cf4137e31608e1cbe2a3d4c5df4469b94f28cd64168f64b463a19aa30510f7d.jpg> 水道管が破裂 鎌倉市広域で断水
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b94bca477ae0ec88af1aeed3605fc802372477dec77c91ea09c7fa13d79a26b8.jpg> 投稿巡り 元大王製紙会長賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6543714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/d16ce83d1755647610b079bc32e64410a95689f849df5622aff0eed34d419646.jpg> 教師の盗撮コミュニティ 識者衝撃
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 08:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 08:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
