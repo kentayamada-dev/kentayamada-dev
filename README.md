@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c13d927b9cfc0e270d410dd1d7922677.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/273b7f355b0feb58d212f13fc8c84cff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74929a15c63010f8ad8355c61a47f557c7ee1dc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000183-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 松岡昌宏　国分太一は「奈落の底にいる状態」一問一答「城島と、自分が、これ以上ＴＯＫＩＯを名乗るわけにはいかない」
+      <a href=https://news.yahoo.co.jp/articles/c9f9011bc692b24ddde9a39a149bcccaa34e9fc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-06271363-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=699&ch=699&exp=10800&fmt=webp> 【阪神】通算０犠打の森下翔太が執念のバント→ファウルも２０打席ぶり安打先取点呼び込む「もっとやれる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1099176905aec48a9432c6bcfc66a1d4f3c2c151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-04951121-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 生活保護費の引き下げは「違法」減額処分を取り消し、国の賠償責任は認めず　最高裁
+      <a href=https://news.yahoo.co.jp/articles/63bfdee045558cd8a6159a5f794eb33c5db1609f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01453634-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】松岡昌宏　「TOKIOというかたちは終わりました。本当に申し訳ございません」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f37b9eab1335341dc9e15a6f260cc21a5da1e3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-01864338-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか、徳島でワナ見に行った2人死亡　山梨で女性かまれケガ　全国でも被害相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/293ec857772330ab113c9ed58f2412003dfbca2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-90023125-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手が5年連続オールスター出場へ　自ら祝う28号ホームラン
+      <a href=https://news.yahoo.co.jp/articles/17f93ea96441c6236fa66076ea79837d457cdd12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 28号ソロでドジャース4連勝に貢献！ロバーツ監督「本当に大きかった」
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9d2b3250bf0f7c0a44feb30534833a39f8ec6c93281c1d7e99920062b099b61e.jpg> 「燃えよドラゴン」作曲家 死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543693>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/50854ee06b831728615045fedc5cf9d59de99eead47f1e993a1d2233d8d38c70.jpg> 井ノ原氏CMO退任 タレント専念
       </a>
@@ -442,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2f2151188269508d3eae6af886c1a478708c86ce93f27df4a7898e7be3d6bd73.jpg> 琵琶湖の名物魚 実は新種だった
+      <a href=https://news.yahoo.co.jp/pickup/6543697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/7b249a8aaa1cb3bb3b3d70737211844050cf316003725339a6df8df3649c52c0.jpg> 丸刈りのSB山川穂高 10号満塁弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e3273a2bfd71e4fac37a1bd6f07dca53e6fc5629695e453beb91b26570e3dada.jpg> 日ハム伊藤 死球当て近寄り即謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1fcacf53775cd6d78f9ee8c23870071be22462031d0e6c03408edae3bd1612bc.jpg> 松岡 国分コンプラ違反内容知らず
+      <a href=https://news.yahoo.co.jp/pickup/6543698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/a2bcc288bbc033497625199446aa986d05ecc688f872a755adc430af42739f55.jpg> 松岡昌宏 国分太一は「奈落の底」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 22:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 23:01:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
