@@ -1,10 +1,27 @@
 {
-  "service": "github-profile",
-  "dockerComposeFile": [
-    "../docker-compose.yml"
+  "build": {
+    "context": "..",
+    "dockerfile": "./Dockerfile",
+    "target": "dev",
+    "args": {
+      "USER_NAME": "dev",
+      "UID": "2000"
+    }
+  },
+  "runArgs": [
+    "--env-file",
+    ".devcontainer/.env",
+    "--name",
+    "github-profile",
+    "--hostname",
+    "github-profile"
   ],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/home/dev/workspaces,type=bind,consistency=cached",
   "workspaceFolder": "/home/dev/workspaces/github-profile",
-  "postCreateCommand": "python3 -m venv ./.venv && . ./.venv/bin/activate && make install",
+  "mounts": [
+    "source=${containerWorkspaceFolderBasename}-venv,target=/home/dev/workspaces/github-profile/.venv,type=volume"
+  ],
+  "postCreateCommand": "python3 -m venv ./.venv && . ./.venv/bin/activate",
   "customizations": {
     "vscode": {
       "settings": {

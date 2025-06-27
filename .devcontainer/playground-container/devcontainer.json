@@ -1,0 +1,28 @@
+{
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+  "workspaceMount": "destination=/playground,type=tmpfs",
+  "workspaceFolder": "/playground",
+  "runArgs": [
+    "--name",
+    "playground",
+    "--hostname",
+    "playground"
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "extensions": [
+        "mhutchie.git-graph",
+        "Exelord.git-commits",
+        "esbenp.prettier-vscode",
+        "kentayamada.vscode-statusbar-commands",
+        "kentayamada.vscode-gpt-project-loader",
+        "EchoAPI.echoapi-for-vscode"
+      ]
+    }
+  }
+}

@@ -1,7 +1,26 @@
 {
-  "service": "email",
-  "dockerComposeFile": [
-    "../docker-compose.yml"
+  "build": {
+    "context": "..",
+    "dockerfile": "./Dockerfile",
+    "target": "dev",
+    "args": {
+      "USER_NAME": "dev",
+      "UID": "2000",
+      "NODE_VERSION": "22.14.0",
+      "PNPM_VERSION": "9.15.5"
+    }
+  },
+  "runArgs": [
+    "--env-file",
+    ".devcontainer/.env",
+    "--name",
+    "email",
+    "--hostname",
+    "email"
+  ],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/home/dev/workspaces,type=bind,consistency=cached",
+  "mounts": [
+    "source=email-node_modules,target=/home/dev/workspaces/email/node_modules,type=volume"
   ],
   "workspaceFolder": "/home/dev/workspaces/email",
   "customizations": {
