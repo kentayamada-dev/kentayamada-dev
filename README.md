@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9835189353e22cd22e4396865b22236f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45a2b715bcca7c0f75b4f2f85ccc290e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc19bcc985065d919e622ad016588e62ca19a688>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36271800-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 【フィギュア】来季引退の樋口新葉「自分の力で五輪枠取った。使いたい」今季引退考えも再燃
+      <a href=https://news.yahoo.co.jp/articles/a60c3fbe47397af02de4d2f078bc6f9d7f2edbc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-36271738-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1192&ch=1192&exp=10800&fmt=webp> 松岡昌宏が沈黙の国分太一を「奈落の底」とおもんぱかる　TOKIO内いじめ「全くない」報道否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31eb3e1a249f903c2fbc9d0efdcb0663c6383ac4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000050-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 阪神・村上　得意神宮でまさか2被弾　高寺失策でサヨナラ負けも藤川監督「また顔を上げて戦ってくれれば」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 05:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 05:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
