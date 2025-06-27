@@ -13,9 +13,9 @@ services:
     command: sleep infinity
     hostname: portfolio
     volumes:
-      - type: volume
+      - type: bind
         source: ../portfolio
-        target: /data
+        target: /portfolio
     environment:
       NEXTJS_PORT: ${NEXTJS_PORT}
       STORYBOOK_PORT: ${STORYBOOK_PORT}
