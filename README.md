@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23994c310f985448bd083e6cf9a246ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7f06e361bc272ebbbf2e273c30c11ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1f173ef0b01e2f7ee2d88271a4bbd3cbaadd24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22006079-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> MLB球宴ファン投票、フリーマンらド軍野手が全カテゴリーで最終投票へ　大谷翔平はナ・リーグ全体トップで出場決める
+      <a href=https://news.yahoo.co.jp/articles/7b1754c36e2bb654b6030b6c7dc020d7de990029>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270195-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1007&ch=1007&exp=10800&fmt=webp> ドジャース大谷翔平球宴ファン投票でリーグ最多　ロバーツ監督「ファンにとっても楽しみなこと」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/625a445e94527aa3abd521e4b33fa88fbcc1ad7c3fc0dbb4d5b47f67935ea2e4.jpg> イラン 米と協議再開に前向き姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6543610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/08b94ae6871ef28d30ae7647bac1972060ccce8afea98cf90191631b6dcbc16c.jpg> 公明 参院選公約に「2万円給付」
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543605>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/0ea479e4d9e41f843e57bac03b6058a4a6f7c6d8453cf587d86b9ccbb10fea84.jpg> NYダウ終値 4カ月ぶり高値
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/f47db4fcc1d14e3ca988882f85058f049516d05641f635a04fa3ba379079e210.jpg> 伊PFAS汚染 邦人2人に拘禁刑16年
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/523ce8cdf2b68e30575dd8fa7e904c490d32fbcaf06c8a7772aed50297460ece.jpg> 大谷翔平 5年連続で球宴出場決定
+      <a href=https://news.yahoo.co.jp/pickup/6543606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ff2770312427cfba4cbcf911086f043d5fe4317ae90dd7f4f8ee9655a782d3b0.jpg> Windows ブルースクリーンを黒へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2ea13886d971b85a437cafea276ab85df3fe4ad1005774481f18869247914339.jpg> 大谷翔平が28号 リーグトップ独走
+      <a href=https://news.yahoo.co.jp/pickup/6543609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/611767317f5bc19c14ffef6b296041ac3065f8a1ca91c35a4123bf2618e1c834.jpg> 日本ハム2軍本拠地 北海道移転へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/523ce8cdf2b68e30575dd8fa7e904c490d32fbcaf06c8a7772aed50297460ece.jpg> 大谷翔平 5年連続で球宴出場決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 08:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 09:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
