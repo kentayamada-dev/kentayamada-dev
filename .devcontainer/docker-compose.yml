@@ -28,6 +28,7 @@ services:
   github-profile:
     build:
       dockerfile: ./github-profile-container/Dockerfile
+      target: dev
       args:
         USER_NAME: ${USER_NAME}
         UID: ${UID}

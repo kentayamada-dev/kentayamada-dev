@@ -30,17 +30,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
-      - name: README.md
+      - name: Update README.md
         run: |
-          docker compose --file ./.devcontainer/docker-compose.yml up github-profile --detach
-          docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/github-profile --user root github-profile bash -c "
-            set -eu
-
-            python3 -m venv ./.venv
-            . ./.venv/bin/activate
-            make install
-            CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} DEBUG=${{ github.event.inputs.debug }} GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} make run
-          "
+          docker build \
+            --build-arg CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} \
+            --build-arg DEBUG=${{ github.event.inputs.debug }} \
+            --build-arg GYAZO_ACCESS_TOKEN=${{ secrets.GYAZO_ACCESS_TOKEN }} \
+            --target prod --file .devcontainer/github-profile-container/Dockerfile .
 
       - name: Commit README.md
         uses: EndBug/add-and-commit@v9.1.4
