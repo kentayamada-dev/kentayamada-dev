@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/056a5828e3863f208a4834bcaf1c2332.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a483ca3031caf2303317902484b2d16f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ba74be1e0c50bf981ece814d55e387b7a360cf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000060-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【TOKIO解散も『DASH』は存続】“番組への貢献度”指摘されていた国分太一…“もはやTOKIOの番組ではない”の声も
+      <a href=https://news.yahoo.co.jp/articles/2ea07d3097d296b46bfea42088559bfe8f4f68c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000142-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 元ＴＯＫＩＯ松岡「縁が切れると、ぶっ飛ばせないでしょう」国分太一への思いを吐露「今、何を言っても彼の耳には伝わらないと思う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0fce2a3a4263885b9b516630fd6a7e6e436cf4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000277-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=255&ch=255&exp=10800&fmt=webp> 松岡昌宏　ファンに謝罪「申し訳ない」「TOKIOという形は終わりました」　発表後初の取材対応
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7f166efa659814877e992936072ce652b34051c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000078-ann-000-3-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか　男性2人死亡　徳島市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000078-ann-000-4-thumb.jpg?exp=10800&fmt=webp> イノシシに襲われたか　男性2人死亡　徳島市
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47f76a676bfd28ef4811a732455aad209e7fe9ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00259560-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 「株価は年末までに4万2千円まで上がる」　SBI証券の投資情報部長が予想する5か月ぶり4万円台回復の“その先”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b48005e44188fc002f14d609f55130d8508e761>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008171-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「2歳児も含む3人がすねや尾てい骨を骨折していた」目玉遊具で事故相次ぐ　北九州市皿倉山のスライダー
       </a>
     </td>
   </tr>
@@ -402,32 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4b030c31fd3070e183f5646b2a00e7ef05a39b825a207ac2f8e1a91c74b57980.jpg> 生活保護費判決 厚労相判断に過誤
+      <a href=https://news.yahoo.co.jp/pickup/6543665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d86a79867432aa7891192835ad8a8be9fa95fd56384fffcc18b25e70395f052.jpg> 週末各地で35℃超予想 熱中症注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3bd4d602a5b1c2bfe91a91d87cf0c8561137f50b3c3b2b3e619ef406bc4d241b.jpg> 7月電気料金 大手10社値下がりへ
+      <a href=https://news.yahoo.co.jp/pickup/6543669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/864404263d60abe5cc9e907571d6ebd768640b7b3e449ea3898bd69898a6902e.jpg> 母が妊娠中に被爆 秘密を知り子涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9fad28aa7e18c6fbff8655a9fa8a6a90eff67edf299386d511a3cc6d4db5d7b4.jpg> 在ラオス大使館 邦人の買春に警告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/56817d5cc171ea2caa08ce0d8d43a3428ad3c86b2cfc5ca39f534c43f903f799.jpg> 元救急車 最低10万円から市が売却
+      <a href=https://news.yahoo.co.jp/pickup/6543672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/467294b0e3290ac7185f1b7683a0874e5186bf54bd10b54d31a6d3107da244fb.jpg> 女児盗撮 学校のデジカメで撮影か
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543660>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3041daec45e275d5ddd438ab1cbb6c73ec4b647a50233176746ec0e3d27f0267.jpg> STARTO新社長 元フジ鈴木克明氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/8d19e9f96a75ba7def37f2f31c420ac4f8babe167c1bbedfa9ae1b7874da67d7.jpg> 30mスライダー これまでに4人骨折
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543607>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
+      <a href=https://news.yahoo.co.jp/pickup/6543671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/1f1f7d9ed205d8064627d7f66160e68a86d610b4f33a900c273047be1354756a.jpg> 7453文字アニメセリフ ギネス認定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 19:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 19:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
