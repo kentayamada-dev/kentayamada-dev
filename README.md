@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/792ffb870a2b8097f3b060a83d42c697.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41d6592b6956f56f58bfba460afc7e97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b12deba79f0e1db2c4a589cdd4b302993c002d91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00066756-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 生活保護基準の引き下げは「違法」最高裁が初の統一判断　減額決定の取り消し命じる判決　今後の国の対応が焦点
+      <a href=https://news.yahoo.co.jp/articles/566aa1a4427d6b0681417c7ea96c1fffb94fc281>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-07245571-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=455&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 福岡厚労大臣「判決内容を十分精査し適切に対応」　生活保護費引き下げ取り消し訴訟 最高裁判決受け
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee0e88f0bea1ce7762141007043a68892cf7ff86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000045-flash-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『鉄腕DASH』TOKIO解散でも、日テレは起用継続の“執着”に不満続出…局が手放せない正月特番にも暗雲が
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000045-flash-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『鉄腕DASH』TOKIO解散でも、日テレは起用継続の“執着”に不満続出…局が手放せない正月特番にも暗雲が
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/45e687ebc99593665a365ccc595bdf0abf40184b95d48268c1d58a0b7acf9bcc.jpg> 日経平均4万円台回復 約5カ月ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6543663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4b030c31fd3070e183f5646b2a00e7ef05a39b825a207ac2f8e1a91c74b57980.jpg> 生活保護費判決 厚労相判断に過誤
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/639843d96532b15006f162601f64e77b97ea93a12dbc4bc2760022a8c89abc54.jpg> 生活保護費判決 厚労相判断に過誤
+      <a href=https://news.yahoo.co.jp/pickup/6543659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3bd4d602a5b1c2bfe91a91d87cf0c8561137f50b3c3b2b3e619ef406bc4d241b.jpg> 7月電気料金 大手10社値下がりへ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/d526917412474906d999cba69ed3645d3b678480abf876b468c3f17bb861961e.jpg> 教師が盗撮共有疑い 市教委が謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543654>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e37de97d1242dce2f1807ca4a389ad3efcb9a5f74672f6ee1ce8d4b0024bfe44.jpg> 早すぎる梅雨明け コメ農家に打撃
       </a>
@@ -434,24 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543655>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02266092/title-1751005785557.jpeg?exp=10800> フジCMいつ戻る 各社「様子見」
+      <a href=https://news.yahoo.co.jp/pickup/6543664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/56817d5cc171ea2caa08ce0d8d43a3428ad3c86b2cfc5ca39f534c43f903f799.jpg> 元救急車 最低10万円から市が売却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/6028d966a82be2cd741c42ab595e138a7d53a9e59488c474d17bbee2fe09f8ab.jpg> 井ノ原快彦氏がCMO退任 STARTO
+      <a href=https://news.yahoo.co.jp/pickup/6543660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/3041daec45e275d5ddd438ab1cbb6c73ec4b647a50233176746ec0e3d27f0267.jpg> STARTO新社長 元フジ鈴木克明氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/b4ce72a0a128ad2fd33b768ad175eed70f26fde90576d5cdf53b5283ba7325b5.jpg> 北口榛花 けがで日本選手権見送り
+      <a href=https://news.yahoo.co.jp/pickup/6543661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cf6449b042ab8b967995b75fb1174316cfa10f37d52fa89e5b7305d174bb4708.jpg> 不適切動画 109シネマズ運営謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543607>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02265120/title-1750949150098.jpeg?exp=10800> ダウンタウン番組 最終回に温度差
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 18:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 18:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
