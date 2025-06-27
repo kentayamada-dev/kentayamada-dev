@@ -27,7 +27,7 @@ jobs:
 
       - name: Deploy to vercel
         run: |
-          docker build --target prod .devcontainer/portfolio-container/Dockerfile
+          docker build --target prod -f .devcontainer/portfolio-container/Dockerfile .
 
       - name: Delete previous workflow
         run: |
