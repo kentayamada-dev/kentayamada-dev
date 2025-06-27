@@ -2,7 +2,7 @@ services:
   portfolio:
     build:
       dockerfile: ./portfolio-container/Dockerfile
-      target: dev
+      target: prod
       args:
         NODE_VERSION: ${NODE_VERSION}
         PNPM_VERSION: ${PNPM_VERSION}
