@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2af02d5a32824db471aa60476f45a3fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7059e1b5e72223a60ed6f55a67cef80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbf5c2b658ff821d645b2b769434c8126a329de4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349943-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　球宴出場でファンに感謝も…韓国メディア「大谷は２位」「スターの中のスターはジャッジ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349943-tospoweb-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　球宴出場でファンに感謝も…韓国メディア「大谷は２位」「スターの中のスターはジャッジ」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb157c59d18118dd761655d54fe9ae66c2bc098b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000221-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 日テレHD株主総会　国分太一巡る質問相次ぐ「何をしたんだ？」　回答は「刑事事件になる事案ではない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000221-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 日テレHD株主総会　国分太一巡る質問相次ぐ「何をしたんだ？」　回答は「刑事事件になる事案ではない」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e07186b1f991ed01b0e8768e54efa52add91eab847425c0a5e342ed33a81032c.jpg> 女児盗撮 文科相「怒り覚える」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543652>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/5879c6aa0e50c7e5ffae890243bc75ba0a26950ca10b3f5c1a5e6175283f374a.jpg> 森永製菓元社長 松崎昭雄さん死去
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/cb51c5e5f86c2f3d4adf3a713acec6712787f1b30488879867d35db8c325c2f6.jpg> プール授業しびれ 原因は圧迫痕か
+      <a href=https://news.yahoo.co.jp/pickup/6543656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/c5cf1e56decf9cd1a4ac04c900498ed1b93f01a19550c2b93a82e89b7fca4eaf.jpg> 水路の水門に赤ちゃんの遺体 福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e37de97d1242dce2f1807ca4a389ad3efcb9a5f74672f6ee1ce8d4b0024bfe44.jpg> 早すぎる梅雨明け コメ農家に打撃
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 16:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 17:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
