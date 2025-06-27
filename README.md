@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d91c9b0ed539d73162f59ebf60db509f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02cb01318d5a180853d4de6d307a7995.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41066c820b36d13154bd99c4f6c278467d5244ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270292-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> オールスター戦ファン２次投票進出ファイナリストはドジャースから最多７人　マンシー、パヘスも
+      <a href=https://news.yahoo.co.jp/articles/5bfaedc52a6a4c4f670f19bc06b7f4793e10ac6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00349912-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平２年ぶりリーグ最多得票でオールスター戦選出へ　ＭＬＢ最多はジャッジ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c9453a57007cbcb42473c0b62b102186a7f241b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185563-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 座間市男女9人殺害事件 白石死刑囚の死刑執行
+      <a href=https://news.yahoo.co.jp/articles/f6bc86d292710094b231a794f1fcd6725ac7a9fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 対ロシア制裁延長で合意　追加措置は見送り　EU首脳会議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3b1624e7799772d2087177f9ddd21bc888a47b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-00000061-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=361&cw=712&ch=712&exp=10800&fmt=webp> 座間9人殺害の白石隆浩死刑囚、死刑執行　「自殺願望」で女性ら誘い出す
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
+      <a href=https://news.yahoo.co.jp/pickup/6543611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/9909203c85640a4eb76f29e5986b058df01c6195c2672b261ff12521001c1f99.jpg> 生活保護の減額訴訟 統一判断へ
       </a>
     </td>
   </tr>
@@ -403,7 +411,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/e9d7b76dd6cea934e9c62f900490f95248cbcc0ccb79c0427292f0e3bf0eee7d.jpg> 日経平均一時4万円台 約5カ月ぶり
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/f74e9b1b340dfa9b398e8ad9e8838611e2ffaf80ad445eae49d84080d3f487b8.jpg> 日経平均一時4万円台 約5カ月ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
       </a>
     </td>
   </tr>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/4afa95a728a8abdf4ce4836bd2265fef5851e6621349964c092a9b8c411b4f4d.jpg> 2人死亡 イノシシに襲われたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/90efbec1e6751e6ed79303427850493e61e127a93a29f9edd79302b9930a2b1f.jpg> 教師が盗撮共有疑い 体育を中止
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2a41c3892cf2058a2d3515d09f6bb3478fbf9ca6929b4c6808ff47d3c630b75d.jpg> 市長に学歴詐称疑惑 百条委設置へ
+      <a href=https://news.yahoo.co.jp/pickup/6543612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/54b5d247afda6da062db9126c075e9a8acd71913828aeb266b5d2b625ee86f05.jpg> ブラッド・ピット氏 自宅に空き巣
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 10:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 10:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
