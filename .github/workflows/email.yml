@@ -12,22 +12,20 @@ concurrency:
 
 jobs:
   Deployment:
-    timeout-minutes: 10
+    timeout-minutes: 5
     runs-on: ubuntu-24.04-arm
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
-      - name: Deploy to vercel
+      - name: Deploy to cloudflare
         run: |
-          docker compose --file ./.devcontainer/docker-compose.yml up email --detach
-          docker compose --file ./.devcontainer/docker-compose.yml exec --workdir /home/dev/workspaces/email --user root email bash -c "
-            set -eu
-
-            pnpm install
-            CLOUDFLARE_API_TOKEN=${{ secrets.CLOUDFLARE_API_TOKEN }} pnpm run deploy
-          "
+          docker build \
+            --build-arg NODE_VERSION=$(grep NODE_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --build-arg PNPM_VERSION=$(grep PNPM_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --build-arg CLOUDFLARE_API_TOKEN=${{ secrets.CLOUDFLARE_API_TOKEN }} \
+            --target prod --file .devcontainer/email-container/Dockerfile .
 
       - name: Delete previous workflow
         run: |

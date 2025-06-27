@@ -49,6 +49,7 @@ services:
   email:
     build:
       dockerfile: ./email-container/Dockerfile
+      target: dev
       args:
         NODE_VERSION: ${NODE_VERSION}
         PNPM_VERSION: ${PNPM_VERSION}
