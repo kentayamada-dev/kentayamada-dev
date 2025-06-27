@@ -40,7 +40,7 @@ ARG PNPM_VERSION
 
 WORKDIR /app
 
-COPY ../../portfolio /app
+COPY ./portfolio /app
 
 RUN apt update && apt --yes install --no-install-recommends ca-certificates curl \
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/bash bash - \
