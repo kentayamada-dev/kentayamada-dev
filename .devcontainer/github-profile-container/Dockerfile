@@ -28,4 +28,4 @@ COPY ./github-profile /app
 
 RUN apt update && apt --yes install --no-install-recommends python3-venv make chromium \
   && python3 -m venv ./.venv && . ./.venv/bin/activate \
-  && make install && make run && ls -la
+  && make install && make run
