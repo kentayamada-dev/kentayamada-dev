@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dad503644741fcd343dc1a59b3d25864.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9bdd30d83a3dcae75ef8dc6880f0e9ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c7562a6f53a13fc7f367597dc8eb55ea135a659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-22008763-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【松岡昌宏】TOKIO解散 国分さんに “何があったのかは聞かない”  “縁は切れない。切れたらブッ飛ばせないでしょう?” 　「TOKIO愛」は “5人が5人とも持っている”
+      <a href=https://news.yahoo.co.jp/articles/9d7b3f9f17f96555afed3156bd3f7f0463665bb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000051-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=969&ch=969&exp=10800&fmt=webp> 松岡昌宏　国分と「縁は切れない。縁が切れたらブッ飛ばせない」　TOKIO解散後、初めて心境を語る
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 03:41:34 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 04:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
