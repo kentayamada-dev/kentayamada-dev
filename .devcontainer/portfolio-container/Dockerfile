@@ -37,6 +37,7 @@ FROM debian:bookworm-slim AS prod
 
 ARG NODE_VERSION
 ARG PNPM_VERSION
+ARG VERCEL_TOKEN
 
 WORKDIR /app
 
@@ -46,7 +47,7 @@ RUN apt update && apt --yes install --no-install-recommends ca-certificates curl
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/bash bash - \
   && . /root/.bashrc \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir /root/.pnpm-store \
-  && pnpm dlx vercel link --yes --project portfolio --token=${{ secrets.VERCEL_TOKEN }} --cwd ./ \
-  && pnpm dlx vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }} \
-  && pnpm dlx vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} \
-  && pnpm dlx vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
+  && pnpm dlx vercel link --yes --project portfolio --token=$VERCEL_TOKEN --cwd ./ \
+  && pnpm dlx vercel pull --yes --environment=production --token=$VERCEL_TOKEN \
+  && pnpm dlx vercel build --prod --token=$VERCEL_TOKEN \
+  && pnpm dlx vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
