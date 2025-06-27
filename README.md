@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/5nPgMWozIgo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCc4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa2991b0882aed2966cd2d5c20fa57a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d91c9b0ed539d73162f59ebf60db509f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caded0add02b46e4900ff0145fd2e6a5617f18d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270237-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ジャッジが両リーグ最多得票でスタメン出場決定　大谷翔平を上回る400万超え
+      <a href=https://news.yahoo.co.jp/articles/41066c820b36d13154bd99c4f6c278467d5244ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-36270292-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> オールスター戦ファン２次投票進出ファイナリストはドジャースから最多７人　マンシー、パヘスも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4772153c64886898eb4be69edf59ceb022282122>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185555-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 俳優ブラッド・ピットさんの自宅に空き巣
+      <a href=https://news.yahoo.co.jp/articles/2c9453a57007cbcb42473c0b62b102186a7f241b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-10185563-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 座間市男女9人殺害事件 白石死刑囚の死刑執行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bddb6a7a3336f26c8e9057aaccfca6a3363ee8ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250627-02101646-sspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> 国分太一降板後、レギュラー番組はどうなるのか。『男子ごはん』『世界くらべてみたら』は継続か？『ザ!鉄腕!DASH!!』は…
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/bb43b5d8d4e1b65e5284abd166db033fc67890d4bd38946564be5eb081f22598.jpg> 座間9人殺害 白石死刑囚の刑執行
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543613>
@@ -410,24 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/90efbec1e6751e6ed79303427850493e61e127a93a29f9edd79302b9930a2b1f.jpg> 教師が盗撮共有疑い 体育を中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543598>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/2a41c3892cf2058a2d3515d09f6bb3478fbf9ca6929b4c6808ff47d3c630b75d.jpg> 市長に学歴詐称疑惑 百条委設置へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/33ee9a6cdc8d47c5bae5c709cea75b45368f8df16899ceb2ac1c3fe7c83a7e35.jpg> 白亜紀の海はイカだらけ 研究発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/27/ff2770312427cfba4cbcf911086f043d5fe4317ae90dd7f4f8ee9655a782d3b0.jpg> Windows ブルースクリーンを黒へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/27 09:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/06/27 10:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
