@@ -52,7 +52,7 @@ async def main() -> None:
     split_current_datetime = current_datetime.split("_")
     updated_date = f"{split_current_datetime[0].replace('-', '/')} {split_current_datetime[1].replace('-', ':')}"
 
-    Path("../README.md").write_text(
+    Path("./generated/README.md").write_text(
         template.render(
             satellite_image_path=satellite_result.result(),
             weather=data,
