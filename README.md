@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d8d5c39d685986a230b189df3b4d28c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a941e7a2c67de2fb714cd0ab89afedf0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/98f69aa5e40957cb1fc5a454fd2043bc8c7089c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00350003-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】今井達也「緊急降板」の重大さ　本拠地の利を得られぬ〝サウナドーム〟抜本解決必要
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00350003-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】今井達也「緊急降板」の重大さ　本拠地の利を得られぬ〝サウナドーム〟抜本解決必要
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/55455d6a3156f297e57efc76c5b1572408b4706c580cf4cd6242899fb95eb6a4.jpg> 小池知事 参院選で自公支援を示唆
+      <a href=https://news.yahoo.co.jp/pickup/6543717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/e7bc1daaf92a788cc2d3799946a7b84f1110d4ab3df4b8966ec89143c6aade74.jpg> プーチン氏 米露首脳会談に前向き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c13ffdb45e3155e979d414d0de53f21df11b1dda67593fe7358261cac356e005.jpg> 飲酒逆走か 危険運転致死疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/cc4ac8da3a77748ee37458577bdd1135cb4df210b7c8cedfea682d4ed1e54224.jpg> 水門衝突4人死亡「死無駄にせず」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/907bbcd38314b75d7188fce221519ae3d8fad047afd7a6d808eca92738766c0a.jpg> 小泉氏コメ政策 JA福井会長苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/d16ce83d1755647610b079bc32e64410a95689f849df5622aff0eed34d419646.jpg> 教師の盗撮コミュニティ 識者衝撃
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8ea006418282122b98f79fde48c1b24cedca98a20a9acebb4b69a07826032ad8.jpg> 池江璃花子 ロス五輪での引退決意
+      <a href=https://news.yahoo.co.jp/pickup/6543718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/93eb9bfd267ced7dd9784ee75abc5a374df0e69a59d6141bf582a736b2f45b1b.jpg> 死体の精子で人工授精 園の挑戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/e8b59a850c96b4aa32f989dbf71c4e8a7ec69784672a30ae7999aab8d6d5f4a5.jpg> 松岡昌宏 国分との今後の関係語る
+      <a href=https://news.yahoo.co.jp/pickup/6543710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/b827a796cb2f9aa6a84cc0a2dbd9ffab6ba826397c1a01e8aae15ecb7bf47476.jpg> 緊急降板 西武ドーム「暑さ」問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/dc2ff2309dbede44d0d0f791eec1157f7f25939a6beead72bf73588eb08a2da2.jpg> 島育ちのアナ 年収1000万円道のり
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 08:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 09:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
