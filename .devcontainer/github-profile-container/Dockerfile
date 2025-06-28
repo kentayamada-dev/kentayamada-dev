@@ -1,4 +1,6 @@
-FROM debian:bookworm-slim AS dev
+FROM debian:trixie-slim AS base
+
+FROM base AS dev
 
 ARG USER_NAME
 ARG UID
@@ -14,7 +16,7 @@ RUN chmod +x ./setup_user.sh && ./setup_user.sh $UID $USER_NAME $HOME \
 
 USER $USER_NAME
 
-FROM debian:bookworm-slim AS prod
+FROM base AS prod
 
 ARG CURRENT_DATETIME
 ARG DEBUG

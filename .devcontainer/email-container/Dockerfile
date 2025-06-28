@@ -1,4 +1,6 @@
-FROM debian:bookworm-slim AS dev
+FROM debian:trixie-slim AS base
+
+FROM base AS dev
 
 ARG USER_NAME
 ARG UID
@@ -21,7 +23,7 @@ RUN chmod +x ./install_dev_packages.sh && ./install_dev_packages.sh curl \
 
 USER $USER_NAME
 
-FROM debian:bookworm-slim AS prod
+FROM base AS prod
 
 ARG NODE_VERSION
 ARG PNPM_VERSION

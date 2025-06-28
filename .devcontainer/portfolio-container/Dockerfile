@@ -1,4 +1,6 @@
-FROM debian:bookworm-slim AS init
+FROM debian:trixie-slim AS base
+
+FROM base AS init
 
 ARG SYSTEM
 ARG MKCERT_VERSION
@@ -9,7 +11,7 @@ RUN apt update && apt --yes install --no-install-recommends curl ca-certificates
   && curl -fsSLo ./mkcert https://github.com/FiloSottile/mkcert/releases/download/v$MKCERT_VERSION/mkcert-v$MKCERT_VERSION-$SYSTEM \
   && chmod +x ./mkcert && ./mkcert -install && ./mkcert localhost
 
-FROM debian:bookworm-slim AS dev
+FROM base AS dev
 
 ARG USER_NAME
 ARG UID
@@ -33,7 +35,7 @@ RUN chmod +x ./install_dev_packages.sh && ./install_dev_packages.sh curl \
 
 USER $USER_NAME
 
-FROM debian:bookworm-slim AS prod
+FROM base AS prod
 
 ARG NODE_VERSION
 ARG PNPM_VERSION
