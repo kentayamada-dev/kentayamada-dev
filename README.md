@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cce8d3730b55737579624e0f99e5a9fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34a9d56a922ff34bbc703b5f3383bac6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac2a188f540cb785cf8e8effcbcbf2cbb3582128>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06281035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マンシー、１３号２ランは一時勝ち越しのバックスクリーン弾　直近４戦４発で１５打点目と覚醒
+      <a href=https://news.yahoo.co.jp/articles/14cf0f061c185498826a7e205522922ec90bbe0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-01782206-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、“2つの歴史”でNo.1に君臨　407発男を置き去り…MLBとド軍史に残す衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b103c60e0534b062effae73667cf120c212410f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-02033684-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 日本代表MF藤田譲瑠チマ、ブンデス挑戦が決定！　ザンクト・パウリ移籍が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa49ecde0c9e63835e6abf3c78679a82c0baf2b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 盗撮教師「学校備品のデジカメ使用」　保護者ら不安の声「誰が被害者か分からない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9bfeaabc78cfe383d6fc7455aa590f2fc8ad89d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07319319-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、イラン制裁緩和への検討中止を表明
       </a>
     </td>
   </tr>
@@ -366,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79361e2f5db423846edf657b83d5aa365cdcf612>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000041-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 中山秀征、ＴＯＫＩＯ解散「松岡君も断腸の思いだと思う」　取材対応の松岡昌宏気遣う「マスコミの前で話すのは覚悟あった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2868a6356ea4ac383c82abdad5b0817d7e0fc3e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00993913-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=560&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「学校のカメラで盗撮した」森山勇二容疑者（42）供述　女子児童の下着を盗撮し“SNSのグループ”に共有した疑いで逮捕　名古屋市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2da5ac23d0f7b8a87bb8362bc8893757a1acdc57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000031-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1472&ch=1472&exp=10800&fmt=webp> サッカー＝藤田譲瑠チマ、シントトロイデンからザンクトパウリへ完全移籍
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000041-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 中山秀征、ＴＯＫＩＯ解散「松岡君も断腸の思いだと思う」　取材対応の松岡昌宏気遣う「マスコミの前で話すのは覚悟あった」
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c2bf1a0eb2e126bb6cae6f53fe90a24d179b2bbacb0b49a2e84a2c7751924071.jpg> 大阪住宅でロシア女性死亡 殺人か
+      <a href=https://news.yahoo.co.jp/pickup/6543725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/621a70c1e623fa04ea53ed3a5feb26b8cec562ac1b8f0d960b6d899981c69d1d.jpg> 救助訓練での溺死 教訓生かされず
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/4f207e1199c9def7d00b866ce284d3e701a819a5e26b6df553015e1939313d03.jpg> 日本KFCの再上場検討 米ファンド
+      <a href=https://news.yahoo.co.jp/pickup/6543713>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02266815/title-1751063002685.jpeg?exp=10800> 「置き配」標準化検討 実情は
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 10:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 10:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
