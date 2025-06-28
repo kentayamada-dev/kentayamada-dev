@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a941e7a2c67de2fb714cd0ab89afedf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33f0e36d078df5ddcb9baa24141ce90e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2b1bf98dcad99e75d5d20280351cc1ab8106276>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000025-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、29号！今季8本目の先頭打者弾、4球目のチェンジアップを右中間へ、5年連続30本塁打に王手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2868a6356ea4ac383c82abdad5b0817d7e0fc3e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00993913-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=560&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「学校のカメラで盗撮した」森山勇二容疑者（42）供述　女子児童の下着を盗撮し“SNSのグループ”に共有した疑いで逮捕　名古屋市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2da5ac23d0f7b8a87bb8362bc8893757a1acdc57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000031-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1472&ch=1472&exp=10800&fmt=webp> サッカー＝藤田譲瑠チマ、シントトロイデンからザンクトパウリへ完全移籍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1298daadc2735346295a983ab4e7740a1075cf2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00097613-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 事務所の「手腕の差」が露骨に出た…「一発アウト」のTOKIO国分と、「復活」が報じられた松本人志の決定的違い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/901bc404bb56366bcc96cd51509618c8b3b94b6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00993904-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子児童盗撮した名古屋市立の小学校教師の男　「学校のカメラで盗撮した」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98f69aa5e40957cb1fc5a454fd2043bc8c7089c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00350003-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】今井達也「緊急降板」の重大さ　本拠地の利を得られぬ〝サウナドーム〟抜本解決必要
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/cc4ac8da3a77748ee37458577bdd1135cb4df210b7c8cedfea682d4ed1e54224.jpg> 水門衝突4人死亡「死無駄にせず」
+      <a href=https://news.yahoo.co.jp/pickup/6543722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c2bf1a0eb2e126bb6cae6f53fe90a24d179b2bbacb0b49a2e84a2c7751924071.jpg> 大阪住宅でロシア女性死亡 殺人か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8cf4137e31608e1cbe2a3d4c5df4469b94f28cd64168f64b463a19aa30510f7d.jpg> 水道管が破裂 鎌倉市広域で断水
+      <a href=https://news.yahoo.co.jp/pickup/6543716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/cc4ac8da3a77748ee37458577bdd1135cb4df210b7c8cedfea682d4ed1e54224.jpg> 水門衝突4人死亡「死無駄にせず」
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/93eb9bfd267ced7dd9784ee75abc5a374df0e69a59d6141bf582a736b2f45b1b.jpg> 死体の精子で人工授精 園の挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6543726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/93eb9bfd267ced7dd9784ee75abc5a374df0e69a59d6141bf582a736b2f45b1b.jpg> 死体の精子で人工授精 動物園挑戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/b827a796cb2f9aa6a84cc0a2dbd9ffab6ba826397c1a01e8aae15ecb7bf47476.jpg> 緊急降板 西武ドーム「暑さ」問題
+      <a href=https://news.yahoo.co.jp/pickup/6543728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/7725ea687b8923a9f76046f120dee3a93d76ad6ff28e1bd56693710a7c09aa00.jpg> 大谷が29号の先頭打者弾 敵地騒然
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 09:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 09:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
