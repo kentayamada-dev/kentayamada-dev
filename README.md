@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33f0e36d078df5ddcb9baa24141ce90e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cce8d3730b55737579624e0f99e5a9fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2b1bf98dcad99e75d5d20280351cc1ab8106276>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000025-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、29号！今季8本目の先頭打者弾、4球目のチェンジアップを右中間へ、5年連続30本塁打に王手
+      <a href=https://news.yahoo.co.jp/articles/ac2a188f540cb785cf8e8effcbcbf2cbb3582128>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06281035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マンシー、１３号２ランは一時勝ち越しのバックスクリーン弾　直近４戦４発で１５打点目と覚醒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79361e2f5db423846edf657b83d5aa365cdcf612>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000041-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 中山秀征、ＴＯＫＩＯ解散「松岡君も断腸の思いだと思う」　取材対応の松岡昌宏気遣う「マスコミの前で話すのは覚悟あった」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1298daadc2735346295a983ab4e7740a1075cf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00097613-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 事務所の「手腕の差」が露骨に出た…「一発アウト」のTOKIO国分と、「復活」が報じられた松本人志の決定的違い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/9a931ac459bb442d2ae188bb48a441706e67ee14f5c58e965647031ea017e9f6.jpg> 首相 日米の航空機共同開発に意欲
+      <a href=https://news.yahoo.co.jp/pickup/6543735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c9f6d5364705ac4d50f96c783b52e5365fc71ccdbba458aadf11be9e55ea0c46.jpg> 首相 参院選での過半数は必達目標
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/e7bc1daaf92a788cc2d3799946a7b84f1110d4ab3df4b8966ec89143c6aade74.jpg> プーチン氏 米露首脳会談に前向き
+      <a href=https://news.yahoo.co.jp/pickup/6543729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/54dc3053a1bdc500664052a2be159b80a6575ced0aa3ea4b6bb6b7272b03dc3a.jpg> 在日米軍に新チーム 自衛隊と連携
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/cc4ac8da3a77748ee37458577bdd1135cb4df210b7c8cedfea682d4ed1e54224.jpg> 水門衝突4人死亡「死無駄にせず」
+      <a href=https://news.yahoo.co.jp/pickup/6543712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c091ef9033aa4eebe268b1c1ad525eefd7b859bbfe69eda2fda68a9a4903b249.jpg> ペルー最高峰遭難 邦人遺体収容へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/4f207e1199c9def7d00b866ce284d3e701a819a5e26b6df553015e1939313d03.jpg> 日本KFCの再上場検討 米ファンド
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/d16ce83d1755647610b079bc32e64410a95689f849df5622aff0eed34d419646.jpg> 教師の盗撮コミュニティ 識者衝撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/93eb9bfd267ced7dd9784ee75abc5a374df0e69a59d6141bf582a736b2f45b1b.jpg> 死体の精子で人工授精 動物園挑戦
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 09:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 10:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
