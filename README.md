@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34a9d56a922ff34bbc703b5f3383bac6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3fafb5fd0bcf4a57de413ea0fbecdd8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14cf0f061c185498826a7e205522922ec90bbe0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-01782206-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、“2つの歴史”でNo.1に君臨　407発男を置き去り…MLBとド軍史に残す衝撃
+      <a href=https://news.yahoo.co.jp/articles/4b80053e52cb4762a823a13168c4e1f871ad68f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000058-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=734&ch=734&exp=10800&fmt=webp> 改正風営法を全国初適用　無許可営業疑い、男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b103c60e0534b062effae73667cf120c212410f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-02033684-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 日本代表MF藤田譲瑠チマ、ブンデス挑戦が決定！　ザンクト・パウリ移籍が発表
+      <a href=https://news.yahoo.co.jp/articles/e4b7afdf1df1bd7a044d4c5488e201c808520e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000117-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平　前半戦で29本塁打＆7三塁打は93年ぶりの快挙　ルース、ゲーリッグ、フォックス以来4人目
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/54dc3053a1bdc500664052a2be159b80a6575ced0aa3ea4b6bb6b7272b03dc3a.jpg> 在日米軍に新チーム 自衛隊と連携
+      <a href=https://news.yahoo.co.jp/pickup/6543733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/88b11472f2b13ecd6caf0f4fbfc75836af5e537d1cfd55ad705e9b09abe09e20.jpg> 米 イラン制裁解除計画を撤回
       </a>
     </td>
   </tr>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c091ef9033aa4eebe268b1c1ad525eefd7b859bbfe69eda2fda68a9a4903b249.jpg> ペルー最高峰遭難 邦人遺体収容へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543713>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/fuwaraizo/02266815/title-1751063002685.jpeg?exp=10800> 「置き配」標準化検討 実情は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/d16ce83d1755647610b079bc32e64410a95689f849df5622aff0eed34d419646.jpg> 教師の盗撮コミュニティ 識者衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c3fdd8085e630d134160c453649927c683746b334ea671b2bfabcfb3206a1c2e.jpg> 遠征の推し活キャンセル保険 背景
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/dc2ff2309dbede44d0d0f791eec1157f7f25939a6beead72bf73588eb08a2da2.jpg> 島育ちのアナ 年収1000万円道のり
+      <a href=https://news.yahoo.co.jp/pickup/6543727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/72ac11e5507d43114765e64c8db5fbab98034cdffd1f2ef708878ab956256bd5.jpg> 日本代表藤田譲瑠チマ 独1部移籍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/3f197fb3a5ffaa6f88c1886a28126d4c54ee13403cf5a47c72df5ae9f2b108f2.jpg> なにわ大橋 渋谷凪咲の暴露に赤面
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 10:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 11:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
