@@ -1,4 +1,4 @@
-FROM debian:bullseye-slim AS base
+FROM debian:trixie-slim AS base
 
 FROM base AS dev
 
