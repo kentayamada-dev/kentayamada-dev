@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3fafb5fd0bcf4a57de413ea0fbecdd8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/479bea34494c8fb3a43e0114273a7284.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b80053e52cb4762a823a13168c4e1f871ad68f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000058-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=734&ch=734&exp=10800&fmt=webp> 改正風営法を全国初適用　無許可営業疑い、男逮捕
+      <a href=https://news.yahoo.co.jp/articles/b1c4cf7446d4d37e127bc6a29c21cc484ffb6ee5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000005-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《TOKIO解散後の生活》国分太一「後輩と割り勘」「レシート一枚から保管」の節約志向　活動休止後も安泰の“5億円豪邸”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4b7afdf1df1bd7a044d4c5488e201c808520e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000117-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平　前半戦で29本塁打＆7三塁打は93年ぶりの快挙　ルース、ゲーリッグ、フォックス以来4人目
+      <a href=https://news.yahoo.co.jp/articles/6a7f53d357cf96a34c26b6c3f014423b49e23239>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00050039-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 和歌山のパンダ４頭、中国に向け出発…飼育スタッフら３００人が返還見送り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31f4a1046374c202fbc0eecca5ece194f57066e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06281040-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が４打席目見三振、先頭弾＆三塁打でサイクル安打チャンスも…あす先発登板予定
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79361e2f5db423846edf657b83d5aa365cdcf612>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000041-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=861&ch=861&exp=10800&fmt=webp> 中山秀征、ＴＯＫＩＯ解散「松岡君も断腸の思いだと思う」　取材対応の松岡昌宏気遣う「マスコミの前で話すのは覚悟あった」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c9f6d5364705ac4d50f96c783b52e5365fc71ccdbba458aadf11be9e55ea0c46.jpg> 首相 参院選での過半数は必達目標
+      <a href=https://news.yahoo.co.jp/pickup/6543739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8131ee8b37b13ef56f4b52295566223ad2893379bc544d19203d62809bf52d79.jpg> 米高騰 小泉農相語る今後のプラン
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/621a70c1e623fa04ea53ed3a5feb26b8cec562ac1b8f0d960b6d899981c69d1d.jpg> 救助訓練での溺死 教訓生かされず
+      <a href=https://news.yahoo.co.jp/pickup/6543737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/0f441542d1bc38c9c46c6eecab356839b63f5a5b9b0abbc8b030df0ec3298851.jpg> 飲酒運転を繰り返し 断酒した男性
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c3fdd8085e630d134160c453649927c683746b334ea671b2bfabcfb3206a1c2e.jpg> 遠征の推し活キャンセル保険 背景
+      <a href=https://news.yahoo.co.jp/pickup/6543742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/28b778a342820a26a8dc8f5ddfc8cf70a3e48c1bf4331f58c6d2624da2561355.jpg> 和歌山のパンダ中国へ 職員見送り
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/72ac11e5507d43114765e64c8db5fbab98034cdffd1f2ef708878ab956256bd5.jpg> 日本代表藤田譲瑠チマ 独1部移籍
+      <a href=https://news.yahoo.co.jp/pickup/6543723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c8666beb6dfac36b8bf6efe399aa3ed2da02165ae007cfa4a61998fa9062ed76.jpg> 浦和サポのゴミ拾い FIFA会長賛辞
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 11:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/06/28 11:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
