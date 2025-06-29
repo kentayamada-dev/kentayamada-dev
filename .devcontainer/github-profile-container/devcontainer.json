@@ -18,10 +18,7 @@
   ],
   "workspaceMount": "source=${localWorkspaceFolder},target=/home/dev/workspaces,type=bind,consistency=cached",
   "workspaceFolder": "/home/dev/workspaces/github-profile",
-  "mounts": [
-    "source=${containerWorkspaceFolderBasename}-venv,target=/home/dev/workspaces/github-profile/.venv,type=volume"
-  ],
-  "postCreateCommand": "python3 -m venv ./.venv && . ./.venv/bin/activate",
+  "postCreateCommand": "pip install --no-cache-dir --no-warn-script-location --break-system-packages --requirement requirements.txt",
   "customizations": {
     "vscode": {
       "settings": {
@@ -31,15 +28,14 @@
             "source.organizeImports": "explicit"
           }
         },
-        "python.defaultInterpreterPath": "./.venv/bin/python",
         "python.analysis.typeCheckingMode": "strict",
-        "python.analysis.autoImportCompletions": true,
-        "ruff.lint.run": "onSave"
+        "python.analysis.autoImportCompletions": true
       },
       "extensions": [
         "mhutchie.git-graph",
         "Exelord.git-commits",
-        "charliermarsh.ruff"
+        "charliermarsh.ruff",
+        "kentayamada.vscode-statusbar-commands"
       ]
     }
   }

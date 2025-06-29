@@ -1,128 +1,40 @@
-{%- set WEATHERS, SATELLITE_IMAGE, NEWS, FLASH, TOPICS, SATELLITE_URL, STATIC_FOLDER_PATH  = "Weathers", "SatelliteImage", "News", "Flash", "Topics", "https://zoom.earth/places/japan/#overlays=labels:off", "./github-profile/static" -%}
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=header" />
+</div>
 
-<img src={{ STATIC_FOLDER_PATH }}/live_japan.gif width="100%" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Robot&size=32&duration=3000&pause=6000&color=0080FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+of+code!" />
+</div>
 
-<details>
-<summary>目次・TOC</summary>
+## 🌟 **About Me**
 
-- [天気・Weathers](#{{ WEATHERS }})
-{%- for _, data in weather.items() %}
-  - [{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}](#{{ data["name"]["en"] }})
-{%- endfor %}
-- [衛星写真・Satellite Image](#{{ SATELLITE_IMAGE }})
-- [ニュース・News](#{{ NEWS }})
-  - [速報・Flash](#{{ FLASH }})
-  - [トピックス・Topics](#{{ TOPICS }})
+🚀 **Frontend Developer** passionate about mobile development
 
-</details>
+🌍 **Location:** Japan 🇯🇵
+💼 **Focus:** Building beautiful mobile applications
+☕ **Powered by:** Coffee and curiosity
+🎯 **Goal:** Creating amazing user experiences
 
-<h2 id={{ WEATHERS }}>天気・Weathers</h2>
+## 📊 **GitHub Analytics**
 
-{%- for _, data in weather.items() %}
-<h3 id={{ data["name"]["en"] }}>{{ data["name"]["ja"] }}・{{ data["name"]["en"] }}</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000" />
+</div>
 
-<table>
-  <tr />
-  <tr>
-{%- for _, city in data["cities"].items() %}
-    <th colspan=4 align=center>
-      <a href={{ city["weather"]["url"] }}>
-        {{ city["name"]["ja"] }}<br />
-        {{ city["name"]["en"] }}
-      </a>
-    </th>
-{%- endfor %}
-  </tr>
-  <tr>
-{%- for _, city in data["cities"].items() %}
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/{{ city["weather"]["icon"] }} alt="{{ city["name"]["en"] }} Weather Icon" height="60px" width="60px" /><br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/thermometer.svg alt="Temperature Icon" height="60px" width="60px" /><br />
-      {{ city["weather"]["temperature"] }}°C<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/weathers/raindrop-measure.svg alt="Humidity Icon" height="60px" width="60px" /><br />
-      {{ city["weather"]["humidity"] }}%<br />
-      &emsp;&emsp;&emsp;
-    </th>
-    <th align=center>
-      &emsp;&emsp;&emsp;<br />
-      <img src={{ STATIC_FOLDER_PATH }}/wind-directions/{{ city["weather"]["wind_direction"] }}.svg alt="Wind Icon" height="60px" width="60px" /><br />
-      {{ city["weather"]["wind"] }}m/s<br />
-      &emsp;&emsp;&emsp;
-    </th>
-{%- endfor %}
-  </tr>
-  <tr>
-{%- for _, city in data["cities"].items() %}
-    <td colspan=4 align=center>
-      <a href={{ city["youtube"]["url"] }}>
-        <img src={{ city["youtube"]["img_path"] }} alt="{{ city["name"]["ja"] }}・{{ city["name"]["en"] }}" />
-      </a>
-    </td>
-{%- endfor %}
-  </tr>
-</table>
-{% endfor -%}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true" />
 
-<h2 id={{ SATELLITE_IMAGE }}>衛星写真・Satellite Image</h2>
+## 🏆 **GitHub Trophies**
 
-<table>
-  <tr>
-    <td colspan=4 align=center>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
-      <a href={{ SATELLITE_URL }}>
-        <img src={{ satellite_image_path }} alt="衛星写真・Satellite Image">
-      </a>
-      <br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</div>
 
-<h2 id={{ NEWS }}>ニュース・News</h2>
+## 💭 **Random Dev Quote**
 
-<h3 id={{ FLASH }}>速報・Flash</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
 
-<table>
-{%- for data in flashes %}
-  <tr>
-    <td width=1000>
-      <a href={{ data["link"] }}>
-        <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
-      </a>
-    </td>
-  </tr>
-{% endfor %}
-</table>
-
-<h3 id={{ TOPICS }}>トピックス・Topics</h3>
-
-<table>
-{%- for data in topics %}
-  <tr>
-    <td width=1000>
-      <a href={{ data["link"] }}>
-        <img align=left width=150 src={{ data["image"] }}> {{ data["title"] }}
-      </a>
-    </td>
-  </tr>
-{% endfor %}
-</table>
-
------------------------------------------------------------------------------
-<p align=center>
-  🗓️ Last Updated: {{ updated_date }} (JST)<br />
-  🔄 Update Cycle: 30 min
-</p>
-<div align=center>
-
-  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=footer" />
 </div>
