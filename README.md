@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f0dead2c1b100988a643cbb90e65174.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/950e3e904a94ec5161606ab2eaa00678.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13b83cd4af1ea76a94baea440214f216c60a0c0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782860-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“84.7”は「エリート級」　米メディアも称賛…目に焼き付いた「驚くべき瞬間」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1fdd4ae4f3437042c36aa53a3f19cc59976e5cfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010785-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度3 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4eb9c8a8a6627f4b276be0ef0402d3e3ddc0a0bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1233&ch=1233&exp=10800&fmt=webp> 大阪・関西万博　来場者数「1千万人突破」で記念式典　1000万人目は山形市から来た家族　ミャクミャクらから記念品贈呈
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64f252cbd860ab0a634401e79b1ddabe47e26cfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010777-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47cbd83d907f176546e3f7a37b3f4abb593b85e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00098617-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「彼と話さないとダメだ」大谷翔平のメジャー自己最速164キロにロイヤルズ打者はお手上げ！ 数年前の“因縁”を告白「日本でもやられた」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f3fc4b9c7b2ab478e26a4f776475d822138344c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000355-kkbvc-000-2-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海地震　29日も頻発　最大震度４は3回　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/b46de48a41c295e1f33865fbd45bea45c1d7711b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010681-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 十島村・悪石島で震度4が3回　9日間で597回に　鹿児島
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/16a645f5660564467d3580bc337d6f472b145a35cbc6f122e1d94a6d0460519a.jpg> 対立再燃? マスク氏が米政権批判
+      <a href=https://news.yahoo.co.jp/pickup/6543908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d9009dd3ed33ac3745b32ab322e900c49a7a60bffbb16291b9f6f02a1ba3e815.jpg> タイとカンボジア 対立が過熱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5e2a601fbb4dfd4920f7ea54d47bd47598226058eeff9bd1a4f7401c1971f3a8.jpg> 住宅に全裸の女性遺体 胸にナイフ
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e478673556efacfdd013ee37a955f8a47d649b9260fd10a49bfdec61f5376d1.jpg> J3高知の監督休養へ パワハラ調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 19:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 20:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
