@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/V2rLE46cCNM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/EV2vWqf527I?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/234993ded354876691dae32882279f7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e301c6f745eb10085ecf2a8af32d9b38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71c6a30ade86018657d669a17b475f4d0a9ab0eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-02667277-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鳥取県西部などで震度３の地震　被害は確認されず　
+      <a href=https://news.yahoo.co.jp/articles/cd4460b0c7c787b12a5c4d8f57bbf12726252110>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00050037-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 投手・大谷翔平、メジャー自己最速１６３・７キロ…「打たれたくないという気持ちで自然に上がってしまった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c79cf80cbaa83f51b24d4c16313b21293e2a95d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010202-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度3 津波の心配なし
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd09b5442aed1fd9c1c749a1441f577724721e08>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06417286-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 「役割を全うしてくれた 感慨深い」H2Aロケット50号機打ち上げ成功“有終の美”飾りH3へバトン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6eaf0abceb5f98170f1cfba1f75d638c8fb96007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290212-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1264&ch=1264&exp=10800&fmt=webp> 大谷翔平の164キロを体感…ロイヤルズ主砲「なんじゃそりゃ」160キロ超え３連発に屈する
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ee77c53c0739f38484aba832e32044fa5bff3b90b0442ac0a4ed838b36adb258.jpg> イランで国葬 大統領「屈服せず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543849>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5263fb05d2d6ac2bac7c4a96a01530f4b14e8490551beefb93be2de453dd54b8.jpg> 女子大生殺害 何度も傷つく遺族
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/08fe01345b934882ff1291cc5e4750cf30f690b0e3e321af46b937c37861022d.jpg> テレ東国分MC番組 方針定まらず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 10:33:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 10:38:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
