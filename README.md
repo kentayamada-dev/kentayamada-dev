@@ -8,12 +8,11 @@
 
 ## 🌟 **About Me**
 
-🚀 **Frontend Developer** passionate about mobile development
-
-🌍 **Location:** Japan 🇯🇵
-💼 **Focus:** Building beautiful mobile applications
-☕ **Powered by:** Coffee and curiosity
-🎯 **Goal:** Creating amazing user experiences
+- 🚀 **Frontend Developer** passionate about mobile development
+- 🌍 **Location:** Japan 🇯🇵
+- 💼 **Focus:** Building beautiful mobile applications
+- ☕ **Powered by:** Coffee and curiosity
+- 🎯 **Goal:** Creating amazing user experiences
 
 ## 📊 **GitHub Analytics**
 
@@ -33,6 +32,14 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<p align=center>
+  🗓️ Last Updated:  (JST)<br />
+  🔄 Update Cycle: 30 min
+</p>
+<div align=center>
+  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml)
 </div>
 
 <div align="center">
