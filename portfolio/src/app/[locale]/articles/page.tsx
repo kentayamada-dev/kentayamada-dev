@@ -44,7 +44,7 @@ const Page: PageType = async (props) => {
         likeCount,
         subtitle: article.subtitle,
         title: article.title,
-        topics: article.topics,
+        topics: article.topics.sort(),
         viewCount
       };
     })

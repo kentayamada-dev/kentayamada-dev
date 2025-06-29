@@ -68,7 +68,7 @@ const Page: ArticlePageType = async (props) => {
         likeCount,
         subtitle: article.subtitle,
         title: articleData.title,
-        topics: articleData.topics,
+        topics: articleData.topics.sort(),
         viewCount
       };
     })
@@ -86,7 +86,7 @@ const Page: ArticlePageType = async (props) => {
           createdAt={new Date(article.sys.firstPublishedAt)}
           locale={locale}
           tocTitle={articlesDict.toc}
-          topics={article.topics}
+          topics={article.topics.sort()}
           updatedAt={new Date(article.sys.publishedAt)}
         />
         <div className='mt-5'>

@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { headingLevels } from '@/constants/toc';
 import type { TableOfContentsHeadingType, TableOfContentsType } from './types';
 
@@ -14,6 +14,7 @@ const HEADING_LEVEL_OFFSET = 2;
 const TableOfContents: TableOfContentsType = (props) => {
   const [headings, setHeadings] = useState<TableOfContentsHeadingType[]>([]);
   const [activeId, setActiveId] = useState('');
+  const tocRef = useRef<HTMLUListElement>(null);
 
   useEffect(() => {
     const selectors = headingLevels.join(',');
@@ -74,9 +75,21 @@ const TableOfContents: TableOfContentsType = (props) => {
     };
   }, [headings]);
 
+  useEffect(() => {
+    if (activeId && tocRef.current) {
+      const activeElement = tocRef.current.querySelector(`a[href="#${activeId}"]`)?.parentElement;
+
+      if (activeElement) {
+        activeElement.scrollIntoView({
+          block: 'nearest'
+        });
+      }
+    }
+  }, [activeId]);
+
   if (headings.length) {
     return (
-      <ul aria-label={props.label} className='p-1'>
+      <ul aria-label={props.label} className='p-1' ref={tocRef}>
         {headings.map((heading) => {
           const isActive = heading.id === activeId;
 
