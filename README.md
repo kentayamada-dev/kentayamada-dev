@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e056b6a76a5ded86e13a8ea419c0e59f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f55617aebe2cb131a0b8eb290c2e0460.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aef59614797445ea565ad634ef3ec12ecc2662bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000061-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、日本産水産物の輸入再開　処理水放出で停止　10都県は対象外
+      <a href=https://news.yahoo.co.jp/articles/815ba914a71b9fb8fa84876470a3d66a840321b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国　日本産水産物の輸入を再開　ただし福島など10都県産は対象外
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a87c9a59ecfe192d565036e76979acfb079f49c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010865-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/c8e78798c6630012b04f8a96963f3e2630bae209>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010873-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ab531797ee7ef167e34c1da4b94b8344508639c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06291221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 大谷翔平と長嶋茂雄さんの約束　世界最速のその先へ、二刀流だからこそ球速にこだわれる
+      <a href=https://news.yahoo.co.jp/articles/052449155ec89fa55efd3bf4877b582ae125e2d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000178-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 記者の目　見逃せない新たな持ち球　ドジャース・大谷翔平の〝縦スラ〟
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/f62597779f633e857df353bd39db845602669798ffe91ff121ba3703a2842344.jpg> 森山幹事長「消費税守り抜く」
+      <a href=https://news.yahoo.co.jp/pickup/6543931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c40f037a3e7d2a9d1bec5a0edac10849e3ea27e5fda12dfe4227e6f8502c7457.jpg> 上昇基調の世界株 今後の展開は
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9b0212cb877dd2a2684e60770ca1ab7768fcc0c11c9e995b4c771d21497f4a4a.jpg> ロッテ痛恨 肉体的援助でアウト
+      <a href=https://news.yahoo.co.jp/pickup/6543939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/1f248ec73b0c00c2b18679916799d657c0bb15ecf2040f1ecff90067b97550e5.jpg> 飲みかけ飲料 菌繁殖しやすいのは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ee64f2634389c215764f1dd6bc405263ba5f4850123dc4c0a9978451c611292b.jpg> ニューヨーク屋敷 女児誕生を報告
+      <a href=https://news.yahoo.co.jp/pickup/6543933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9b0212cb877dd2a2684e60770ca1ab7768fcc0c11c9e995b4c771d21497f4a4a.jpg> ロッテ痛恨 肉体的援助でアウト
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 23:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 23:51:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
