@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0115b7003c35ee3464823f2e1363427.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3ae6568dcaf2d51da397fb212d69971.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64273e4c73c6ccb6e5514c403c9ecac74e5b6bd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010537-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/2fc9885d5d0f99fc310a69af3d52d2fb2fc7cd41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010579-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b318d3b03c85c29f680870ff5574a751268d09e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00818911-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 賀来賢人、息子の成長に感慨「しんちゃんって思う瞬間が」　自宅では戦いごっこに熱中
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4a17cdcdb9f56bb4a0a54b5adb6a200960a8548>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00350153-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 大谷翔平の爆速１６４キロに韓国メディア驚嘆「大谷は本当にクレイジーだ！」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb53103b3f3cb3a31e9af5508bc6cdc4b7640a17>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185863-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=905&ch=905&exp=10800&fmt=webp> イスラエルで大規模デモ ガザ停戦や人質の解放を求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/285fc68c53d84646864e2c8df46f6a2da7c2278d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000383-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 瀬戸麻沙美、立ち位置間違えるもしんちゃんが優しくエスコート　映画は「今でも思い出に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18c295424830d175e1a41ec9ce3c490a599d922d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=1618&ch=1618&exp=10800&fmt=webp> 「なんなんだ？（私だけに最速球を投げる）オオタニと一度話し合いたい」大谷翔平のメジャー移籍後最速の163.7キロで併殺打のロイヤルズ4番打者が過去の因縁を告白して“クレーム”つける？！
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b4fee1d8995d8eb89f5c4181f6784ad40593c1317a6533660e1eebd5ea96f0f8.jpg> イスラエルで停戦訴え3万人デモ
+      <a href=https://news.yahoo.co.jp/pickup/6543889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c2a11c71c320834bb4854c9a8959489f70f6d50558d86c999705377e9868d4e3.jpg> 最悪首相出せなくなる 自民危機感
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/29a1dd478162e043693ecc289bf8f544d26847c4eccd8674b1bd2fd2470b12e5.jpg> 施設でわいせつ疑い 介護士逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9e2a1e42a754ac6528cf478f1b69837fe9fb2e1db5b127b7844f5d0f6bac3e06.jpg> 引きこもりの子 避難できず落命
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/089408701c07d0d7fa9788420f0b61b51390e313c692aab8093dd55ee4c570f2.jpg> 40年引きこもり就労 試練の連続
+      <a href=https://news.yahoo.co.jp/pickup/6543872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/29a1dd478162e043693ecc289bf8f544d26847c4eccd8674b1bd2fd2470b12e5.jpg> 施設でわいせつ疑い 介護士逮捕
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/87236b0e38a131d911ca1cface642fc3aca590855fe53c38a852c1edf3c489d9.jpg> 小峠 結婚発表後初の公の場
+      <a href=https://news.yahoo.co.jp/pickup/6543887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/16b8b481cdfd92fc9599319d8c06be0c6d8b027d3d50fff00740527907673e10.jpg> 騒然 阪神・森下の頭かすめる死球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02268240/title-1751158328259.jpeg?exp=10800> 北斗の拳新作アニメ 何が変わる?
+      <a href=https://news.yahoo.co.jp/pickup/6543881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/87236b0e38a131d911ca1cface642fc3aca590855fe53c38a852c1edf3c489d9.jpg> 小峠 結婚発表後初の公の場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 15:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 16:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
