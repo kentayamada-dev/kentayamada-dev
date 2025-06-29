@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3f4ded78e7f794059a1525f536a2d58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b34d453028318c015b09cbb9c582a562.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/837adf377bd9c22560a8267bbe033edb0babc83a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000015-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=546&ch=546&exp=10800&fmt=webp> 「ドーンという地鳴り音でいつも目覚める」トカラ列島近海の地震、不安募る住民　29日は震度4が3回、累計610回超に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de3c4146d0db3356a8956741a206e1dbb3b0ff37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01567726-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平とのバッテリーは「いつだって楽しい」ドジャース若き相棒が“2種類”のスライダーを絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e090e04e15f6092829a9fbc11d675c2e9fadd13c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000013-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=354&cw=1212&ch=1212&exp=10800&fmt=webp> 成功率は世界トップ、でもいくつか弱みが…日本の主力ロケット「H2A」から「H3」に　低コスト化以外にも国際市場で必要な「進化」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ddaa017680edd596ef0a46c8d27fef5734aef60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00552656-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ベッツとフリーマンかわよ」大谷翔平、投球→打席のドタバタ中にあったMVP集結　ネットは同情も「疲れるな。これはw」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/524fffb0c3c7fd29f01d4aa8d9367cd471b15b64>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-07245743-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今なお街頭演説行う民主派団体、香港「社会民主連線」が解散表明　香港メディア「民主派団体がゼロになることを意味する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3f08af5f8cfff22304ff0bde81be2328d796080>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010817-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e5324df1055775908fd026760dc2b22b3f1b475ad42d25e4929b088e6463b819.jpg> 首相 連立政権の枠組み拡大に慎重
+      <a href=https://news.yahoo.co.jp/pickup/6543927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/549c2f0b2c28a3ceaad62d83e2993c7ad35040c6430e5d8d1abb8e9521a5c84a.jpg> 中国軍事パレード 米大統領招待へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9df91ba38ec50d115d26edb908489b175f15e17040e7837c0cfda0a08dde9ff0.jpg> 自宅に放火した疑い 57歳の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/aa7c7bc9c45f254bf6e912fcc3537176edea58a8537418a0e4f7aa0e1c72ebfa.jpg> 電車で一時心肺停止 学生らが救う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/aa7c7bc9c45f254bf6e912fcc3537176edea58a8537418a0e4f7aa0e1c72ebfa.jpg> 電車で一時心肺停止 学生らが救う
+      <a href=https://news.yahoo.co.jp/pickup/6543924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/6e8e8038702fa5598dfec411746c1b34339aab482da5655e8cb547969f31e732.jpg> 放置子 他人の家で夕飯ねだる子も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 21:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 22:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
