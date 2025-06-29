@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/953a27951ea539d59ac0a96d965b6ee6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6da13868dfcd638deb58e399d2be3d94.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8075b4bfcfa877f8e6fd37bcc0bc267d1e84d2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010272-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> MLB大谷翔平選手　今季3度目の投打二刀流出場　メジャー自己最速を記録
+      <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae7b9631857e287f1a827eb2aa8cdf729f7fbc15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010282-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/723fcadee64a7f7129ca805020e0b3b20ef2798e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010364-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0322877a5499fc9a42633d8412e09a9c7d5d4b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010259-mbcnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> 有終の美　H2A最終号機　打ち上げ成功
+      <a href=https://news.yahoo.co.jp/articles/2eb519e710b4b44d13f4e89c91e32367a829e6eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90030795-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 別府市の大学生死亡ひき逃げ 名古屋駅前でも八田與一容疑者の目撃情報を呼びかけ 6月に殺人容疑など追加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9759cbe4fe5db18df585821f3d97ec7bdf2c4bd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010004-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=31&cw=360&ch=360&exp=10800&fmt=webp> 元DeNA乙坂智に非情通告　マリナーズ傘下3Aがわずか9試合で自由契約　同僚だった藤浪晋太郎は17日に戦力外
+      <a href=https://news.yahoo.co.jp/articles/86614f6c4f0d3cabcc096a15d1309290f82bb132>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782753-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「0」にファン反応「封印か？」　“自己最速”の裏で起きていた変化
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/61cef296573e3fd6e3f2571f5344861a464cff5125a214e0c5b51a5ba1f33381.jpg> 米兵処刑の「執行役」志願した父
+      <a href=https://news.yahoo.co.jp/pickup/6543851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
+      <a href=https://news.yahoo.co.jp/pickup/6543859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3f4379bad9ad81d4edc50e6d9f6975d418e1120fd12188c250986e3de9b1e665.jpg> 墜落 インドで飛行機恐怖症広がる
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5263fb05d2d6ac2bac7c4a96a01530f4b14e8490551beefb93be2de453dd54b8.jpg> 女子大生殺害 何度も傷つく遺族
+      <a href=https://news.yahoo.co.jp/pickup/6543863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c7183f811e471db8880f6e46849f5d36900cefceb51347346436081edbabb6ca.jpg> 逃走続く八田容疑者 捜査幹部語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a13136c7bdda8aef6eb62f9c424f5ae3ad3bfb07452a3b939bbec4e0d3216d8c.jpg> 給食誤提供で搬送 同じ児童に再び
+      <a href=https://news.yahoo.co.jp/pickup/6543862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/6f8e31d14ceb7faa85277e8476a0e9319175364a4519ae34373706ea0bf53a66.jpg> 天下一品「徒弟制型FC」の限界
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/323b2d0696bf224d9fe9e533366c5c0b6fa80925dafc60538a77f9e3d4605d5d.jpg> 鈴木誠也が豪快弾 打点リーグ首位
+      <a href=https://news.yahoo.co.jp/pickup/6543860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/2fc090447ebcf028970f230a2fb2e87e67e8eb118df475b5dcb355e2db9cccbb.jpg> 3A乙坂智 わずか9試合で自由契約
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 12:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 13:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
