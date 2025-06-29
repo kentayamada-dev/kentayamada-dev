@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/034e5e841fcec3564dea41ebf4c8f81c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a6920aafbb004c5caeba37cd83f55e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1907e91fe8f7164f22a7581b2c203bda0e8e9584>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-00994292-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 胸に刃物刺さった19歳の女性遺体発見…胸中心に複数の刺し傷　愛知・豊田市
+      <a href=https://news.yahoo.co.jp/articles/03f119821dab4713095f2683ba888d3078545724>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-00000063-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロイヤルズ・パスクアンティノ「なんで俺にばかり」　WBCでも大谷の164.1キロに三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c5a30588f5c616e03772d704ff71e9e2d762c92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-22010888-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/2745c19d2f7b7e1684e490918c49ecebbb9286b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-02659622-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 集合住宅で胸に刃物が刺さった女性遺体　殺人事件か　愛知・豊田市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c0661273cb9b477a76f8de9af628a80071d8542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000396-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャース・大谷翔平　ロイヤルズ戦に「1番・DH」でスタメン出場　5年連続30本塁打なるか
+      <a href=https://news.yahoo.co.jp/articles/2599bc95b4ca6947fee37afa0ed4499fa468d8a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-22010891-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/30 01:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/06/30 01:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
