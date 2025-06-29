@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6da13868dfcd638deb58e399d2be3d94.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4d9078f5c6d90141a525e9125458841.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
+      <a href=https://news.yahoo.co.jp/articles/fc8c2941c931e80cd27ec129abdb872a92c7f2b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290503-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1071&ch=1071&exp=10800&fmt=webp> 「野球界が見た中で間違いなく最高の才能」米アナリスト、大谷翔平164キロに衝撃「ハハハ…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/723fcadee64a7f7129ca805020e0b3b20ef2798e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010364-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/2d02c8101275dc959d6912c337da8539f514cf7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010393-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86614f6c4f0d3cabcc096a15d1309290f82bb132>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782753-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「0」にファン反応「封印か？」　“自己最速”の裏で起きていた変化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
+      <a href=https://news.yahoo.co.jp/pickup/6543867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b4fee1d8995d8eb89f5c4181f6784ad40593c1317a6533660e1eebd5ea96f0f8.jpg> イスラエルで停戦訴え3万人デモ
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e3578dda1a6fa1f85ee32805942b80c9948d5cfaccba346b68abd61cd3f5b4d5.jpg> スーチー氏に健康不安説 報道
+      <a href=https://news.yahoo.co.jp/pickup/6543863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c7183f811e471db8880f6e46849f5d36900cefceb51347346436081edbabb6ca.jpg> 逃走続く八田容疑者 捜査幹部語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c7183f811e471db8880f6e46849f5d36900cefceb51347346436081edbabb6ca.jpg> 逃走続く八田容疑者 捜査幹部語る
+      <a href=https://news.yahoo.co.jp/pickup/6543865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/65d7277a20a27e34b98e30f75ece2b57cb12402b520537ac7374b4c25a8f4fa3.jpg> 無期囚「仮釈放」が生きる希望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d221d07d0d55f10d57689c668d860a7568c4e49c28d0f8904fcaa3a34fd6938c.jpg> 突然の診療休止発表 患者ら困惑
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/7230b88c31381c74f3de9438237e425ed77a9592c6ac7f076b2aa3100100a15d.jpg> 大谷 球宴のHRダービーを辞退へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 13:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 13:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
