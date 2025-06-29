@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/EV2vWqf527I?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/545c2d405062c4dbc5cdb4f9d33bd52a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c32b92e3fd7f8bff80b8a6b68023c9a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4ee29843c0bbea909d08bfc1e9a6e9d7965188c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291017-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「今日はショウヘイのフルコースです！」大谷翔平の歴史的なピッチングにド軍専属実況も大興奮
+      <a href=https://news.yahoo.co.jp/articles/8b9c3d43eeca154c60d45c5b0d56ebe6b1c8902b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000033-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 鹿児島・トカラ列島近海で地震続く　29日は最大震度4を3回観測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/318127d7fc77a1b68d67f87604da688f53f9bbbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010650-mbcnewsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/be31f903e3d8f28fbad036878693dd7e69125059>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00030437-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日30日は更に猛暑日地点増　少なくとも7月中旬まで危険な暑さ続く　万全な対策を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a62891cc3531c7756ad964fed487be970f9fbf30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00030433-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日30日は九州～関東でゲリラ雷雨に注意　猛暑日は29日の約2倍予想　対策万全に
+      <a href=https://news.yahoo.co.jp/articles/ce639cd284fa0bd50777b0fff2423ebaae06556e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291036-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=913&ch=913&exp=10800&fmt=webp> 【データ】大谷翔平、メジャー自己最速164キロ　オープン戦では21年パドレス戦で計測
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/395aeefdb9f117ebd7d4b038e77cd4898f50d37d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010644-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度4のやや強い地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9e2a1e42a754ac6528cf478f1b69837fe9fb2e1db5b127b7844f5d0f6bac3e06.jpg> 引きこもりの子 避難できず落命
+      <a href=https://news.yahoo.co.jp/pickup/6543898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/af7c3ce277aafc2d6a2701ac0f268e8db2173e04e5da93e836c35a02ff9d3365.jpg> 「8時10分前」世代でギャップ
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/16b8b481cdfd92fc9599319d8c06be0c6d8b027d3d50fff00740527907673e10.jpg> 騒然 阪神・森下の頭かすめる死球
+      <a href=https://news.yahoo.co.jp/pickup/6543895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/65fe76dba4ff90175300075ab5123805f64a2b2360497b942e1d50bfe14dc510.jpg> サンリオ大賞 犬キャラが上位独占
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 17:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 18:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
