@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a6d826d56d88b16a64f335c16d8ca43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d38a26f60f8bdc1a54360520bb434767.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7aa739d03959657f3a6ed77f0872f7c11b534ff3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010218-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/7cfb1cef505a89f917f6cff44b854e43216fe997>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290318-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也が22号２ラン、メジャー自己最多更新　打点は今季69でリーグ単独トップに再浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88667d7f853a483f0e7e5097209aa0864dced2cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00552573-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、ベーブ・ルースも成し得なかった偉業をまた達成　自身4回目「29HRを放ち…」米データ会社紹介
+      <a href=https://news.yahoo.co.jp/articles/ac1666e1b4722273f632fb11bcd17c7dac14f218>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 衝撃の「99.2→100.2→101.7」　大谷翔平が投じた驚愕の3球に見た“進化”「ライブBPで投げ続けていたら、投げられてはなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88d0cd91e45fa34fd488c95f4a4c39c440196a72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000349-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=345&ch=345&exp=10800&fmt=webp> トカラ列島近海地震　最大震度４
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd09b5442aed1fd9c1c749a1441f577724721e08>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06417286-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 「役割を全うしてくれた 感慨深い」H2Aロケット50号機打ち上げ成功“有終の美”飾りH3へバトン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a1f76f449db02b95e31ba537a3a8894dd24a374>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00030427-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 29日(日)も強烈な日差しと暑さに注意　熱中症警戒アラートが11県に発表中
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543851>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/0d6de7a2a86c70031bbe61f0b14d0aece05a3103efd07250059efc1f3e6f6eb9.jpg> 石破内閣の機密費 半年で6億円超
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/7230b88c31381c74f3de9438237e425ed77a9592c6ac7f076b2aa3100100a15d.jpg> 大谷 球宴のHRダービーを辞退へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543844>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/176313bc71b0c854ffa232917c48515c07ae6af0248a9b7d47b2dee497cf5b9b.jpg> 大谷MLB自己最速 監督「想定外」
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 11:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
