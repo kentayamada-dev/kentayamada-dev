@@ -17,10 +17,14 @@ async def main() -> None:
     print(flash_news)
 
     template = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape()).get_template("README.tpl")
+    split_current_datetime = current_datetime.split("_")
+    updated_date = f"{split_current_datetime[0].replace('-', '/')} {split_current_datetime[1].replace('-', ':')}"
 
     Path("./generated").mkdir(parents=True, exist_ok=True)
     Path("./generated/README.md").write_text(
-        template.render(),
+        template.render(
+            updated_date=updated_date,
+        ),
         encoding="utf-8",
     )
 
