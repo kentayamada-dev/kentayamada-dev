@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3ae6568dcaf2d51da397fb212d69971.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23f6ed65988076adc549281a54d11bdc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fc9885d5d0f99fc310a69af3d52d2fb2fc7cd41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010579-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/040df274dfad8ffd382b385fb12dcb28532583bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90168020-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=567&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 新婚・小峠英二の“不満”とは！？西村瑞樹「なんて日だ！と…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b318d3b03c85c29f680870ff5574a751268d09e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00818911-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 賀来賢人、息子の成長に感慨「しんちゃんって思う瞬間が」　自宅では戦いごっこに熱中
+      <a href=https://news.yahoo.co.jp/articles/806f12ccb5dcd753ac78a6811a31dbcba896be18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-09985988-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 鹿児島十島村で震度4　津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4a17cdcdb9f56bb4a0a54b5adb6a200960a8548>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00350153-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 大谷翔平の爆速１６４キロに韓国メディア驚嘆「大谷は本当にクレイジーだ！」
+      <a href=https://news.yahoo.co.jp/articles/bec71890d41789668552876ad51201f0e1be3c71>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00350156-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=859&ch=859&exp=10800&fmt=webp> 大谷翔平最速１６４キロで打ち取られたイタリア人主砲　ＷＢＣに続く因縁に「彼と話をする必要が」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb53103b3f3cb3a31e9af5508bc6cdc4b7640a17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185863-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=905&ch=905&exp=10800&fmt=webp> イスラエルで大規模デモ ガザ停戦や人質の解放を求める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185863-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=905&ch=905&exp=10800&fmt=webp> イスラエルで大規模デモ ガザ停戦や人質の解放を求める
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c2a11c71c320834bb4854c9a8959489f70f6d50558d86c999705377e9868d4e3.jpg> 最悪首相出せなくなる 自民危機感
+      <a href=https://news.yahoo.co.jp/pickup/6543893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島で震度4 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/efbfcf5ce839da00f0bb8a4a342d621c951f0281d23dfd89af70b83cbfb9d00d.jpg> 30以上の都道府県警でなり手不足
+      <a href=https://news.yahoo.co.jp/pickup/6543889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c2a11c71c320834bb4854c9a8959489f70f6d50558d86c999705377e9868d4e3.jpg> 最悪首相出せなくなる 自民危機感
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 16:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 16:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
