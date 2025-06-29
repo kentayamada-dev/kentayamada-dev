@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f55617aebe2cb131a0b8eb290c2e0460.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/efa471ebc1cc36cda930eafa26dc70aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/815ba914a71b9fb8fa84876470a3d66a840321b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国　日本産水産物の輸入を再開　ただし福島など10都県産は対象外
+      <a href=https://news.yahoo.co.jp/articles/66170b94b8232668f0f06dc07abd2c224b144d6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-06291310-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が登板翌日も「１番ＤＨ」でスタメン入り　２戦ぶり本塁打で自己最速の３０号なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8e78798c6630012b04f8a96963f3e2630bae209>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010873-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/259baf98d2c5be89aa0cb194d73949a0b520f9cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-22010880-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岐阜県で最大震度1の地震　岐阜県・飛騨市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/052449155ec89fa55efd3bf4877b582ae125e2d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000178-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 記者の目　見逃せない新たな持ち球　ドジャース・大谷翔平の〝縦スラ〟
+      <a href=https://news.yahoo.co.jp/articles/4764777011a4c67a149aa1493705e4aed63ded0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01832293-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 胸に刃物が刺さった19歳女性の遺体 殺人事件として捜査　愛知・豊田市
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/80eba94136b2deb1c83c2ee6209f7ccd08c0af0b51a9f910f17145868a16477a.jpg> 萩生田氏の秘書に「起訴相当」
+      <a href=https://news.yahoo.co.jp/pickup/6543937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/f62597779f633e857df353bd39db845602669798ffe91ff121ba3703a2842344.jpg> 森山幹事長「消費税守り抜く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c40f037a3e7d2a9d1bec5a0edac10849e3ea27e5fda12dfe4227e6f8502c7457.jpg> 上昇基調の世界株 今後の展開は
+      <a href=https://news.yahoo.co.jp/pickup/6543940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e99497e86aeb2978f1734a081db0dbc9db1abb4167ec05aae5c587fc8b2520c4.jpg> 刃物刺さった女性遺体 殺人で捜査
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 23:51:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/30 00:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
