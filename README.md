@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c62abc49a909ae64ca949c42bd2a937.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0115b7003c35ee3464823f2e1363427.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ed01b8cd5cb25cb15df0aa2a34a8dd66e0e06a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010509-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村などで最大震度3 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/64273e4c73c6ccb6e5514c403c9ecac74e5b6bd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010537-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb53103b3f3cb3a31e9af5508bc6cdc4b7640a17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185863-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=905&ch=905&exp=10800&fmt=webp> イスラエルで大規模デモ ガザ停戦や人質の解放を求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/285fc68c53d84646864e2c8df46f6a2da7c2278d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000383-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 瀬戸麻沙美、立ち位置間違えるもしんちゃんが優しくエスコート　映画は「今でも思い出に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18c295424830d175e1a41ec9ce3c490a599d922d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=1618&ch=1618&exp=10800&fmt=webp> 「なんなんだ？（私だけに最速球を投げる）オオタニと一度話し合いたい」大谷翔平のメジャー移籍後最速の163.7キロで併殺打のロイヤルズ4番打者が過去の因縁を告白して“クレーム”つける？！
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca442b95953560a07e4f4684ca4d89efda06fbda>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000001-jij_graph-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=604&ch=604&exp=10800&fmt=webp> 【図解】最後のH2A、打ち上げ成功＝衛星「いぶきGW」搭載―50号機、有終の美
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd62a46bbb99d04465a1f1d5c541d6db3ef4876>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000065-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1371&ch=1371&exp=10800&fmt=webp> 新婚の小峠英二をクレヨンしんちゃんが祝福「ケッコンおめでとー」　楽しみは「手料理」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14d96c46dd786a4ec07ee1a3de4ced7a9b758dd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-05732753-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「気持ちが先行して」大谷翔平　メジャー自己最速の心境とは？手術後の感覚は「1回目よりすごく良い」
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4dce49e5ee8e68a08c916f6882199099d643f843c510e4e8624a6f196920867e.jpg> 大谷 球速自然に上がってしまった
+      <a href=https://news.yahoo.co.jp/pickup/6543881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/87236b0e38a131d911ca1cface642fc3aca590855fe53c38a852c1edf3c489d9.jpg> 小峠 結婚発表後初の公の場
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 15:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 15:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
