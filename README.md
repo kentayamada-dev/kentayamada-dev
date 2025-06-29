@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/067817ad61a0933c6013bed30e78f07e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a96eafb8be99af3d3d595fb5e946448.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5023baa5fa60bde8d1bfb7c4f6a1cf9eeb9cf72c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 萩生田氏秘書「起訴相当」　東京第5検審議決、自民裏金事件
+      <a href=https://news.yahoo.co.jp/articles/ca6a87c8e5d3782cc8c98607a17d49c181c4ad4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06291219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が覆した”術後の常識”　リハビリの舞台裏をトレーナーが証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/837adf377bd9c22560a8267bbe033edb0babc83a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000015-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=546&ch=546&exp=10800&fmt=webp> 「ドーンという地鳴り音でいつも目覚める」トカラ列島近海の地震、不安募る住民　29日は震度4が3回、累計610回超に
+      <a href=https://news.yahoo.co.jp/articles/29bcb86c957e5806f81171d591b40a8d8923bca1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010856-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de3c4146d0db3356a8956741a206e1dbb3b0ff37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01567726-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平とのバッテリーは「いつだって楽しい」ドジャース若き相棒が“2種類”のスライダーを絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e090e04e15f6092829a9fbc11d675c2e9fadd13c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000013-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=354&cw=1212&ch=1212&exp=10800&fmt=webp> 成功率は世界トップ、でもいくつか弱みが…日本の主力ロケット「H2A」から「H3」に　低コスト化以外にも国際市場で必要な「進化」
+      <a href=https://news.yahoo.co.jp/articles/aad37e02f5b0f72e09716a2095c5071b06e46175>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000153-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=1577&ch=1577&exp=10800&fmt=webp> ロッテ戦で話題　なぜ「肉体的援助」？名称変更検討の議論も　元審判員が明かす
       </a>
     </td>
   </tr>
@@ -434,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/6e8e8038702fa5598dfec411746c1b34339aab482da5655e8cb547969f31e732.jpg> 放置子 他人の家で夕飯ねだる子も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/eb90674e9082002c9a126c6afe358f6c139999f93b1bfd5a12848247e031ab6f.jpg> 万引全て賠償請求 ユニクロの姿勢
       </a>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/df87d2de845063a71d9007d2761cc299429b78a809b6cfc5775cf5c0e2a87613.jpg> O型や黒い服 蚊に刺されやすい?
+      <a href=https://news.yahoo.co.jp/pickup/6543933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9b0212cb877dd2a2684e60770ca1ab7768fcc0c11c9e995b4c771d21497f4a4a.jpg> ロッテ痛恨 肉体的援助でアウト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/0ce2dd772e5e804917cfd3a2e292e2d483c1cd3fbd2cf62cbe98b480275d5731.jpg> 森保監督 浦和勢の招集を見送りへ
+      <a href=https://news.yahoo.co.jp/pickup/6543934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ba6f2e5653d4f83766164ab0cfc45910d19e48829b28ecc82ab6acf8f2efab56.jpg> peco 太っててなにがアカンの
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e9550bdb97f630be4b80e6bb2e74538c6d3f50668c66b8b4b396ac0d5650f05.jpg> 及川光博の公演 開場6分前に延期
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 22:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 23:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
